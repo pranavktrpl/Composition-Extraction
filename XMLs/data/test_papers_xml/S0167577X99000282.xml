@@ -1,0 +1,563 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167577X99000282</prism:url><dc:identifier>doi:10.1016/S0167-577X(99)00028-2</dc:identifier><eid>1-s2.0-S0167577X99000282</eid><prism:doi>10.1016/S0167-577X(99)00028-2</prism:doi><pii>S0167-577X(99)00028-2</pii><dc:title>The impact toughness characteristics of steel wire-reinforced polymer composites </dc:title><prism:publicationName>Materials Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>0167577X</prism:issn><prism:volume>39</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>324</prism:startingPage><prism:endingPage>328</prism:endingPage><prism:pageRange>324-328</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1999-06-30</prism:coverDate><prism:coverDisplayDate>June 1999</prism:coverDisplayDate><prism:copyright>Copyright © 1999 Elsevier Science B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier Science B.V.</prism:publisher><dc:creator>Srivatsan, T.S</dc:creator><dc:creator>Lam, P.C</dc:creator><dc:creator>Krause, J</dc:creator><dc:description>
+                  In this paper, the impact toughness properties of fine steel wire-reinforced polymer matrix composites is presented and discussed. Strips of the polymer composite is attached on to a standard Charpy V-notch impact specimen. Temperature influences, in the range from cryogenic (−190°C) to ambient (30°C) on the impact toughness properties of the polymer composites are highlighted in light of energy absorbed and macroscopic fracture behavior of the dynamically deformed samples.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Metal–polymer composites</dcterms:subject><dcterms:subject>Steel</dcterms:subject><dcterms:subject>Impact toughness</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167577X99000282" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167577X99000282" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="64" height="93" size="1083">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="329" height="479" size="12527">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="77" size="1163">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="322" height="198" size="4051">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr2.gif?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="77" size="1766">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="329" height="203" size="9585">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr3.gif?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="77" size="1782">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="319" height="197" size="9706">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr4.gif?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="80" size="2339">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="329" height="210" size="13124">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr5.gif?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="61" size="3955">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="261" size="67470">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X99000282-gr6.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>0032636327</scopus-id><scopus-eid>2-s2.0-0032636327</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0032636327" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271572</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="19990629">1999-06-29</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="19990629">1999-06-29</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-26T19:37:59</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167577X99000282</xocs:eid>
+      <xocs:pii-formatted>S0167-577X(99)00028-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167577X99000282</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0167-577X(99)00028-2</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167577X00X00602</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T05:01:34.71975-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19990601</xocs:date-search-begin>
+      <xocs:date-search-end>19990630</xocs:date-search-end>
+      <xocs:year-nav>1999</xocs:year-nav>
+      <xocs:indexeddate epoch="930614400">1999-06-29T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast footnotes primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-577X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0167577X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>39</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>39</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 39, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>324</xocs:first-fp>
+      <xocs:last-lp>328</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>324</xocs:first-page>
+         <xocs:last-page>328</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>199906</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 1999</xocs:cover-date-text>
+      <xocs:cover-date-start>1999-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>1999-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>1999</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1999 Elsevier Science B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>IMPACTTOUGHNESSCHARACTERISTICSSTEELWIREREINFORCEDPOLYMERCOMPOSITES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SRIVATSAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Test specimen, material and procedures</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>JOZEF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>471</xocs:ref-first-fp>
+            <xocs:ref-last-lp>472</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SRIVATSANX1999X324</xocs:refkey3>
+         <xocs:refkey4lp>SRIVATSANX1999X324X328</xocs:refkey4lp>
+         <xocs:refkey4ai>SRIVATSANX1999X324XT</xocs:refkey4ai>
+         <xocs:refkey5>SRIVATSANX1999X324X328XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-577X(99)00028-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167577X99000282</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167577X99000282</xocs:eid>
+         <xocs:doi>10.1016/S0167-577X(99)00028-2</xocs:doi>
+         <xocs:cid>271572</xocs:cid>
+         <xocs:timestamp>2010-09-25T06:53:43.556778-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1999-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>1999-06-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/MAIN/application/pdf/a45b4565c14cb533bd98c3857544667a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/MAIN/application/pdf/a45b4565c14cb533bd98c3857544667a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>383331</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167577X99000282-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/PREVIEW/image/png/11cefaca308793df86de3095f523c2ee/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/PREVIEW/image/png/11cefaca308793df86de3095f523c2ee/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>53922</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr1/THUMBNAIL/image/gif/85abc3019d1a535ec1ea78cf0fbd4eff/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr1/THUMBNAIL/image/gif/85abc3019d1a535ec1ea78cf0fbd4eff/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1083</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>64</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr1/DOWNSAMPLED/image/gif/83ae99bce5855209ead372faad99e1ad/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr1/DOWNSAMPLED/image/gif/83ae99bce5855209ead372faad99e1ad/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>12527</xocs:filesize>
+               <xocs:pixel-height>479</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr2/THUMBNAIL/image/gif/b57eb4e90b364befe4bb1f440ee06678/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr2/THUMBNAIL/image/gif/b57eb4e90b364befe4bb1f440ee06678/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1163</xocs:filesize>
+               <xocs:pixel-height>77</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr2/DOWNSAMPLED/image/gif/66da3585295945888830dee7b41cb20f/gr2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr2/DOWNSAMPLED/image/gif/66da3585295945888830dee7b41cb20f/gr2.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>4051</xocs:filesize>
+               <xocs:pixel-height>198</xocs:pixel-height>
+               <xocs:pixel-width>322</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr3/THUMBNAIL/image/gif/9b81f6067108b5464399cb69bf5c1c64/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr3/THUMBNAIL/image/gif/9b81f6067108b5464399cb69bf5c1c64/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1766</xocs:filesize>
+               <xocs:pixel-height>77</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr3/DOWNSAMPLED/image/gif/d44ccc1b9d8105f3f0095ab864fa2340/gr3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr3/DOWNSAMPLED/image/gif/d44ccc1b9d8105f3f0095ab864fa2340/gr3.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>9585</xocs:filesize>
+               <xocs:pixel-height>203</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr4/THUMBNAIL/image/gif/85f4294dbfbce9da3507ef81732202af/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr4/THUMBNAIL/image/gif/85f4294dbfbce9da3507ef81732202af/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1782</xocs:filesize>
+               <xocs:pixel-height>77</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr4/DOWNSAMPLED/image/gif/ec4d301489272fdcda784b2dae7004ad/gr4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr4/DOWNSAMPLED/image/gif/ec4d301489272fdcda784b2dae7004ad/gr4.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>9706</xocs:filesize>
+               <xocs:pixel-height>197</xocs:pixel-height>
+               <xocs:pixel-width>319</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr5/THUMBNAIL/image/gif/80466f45eacc4f072e5b1115f01701be/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr5/THUMBNAIL/image/gif/80466f45eacc4f072e5b1115f01701be/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2339</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr5/DOWNSAMPLED/image/gif/e7e8c4ebb8c64b032d88aacb26c3fe5a/gr5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr5/DOWNSAMPLED/image/gif/e7e8c4ebb8c64b032d88aacb26c3fe5a/gr5.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>13124</xocs:filesize>
+               <xocs:pixel-height>210</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr6/THUMBNAIL/image/gif/480982c36141ed876947bfd672cb59e7/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr6/THUMBNAIL/image/gif/480982c36141ed876947bfd672cb59e7/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3955</xocs:filesize>
+               <xocs:pixel-height>61</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X99000282-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X99000282/gr6/DOWNSAMPLED/image/jpeg/da1854bfcf807941c86145e624d46c8b/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X99000282/gr6/DOWNSAMPLED/image/jpeg/da1854bfcf807941c86145e624d46c8b/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>67470</xocs:filesize>
+               <xocs:pixel-height>261</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>MLBLUE</jid>
+            <aid>2366</aid>
+            <ce:pii>S0167-577X(99)00028-2</ce:pii>
+            <ce:doi>10.1016/S0167-577X(99)00028-2</ce:doi>
+            <ce:copyright year="1999" type="full-transfer">Elsevier Science B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The Charpy impact composite specimen: (a) with eight steel wire reinforcements, (b) with 16 steel wire reinforcements.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Influence of test temperature on impact toughness of the base material: carbon steel 1018 – cold finished.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Influence of test temperature on impact toughness of the composite sample [base material+polymer–steel wire composite (Type A)].</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="FIG4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Influence of test temperature on impact toughness of the composite sample [base material+polymer–steel wire composite (Type B)].</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="FIG5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">A two-dimensional representation comparing the impact fracture toughness of the base material with the steel wire reinforced composite strips at the different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="FIG6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Scanning electron micrographs of the fracture surface of the base material (1018-CF) showing features reminiscent of locally ductile failure.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Impact test results on fine steel wire-reinforced polymer composite</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Number of wires</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col3" nameend="col6" rowsep="1">Impact toughness (N m)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col3" nameend="col6" rowsep="1">Temperatures</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−190°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−70°</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30°C</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1018 (CF)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nil</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1018 (CF)+Type A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">14</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1018 (CF)+Type B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">14</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">14</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">Results are the mean values based on duplicate tests.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>The impact toughness characteristics of steel wire-reinforced polymer composites</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>T.S</ce:given-name>
+                  <ce:surname>Srivatsan</ce:surname>
+                  <ce:cross-ref refid="CORR1">*</ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P.C</ce:given-name>
+                  <ce:surname>Lam</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J</ce:given-name>
+                  <ce:surname>Krause</ce:surname>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Mechanical Engineering, The University of Akron, Akron, OH 44325-3903, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="CORR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Presently with LUK, Wooster, OH, USA.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="11" month="3" year="1998"/>
+            <ce:date-accepted day="23" month="11" year="1998"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">In this paper, the impact toughness properties of fine steel wire-reinforced polymer matrix composites is presented and discussed. Strips of the polymer composite is attached on to a standard Charpy V-notch impact specimen. Temperature influences, in the range from cryogenic (−190°C) to ambient (30°C) on the impact toughness properties of the polymer composites are highlighted in light of energy absorbed and macroscopic fracture behavior of the dynamically deformed samples.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Metal–polymer composites</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Steel</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Impact toughness</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Layers of high strength, high modulus steel cords, embedded in a soft, ductile and plastically deforming matrix is an attractive and viable technique for achieving significant enhancements in both stiffness and strength of the soft composite matrix, while concurrently making their mechanical response macroscopically anisotropic <ce:cross-ref refid="BIB1">[1]</ce:cross-ref>. Of the several competing reinforcement choices, fine steel cord is often an important reinforcement for a wide spectrum of polymeric materials including rubber and its current use exceeds 1 million tons per year throughout the world <ce:cross-ref refid="BIB2">[2]</ce:cross-ref>. For example, the growing need for reducing the weight of a radial tire culminated in a need for developing steel cords having attractive combinations of strength, stiffness and damage tolerance.</ce:para>
+                  <ce:para view="all">A comprehensive study of the ability of the polymer matrix composite to withstand stresses in the presence of a defect or flaw is the fundamental basis of fracture mechanics. Under dynamic loading conditions the resistance of the polymer–metal wire composite to fracture in the presence of a flaw is its impact toughness. In this study, the fracture toughness of an impact specimen having a 45 degree V-notch of 2 mm depth and a root radius of 0.2 mm is quantified in terms of the energy absorbed by the material upon dynamic loading, achieved from impact by a falling pendulum, and to catastrophic failure. In the presence of a well-defined notch, the crack growth toughness of the material is dependent on the conjoint and mutually interactive influences of the following: (a) modifications in material composition to minimize segregation, and innovative and novel processing (primary and secondary) techniques to minimize processing-related defects; (b) the deformation characteristics of the microstructure. For ductile solids the occurrence of localized deformation at and around the vicinity of the crack tip coupled with a microstructure which promotes crack tip blunting and bifurcation is beneficial to improving impact toughness; (c) thick sections conforming to plane strain condition have lower critical fracture toughness than thin sections conforming to requirements of plane stress; (d) increasing the rate of loading or strain rate, has a detrimental influence on toughness; and (e) decreasing the test temperature reduces both strength and toughness.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Test specimen, material and procedures</ce:section-title>
+                  <ce:para view="all">The Charpy impact test uses a 50×10×10 mm<ce:sup loc="post">3</ce:sup> sample with a 45° V-notch and a 0.125 mm notch root radius has proven itself to be an attractive, viable and a cost-effective technique that finds wide application for the purposes of determining the impact toughness properties of monolithic materials and even their composite counterparts. The toughness of the material being equivalent to the amount of energy it can absorb prior to catastrophic failure. Steel wire-reinforced polymer composite specimens of appropriate size [50×10×2 mm<ce:sup loc="post">3</ce:sup> (thickness)] were glued on to a standard Charpy V-notch sample. The difference in energy absorbed-to-failure between the plain CVN sample and a composite sample (polymer composite sheet glued on to a metal sample) was used as a measure of the relative impact resistance of the steel wire-reinforced polymer composite.</ce:para>
+                  <ce:para view="all">The adhesive chosen was a two-part epoxy (type: J.B. Weld) which is widely used for purposes of gluing metal-onto-metal. The steel wire-reinforced polymer composite strips were adhered to the base metal on the side containing the notch. Problems associated with pull-out of the steel wires from the soft polymer matrix were obviated by curing the polymer/steel wire composite specimen in an oven so as to facilitate proper bonding of the reinforcement to the soft polymer matrix. A notch was carefully machined in the composite to maintain continuity with the notch in the base material. For this purpose a bench grinder was used to grind the notch at an angle of 45° with the edge of the grinding disc. The base material chosen was a low strength steel (type: carbon steel 1018 – cold finished).</ce:para>
+                  <ce:para view="all">Two different polymers (referred to in this manuscript as: Type A and Type B) each having steel wire reinforcement were chosen. Each polymer had both the eight fine steel wire reinforcements embedded in the matrix, and 16 steel wire reinforcements embedded in the polymer matrix. In all four polymer matrix composites were deformed under conditions of impact loading. Strips of each polymer composite, of appropriate size (50×10×2 mm<ce:sup loc="post">3</ce:sup>), were carefully glued, using an epoxy-based adhesive, on to the base material [carbon steel 1018-CF (cold finished)] (<ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="FIG1"/>). Impact tests were done at temperatures of 30°C (room temperature), 0°C (environment of ordinary ice), −70°C (environment of dry-ice), and −190°C (immersion in an environment of liquid nitrogen). The lower test temperatures simulating extreme conditions of winter and Alaskan-type of environment. At each temperature the test samples were exposed (soaked) for 60 min so as to achieve stability with the temperature.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">The impact test data is summarized in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="TBL1"/>. The results reported are the mean values based on duplicate tests. The test data is used to present variations of temperature influences on impact toughness (<ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="FIG2"/>
+                     <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="FIG3"/>
+                     <ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="FIG4"/>). These figures reveal that decreasing the test temperature results in a concurrent degradation in the impact toughness of both the base material (1018-CF) and the fine steel wires-reinforced polymer matrix. In general, at each test temperature the impact toughness (quantified in terms of energy absorbed (N m) to fracture or failure) of the polymer matrix reinforced with eight fine steel wires (<ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>) and 16 steel wires (<ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>) was greater than that of the base material (1018-CF) (<ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>), for both polymer Type A and Type B. The difference in the impact toughness of the polymer matrix reinforced with eight and 16 steel wires was at best marginal at all test temperatures. Essentially, little difference in the impact toughness value was evident between the two polymers. A comparison of the dynamic toughness of the chosen polymer composites with the base material is shown in <ce:cross-ref refid="FIG5">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="FIG5"/>.</ce:para>
+                  <ce:para view="all">To rationalize temperature influences on behavior of the polymer-steel wire composite specimens it is essential to establish the underlying mechanisms controlling fracture under conditions of impact loading. At the ambient test temperature (30°C) fracture of the base metal (1018-CF) was predominantly ductile with evidence of plastic deformation and microscopic features comprising a population of voids of varying size and shallow near-equiaxed shaped dimples, reminiscent of fully ductile failure (<ce:cross-ref refid="FIG6">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="FIG6"/>). A considerable amount of deformation, through constriction at the root of the notch was evident. However, at the lower (cryogenic) test temperatures (−70°C and −190°C) fracture of the base material revealed features reminiscent of limited ductility mechanisms, namely: numerous microscopic cracks and tear ridges with little evidence of the formation and presence of voids and dimples (<ce:cross-ref refid="FIG6">Fig. 6</ce:cross-ref>).</ce:para>
+                  <ce:para view="all">The eight steel wires-reinforced polymer composite specimen exhibited limited plastic deformation at the ambient temperature. However, at the cryogenic temperatures (−70°C and −190°C) ductility was limited at both the macroscopic and microscopic levels and aided by failure of the glue and decohesion of the steel wire-reinforced polymer composite strip from the base 1018-CF material. For the 16 steel wire composite plastic deformation was evident at ambient temperature (30°C). At the lower test temperatures (−70°C and −190°C) failure of the 16 steel wire reinforced matrix occurred primarily through failure of the glue and separation of the polymer composite strip from the base material. A visual comparison of the fracture morphology, at the different temperatures, of the eight wire and 16 steel wire-reinforced polymer matrix revealed a distinct change in macroscopic fracture mode from: (a) ductile with total separation and failure of both the polymer–steel wire composite and the base material, to (b) predominantly brittle with failure of the base material and decohesion of the polymer matrix composite strip from the base material at the cryogenic temperatures.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">The results of this study on an experimental evaluation of the impact toughness properties of steel wire-reinforced polymer matrix provides the following observations.</ce:para>
+                  <ce:para view="all">(a) The lower bound in ductile-to-brittle transition temperature (DBTT) was for the base material (steel 1018-CF) and the composite samples (base material+steel wires-reinforced polymer strip) determined to be around 25°C. This implies that below this temperature failure of both the base material (carbon steel 1018-CF) and that of the composite samples occurs in a brittle mode. At temperatures above the transition temperature the composite samples shows macroscopic features reminiscent of locally ductile failure.</ce:para>
+                  <ce:para view="all">(b) An overall transition temperature could not be established for the composite sample. This required the upper boundary of the impact toughness curve to be known, that is the impact properties of both the base material and the composite samples at temperatures higher than the maximum temperature used in this study (30°C).</ce:para>
+                  <ce:para view="all">(c) The impact toughness of the polymer composites and the base material degraded with a decrease in test temperature. For polymer Type A, the toughness of the 16 steel wire-reinforced polymer matrix was inferior to the impact toughness of the eight steel wire-reinforced polymer matrix at 0°C and 30°C with no difference at the lowest temperature (−190°C). No appreciable difference was detected for polymer Type B over the range of temperatures tested.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">The authors gratefully acknowledge the financial support of The University of Akron (Akron, OH, USA) and State of Ohio, Board of Regents (Columbus, OH, USA). The polymer composite samples used in this investigation were provided by Goodyear Tire and Rubber (Program Monitor: Dr. A. Prakash).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>1</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Jozef</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rod requirements for steel cord filaments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wire Industry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>471</sb:first-page>
+                              <sb:last-page>472</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>2</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>T. Takahashi, I. Ochiai, H. Tashiro, S. Ohashi, S. Nishida T. Turai, Strengthening of steel wire for tire cord, Nippon Steel Technical Report Number 64, January 1995, pp. 45–50.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

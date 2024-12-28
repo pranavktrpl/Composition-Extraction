@@ -1,0 +1,2207 @@
+Title:
+Anisotropy study of hydrogen diffusion along different directions of Zr-2.5%Nb alloy pressure tube using neutron imaging
+
+Abstract:
+Hydrogen diffusion studies in Zr-2.5% Nb alloy pressure tube material are important inputs for modeling localized embrittlement phenomenon manifested in pressure tubes. The microstructure of the pressure tube consists of lamellar α-Zr along with the β-phase present as stingers between two alpha laths as well as fine and coarse beta globules. This two-phase microstructure along with a vast difference in diffusivities for the alpha and beta phase necessitates the need for evaluating the diffusion parameters along the three orthogonal directions of the pressure tube. This work focuses on studying the diffusivity values for hydrogen in Zr-2.5%Nb alloy along different pressure tube directions in the temperature range is 250 ˚C -450 ˚C and also correlates it to the microstructure. FEM studies have also been carried out to identify the concentration region that is unaffected by stress imposed due to the presence of a hydride layer. Neutron radiography has been used to study diffusion along the axial, circumferential and radial directions of an as-received un-irradiated pressure tube. It was observed that the diffusion along the axial and circumferential directions is similar while it is slightly lower in the case of radial direction. A theoretical approach has also been followed for evaluating the diffusivity values for the α-Zr and β-Zr phases for the same temperature range.
+
+Keywords:
+Neutron radiography
+Hydrogen diffusion anisotropy
+Zirconium alloys
+
+Acknowledgements:
+Acknowledgments:
+Acknowledgments
+               The author would like to thank Ms. Aishwarya Upadhyay, Ms Pushpalatha (MMD, BARC) for optical imaging and TEM studies and Mr. Baribaddla Ravi, (TPD, BARC) for beamline instrumentation.
+
+Graphical abstract:
+Fig. 1: (a) Log D v/s 1/T plot for three orthogonal directions of pressure tube. (b) Log D vs1/T value for α and β zirconium phases calculated theoretically compared with values from literature. Hydrogen diffusion anisotropy was studied for three orthogonal direction of Zr-2.5%Nb alloy pressure tube. Similar diffusivity values were obtained for axial and circumferential directions while 25–30% less for radial direction. To explain this anisotropy effect of hydride layer induced stress and microstructure & texture of material was considered. It was concluded that microstructure is the main cause of anisotropy of diffusivity. Further the results obtained for radial and axial direction along with known pressure tube microstructure was used to calculate diffusivity for the Alpha-Zr and Beta-Zr phases using the formulation given in the literature for lamellar microstructure. Fig. 1(a) shows the Log D v/s 1000/T plots for three orthogonal pressure tube directions. 1(b) Log D vs1/T value for α and β zirconium phases calculated theoretically compared with values from literature.
+                  
+                     
+                        
+                           Image, graphical abstract
+
+Data availability:
+Data will be made available on request.
+
+Introduction:
+Zirconium alloys are widely used in the nuclear industry as structural materials because of their low neutron absorption cross-section, excellent corrosion resistance and superior mechanical properties. They serve as claddings for fuel assemblies as well as enclosures for pressurized coolant, called pressure tubes (PT) in the case of PHWRs (Pressurized Heavy Water Reactors) [1–7]. Aqueous corrosion in a reactor leads to hydrogen pickup in the components. Hydrogen present in soluble form is not an issue but once the hydrogen concentration exceeds the terminal solid solubility limit at a said temperature, this hydrogen will precipitate as zirconium hydride which is a brittle phase and can lead to reduction on toughness of the material. Further stress and thermal gradient are inevitably present in a reactor and the hydrogen in response to these gradient moves towards areas of high stress and low temperatures. It means not just the total hydrogen concentration but the high diffusivity of hydrogen in zirconium alloys creates issues like DHC (Delayed Hydride Cracking) [8–15] or Blisters. Accurate determination of diffusivity values is therefore important and has been investigated by researchers all over the world on pure zirconium as well as zirconium alloys [16–36]. There has been a wide variation in the values reported and the debate remains on the role of microstructure on it, particularly on the role of the beta phase in two-phase alloys.
+The various alloys used in reactors consist of single α-phase (hcp) zirconium as well as two-phase (α+β) where the α phase is the dominant phase while β is mostly ≤ 10% [37,38]. The hcp structure of zirconium itself leads to anisotropy and it has been shown by DFT calculations that the values of diffusivity along c and a directions are quite different [19]. Two major fabrication routes have been studied for Zr-2.5%Nb alloy pressure tubes: CANDU (Canada Deuterium Uranium) and IPHWR (Indian PHWR). Extensive work has been carried out for CANDU PT while few studies have been reported for IPHWR. Khatamian [32] based on his investigation using CANDU PT material suggested a 20% variation in radial and axial direction values. Sawatsky [35] inferred variation of diffusivity among various alpha-beta alloys and also developed a theoretical model to explain it. However recent studies by McRae [34] suggested that a single diffusivity relation can be used for all zirconium alloys and the variations observed are within a 20% scatter as seen for diffusivity values. For IPHWR tubes data has only been reported for axial direction by Shrivastava [21] and Shukla [22] in the temperature range of 250 °C-450 °C. Recently, Santisteban [36] carried out studies on Zr-2.5%Nb alloys along rolling and radial directions and reported that diffusivity values for samples of the same composition but different microstructures or even samples from the same specimen along different directions can be largely different.
+Cold worked and stress-relieved (CWSR) tubes of Zr-2.5Nb alloy used in IPHWRs are manufactured by a route [38] similar to modified route II developed by AECL (Atomic Energy of Canada Limited) [39
+                     ]. The determination of diffusion coefficient along different directions for the Zr-2.5%Nb alloy pressure tubes is required for a better understanding of the hydrogen migration and hence is technologically important. This necessitates diffusivity measurements for three orthogonal directions for the IPHWR tube and this work aims to study that. We carried out studies for diffusivity parameter determination along the axial direction of the pressure tube in our previous study [22]. This work is a continuation of the previous study and includes the determination of diffusivity along the other two directions namely circumferential and radial. The material used was the same but warm-rolled to generate specimens along the circumferential direction. In this work, we present H diffusion studies in Zr-2.5%Nb alloy along different pressure tube directions in the temperature range 250–450 °C. The samples were prepared by depositing a hydride layer on one end and then annealing at a temperature in the aforementioned range to allow the hydrogen to diffuse in the matrix. The hydrogen diffusion profiles were mapped using neutron imaging and the data fit using solutions of the diffusion equation to evaluate diffusivity parameters. We also carried out FEM (Finite Element Modeling) studies to investigate any effect of stress induced by the hydride layer on the hydrogen diffusivity parameters. Microstructure and texture studies were done to explain the anisotropy observed in diffusivities. Further, we also propose the evaluation of diffusivity for the alpha and beta phases from the diffusivity values along different pressure tube directions and the microstructure.
+
+Experimental:
+In the present study, hydrogen diffusivity along three principal directions in a 220 MWe (double melted old route) IPHWR tube was investigated, the composition of which is given in Table 1
+                     . The three sections of the pressure tube are shown schematically in Fig. 1
+                     . The tube used was an as-fabricated tube and had no exposure to reactor environment.
+Neutron radiography was used for diffusion studies while microstructural studies including SEM (Scanning Electron Microscopy), TEM (Transmission Electron Microscopy) and EBSD (Electron Back Scatter Diffraction) were carried out to explain the deviations observed. This section includes the details of sample preparation and the experiment conducted.
+2.1
+                     Sample preparation for diffusion studies along three directions
+                     Diffusion samples for all three directions have been prepared from the same tube and the same method of hydride formation and post-annealing. For the study along the axial direction [22], samples of size (40 mm x 10 mm x 3.7 mm) were extracted from the as-received pressure tube using a low-speed diamond saw. To prepare samples in the circumferential and the radial direction, the pressure tube was split in half and warm rolled along the axial direction at 400 °C for 45 min to flatten it to a plate. During flattening the thickness was reduced to 3.2 mm. It was annealed at 400 °C for 24 h to relieve any stresses developed during the rolling process. It may be noted that the microstructure for the warm rolled tubes has been extensively studied and is found quite similar to the reported microstructures of the as-fabricated pressure tubes indicating that no change has been done during the flattening process [37–39].
+                     After flattening, samples of size 40 mm x 10 mm x 3.0 mm (reduced thickness of pressure tube flattened plate) for diffusivity measurement along circumferential direction and size 10 mm x 10 mm x3.0 mm were extracted from the plate using a low-speed diamond saw for diffusivity measurement along the radial direction. The method of diffusion sample preparation included forming a hydride layer on one face using the standard electrolytic charging method [41]. The sample was subsequently annealed at pre-determined temperatures to obtain a hydrogen concentration profile. For more details on sample preparation refer [22]. For the hydrogen diffusivity measurement along the circumferential direction, all samples were annealed for 100 h while for the measurements along the radial direction at 300 ˚C, 330 ˚C, 350 ˚C, 380 ˚C and 400 ˚C the samples were annealed for 140, 105, 90, 65 and 40 min, respectively. The samples were air-cooled after annealing.
+2.2
+                     Sample preparation for microstructural studies
+                     Samples of the three sections of the pressure tube were extracted for microstructural analysis from the as-received tube, again using a low-speed diamond saw, as shown in Fig. 1. This was followed by standard metallographic surface preparation using successively finer grades of emery papers and diamond suspensions. For Scanning Electron Microscopy (SEM) based imaging, a final polishing step using 40 nm colloidal silica was employed. For characterization using Electron Backscattered Diffraction (EBSD), this was followed by etching at room temperature with an etchant composed of 45% each by volume of distilled water and nitric acid and 5% by volume of hydrofluoric acid. The micrographs in the SEM were obtained in backscattered mode (BSD) at 20 kV accelerating voltage, while the EBSD mapping was carried out using an Oxford detector and the associated software. Transmission Electron Microscopy (TEM) was carried out using a Carl Zeiss Libra ® microscope, operating at 200 kV. The samples for TEM investigation were prepared by standard sample preparation technique comprising slicing using a low-speed diamond saw, followed by mechanical thinning and finally, twin electro-jet polishing.
+2.3
+                     Neutron imaging studies
+                     Neutron imaging has emerged as an excellent tool for hydrogen estimation studies in metals, particularly of reactor importance [41–44]. The attenuation of the neutron beam while passing through the sample can provide the bulk distribution of hydrogen in it. This becomes possible because the neutron attenuation in metal and metal hydrides differ by order of magnitude, making it possible to detect even small amounts of hydrogen in metal. This property has been utilized, and neutron imaging has been used not only for hydrogen estimation but also to determine the parameters involved in the hydrogen diffusion in the metal matrix [18,22,29,36,41–44]. With better flux and beam characteristics, this technique is now used for hydrogen estimations as low as 5 wt ppm with a spatial resolution of 20 μm [18]. The subsequent sections give a brief overview of the principle of neutron imaging and the experimental procedure details.
+                     
+                        2.3.1
+                        Theory
+                        The contrast in neutron radiography is achieved because of difference in neutron transmission. This transmission function T(x,y) can be defined as the ratio of both the image taken with the sample I(x,y) and image taken without sample Io(x,y) both corrected by background image taken in absence of beam ID(x,y) [45,46].
+                              
+                                 (1)
+                                 
+                                    
+                                       T
+                                       
+                                          (
+                                          
+                                             x
+                                             ,
+                                             y
+                                          
+                                          )
+                                       
+                                       =
+                                       
+                                          
+                                             I
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             −
+                                             
+                                                I
+                                                D
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                          
+                                          
+                                             
+                                                I
+                                                o
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             −
+                                             
+                                                I
+                                                D
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                       =
+                                       exp
+                                       
+                                          (
+                                          
+                                             −
+                                             
+                                                
+                                                   Σ
+                                                
+                                                
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             .
+                                             z
+                                          
+                                          )
+                                       
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        The transmission in a radiograph is a function of sample thickness (z) along beam direction and also the attenuation coefficient Σ of the material. The attenuation coefficient is a function of neutron energy and can be obtained from Eq. (2) as
+                              
+                                 (2)
+                                 
+                                    
+                                       
+                                          Σ
+                                       
+                                       =
+                                       
+                                          
+                                             −
+                                             ln
+                                             
+                                                (
+                                                
+                                                   
+                                                      I
+                                                      −
+                                                      
+                                                         I
+                                                         D
+                                                      
+                                                   
+                                                   
+                                                      
+                                                         I
+                                                         O
+                                                      
+                                                      −
+                                                      
+                                                         I
+                                                         D
+                                                      
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                          z
+                                       
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        Where I, ID and Io correspond to median averaged images.
+                     
+                     
+                        2.3.2
+                        Neutron imaging experiments
+                        Neutron radiography studies of the diffusion samples were carried out at the thermal neutron imaging Beamline HS-3018, Dhruva using a Li6F-ZnS scintillator of area 100mmX100mm and thickness 100 µm and cooled CMOS detector (2kX2k) [47]. With a thermal neutron flux of 4 × 107 n/cm2/s at the sample location and L/d ratio of 160 the ultimate resolution achieved was 100 μm. The effective pixel size is 45μm and FOV (Field of View) was 80 mm x 80 mm. The diffusion samples were mounted on an aluminum holder placed at a 15 mm distance from the detector. This distance was optimized to minimize scattering effects [43]. For the diffusion studies to reduce the uncertainty in transmission values 30 images of 30 s exposures were median averaged. For neutron radiography studies averaging was done in the direction perpendicular to hydrogen diffusion for better signal to noise ratio. Calibration studies were carried out using 8 samples of known hydrogen concentration prepared from the same tube. The hydrogen concentration of the samples was measured using the IGF (Inert Gas Fusion) technique and a calibration curve was generated. The calibration curve was
+                              
+                                 (3)
+                                 
+                                    
+                                       H
+                                       
+                                          (
+                                          wppm
+                                          )
+                                       
+                                       =
+                                       
+                                          (
+                                          
+                                             5435
+                                             ±
+                                             170
+                                          
+                                          )
+                                       
+                                       
+                                          
+                                             w
+                                             p
+                                             p
+                                             m
+                                          
+                                          
+                                             c
+                                             
+                                                
+                                                   m
+                                                
+                                                
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                       
+                                       .
+                                       
+                                       
+                                          Σ
+                                       
+                                       
+                                          (
+                                          
+                                             c
+                                             
+                                                
+                                                   m
+                                                
+                                                
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                          )
+                                       
+                                       −
+                                       
+                                          (
+                                          
+                                             1136
+                                             ±
+                                             17
+                                          
+                                          )
+                                       
+                                       w
+                                       p
+                                       p
+                                       m
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           Eq. (3) has been achieved considering the linear relationship between the H content and attenuation coefficient determined using neutron imaging. Additional details of the calibration procedure can be found in ref [22]. This eqn does not hold true for hydride region shown in Fig. 2
+                           (b).
+                        The resolution in wppm obtained by performing the calibration experiment can also be justified using the approach used by Buitrago et al. [18]. Considering that the attenuation coefficient for the hydride will be 2-3cm−1 for a neutron wavelength of 1–2 Å (for a thermal neutron imaging beamline), it can be seen that if a neutron beam is traversing a sample of dimension 10 mm the change in specimen transmission must be 0.00085 for 5wppm of hydrogen. The statistical uncertainty in measured transmission for current experiments is 0.003 indicating a minimum resolution of 17–18wppm.
+2.4
+                     Analysis of diffusion profiles
+                     The hydrogen concentration v/s depth data for the radial samples resemble the one shown in Fig. 2. For revealing the three regions namely the hydride layer, transition region and diffusion region log-log scale has been used. Fig. 2(a) shows the optical micrograph while the data obtained from the radiography image of the diffusion sample (diffusion along radial direction annealed at 653 K) is shown in Fig. 2(b). It may be noted that the hydrogen concentration shown (in Fig. 2(b)) for the hydride region is not actual as Eq. (3) does not hold true for that region because of multiple scatterings. The image shows the hydride layer extends to about 0.08–0.1 mm from the highest hydrogen concentration point of the hydride layer (measured using the highest attenuation coefficient). Following that is a transition region which ranges from 0.1 to 0.3 mm in which the H concentration decays rapidly. This region can be also be seen in the optical metallograph (Fig. 2(a)) as the region having longer hydrides following the hydride layer. After the transition zone comes the region of interest i.e. the diffusion region which ranges from 0.3 mm to 3.0 mm. In the optical micrograph, this region is seen as small delta hydrides whose length and density decrease as we move away from the hydride layer end.
+                     The diffusion profiles obtained using neutron radiography was fitted with solutions of Fick's second law [33]. This solution requires that the diffusion is independent of the initial H concentration and also the diffusion takes place only along the direction of interest. The condition of an infinite source is mandatory and has been taken care of by creating a hydride layer which does not exhaust during the diffusion process. Now there can be two solutions for this equation depending upon whether the H concentration at the other extremity is equal to zero (or the initial H concentration of the pressure tube used for preparing samples in our case it refers to hydrogen concentration in manufactured pressure tube which is around 12±3 wt ppm)-case of an infinite sample or the condition in which the hydrogen concentration does not go to zero at the other end of the finite sample. The solutions for both cases are given by Eqs. (4) and (5), respectively.
+                           
+                              (4)
+                              
+                                 
+                                    C
+                                    
+                                       (
+                                       
+                                          x
+                                          ,
+                                          t
+                                       
+                                       )
+                                    
+                                    =
+                                    
+                                       (
+                                       
+                                          
+                                             C
+                                             T
+                                          
+                                          −
+                                          
+                                             C
+                                             O
+                                          
+                                       
+                                       )
+                                    
+                                    erfc
+                                    
+                                       (
+                                       
+                                          x
+                                          
+                                             2
+                                             
+                                                Dt
+                                             
+                                          
+                                       
+                                       )
+                                    
+                                    +
+                                    
+                                       C
+                                       O
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    
+                                       
+                                          
+                                             C
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   t
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                       
+                                          =
+                                       
+                                       
+                                          
+                                             
+                                                C
+                                                T
+                                             
+                                             −
+                                             
+                                                
+                                                   4
+                                                   
+                                                      (
+                                                      
+                                                         
+                                                            C
+                                                            T
+                                                         
+                                                         −
+                                                         
+                                                            C
+                                                            O
+                                                         
+                                                      
+                                                      )
+                                                   
+                                                
+                                                π
+                                             
+                                             ∑
+                                             
+                                                
+                                                   
+                                                      
+                                                         (
+                                                         
+                                                            −
+                                                            1
+                                                         
+                                                         )
+                                                      
+                                                   
+                                                   n
+                                                
+                                                
+                                                   2
+                                                   n
+                                                   +
+                                                   1
+                                                
+                                             
+                                             exp
+                                             
+                                                (
+                                                
+                                                   
+                                                      −
+                                                      D
+                                                      
+                                                         
+                                                            
+                                                               (
+                                                               
+                                                                  2
+                                                                  n
+                                                                  +
+                                                                  1
+                                                               
+                                                               )
+                                                            
+                                                         
+                                                         2
+                                                      
+                                                      
+                                                         
+                                                            π
+                                                         
+                                                         2
+                                                      
+                                                      t
+                                                   
+                                                   
+                                                      4
+                                                      
+                                                         
+                                                            l
+                                                         
+                                                         2
+                                                      
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                       
+                                       
+                                          
+                                             cos
+                                             
+                                                (
+                                                
+                                                   
+                                                      
+                                                         (
+                                                         
+                                                            2
+                                                            n
+                                                            +
+                                                            1
+                                                         
+                                                         )
+                                                      
+                                                      π
+                                                      
+                                                         (
+                                                         
+                                                            l
+                                                            −
+                                                            x
+                                                         
+                                                         )
+                                                      
+                                                   
+                                                   
+                                                      2
+                                                      l
+                                                   
+                                                
+                                                )
+                                             
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                     Where,
+                     C0 is the initial hydrogen concentration in the coupons before charging; CT is the maximum hydrogen concentration achieved at charging end corresponds to TSSD (terminal solid solubility of dissolution) at that particular temperature; t is the annealing time; 
+                           l
+                         is the length of specimen and D is the diffusion coefficient.
+                     The C(x,t) v/s depth(x) profiles were fitted using a non-linear least-square fitting procedure using equations (4&5), which are based on the solution of Fick's second law of diffusion for the semi-infinite and finite slab, respectively. For the fitting procedure, C(x,t) and D were kept as free parameters and were obtained by the chi-square minimization procedure in the fitting process. Diffusivity data were fitted in Eq. (6) to obtain the pre-exponential factor and activation energy of the diffusivity equation for Zr-2.5%Nb alloy.
+                           
+                              (6)
+                              
+                                 
+                                    D
+                                    =
+                                    
+                                       D
+                                       O
+                                    
+                                    exp
+                                    
+                                       (
+                                       
+                                          −
+                                          
+                                             
+                                                E
+                                                A
+                                             
+                                             RT
+                                          
+                                       
+                                       )
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                     
+                     
+                        D= diffusion coefficient (m2/s), D0 = pre-exponential factor (m2/s), EA = activation energy for diffusion (kJ/mol), R = universal gas constant (8.314 kJ/mol.K) and T = absolute temperature (K).
+
+Sample preparation for diffusion studies along three directions:
+Diffusion samples for all three directions have been prepared from the same tube and the same method of hydride formation and post-annealing. For the study along the axial direction [22], samples of size (40 mm x 10 mm x 3.7 mm) were extracted from the as-received pressure tube using a low-speed diamond saw. To prepare samples in the circumferential and the radial direction, the pressure tube was split in half and warm rolled along the axial direction at 400 °C for 45 min to flatten it to a plate. During flattening the thickness was reduced to 3.2 mm. It was annealed at 400 °C for 24 h to relieve any stresses developed during the rolling process. It may be noted that the microstructure for the warm rolled tubes has been extensively studied and is found quite similar to the reported microstructures of the as-fabricated pressure tubes indicating that no change has been done during the flattening process [37–39].
+After flattening, samples of size 40 mm x 10 mm x 3.0 mm (reduced thickness of pressure tube flattened plate) for diffusivity measurement along circumferential direction and size 10 mm x 10 mm x3.0 mm were extracted from the plate using a low-speed diamond saw for diffusivity measurement along the radial direction. The method of diffusion sample preparation included forming a hydride layer on one face using the standard electrolytic charging method [41]. The sample was subsequently annealed at pre-determined temperatures to obtain a hydrogen concentration profile. For more details on sample preparation refer [22]. For the hydrogen diffusivity measurement along the circumferential direction, all samples were annealed for 100 h while for the measurements along the radial direction at 300 ˚C, 330 ˚C, 350 ˚C, 380 ˚C and 400 ˚C the samples were annealed for 140, 105, 90, 65 and 40 min, respectively. The samples were air-cooled after annealing.
+
+Sample preparation for microstructural studies:
+Samples of the three sections of the pressure tube were extracted for microstructural analysis from the as-received tube, again using a low-speed diamond saw, as shown in Fig. 1. This was followed by standard metallographic surface preparation using successively finer grades of emery papers and diamond suspensions. For Scanning Electron Microscopy (SEM) based imaging, a final polishing step using 40 nm colloidal silica was employed. For characterization using Electron Backscattered Diffraction (EBSD), this was followed by etching at room temperature with an etchant composed of 45% each by volume of distilled water and nitric acid and 5% by volume of hydrofluoric acid. The micrographs in the SEM were obtained in backscattered mode (BSD) at 20 kV accelerating voltage, while the EBSD mapping was carried out using an Oxford detector and the associated software. Transmission Electron Microscopy (TEM) was carried out using a Carl Zeiss Libra ® microscope, operating at 200 kV. The samples for TEM investigation were prepared by standard sample preparation technique comprising slicing using a low-speed diamond saw, followed by mechanical thinning and finally, twin electro-jet polishing.
+
+Neutron imaging studies:
+Neutron imaging has emerged as an excellent tool for hydrogen estimation studies in metals, particularly of reactor importance [41–44]. The attenuation of the neutron beam while passing through the sample can provide the bulk distribution of hydrogen in it. This becomes possible because the neutron attenuation in metal and metal hydrides differ by order of magnitude, making it possible to detect even small amounts of hydrogen in metal. This property has been utilized, and neutron imaging has been used not only for hydrogen estimation but also to determine the parameters involved in the hydrogen diffusion in the metal matrix [18,22,29,36,41–44]. With better flux and beam characteristics, this technique is now used for hydrogen estimations as low as 5 wt ppm with a spatial resolution of 20 μm [18]. The subsequent sections give a brief overview of the principle of neutron imaging and the experimental procedure details.
+2.3.1
+                        Theory
+                        The contrast in neutron radiography is achieved because of difference in neutron transmission. This transmission function T(x,y) can be defined as the ratio of both the image taken with the sample I(x,y) and image taken without sample Io(x,y) both corrected by background image taken in absence of beam ID(x,y) [45,46].
+                              
+                                 (1)
+                                 
+                                    
+                                       T
+                                       
+                                          (
+                                          
+                                             x
+                                             ,
+                                             y
+                                          
+                                          )
+                                       
+                                       =
+                                       
+                                          
+                                             I
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             −
+                                             
+                                                I
+                                                D
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                          
+                                          
+                                             
+                                                I
+                                                o
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             −
+                                             
+                                                I
+                                                D
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                       =
+                                       exp
+                                       
+                                          (
+                                          
+                                             −
+                                             
+                                                
+                                                   Σ
+                                                
+                                                
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             .
+                                             z
+                                          
+                                          )
+                                       
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        The transmission in a radiograph is a function of sample thickness (z) along beam direction and also the attenuation coefficient Σ of the material. The attenuation coefficient is a function of neutron energy and can be obtained from Eq. (2) as
+                              
+                                 (2)
+                                 
+                                    
+                                       
+                                          Σ
+                                       
+                                       =
+                                       
+                                          
+                                             −
+                                             ln
+                                             
+                                                (
+                                                
+                                                   
+                                                      I
+                                                      −
+                                                      
+                                                         I
+                                                         D
+                                                      
+                                                   
+                                                   
+                                                      
+                                                         I
+                                                         O
+                                                      
+                                                      −
+                                                      
+                                                         I
+                                                         D
+                                                      
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                          z
+                                       
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        Where I, ID and Io correspond to median averaged images.
+2.3.2
+                        Neutron imaging experiments
+                        Neutron radiography studies of the diffusion samples were carried out at the thermal neutron imaging Beamline HS-3018, Dhruva using a Li6F-ZnS scintillator of area 100mmX100mm and thickness 100 µm and cooled CMOS detector (2kX2k) [47]. With a thermal neutron flux of 4 × 107 n/cm2/s at the sample location and L/d ratio of 160 the ultimate resolution achieved was 100 μm. The effective pixel size is 45μm and FOV (Field of View) was 80 mm x 80 mm. The diffusion samples were mounted on an aluminum holder placed at a 15 mm distance from the detector. This distance was optimized to minimize scattering effects [43]. For the diffusion studies to reduce the uncertainty in transmission values 30 images of 30 s exposures were median averaged. For neutron radiography studies averaging was done in the direction perpendicular to hydrogen diffusion for better signal to noise ratio. Calibration studies were carried out using 8 samples of known hydrogen concentration prepared from the same tube. The hydrogen concentration of the samples was measured using the IGF (Inert Gas Fusion) technique and a calibration curve was generated. The calibration curve was
+                              
+                                 (3)
+                                 
+                                    
+                                       H
+                                       
+                                          (
+                                          wppm
+                                          )
+                                       
+                                       =
+                                       
+                                          (
+                                          
+                                             5435
+                                             ±
+                                             170
+                                          
+                                          )
+                                       
+                                       
+                                          
+                                             w
+                                             p
+                                             p
+                                             m
+                                          
+                                          
+                                             c
+                                             
+                                                
+                                                   m
+                                                
+                                                
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                       
+                                       .
+                                       
+                                       
+                                          Σ
+                                       
+                                       
+                                          (
+                                          
+                                             c
+                                             
+                                                
+                                                   m
+                                                
+                                                
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                          )
+                                       
+                                       −
+                                       
+                                          (
+                                          
+                                             1136
+                                             ±
+                                             17
+                                          
+                                          )
+                                       
+                                       w
+                                       p
+                                       p
+                                       m
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           Eq. (3) has been achieved considering the linear relationship between the H content and attenuation coefficient determined using neutron imaging. Additional details of the calibration procedure can be found in ref [22]. This eqn does not hold true for hydride region shown in Fig. 2
+                           (b).
+                        The resolution in wppm obtained by performing the calibration experiment can also be justified using the approach used by Buitrago et al. [18]. Considering that the attenuation coefficient for the hydride will be 2-3cm−1 for a neutron wavelength of 1–2 Å (for a thermal neutron imaging beamline), it can be seen that if a neutron beam is traversing a sample of dimension 10 mm the change in specimen transmission must be 0.00085 for 5wppm of hydrogen. The statistical uncertainty in measured transmission for current experiments is 0.003 indicating a minimum resolution of 17–18wppm.
+
+Theory:
+The contrast in neutron radiography is achieved because of difference in neutron transmission. This transmission function T(x,y) can be defined as the ratio of both the image taken with the sample I(x,y) and image taken without sample Io(x,y) both corrected by background image taken in absence of beam ID(x,y) [45,46].
+                              
+                                 (1)
+                                 
+                                    
+                                       T
+                                       
+                                          (
+                                          
+                                             x
+                                             ,
+                                             y
+                                          
+                                          )
+                                       
+                                       =
+                                       
+                                          
+                                             I
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             −
+                                             
+                                                I
+                                                D
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                          
+                                          
+                                             
+                                                I
+                                                o
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             −
+                                             
+                                                I
+                                                D
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                       =
+                                       exp
+                                       
+                                          (
+                                          
+                                             −
+                                             
+                                                
+                                                   Σ
+                                                
+                                                
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             .
+                                             z
+                                          
+                                          )
+The transmission in a radiograph is a function of sample thickness (z) along beam direction and also the attenuation coefficient Σ of the material. The attenuation coefficient is a function of neutron energy and can be obtained from Eq. (2) as
+                              
+                                 (2)
+                                 
+                                    
+                                       
+                                          Σ
+                                       
+                                       =
+                                       
+                                          
+                                             −
+                                             ln
+                                             
+                                                (
+                                                
+                                                   
+                                                      I
+                                                      −
+                                                      
+                                                         I
+                                                         D
+                                                      
+                                                   
+                                                   
+                                                      
+                                                         I
+                                                         O
+                                                      
+                                                      −
+                                                      
+                                                         I
+                                                         D
+                                                      
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                          z
+Where I, ID and Io correspond to median averaged images.
+
+Neutron imaging experiments:
+Neutron radiography studies of the diffusion samples were carried out at the thermal neutron imaging Beamline HS-3018, Dhruva using a Li6F-ZnS scintillator of area 100mmX100mm and thickness 100 µm and cooled CMOS detector (2kX2k) [47]. With a thermal neutron flux of 4 × 107 n/cm2/s at the sample location and L/d ratio of 160 the ultimate resolution achieved was 100 μm. The effective pixel size is 45μm and FOV (Field of View) was 80 mm x 80 mm. The diffusion samples were mounted on an aluminum holder placed at a 15 mm distance from the detector. This distance was optimized to minimize scattering effects [43]. For the diffusion studies to reduce the uncertainty in transmission values 30 images of 30 s exposures were median averaged. For neutron radiography studies averaging was done in the direction perpendicular to hydrogen diffusion for better signal to noise ratio. Calibration studies were carried out using 8 samples of known hydrogen concentration prepared from the same tube. The hydrogen concentration of the samples was measured using the IGF (Inert Gas Fusion) technique and a calibration curve was generated. The calibration curve was
+                              
+                                 (3)
+                                 
+                                    
+                                       H
+                                       
+                                          (
+                                          wppm
+                                          )
+                                       
+                                       =
+                                       
+                                          (
+                                          
+                                             5435
+                                             ±
+                                             170
+                                          
+                                          )
+                                       
+                                       
+                                          
+                                             w
+                                             p
+                                             p
+                                             m
+                                          
+                                          
+                                             c
+                                             
+                                                
+                                                   m
+                                                
+                                                
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                       
+                                       .
+                                       
+                                       
+                                          Σ
+                                       
+                                       
+                                          (
+                                          
+                                             c
+                                             
+                                                
+                                                   m
+                                                
+                                                
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                          )
+                                       
+                                       −
+                                       
+                                          (
+                                          
+                                             1136
+                                             ±
+                                             17
+                                          
+                                          )
+                                       
+                                       w
+                                       p
+                                       p
+                                       m
+Eq. (3) has been achieved considering the linear relationship between the H content and attenuation coefficient determined using neutron imaging. Additional details of the calibration procedure can be found in ref [22]. This eqn does not hold true for hydride region shown in Fig. 2
+                           (b).
+The resolution in wppm obtained by performing the calibration experiment can also be justified using the approach used by Buitrago et al. [18]. Considering that the attenuation coefficient for the hydride will be 2-3cm−1 for a neutron wavelength of 1–2 Å (for a thermal neutron imaging beamline), it can be seen that if a neutron beam is traversing a sample of dimension 10 mm the change in specimen transmission must be 0.00085 for 5wppm of hydrogen. The statistical uncertainty in measured transmission for current experiments is 0.003 indicating a minimum resolution of 17–18wppm.
+
+Analysis of diffusion profiles:
+The hydrogen concentration v/s depth data for the radial samples resemble the one shown in Fig. 2. For revealing the three regions namely the hydride layer, transition region and diffusion region log-log scale has been used. Fig. 2(a) shows the optical micrograph while the data obtained from the radiography image of the diffusion sample (diffusion along radial direction annealed at 653 K) is shown in Fig. 2(b). It may be noted that the hydrogen concentration shown (in Fig. 2(b)) for the hydride region is not actual as Eq. (3) does not hold true for that region because of multiple scatterings. The image shows the hydride layer extends to about 0.08–0.1 mm from the highest hydrogen concentration point of the hydride layer (measured using the highest attenuation coefficient). Following that is a transition region which ranges from 0.1 to 0.3 mm in which the H concentration decays rapidly. This region can be also be seen in the optical metallograph (Fig. 2(a)) as the region having longer hydrides following the hydride layer. After the transition zone comes the region of interest i.e. the diffusion region which ranges from 0.3 mm to 3.0 mm. In the optical micrograph, this region is seen as small delta hydrides whose length and density decrease as we move away from the hydride layer end.
+The diffusion profiles obtained using neutron radiography was fitted with solutions of Fick's second law [33]. This solution requires that the diffusion is independent of the initial H concentration and also the diffusion takes place only along the direction of interest. The condition of an infinite source is mandatory and has been taken care of by creating a hydride layer which does not exhaust during the diffusion process. Now there can be two solutions for this equation depending upon whether the H concentration at the other extremity is equal to zero (or the initial H concentration of the pressure tube used for preparing samples in our case it refers to hydrogen concentration in manufactured pressure tube which is around 12±3 wt ppm)-case of an infinite sample or the condition in which the hydrogen concentration does not go to zero at the other end of the finite sample. The solutions for both cases are given by Eqs. (4) and (5), respectively.
+                           
+                              (4)
+                              
+                                 
+                                    C
+                                    
+                                       (
+                                       
+                                          x
+                                          ,
+                                          t
+                                       
+                                       )
+                                    
+                                    =
+                                    
+                                       (
+                                       
+                                          
+                                             C
+                                             T
+                                          
+                                          −
+                                          
+                                             C
+                                             O
+                                          
+                                       
+                                       )
+                                    
+                                    erfc
+                                    
+                                       (
+                                       
+                                          x
+                                          
+                                             2
+                                             
+                                                Dt
+                                             
+                                          
+                                       
+                                       )
+                                    
+                                    +
+                                    
+                                       C
+                                       O
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    
+                                       
+                                          
+                                             C
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   t
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                       
+                                          =
+                                       
+                                       
+                                          
+                                             
+                                                C
+                                                T
+                                             
+                                             −
+                                             
+                                                
+                                                   4
+                                                   
+                                                      (
+                                                      
+                                                         
+                                                            C
+                                                            T
+                                                         
+                                                         −
+                                                         
+                                                            C
+                                                            O
+                                                         
+                                                      
+                                                      )
+                                                   
+                                                
+                                                π
+                                             
+                                             ∑
+                                             
+                                                
+                                                   
+                                                      
+                                                         (
+                                                         
+                                                            −
+                                                            1
+                                                         
+                                                         )
+                                                      
+                                                   
+                                                   n
+                                                
+                                                
+                                                   2
+                                                   n
+                                                   +
+                                                   1
+                                                
+                                             
+                                             exp
+                                             
+                                                (
+                                                
+                                                   
+                                                      −
+                                                      D
+                                                      
+                                                         
+                                                            
+                                                               (
+                                                               
+                                                                  2
+                                                                  n
+                                                                  +
+                                                                  1
+                                                               
+                                                               )
+                                                            
+                                                         
+                                                         2
+                                                      
+                                                      
+                                                         
+                                                            π
+                                                         
+                                                         2
+                                                      
+                                                      t
+                                                   
+                                                   
+                                                      4
+                                                      
+                                                         
+                                                            l
+                                                         
+                                                         2
+                                                      
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                       
+                                       
+                                          
+                                             cos
+                                             
+                                                (
+                                                
+                                                   
+                                                      
+                                                         (
+                                                         
+                                                            2
+                                                            n
+                                                            +
+                                                            1
+                                                         
+                                                         )
+                                                      
+                                                      π
+                                                      
+                                                         (
+                                                         
+                                                            l
+                                                            −
+                                                            x
+                                                         
+                                                         )
+                                                      
+                                                   
+                                                   
+                                                      2
+                                                      l
+                                                   
+                                                
+                                                )
+Where,
+C0 is the initial hydrogen concentration in the coupons before charging; CT is the maximum hydrogen concentration achieved at charging end corresponds to TSSD (terminal solid solubility of dissolution) at that particular temperature; t is the annealing time; 
+                           l
+                         is the length of specimen and D is the diffusion coefficient.
+The C(x,t) v/s depth(x) profiles were fitted using a non-linear least-square fitting procedure using equations (4&5), which are based on the solution of Fick's second law of diffusion for the semi-infinite and finite slab, respectively. For the fitting procedure, C(x,t) and D were kept as free parameters and were obtained by the chi-square minimization procedure in the fitting process. Diffusivity data were fitted in Eq. (6) to obtain the pre-exponential factor and activation energy of the diffusivity equation for Zr-2.5%Nb alloy.
+                           
+                              (6)
+                              
+                                 
+                                    D
+                                    =
+                                    
+                                       D
+                                       O
+                                    
+                                    exp
+                                    
+                                       (
+                                       
+                                          −
+                                          
+                                             
+                                                E
+                                                A
+                                             
+                                             RT
+                                          
+                                       
+                                       )
+D= diffusion coefficient (m2/s), D0 = pre-exponential factor (m2/s), EA = activation energy for diffusion (kJ/mol), R = universal gas constant (8.314 kJ/mol.K) and T = absolute temperature (K).
+
+Results:
+The radiography attenuation profiles were converted to hydrogen concentration profiles using the calibration technique used in previous work [22]. The concentration profiles were subsequently fitted to obtain diffusivity values.
+3.1
+                     Microstructural analysis
+                     To understand the role of the microstructure in the variation of the diffusivity of H along the three directions, a detailed microstructural analysis of three sections of the samples was carried out. Fig. 3
+                         shows the SEM images of two orthogonal sections of the pressure tube. The microstructure consisted of α-Zr phase in the form of elongated grains and β-Zr phase (brighter phase in micrograph) along the grain boundaries of the α-Zr grains. In the micrographs, it can be seen that the β-phase was present in continuous as well as discrete/globular morphology. The degree of continuity of the β-phase was highest in the axial direction, as seen in the AR section.
+                     Higher-resolution micrographs were obtained using TEM to further bring out the nature of the β-Zr phase. In the TEM micrographs (Fig. 4
+                        ) as well, the lamellar nature of the α-Zr phase was apparent. Also, the continuous and globular morphology of the β-Zr phase could be revealed with more clarity. Additionally, TEM-based Energy Dispersive Spectroscopy (EDS) (Fig. 5
+                        ) revealed that the Nb content in the alpha phase is less than 0.6wt%, in continuous beta is 10–15wt% and in globular beta is 30–40wt% (Table 3).
+                     EBSD analysis was carried out to determine the orientation distribution in the three planes, namely, CR, AR and AC. It may be noted that only the hcp α-Zr phase could be indexed using the EBSD technique. Fig. 6
+                         shows the IPF-Z maps of these three planes along with the corresponding (0001) pole figures. The distribution of (0001) poles along the three directions clearly shows the existence of the basal pole primarily in the circumferential and the radial direction. The concentration of basal poles is negligible in the axial direction.
+                     To understand the distribution of misorientation along the three principal directions, line profiles of the misorientation along these directions were obtained using the EBSD post-processing software. The average misorientations along the three principal directions are listed in Table 2
+                        . The average misorientation was maximum along the radial direction and minimum along the axial direction. Also, the misorientation angle was comparable along radial and circumferential directions but was much lower along the axial direction.
+3.2
+                     Diffusion studies along axial direction
+                     The data for axial direction has been already published as a separate paper [22] and is included here just for the sake of completeness. Fig. 7
+                        (a) and (b) provide the neutron radiographs and the depth profile of hydrogen in axial specimens annealed at various temperatures. For details please refer [22].
+3.3
+                     Diffusion studies along circumferential direction
+                     The concentration profiles along circumferential direction were fitted similar to axial direction using Eq. (4) error function solution for samples annealed at 250 ˚C, 300 ˚C and 350 ˚C and Eq. (5) diffusion solution for samples annealed at 400°C and 450°C. Fig. 8
+                        (a) and (b) show the neutron radiographs and the depth profile of hydrogen in circumferential specimens annealed at various temperatures. The values of H concentration at the extreme right near the hydride layer indicate the TSSD value at that temperature. The diffusivity values obtained have been tabulated in Table 4.
+3.4
+                     Diffusion studies along radial direction
+                     For the radial direction diffusion was studied along the 3.0 mm thickness of the flattened pressure tube. Studies were carried out in the temperature range of 300°C-400°C. Multiple samples were prepared for each temperature. The diffusivity values reported in Table 3
+                         are averaged mean of the data. Fig. 9
+                        (a) and (b) show the neutron radiographs and the depth profile of hydrogen in circumferential specimens annealed at various temperatures. For sake of clarity, only the diffusion region has been depicted. The diffusivity values obtained have been tabulated in Table 4
+                        . The values from Table 4 were fitted using Eq. (6) to obtain the pre-exponential factor and activation energy for all three directions (refer Fig.10
+                        ). This data has been summarized in Table 5.
+3.5
+                     FEM analysis
+                     An attempt was made to see if the anisotropy in diffusion parameters is a result of differences in the hydride source. Studies by Rae [34] emphasized the importance of the stress induced by the hydride layer which can result in modified hydrogen distribution and has to be considered while evaluating diffusivity.
+                     The stress induced due to the presence of hydride layer was on one face for radial case and as a cup on one end for axial/circumferential case was computed by FEM calculation [12]. For the circumferential/axial case where we have sufficient length of diffusion, a cap of hydride (∼100 μm) was made on all sides of one end of the specimen to around 3–4 mm. For the radial samples hydride (∼75 μm) was formed on only one surface. The modeling was done similar to the experimental case. The purpose of the study was to check whether the differences in diffusivity have any relation to the hydride stress profile. Figs. 11 and 12
+                        
+                         show the hydride-zirconium interface and the contour stress profiles for both cases. The zirconium matrix is shown in blue color while the hydride layer is shown in red. From the contour plots it can be seen that a huge amount of hydrostatic stress accompanies the hydride layer but it quickly goes to zero or negligible amounts at distances about 100 μm from the end of the hydride layer. Since the diffusion region used for current studies is far away from the stress-affected area we can conclude that the values reported are affected only by the microstructure of the material.
+
+Microstructural analysis:
+To understand the role of the microstructure in the variation of the diffusivity of H along the three directions, a detailed microstructural analysis of three sections of the samples was carried out. Fig. 3
+                         shows the SEM images of two orthogonal sections of the pressure tube. The microstructure consisted of α-Zr phase in the form of elongated grains and β-Zr phase (brighter phase in micrograph) along the grain boundaries of the α-Zr grains. In the micrographs, it can be seen that the β-phase was present in continuous as well as discrete/globular morphology. The degree of continuity of the β-phase was highest in the axial direction, as seen in the AR section.
+Higher-resolution micrographs were obtained using TEM to further bring out the nature of the β-Zr phase. In the TEM micrographs (Fig. 4
+                        ) as well, the lamellar nature of the α-Zr phase was apparent. Also, the continuous and globular morphology of the β-Zr phase could be revealed with more clarity. Additionally, TEM-based Energy Dispersive Spectroscopy (EDS) (Fig. 5
+                        ) revealed that the Nb content in the alpha phase is less than 0.6wt%, in continuous beta is 10–15wt% and in globular beta is 30–40wt% (Table 3).
+EBSD analysis was carried out to determine the orientation distribution in the three planes, namely, CR, AR and AC. It may be noted that only the hcp α-Zr phase could be indexed using the EBSD technique. Fig. 6
+                         shows the IPF-Z maps of these three planes along with the corresponding (0001) pole figures. The distribution of (0001) poles along the three directions clearly shows the existence of the basal pole primarily in the circumferential and the radial direction. The concentration of basal poles is negligible in the axial direction.
+To understand the distribution of misorientation along the three principal directions, line profiles of the misorientation along these directions were obtained using the EBSD post-processing software. The average misorientations along the three principal directions are listed in Table 2
+                        . The average misorientation was maximum along the radial direction and minimum along the axial direction. Also, the misorientation angle was comparable along radial and circumferential directions but was much lower along the axial direction.
+
+Diffusion studies along axial direction:
+The data for axial direction has been already published as a separate paper [22] and is included here just for the sake of completeness. Fig. 7
+                        (a) and (b) provide the neutron radiographs and the depth profile of hydrogen in axial specimens annealed at various temperatures. For details please refer [22].
+
+Diffusion studies along circumferential direction:
+The concentration profiles along circumferential direction were fitted similar to axial direction using Eq. (4) error function solution for samples annealed at 250 ˚C, 300 ˚C and 350 ˚C and Eq. (5) diffusion solution for samples annealed at 400°C and 450°C. Fig. 8
+                        (a) and (b) show the neutron radiographs and the depth profile of hydrogen in circumferential specimens annealed at various temperatures. The values of H concentration at the extreme right near the hydride layer indicate the TSSD value at that temperature. The diffusivity values obtained have been tabulated in Table 4.
+
+Diffusion studies along radial direction:
+For the radial direction diffusion was studied along the 3.0 mm thickness of the flattened pressure tube. Studies were carried out in the temperature range of 300°C-400°C. Multiple samples were prepared for each temperature. The diffusivity values reported in Table 3
+                         are averaged mean of the data. Fig. 9
+                        (a) and (b) show the neutron radiographs and the depth profile of hydrogen in circumferential specimens annealed at various temperatures. For sake of clarity, only the diffusion region has been depicted. The diffusivity values obtained have been tabulated in Table 4
+                        . The values from Table 4 were fitted using Eq. (6) to obtain the pre-exponential factor and activation energy for all three directions (refer Fig.10
+                        ). This data has been summarized in Table 5.
+
+FEM analysis:
+An attempt was made to see if the anisotropy in diffusion parameters is a result of differences in the hydride source. Studies by Rae [34] emphasized the importance of the stress induced by the hydride layer which can result in modified hydrogen distribution and has to be considered while evaluating diffusivity.
+The stress induced due to the presence of hydride layer was on one face for radial case and as a cup on one end for axial/circumferential case was computed by FEM calculation [12]. For the circumferential/axial case where we have sufficient length of diffusion, a cap of hydride (∼100 μm) was made on all sides of one end of the specimen to around 3–4 mm. For the radial samples hydride (∼75 μm) was formed on only one surface. The modeling was done similar to the experimental case. The purpose of the study was to check whether the differences in diffusivity have any relation to the hydride stress profile. Figs. 11 and 12
+                        
+                         show the hydride-zirconium interface and the contour stress profiles for both cases. The zirconium matrix is shown in blue color while the hydride layer is shown in red. From the contour plots it can be seen that a huge amount of hydrostatic stress accompanies the hydride layer but it quickly goes to zero or negligible amounts at distances about 100 μm from the end of the hydride layer. Since the diffusion region used for current studies is far away from the stress-affected area we can conclude that the values reported are affected only by the microstructure of the material.
+
+Discussion:
+The diffusivities along different PT directions have been evaluated using the concentration gradient method. Table 4 and 5 summarize the results for all three directions. Fig. 10 shows the log D v/s 1/T plots for all three directions. The axial and circumferential values are similar within experimental errors while the radial direction values are nearly 20–30% lower. Table 5 compares the parameters of the pre-exponential factor of the diffusion coefficient and activation energy for all three directions. The value of activation energy for all three directions is nearly similar and in the range of 33–37 kJ.
+The considerable difference in the diffusivity for the axial/circumferential and radial direction could be a result of microstructural or texture differences or both. The hydride layer present on one face for the radial case or in a form of a cup for the circumferential and axial case can also affect the hydrogen distribution by imposing a stress gradient in addition to concentration gradient and hence diffusivity values. SEM, EBSD, TEM and FEM studies were carried out for seeking an explanation for the observed anisotropy. The texture of the CWSR Zr-2.5Nb alloy is predominantly circumferential (fC
+                     =0.55) and radial (fR
+                     =0.43) with a very small basal pole fraction oriented along the axial (fA
+                     =0.02) direction. The fact that the diffusivity is nearly the same along axial and circumferential directions despite a large difference in basal pole fraction along the two directions suggests that the texture does not affect the diffusion coefficient or its effect is negligible. The average misorientation angle is quite different for the axial and circumferential direction while the diffusivities are quite similar. It indicates that grain misorientation has little to no role in hydrogen diffusion.
+FEM studies for evaluating the effect of stress induced by the presence of a hydride layer on the diffusivity values revealed that the hydrostatic stress due to the hydride layer is negligible in the area of interest and therefore will have little to no effect on the diffusivity values. The third factor is the microstructure of the pressure tube which has been considered the major contributor for anisotropy in hydrogen diffusion. The SEM and TEM studies reveal that the basic microstructure of the PT consists of long alpha grains surrounded by a rather continuous and occasionally globulised beta phase. Also, the diffusivity in the beta phase is nearly 2 order higher compared to the alpha phase. An attempt has been made to rationalize the effect of microstructure on the anisotropy in diffusivity in terms of idealized lamellar microstructure as shown in Fig. 13
+                     . For both axial and circumferential directions, the diffusion path is parallel to the lamellae whereas, for the radial direction, the diffusion path is normal to the lamellae. For the diffusion path parallel to the lamellae continuous or nearly continuous path through the beta phase is available whereas the diffusion path normal to the lamellae comprises alternate layer of low diffusivity alpha and high diffusivity beta phase. Several researchers have concluded that the diffusivity for any α+β alloy can be evaluated provided the diffusivity values for the α and β phases are known [35]. Effective diffusivity for the direction parallel to the lamellae and normal to the lamellae can be obtained by Eqs. (7) and (8), respectively. For the axial and circumferential directions where the diffusion path is parallel to the lamellae continuous or nearly continuous beta phase is available and hence the effective diffusion is higher. However, the diffusion path along the radial direction is normal to lamellae thereby no continuous or nearly continuous path of high diffusivity beta phase is available and the effective diffusivity will be close to the diffusivity of the lower diffusivity alpha phase. The values of diffusivity for the circumferential direction are slightly higher than that for the axial direction but are within the experimental uncertainties and hence have not been accounted for.
+Recent studies by Jiang [46] suggested an analytical expression for effective diffusion coefficient for simple microstructures. Bingchen [49] also proposed an efficient numerical method to study effects of microstructures on the effective diffusion coefficient of the diffusion component in materials. He also compared results of numerical and analytical methods for the effective diffusion of hydrogen in tungsten. Since the pressure tube microstructure can be idealized to be a simple microstructure, approach suggested by Jiang [48] was used in the present work to calculate the diffusivity for the alpha and beta phases at different temperatures and also to obtain a diffusivity relation for each phase.
+Fig. 13 shows the idealized alpha beta lamellar structure for the Axial-Radial plane. The structure consists of long and thick alpha grains surrounded by an almost continuous thin beta boundary.
+                        
+                           (7)
+                           
+                              
+                                 
+                                    D
+                                    R
+                                 
+                                 =
+                                 
+                                    D
+                                    α
+                                 
+                                 +
+                                 
+                                    
+                                       2
+                                       
+                                          w
+                                          β
+                                       
+                                    
+                                    
+                                       L
+                                       α
+                                    
+                                 
+                                 
+                                    (
+                                    
+                                       
+                                          D
+                                          β
+                                       
+                                       −
+                                       
+                                          D
+                                          α
+                                       
+                                    
+                                    )
+                                 
+                                 
+                              
+                           
+                        
+                     
+                     
+                        
+                           (8)
+                           
+                              
+                                 
+                                    D
+                                    A
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          D
+                                          β
+                                       
+                                       
+                                          D
+                                          α
+                                       
+                                    
+                                    
+                                       
+                                          (
+                                          
+                                             1
+                                             −
+                                             
+                                                
+                                                   2
+                                                   
+                                                      w
+                                                      β
+                                                   
+                                                
+                                                
+                                                   L
+                                                   α
+                                                
+                                             
+                                          
+                                          )
+                                       
+                                       
+                                          D
+                                          β
+                                       
+                                       +
+                                       
+                                          
+                                             2
+                                             
+                                                w
+                                                β
+                                             
+                                          
+                                          
+                                             L
+                                             α
+                                          
+                                       
+                                       
+                                          D
+                                          α
+Eqs. (7) and (8) provide effective diffusivity along the axial and radial directions. These equations along with the known values of diffusivity for the radial and axial directions were used to evaluate diffusivity for the alpha and beta phases. The length of alpha grain was measured using EBSD data and came out to be between 15 and 25 μm. The width of the beta lamellae was measured from the TEM micrographs and an average value of 30–40 nm has been used for the present calculation. The values of Lα and wβ are consistent with the measurements reported for IPHWR tubes by Choudhari [40].
+Table 6
+                      shows a comparison of the present result with the reported literature. Fig. 14
+                      shows the values of diffusivity for the alpha and beta phases at various temperatures. For comparison, the values reported in the literature have also been plotted. Broken lines have been used for beta phase data while continuous line for alpha phase data. It can be seen from the figure that the values from present study lie well within those reported in literature. The slight differences are due to difference in material composition and microstructure.
+All the studies reported here have been carried out on a thermal neutron imaging set-up with 100 μm resolution and 45 μm pixel size. The current resolution might be optimum for studies on pressure tubes but for fuel clads where the thickness ranges between 380 and 900 μm better spatial resolution is required. For this opting for a 20–30 μm scintillator is suggested though that might result in degradation of hydrogen sensitivity obtained with current set-up. For having better hydrogen sensitivity with high spatial resolution (10–20 μm) the experiments have to be carried out on a cold neutron imaging beamline. The higher wavelength will reduce scattering and create better contrast between metal and hydride.
+
+Conclusion:
+Hydrogen diffusion along all three orthogonal pressure tube directions was studied. An attempt was made to understand the anisotropy in the diffusivity in terms of the stress field of the deposited hydride layer, texture and microstructure of the material. The following conclusions can be derived:
+                        
+                           (a)
+                           Hydrogen diffusion along axial and circumferential directions is quite similar and is around 20–30% higher than that along the radial direction.
+                        
+                        
+                           (b)
+                           The effect of stress induced due to the hydride layer was modeled using FEM and the region where stress will not affect hydrogen concentration was considered for diffusivity calculation.
+                        
+                        
+                           (c)
+                           Present results suggest that texture has practically no effect on diffusivity.
+                        
+                        
+                           (d)
+                           Microstructure remains the main cause of anisotropy.
+                        
+                        
+                           (e)
+                           The effect of microstructure on the anisotropy in diffusivity has been rationalized in terms of idealized lamellar microstructure. For both axial and circumferential directions, the diffusion path is parallel to the lamellae and hence diffusivity values are comparable whereas for the radial direction the diffusion path is normal to lamellae and thereby no continuous or nearly continuous path through the beta phase having higher diffusivity is available and hence exhibiting lower diffusivity values.
+                        
+                        
+                           (f)
+                           The value of diffusivity for the Alpha-Zr and Beta-Zr phases has been calculated using the formulation given in the literature for lamellar microstructure.
+
+CRediT authorship contribution statement:
+Shefali Shukla: Investigation, Formal analysis, Writing – original draft. R.N. Singh: Conceptualization, Writing – review & editing, Supervision. Y.S. Kashyap: Writing – review & editing, Supervision, Project administration. T.N. Murty: Formal analysis. Nachiket Keskar: Methodology. Tushar Roy: Writing – review & editing. Prashant Singh: Investigation. Mayank Shukla: Project administration.
+
+Declaration of Competing Interest:
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgments:
+The author would like to thank Ms. Aishwarya Upadhyay, Ms Pushpalatha (MMD, BARC) for optical imaging and TEM studies and Mr. Baribaddla Ravi, (TPD, BARC) for beamline instrumentation.
+
+Body:
+Data will be made available on request.
+
+Data will be made available on request.
+
+Zirconium alloys are widely used in the nuclear industry as structural materials because of their low neutron absorption cross-section, excellent corrosion resistance and superior mechanical properties. They serve as claddings for fuel assemblies as well as enclosures for pressurized coolant, called pressure tubes (PT) in the case of PHWRs (Pressurized Heavy Water Reactors) [1–7]. Aqueous corrosion in a reactor leads to hydrogen pickup in the components. Hydrogen present in soluble form is not an issue but once the hydrogen concentration exceeds the terminal solid solubility limit at a said temperature, this hydrogen will precipitate as zirconium hydride which is a brittle phase and can lead to reduction on toughness of the material. Further stress and thermal gradient are inevitably present in a reactor and the hydrogen in response to these gradient moves towards areas of high stress and low temperatures. It means not just the total hydrogen concentration but the high diffusivity of hydrogen in zirconium alloys creates issues like DHC (Delayed Hydride Cracking) [8–15] or Blisters. Accurate determination of diffusivity values is therefore important and has been investigated by researchers all over the world on pure zirconium as well as zirconium alloys [16–36]. There has been a wide variation in the values reported and the debate remains on the role of microstructure on it, particularly on the role of the beta phase in two-phase alloys.
+
+The various alloys used in reactors consist of single α-phase (hcp) zirconium as well as two-phase (α+β) where the α phase is the dominant phase while β is mostly ≤ 10% [37,38]. The hcp structure of zirconium itself leads to anisotropy and it has been shown by DFT calculations that the values of diffusivity along c and a directions are quite different [19]. Two major fabrication routes have been studied for Zr-2.5%Nb alloy pressure tubes: CANDU (Canada Deuterium Uranium) and IPHWR (Indian PHWR). Extensive work has been carried out for CANDU PT while few studies have been reported for IPHWR. Khatamian [32] based on his investigation using CANDU PT material suggested a 20% variation in radial and axial direction values. Sawatsky [35] inferred variation of diffusivity among various alpha-beta alloys and also developed a theoretical model to explain it. However recent studies by McRae [34] suggested that a single diffusivity relation can be used for all zirconium alloys and the variations observed are within a 20% scatter as seen for diffusivity values. For IPHWR tubes data has only been reported for axial direction by Shrivastava [21] and Shukla [22] in the temperature range of 250 °C-450 °C. Recently, Santisteban [36] carried out studies on Zr-2.5%Nb alloys along rolling and radial directions and reported that diffusivity values for samples of the same composition but different microstructures or even samples from the same specimen along different directions can be largely different.
+
+Cold worked and stress-relieved (CWSR) tubes of Zr-2.5Nb alloy used in IPHWRs are manufactured by a route [38] similar to modified route II developed by AECL (Atomic Energy of Canada Limited) [39
+                     ]. The determination of diffusion coefficient along different directions for the Zr-2.5%Nb alloy pressure tubes is required for a better understanding of the hydrogen migration and hence is technologically important. This necessitates diffusivity measurements for three orthogonal directions for the IPHWR tube and this work aims to study that. We carried out studies for diffusivity parameter determination along the axial direction of the pressure tube in our previous study [22]. This work is a continuation of the previous study and includes the determination of diffusivity along the other two directions namely circumferential and radial. The material used was the same but warm-rolled to generate specimens along the circumferential direction. In this work, we present H diffusion studies in Zr-2.5%Nb alloy along different pressure tube directions in the temperature range 250–450 °C. The samples were prepared by depositing a hydride layer on one end and then annealing at a temperature in the aforementioned range to allow the hydrogen to diffuse in the matrix. The hydrogen diffusion profiles were mapped using neutron imaging and the data fit using solutions of the diffusion equation to evaluate diffusivity parameters. We also carried out FEM (Finite Element Modeling) studies to investigate any effect of stress induced by the hydride layer on the hydrogen diffusivity parameters. Microstructure and texture studies were done to explain the anisotropy observed in diffusivities. Further, we also propose the evaluation of diffusivity for the alpha and beta phases from the diffusivity values along different pressure tube directions and the microstructure.
+
+In the present study, hydrogen diffusivity along three principal directions in a 220 MWe (double melted old route) IPHWR tube was investigated, the composition of which is given in Table 1
+                     . The three sections of the pressure tube are shown schematically in Fig. 1
+                     . The tube used was an as-fabricated tube and had no exposure to reactor environment.
+
+Neutron radiography was used for diffusion studies while microstructural studies including SEM (Scanning Electron Microscopy), TEM (Transmission Electron Microscopy) and EBSD (Electron Back Scatter Diffraction) were carried out to explain the deviations observed. This section includes the details of sample preparation and the experiment conducted.
+
+Diffusion samples for all three directions have been prepared from the same tube and the same method of hydride formation and post-annealing. For the study along the axial direction [22], samples of size (40 mm x 10 mm x 3.7 mm) were extracted from the as-received pressure tube using a low-speed diamond saw. To prepare samples in the circumferential and the radial direction, the pressure tube was split in half and warm rolled along the axial direction at 400 °C for 45 min to flatten it to a plate. During flattening the thickness was reduced to 3.2 mm. It was annealed at 400 °C for 24 h to relieve any stresses developed during the rolling process. It may be noted that the microstructure for the warm rolled tubes has been extensively studied and is found quite similar to the reported microstructures of the as-fabricated pressure tubes indicating that no change has been done during the flattening process [37–39].
+
+After flattening, samples of size 40 mm x 10 mm x 3.0 mm (reduced thickness of pressure tube flattened plate) for diffusivity measurement along circumferential direction and size 10 mm x 10 mm x3.0 mm were extracted from the plate using a low-speed diamond saw for diffusivity measurement along the radial direction. The method of diffusion sample preparation included forming a hydride layer on one face using the standard electrolytic charging method [41]. The sample was subsequently annealed at pre-determined temperatures to obtain a hydrogen concentration profile. For more details on sample preparation refer [22]. For the hydrogen diffusivity measurement along the circumferential direction, all samples were annealed for 100 h while for the measurements along the radial direction at 300 ˚C, 330 ˚C, 350 ˚C, 380 ˚C and 400 ˚C the samples were annealed for 140, 105, 90, 65 and 40 min, respectively. The samples were air-cooled after annealing.
+
+Samples of the three sections of the pressure tube were extracted for microstructural analysis from the as-received tube, again using a low-speed diamond saw, as shown in Fig. 1. This was followed by standard metallographic surface preparation using successively finer grades of emery papers and diamond suspensions. For Scanning Electron Microscopy (SEM) based imaging, a final polishing step using 40 nm colloidal silica was employed. For characterization using Electron Backscattered Diffraction (EBSD), this was followed by etching at room temperature with an etchant composed of 45% each by volume of distilled water and nitric acid and 5% by volume of hydrofluoric acid. The micrographs in the SEM were obtained in backscattered mode (BSD) at 20 kV accelerating voltage, while the EBSD mapping was carried out using an Oxford detector and the associated software. Transmission Electron Microscopy (TEM) was carried out using a Carl Zeiss Libra ® microscope, operating at 200 kV. The samples for TEM investigation were prepared by standard sample preparation technique comprising slicing using a low-speed diamond saw, followed by mechanical thinning and finally, twin electro-jet polishing.
+
+Neutron imaging has emerged as an excellent tool for hydrogen estimation studies in metals, particularly of reactor importance [41–44]. The attenuation of the neutron beam while passing through the sample can provide the bulk distribution of hydrogen in it. This becomes possible because the neutron attenuation in metal and metal hydrides differ by order of magnitude, making it possible to detect even small amounts of hydrogen in metal. This property has been utilized, and neutron imaging has been used not only for hydrogen estimation but also to determine the parameters involved in the hydrogen diffusion in the metal matrix [18,22,29,36,41–44]. With better flux and beam characteristics, this technique is now used for hydrogen estimations as low as 5 wt ppm with a spatial resolution of 20 μm [18]. The subsequent sections give a brief overview of the principle of neutron imaging and the experimental procedure details.
+
+The contrast in neutron radiography is achieved because of difference in neutron transmission. This transmission function T(x,y) can be defined as the ratio of both the image taken with the sample I(x,y) and image taken without sample Io(x,y) both corrected by background image taken in absence of beam ID(x,y) [45,46].
+                              
+                                 (1)
+                                 
+                                    
+                                       T
+                                       
+                                          (
+                                          
+                                             x
+                                             ,
+                                             y
+                                          
+                                          )
+                                       
+                                       =
+                                       
+                                          
+                                             I
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             −
+                                             
+                                                I
+                                                D
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                          
+                                          
+                                             
+                                                I
+                                                o
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             −
+                                             
+                                                I
+                                                D
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                       =
+                                       exp
+                                       
+                                          (
+                                          
+                                             −
+                                             
+                                                
+                                                   Σ
+                                                
+                                                
+                                             
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   y
+                                                
+                                                )
+                                             
+                                             .
+                                             z
+                                          
+                                          )
+
+The transmission in a radiograph is a function of sample thickness (z) along beam direction and also the attenuation coefficient Σ of the material. The attenuation coefficient is a function of neutron energy and can be obtained from Eq. (2) as
+                              
+                                 (2)
+                                 
+                                    
+                                       
+                                          Σ
+                                       
+                                       =
+                                       
+                                          
+                                             −
+                                             ln
+                                             
+                                                (
+                                                
+                                                   
+                                                      I
+                                                      −
+                                                      
+                                                         I
+                                                         D
+                                                      
+                                                   
+                                                   
+                                                      
+                                                         I
+                                                         O
+                                                      
+                                                      −
+                                                      
+                                                         I
+                                                         D
+                                                      
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                          z
+
+Where I, ID and Io correspond to median averaged images.
+
+Neutron radiography studies of the diffusion samples were carried out at the thermal neutron imaging Beamline HS-3018, Dhruva using a Li6F-ZnS scintillator of area 100mmX100mm and thickness 100 µm and cooled CMOS detector (2kX2k) [47]. With a thermal neutron flux of 4 × 107 n/cm2/s at the sample location and L/d ratio of 160 the ultimate resolution achieved was 100 μm. The effective pixel size is 45μm and FOV (Field of View) was 80 mm x 80 mm. The diffusion samples were mounted on an aluminum holder placed at a 15 mm distance from the detector. This distance was optimized to minimize scattering effects [43]. For the diffusion studies to reduce the uncertainty in transmission values 30 images of 30 s exposures were median averaged. For neutron radiography studies averaging was done in the direction perpendicular to hydrogen diffusion for better signal to noise ratio. Calibration studies were carried out using 8 samples of known hydrogen concentration prepared from the same tube. The hydrogen concentration of the samples was measured using the IGF (Inert Gas Fusion) technique and a calibration curve was generated. The calibration curve was
+                              
+                                 (3)
+                                 
+                                    
+                                       H
+                                       
+                                          (
+                                          wppm
+                                          )
+                                       
+                                       =
+                                       
+                                          (
+                                          
+                                             5435
+                                             ±
+                                             170
+                                          
+                                          )
+                                       
+                                       
+                                          
+                                             w
+                                             p
+                                             p
+                                             m
+                                          
+                                          
+                                             c
+                                             
+                                                
+                                                   m
+                                                
+                                                
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                       
+                                       .
+                                       
+                                       
+                                          Σ
+                                       
+                                       
+                                          (
+                                          
+                                             c
+                                             
+                                                
+                                                   m
+                                                
+                                                
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                          )
+                                       
+                                       −
+                                       
+                                          (
+                                          
+                                             1136
+                                             ±
+                                             17
+                                          
+                                          )
+                                       
+                                       w
+                                       p
+                                       p
+                                       m
+
+Eq. (3) has been achieved considering the linear relationship between the H content and attenuation coefficient determined using neutron imaging. Additional details of the calibration procedure can be found in ref [22]. This eqn does not hold true for hydride region shown in Fig. 2
+                           (b).
+
+The resolution in wppm obtained by performing the calibration experiment can also be justified using the approach used by Buitrago et al. [18]. Considering that the attenuation coefficient for the hydride will be 2-3cm−1 for a neutron wavelength of 1–2 Å (for a thermal neutron imaging beamline), it can be seen that if a neutron beam is traversing a sample of dimension 10 mm the change in specimen transmission must be 0.00085 for 5wppm of hydrogen. The statistical uncertainty in measured transmission for current experiments is 0.003 indicating a minimum resolution of 17–18wppm.
+
+The hydrogen concentration v/s depth data for the radial samples resemble the one shown in Fig. 2. For revealing the three regions namely the hydride layer, transition region and diffusion region log-log scale has been used. Fig. 2(a) shows the optical micrograph while the data obtained from the radiography image of the diffusion sample (diffusion along radial direction annealed at 653 K) is shown in Fig. 2(b). It may be noted that the hydrogen concentration shown (in Fig. 2(b)) for the hydride region is not actual as Eq. (3) does not hold true for that region because of multiple scatterings. The image shows the hydride layer extends to about 0.08–0.1 mm from the highest hydrogen concentration point of the hydride layer (measured using the highest attenuation coefficient). Following that is a transition region which ranges from 0.1 to 0.3 mm in which the H concentration decays rapidly. This region can be also be seen in the optical metallograph (Fig. 2(a)) as the region having longer hydrides following the hydride layer. After the transition zone comes the region of interest i.e. the diffusion region which ranges from 0.3 mm to 3.0 mm. In the optical micrograph, this region is seen as small delta hydrides whose length and density decrease as we move away from the hydride layer end.
+
+The diffusion profiles obtained using neutron radiography was fitted with solutions of Fick's second law [33]. This solution requires that the diffusion is independent of the initial H concentration and also the diffusion takes place only along the direction of interest. The condition of an infinite source is mandatory and has been taken care of by creating a hydride layer which does not exhaust during the diffusion process. Now there can be two solutions for this equation depending upon whether the H concentration at the other extremity is equal to zero (or the initial H concentration of the pressure tube used for preparing samples in our case it refers to hydrogen concentration in manufactured pressure tube which is around 12±3 wt ppm)-case of an infinite sample or the condition in which the hydrogen concentration does not go to zero at the other end of the finite sample. The solutions for both cases are given by Eqs. (4) and (5), respectively.
+                           
+                              (4)
+                              
+                                 
+                                    C
+                                    
+                                       (
+                                       
+                                          x
+                                          ,
+                                          t
+                                       
+                                       )
+                                    
+                                    =
+                                    
+                                       (
+                                       
+                                          
+                                             C
+                                             T
+                                          
+                                          −
+                                          
+                                             C
+                                             O
+                                          
+                                       
+                                       )
+                                    
+                                    erfc
+                                    
+                                       (
+                                       
+                                          x
+                                          
+                                             2
+                                             
+                                                Dt
+                                             
+                                          
+                                       
+                                       )
+                                    
+                                    +
+                                    
+                                       C
+                                       O
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    
+                                       
+                                          
+                                             C
+                                             
+                                                (
+                                                
+                                                   x
+                                                   ,
+                                                   t
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                       
+                                          =
+                                       
+                                       
+                                          
+                                             
+                                                C
+                                                T
+                                             
+                                             −
+                                             
+                                                
+                                                   4
+                                                   
+                                                      (
+                                                      
+                                                         
+                                                            C
+                                                            T
+                                                         
+                                                         −
+                                                         
+                                                            C
+                                                            O
+                                                         
+                                                      
+                                                      )
+                                                   
+                                                
+                                                π
+                                             
+                                             ∑
+                                             
+                                                
+                                                   
+                                                      
+                                                         (
+                                                         
+                                                            −
+                                                            1
+                                                         
+                                                         )
+                                                      
+                                                   
+                                                   n
+                                                
+                                                
+                                                   2
+                                                   n
+                                                   +
+                                                   1
+                                                
+                                             
+                                             exp
+                                             
+                                                (
+                                                
+                                                   
+                                                      −
+                                                      D
+                                                      
+                                                         
+                                                            
+                                                               (
+                                                               
+                                                                  2
+                                                                  n
+                                                                  +
+                                                                  1
+                                                               
+                                                               )
+                                                            
+                                                         
+                                                         2
+                                                      
+                                                      
+                                                         
+                                                            π
+                                                         
+                                                         2
+                                                      
+                                                      t
+                                                   
+                                                   
+                                                      4
+                                                      
+                                                         
+                                                            l
+                                                         
+                                                         2
+                                                      
+                                                   
+                                                
+                                                )
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                       
+                                       
+                                          
+                                             cos
+                                             
+                                                (
+                                                
+                                                   
+                                                      
+                                                         (
+                                                         
+                                                            2
+                                                            n
+                                                            +
+                                                            1
+                                                         
+                                                         )
+                                                      
+                                                      π
+                                                      
+                                                         (
+                                                         
+                                                            l
+                                                            −
+                                                            x
+                                                         
+                                                         )
+                                                      
+                                                   
+                                                   
+                                                      2
+                                                      l
+                                                   
+                                                
+                                                )
+
+Where,
+
+C0 is the initial hydrogen concentration in the coupons before charging; CT is the maximum hydrogen concentration achieved at charging end corresponds to TSSD (terminal solid solubility of dissolution) at that particular temperature; t is the annealing time; 
+                           l
+                         is the length of specimen and D is the diffusion coefficient.
+
+The C(x,t) v/s depth(x) profiles were fitted using a non-linear least-square fitting procedure using equations (4&5), which are based on the solution of Fick's second law of diffusion for the semi-infinite and finite slab, respectively. For the fitting procedure, C(x,t) and D were kept as free parameters and were obtained by the chi-square minimization procedure in the fitting process. Diffusivity data were fitted in Eq. (6) to obtain the pre-exponential factor and activation energy of the diffusivity equation for Zr-2.5%Nb alloy.
+                           
+                              (6)
+                              
+                                 
+                                    D
+                                    =
+                                    
+                                       D
+                                       O
+                                    
+                                    exp
+                                    
+                                       (
+                                       
+                                          −
+                                          
+                                             
+                                                E
+                                                A
+                                             
+                                             RT
+                                          
+                                       
+                                       )
+
+D= diffusion coefficient (m2/s), D0 = pre-exponential factor (m2/s), EA = activation energy for diffusion (kJ/mol), R = universal gas constant (8.314 kJ/mol.K) and T = absolute temperature (K).
+
+The radiography attenuation profiles were converted to hydrogen concentration profiles using the calibration technique used in previous work [22]. The concentration profiles were subsequently fitted to obtain diffusivity values.
+
+To understand the role of the microstructure in the variation of the diffusivity of H along the three directions, a detailed microstructural analysis of three sections of the samples was carried out. Fig. 3
+                         shows the SEM images of two orthogonal sections of the pressure tube. The microstructure consisted of α-Zr phase in the form of elongated grains and β-Zr phase (brighter phase in micrograph) along the grain boundaries of the α-Zr grains. In the micrographs, it can be seen that the β-phase was present in continuous as well as discrete/globular morphology. The degree of continuity of the β-phase was highest in the axial direction, as seen in the AR section.
+
+Higher-resolution micrographs were obtained using TEM to further bring out the nature of the β-Zr phase. In the TEM micrographs (Fig. 4
+                        ) as well, the lamellar nature of the α-Zr phase was apparent. Also, the continuous and globular morphology of the β-Zr phase could be revealed with more clarity. Additionally, TEM-based Energy Dispersive Spectroscopy (EDS) (Fig. 5
+                        ) revealed that the Nb content in the alpha phase is less than 0.6wt%, in continuous beta is 10–15wt% and in globular beta is 30–40wt% (Table 3).
+
+EBSD analysis was carried out to determine the orientation distribution in the three planes, namely, CR, AR and AC. It may be noted that only the hcp α-Zr phase could be indexed using the EBSD technique. Fig. 6
+                         shows the IPF-Z maps of these three planes along with the corresponding (0001) pole figures. The distribution of (0001) poles along the three directions clearly shows the existence of the basal pole primarily in the circumferential and the radial direction. The concentration of basal poles is negligible in the axial direction.
+
+To understand the distribution of misorientation along the three principal directions, line profiles of the misorientation along these directions were obtained using the EBSD post-processing software. The average misorientations along the three principal directions are listed in Table 2
+                        . The average misorientation was maximum along the radial direction and minimum along the axial direction. Also, the misorientation angle was comparable along radial and circumferential directions but was much lower along the axial direction.
+
+The data for axial direction has been already published as a separate paper [22] and is included here just for the sake of completeness. Fig. 7
+                        (a) and (b) provide the neutron radiographs and the depth profile of hydrogen in axial specimens annealed at various temperatures. For details please refer [22].
+
+The concentration profiles along circumferential direction were fitted similar to axial direction using Eq. (4) error function solution for samples annealed at 250 ˚C, 300 ˚C and 350 ˚C and Eq. (5) diffusion solution for samples annealed at 400°C and 450°C. Fig. 8
+                        (a) and (b) show the neutron radiographs and the depth profile of hydrogen in circumferential specimens annealed at various temperatures. The values of H concentration at the extreme right near the hydride layer indicate the TSSD value at that temperature. The diffusivity values obtained have been tabulated in Table 4.
+
+For the radial direction diffusion was studied along the 3.0 mm thickness of the flattened pressure tube. Studies were carried out in the temperature range of 300°C-400°C. Multiple samples were prepared for each temperature. The diffusivity values reported in Table 3
+                         are averaged mean of the data. Fig. 9
+                        (a) and (b) show the neutron radiographs and the depth profile of hydrogen in circumferential specimens annealed at various temperatures. For sake of clarity, only the diffusion region has been depicted. The diffusivity values obtained have been tabulated in Table 4
+                        . The values from Table 4 were fitted using Eq. (6) to obtain the pre-exponential factor and activation energy for all three directions (refer Fig.10
+                        ). This data has been summarized in Table 5.
+
+An attempt was made to see if the anisotropy in diffusion parameters is a result of differences in the hydride source. Studies by Rae [34] emphasized the importance of the stress induced by the hydride layer which can result in modified hydrogen distribution and has to be considered while evaluating diffusivity.
+
+The stress induced due to the presence of hydride layer was on one face for radial case and as a cup on one end for axial/circumferential case was computed by FEM calculation [12]. For the circumferential/axial case where we have sufficient length of diffusion, a cap of hydride (∼100 μm) was made on all sides of one end of the specimen to around 3–4 mm. For the radial samples hydride (∼75 μm) was formed on only one surface. The modeling was done similar to the experimental case. The purpose of the study was to check whether the differences in diffusivity have any relation to the hydride stress profile. Figs. 11 and 12
+                        
+                         show the hydride-zirconium interface and the contour stress profiles for both cases. The zirconium matrix is shown in blue color while the hydride layer is shown in red. From the contour plots it can be seen that a huge amount of hydrostatic stress accompanies the hydride layer but it quickly goes to zero or negligible amounts at distances about 100 μm from the end of the hydride layer. Since the diffusion region used for current studies is far away from the stress-affected area we can conclude that the values reported are affected only by the microstructure of the material.
+
+The diffusivities along different PT directions have been evaluated using the concentration gradient method. Table 4 and 5 summarize the results for all three directions. Fig. 10 shows the log D v/s 1/T plots for all three directions. The axial and circumferential values are similar within experimental errors while the radial direction values are nearly 20–30% lower. Table 5 compares the parameters of the pre-exponential factor of the diffusion coefficient and activation energy for all three directions. The value of activation energy for all three directions is nearly similar and in the range of 33–37 kJ.
+
+The considerable difference in the diffusivity for the axial/circumferential and radial direction could be a result of microstructural or texture differences or both. The hydride layer present on one face for the radial case or in a form of a cup for the circumferential and axial case can also affect the hydrogen distribution by imposing a stress gradient in addition to concentration gradient and hence diffusivity values. SEM, EBSD, TEM and FEM studies were carried out for seeking an explanation for the observed anisotropy. The texture of the CWSR Zr-2.5Nb alloy is predominantly circumferential (fC
+                     =0.55) and radial (fR
+                     =0.43) with a very small basal pole fraction oriented along the axial (fA
+                     =0.02) direction. The fact that the diffusivity is nearly the same along axial and circumferential directions despite a large difference in basal pole fraction along the two directions suggests that the texture does not affect the diffusion coefficient or its effect is negligible. The average misorientation angle is quite different for the axial and circumferential direction while the diffusivities are quite similar. It indicates that grain misorientation has little to no role in hydrogen diffusion.
+
+FEM studies for evaluating the effect of stress induced by the presence of a hydride layer on the diffusivity values revealed that the hydrostatic stress due to the hydride layer is negligible in the area of interest and therefore will have little to no effect on the diffusivity values. The third factor is the microstructure of the pressure tube which has been considered the major contributor for anisotropy in hydrogen diffusion. The SEM and TEM studies reveal that the basic microstructure of the PT consists of long alpha grains surrounded by a rather continuous and occasionally globulised beta phase. Also, the diffusivity in the beta phase is nearly 2 order higher compared to the alpha phase. An attempt has been made to rationalize the effect of microstructure on the anisotropy in diffusivity in terms of idealized lamellar microstructure as shown in Fig. 13
+                     . For both axial and circumferential directions, the diffusion path is parallel to the lamellae whereas, for the radial direction, the diffusion path is normal to the lamellae. For the diffusion path parallel to the lamellae continuous or nearly continuous path through the beta phase is available whereas the diffusion path normal to the lamellae comprises alternate layer of low diffusivity alpha and high diffusivity beta phase. Several researchers have concluded that the diffusivity for any α+β alloy can be evaluated provided the diffusivity values for the α and β phases are known [35]. Effective diffusivity for the direction parallel to the lamellae and normal to the lamellae can be obtained by Eqs. (7) and (8), respectively. For the axial and circumferential directions where the diffusion path is parallel to the lamellae continuous or nearly continuous beta phase is available and hence the effective diffusion is higher. However, the diffusion path along the radial direction is normal to lamellae thereby no continuous or nearly continuous path of high diffusivity beta phase is available and the effective diffusivity will be close to the diffusivity of the lower diffusivity alpha phase. The values of diffusivity for the circumferential direction are slightly higher than that for the axial direction but are within the experimental uncertainties and hence have not been accounted for.
+
+Recent studies by Jiang [46] suggested an analytical expression for effective diffusion coefficient for simple microstructures. Bingchen [49] also proposed an efficient numerical method to study effects of microstructures on the effective diffusion coefficient of the diffusion component in materials. He also compared results of numerical and analytical methods for the effective diffusion of hydrogen in tungsten. Since the pressure tube microstructure can be idealized to be a simple microstructure, approach suggested by Jiang [48] was used in the present work to calculate the diffusivity for the alpha and beta phases at different temperatures and also to obtain a diffusivity relation for each phase.
+
+Fig. 13 shows the idealized alpha beta lamellar structure for the Axial-Radial plane. The structure consists of long and thick alpha grains surrounded by an almost continuous thin beta boundary.
+                        
+                           (7)
+                           
+                              
+                                 
+                                    D
+                                    R
+                                 
+                                 =
+                                 
+                                    D
+                                    α
+                                 
+                                 +
+                                 
+                                    
+                                       2
+                                       
+                                          w
+                                          β
+                                       
+                                    
+                                    
+                                       L
+                                       α
+                                    
+                                 
+                                 
+                                    (
+                                    
+                                       
+                                          D
+                                          β
+                                       
+                                       −
+                                       
+                                          D
+                                          α
+                                       
+                                    
+                                    )
+                                 
+                                 
+                              
+                           
+                        
+                     
+                     
+                        
+                           (8)
+                           
+                              
+                                 
+                                    D
+                                    A
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          D
+                                          β
+                                       
+                                       
+                                          D
+                                          α
+                                       
+                                    
+                                    
+                                       
+                                          (
+                                          
+                                             1
+                                             −
+                                             
+                                                
+                                                   2
+                                                   
+                                                      w
+                                                      β
+                                                   
+                                                
+                                                
+                                                   L
+                                                   α
+                                                
+                                             
+                                          
+                                          )
+                                       
+                                       
+                                          D
+                                          β
+                                       
+                                       +
+                                       
+                                          
+                                             2
+                                             
+                                                w
+                                                β
+                                             
+                                          
+                                          
+                                             L
+                                             α
+                                          
+                                       
+                                       
+                                          D
+                                          α
+
+Eqs. (7) and (8) provide effective diffusivity along the axial and radial directions. These equations along with the known values of diffusivity for the radial and axial directions were used to evaluate diffusivity for the alpha and beta phases. The length of alpha grain was measured using EBSD data and came out to be between 15 and 25 μm. The width of the beta lamellae was measured from the TEM micrographs and an average value of 30–40 nm has been used for the present calculation. The values of Lα and wβ are consistent with the measurements reported for IPHWR tubes by Choudhari [40].
+
+Table 6
+                      shows a comparison of the present result with the reported literature. Fig. 14
+                      shows the values of diffusivity for the alpha and beta phases at various temperatures. For comparison, the values reported in the literature have also been plotted. Broken lines have been used for beta phase data while continuous line for alpha phase data. It can be seen from the figure that the values from present study lie well within those reported in literature. The slight differences are due to difference in material composition and microstructure.
+
+All the studies reported here have been carried out on a thermal neutron imaging set-up with 100 μm resolution and 45 μm pixel size. The current resolution might be optimum for studies on pressure tubes but for fuel clads where the thickness ranges between 380 and 900 μm better spatial resolution is required. For this opting for a 20–30 μm scintillator is suggested though that might result in degradation of hydrogen sensitivity obtained with current set-up. For having better hydrogen sensitivity with high spatial resolution (10–20 μm) the experiments have to be carried out on a cold neutron imaging beamline. The higher wavelength will reduce scattering and create better contrast between metal and hydride.
+
+Hydrogen diffusion along all three orthogonal pressure tube directions was studied. An attempt was made to understand the anisotropy in the diffusivity in terms of the stress field of the deposited hydride layer, texture and microstructure of the material. The following conclusions can be derived:
+                        
+                           (a)
+                           Hydrogen diffusion along axial and circumferential directions is quite similar and is around 20–30% higher than that along the radial direction.
+                        
+                        
+                           (b)
+                           The effect of stress induced due to the hydride layer was modeled using FEM and the region where stress will not affect hydrogen concentration was considered for diffusivity calculation.
+                        
+                        
+                           (c)
+                           Present results suggest that texture has practically no effect on diffusivity.
+                        
+                        
+                           (d)
+                           Microstructure remains the main cause of anisotropy.
+                        
+                        
+                           (e)
+                           The effect of microstructure on the anisotropy in diffusivity has been rationalized in terms of idealized lamellar microstructure. For both axial and circumferential directions, the diffusion path is parallel to the lamellae and hence diffusivity values are comparable whereas for the radial direction the diffusion path is normal to lamellae and thereby no continuous or nearly continuous path through the beta phase having higher diffusivity is available and hence exhibiting lower diffusivity values.
+                        
+                        
+                           (f)
+                           The value of diffusivity for the Alpha-Zr and Beta-Zr phases has been calculated using the formulation given in the literature for lamellar microstructure.
+
+Hydrogen diffusion along axial and circumferential directions is quite similar and is around 20–30% higher than that along the radial direction.
+
+The effect of stress induced due to the hydride layer was modeled using FEM and the region where stress will not affect hydrogen concentration was considered for diffusivity calculation.
+
+Present results suggest that texture has practically no effect on diffusivity.
+
+Microstructure remains the main cause of anisotropy.
+
+The effect of microstructure on the anisotropy in diffusivity has been rationalized in terms of idealized lamellar microstructure. For both axial and circumferential directions, the diffusion path is parallel to the lamellae and hence diffusivity values are comparable whereas for the radial direction the diffusion path is normal to lamellae and thereby no continuous or nearly continuous path through the beta phase having higher diffusivity is available and hence exhibiting lower diffusivity values.
+
+The value of diffusivity for the Alpha-Zr and Beta-Zr phases has been calculated using the formulation given in the literature for lamellar microstructure.
+
+Shefali Shukla: Investigation, Formal analysis, Writing – original draft. R.N. Singh: Conceptualization, Writing – review & editing, Supervision. Y.S. Kashyap: Writing – review & editing, Supervision, Project administration. T.N. Murty: Formal analysis. Nachiket Keskar: Methodology. Tushar Roy: Writing – review & editing. Prashant Singh: Investigation. Mayank Shukla: Project administration.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+The author would like to thank Ms. Aishwarya Upadhyay, Ms Pushpalatha (MMD, BARC) for optical imaging and TEM studies and Mr. Baribaddla Ravi, (TPD, BARC) for beamline instrumentation.

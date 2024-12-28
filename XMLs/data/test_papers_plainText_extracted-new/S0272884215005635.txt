@@ -1,0 +1,526 @@
+Title:
+The 9th Asian Meeting on Electroceramics (AMEC-9)
+
+Abstract:
+Modified Ba0.67Sr0.33TiO3 (BST) thin films were deposited on Pt/Ti/SiO2/Si substrates using RF magnetron sputtering. By optimizing the deposition temperature (T
+                     
+                        d
+                     ), the dielectric and ferroelectric properties of BST films were improved. The onset of crystallization of the BST films was observed at about 600°C, beyond which there was an increase in grain size with further increasing T
+                     
+                        d
+                      up to 700°C. The better crystallized film deposited at 700°C with a thickness of 670nm shows a polycrystalline and dense structure, a dielectric constant (
+                        
+                           
+                              ε
+                           
+                           
+                              r
+                           
+                        
+                     )=953.40 (at 100kHz), and a remanent polarization (2P
+                     
+                        r
+                     )=23.87μC/cm2. The dielectric tunability at 1MHz increases as T
+                     
+                        d
+                      increases, and reaches the highest value of 55.40% for an applied field of 770kV/cm at the highest T
+                     
+                        d
+                      of 700°C. X-ray diffraction (XRD), scanning electron microscopy (SEM) and electric performance analysis also indicate that the deposition temperature during growth strongly affects the microstructure of BST films. This in turn influences the dielectric, ferroelectric and tunable behavior of BST films.
+
+Keywords:
+BST
+Ferroelectric films
+Deposition temperature
+Tunability
+
+Acknowledgements:
+Acknowledgments:
+Acknowledgments
+               The work was supported by the National Natural Science Foundation of China (Grant no. 51332003) and the Development Fund of STSPCL (Grant no. ZDFZ2012-12). The authors would like to thank Ms. C. L. Jiang for the SEM analysis and Mr. Q. G. Wang for the XRD data collection.
+
+Introduction:
+Barium strontium titanate (Ba1−x
+                     Sr
+                        x
+                     TiO3) is a solid solution ferroelectric material [1] exhibiting a large dielectric constant change with an applied dc electric field. The dc electric-field dependent dielectric constant can be employed to develop tunable microwave devices [2–5], such as tunable varactors [6,7], filters [8], resonators [9], and phase shifters [10]. Ba1−x
+                     Sr
+                        x
+                     TiO3 is currently a material of choice for microwave applications due to its low loss [11] and composition dependent Curie temperature(T
+                     
+                        c
+                     ) [1], which ranges from −163 to 120°C for x=0 to x=1 respectively. To realize better tunability, its composition (Ba/Sr ratio) has to be chosen such that the T
+                     
+                        c
+                      is just at around room temperature (the operating temperature), which is more favorable for practical device application. We have recently reported a detailed study [12,13] on the effect of Mn/Y codoping and sintering temperature on the microstructure and electrical properties of bulk Ba0.67Sr0.33TiO3 ceramics. We also have obtained modified bulk Ba0.67Sr0.33TiO3, which processes a low dielectric loss (tan
+                     δ <0.0073 at 1kHz) and good dispersion characteristics.
+However, bulk BST shows several drawbacks: its dielectric constant is too high, which inevitably leads to a very complicated impedance matching circuit [14]; its size is not suitable for integrated devices; very high processing temperature is necessary in order to obtain good crystallinity. Therefore, great emphasis in this research field has been placed on thin film BST.
+Thin film BST offers advantages over bulk BST for tunable microwave applications. Large electric fields (0–400kV/cm) can be achieved in thin film BST (~224nm) using low voltages [15]. It is well known that the electric properties of thin film BST is sensitive to its microstructure and crystallinity which are determined by deposition conditions [16] such as deposition temperature and O2/Ar ratio. Due to the enormous technological importance in micro-electric applications, it is indispensable to study the interdependence of the electric properties of thin film BST as a function of sputtering conditions. Therefore, optimizing deposition conditions present an intriguing opportunity to develop thin film BST for tunable microwave applications with stringent demands focused on high tunability, while still maintaining a low dielectric loss. In this work, our focus is to study the effect of deposition temperature on the crystallinity, dielectric and ferroelectric properties of the modified Ba0.67Sr0.33TiO3 
+                     [13] by RF magnetron sputtering on Pt/Ti/SiO2/Si substrates, and correlate these to observed tunability behavior.
+
+Experimental procedure:
+Modified BST ceramic target was prepared using citrate–nitrate combustion derived powder [12,13], following the composition of Ba0.67Sr0.33TiO3 co-doped with 0.5mol% for Mn and 1.0mol% for Y dopants. The dense ceramic target possesses pure polycrystalline perovskite structure (
+                     Fig. 1), and its relative density reaches to 92.5% of the theoretical value. BST films were grown onto Pt (200nm)/Ti(50nm)/SiO2(500nm)/Si substrates by off-axis RF magnetron sputtering from the BST target under an Ar/O2 (4:1) gas mixture at 2Pa. The deposition temperature varied from 550 to 700°C and the RF power during BST deposition was held constant. Prior to deposition, the substrates were ultrasonically cleaned with acetone, ethanol, and de-ionized water, and the target was pre-sputtered in the chamber for 3h to remove any surface contamination. Details of the processing conditions are given in 
+                     Table 1.
+Patterned Au top electrodes were deposited through a shadow mask onto the BST films at 50°C, using DC magnetron sputtering. The crystal structures of BST films were assessed by glancing angle X-ray diffraction (GXRD). A JSM5900 field-emission scanning microscope (FESEM) was utilized to assess the cross-sectional and plan-view film microstructures. The chemical composition and bonding were determined by X-ray photoelectron spectroscope (XPS: PerkinElmer PHI5600) instrument equipped with Al Kα radiation. Dielectric and tunable properties were measured by using a precision impedance analyzer (HP 4294A). The polarization electric-field (P–E) hysteresis loops were measured by using a Radiant Precision Ferroelectric Measurement System (RT2000 Tester, USA).
+
+Results and discussion:
+GXRD was utilized to assess the crystallinity of the BST films and to determine whether or not the films possess a single phase structure. 
+                     Fig. 2 displays the diffraction patterns of the BST films deposited on Pt/Ti/SiO2/Si substrates. The absence of BST peaks in the patterns for the BST film deposited at 550°C indicates that the films are amorphous in nature. Minimally crystallized BST film was obtained at a deposition temperature of 600°C with no clear evidence of secondary phase formation. As deposition temperature increases, the peak intensity of BST increases and the FWHM of (110) peak decreases, indicating enhanced crystallinity and an increase in grain size. Based on the X-ray characterization results, 700°C was determined to be the optimum deposition temperature, at which the film possesses a cubic and non-textured polycrystalline structure.
+Fig. 3 displays the surface and cross-sectional morphologies of the BST films deposited at different temperatures. Qualitatively, the surface morphologies are in good accordance with the results of XRD analysis. The BST film deposited at 550°C (Fig. 3a) shows amorphous form, in which no grain can be observed. This is likely due to insufficient mobility of arriving adatoms at the low temperature. The BST film deposited at 600°C (Fig. 3b), in which deposited atoms or molecules may undergo nucleation and growth of BST, becomes smoother in appearance, and the grains are visible compared with that at 550°C. As the deposition temperature is further increased from 600°C to 700°C, the average grain size of BST increases. For the fully crystallized BST film deposited at 700°C (Fig. 3c), the grains about 130nm could be observed in the dense microstructure. The cross section of the BST film deposited at 700°C is shown in Fig. 3d. The BST film is crack-free, uniform and dense, and its thickness is 670nm.
+Fig. 4 displays the fitted narrow-scan spectras of Ba 3d, Sr 3d, Ti 2p and O 1s peaks for the BST film deposited at 700°C. The measurement was performed on a PHI5600 instrument with Al Kα radiation (1486.6eV) and a takeoff angle of 90°. Compensation for the film charging was performed by comparison with the adventitious C 1s peak at 284.6eV. Fig. 4a shows that Ba 3d doublet can be fitted to two overlapped spin orbit splitting (SOS) pairs separated by 1.18eV, and the SOS energy for Ba 3d is ΔBa 3d
+                      with the theoretical value of 15.33eV [17]. The lower binding energy SOS pair (779.02 and 794.35eV) denoted as Ba(1) is assigned to Ba atoms located at A-site in ABO3 type perovskite structure, which is identified as a signal from Ba–O bonds [18,19]. The higher binding energy SOS pair (780.30 and 795.63eV) denoted as Ba(2) may be attributed to the relaxed Ba phase, which is probably caused by oxygen vacancies, cation defects, or relaxed surface phase [20]. Similarly, Sr(1) in Fig. 4b is assigned to Sr atoms located at A-site in ABO3 type perovskite structure, and Sr(2) may be attributed to the relaxed Sr surface phase. Ti(1) in Fig. 4c is assigned to Ti atoms located at B-site in ABO3 type perovskite structure, and Ti(2) may be attributed to the relaxed Ti surface phase. Fig. 4d shows that O 1s peak was fitted to two overlapped peaks at 530.12 and 531.72eV. The lower binding energy peak is due to the oxide, and the high binding energy peak may be due to the absorbed oxygen.
+Fig. 5 displays the P–E hysteresis loops for these BST films deposited at different temperatures, measured at 500Hz and room temperature. Deposition temperature (T
+                     
+                        d
+                     ) plays an important role in fabricating BST films with good ferroelectric properties. The BST film with T
+                     
+                        d
+                     =550°C shows a Pseudo-hysteresis curve, which is from interface effect. However, the BST films with T
+                     
+                        d
+                     ≥600°C show much improved P–E hysteresis loops. It should be noted that the remanent polarization (2P
+                     
+                        r
+                     ) and coercive field (2E
+                     
+                        c
+                     ) of the BST film with T
+                     
+                        d
+                     =700°C are 23.87μC/cm2 and 297.70kV/cm (
+                     Table 2) respectively. This 2P
+                     
+                        r
+                      value is over 3.8 times as large as that of the BST ceramics (6.2μC/cm2) [21]. In our work, deposition temperature has contributed to enhancement in the ferroelectric properties of BST films.
+The relative dielectric constant (
+                        
+                           
+                              ε
+                           
+                           
+                              0
+                           
+                        
+                     ) was calculated from the capacitance from 100Hz to 100kHz using the following equation:
+                        
+                           (1)
+                           
+                              
+                                 
+                                    ε
+                                 
+                                 
+                                    r
+                                 
+                              
+                              =
+                              
+                                 
+                                    C
+                                    ⋅
+                                    d
+                                 
+                                 
+                                    
+                                       
+                                          ε
+                                       
+                                       
+                                          0
+                                       
+                                    
+                                    ⋅
+                                    A
+                                 
+                              
+                              ,
+                           
+                        
+                     where C is the capacitance, 
+                        
+                           
+                              ε
+                           
+                           
+                              0
+                           
+                        
+                      is the permittivity of free space (8.85×1012
+                     F/m), A is the capacitor area, and d is BST film thickness.
+The relative dielectric constant (
+                        
+                           
+                              ε
+                           
+                           
+                              r
+                           
+                        
+                     ) and loss tangent (
+                        tan
+                        
+                        δ
+                     ) as a function of frequency are given in 
+                     Fig. 6. It could be observed that the BST films deposited at different temperatures do not show any significant dispersion in relative dielectric constant, indicating excellent film homogeneity and absence of internal interfacial barriers. Similar observation has been reported by Adikary et al. [22]. The variation in relative dielectric constant and loss tangent (measured at 100kHz) of BST films with deposition temperatures are given in 
+                     Fig. 7. The amorphous film deposited at 550°C has the lowest dielectric constant and loss tangent, which is 264.74 and 0.0157 respectively. It is seen that dielectric constant increases with increasing T
+                     
+                        d
+                      due to crystallinity and improved grain growth. This demonstrates the effect of crystallinity and grain size on the dielectric properties of BST films. The relative dielectric constant and loss tangent are 943.40 and 0.0384 for the BST film deposited at 700°C, respectively. Though the BST films deposited at higher temperatures, such as 700°C, have larger dielectric constant, their loss tangents are also much higher than that of the films deposited at lower temperatures. In general, dielectric loss originates from two competing mechanisms: resistive loss and relaxation loss. In the former case, energy is consumed by mobile charges in BST films; in the latter case, energy is dissipated due to relaxation of dipoles. In our work, as deposition temperature increases, dielectric constant as well as the dielectric loss increase, which could be due to increase in grain size with an increase in deposition temperature, in turn resulting in a reduction in the number of grain boundaries. A reduction in the number of grain boundaries increases conductivity. Hence, the BST film deposited at 700°C has higher loss tangent due to contributions from resistive loss.
+The dielectric tunability of the BST films deposited at various temperatures as a function of applied electric field is shown in 
+                     Fig. 8. The tunability is defined as
+                        
+                           (2)
+                           
+                              Tunability
+                              
+                              
+                                 (
+                                 %
+                                 )
+                              
+                              =
+                              
+                                 
+                                    
+                                       
+                                          ε
+                                       
+                                       
+                                          r
+                                       
+                                    
+                                    
+                                       (
+                                       0
+                                       )
+                                    
+                                    −
+                                    
+                                       
+                                          ε
+                                       
+                                       
+                                          r
+                                       
+                                    
+                                    (
+                                    E
+                                    )
+                                 
+                                 
+                                    
+                                       
+                                          ε
+                                       
+                                       
+                                          r
+                                       
+                                    
+                                    (
+                                    0
+                                    )
+                                 
+                              
+                           
+                        
+                     where
+                        
+                        
+                           
+                              ε
+                           
+                           
+                              r
+                           
+                        
+                        (
+                        0
+                        )
+                      and
+                        
+                        
+                           
+                              ε
+                           
+                           
+                              r
+                           
+                        
+                        
+                           (
+                           E
+                           )
+                        
+                        
+                     are dielectric constant at zero field and an applied field (E), respectively. It is clearly seen that tunability increases with increasing deposition temperature (T
+                     
+                        d
+                     ) and applied field. The BST film deposited at T
+                     
+                        d
+                     =550°C, which is amorphous (Fig. 2), shows very poor tunability. The film deposited at 650°C shows a tunability of 44.44%. The maximum tunability of 55.40% (at 770kV/cm) was obtained for the BST film deposited at 700°C. 
+                     Fig. 9 shows tunability as a function of deposition temperature, measured at 350, 490, 630, 770kV/cm. It is clearly observed that tunability increases with an increase in T
+                     
+                        d
+                     . Dependence of tunability of the BST films on deposition temperature stems from parameters, such as nature of crystallinity and grain size. The XRD results show that the onset of crystallization is about 600°C, and the grain size increases with increasing T
+                     
+                        d
+                     . The film deposited at 700°C has the highest tunability because of large dielectric constant originating from better growth. So, high value of tunability can be attributed to better growth of BST thin films.
+
+Conclusions:
+We have prepared the modified Ba0.67Sr0.33TiO3 films for potential application in electrically tunable devices. Deposition temperature strongly affects crystalline quality, surface morphology, remanent polarization and dielectric tunability of the BST films. By optimizing deposition temperature, we have obtained the BST film deposited at 700°C with the tunability of 55.40% and the remanent polarization (2P
+                     
+                        r
+                     )=23.87μC/cm2. The high tunability with appropriate dielectric loss makes the BST films a promising material for tunable microwave application.
+
+Conflict of Interest:
+We declare that we do not have any commercial or associative interest that represents a conflict of interest in connection with the work submitted.
+
+Acknowledgments:
+The work was supported by the National Natural Science Foundation of China (Grant no. 51332003) and the Development Fund of STSPCL (Grant no. ZDFZ2012-12). The authors would like to thank Ms. C. L. Jiang for the SEM analysis and Mr. Q. G. Wang for the XRD data collection.
+
+Body:
+Barium strontium titanate (Ba1−x
+                     Sr
+                        x
+                     TiO3) is a solid solution ferroelectric material [1] exhibiting a large dielectric constant change with an applied dc electric field. The dc electric-field dependent dielectric constant can be employed to develop tunable microwave devices [2–5], such as tunable varactors [6,7], filters [8], resonators [9], and phase shifters [10]. Ba1−x
+                     Sr
+                        x
+                     TiO3 is currently a material of choice for microwave applications due to its low loss [11] and composition dependent Curie temperature(T
+                     
+                        c
+                     ) [1], which ranges from −163 to 120°C for x=0 to x=1 respectively. To realize better tunability, its composition (Ba/Sr ratio) has to be chosen such that the T
+                     
+                        c
+                      is just at around room temperature (the operating temperature), which is more favorable for practical device application. We have recently reported a detailed study [12,13] on the effect of Mn/Y codoping and sintering temperature on the microstructure and electrical properties of bulk Ba0.67Sr0.33TiO3 ceramics. We also have obtained modified bulk Ba0.67Sr0.33TiO3, which processes a low dielectric loss (tan
+                     δ <0.0073 at 1kHz) and good dispersion characteristics.
+
+However, bulk BST shows several drawbacks: its dielectric constant is too high, which inevitably leads to a very complicated impedance matching circuit [14]; its size is not suitable for integrated devices; very high processing temperature is necessary in order to obtain good crystallinity. Therefore, great emphasis in this research field has been placed on thin film BST.
+
+Thin film BST offers advantages over bulk BST for tunable microwave applications. Large electric fields (0–400kV/cm) can be achieved in thin film BST (~224nm) using low voltages [15]. It is well known that the electric properties of thin film BST is sensitive to its microstructure and crystallinity which are determined by deposition conditions [16] such as deposition temperature and O2/Ar ratio. Due to the enormous technological importance in micro-electric applications, it is indispensable to study the interdependence of the electric properties of thin film BST as a function of sputtering conditions. Therefore, optimizing deposition conditions present an intriguing opportunity to develop thin film BST for tunable microwave applications with stringent demands focused on high tunability, while still maintaining a low dielectric loss. In this work, our focus is to study the effect of deposition temperature on the crystallinity, dielectric and ferroelectric properties of the modified Ba0.67Sr0.33TiO3 
+                     [13] by RF magnetron sputtering on Pt/Ti/SiO2/Si substrates, and correlate these to observed tunability behavior.
+
+Modified BST ceramic target was prepared using citrate–nitrate combustion derived powder [12,13], following the composition of Ba0.67Sr0.33TiO3 co-doped with 0.5mol% for Mn and 1.0mol% for Y dopants. The dense ceramic target possesses pure polycrystalline perovskite structure (
+                     Fig. 1), and its relative density reaches to 92.5% of the theoretical value. BST films were grown onto Pt (200nm)/Ti(50nm)/SiO2(500nm)/Si substrates by off-axis RF magnetron sputtering from the BST target under an Ar/O2 (4:1) gas mixture at 2Pa. The deposition temperature varied from 550 to 700°C and the RF power during BST deposition was held constant. Prior to deposition, the substrates were ultrasonically cleaned with acetone, ethanol, and de-ionized water, and the target was pre-sputtered in the chamber for 3h to remove any surface contamination. Details of the processing conditions are given in 
+                     Table 1.
+
+Patterned Au top electrodes were deposited through a shadow mask onto the BST films at 50°C, using DC magnetron sputtering. The crystal structures of BST films were assessed by glancing angle X-ray diffraction (GXRD). A JSM5900 field-emission scanning microscope (FESEM) was utilized to assess the cross-sectional and plan-view film microstructures. The chemical composition and bonding were determined by X-ray photoelectron spectroscope (XPS: PerkinElmer PHI5600) instrument equipped with Al Kα radiation. Dielectric and tunable properties were measured by using a precision impedance analyzer (HP 4294A). The polarization electric-field (P–E) hysteresis loops were measured by using a Radiant Precision Ferroelectric Measurement System (RT2000 Tester, USA).
+
+GXRD was utilized to assess the crystallinity of the BST films and to determine whether or not the films possess a single phase structure. 
+                     Fig. 2 displays the diffraction patterns of the BST films deposited on Pt/Ti/SiO2/Si substrates. The absence of BST peaks in the patterns for the BST film deposited at 550°C indicates that the films are amorphous in nature. Minimally crystallized BST film was obtained at a deposition temperature of 600°C with no clear evidence of secondary phase formation. As deposition temperature increases, the peak intensity of BST increases and the FWHM of (110) peak decreases, indicating enhanced crystallinity and an increase in grain size. Based on the X-ray characterization results, 700°C was determined to be the optimum deposition temperature, at which the film possesses a cubic and non-textured polycrystalline structure.
+
+Fig. 3 displays the surface and cross-sectional morphologies of the BST films deposited at different temperatures. Qualitatively, the surface morphologies are in good accordance with the results of XRD analysis. The BST film deposited at 550°C (Fig. 3a) shows amorphous form, in which no grain can be observed. This is likely due to insufficient mobility of arriving adatoms at the low temperature. The BST film deposited at 600°C (Fig. 3b), in which deposited atoms or molecules may undergo nucleation and growth of BST, becomes smoother in appearance, and the grains are visible compared with that at 550°C. As the deposition temperature is further increased from 600°C to 700°C, the average grain size of BST increases. For the fully crystallized BST film deposited at 700°C (Fig. 3c), the grains about 130nm could be observed in the dense microstructure. The cross section of the BST film deposited at 700°C is shown in Fig. 3d. The BST film is crack-free, uniform and dense, and its thickness is 670nm.
+
+Fig. 4 displays the fitted narrow-scan spectras of Ba 3d, Sr 3d, Ti 2p and O 1s peaks for the BST film deposited at 700°C. The measurement was performed on a PHI5600 instrument with Al Kα radiation (1486.6eV) and a takeoff angle of 90°. Compensation for the film charging was performed by comparison with the adventitious C 1s peak at 284.6eV. Fig. 4a shows that Ba 3d doublet can be fitted to two overlapped spin orbit splitting (SOS) pairs separated by 1.18eV, and the SOS energy for Ba 3d is ΔBa 3d
+                      with the theoretical value of 15.33eV [17]. The lower binding energy SOS pair (779.02 and 794.35eV) denoted as Ba(1) is assigned to Ba atoms located at A-site in ABO3 type perovskite structure, which is identified as a signal from Ba–O bonds [18,19]. The higher binding energy SOS pair (780.30 and 795.63eV) denoted as Ba(2) may be attributed to the relaxed Ba phase, which is probably caused by oxygen vacancies, cation defects, or relaxed surface phase [20]. Similarly, Sr(1) in Fig. 4b is assigned to Sr atoms located at A-site in ABO3 type perovskite structure, and Sr(2) may be attributed to the relaxed Sr surface phase. Ti(1) in Fig. 4c is assigned to Ti atoms located at B-site in ABO3 type perovskite structure, and Ti(2) may be attributed to the relaxed Ti surface phase. Fig. 4d shows that O 1s peak was fitted to two overlapped peaks at 530.12 and 531.72eV. The lower binding energy peak is due to the oxide, and the high binding energy peak may be due to the absorbed oxygen.
+
+Fig. 5 displays the P–E hysteresis loops for these BST films deposited at different temperatures, measured at 500Hz and room temperature. Deposition temperature (T
+                     
+                        d
+                     ) plays an important role in fabricating BST films with good ferroelectric properties. The BST film with T
+                     
+                        d
+                     =550°C shows a Pseudo-hysteresis curve, which is from interface effect. However, the BST films with T
+                     
+                        d
+                     ≥600°C show much improved P–E hysteresis loops. It should be noted that the remanent polarization (2P
+                     
+                        r
+                     ) and coercive field (2E
+                     
+                        c
+                     ) of the BST film with T
+                     
+                        d
+                     =700°C are 23.87μC/cm2 and 297.70kV/cm (
+                     Table 2) respectively. This 2P
+                     
+                        r
+                      value is over 3.8 times as large as that of the BST ceramics (6.2μC/cm2) [21]. In our work, deposition temperature has contributed to enhancement in the ferroelectric properties of BST films.
+
+The relative dielectric constant (
+                        
+                           
+                              ε
+                           
+                           
+                              0
+                           
+                        
+                     ) was calculated from the capacitance from 100Hz to 100kHz using the following equation:
+                        
+                           (1)
+                           
+                              
+                                 
+                                    ε
+                                 
+                                 
+                                    r
+                                 
+                              
+                              =
+                              
+                                 
+                                    C
+                                    ⋅
+                                    d
+                                 
+                                 
+                                    
+                                       
+                                          ε
+                                       
+                                       
+                                          0
+                                       
+                                    
+                                    ⋅
+                                    A
+                                 
+                              
+                              ,
+                           
+                        
+                     where C is the capacitance, 
+                        
+                           
+                              ε
+                           
+                           
+                              0
+                           
+                        
+                      is the permittivity of free space (8.85×1012
+                     F/m), A is the capacitor area, and d is BST film thickness.
+
+The relative dielectric constant (
+                        
+                           
+                              ε
+                           
+                           
+                              r
+                           
+                        
+                     ) and loss tangent (
+                        tan
+                        
+                        δ
+                     ) as a function of frequency are given in 
+                     Fig. 6. It could be observed that the BST films deposited at different temperatures do not show any significant dispersion in relative dielectric constant, indicating excellent film homogeneity and absence of internal interfacial barriers. Similar observation has been reported by Adikary et al. [22]. The variation in relative dielectric constant and loss tangent (measured at 100kHz) of BST films with deposition temperatures are given in 
+                     Fig. 7. The amorphous film deposited at 550°C has the lowest dielectric constant and loss tangent, which is 264.74 and 0.0157 respectively. It is seen that dielectric constant increases with increasing T
+                     
+                        d
+                      due to crystallinity and improved grain growth. This demonstrates the effect of crystallinity and grain size on the dielectric properties of BST films. The relative dielectric constant and loss tangent are 943.40 and 0.0384 for the BST film deposited at 700°C, respectively. Though the BST films deposited at higher temperatures, such as 700°C, have larger dielectric constant, their loss tangents are also much higher than that of the films deposited at lower temperatures. In general, dielectric loss originates from two competing mechanisms: resistive loss and relaxation loss. In the former case, energy is consumed by mobile charges in BST films; in the latter case, energy is dissipated due to relaxation of dipoles. In our work, as deposition temperature increases, dielectric constant as well as the dielectric loss increase, which could be due to increase in grain size with an increase in deposition temperature, in turn resulting in a reduction in the number of grain boundaries. A reduction in the number of grain boundaries increases conductivity. Hence, the BST film deposited at 700°C has higher loss tangent due to contributions from resistive loss.
+
+The dielectric tunability of the BST films deposited at various temperatures as a function of applied electric field is shown in 
+                     Fig. 8. The tunability is defined as
+                        
+                           (2)
+                           
+                              Tunability
+                              
+                              
+                                 (
+                                 %
+                                 )
+                              
+                              =
+                              
+                                 
+                                    
+                                       
+                                          ε
+                                       
+                                       
+                                          r
+                                       
+                                    
+                                    
+                                       (
+                                       0
+                                       )
+                                    
+                                    −
+                                    
+                                       
+                                          ε
+                                       
+                                       
+                                          r
+                                       
+                                    
+                                    (
+                                    E
+                                    )
+                                 
+                                 
+                                    
+                                       
+                                          ε
+                                       
+                                       
+                                          r
+                                       
+                                    
+                                    (
+                                    0
+                                    )
+                                 
+                              
+                           
+                        
+                     where
+                        
+                        
+                           
+                              ε
+                           
+                           
+                              r
+                           
+                        
+                        (
+                        0
+                        )
+                      and
+                        
+                        
+                           
+                              ε
+                           
+                           
+                              r
+                           
+                        
+                        
+                           (
+                           E
+                           )
+                        
+                        
+                     are dielectric constant at zero field and an applied field (E), respectively. It is clearly seen that tunability increases with increasing deposition temperature (T
+                     
+                        d
+                     ) and applied field. The BST film deposited at T
+                     
+                        d
+                     =550°C, which is amorphous (Fig. 2), shows very poor tunability. The film deposited at 650°C shows a tunability of 44.44%. The maximum tunability of 55.40% (at 770kV/cm) was obtained for the BST film deposited at 700°C. 
+                     Fig. 9 shows tunability as a function of deposition temperature, measured at 350, 490, 630, 770kV/cm. It is clearly observed that tunability increases with an increase in T
+                     
+                        d
+                     . Dependence of tunability of the BST films on deposition temperature stems from parameters, such as nature of crystallinity and grain size. The XRD results show that the onset of crystallization is about 600°C, and the grain size increases with increasing T
+                     
+                        d
+                     . The film deposited at 700°C has the highest tunability because of large dielectric constant originating from better growth. So, high value of tunability can be attributed to better growth of BST thin films.
+
+We have prepared the modified Ba0.67Sr0.33TiO3 films for potential application in electrically tunable devices. Deposition temperature strongly affects crystalline quality, surface morphology, remanent polarization and dielectric tunability of the BST films. By optimizing deposition temperature, we have obtained the BST film deposited at 700°C with the tunability of 55.40% and the remanent polarization (2P
+                     
+                        r
+                     )=23.87μC/cm2. The high tunability with appropriate dielectric loss makes the BST films a promising material for tunable microwave application.
+
+We declare that we do not have any commercial or associative interest that represents a conflict of interest in connection with the work submitted.
+
+The work was supported by the National Natural Science Foundation of China (Grant no. 51332003) and the Development Fund of STSPCL (Grant no. ZDFZ2012-12). The authors would like to thank Ms. C. L. Jiang for the SEM analysis and Mr. Q. G. Wang for the XRD data collection.

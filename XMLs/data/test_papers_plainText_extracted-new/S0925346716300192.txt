@@ -1,0 +1,244 @@
+Title:
+Advanced Materials for Optics  Photonics  Renewable Energies and Their Recent Advances
+
+Abstract:
+This paper deals with an investigation of a thermal energy harvester based on the coupling of a piezoelectric membrane and a bimetallic strip heat engine. The general working principle of the device consists of a double conversion mechanism: the thermal energy is first converted into mechanical energy by means of a bimetallic strip, then the mechanical energy is converted into electricity with a piezoelectric membrane. This paper deals with the study and optimization of the harvester’s design. First, the piezoelectric membrane configuration is studied to find the most efficient way to convert mechanical energy into electricity. A benchmark of various piezoelectric materials is then presented to point out the most efficient materials. Finally, our study focuses on the bimetallic strip’s properties: the effect of its dimensions of its thermal hysteresis on the harvester’s performances are studied and compared. Thanks to these different steps, we were able to point out the best configuration to convert efficiently thermal heat flux into electricity.
+
+Keywords:
+Energy harvesting
+Bimetallic strip heat engine
+Piezoelectric membrane
+Configurations benchmark
+
+Acknowledgements:
+Acknowledgment:
+Acknowledgment
+               This work was funded by the Fonds Unique Interministériel (FUI), through the HEATec project.
+
+Introduction:
+Wireless sensor networks have known an important development these last years thanks to the reduction in size and in the power consumptions of the CMOS circuitry. The aim of such intelligent networks is to replace long transmission distances with thousands of low cost and low power wireless devices. Intelligent environments are consequently created and allow the monitoring of numerous quantities in environments usually run on batteries. Batteries have many drawbacks related to their wiring, their short lifetime and their elevated costs which do not make them the most adapted solution for powering autonomous node networks: in fact, replacing thousands of batteries every year in areas difficult to access could sometimes be impractical. To make wireless sensor nodes become autonomous and self-sufficient all over their lifetime, many energy harvesting devices have been developed. The goal is to scavenge the available energies in the environment of the nodes and to convert it into usable electrical power. Resources like mechanical vibrations are harvested thanks to piezoelectric materials as reported in Refs. [1,2], solar energy using photovoltaic modules as seen in Ref. [3] and heat flows using thermoelectric structures in Ref. [4] or pyroelectric materials as shown in Refs. [5,6]. In the thermal field, thermoelectric generators based on the Seebeck effect are the most used because of their efficiency. They use solid-state materials exhibiting high electrical conductivities but also high thermal conductivities in the same time. This property makes very difficult to maintain a significant temperature difference across the generator especially when the operating temperature is close to the ambient temperature. This leads to the use of heat sinks and thus raises the issue of compactness of the device as the heat sink represents the main part of the harvester as reported in Ref. [7].
+To avoid the drawbacks related to thermoelectric generators, thin and compact devices capable of harvesting heat flows each time a thermal gradient is available, including those close to ambient temperature, without any heat sink, have been developed and reported in Refs. [8–11]. They convert wasted heat into electrical energy by means of thermo-mechanically bistable bimetallic strips and piezoelectric membranes.
+This paper presents an optimization work of a piezoelectric bimetallic strip heat engine in order to find the most efficient harvester’s design. The first part of this article is devoted to the explanation of the device’s working principle. In the second part, the main guidelines to find the most efficient design are exposed and experimentally tested and validated. The last part is about the interpretation and discussions of the previous experiments.
+
+Device general working principle:
+The thermal energy harvester reported in this paper is based on a double steps conversion mechanism of wasted heat flux into usable electricity. This is possible thanks to a bimetallic strip heat engine converting thermal energy into mechanical energy by exploiting the thermo-mechanical bistability of bimetal membranes made of two materials having a mismatch of their coefficients of thermal expansion.
+In this article, bimetallic shells made of Invar and NC4 alloy (Invar (Fe–Ni 36%) acting as the low coefficient of thermal expansion coefficient (CTE) layer and NC4 (Fe–Ni 22%–Cr 3%) acting as the high CTE layer) are mounted in the harvester (Fig. 1
+                     ). The antagonistic effect of the thermal mismatch of the shell’s materials and the initial curvature of the membrane are at the origin of the bistable behavior of the shell characterized by a thermal hysteresis, as reported by Wittrick in Ref. [12].
+Fig. 2
+                      shows the general scheme of the harvester and shape of the bistable bimetal that snaps up or snaps down each time its temperature reaches the hysteresis temperatures called the snapping temperature T
+                     s and the snapping back one T
+                     sb. Arnaud et al. explained in more details the working principle of such heat engines in Refs. [13,14].
+To convert the kinetic energy released by the snapping bimetals, the bistable membrane is coupled with a piezoelectric transducer. That way, each time the bimetal snaps up, it impacts the piezoelectric membrane and the piezoelectric transducers oscillates at its resonance frequency. At the opposite, when the bimetal snaps down, it releases the piezoelectric transducer allowing it to vibrate freely. Consequently, during these two phases, the bimetal mechanical energy is converted into electricity.
+
+Harvester’s design optimization:
+The conversion mechanism of the harvester is now clarified and the fabrication of the harvester must be presented. To achieve this goal, a study of many configurations is established depending on the bimetals’ dimensions, bimetals’ thermal hysteresis, on the piezoelectric materials and transducer’s positioning. The aim of this design benchmark is to point out the best harvester’s structure that ensures an efficient conversion of heat into electricity. First of all, the harvester being a thermal energy scavenger bound to work without any heat sink, it is important to maintain an important thermal gradient across the structure. This is ensured by using a thermally insulating material. Prototypes thus are made of peek substrate with a copper cylinder at its middle to transfer efficiently the heat flux from the hot source to the bimetal at its top. This material allows taking advantage of its high glass transition temperature around 143°C, as well as its high elastic modulus (3.8GPa) that enhances the piezoceramic clamping and reduces the mechanical energy losses. For the piezoelectric material choice and the bimetallic strip, many options are possible.
+3.1
+                     Positioning of the piezoelectric membrane
+                     The piezoelectric membrane insuring the electro-mechanical conversion step is positioned over the bimetal at the top of the device. Consequently, two different configurations are possible: it can either be clamped at one end of the peek substrate as shown in Fig. 3
+                        b to be used as cantilever or at the opposite it can be clamped at its two ends as shown in Fig. 3a. Hereafter, these two configurations are studied to know the most powerful one. To extract the electrical power available across the piezoceramic capacitor, the output signal of the piezoelectric membrane is measured over the whole range of the operating temperatures of the device (Fig. 4
+                        ). This study enables to extract the optimal working temperature at which the output power reaches a maximum value (Fig. 5
+                        ). This procedure is repeated for each harvester’s architecture to compare their performances.
+                     
+                        Figs. 4 and 5 represent the results of the harvester with a clamped–clamped piezoelectric membrane. The same work is conducted in the case of a clamped-free membrane. The values of the electrical power are compared in Table 1
+                        . This first comparison shows that the double clamped piezoelectric membrane harvests more energy than the clamped-free membrane because the membrane is more stressed in the first harvester’s configuration. The mechanical energy delivered by the bimetal is thus more efficiently converted into electrical energy if the piezoelectric beam is clamped at its two ends.
+3.2
+                     Optimization of different piezoelectric materials properties
+                     Another key point of our system is the choice of the piezoelectric ceramic to convert the mechanical energy released by the switching bimetal into electricity. Based on the method developed in Refs. [15,16], a benchmark of many piezoelectric membranes from different suppliers is carried out to obtain the most adapted transducers to our use case in 3–1 mode. In fact, the study in reported in Ref. [15] first reveals that the d
+                        31 (the piezoelectric coefficient) is the most relevant parameter for our harvester. Secondly, it shows that the Factor Of Merit that is a quantity used to define the performances of the different piezoelectric materials (FOM) is proportional to the output power. Consequently, the author shows that combining the FOM with the d
+                        31 parameter is recommended to choose a good material for piezoelectric energy harvesting. The same strategy thus is followed to compare all the available materials in Tab.2. The expression enabling the calculation of the FOM is given by Eq. (1):
+                           
+                              (1)
+                              
+                                 
+                                    FOM
+                                    =
+                                    
+                                       
+                                          d
+                                       
+                                       
+                                          31
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    /
+                                    ε
+                                 
+                              
+                           
+                        where 
+                           
+                              ε
+                           
+                         is the dielectric constant. Each of the materials in Table 2
+                         shows interesting properties beside our needs. In fact, to harvest heat at high temperatures (40–150°C), the piezoelectric materials must have a Curie temperature as high as possible. All the ceramics used in this study seem to be good candidates.
+                     Membrane 1 has good piezoelectric coefficients that ensure an efficient electro-mechanical transduction. However, membrane 2 and membrane 3 have other important advantages. Whereas membrane 1 has a capacitance of 60nF and membrane 3 a capacitance of 13nF, membrane 2 has a larger capacitance (232nF). Its main drawback is its thickness as it is thicker than membrane 1 and 3. This is a disadvantage from a thermal point of view as the piezoelectric transducer also plays the role of a cold surface. And a higher thermal capacitance implies a smaller snapping frequency of the bimetal. Concerning the membrane 3, it has a robust piezo packaging and it is hermetically sealed for use in harsh environments. Knowing that the harvester is based on mechanical impacts and shocks energy harvesting, this piezo seems to be the most appropriate one from a mechanical point of view as it is not sinterable material and cannot be cracked easily at the opposite of Kepo and piezosystem ceramics.
+                     
+                        Table 2 compares the piezoelectric properties of each of the piezoelectric materials. The factor of merit and the d
+                        31 of each material are compared. It appears from this comparison that membrane 1 is the one presenting the most interesting piezoelectric properties.
+                     To complete the previous piezoelectric benchmark, the three membranes are mounted on peek substrates with the same bimetal in the architecture cavity. The bimetal used for this experiment has a snap temperature of 92°C and a snap-back temperature of 73°C. Following the same procedure as in the previous part, the electrical power of the output signal of each harvester is measured as well as the electrical energy per snapping cycle and the snapping frequency. The experiments results are summed up in Fig. 6
+                        .
+                     The first observation we can make is that the switching frequency of a 19K bimetal hysteresis is much lower than the frequency of a 3K bimetal, as shown in Section 3.1. This is due to the fact that a highly unstable beam needs a longer cooling time so that its temperature reaches the snap-back temperature. Concerning the piezoelectric materials, membranes 1 and 2 are the most powerful ones and the most adapted for thermal energy harvesting. However, for producing a low cost energy harvester, membrane 1 is more adapted.
+3.3
+                     Bimetals of different thermal hystereses and dimensions
+                     A bistable bimetallic strip is characterized by a thermal hysteresis with two specific temperatures. When put on a hot source, the bimetal is being heated up until its temperature reaches a certain snapping temperature T
+                        s. At this point the bimetal snaps up toward the piezoelectric membrane. When it is in contact with this cooling membrane, the bimetal is cooled down until its temperature reaches the snap-back temperature T
+                        sb. At this point the bimetal snaps back, letting the piezomembrane freely vibrate. This cycle is infinitely repeated. Consequently, for our harvester, tests can be performed with various thermal hystereses. Moreover, we can perform experiments with different bimetals sizes. In fact, it is reported in Refs. [13,14] that the higher the bimetal hysteresis is, the higher the amount of mechanical energy delivered at each snap is. The same observation is made for the bimetals dimensions in this article. The remaining problem is related to the device thermal behavior more specifically to the snapping frequency as in fact, the higher the hysteresis of a bimetal is, the lower the snapping frequency will be. Consequently, tests should be carried out to find out the best compromise.
+                     First of all, experiments on different bimetals having the dimensions 36×18×0.3mm3 are performed using a force sensor. The goal is to measure the delivered force by the bimetal when its snaps as a function of its thermal hysteresis. Experiments thus are carried out on bimetals having thermal hystereses ranging from 3K up to 15K. The results are shown in Fig. 7
+                        . In this graph, we observe that bimetals with a larger thermal hysteresis deliver higher amounts of kinetic energy. However, there is a main drawback in using highly unstable bimetals, since the higher amounts of mechanical energy per snap for high thermal hysteresis bimetals do not balance for the decrease of the switching frequency of the bimetallic strips as it is reported in Ref. [17] and thus the higher the hysteresis is, the lower the harvested power is.
+                     To increase the output power without increasing the thermal hysteresis, another solution is possible: increasing the bimetals size. Using the model reported in Ref. [14], simulations are carried out to study the impact of the bimetal’s size and dimensions on the available mechanical energy per snapping cycle. The results are shown in Fig. 8
+                         where the case of 36×18×0.3mm3 and 48×24×0.4mm3 bimetals is studied in function of different thermal hystereses (from 3K up to 15K). For every hot source temperature, we observe that the bimetal of bigger dimensions produces higher amount of mechanical energy.
+
+Positioning of the piezoelectric membrane:
+The piezoelectric membrane insuring the electro-mechanical conversion step is positioned over the bimetal at the top of the device. Consequently, two different configurations are possible: it can either be clamped at one end of the peek substrate as shown in Fig. 3
+                        b to be used as cantilever or at the opposite it can be clamped at its two ends as shown in Fig. 3a. Hereafter, these two configurations are studied to know the most powerful one. To extract the electrical power available across the piezoceramic capacitor, the output signal of the piezoelectric membrane is measured over the whole range of the operating temperatures of the device (Fig. 4
+                        ). This study enables to extract the optimal working temperature at which the output power reaches a maximum value (Fig. 5
+                        ). This procedure is repeated for each harvester’s architecture to compare their performances.
+Figs. 4 and 5 represent the results of the harvester with a clamped–clamped piezoelectric membrane. The same work is conducted in the case of a clamped-free membrane. The values of the electrical power are compared in Table 1
+                        . This first comparison shows that the double clamped piezoelectric membrane harvests more energy than the clamped-free membrane because the membrane is more stressed in the first harvester’s configuration. The mechanical energy delivered by the bimetal is thus more efficiently converted into electrical energy if the piezoelectric beam is clamped at its two ends.
+
+Optimization of different piezoelectric materials properties:
+Another key point of our system is the choice of the piezoelectric ceramic to convert the mechanical energy released by the switching bimetal into electricity. Based on the method developed in Refs. [15,16], a benchmark of many piezoelectric membranes from different suppliers is carried out to obtain the most adapted transducers to our use case in 3–1 mode. In fact, the study in reported in Ref. [15] first reveals that the d
+                        31 (the piezoelectric coefficient) is the most relevant parameter for our harvester. Secondly, it shows that the Factor Of Merit that is a quantity used to define the performances of the different piezoelectric materials (FOM) is proportional to the output power. Consequently, the author shows that combining the FOM with the d
+                        31 parameter is recommended to choose a good material for piezoelectric energy harvesting. The same strategy thus is followed to compare all the available materials in Tab.2. The expression enabling the calculation of the FOM is given by Eq. (1):
+                           
+                              (1)
+                              
+                                 
+                                    FOM
+                                    =
+                                    
+                                       
+                                          d
+                                       
+                                       
+                                          31
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    /
+                                    ε
+                                 
+                              
+                           
+                        where 
+                           
+                              ε
+                           
+                         is the dielectric constant. Each of the materials in Table 2
+                         shows interesting properties beside our needs. In fact, to harvest heat at high temperatures (40–150°C), the piezoelectric materials must have a Curie temperature as high as possible. All the ceramics used in this study seem to be good candidates.
+Membrane 1 has good piezoelectric coefficients that ensure an efficient electro-mechanical transduction. However, membrane 2 and membrane 3 have other important advantages. Whereas membrane 1 has a capacitance of 60nF and membrane 3 a capacitance of 13nF, membrane 2 has a larger capacitance (232nF). Its main drawback is its thickness as it is thicker than membrane 1 and 3. This is a disadvantage from a thermal point of view as the piezoelectric transducer also plays the role of a cold surface. And a higher thermal capacitance implies a smaller snapping frequency of the bimetal. Concerning the membrane 3, it has a robust piezo packaging and it is hermetically sealed for use in harsh environments. Knowing that the harvester is based on mechanical impacts and shocks energy harvesting, this piezo seems to be the most appropriate one from a mechanical point of view as it is not sinterable material and cannot be cracked easily at the opposite of Kepo and piezosystem ceramics.
+Table 2 compares the piezoelectric properties of each of the piezoelectric materials. The factor of merit and the d
+                        31 of each material are compared. It appears from this comparison that membrane 1 is the one presenting the most interesting piezoelectric properties.
+To complete the previous piezoelectric benchmark, the three membranes are mounted on peek substrates with the same bimetal in the architecture cavity. The bimetal used for this experiment has a snap temperature of 92°C and a snap-back temperature of 73°C. Following the same procedure as in the previous part, the electrical power of the output signal of each harvester is measured as well as the electrical energy per snapping cycle and the snapping frequency. The experiments results are summed up in Fig. 6
+                        .
+The first observation we can make is that the switching frequency of a 19K bimetal hysteresis is much lower than the frequency of a 3K bimetal, as shown in Section 3.1. This is due to the fact that a highly unstable beam needs a longer cooling time so that its temperature reaches the snap-back temperature. Concerning the piezoelectric materials, membranes 1 and 2 are the most powerful ones and the most adapted for thermal energy harvesting. However, for producing a low cost energy harvester, membrane 1 is more adapted.
+
+Bimetals of different thermal hystereses and dimensions:
+A bistable bimetallic strip is characterized by a thermal hysteresis with two specific temperatures. When put on a hot source, the bimetal is being heated up until its temperature reaches a certain snapping temperature T
+                        s. At this point the bimetal snaps up toward the piezoelectric membrane. When it is in contact with this cooling membrane, the bimetal is cooled down until its temperature reaches the snap-back temperature T
+                        sb. At this point the bimetal snaps back, letting the piezomembrane freely vibrate. This cycle is infinitely repeated. Consequently, for our harvester, tests can be performed with various thermal hystereses. Moreover, we can perform experiments with different bimetals sizes. In fact, it is reported in Refs. [13,14] that the higher the bimetal hysteresis is, the higher the amount of mechanical energy delivered at each snap is. The same observation is made for the bimetals dimensions in this article. The remaining problem is related to the device thermal behavior more specifically to the snapping frequency as in fact, the higher the hysteresis of a bimetal is, the lower the snapping frequency will be. Consequently, tests should be carried out to find out the best compromise.
+First of all, experiments on different bimetals having the dimensions 36×18×0.3mm3 are performed using a force sensor. The goal is to measure the delivered force by the bimetal when its snaps as a function of its thermal hysteresis. Experiments thus are carried out on bimetals having thermal hystereses ranging from 3K up to 15K. The results are shown in Fig. 7
+                        . In this graph, we observe that bimetals with a larger thermal hysteresis deliver higher amounts of kinetic energy. However, there is a main drawback in using highly unstable bimetals, since the higher amounts of mechanical energy per snap for high thermal hysteresis bimetals do not balance for the decrease of the switching frequency of the bimetallic strips as it is reported in Ref. [17] and thus the higher the hysteresis is, the lower the harvested power is.
+To increase the output power without increasing the thermal hysteresis, another solution is possible: increasing the bimetals size. Using the model reported in Ref. [14], simulations are carried out to study the impact of the bimetal’s size and dimensions on the available mechanical energy per snapping cycle. The results are shown in Fig. 8
+                         where the case of 36×18×0.3mm3 and 48×24×0.4mm3 bimetals is studied in function of different thermal hystereses (from 3K up to 15K). For every hot source temperature, we observe that the bimetal of bigger dimensions produces higher amount of mechanical energy.
+
+Interpretation and discussion:
+This benchmarking and design optimization work allowed obtaining the best harvester’s configuration. It showed that the most interesting configuration uses a double clamped piezoelectric membrane. Moreover, a comparative study was conducted to find out the most efficient piezoelectric membrane. We found out that Kepo membranes are the most adapted ones to our use case in view of its interesting piezoelectric properties, its low cost and low thermal capacitance in comparison with the other compared membranes. Finally, guidelines are given for future improvements of the electrical performances of the harvesters. Low thermal hysteresis bimetals of 3K give a good compromise between the thermal and electrical properties and further improvements are consequently possible by increasing the bimetals’ dimensions and keeping their thermal hysteresis as low as 3K.
+
+Conclusion:
+This paper established a complete benchmark of the thermal energy harvester based on the use of bimetallic strip heat engines and piezoelectric transducers. Each component of the harvester was studied separately and experimental tests were carried out on it to observe its impact and influence on the available electrical power. From this study, one configuration stood out as presenting the best compromise between the different aspects and constraints. Furthermore, future ways of improvements were presented in regards of the used bimetallic strips.
+
+Acknowledgment:
+This work was funded by the Fonds Unique Interministériel (FUI), through the HEATec project.
+
+Body:
+Wireless sensor networks have known an important development these last years thanks to the reduction in size and in the power consumptions of the CMOS circuitry. The aim of such intelligent networks is to replace long transmission distances with thousands of low cost and low power wireless devices. Intelligent environments are consequently created and allow the monitoring of numerous quantities in environments usually run on batteries. Batteries have many drawbacks related to their wiring, their short lifetime and their elevated costs which do not make them the most adapted solution for powering autonomous node networks: in fact, replacing thousands of batteries every year in areas difficult to access could sometimes be impractical. To make wireless sensor nodes become autonomous and self-sufficient all over their lifetime, many energy harvesting devices have been developed. The goal is to scavenge the available energies in the environment of the nodes and to convert it into usable electrical power. Resources like mechanical vibrations are harvested thanks to piezoelectric materials as reported in Refs. [1,2], solar energy using photovoltaic modules as seen in Ref. [3] and heat flows using thermoelectric structures in Ref. [4] or pyroelectric materials as shown in Refs. [5,6]. In the thermal field, thermoelectric generators based on the Seebeck effect are the most used because of their efficiency. They use solid-state materials exhibiting high electrical conductivities but also high thermal conductivities in the same time. This property makes very difficult to maintain a significant temperature difference across the generator especially when the operating temperature is close to the ambient temperature. This leads to the use of heat sinks and thus raises the issue of compactness of the device as the heat sink represents the main part of the harvester as reported in Ref. [7].
+
+To avoid the drawbacks related to thermoelectric generators, thin and compact devices capable of harvesting heat flows each time a thermal gradient is available, including those close to ambient temperature, without any heat sink, have been developed and reported in Refs. [8–11]. They convert wasted heat into electrical energy by means of thermo-mechanically bistable bimetallic strips and piezoelectric membranes.
+
+This paper presents an optimization work of a piezoelectric bimetallic strip heat engine in order to find the most efficient harvester’s design. The first part of this article is devoted to the explanation of the device’s working principle. In the second part, the main guidelines to find the most efficient design are exposed and experimentally tested and validated. The last part is about the interpretation and discussions of the previous experiments.
+
+The thermal energy harvester reported in this paper is based on a double steps conversion mechanism of wasted heat flux into usable electricity. This is possible thanks to a bimetallic strip heat engine converting thermal energy into mechanical energy by exploiting the thermo-mechanical bistability of bimetal membranes made of two materials having a mismatch of their coefficients of thermal expansion.
+
+In this article, bimetallic shells made of Invar and NC4 alloy (Invar (Fe–Ni 36%) acting as the low coefficient of thermal expansion coefficient (CTE) layer and NC4 (Fe–Ni 22%–Cr 3%) acting as the high CTE layer) are mounted in the harvester (Fig. 1
+                     ). The antagonistic effect of the thermal mismatch of the shell’s materials and the initial curvature of the membrane are at the origin of the bistable behavior of the shell characterized by a thermal hysteresis, as reported by Wittrick in Ref. [12].
+
+Fig. 2
+                      shows the general scheme of the harvester and shape of the bistable bimetal that snaps up or snaps down each time its temperature reaches the hysteresis temperatures called the snapping temperature T
+                     s and the snapping back one T
+                     sb. Arnaud et al. explained in more details the working principle of such heat engines in Refs. [13,14].
+
+To convert the kinetic energy released by the snapping bimetals, the bistable membrane is coupled with a piezoelectric transducer. That way, each time the bimetal snaps up, it impacts the piezoelectric membrane and the piezoelectric transducers oscillates at its resonance frequency. At the opposite, when the bimetal snaps down, it releases the piezoelectric transducer allowing it to vibrate freely. Consequently, during these two phases, the bimetal mechanical energy is converted into electricity.
+
+The conversion mechanism of the harvester is now clarified and the fabrication of the harvester must be presented. To achieve this goal, a study of many configurations is established depending on the bimetals’ dimensions, bimetals’ thermal hysteresis, on the piezoelectric materials and transducer’s positioning. The aim of this design benchmark is to point out the best harvester’s structure that ensures an efficient conversion of heat into electricity. First of all, the harvester being a thermal energy scavenger bound to work without any heat sink, it is important to maintain an important thermal gradient across the structure. This is ensured by using a thermally insulating material. Prototypes thus are made of peek substrate with a copper cylinder at its middle to transfer efficiently the heat flux from the hot source to the bimetal at its top. This material allows taking advantage of its high glass transition temperature around 143°C, as well as its high elastic modulus (3.8GPa) that enhances the piezoceramic clamping and reduces the mechanical energy losses. For the piezoelectric material choice and the bimetallic strip, many options are possible.
+
+The piezoelectric membrane insuring the electro-mechanical conversion step is positioned over the bimetal at the top of the device. Consequently, two different configurations are possible: it can either be clamped at one end of the peek substrate as shown in Fig. 3
+                        b to be used as cantilever or at the opposite it can be clamped at its two ends as shown in Fig. 3a. Hereafter, these two configurations are studied to know the most powerful one. To extract the electrical power available across the piezoceramic capacitor, the output signal of the piezoelectric membrane is measured over the whole range of the operating temperatures of the device (Fig. 4
+                        ). This study enables to extract the optimal working temperature at which the output power reaches a maximum value (Fig. 5
+                        ). This procedure is repeated for each harvester’s architecture to compare their performances.
+
+Figs. 4 and 5 represent the results of the harvester with a clamped–clamped piezoelectric membrane. The same work is conducted in the case of a clamped-free membrane. The values of the electrical power are compared in Table 1
+                        . This first comparison shows that the double clamped piezoelectric membrane harvests more energy than the clamped-free membrane because the membrane is more stressed in the first harvester’s configuration. The mechanical energy delivered by the bimetal is thus more efficiently converted into electrical energy if the piezoelectric beam is clamped at its two ends.
+
+Another key point of our system is the choice of the piezoelectric ceramic to convert the mechanical energy released by the switching bimetal into electricity. Based on the method developed in Refs. [15,16], a benchmark of many piezoelectric membranes from different suppliers is carried out to obtain the most adapted transducers to our use case in 3–1 mode. In fact, the study in reported in Ref. [15] first reveals that the d
+                        31 (the piezoelectric coefficient) is the most relevant parameter for our harvester. Secondly, it shows that the Factor Of Merit that is a quantity used to define the performances of the different piezoelectric materials (FOM) is proportional to the output power. Consequently, the author shows that combining the FOM with the d
+                        31 parameter is recommended to choose a good material for piezoelectric energy harvesting. The same strategy thus is followed to compare all the available materials in Tab.2. The expression enabling the calculation of the FOM is given by Eq. (1):
+                           
+                              (1)
+                              
+                                 
+                                    FOM
+                                    =
+                                    
+                                       
+                                          d
+                                       
+                                       
+                                          31
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    /
+                                    ε
+                                 
+                              
+                           
+                        where 
+                           
+                              ε
+                           
+                         is the dielectric constant. Each of the materials in Table 2
+                         shows interesting properties beside our needs. In fact, to harvest heat at high temperatures (40–150°C), the piezoelectric materials must have a Curie temperature as high as possible. All the ceramics used in this study seem to be good candidates.
+
+Membrane 1 has good piezoelectric coefficients that ensure an efficient electro-mechanical transduction. However, membrane 2 and membrane 3 have other important advantages. Whereas membrane 1 has a capacitance of 60nF and membrane 3 a capacitance of 13nF, membrane 2 has a larger capacitance (232nF). Its main drawback is its thickness as it is thicker than membrane 1 and 3. This is a disadvantage from a thermal point of view as the piezoelectric transducer also plays the role of a cold surface. And a higher thermal capacitance implies a smaller snapping frequency of the bimetal. Concerning the membrane 3, it has a robust piezo packaging and it is hermetically sealed for use in harsh environments. Knowing that the harvester is based on mechanical impacts and shocks energy harvesting, this piezo seems to be the most appropriate one from a mechanical point of view as it is not sinterable material and cannot be cracked easily at the opposite of Kepo and piezosystem ceramics.
+
+Table 2 compares the piezoelectric properties of each of the piezoelectric materials. The factor of merit and the d
+                        31 of each material are compared. It appears from this comparison that membrane 1 is the one presenting the most interesting piezoelectric properties.
+
+To complete the previous piezoelectric benchmark, the three membranes are mounted on peek substrates with the same bimetal in the architecture cavity. The bimetal used for this experiment has a snap temperature of 92°C and a snap-back temperature of 73°C. Following the same procedure as in the previous part, the electrical power of the output signal of each harvester is measured as well as the electrical energy per snapping cycle and the snapping frequency. The experiments results are summed up in Fig. 6
+                        .
+
+The first observation we can make is that the switching frequency of a 19K bimetal hysteresis is much lower than the frequency of a 3K bimetal, as shown in Section 3.1. This is due to the fact that a highly unstable beam needs a longer cooling time so that its temperature reaches the snap-back temperature. Concerning the piezoelectric materials, membranes 1 and 2 are the most powerful ones and the most adapted for thermal energy harvesting. However, for producing a low cost energy harvester, membrane 1 is more adapted.
+
+A bistable bimetallic strip is characterized by a thermal hysteresis with two specific temperatures. When put on a hot source, the bimetal is being heated up until its temperature reaches a certain snapping temperature T
+                        s. At this point the bimetal snaps up toward the piezoelectric membrane. When it is in contact with this cooling membrane, the bimetal is cooled down until its temperature reaches the snap-back temperature T
+                        sb. At this point the bimetal snaps back, letting the piezomembrane freely vibrate. This cycle is infinitely repeated. Consequently, for our harvester, tests can be performed with various thermal hystereses. Moreover, we can perform experiments with different bimetals sizes. In fact, it is reported in Refs. [13,14] that the higher the bimetal hysteresis is, the higher the amount of mechanical energy delivered at each snap is. The same observation is made for the bimetals dimensions in this article. The remaining problem is related to the device thermal behavior more specifically to the snapping frequency as in fact, the higher the hysteresis of a bimetal is, the lower the snapping frequency will be. Consequently, tests should be carried out to find out the best compromise.
+
+First of all, experiments on different bimetals having the dimensions 36×18×0.3mm3 are performed using a force sensor. The goal is to measure the delivered force by the bimetal when its snaps as a function of its thermal hysteresis. Experiments thus are carried out on bimetals having thermal hystereses ranging from 3K up to 15K. The results are shown in Fig. 7
+                        . In this graph, we observe that bimetals with a larger thermal hysteresis deliver higher amounts of kinetic energy. However, there is a main drawback in using highly unstable bimetals, since the higher amounts of mechanical energy per snap for high thermal hysteresis bimetals do not balance for the decrease of the switching frequency of the bimetallic strips as it is reported in Ref. [17] and thus the higher the hysteresis is, the lower the harvested power is.
+
+To increase the output power without increasing the thermal hysteresis, another solution is possible: increasing the bimetals size. Using the model reported in Ref. [14], simulations are carried out to study the impact of the bimetal’s size and dimensions on the available mechanical energy per snapping cycle. The results are shown in Fig. 8
+                         where the case of 36×18×0.3mm3 and 48×24×0.4mm3 bimetals is studied in function of different thermal hystereses (from 3K up to 15K). For every hot source temperature, we observe that the bimetal of bigger dimensions produces higher amount of mechanical energy.
+
+This benchmarking and design optimization work allowed obtaining the best harvester’s configuration. It showed that the most interesting configuration uses a double clamped piezoelectric membrane. Moreover, a comparative study was conducted to find out the most efficient piezoelectric membrane. We found out that Kepo membranes are the most adapted ones to our use case in view of its interesting piezoelectric properties, its low cost and low thermal capacitance in comparison with the other compared membranes. Finally, guidelines are given for future improvements of the electrical performances of the harvesters. Low thermal hysteresis bimetals of 3K give a good compromise between the thermal and electrical properties and further improvements are consequently possible by increasing the bimetals’ dimensions and keeping their thermal hysteresis as low as 3K.
+
+This paper established a complete benchmark of the thermal energy harvester based on the use of bimetallic strip heat engines and piezoelectric transducers. Each component of the harvester was studied separately and experimental tests were carried out on it to observe its impact and influence on the available electrical power. From this study, one configuration stood out as presenting the best compromise between the different aspects and constraints. Furthermore, future ways of improvements were presented in regards of the used bimetallic strips.
+
+This work was funded by the Fonds Unique Interministériel (FUI), through the HEATec project.

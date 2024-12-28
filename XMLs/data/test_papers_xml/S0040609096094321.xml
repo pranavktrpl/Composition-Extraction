@@ -1,0 +1,977 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0040609096094321</prism:url><dc:identifier>doi:10.1016/S0040-6090(96)09432-1</dc:identifier><eid>1-s2.0-S0040609096094321</eid><prism:doi>10.1016/S0040-6090(96)09432-1</prism:doi><pii>S0040-6090(96)09432-1</pii><dc:title>Fabrication and characterisation of Al2O3 porous bodies by hot isostatic pressing </dc:title><prism:publicationName>Thin Solid Films</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00406090</prism:issn><prism:volume>297</prism:volume><prism:issueIdentifier>1-2</prism:issueIdentifier><prism:startingPage>207</prism:startingPage><prism:endingPage>211</prism:endingPage><prism:pageRange>207-211</prism:pageRange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1997-04-01</prism:coverDate><prism:coverDisplayDate>1 April 1997</prism:coverDisplayDate><prism:copyright>Copyright © 1997 Elsevier Science S.A. All rights reserved.</prism:copyright><prism:publisher>Elsevier Science S.A.</prism:publisher><dc:creator>Biasini, V</dc:creator><dc:creator>Parasporo, M</dc:creator><dc:creator>Bellosi, A</dc:creator><dc:description>
+                  Porous ceramic filters have applications in many industrial areas. The major requirements for filter materials are high porosity, high mechanical strength and uniform pore size. However, conventional fabrication methods cannot produce materials with both high porosity and high strength, since an increase in porosity usually results in a decrease in strength. A method has been reported to obtain porous materials of high strength and high porosity by hot isostatic pressing (HIP), because the high pressurised gas prevents shrinkage of open pores and enhances bridging of particles.
+                  In the present study several commercial Al2O3 starting powders were uniaxially and isostatically pressed and the green compacts were directly treated under different HIP conditions. The microstructure (grain size and shape, density and pore size distribution) of the HIP products was evaluated and then compared to that of the traditionally sintered ones in order to investigate the influence of starting powder characteristics, forming process and thermal treatment parameters on the characteristics of the final materials. © 1997 Elsevier Science S.A.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Aluminium oxide</dcterms:subject><dcterms:subject>Hot isostatic pressing</dcterms:subject><dcterms:subject>Ceramics</dcterms:subject><dcterms:subject>Fabrication</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0040609096094321" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0040609096094321" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="86" size="1135">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="361" height="247" size="4705">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="59" height="94" size="2478">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="361" height="573" size="96645">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="120" height="93" size="4738">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="364" height="283" size="42035">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="58" height="92" size="2631">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="360" height="574" size="89933">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="58" height="93" size="2498">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="361" height="576" size="81346">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr5.gif?httpAccept=%2A%2F%2A</object><object ref="gr6a" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="81" size="1079">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr6a.sml?httpAccept=%2A%2F%2A</object><object ref="gr6a" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="363" height="236" size="5005">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr6a.gif?httpAccept=%2A%2F%2A</object><object ref="gr6b" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="81" size="1099">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr6b.sml?httpAccept=%2A%2F%2A</object><object ref="gr6b" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="363" height="235" size="5267">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr6b.gif?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="83" size="1114">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="364" height="241" size="5104">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609096094321-gr7.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>0031123448</scopus-id><scopus-eid>2-s2.0-0031123448</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0031123448" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271603</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Thin Solid Films</xocs:srctitle>
+      <xocs:normalized-srctitle>THINSOLIDFILMS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="19980513">1998-05-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="19980519">1998-05-19</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-06T06:22:49</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0040609096094321</xocs:eid>
+      <xocs:pii-formatted>S0040-6090(96)09432-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0040609096094321</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0040-6090(96)09432-1</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0040609000X00430</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T02:53:03.814387-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19970401</xocs:date-search-begin>
+      <xocs:year-nav>1997</xocs:year-nav>
+      <xocs:indexeddate epoch="895017600">1998-05-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0040-6090</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00406090</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>297</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>297</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>2</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 297, Issues 1–2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>46</xocs:sort-order>
+      <xocs:first-fp>207</xocs:first-fp>
+      <xocs:last-lp>211</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>207</xocs:first-page>
+         <xocs:last-page>211</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>19970401</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 April 1997</xocs:cover-date-text>
+      <xocs:cover-date-start>1997-04-01</xocs:cover-date-start>
+      <xocs:cover-date-year>1997</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1997 Elsevier Science S.A. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>FABRICATIONCHARACTERISATIONAL2O3POROUSBODIESBYHOTISOSTATICPRESSING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BIASINI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>V</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of heat treatment conditions on porosity and microstructure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The effect of forming pressure on porosity and strength</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effects of powder characteristics on strength</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1"/>
+         <xocs:ref-info refid="BIB2"/>
+         <xocs:ref-info refid="BIB3"/>
+         <xocs:ref-info refid="BIB4"/>
+         <xocs:ref-info refid="BIB5"/>
+         <xocs:ref-info refid="BIB6"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BIASINIX1997X207</xocs:refkey3>
+         <xocs:refkey4lp>BIASINIX1997X207X211</xocs:refkey4lp>
+         <xocs:refkey4ai>BIASINIX1997X207XV</xocs:refkey4ai>
+         <xocs:refkey5>BIASINIX1997X207X211XV</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0040-6090(96)09432-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0040609096094321</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0040609096094321</xocs:eid>
+         <xocs:doi>10.1016/S0040-6090(96)09432-1</xocs:doi>
+         <xocs:cid>271603</xocs:cid>
+         <xocs:timestamp>2010-11-03T01:56:33.542113-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1997-04-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/MAIN/application/pdf/b9baa5a9a79dbc57d9a3189f8e7d866b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/MAIN/application/pdf/b9baa5a9a79dbc57d9a3189f8e7d866b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>958327</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0040609096094321-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/PREVIEW/image/png/8befa5cb4ef3d75ebdba39aaf6284447/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/PREVIEW/image/png/8befa5cb4ef3d75ebdba39aaf6284447/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>66900</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr1/THUMBNAIL/image/gif/08377f22833891d230aebfcc6a8e559a/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr1/THUMBNAIL/image/gif/08377f22833891d230aebfcc6a8e559a/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1135</xocs:filesize>
+               <xocs:pixel-height>86</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr1/DOWNSAMPLED/image/gif/3c2eb3b392276c4fa44ff62b82bf16d1/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr1/DOWNSAMPLED/image/gif/3c2eb3b392276c4fa44ff62b82bf16d1/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>4705</xocs:filesize>
+               <xocs:pixel-height>247</xocs:pixel-height>
+               <xocs:pixel-width>361</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr2/THUMBNAIL/image/gif/b5af7f4594c88671974524d81db422d5/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr2/THUMBNAIL/image/gif/b5af7f4594c88671974524d81db422d5/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2478</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>59</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr2/DOWNSAMPLED/image/jpeg/75b94d78ee92f12672ebe2f7bd9108d4/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr2/DOWNSAMPLED/image/jpeg/75b94d78ee92f12672ebe2f7bd9108d4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>96645</xocs:filesize>
+               <xocs:pixel-height>573</xocs:pixel-height>
+               <xocs:pixel-width>361</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr3/THUMBNAIL/image/gif/55112db4360af5fe33283ba19e22d970/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr3/THUMBNAIL/image/gif/55112db4360af5fe33283ba19e22d970/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4738</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>120</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr3/DOWNSAMPLED/image/jpeg/8a0f31f2fd3c0692105a594a0a23af58/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr3/DOWNSAMPLED/image/jpeg/8a0f31f2fd3c0692105a594a0a23af58/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42035</xocs:filesize>
+               <xocs:pixel-height>283</xocs:pixel-height>
+               <xocs:pixel-width>364</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr4/THUMBNAIL/image/gif/7d2c56ac849b041aaf72491b8a4cb90a/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr4/THUMBNAIL/image/gif/7d2c56ac849b041aaf72491b8a4cb90a/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2631</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>58</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr4/DOWNSAMPLED/image/jpeg/a8cbb9054de2d4744471d12eb81b4592/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr4/DOWNSAMPLED/image/jpeg/a8cbb9054de2d4744471d12eb81b4592/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>89933</xocs:filesize>
+               <xocs:pixel-height>574</xocs:pixel-height>
+               <xocs:pixel-width>360</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr5/THUMBNAIL/image/gif/d0ccff49048c84ec099626519f9cfc83/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr5/THUMBNAIL/image/gif/d0ccff49048c84ec099626519f9cfc83/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2498</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>58</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr5/DOWNSAMPLED/image/gif/0e5397b53c87215b669f082492d9373a/gr5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr5/DOWNSAMPLED/image/gif/0e5397b53c87215b669f082492d9373a/gr5.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>81346</xocs:filesize>
+               <xocs:pixel-height>576</xocs:pixel-height>
+               <xocs:pixel-width>361</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr6a.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr6a/THUMBNAIL/image/gif/7e0ff75c60ae437b2abd253c317a75ed/gr6a.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr6a/THUMBNAIL/image/gif/7e0ff75c60ae437b2abd253c317a75ed/gr6a.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6a</xocs:file-basename>
+               <xocs:filename>gr6a.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1079</xocs:filesize>
+               <xocs:pixel-height>81</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr6a.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr6a/DOWNSAMPLED/image/gif/9d2574bc04782d8c80f5527406e20972/gr6a.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr6a/DOWNSAMPLED/image/gif/9d2574bc04782d8c80f5527406e20972/gr6a.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr6a</xocs:file-basename>
+               <xocs:filename>gr6a.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5005</xocs:filesize>
+               <xocs:pixel-height>236</xocs:pixel-height>
+               <xocs:pixel-width>363</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr6b.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr6b/THUMBNAIL/image/gif/cba88ccb10dfe96996b73d86248c9880/gr6b.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr6b/THUMBNAIL/image/gif/cba88ccb10dfe96996b73d86248c9880/gr6b.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6b</xocs:file-basename>
+               <xocs:filename>gr6b.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1099</xocs:filesize>
+               <xocs:pixel-height>81</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr6b.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr6b/DOWNSAMPLED/image/gif/ac7a079708107c459bc5bd5c36f6b3ed/gr6b.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr6b/DOWNSAMPLED/image/gif/ac7a079708107c459bc5bd5c36f6b3ed/gr6b.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr6b</xocs:file-basename>
+               <xocs:filename>gr6b.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5267</xocs:filesize>
+               <xocs:pixel-height>235</xocs:pixel-height>
+               <xocs:pixel-width>363</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr7/THUMBNAIL/image/gif/3505f96b68c9884636c03900e477479e/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr7/THUMBNAIL/image/gif/3505f96b68c9884636c03900e477479e/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1114</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609096094321-gr7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609096094321/gr7/DOWNSAMPLED/image/gif/452e68d57f3c2cd677ee6d50783bc53c/gr7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609096094321/gr7/DOWNSAMPLED/image/gif/452e68d57f3c2cd677ee6d50783bc53c/gr7.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5104</xocs:filesize>
+               <xocs:pixel-height>241</xocs:pixel-height>
+               <xocs:pixel-width>364</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>TSF</jid>
+            <aid>9432</aid>
+            <ce:pii>S0040-6090(96)09432-1</ce:pii>
+            <ce:doi>10.1016/S0040-6090(96)09432-1</ce:doi>
+            <ce:copyright year="1997" type="full-transfer">Elsevier Science S.A.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Typical HIP schedule.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Fracture surfaces of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> Ceralox HPA 0.5 HIPped at 1250 °C×1 h (a) and 1300 °C×1 h (b), 100 MPa of Ar.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Microstructure of sample of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> Ceralox HPA 0.5 after HIP at 1300 °C×1 h (CIP pressure, 100 MPa).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="FIG4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Comparison between the effects of HIPping (a) and pressureless sintering (b) processes on the microstructure of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> Reynolds (in both cases <ce:italic>P</ce:italic>
+                     <ce:inf loc="post">CIP</ce:inf>=100 MPa and <ce:italic>T</ce:italic>=1300 °C×1 h).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="FIG5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Fracture surfaces of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> Ceralox HPA 0.5 (a) after HIP at 1300 °C×1 h in 100 MPa of Ar and (b) pressureless sintered at 1300 °C×1 h. Both samples underwent CIP at 100 MPa.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="FIG6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Pore size distribution curves for Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> Baikalox after HIP at 1300 °C×1 h, 100 MPa of Ar. Comparison between different CIP pressures: (a) 50 MPa and (b) 100 MPa.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6a"/>
+               <ce:link locator="gr6b"/>
+            </ce:figure>
+            <ce:figure id="FIG7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The effect of CIP pressure on the flexural strength for all the tested powders after HIP at 1300 °C×1 h in 100 MPa of Ar.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Chemical and physical characteristics of the Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> starting powders</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Powder</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Purity</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Specific surface</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Equivalent spherical</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Density</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crystalline</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">area (m<sup loc="post">2</sup> g<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">diameter (μm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(g cm<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">phase</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Reynolds</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">99.95</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.95</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>α</italic>-Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RC-HP DBM</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alcoa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">99.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.58</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.99</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>α</italic>-Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">A-16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Baikalox</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">99.9998</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">27.26</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.058</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.89</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>α</italic>-Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CR30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceralox</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">99.97</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10.63</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.94</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>α</italic>-Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">APA 0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceralox</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">99.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.95</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>α</italic>-Al<inf loc="post">2</inf>O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HPA 0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL2" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Characteristics of HIP and pressureless sintered samples</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Powder</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CIP pressure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>ρ</italic>
+                           <inf loc="post">green</inf>/<italic>ρ</italic>
+                           <inf loc="post">th</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>ρ</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>ρ</italic>/<italic>ρ</italic>
+                           <inf loc="post">th</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Average pore</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(MPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(g cm<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(g cm<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">radius (μm)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col6">HIP 1300 °C×1 h, 100 MPa Ar</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Reynolds</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.69</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">68.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">58.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">63.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alcoa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">55.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">67.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.73</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">68.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.050</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Baikalox</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.95</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.059</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">42.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">49.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceralox APA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">57.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.46</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">62.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.046</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">59.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">70.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.040</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceralox HPA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">67.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.038</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">57.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">78.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.040</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col6">HIP 1250 °C×1 h, 100 MPa Ar</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Reynolds</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">62.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.057</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">58.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">62.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alcoa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">55.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">63.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">66.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Baikalox</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">41.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">42.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">48.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceralox APA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">57.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">60.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">59.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">60.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.038</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceralox HPA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">60.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">57.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.46</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">62.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.046</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col6">Pressureless sintering 1300 °C×1 h</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Reynolds</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.69</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">68.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">58.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">70.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alcoa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">55.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.69</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">67.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.046</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">69.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Baikalox</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">48.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.059</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">42.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.74</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">44.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.057</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceralox APA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">57.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">72.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.038</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">59.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">70.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.038</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceralox HPA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">65.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">57.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.74</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">69.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.046</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Fabrication and characterisation of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> porous bodies by hot isostatic pressing</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>V</ce:given-name>
+                  <ce:surname>Biasini</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>M</ce:given-name>
+                  <ce:surname>Parasporo</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A</ce:given-name>
+                  <ce:surname>Bellosi</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Research Institute for Ceramic Technology, National Research Council, Faenza, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Porous ceramic filters have applications in many industrial areas. The major requirements for filter materials are high porosity, high mechanical strength and uniform pore size. However, conventional fabrication methods cannot produce materials with both high porosity and high strength, since an increase in porosity usually results in a decrease in strength. A method has been reported to obtain porous materials of high strength and high porosity by hot isostatic pressing (HIP), because the high pressurised gas prevents shrinkage of open pores and enhances bridging of particles.</ce:simple-para>
+                  <ce:simple-para view="all">In the present study several commercial Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> starting powders were uniaxially and isostatically pressed and the green compacts were directly treated under different HIP conditions. The microstructure (grain size and shape, density and pore size distribution) of the HIP products was evaluated and then compared to that of the traditionally sintered ones in order to investigate the influence of starting powder characteristics, forming process and thermal treatment parameters on the characteristics of the final materials. © 1997 Elsevier Science S.A.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Aluminium oxide</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Hot isostatic pressing</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ceramics</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Fabrication</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Porous ceramic materials offer a number of useful properties including low density, high-temperature stability, permeability, high surface area and thermal shock resistance. Porous ceramics, especially open pore materials, are important for industrial applications as filters. The major requirements for such filter materials are sufficiently high porosity, high mechanical strength and uniform pore size. It is, however, difficult, by the conventional processes, to simultaneously satisfy the requirements for porosity and strength, because they are frequently contradictory. A method has been reported <ce:cross-refs refid="BIB1 BIB2 BIB3 BIB4 BIB5">[1–5]</ce:cross-refs>to improve the mechanical properties of ceramic materials while retaining adequate porosity by hot isostatic pressing (HIP) of as-pressed powders, because the high gas pressure prevents densification and enhances bridging between particles. Moreover this method favours the elimination of microcracks and closed pores <ce:cross-ref refid="BIB1">[1]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Preliminary results of a study aimed to obtain porous Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, one of the most widely used porous ceramics, especially for filters, starting from several commercial powders, are presented. Bulk Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> samples were produced by HIP and the final microstructure was correlated to the process controlling factors such as starting powder characteristics, forming process and thermal treatment parameters.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental procedures</ce:section-title>
+                  <ce:para view="all">Five commercial Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> powders were selected: RC-HP DBM (Reynolds), A-16 (Alcoa), Baikalox CR30 (Baikowski Chemie), Ceralox APA 0.5 and Ceralox HPA 0.5 (Condea). The physical and chemical characteristics of the raw powders are shown in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="TBL1"/>. All the powders were characterised by narrow particle size distribution and regular-shaped particles.</ce:para>
+                  <ce:para view="all">The as-received powders were uniaxially pressed at a pressure of 50 MPa to make pellets of about 10 mm of diameter and 6 mm thick. The pellets were then cold isostatically pressed at 50 MPa×1 min or 100 MPa×1 min in order to evaluate the influence of the forming pressure on the final material.</ce:para>
+                  <ce:para view="all">The green density was measured by the weight/volume ratio.</ce:para>
+                  <ce:para view="all">Samples were then hot isostatically pressed (QIH-15, ABB) under a pressure of 100 MPa in Ar at 1250 °C and 1300 °C×1 h. A typical HIP schedule is reported in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="FIG1"/>. In order to verify the effectiveness of such a process a conventional pressureless sintering cycle in air at 1300 °C×1 h was also carried out.</ce:para>
+                  <ce:para view="all">Density, porosity and pore size distribution of HIP and sintered materials were determined by mercury porosimeter (Macropore 120 and Porosimeter 2000, Carlo Erba).</ce:para>
+                  <ce:para view="all">The internal structure of sintered and HIP samples was analysed by scanning electron microscopy on fracture surfaces.</ce:para>
+                  <ce:para view="all">In order to test the effect of the HIP treatment on the strength of the materials, 25×3×2 mm<ce:sup loc="post">3</ce:sup> bars, uniaxially pressed at 50 and 100 MPa, were obtained underwent HIP at 1300 °C under the same conditions of the pellets and then four-point bend tested to evaluate the flexural strength.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">Values of bulk and relative densities and average pore sizes, together with green densities and cold isostatic pressing (CIP) pressures, for the HIP and the pressureless sintering treatments are reported in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="TBL2"/>. It is worth noting that in the majority of samples the resultant porosity was higher than 30%, the value usually found in commercial ceramic filters. Generally the mercury porosimeter measurements showed that both pressureless sintered and HIP samples had a uniform pore size distribution with one maximum peak.</ce:para>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Effect of heat treatment conditions on porosity and microstructure</ce:section-title>
+                     <ce:para view="all">Decrease of the maximum HIP temperature from 1300 °C to 1250 °C resulted in a decrease of the bulk density (<ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>) and of the material grain size, as noticeable from comparison of <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="FIG2"/>(a) and 2(b). The average pore size values reported in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref> do not show significant variations. According to the literature <ce:cross-ref refid="BIB2">[2]</ce:cross-ref>, the dominant sintering mechanism for Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> is surface diffusion at low temperatures or at the beginning of sintering, followed by volume diffusion; the surface diffusion does not result in shrinkage but in the formation of solid bonds between adjacent particles. In HIP, the enhanced surface diffusion delays the transition from surface-dominant to volume-dominant diffusion but, at the lower HIP temperature (1250 °C), bridges between particles were poorly developed, suggesting that surface diffusion is not sufficiently effective at the particular temperature and pressure conditions. The HIP treatment at 1300 °C, however, promoted neck formation between particles by diffusion, giving rise to the microstructure shown in <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="FIG3"/>.</ce:para>
+                     <ce:para view="all">The relative density of the pressureless sintered samples was generally higher than that of the HIP ones, since during the pressureless sintering process there is no obstacle to the shrinkage which is prevented in the HIP treatment by the high pressurised gas.</ce:para>
+                     <ce:para view="all">Moreover, in most cases the HIP process produced a narrower pore size distribution and finer grain size than pressureless sintering, as shown by comparison of <ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="FIG4"/>(a) and 4(b), because small pores shrink and disappear faster than large ones under high-pressure gas <ce:cross-ref refid="BIB4">[4]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">Conversely, in samples obtained with Baikalox CR30 and Ceralox HPA 0.5 (powder characterised by high specific surface area and fine particle size), the materials achieved higher densities when treated with HIP rather than when pressureless sintered, the previous trend was even more remarkable in samples formed at the higher CIP pressure (100 MPa). In addition the larger grain size was obtained by HIP, unlike the behaviour of the other starting powders. In <ce:cross-ref refid="FIG5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="FIG5"/>(a) and 5(b), the grain morphologies of samples of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> Ceralox HPA 0.5 HIP and pressureless sintered are compared. The observed behaviour may result from the high specific surface area of the powders with a very high surface energy enhancing densification. Probably the presence of very small sized porosity in the green bodies could reduce the effect of the pressurised gas in preventing shrinkage during HIP, since the pressure effect is stronger for large pores than for small ones. Small pores behave similarly under high or low pressure, and disappear faster than larger ones <ce:cross-ref refid="BIB2">[2]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>The effect of forming pressure on porosity and strength</ce:section-title>
+                     <ce:para view="all">The forming pressure influenced both pore size distribution and strength. The pore size distribution curves are shifted towards minor pore sizes when CIP pressure is increased from 50 to 100 MPa (an example is shown in <ce:cross-ref refid="FIG6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="FIG6"/>), resulting from a decreased distance between the grains.</ce:para>
+                     <ce:para view="all">On the other side, increase of CIP pressure from 50 to 100 MPa increases the density of the green bodies up to 4% but, in many cases (<ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>), the relative densities after HIP are almost similar, regardless of CIP pressure. However, increase of the forming pressure increases flexural strength (<ce:cross-ref refid="FIG7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="FIG7"/>), probably due to the reduction of flaws, such as cracks, and/or to the increased contact area between the grains which, during HIP, results in bigger necks, improving the material strength with little loss in open porosity.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Effects of powder characteristics on strength</ce:section-title>
+                     <ce:para view="all">Among the tested powders, the highest strength values were obtained with Reynolds (up to 200 MPa) and Ceralox HPA 0.5 (up to 180 MPa), while Baikalox and Ceralox APA 0.5 resulted in very low strength values. In the case of Baikalox, the low strength can be associated with its high specific surface area and spherical particles inducing low green (∼40%) and final (41–48%) densities. The low values in the case of Ceralox APA 0.5 can be due to the presence of hard aggregates in the powder, acting as critical flaws when the sample undergoes tensile strength testing, or to forming defects, such as cracks, resulting in premature failure, or to a weakening effect due to distribution and morphology of the porosity. A further important factor is that the two materials, unlike the others, showed lower pore sizes at the highest CIP pressure. Therefore it is suggested that, as the mercury porosimeter cannot separate fine pores and the open space near the bridges among grains <ce:cross-ref refid="BIB6">[6]</ce:cross-ref>, both the materials, Baikalox and Ceralox APA 0.5, could present a porous structure with very small bridges or opening spaces near the bridges, leading to low mechanical strength.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">Porous ceramics with properties suitable for filters can be prepared by HIPing as-received commercial Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> powders. In all cases, the pore diameters range in a nanometer scale, from ∼80 to ∼100 nm.</ce:para>
+                  <ce:para view="all">The HIP treatment at 1250 °C gives rise to poorly developed bridges between particles, while at 1300 °C the process leads to the formation of more solid necks, together with increasing bulk density and material grain size.</ce:para>
+                  <ce:para view="all">The HIP process produces narrower pore size distribution and finer grain size than pressureless sintering, even if density, pore and grain size of the final products depend on grain size, sinterability and texture of the green bodies, all depending on grain size, shape and specific surface area of the starting powders. Powders of very fine particle size give rise to very small sized green porosity which is insensitive to the effect of the high pressurised gas.</ce:para>
+                  <ce:para view="all">The widely different strength values (from ∼70 to ∼200 MPa) are mainly influenced by the powder characteristics, and depend slightly on the forming pressure: increase of forming pressure causes the reduction of flaws in the bulk material and promotes the formation of bridges between grains.</ce:para>
+                  <ce:para view="all">For high strength materials, powders with grain size and shape which give rise to very fine green porosity or to a structure rich in opening space among the bridges, have to be avoided.</ce:para>
+                  <ce:para view="all">Further activities are in progress in order to correlate the material characteristics to the gas permeability.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>1</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K. Ishizaki, A. Takata and S. Okada, Mechanically enhanced open porous materials by HIP process, <ce:italic>J. Ceram. Soc. Jpn., Intl. Ed</ce:italic>., <ce:italic>98</ce:italic> (1990) 545.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>2</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>M. Nanko, K. Ishizaki and T. Fujiawa, Porous ceramic filters produced by hot isostatic pressing, <ce:italic>J. Am. Ceram. Soc</ce:italic>., <ce:italic>77</ce:italic> (1994) 2437–2442.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>3</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Kuzjukevics and K. Ishizaki, Production of porous alumina by hot isostatic pressing, <ce:italic>Ceram. Trans. Porous Mater.,</ce:italic> 
+                           <ce:italic>31</ce:italic> (1993) 111–116.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>4</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>M. Nanko, K. Ishizaki and A. Takata, Sintering of porous materials by a capsule free HIP process, <ce:italic>Ceram. Trans. Porous Mater.,</ce:italic> 
+                           <ce:italic>31</ce:italic> (1993) 117–126.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>5</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Takata, K. Ishizaki and S. Okada, Improvement of a porous material mechanical property by HIP, <ce:italic>Mater. Res. Soc. Symp. Proc., 207</ce:italic> (1991) 135–140.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>6</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S. Somiya and Y. Moriyoshi, <ce:italic>Sintering-Case study (Syoketsu-Case Study)</ce:italic>, Uchida Rakakuho, Tokyo, Japan, 1987, p. 420.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

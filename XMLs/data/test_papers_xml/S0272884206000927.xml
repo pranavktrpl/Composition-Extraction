@@ -1,0 +1,1879 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0272884206000927</prism:url><dc:identifier>doi:10.1016/j.ceramint.2006.02.004</dc:identifier><eid>1-s2.0-S0272884206000927</eid><prism:doi>10.1016/j.ceramint.2006.02.004</prism:doi><pii>S0272-8842(06)00092-7</pii><dc:title>Influence of milling time on mechanically assisted synthesis of Pb0.91Ca0.1TiO3 powders </dc:title><prism:publicationName>Ceramics International</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02728842</prism:issn><prism:volume>33</prism:volume><prism:issueIdentifier>6</prism:issueIdentifier><prism:startingPage>937</prism:startingPage><prism:endingPage>941</prism:endingPage><prism:pageRange>937-941</prism:pageRange><prism:number>6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2007-08-31</prism:coverDate><prism:coverDisplayDate>August 2007</prism:coverDisplayDate><prism:copyright>Copyright © 2006 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd and Techna Group S.r.l.</prism:publisher><dc:creator>Siqueira, J.R.R.</dc:creator><dc:creator>Simões, A.Z.</dc:creator><dc:creator>Stojanovic, B.D.</dc:creator><dc:creator>Paiva-Santos, C.O.</dc:creator><dc:creator>Santos, L.P.S.</dc:creator><dc:creator>Longo, E.</dc:creator><dc:creator>Varela, J.A.</dc:creator><dc:description>
+                  Pb0.91Ca0.1TiO3 powders (PCT) were prepared by mechanochemical synthesis from high-energy ball milling process. The influence of milling time on the phase formation, crystal structure, specific surface area, density and powder morphology was observed. We adopted the Rietveld refinement technique to investigate the crystal structure of the PCT powders. Scanning electron microscopy (SEM) analysis revealed that PCT powders milled for 5h showed a wide distribution of particle agglomerates while milled for 35h showed a decrease in agglomerates size. Further prolongation of milling time resulted in the agglomerates growth.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>A. Milling</dcterms:subject><dcterms:subject>B. X-ray methods</dcterms:subject><dcterms:subject>D. Perovskites</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0272884206000927" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0272884206000927" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="335" height="275" size="9974">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="114" height="94" size="1945">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="331" height="272" size="8244">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr2.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="114" height="94" size="1819">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="336" height="239" size="23871">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="89" size="1819">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="338" height="278" size="6680">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr4.gif?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="114" height="94" size="1662">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="679" height="647" size="169663">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="98" height="93" size="3391">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884206000927-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>34250694920</scopus-id><scopus-eid>2-s2.0-34250694920</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/34250694920" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271590</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ceramics International</xocs:srctitle>
+      <xocs:normalized-srctitle>CERAMICSINTERNATIONAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20060418">2006-04-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20060418">2006-04-18</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-16T14:36:26</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0272884206000927</xocs:eid>
+      <xocs:pii-formatted>S0272-8842(06)00092-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0272884206000927</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ceramint.2006.02.004</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0272884207X01585</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T06:19:17.15952-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20070801</xocs:date-search-begin>
+      <xocs:date-search-end>20070831</xocs:date-search-end>
+      <xocs:year-nav>2007</xocs:year-nav>
+      <xocs:indexeddate epoch="1145318400">2006-04-18T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0272-8842</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02728842</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>33</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>33</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>6</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 33, Issue 6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>9</xocs:sort-order>
+      <xocs:first-fp>937</xocs:first-fp>
+      <xocs:last-lp>941</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>937</xocs:first-page>
+         <xocs:last-page>941</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200708</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2007</xocs:cover-date-text>
+      <xocs:cover-date-start>2007-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2007-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2007</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2006 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INFLUENCEMILLINGTIMEMECHANICALLYASSISTEDSYNTHESISPB091CA01TIO3POWDERS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SIQUEIRA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>JAFFE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1958</xocs:ref-pub-year>
+            <xocs:ref-first-fp>494</xocs:ref-first-fp>
+            <xocs:ref-last-lp>498</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>JAFFE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1954</xocs:ref-pub-year>
+            <xocs:ref-first-fp>809</xocs:ref-first-fp>
+            <xocs:ref-last-lp>813</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>HAERTLING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>797</xocs:ref-first-fp>
+            <xocs:ref-last-lp>818</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>DAMJANOVIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>699</xocs:ref-first-fp>
+            <xocs:ref-last-lp>702</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>SAWAGUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-last-lp>164</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>LANGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>83</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>BRANKOVIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>149</xocs:ref-first-fp>
+            <xocs:ref-last-lp>153</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>GIRI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>166</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>DING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2956</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2958</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>364</xocs:ref-first-fp>
+            <xocs:ref-last-lp>369</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>BRAKOVIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>243</xocs:ref-first-fp>
+            <xocs:ref-last-lp>248</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>BOLDYREV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>511</xocs:ref-first-fp>
+            <xocs:ref-last-lp>520</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>GAFFET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>235</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>FRANCOISE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2884</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2888</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>KOMATTSUBARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>278</xocs:ref-first-fp>
+            <xocs:ref-last-lp>282</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>KOSTIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>60</xocs:ref-first-fp>
+            <xocs:ref-last-lp>64</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>HAMADA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>274</xocs:ref-first-fp>
+            <xocs:ref-last-lp>277</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>KONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>274</xocs:ref-first-fp>
+            <xocs:ref-last-lp>280</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>BAEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>973</xocs:ref-first-fp>
+            <xocs:ref-last-lp>977</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1343</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1346</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1687</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1693</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>KONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>232</xocs:ref-first-fp>
+            <xocs:ref-last-lp>236</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>GERMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SINTERINGTHEORYPRACTICE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib24">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>328</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib25">
+            <xocs:ref-normalized-surname>TKACOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MECHANICALACTIVATIONMINERALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib26">
+            <xocs:ref-normalized-surname>MAKOVEC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2702</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2704</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib27">
+            <xocs:ref-normalized-surname>RIETVELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>65</xocs:ref-first-fp>
+            <xocs:ref-last-lp>71</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib28"/>
+         <xocs:ref-info refid="bib29"/>
+         <xocs:ref-info refid="bib30">
+            <xocs:ref-normalized-surname>FINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>892</xocs:ref-first-fp>
+            <xocs:ref-last-lp>900</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SIQUEIRAX2007X937</xocs:refkey3>
+         <xocs:refkey4lp>SIQUEIRAX2007X937X941</xocs:refkey4lp>
+         <xocs:refkey4ai>SIQUEIRAX2007X937XJ</xocs:refkey4ai>
+         <xocs:refkey5>SIQUEIRAX2007X937X941XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0272-8842(06)00092-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0272884206000927</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0272884206000927</xocs:eid>
+         <xocs:doi>10.1016/j.ceramint.2006.02.004</xocs:doi>
+         <xocs:cid>271590</xocs:cid>
+         <xocs:timestamp>2010-12-25T03:09:43.671699-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2007-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2007-08-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/MAIN/application/pdf/5a4c6640b6c85b2dcf4fd818a1e6c835/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/MAIN/application/pdf/5a4c6640b6c85b2dcf4fd818a1e6c835/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>620702</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0272884206000927-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/PREVIEW/image/png/e9f878e94e08f0a8e7888859b2d40785/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/PREVIEW/image/png/e9f878e94e08f0a8e7888859b2d40785/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65973</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr1/DOWNSAMPLED/image/gif/53828d5a8dab0782554efb3e5d1ebaf5/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr1/DOWNSAMPLED/image/gif/53828d5a8dab0782554efb3e5d1ebaf5/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>9974</xocs:filesize>
+               <xocs:pixel-height>275</xocs:pixel-height>
+               <xocs:pixel-width>335</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr1/THUMBNAIL/image/gif/2dca347ee677f4489c4999e3d8a66a64/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr1/THUMBNAIL/image/gif/2dca347ee677f4489c4999e3d8a66a64/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1945</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>114</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr2/DOWNSAMPLED/image/gif/837fb160984ece93924184fc646e465a/gr2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr2/DOWNSAMPLED/image/gif/837fb160984ece93924184fc646e465a/gr2.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>8244</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>331</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr2/THUMBNAIL/image/gif/6347937e5f125c19804ff9d1c6759e18/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr2/THUMBNAIL/image/gif/6347937e5f125c19804ff9d1c6759e18/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1819</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>114</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr3/DOWNSAMPLED/image/jpeg/f5df2bb4753fe5cee8f5321e5c7d9c52/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr3/DOWNSAMPLED/image/jpeg/f5df2bb4753fe5cee8f5321e5c7d9c52/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23871</xocs:filesize>
+               <xocs:pixel-height>239</xocs:pixel-height>
+               <xocs:pixel-width>336</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr3/THUMBNAIL/image/gif/cc20272e14b7c9a2ddf0ad751ba6b124/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr3/THUMBNAIL/image/gif/cc20272e14b7c9a2ddf0ad751ba6b124/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1819</xocs:filesize>
+               <xocs:pixel-height>89</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr4/DOWNSAMPLED/image/gif/57209bb3f141ae691a3a4222e3c4b946/gr4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr4/DOWNSAMPLED/image/gif/57209bb3f141ae691a3a4222e3c4b946/gr4.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>6680</xocs:filesize>
+               <xocs:pixel-height>278</xocs:pixel-height>
+               <xocs:pixel-width>338</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr4/THUMBNAIL/image/gif/bb4f6cf84a27633c492ffb1337c6cb7f/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr4/THUMBNAIL/image/gif/bb4f6cf84a27633c492ffb1337c6cb7f/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1662</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>114</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr5/DOWNSAMPLED/image/jpeg/df723df8c8264db73efbe99703f47a30/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr5/DOWNSAMPLED/image/jpeg/df723df8c8264db73efbe99703f47a30/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>169663</xocs:filesize>
+               <xocs:pixel-height>647</xocs:pixel-height>
+               <xocs:pixel-width>679</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884206000927-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884206000927/gr5/THUMBNAIL/image/gif/903c87f77af319204aac50c7a7c98489/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884206000927/gr5/THUMBNAIL/image/gif/903c87f77af319204aac50c7a7c98489/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3391</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>98</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>CERI</jid>
+            <aid>2387</aid>
+            <ce:pii>S0272-8842(06)00092-7</ce:pii>
+            <ce:doi>10.1016/j.ceramint.2006.02.004</ce:doi>
+            <ce:copyright type="joint" year="2006">Elsevier Ltd and Techna Group S.r.l.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">X-ray diffraction for PCT powders milled at different times: (a) 5<ce:hsp sp="0.25"/>h; (b) 15<ce:hsp sp="0.25"/>h; (c) 25<ce:hsp sp="0.25"/>h; (d) 35<ce:hsp sp="0.25"/>h and (d) 40<ce:hsp sp="0.25"/>h.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Rietveld refinement performed for the PCT powder milled for 35<ce:hsp sp="0.25"/>h.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Standard Raman vibrational modes for the PT system.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Raman spectra for the PCT powders milled at different times: (a) 5<ce:hsp sp="0.25"/>h; (b) 15<ce:hsp sp="0.25"/>h; (c) 35<ce:hsp sp="0.25"/>h and (d) 40<ce:hsp sp="0.25"/>h.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">SEM analysis for PCT powders milled at different times: (a) 5<ce:hsp sp="0.25"/>h; (b) 15<ce:hsp sp="0.25"/>h; (c) 35<ce:hsp sp="0.25"/>h and (d) 40<ce:hsp sp="0.25"/>h.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Lattice parameters (<ce:italic>a</ce:italic>, <ce:italic>b</ce:italic> and <ce:italic>c</ce:italic>), unit cell volume (<ce:italic>V</ce:italic>) and refinement index for the PCT powder milled for 35<ce:hsp sp="0.25"/>h</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col3" rowsep="1" align="left">Structure: tetragonal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col4" nameend="col7" rowsep="1" align="left">Space group: P4<hsp sp="0.25"/>mm (PDF card no 43–303)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Composition</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Lattice parameters (Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Crystallite size (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Volume (Å)<sup loc="post">3</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Refinement index</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Density (g/cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">FWHM</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">[Pb<inf loc="post">0.9</inf>Ca<inf loc="post">0.1</inf>]TiO<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>a</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>3.9065</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>b</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>3.9065</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>R</italic>
+                           <inf loc="post">wp</inf>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>0.0578</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>c</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>4.0979</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">≈15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">62.536</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>R</italic>(<italic>F</italic>)<sup loc="post">2</sup>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>0.0151</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.087</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.8620</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">(<italic>c</italic>/<italic>a</italic>)<hsp sp="0.25"/>=<hsp sp="0.25"/>1.049</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>S</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>1.3624</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Raman frequencies for PT Standard and for PCT powders milled for 35<ce:hsp sp="0.25"/>h</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Vibrational modes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Raman frequencies (PT standard)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Raman frequencies PCT (mechanochemical)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">E1(1TO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">80</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">E1(LO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">140</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">A1(1TO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">141</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">167</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">E(2TO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">207</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">B1<hsp sp="0.25"/>+<hsp sp="0.25"/>E</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">288</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">A1(2TO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">330</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">337</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">E(2LO)+A(2LO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">449</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">426</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">E(3TO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">504</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">515</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">A1(3TO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">608</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">635</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">E(3LO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">704</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">E(4LO)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">717</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Influence of milling time on mechanically assisted synthesis of Pb<ce:inf loc="post">0.91</ce:inf>Ca<ce:inf loc="post">0.1</ce:inf>TiO<ce:inf loc="post">3</ce:inf> powders</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.R.R.</ce:given-name>
+                  <ce:surname>Siqueira</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.Z.</ce:given-name>
+                  <ce:surname>Simões</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>B.D.</ce:given-name>
+                  <ce:surname>Stojanovic</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>C.O.</ce:given-name>
+                  <ce:surname>Paiva-Santos</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>L.P.S.</ce:given-name>
+                  <ce:surname>Santos</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>E.</ce:given-name>
+                  <ce:surname>Longo</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.A.</ce:given-name>
+                  <ce:surname>Varela</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Physics Institute, UFMA, Federal University of Maranhão, C.P. 355, 14801-970 São Luis., Brazil</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Chemistry Institute, UNESP-Paulista State University, C.P. 355, 14801-970 Araraquara, SP, Brazil</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Center for Multidisciplinary Studies University of Belgrade, Serbia &amp; Montenegro, Brazil</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +55 16 3301 6600; fax: +55 16 3322 7932.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="29" month="11" year="2005"/>
+            <ce:date-revised day="13" month="12" year="2005"/>
+            <ce:date-accepted day="8" month="2" year="2006"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Pb<ce:inf loc="post">0.91</ce:inf>Ca<ce:inf loc="post">0.1</ce:inf>TiO<ce:inf loc="post">3</ce:inf> powders (PCT) were prepared by mechanochemical synthesis from high-energy ball milling process. The influence of milling time on the phase formation, crystal structure, specific surface area, density and powder morphology was observed. We adopted the Rietveld refinement technique to investigate the crystal structure of the PCT powders. Scanning electron microscopy (SEM) analysis revealed that PCT powders milled for 5<ce:hsp sp="0.25"/>h showed a wide distribution of particle agglomerates while milled for 35<ce:hsp sp="0.25"/>h showed a decrease in agglomerates size. Further prolongation of milling time resulted in the agglomerates growth.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>A. Milling</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>B. X-ray methods</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>D. Perovskites</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Lead calcium titanate (PCT) materials are of significant commercial and industrial importance because of their excellent dielectric, ferroelectric and piezoelectric properties <ce:cross-refs refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. The [Pb<ce:inf loc="post">0.9</ce:inf>Ca<ce:inf loc="post">0.1</ce:inf>]TiO<ce:inf loc="post">3</ce:inf> (PCT) is a promising material for high frequency applications, such as ultra-sonic diagnostic imaging and non-destructive evolution, because of its unusually large anisotropic piezoelectric response as compared to Pb[Zr<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Ti<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>]O<ce:inf loc="post">3</ce:inf> (PZT) ceramics <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. The ferroelectric behavior of PCT persists up <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5 as confirmed by the presence of a ferroelectric hysteresis loop <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. In order to achieve a dense and uniform microstructure, a fine powder of perovskite phase with a low degree of particle agglomerations is necessary as starting material.</ce:para>
+                  <ce:para view="all">Many researches have thus focused on the processing of PCT powders by several chemistry-based novel preparation routes. Unfortunately almost all these chemistry routes require that precursors be calcined at a temperature ranging from 700 to 850<ce:hsp sp="0.25"/>°C, in order to develop the designed PT-phase. Intensive milling in high-energy mills could be a probably solution to these problems, i.e. mechanical treatment of starting powders can activate them for sintering process <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>. Further, mechanical treatment of ceramic powders can reduce particle size resulting in the production of nanocrystalline powders.</ce:para>
+                  <ce:para view="all">A novel mechanochemical processing route has been developed for the production of nanocrystalline powders <ce:cross-refs refid="bib8 bib9 bib10 bib11">[8–11]</ce:cross-refs>. Mechanochemical activation has been employed to synthesize several ceramic materials, including lead magnesium niobate (PMN), lead titanate (PT), barium titanate (BT), lead zirconate titanate (PZT) and lead calcium titanate (PCT) <ce:cross-refs refid="bib12 bib13 bib14 bib15 bib16 bib17 bib18">[12–18]</ce:cross-refs>. The reactivity of starting materials could be improved significantly after an appropriate milling treatment, whereas the subsequent calcinations stages at high temperature can be avoided <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. More recently, a high-energy mechanochemical milling process has also been successfully employed to synthesize nanosized oxides and compounds <ce:cross-refs refid="bib20 bib21 bib22">[20–22]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">The mechanical technique is superior to both the conventional solid-state reaction and the wet-chemistry-based processing routes for the ceramic powder preparation for several reasons. It uses low-cost and widely available oxides as starting materials and skips the calcination step at an intermediate temperature, leading to simplified process <ce:cross-refs refid="bib22 bib23">[22,23]</ce:cross-refs>. Furthermore, the mechanically derived powders possess a much higher sinterability than those synthesized by conventional solid-state reaction and most of wet-chemical processes. There are a number of phenomena associated with mechanical activation, including refinement of crystallite size, amorphization of crystallite phases, creation of point surface and lattice defects, phase transformation and crystallization from an amorphous state and chemical reaction <ce:cross-ref refid="bib24">[24]</ce:cross-ref>. In addition, the nucleation and subsequent growth of perovskite crystallites were triggered by mechanical activation at room temperature <ce:cross-ref refid="bib25">[25]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">In this work, PCT powders were successfully synthesized by mechanochemical synthesis in high-energy ball milling. Milling parameters were optimized to reduce milling time. The purpose of this work was to analyze advanced results regarding the effect of milling time on the formation of perovskite structure of PCT material.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental procedure</ce:section-title>
+                  <ce:para view="all">The following reagents were used as starting materials: pure PbO (99.9% purity), CaO (97% purity) and TiO<ce:inf loc="post">2</ce:inf> (99.8% purity) supplied by Synth and Vetec, respectively. The composition selected for this study was [Pb<ce:inf loc="post">0.9</ce:inf>Ca<ce:inf loc="post">0.1</ce:inf>]TiO<ce:inf loc="post">3</ce:inf>. According to the chemical formula of the desired PCT ceramics, appropriate amounts of starts oxides were weighed, mixed and further milled in a ball mill (SPEX 8000M-MIXER/MILL). The synthesis was carried at room temperature for high-energy ball milling system up to 30<ce:hsp sp="0.25"/>h in static air. Milling conditions were the following: zirconium oxide jars and zirconium oxide balls (<ce:italic>d</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2<ce:hsp sp="0.25"/>mm), ball/powder mass ratio was 4:1, air atmosphere, milling time range from 5 to 40<ce:hsp sp="0.25"/>h, respectively.</ce:para>
+                  <ce:para view="all">X-ray diffraction data for milled powders were collected using a Rigaku RINT2000 diffractometer (42<ce:hsp sp="0.25"/>kV<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>120<ce:hsp sp="0.25"/>mA) with Cu Kα radiation (<ce:italic>λ</ce:italic>
+                     <ce:inf loc="post">Kα1</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.5405<ce:hsp sp="0.25"/>Å, <ce:italic>λ</ce:italic>
+                     <ce:inf loc="post">Kα2</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.5443<ce:hsp sp="0.25"/>Å, <ce:italic>I</ce:italic>
+                     <ce:inf loc="post">Kα1</ce:inf>/<ce:italic>I</ce:italic>
+                     <ce:inf loc="post">Kα2</ce:inf>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5), 2<ce:italic>θ</ce:italic> range between 15 and 110°, step size of 0.02° (2<ce:italic>θ</ce:italic>), divergence slit<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5<ce:hsp sp="0.25"/>mm, receiving slit<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.3<ce:hsp sp="0.25"/>mm. The data obtained from Rietveld analysis were calculated by using the package General Structure Analysis System program (GSAS) of Larson and Von Dreele <ce:cross-refs refid="bib26 bib27 bib28">[26–28]</ce:cross-refs>. The peak profile function was modeled using a convolution of the pseudo-Voigt <ce:cross-ref refid="bib27">[27]</ce:cross-ref> with the asymmetry function described by Finger et al. <ce:cross-refs refid="bib29 bib30">[29,30]</ce:cross-refs>, which accounts for the asymmetry due to axial divergence. Raman measurements of PCT powders were performed using an ISA T 64000 triple monochromator. An optical microscope with 80× objective was used to focus the 514.5-nm radiation from a Coherent Innova 99 Ar<ce:sup loc="post">+</ce:sup> laser on the sample. The same microscope was used to collect the back-scattered radiation. The scattering light dispersed was detected by a charge-coupled device (CCD) detection system. Scanning electron microscopy (SEM, model JOEL-5300) was used to evaluate the particle size and the powder morphology. The average grain size of the milled powders were estimated using the Sherrer formula. Specific surface area was determined based on isotherms of nitrogen adsorption using the BET method (Sorptomatic 1990).</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">XRD patterns of the PCT powders milled for several times are shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>. First traces of perovskite phase have been formed after milling during 5<ce:hsp sp="0.25"/>h. After that, the peaks became broadened indicating a reduction in crystallite size. An increase of perovskite peaks was also evident with the prolongation of milling time. Below 35<ce:hsp sp="0.25"/>h of mechanical activation, the broadened peaks at 2<ce:italic>θ</ce:italic> at around 22.5, 32, 39, 46 and 57 can be attributed to the formation of lead calcium titanate besides the presence of majority of starting oxides. For 35<ce:hsp sp="0.25"/>h of milling only crystalline peaks of perovskite phase can be observed. The formation of PCT phase indicates the reaction between PbO, CaO and TiO<ce:inf loc="post">2</ce:inf> which occurred during the milling process. In this point, the majority of sharp peaks of started oxides were reduced.</ce:para>
+                  <ce:para view="all">Rietveld refinement technique was used to investigate the crystal structure of the PCT powders obtained after a milling time of 35<ce:hsp sp="0.25"/>h. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> shows the refinement of the PCT powder which shows tetragonal structure. The quantitative phase analyses were calculated by the Rietveld method and the Hill &amp; Madsen formalism <ce:cross-ref refid="bib28">[28]</ce:cross-ref>. The calculated crystallite size was ≈15<ce:hsp sp="0.25"/>nm. The lattice parameters (<ce:italic>a</ce:italic>, <ce:italic>b</ce:italic> and <ce:italic>c</ce:italic>), unit cell volume (<ce:italic>V</ce:italic>) and refinement index are illustrated in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. The space group obtained from the Rietveld analysis was P4mm (PDF Card no 43-303).</ce:para>
+                  <ce:para view="all">Raman spectra were used to determine the vibrational modes for PCT powders milled at 5, 15, 25, 35 and 40<ce:hsp sp="0.25"/>h. The order and disorder degree of the atomic structure at short range was also observed. To compare the bands in the Raman spectra, PT standard spectra was shown (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>).</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/> illustrates the Raman spectra of PCT powders milled at 5, 15, 35 and 40<ce:hsp sp="0.25"/>h. It was evident that the increase of milling time leads to a disappearance of the vibrational modes bands. This indicated that for longer milling time the crystalline grains started to be destroyed. Also, it was verified a structural disorder at short range as well as a phase transformation for tetragonal to pseudo-cubic once the tetragonality factor (<ce:italic>c</ce:italic>/<ce:italic>a</ce:italic>) is close to 1 <ce:cross-ref refid="bib30">[30]</ce:cross-ref>. This is also evident from Rietveld refinement which shows a large FWHM value caused by a structural disorder. The active Raman modes of the PCT powders milled for 35<ce:hsp sp="0.25"/>h was compared to the standard PT spectra (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="tbl2"/>). At higher frequencies, a displacement of the active vibrational modes was noted, indicating a change in the crystal structure after the calcium addition. Therefore, this indicates that the mechanochemical synthesis leads to a reduction in the particle size and a change in the crystal structure.</ce:para>
+                  <ce:para view="all">Values of the specific surface area of PCT powders were measured from BET analyses. The specific surface area of PCT powders depends on the breaking process of particles and the presence of secondary agglomeration phase. There is a trend to increase the specific surface area from 2.12<ce:hsp sp="0.25"/>m<ce:sup loc="post">2</ce:sup>/g (0<ce:hsp sp="0.25"/>h) to 5.82<ce:hsp sp="0.25"/>m<ce:sup loc="post">2</ce:sup>/g (35<ce:hsp sp="0.25"/>h). On the other hand, a decrease of specific surface area value to 5.31<ce:hsp sp="0.25"/>m<ce:sup loc="post">2</ce:sup>/g (40<ce:hsp sp="0.25"/>h) can be seen as a result of secondary agglomeration process.</ce:para>
+                  <ce:para view="all">SEM analysis of PCT powders milled at different times are shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>. The existence of agglomerates and changes in their size was confirmed. Powders milled for 5<ce:hsp sp="0.25"/>h showed a wide distribution of particle agglomerates, sized 1<ce:hsp sp="0.25"/>μm, while milled for 35<ce:hsp sp="0.25"/>h showed a decrease in agglomerates size probably because during milling the primary agglomerate was destroyed. After that, secondary agglomeration starts and the agglomerates size increased resulting in a decrease of the specific surface area. Further prolongation of milling time resulted in the agglomerates growth. It is accordance with BET analysis that showed a decrease in the specific surface area after milling time of 35<ce:hsp sp="0.25"/>h.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">The mechanical synthesis can be successfully employed to obtain nanostructure [Pb<ce:inf loc="post">0.9</ce:inf>Ca<ce:inf loc="post">0.1</ce:inf>]TiO<ce:inf loc="post">3</ce:inf> powders at different milling times. A single phase, nanocrystalline perovskite powder was successfully derived through this method at milling time of 35<ce:hsp sp="0.25"/>h. A prolonged milling time resulted in a change of PCT crystal structure. A tetragonal structure belonging to the point group P4mm was noted after a milling time of 35<ce:hsp sp="0.25"/>h.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">The authors gratefully acknowledge the financial support of the Brazilian agencies FAPESP, CNPq, CAPES.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Jaffe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Piezoelectric ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1958</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>494</sb:first-page>
+                              <sb:last-page>498</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Jaffe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Roth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marzulo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Piezoelectric properties of lead zirconate-titanate solid-solution ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1954</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>809</sb:first-page>
+                              <sb:last-page>813</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Haertling</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ferroelectric ceramics: history and technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>797</sb:first-page>
+                              <sb:last-page>818</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Damjanovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.R.</ce:given-name>
+                                 <ce:surname>Gururaja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.E.</ce:given-name>
+                                 <ce:surname>Cross</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Am. Ceram. Soc. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>699</sb:first-page>
+                              <sb:last-page>702</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Sawaguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Charters</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Aging and the double hysteresis loop of Pb<ce:inf loc="post">
+                                    <ce:italic>λ</ce:italic>
+                                 </ce:inf>Ca<ce:inf loc="post">1−<ce:italic>λ</ce:italic>
+                                 </ce:inf>Ti0<ce:inf loc="post">3</ce:inf> ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1959</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                              <sb:last-page>164</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.F.</ce:given-name>
+                                 <ce:surname>Lange</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sinterability of agglomerated powders</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>83</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Brankovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Milosevic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Uskokovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Karanovic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanostruct. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>149</sb:first-page>
+                              <sb:last-page>153</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Giri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanocrystalline materials prepared though crystallization by ball milling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                              <sb:last-page>166</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tsuzuk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>McCormic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrafine alumina particles prepared by mechanochemical/thermal processing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2956</sb:first-page>
+                              <sb:last-page>2958</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanochemical synthesis of nanosized lead titanate powders from mixed oxides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>364</sb:first-page>
+                              <sb:last-page>369</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Brakoviè</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Brankovi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jovalekiè</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Maniett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cilense</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Varela</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanochemical synthesis of PZT powders</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A.345</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>243</sb:first-page>
+                              <sb:last-page>248</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Boldyrev</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanochemistry and mechanical activation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>511</sb:first-page>
+                              <sb:last-page>520</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Gaffet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Michael</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Mazerolles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Berthet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of high-energy ball milling on ceramic oxides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>235</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Francoise</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Gaffet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Mazerelles</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stabilized zircons prepared by mechanical activation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2884</sb:first-page>
+                              <sb:last-page>2888</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Komattsubara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Isobe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Senna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of preliminary mechanical treatment on the microhomogenization during hearting of hydrous gels as precursors for lead titanate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>278</sb:first-page>
+                              <sb:last-page>282</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Kostic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Kiss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Boscovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Zec</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical activation of titanium oxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Am. Ceram. Soc. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>60</sb:first-page>
+                              <sb:last-page>64</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hamada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Senna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanochemical effect on the properties of starting mixtures for PbTiO<ce:inf loc="post">3</ce:inf> ceramics by using novel grinding equipments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>274</sb:first-page>
+                              <sb:last-page>277</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.K.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly enhanced sinterability of commercial PZT powders by high-energy ball milling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>274</sb:first-page>
+                              <sb:last-page>280</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Baek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Isob</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Senna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of pyrochlore-free 0 9Pb[Mb<ce:inf loc="post">1/3</ce:inf>Nb<ce:inf loc="post">2/3</ce:inf>]O<ce:inf loc="post">3</ce:inf>–0.1PbTiO<ce:inf loc="post">3</ce:inf> ceramics via a soft mechanochemical route</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>973</sb:first-page>
+                              <sb:last-page>977</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Z.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Poulsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Morup</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structure and thermal stability of nanostructured iron-doped zircônia prepared by high-energy ball milling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1343</sb:first-page>
+                              <sb:last-page>1346</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanochemical synthesis of lead zirconate titanate from mixed oxides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1687</sb:first-page>
+                              <sb:last-page>1693</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.K.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation and characterization of Pb[Zr<ce:inf loc="post">0 52</ce:inf>Ti<ce:inf loc="post">0.48</ce:inf>]O<ce:inf loc="post">3</ce:inf> ceramics from high-energy ball milling powders</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>232</sb:first-page>
+                              <sb:last-page>236</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>German</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sintering Theory and Practice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1996</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanically activating nucleation and growth of complex perovskites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>154</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                              <sb:last-page>328</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tkacova</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical Activation of Minerals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1989</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Makovec</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Pribosic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Samardzija</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Drofenik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Incorporation of aliovalent dopants into the bismuth-layered perovskite-like structure of BaBi<ce:inf loc="post">4</ce:inf>Ti<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">15</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2702</sb:first-page>
+                              <sb:last-page>2704</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Rietveld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A profile refinement method for nuclear and magnetic structures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>65</sb:first-page>
+                              <sb:last-page>71</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A.C. Larson, R.B. von Dreele, Los Alamos National Laboratory, Los Alamos, EUA, Copyright 1985–2001, The Regents of the University of California, 2001.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R.A. Young, P. Desai, Archiwum Nauki Materialach. Moskva, 1989, pp. 71–90.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.W.</ce:given-name>
+                                 <ce:surname>Finger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.W.</ce:given-name>
+                                 <ce:surname>Cox</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Jephcoat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A correction for powder diffraction peak asymmetry due to axial divergence</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>892</sb:first-page>
+                              <sb:last-page>900</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

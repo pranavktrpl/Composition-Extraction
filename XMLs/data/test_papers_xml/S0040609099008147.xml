@@ -1,0 +1,1513 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0040609099008147</prism:url><dc:identifier>doi:10.1016/S0040-6090(99)00814-7</dc:identifier><eid>1-s2.0-S0040609099008147</eid><prism:doi>10.1016/S0040-6090(99)00814-7</prism:doi><pii>S0040-6090(99)00814-7</pii><dc:title>Calculation and experimental characterization of the defect physics in CuInSe2
+             </dc:title><prism:publicationName>Thin Solid Films</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00406090</prism:issn><prism:volume>361</prism:volume><prism:startingPage>446</prism:startingPage><prism:endingPage>449</prism:endingPage><prism:pageRange>446-449</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2000-02-21</prism:coverDate><prism:coverDisplayDate>21 February 2000</prism:coverDisplayDate><prism:copyright>Copyright © 2000 Elsevier Science S.A. All rights reserved.</prism:copyright><prism:publisher>Elsevier Science S.A.</prism:publisher><dc:creator>Klais, Jochen</dc:creator><dc:creator>Joachim Möller, Hans</dc:creator><dc:creator>Cahen, David</dc:creator><dc:description>
+                  Numerical simulations of the defect distribution of CuInSe2 were carried out as a function of the stoichiometry. The simulations are based on a new calculation of the intrinsic defects in this material. The results of the calculations were compared with earlier electrical and positron lifetime measurements. This leads to the assumption, that the single defects VSe, VCu, CuIn and the defect pair (2VCu–InCu) occur in the investigated specimens in considerable concentrations.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>CuInSe2
+                  </dcterms:subject><dcterms:subject>Positron lifetime</dcterms:subject><dcterms:subject>Formation energy</dcterms:subject><dcterms:subject>Energy level</dcterms:subject><dcterms:subject>Stoichiometry</dcterms:subject><dcterms:subject>Intrinsic defects</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0040609099008147" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0040609099008147" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="173" height="164" size="7301">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="175" height="164" size="7214">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="142" size="6205">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="320" height="208" size="10296">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-gr3.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="338" size="22406">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="335" size="22176">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="GIF image file" mimetype="image/gif" width="3400" height="2209" size="61287">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-gr3_lrg.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1520" height="1437" size="215789">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1520" height="1426" size="227513">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="403" height="22" size="1244">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="406" height="22" size="1277">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="552" height="50" size="2692">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="573" height="50" size="2840">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="125" height="41" size="887">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="202" height="41" size="1158">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609099008147-si6.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>0008967724</scopus-id><scopus-eid>2-s2.0-0008967724</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0008967724" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271603</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Thin Solid Films</xocs:srctitle>
+      <xocs:normalized-srctitle>THINSOLIDFILMS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20000519">2000-05-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20000519">2000-05-19</xocs:available-online-date>
+      <xocs:ew-transaction-id>2017-06-09T13:05:16</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0040609099008147</xocs:eid>
+      <xocs:pii-formatted>S0040-6090(99)00814-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0040609099008147</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0040-6090(99)00814-7</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0040609000X01022</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170609">2017-06-09T08:23:53.463025-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20000221</xocs:date-search-begin>
+      <xocs:year-nav>2000</xocs:year-nav>
+      <xocs:indexeddate epoch="958694400">2000-05-19T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0040-6090</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00406090</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>361</xocs:vol-first>
+      <xocs:vol-last>362</xocs:vol-last>
+      <xocs:volume-list>
+         <xocs:volume>361</xocs:volume>
+         <xocs:volume>362</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volumes 361–362</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>86</xocs:sort-order>
+      <xocs:first-fp>446</xocs:first-fp>
+      <xocs:last-lp>449</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>446</xocs:first-page>
+         <xocs:last-page>449</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20000221</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>21 February 2000</xocs:cover-date-text>
+      <xocs:cover-date-start>2000-02-21</xocs:cover-date-start>
+      <xocs:cover-date-year>2000</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2000 Elsevier Science S.A. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CALCULATIONEXPERIMENTALCHARACTERIZATIONDEFECTPHYSICSINCUINSE2</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KLAIS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Numerical calculations</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Positron lifetime measurements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="reference0005">
+            <xocs:ref-normalized-surname>KROGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMISTRYIMPERFECTCRYSTALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0010">
+            <xocs:ref-normalized-surname>KROGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1956</xocs:ref-pub-year>
+            <xocs:ref-first-fp>307</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0015">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9642</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="other-ref0005"/>
+         <xocs:ref-info refid="reference0020">
+            <xocs:ref-normalized-surname>MOLLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>300</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SEMICONDUCTORSFORSOLARCELLS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0025">
+            <xocs:ref-normalized-surname>GROENINK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0030">
+            <xocs:ref-normalized-surname>SCHMALZRIED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>198</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0035">
+            <xocs:ref-normalized-surname>BERTOLOCCIANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>734</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0040">
+            <xocs:ref-normalized-surname>BRANDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0045">
+            <xocs:ref-normalized-surname>PUSKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>333</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0050">
+            <xocs:ref-normalized-surname>POLITY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="other-ref0010"/>
+         <xocs:ref-info refid="other-ref0015"/>
+         <xocs:ref-info refid="reference0055">
+            <xocs:ref-normalized-surname>KLAIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>741</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0060">
+            <xocs:ref-normalized-surname>SAARINEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5287</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KLAISX2000X446</xocs:refkey3>
+         <xocs:refkey4lp>KLAISX2000X446X449</xocs:refkey4lp>
+         <xocs:refkey4ai>KLAISX2000X446XJ</xocs:refkey4ai>
+         <xocs:refkey5>KLAISX2000X446X449XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0040-6090(99)00814-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0040609099008147</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0040609099008147</xocs:eid>
+         <xocs:doi>10.1016/S0040-6090(99)00814-7</xocs:doi>
+         <xocs:cid>271603</xocs:cid>
+         <xocs:timestamp>2017-06-09T08:23:53.463025-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2000-02-21</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/MAIN/application/pdf/ad2859b57f76a04dcdaeecc70a5c2bca/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/MAIN/application/pdf/ad2859b57f76a04dcdaeecc70a5c2bca/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>166829</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0040609099008147-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/PREVIEW/image/png/8699cb4a458154033ac21d32ab850a45/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/PREVIEW/image/png/8699cb4a458154033ac21d32ab850a45/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60612</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/gr1/THUMBNAIL/image/gif/9346e8ee2bf5185d83de3d96dbd46e1c/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/gr1/THUMBNAIL/image/gif/9346e8ee2bf5185d83de3d96dbd46e1c/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7301</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>173</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/gr2/THUMBNAIL/image/gif/9b0d928aaf78cefe5443fe1e79ce34aa/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/gr2/THUMBNAIL/image/gif/9b0d928aaf78cefe5443fe1e79ce34aa/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7214</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>175</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/gr3/THUMBNAIL/image/gif/4047ff768d0b5304e72050248d9ad9cf/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/gr3/THUMBNAIL/image/gif/4047ff768d0b5304e72050248d9ad9cf/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6205</xocs:filesize>
+               <xocs:pixel-height>142</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-gr3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/gr3/DOWNSAMPLED/image/gif/44b1fe9f425d82ae463b66c6d2aa6fce/gr3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/gr3/DOWNSAMPLED/image/gif/44b1fe9f425d82ae463b66c6d2aa6fce/gr3.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>10296</xocs:filesize>
+               <xocs:pixel-height>208</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/gr1/DOWNSAMPLED/image/jpeg/c43f4f93d169259b3eb39cd5d53ca61e/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/gr1/DOWNSAMPLED/image/jpeg/c43f4f93d169259b3eb39cd5d53ca61e/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22406</xocs:filesize>
+               <xocs:pixel-height>338</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/gr2/DOWNSAMPLED/image/jpeg/a2f7c82fc870efd2ef3fceda3add82cc/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/gr2/DOWNSAMPLED/image/jpeg/a2f7c82fc870efd2ef3fceda3add82cc/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22176</xocs:filesize>
+               <xocs:pixel-height>335</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-gr3_lrg.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/gr3/HIGHRES/image/gif/705eb4cccec53dd6c6a5489db017745e/gr3_lrg.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/gr3/HIGHRES/image/gif/705eb4cccec53dd6c6a5489db017745e/gr3_lrg.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>61287</xocs:filesize>
+               <xocs:pixel-height>2209</xocs:pixel-height>
+               <xocs:pixel-width>3400</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/gr1/HIGHRES/image/jpeg/2a43b0172fe7e64f09e0668e5b6c36b6/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/gr1/HIGHRES/image/jpeg/2a43b0172fe7e64f09e0668e5b6c36b6/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>215789</xocs:filesize>
+               <xocs:pixel-height>1437</xocs:pixel-height>
+               <xocs:pixel-width>1520</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/gr2/HIGHRES/image/jpeg/7250ae94981064bc3483140e15d45881/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/gr2/HIGHRES/image/jpeg/7250ae94981064bc3483140e15d45881/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>227513</xocs:filesize>
+               <xocs:pixel-height>1426</xocs:pixel-height>
+               <xocs:pixel-width>1520</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/STRIPIN/image/gif/b6cfd4d1d6f02268c68c6498dbc4b6fa/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/STRIPIN/image/gif/b6cfd4d1d6f02268c68c6498dbc4b6fa/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1244</xocs:filesize>
+               <xocs:pixel-height>22</xocs:pixel-height>
+               <xocs:pixel-width>403</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/STRIPIN/image/gif/90444393a063688318002c50d5c45ad8/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/STRIPIN/image/gif/90444393a063688318002c50d5c45ad8/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1277</xocs:filesize>
+               <xocs:pixel-height>22</xocs:pixel-height>
+               <xocs:pixel-width>406</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/STRIPIN/image/gif/e421f12bf1be7494ab5d4fdc47b5b80c/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/STRIPIN/image/gif/e421f12bf1be7494ab5d4fdc47b5b80c/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2692</xocs:filesize>
+               <xocs:pixel-height>50</xocs:pixel-height>
+               <xocs:pixel-width>552</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/STRIPIN/image/gif/3e99687c3419b7ab550271dd9cf242d1/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/STRIPIN/image/gif/3e99687c3419b7ab550271dd9cf242d1/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2840</xocs:filesize>
+               <xocs:pixel-height>50</xocs:pixel-height>
+               <xocs:pixel-width>573</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/STRIPIN/image/gif/d991800162c77a54ff23ee540a6f224d/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/STRIPIN/image/gif/d991800162c77a54ff23ee540a6f224d/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>887</xocs:filesize>
+               <xocs:pixel-height>41</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609099008147-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609099008147/STRIPIN/image/gif/8aa91ac374a61b4f34f3cafa23ca4c99/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609099008147/STRIPIN/image/gif/8aa91ac374a61b4f34f3cafa23ca4c99/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1158</xocs:filesize>
+               <xocs:pixel-height>41</xocs:pixel-height>
+               <xocs:pixel-width>202</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>TSF</jid>
+            <aid>13003</aid>
+            <ce:pii>S0040-6090(99)00814-7</ce:pii>
+            <ce:doi>10.1016/S0040-6090(99)00814-7</ce:doi>
+            <ce:copyright type="full-transfer" year="2000">Elsevier Science S.A.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0005" view="all">Majority defect distribution as a function of stoichiometry for 700°C: (1) Cu<ce:inf loc="post">In</ce:inf>–Cu<ce:inf loc="post">i</ce:inf>–V<ce:inf loc="post">Se</ce:inf>, (2) Cu<ce:inf loc="post">In</ce:inf>–V<ce:inf loc="post">Cu</ce:inf>, (3) Cu<ce:inf loc="post">In</ce:inf>–V<ce:inf loc="post">Cu</ce:inf>–V<ce:inf loc="post">Se</ce:inf>, (4) V<ce:inf loc="post">Se</ce:inf>–V<ce:inf loc="post">Cu</ce:inf>, (5) V<ce:inf loc="post">Se</ce:inf>–Cu<ce:inf loc="post">In</ce:inf>, (6) V<ce:inf loc="post">Se</ce:inf>–Cu<ce:inf loc="post">i</ce:inf> and additional (2V<ce:inf loc="post">Cu</ce:inf>–In<ce:inf loc="post">Cu</ce:inf>) for the whole composition range.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0010" view="all">Distribution of p-/n- behavior as a function of stoichiometry corresponding to the defect distribution depicted in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0015" view="all">Temperature dependent average positron lifetime. The small decrease of the positron lifetime after the annealing step at 600°C between 300 and 20 K points to an antisite defect.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:table id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0020" view="all">Calculated (average) formation energies</ce:simple-para>
+               </ce:caption>
+               <tgroup xmlns="http://www.elsevier.com/xml/common/cals/dtd" cols="4">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <thead>
+                     <row>
+                        <ce:entry>Defect</ce:entry>
+                        <ce:entry namest="col2" nameend="col4" rowsep="1">Formation energy in (eV)</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry/>
+                        <ce:entry rowsep="1">Neumann<ce:cross-ref refid="BIB4">[4]</ce:cross-ref>
+                        </ce:entry>
+                        <ce:entry rowsep="1">Möller <ce:cross-ref refid="BIB5">[5]</ce:cross-ref>
+                        </ce:entry>
+                        <ce:entry rowsep="1">Zhang <ce:cross-ref refid="BIB3">[3]</ce:cross-ref>
+                        </ce:entry>
+                     </row>
+                     <row rowsep="1">
+                        <ce:entry/>
+                        <ce:entry/>
+                        <ce:entry/>
+                        <ce:entry>average values</ce:entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <ce:entry>V<ce:inf loc="post">Cu</ce:inf>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">2.6</ce:entry>
+                        <ce:entry align="char" char=".">3.2</ce:entry>
+                        <ce:entry align="char" char=".">−0.89</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>V<ce:inf loc="post">In</ce:inf>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">2.8</ce:entry>
+                        <ce:entry align="char" char=".">2.4</ce:entry>
+                        <ce:entry align="char" char=".">1.73</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>V<ce:inf loc="post">Se</ce:inf>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">2.4</ce:entry>
+                        <ce:entry align="char" char=".">2.6</ce:entry>
+                        <ce:entry align="char" char=".">3 (S.H. Wei, private commun.)</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>Cu<ce:inf loc="post">i</ce:inf>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">4.4</ce:entry>
+                        <ce:entry align="char" char=".">–</ce:entry>
+                        <ce:entry align="char" char=".">3.56</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>In<ce:inf loc="post">i</ce:inf>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">9.1</ce:entry>
+                        <ce:entry align="char" char=".">–</ce:entry>
+                        <ce:entry align="char" char=".">–</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>Se<ce:inf loc="post">i</ce:inf>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">22.4</ce:entry>
+                        <ce:entry align="char" char=".">–</ce:entry>
+                        <ce:entry align="char" char=".">–</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>Cu<ce:inf loc="post">In</ce:inf>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">1.3</ce:entry>
+                        <ce:entry align="char" char=".">1.9</ce:entry>
+                        <ce:entry align="char" char=".">1.37</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>In<ce:inf loc="post">Cu</ce:inf>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">1.4</ce:entry>
+                        <ce:entry align="char" char=".">1.6</ce:entry>
+                        <ce:entry align="char" char=".">2.89</ce:entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table id="TBL2" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0025" view="all">Calculated positron lifetimes in ps</ce:simple-para>
+               </ce:caption>
+               <tgroup xmlns="http://www.elsevier.com/xml/common/cals/dtd" cols="12">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <colspec colname="col7" colsep="0"/>
+                  <colspec colname="col8" colsep="0"/>
+                  <colspec colname="col9" colsep="0"/>
+                  <colspec colname="col10" colsep="0"/>
+                  <colspec colname="col11" colsep="0"/>
+                  <colspec colname="col12" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <ce:entry/>
+                        <ce:entry>Bulk</ce:entry>
+                        <ce:entry>V<ce:inf loc="post">Cu</ce:inf>
+                        </ce:entry>
+                        <ce:entry>V<ce:inf loc="post">In</ce:inf>
+                        </ce:entry>
+                        <ce:entry>V<ce:inf loc="post">Se</ce:inf>
+                        </ce:entry>
+                        <ce:entry>V<ce:inf loc="post">Cu</ce:inf>–V<ce:inf loc="post">In</ce:inf>
+                        </ce:entry>
+                        <ce:entry>V<ce:inf loc="post">Cu</ce:inf>–V<ce:inf loc="post">Se</ce:inf>
+                        </ce:entry>
+                        <ce:entry>V<ce:inf loc="post">In</ce:inf>–V<ce:inf loc="post">Se</ce:inf>
+                        </ce:entry>
+                        <ce:entry>V<ce:inf loc="post">Cu</ce:inf>–V<ce:inf loc="post">Cu</ce:inf>
+                        </ce:entry>
+                        <ce:entry>V<ce:inf loc="post">In</ce:inf>–V<ce:inf loc="post">In</ce:inf>
+                        </ce:entry>
+                        <ce:entry>V<ce:inf loc="post">Se</ce:inf>–V<ce:inf loc="post">Se</ce:inf>
+                        </ce:entry>
+                        <ce:entry>V<ce:inf loc="post">Cu</ce:inf>–V<ce:inf loc="post">In</ce:inf>–V<ce:inf loc="post">Se</ce:inf>
+                        </ce:entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <ce:entry>Lifetime <ce:cross-ref refid="BIB11">[11]</ce:cross-ref>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">235</ce:entry>
+                        <ce:entry align="char" char=".">250</ce:entry>
+                        <ce:entry align="char" char=".">257</ce:entry>
+                        <ce:entry align="char" char=".">253</ce:entry>
+                        <ce:entry align="char" char=".">272</ce:entry>
+                        <ce:entry align="char" char=".">301</ce:entry>
+                        <ce:entry align="char" char=".">307</ce:entry>
+                        <ce:entry align="char" char=".">–</ce:entry>
+                        <ce:entry align="char" char=".">–</ce:entry>
+                        <ce:entry align="char" char=".">–</ce:entry>
+                        <ce:entry align="char" char=".">336</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>Lifetime <ce:cross-refs refid="BIB12 BIB13">[12,13]</ce:cross-refs>
+                        </ce:entry>
+                        <ce:entry align="char" char=".">240</ce:entry>
+                        <ce:entry align="char" char=".">262</ce:entry>
+                        <ce:entry align="char" char=".">284</ce:entry>
+                        <ce:entry align="char" char=".">257</ce:entry>
+                        <ce:entry align="char" char=".">291</ce:entry>
+                        <ce:entry align="char" char=".">316</ce:entry>
+                        <ce:entry align="char" char=".">328</ce:entry>
+                        <ce:entry align="char" char=".">277</ce:entry>
+                        <ce:entry align="char" char=".">298</ce:entry>
+                        <ce:entry align="char" char=".">278</ce:entry>
+                        <ce:entry align="char" char=".">–</ce:entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table id="TBL3" colsep="0" rowsep="0" frame="bottom">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0030" view="all">Calculated stoichiometry of the as-grown samples and the change in composition after annealing.</ce:simple-para>
+               </ce:caption>
+               <tgroup xmlns="http://www.elsevier.com/xml/common/cals/dtd" cols="4">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0" align="char" char="/"/>
+                  <colspec colname="col3" colsep="0" align="char" char="/"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <thead>
+                     <row>
+                        <ce:entry>Sample</ce:entry>
+                        <ce:entry rowsep="1">Cu (at.%)</ce:entry>
+                        <ce:entry rowsep="1">In (at.%)</ce:entry>
+                        <ce:entry rowsep="1">Se (at.%)</ce:entry>
+                     </row>
+                     <row rowsep="1">
+                        <ce:entry/>
+                        <ce:entry namest="col2" nameend="col4">As-grown/annealed at 700°C</ce:entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <ce:entry>1</ce:entry>
+                        <ce:entry>23.1/23.5</ce:entry>
+                        <ce:entry>24.9/25.3</ce:entry>
+                        <ce:entry align="char" char=".">51.9/51.1</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>2</ce:entry>
+                        <ce:entry>23/23.4</ce:entry>
+                        <ce:entry>24.6/25</ce:entry>
+                        <ce:entry align="char" char=".">52.3/51.5</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>3</ce:entry>
+                        <ce:entry>21.7/22.2</ce:entry>
+                        <ce:entry>26.4/26.7</ce:entry>
+                        <ce:entry align="char" char=".">51.9/51.1</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>4</ce:entry>
+                        <ce:entry>22.7/–</ce:entry>
+                        <ce:entry>25/–</ce:entry>
+                        <ce:entry align="char" char=".">52.3/–</ce:entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table id="TBL4" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="simple-para0035" view="all">Measured positron lifetimes in ps at room temperature after several annealing steps</ce:simple-para>
+               </ce:caption>
+               <tgroup xmlns="http://www.elsevier.com/xml/common/cals/dtd" cols="7">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <colspec colname="col7" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <ce:entry>Annealing step</ce:entry>
+                        <ce:entry>300°C</ce:entry>
+                        <ce:entry>400°C</ce:entry>
+                        <ce:entry>500°C</ce:entry>
+                        <ce:entry>600°C</ce:entry>
+                        <ce:entry>700°C</ce:entry>
+                        <ce:entry>750°C</ce:entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <ce:entry>Sample 1 (ps)</ce:entry>
+                        <ce:entry>285</ce:entry>
+                        <ce:entry>–</ce:entry>
+                        <ce:entry>284</ce:entry>
+                        <ce:entry>282</ce:entry>
+                        <ce:entry>290</ce:entry>
+                        <ce:entry>288</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>Sample 2 (ps)</ce:entry>
+                        <ce:entry>284</ce:entry>
+                        <ce:entry>–</ce:entry>
+                        <ce:entry>284</ce:entry>
+                        <ce:entry>285</ce:entry>
+                        <ce:entry>288</ce:entry>
+                        <ce:entry>–</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>Sample 3 (ps)</ce:entry>
+                        <ce:entry>282</ce:entry>
+                        <ce:entry>280</ce:entry>
+                        <ce:entry>279</ce:entry>
+                        <ce:entry>260/340</ce:entry>
+                        <ce:entry>290</ce:entry>
+                        <ce:entry>290/425</ce:entry>
+                     </row>
+                     <row>
+                        <ce:entry>Sample 4 (ps)</ce:entry>
+                        <ce:entry>287</ce:entry>
+                        <ce:entry>286</ce:entry>
+                        <ce:entry>–</ce:entry>
+                        <ce:entry>282</ce:entry>
+                        <ce:entry>–</ce:entry>
+                        <ce:entry>–</ce:entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Calculation and experimental characterization of the defect physics in CuInSe<ce:inf loc="post">2</ce:inf>
+            </ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Jochen</ce:given-name>
+                  <ce:surname>Klais</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="CORR1">*</ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:indexed-name>Joachim Moller</ce:indexed-name>
+                  <ce:given-name>Hans</ce:given-name>
+                  <ce:surname>Joachim Möller</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>David</ce:given-name>
+                  <ce:surname>Cahen</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>TU Bergakademie Freiberg, Inst. fur Exp. Physik, Silbermannstrasse.1, 09596 Freiberg, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Weizmann Institute of Science, Materials and Interfaces Department., 76100 Rehovot, Israel</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="CORR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="simple-para0040" view="all">Numerical simulations of the defect distribution of CuInSe<ce:inf loc="post">2</ce:inf> were carried out as a function of the stoichiometry. The simulations are based on a new calculation of the intrinsic defects in this material. The results of the calculations were compared with earlier electrical and positron lifetime measurements. This leads to the assumption, that the single defects V<ce:inf loc="post">Se</ce:inf>, V<ce:inf loc="post">Cu</ce:inf>, Cu<ce:inf loc="post">In</ce:inf> and the defect pair (2V<ce:inf loc="post">Cu</ce:inf>–In<ce:inf loc="post">Cu</ce:inf>) occur in the investigated specimens in considerable concentrations.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" xml:lang="en">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>CuInSe<ce:inf loc="post">2</ce:inf>
+                  </ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Positron lifetime</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Formation energy</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Energy level</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Stoichiometry</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Intrinsic defects</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section id="section0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="para0005" view="all">The electrical and optical properties of many ternary ionic compounds such as CuInSe<ce:inf loc="post">2</ce:inf> are dominated by the presence of intrinsic point defects. These defects are related to the stoichiometry and the thermal history of the specimens. In a ternary compound at least twelve intrinsic defects (vacancies, interstitials and antisite defects) are possible, but considering that agglomerations of these defects can occur, the number may be considerably larger. In many practical applications of these compounds, the identification of the dominant defects would enhance the understanding of the properties and allow one to have better control.</ce:para>
+                  <ce:para id="para0010" view="all">Based on a new calculation of the formation energies of some of these defects, the defect chemistry as a function of the stoichiometry was simulated. The results of the simulations are compared with positron lifetime measurements in CuInSe<ce:inf loc="post">2</ce:inf> single crystals of various compositions. The positron annihilation spectroscopy is a suitable method which allows one to study vacancy-like defects in solids. Positrons can be trapped in the open volume of the defects which increases their lifetime. Since the trapping rate is sensitive to the charge states of a vacancy in semiconductors the lifetime can yield valuable information on the type of vacancies.</ce:para>
+               </ce:section>
+               <ce:section id="section0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Numerical calculations</ce:section-title>
+                  <ce:para id="para0015" view="all">The chalcopyrite semiconductors are characterized by a mixed covalent and ionic bonding between neighboring atoms. So we can assume, that the cations Cu<ce:sup loc="post">
+                        <ce:italic>α</ce:italic>+</ce:sup> and In<ce:sup loc="post">
+                        <ce:italic>β</ce:italic>+</ce:sup> and the anion Se<ce:sup loc="post">
+                        <ce:italic>γ</ce:italic>−</ce:sup> carry a charge, which participates in the bonding. The native defects in an ionic compound can occur in different charge states and have either acceptor- or donor- like behavior. Assuming that the cation–anion antisite defects do not occur, one can distinguish eight acceptor and donor defects with the following charge states <ce:cross-refs refid="BIB1 BIB2">[1,2]</ce:cross-refs>
+                     <display>
+                        <formula>
+                           <math altimg="si1.gif">V<inf loc="post">
+                                 <rm>Cu</rm>
+                              </inf>
+                              <sup loc="post">
+                                 <fen>
+                                    <cp type="lpar" style="s"/>α−m<cp type="rpar" style="s"/>
+                                 </fen>−</sup>, V<inf loc="post">
+                                 <rm>In</rm>
+                              </inf>
+                              <sup loc="post">
+                                 <fen>
+                                    <cp type="lpar" style="s"/>β−m<cp type="rpar" style="s"/>
+                                 </fen>−</sup> , <rm>Se</rm>
+                              <inf loc="post">
+                                 <rm>i</rm>
+                              </inf>
+                              <sup loc="post">
+                                 <fen>
+                                    <cp type="lpar" style="s"/>γ−m<cp type="rpar" style="s"/>
+                                 </fen>−</sup>, <rm>Cu</rm>
+                              <inf loc="post">
+                                 <rm>In</rm>
+                              </inf>
+                              <sup loc="post">
+                                 <fen>
+                                    <cp type="lpar" style="s"/>β−α−m<cp type="rpar" style="s"/>
+                                 </fen>−</sup>
+                           </math>
+                        </formula>
+                     </display>
+                     <display>
+                        <formula>
+                           <math altimg="si2.gif">
+                              <rm>Cu</rm>
+                              <inf loc="post">
+                                 <rm>i</rm>
+                              </inf>
+                              <sup loc="post">
+                                 <fen>
+                                    <cp type="lpar" style="s"/>α−m<cp type="rpar" style="s"/>
+                                 </fen>+</sup>, <rm>In</rm>
+                              <inf loc="post">
+                                 <rm>i</rm>
+                              </inf>
+                              <sup loc="post">
+                                 <fen>
+                                    <cp type="lpar" style="s"/>β−m<cp type="rpar" style="s"/>
+                                 </fen>+</sup> , V<inf loc="post">
+                                 <rm>Se</rm>
+                              </inf>
+                              <sup loc="post">
+                                 <fen>
+                                    <cp type="lpar" style="s"/>γ−m<cp type="rpar" style="s"/>
+                                 </fen>+</sup>, <rm>In</rm>
+                              <inf loc="post">
+                                 <rm>Cu</rm>
+                              </inf>
+                              <sup loc="post">
+                                 <fen>
+                                    <cp type="lpar" style="s"/>β−α−m<cp type="rpar" style="s"/>
+                                 </fen>+</sup>
+                           </math>
+                        </formula>
+                     </display>with <ce:italic>β</ce:italic>&gt;<ce:italic>α</ce:italic>. The charge varies between the neutral state and the maximum charge which occurs for <ce:italic>m</ce:italic>=0.</ce:para>
+                  <ce:para id="para0020" view="all">In a semiconductor, the electron concentrations are generally higher and the defects may occur in different charge states. Therefore, one would rather describe the electronic properties of the defects by their energy levels, and the different charge states by the occupation of these levels. It is possible to express the concentration of each charge state by the total concentration of the defect. Assuming that the energy levels of all defects are known, the neutrality condition is only a function of the electron concentration and the total concentration of the allowed eight intrinsic defects<display>
+                        <formula>
+                           <math altimg="si3.gif">
+                              <fen>
+                                 <cp type="lsqb" style="s"/>
+                                 <rm>e</rm>
+                                 <sup loc="post">−</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>+<lim>
+                                 <op>∑</op>
+                                 <ll>m=0</ll>
+                                 <ul>α</ul>
+                              </lim>m<fen>
+                                 <cp type="lsqb" style="s"/>
+                                 <rm>V</rm>
+                                 <inf loc="post">
+                                    <rm>Cu</rm>
+                                 </inf>
+                                 <sup loc="post">m−</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>+<lim>
+                                 <op>∑</op>
+                                 <ll>m=0</ll>
+                                 <ul>β</ul>
+                              </lim>m<fen>
+                                 <cp type="lsqb" style="s"/>
+                                 <rm>V</rm>
+                                 <inf loc="post">
+                                    <rm>In</rm>
+                                 </inf>
+                                 <sup loc="post">m−</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>+<lim>
+                                 <op>∑</op>
+                                 <ll>m=0</ll>
+                                 <ul>γ</ul>
+                              </lim>m<fen>
+                                 <cp type="lsqb" style="s"/>
+                                 <rm>Se</rm>
+                                 <inf loc="post">
+                                    <rm>i</rm>
+                                 </inf>
+                                 <sup loc="post">m−</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>+<lim>
+                                 <op>∑</op>
+                                 <ll>m=0</ll>
+                                 <ul>β−α</ul>
+                              </lim>m<fen>
+                                 <cp type="lsqb" style="s"/>Cu<inf loc="post">
+                                    <rm>In</rm>
+                                 </inf>
+                                 <sup loc="post">m−</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>
+                           </math>
+                        </formula>
+                     </display>
+                     <display>
+                        <formula>
+                           <math altimg="si4.gif">=<fen>
+                                 <cp type="lsqb" style="s"/>h<sup loc="post">+</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>+<lim>
+                                 <op>∑</op>
+                                 <ll>m=0</ll>
+                                 <ul>α</ul>
+                              </lim>m<fen>
+                                 <cp type="lsqb" style="s"/>
+                                 <rm>Cu</rm>
+                                 <inf loc="post">
+                                    <rm>i</rm>
+                                 </inf>
+                                 <sup loc="post">m+</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>+<lim>
+                                 <op>∑</op>
+                                 <ll>m=0</ll>
+                                 <ul>β</ul>
+                              </lim>m<fen>
+                                 <cp type="lsqb" style="s"/>
+                                 <rm>In</rm>
+                                 <inf loc="post">
+                                    <rm>i</rm>
+                                 </inf>
+                                 <sup loc="post">m+</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>+<lim>
+                                 <op>∑</op>
+                                 <ll>m=0</ll>
+                                 <ul>γ</ul>
+                              </lim>m<fen>
+                                 <cp type="lsqb" style="s"/>
+                                 <rm>V</rm>
+                                 <inf loc="post">
+                                    <rm>Se</rm>
+                                 </inf>
+                                 <sup loc="post">m+</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>+<lim>
+                                 <op>∑</op>
+                                 <ll>m=0</ll>
+                                 <ul>β−α</ul>
+                              </lim>m<fen>
+                                 <cp type="lsqb" style="s"/>
+                                 <rm>In</rm>
+                                 <inf loc="post">
+                                    <rm>Cu</rm>
+                                 </inf>
+                                 <sup loc="post">m+</sup>
+                                 <cp type="rsqb" style="s"/>
+                              </fen>
+                           </math>
+                        </formula>
+                     </display>
+                  </ce:para>
+                  <ce:para id="para0025" view="all">Using the internal thermodynamic equilibria between the eight intrinsic defects, one obtains six equations which are not independent from each other. That allows one to express the concentration of each defect by the concentration of two defects only. The calculation requires the knowledge of the formation enthalpies and entropies. The Δ<ce:italic>S/k</ce:italic>
+                     <ce:inf loc="post">B</ce:inf> values between one and three have been obtained by investigations in metals and ionic compounds. In semiconductors theoretical estimations indicate larger values due to the higher lattice relaxations around the defects. Therefore, a value of Δ<ce:italic>S</ce:italic>/<ce:italic>k</ce:italic>
+                     <ce:inf loc="post">B</ce:inf>=3 will be used for the calculations, however a variation in Δ<ce:italic>S</ce:italic> does not change the results considerably.</ce:para>
+                  <ce:para id="para0030" view="all">The formation energies were calculated by Zhang et al. <ce:cross-ref refid="BIB3">[3]</ce:cross-ref> (<ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>)<ce:float-anchor refid="TBL1"/>. They showed that the formation energies vary considerably with the electronic potential and the chemical potential of the atomic species. Especially the formation energy of V<ce:inf loc="post">Cu</ce:inf> changes to lower values compared to earlier simulations <ce:cross-refs refid="BIB4 BIB5">[4,5]</ce:cross-refs> (<ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>). Another important point is the behavior of defect pairs in CuInSe<ce:inf loc="post">2</ce:inf>. Zhang maintained that pairing of defects could alter the electric activity. For example, an isolated V<ce:inf loc="post">Cu</ce:inf> acts as an acceptor, an isolated In<ce:inf loc="post">Cu</ce:inf> as a donor, but a defect pair on (2V<ce:inf loc="post">Cu</ce:inf>–In<ce:inf loc="post">Cu</ce:inf>) is electrically inactive. The formation energies of those defect pairs can be very low, in some cases spontaneous formation of stable defect arrays is predicted.</ce:para>
+                  <ce:para id="para0035" view="all">The deviations from the ideal chemical formula of CuInSe<ce:inf loc="post">2</ce:inf> can be described by two parameters, the non-molecularity Δ<ce:italic>M</ce:italic> and the non-stoichiometry Δ<ce:italic>S</ce:italic>, which are defined as <ce:cross-ref refid="BIB6">[6]</ce:cross-ref>
+                     <display>
+                        <formula>
+                           <math altimg="si5.gif">
+                              <rm>Δ</rm>M<rm>=</rm>
+                              <fr shape="built" align="c" style="s">
+                                 <nu>
+                                    <fen>
+                                       <cp type="lsqb" style="s"/>
+                                       <rm>Cu</rm>
+                                       <cp type="rsqb" style="s"/>
+                                    </fen>
+                                    <inf loc="post">
+                                       <rm>tot</rm>
+                                    </inf>
+                                 </nu>
+                                 <de>
+                                    <fen>
+                                       <cp type="lsqb" style="s"/>
+                                       <rm>In</rm>
+                                       <cp type="rsqb" style="s"/>
+                                    </fen>
+                                    <inf loc="post">
+                                       <rm>tot</rm>
+                                    </inf>
+                                 </de>
+                              </fr>−<fr shape="built" align="c" style="s">
+                                 <nu>a</nu>
+                                 <de>b</de>
+                              </fr>
+                           </math>
+                        </formula>
+                     </display>
+                     <display>
+                        <formula>
+                           <math altimg="si6.gif">
+                              <rm>ΔS=</rm>
+                              <fr shape="built" align="c" style="s">
+                                 <nu>γ<fen>
+                                       <cp type="lsqb" style="s"/>
+                                       <rm>Se</rm>
+                                       <cp type="rsqb" style="s"/>
+                                    </fen>
+                                    <inf loc="post">
+                                       <rm>tot</rm>
+                                    </inf>
+                                 </nu>
+                                 <de>α<fen>
+                                       <cp type="lsqb" style="s"/>
+                                       <rm>Cu</rm>
+                                       <cp type="rsqb" style="s"/>
+                                    </fen>
+                                    <inf loc="post">
+                                       <rm>tot</rm>
+                                    </inf>
+                                    <rm>+</rm>β<fen>
+                                       <cp type="lsqb" style="s"/>
+                                       <rm>In</rm>
+                                       <cp type="rsqb" style="s"/>
+                                    </fen>
+                                    <inf loc="post">
+                                       <rm>tot</rm>
+                                    </inf>
+                                 </de>
+                              </fr>−1</math>
+                        </formula>
+                     </display>
+                  </ce:para>
+                  <ce:para id="para0040" view="all">The two parameters can be expressed by two independent defects only <ce:cross-refs refid="BIB6 BIB7">[6,7]</ce:cross-refs>.</ce:para>
+                  <ce:para id="para0045" view="all">From the remaining eight point defects, the four cation–anion antisites; Cu<ce:inf loc="post">Se</ce:inf>, In<ce:inf loc="post">Se</ce:inf>, Se<ce:inf loc="post">Cu</ce:inf> and Se<ce:inf loc="post">In</ce:inf> were omitted in the calculations; five isolated defects (V<ce:inf loc="post">Cu</ce:inf>, V<ce:inf loc="post">Se</ce:inf>, Cu<ce:inf loc="post">i</ce:inf>, Cu<ce:inf loc="post">In</ce:inf> and In<ce:inf loc="post">Cu</ce:inf>) and the one defect pair (2V<ce:inf loc="post">Cu</ce:inf>–In<ce:inf loc="post">Cu</ce:inf>) occur for the calculated formation energies (<ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>)<ce:float-anchor refid="FIG1"/>. Since the formation energies of the defects depend on the fermi level, the calculated variations of the energies were tested in the simulations. The concentrations of the defects were affected very differently: Variations of the formation energy of the V<ce:inf loc="post">Cu</ce:inf>-vacancy lead to significant changes of the V<ce:inf loc="post">Cu</ce:inf> concentrations, whereas the concentration of the Cu<ce:inf loc="post">In</ce:inf> antisite defect remains constant for variations of about 1 eV.</ce:para>
+                  <ce:para id="para0050" view="all">The defect pair (2V<ce:inf loc="post">Cu</ce:inf>–In<ce:inf loc="post">Cu</ce:inf>) occurs in the whole composition range due to their low formation energy. For the simulations, the defect is assumed to be neutral, although there is a calculated (0/+) transition of the (In<ce:inf loc="post">Cu</ce:inf>–V<ce:inf loc="post">Cu</ce:inf>) pair at 200 meV below the conduction band. The small differences between the formation energy of the neutral and the ionized defect pairs and the insensitivity of the defect concentration to variations of the formation energy allow that assumption. The resulting p- and n-type behavior is depicted in <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="FIG2"/>. No n-type behavior is expected for Δ<ce:italic>X</ce:italic>&gt;0.</ce:para>
+                  <ce:para id="para0055" view="all">The results of these simulations lead to the assumption, that the investigated specimens include the following defects: V<ce:inf loc="post">Cu</ce:inf>,V<ce:inf loc="post">Se</ce:inf>, Cu<ce:inf loc="post">In</ce:inf> and the defect pair (2V<ce:inf loc="post">Cu</ce:inf>–In<ce:inf loc="post">Cu</ce:inf>).</ce:para>
+               </ce:section>
+               <ce:section id="section0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Positron lifetime measurements</ce:section-title>
+                  <ce:para id="para0060" view="all">Positron lifetime spectroscopy is a suitable method to detect neutral or negatively charged vacancies in semiconductors. In addition, negatively charged shallow defects such as antisite defects may be detected at low temperature. Therefore, temperature dependent measurements were also carried out starting at 40 K. For the positron lifetime experiments, a pair of identically treated samples was sandwiched with the positron source consisting of radioactive <ce:sup loc="post">22</ce:sup>Na (0.5 MBq). The lifetime spectra (about 5×10<ce:sup loc="post">6</ce:sup> counts) were analyzed after source and background correction in terms of the trapping model <ce:cross-refs refid="BIB8 BIB9">[8,9]</ce:cross-refs>. To compare the experimental data, the positron lifetimes were calculated in the perfect lattice as well as in the different defects, using the superimposed-atom model by Puska and Nieminen <ce:cross-ref refid="BIB10">[10]</ce:cross-ref> (<ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>)<ce:float-anchor refid="TBL2"/>.</ce:para>
+                  <ce:para id="para0065" view="all">The values in Ref. <ce:cross-ref refid="BIB11">[11]</ce:cross-ref> were calculated for a high-frequency dielectric constant of <ce:italic>ε</ce:italic>=11.0, because Polity et al., found the calculated bulk lifetime for this value in the same range, in comparison to the experimental bulk lifetime. The lifetimes of the monovacancies are very close to each other, so that experimentally no distinction will be possible with a lifetime spectrometer. Suzuki et al. <ce:cross-refs refid="BIB12 BIB13">[12,13]</ce:cross-refs> calculated the positron lifetimes for <ce:italic>ε</ce:italic>=9.0.</ce:para>
+                  <ce:para id="para0070" view="all">The measurements were performed for a set of four specimens (<ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>)<ce:float-anchor refid="TBL3"/> after several annealing steps and presented in Ref. <ce:cross-ref refid="BIB14">[14]</ce:cross-ref>. The spectra consist of only one lifetime component (about 280–290 ps) except for sample 3 (<ce:cross-ref refid="TBL4">Table 4</ce:cross-ref>)<ce:float-anchor refid="TBL4"/>. The observed lifetime is close to the value that has been obtained for the divacancies in CuInSe<ce:inf loc="post">2</ce:inf>, from the theoretical calculation of the positron lifetimes (<ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>). We assume that the predicted defect pair (2V<ce:inf loc="post">Cu</ce:inf>–In<ce:inf loc="post">Cu</ce:inf>) produces this positron lifetime, because the complex includes two copper vacancies and the calculated lifetime for the copper divacancy is 277 ps (<ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>). The average positron lifetime for sample 3 after annealing at 600°C, increased up to 315 ps and could be decomposed into two components at 260 ps and at 340 ps. The lower value is in the same range as the calculated values for single vacancies. Due to the proposed positive charge of the selenium vacancy, that defect can not be detected by positron annihilation spectroscopy. The low copper composition of the sample and the results of the calculations point to the copper vacancy. Since no bulk lifetime could be determined for these specimens, the concentration of the detected defects was estimated to be at least 3×10<ce:sup loc="post">18</ce:sup> cm<ce:sup loc="post">−3</ce:sup>.</ce:para>
+                  <ce:para id="para0075" view="all">The positron lifetime measurements, as a function of temperature, were performed for all samples. It turned out, that the positron lifetime for the samples 1, 2 and 4 remained constant in the entire temperature range (20–400 K), and for the sample 3 up to 500°C. Annealing of this sample at 600°C, which changed the room temperature lifetime, also changed the temperature dependence. The average positron lifetime decreased for lower (298 ps at 20 K) and higher temperatures (300 ps at 500 K) (<ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>)<ce:float-anchor refid="FIG3"/>. The decrease between 300 and 20 K is consistent with a negatively charged shallow trap level <ce:cross-ref refid="BIB15">[15]</ce:cross-ref>. This could be an antisite defect such as Cu<ce:sup loc="post">2−</ce:sup>
+                     <ce:inf loc="post">In</ce:inf>,which has been proposed for this composition.</ce:para>
+                  <ce:para id="para0080" view="all">The predicted selenium vacancy from the calculations cannot be detected by positron lifetime spectroscopy, because of their positive charge. However, electrical measurements have shown a shallow and a deep donor level in the four specimens <ce:cross-ref refid="BIB14">[14]</ce:cross-ref>. The shallow level may be caused by the (0/+) transition of the selenium vacancy and the deep trap by the (0/+) transition of the (In<ce:inf loc="post">Cu</ce:inf>–V<ce:inf loc="post">Cu</ce:inf>)<ce:sup loc="post">+</ce:sup> pair or the (+/2+) transition of V<ce:inf loc="post">Se</ce:inf>. The increasing trap concentration for a decrease of the selenium content in the specimens points to the selenium vacancy.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail>
+            <ce:bibliography id="bibliography0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec0005">
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="reference0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Kröger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>The Chemistry of Imperfect Crystals</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1973</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North Holland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="reference0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Kröger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Vink</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1956</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>307</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="reference0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zunger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Katayama-Yoshida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9642</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="other-ref0005">
+                        <ce:textref>H. Neumann, Verbindungshalbleiter, in: K. Unger, H. Schneider (Eds.), Geest Portig, Leipzig, 1986, p. 406.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="reference0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Möller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Semiconductors for Solar Cells</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1993</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Artech House</sb:name>
+                                 <sb:location>Boston, MA</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>300</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="reference0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Groenink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Janse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Phys</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Neue Folge</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="reference0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Schmalzried</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wagner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Phys</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Neue Folge</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>198</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="reference0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bertolocciani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bisi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gambarini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zappa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>734</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="reference0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Brandt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="reference0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Puska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Nieminen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. F</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>333</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="reference0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Polity</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Krause-Rehberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.M.</ce:given-name>
+                                 <ce:surname>Staab</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Puska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Klais</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Möller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Meyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="other-ref0010">
+                        <ce:textref>R. Suzuki, T. Ohdaira, S. Ishibashi, 2nd World Conf. on PVSEC, Wien, 1998, pp. 620.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="other-ref0015">
+                        <ce:textref>S. Niki, R. Suzuki, S. Ishibashi, et al., 2nd World Conf. on PVSEC, Wien, 1998, pp. 616.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="reference0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Klais</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Möller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Krause-Rehberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cahen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Lyakhovitskaya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. ICTMC-11, Salford, Inst. Phys. Conf. Ser., No.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>152</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>741</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="reference0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Saarinen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hautojärvi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Vehanen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Krause</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Dlubek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5287</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,2400 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167577X06005520</prism:url><dc:identifier>doi:10.1016/j.matlet.2006.04.065</dc:identifier><eid>1-s2.0-S0167577X06005520</eid><prism:doi>10.1016/j.matlet.2006.04.065</prism:doi><pii>S0167-577X(06)00552-0</pii><dc:title>Effect of Calcium on Nd:GdVO4 single crystal </dc:title><prism:publicationName>Materials Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>0167577X</prism:issn><prism:volume>61</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>374</prism:startingPage><prism:endingPage>379</prism:endingPage><prism:pageRange>374-379</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2007-01-31</prism:coverDate><prism:coverDisplayDate>January 2007</prism:coverDisplayDate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Zhu, Jin</dc:creator><dc:creator>Zhong, Fulan</dc:creator><dc:creator>Zhuang, Naifeng</dc:creator><dc:creator>Chen, Jianzhong</dc:creator><dc:description>
+                  The Ca0.08Gd0.92VO4 crystal and Nd-doped Ca0.08Gd0.92VO4 crystals were grown by the Czochralski method; the lattice parameters of the crystals were determined by XRD. The results showed that substituting Nd3+ caused an increase in lattice parameter; the segregation coefficient of Nd3+ ions in the crystal is lower than that of Nd:GdVO4 crystal; the absorption spectra, fluorescence spectra, absorption cross-section and the emission cross-section of the Nd:Ca0.08Gd0.92VO4 crystal were investigated at room temperature; furthermore, the Raman performance of Ca0.08Gd0.92VO4 crystal was improved.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Czochralski method</dcterms:subject><dcterms:subject>Nd:Ca0.08Gd0.92VO4 crystal</dcterms:subject><dcterms:subject>Segregate coefficient</dcterms:subject><dcterms:subject>Crystal structure</dcterms:subject><dcterms:subject>Optical properties</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167577X06005520" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167577X06005520" rel="scidir"/></coredata><objects><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="403" height="46" size="1956">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="363" height="23" size="1730">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="398" height="28" size="1898">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="221" size="17297">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="72" size="2013">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr11" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="214" size="17647">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr11.jpg?httpAccept=%2A%2F%2A</object><object ref="gr11" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="70" size="2035">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr11.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="355" height="186" size="29306">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="65" size="1302">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="199" size="13578">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="70" size="1859">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="355" height="272" size="17775">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="122" height="94" size="2120">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="356" height="276" size="18140">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="121" height="94" size="2243">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="356" height="270" size="16192">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="123" height="93" size="2182">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="356" height="272" size="17374">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="122" height="93" size="2223">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="202" size="18894">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="66" size="2201">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="197" size="18480">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="64" size="2175">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="667" height="208" size="84143">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="39" size="3241">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06005520-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>37849187304</scopus-id><scopus-eid>2-s2.0-37849187304</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/37849187304" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271572</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20060512">2006-05-12</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20060512">2006-05-12</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-28T03:48:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167577X06005520</xocs:eid>
+      <xocs:pii-formatted>S0167-577X(06)00552-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167577X06005520</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matlet.2006.04.065</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167577X06X03567</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T04:57:05.441565-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20070101</xocs:date-search-begin>
+      <xocs:date-search-end>20070131</xocs:date-search-end>
+      <xocs:year-nav>2007</xocs:year-nav>
+      <xocs:indexeddate epoch="1147392000">2006-05-12T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-577X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0167577X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>61</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>61</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 61, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>374</xocs:first-fp>
+      <xocs:last-lp>379</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>374</xocs:first-page>
+         <xocs:last-page>379</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200701</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 2007</xocs:cover-date-text>
+      <xocs:cover-date-start>2007-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2007-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2007</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTCALCIUMNDGDVO4SINGLECRYSTAL</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ZHU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials synthesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Crystal growth</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Nd-doped concentration in the crystal</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>X-ray powder diffraction of the crystal</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Polarized absorption spectrum measurement</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The Raman spectra of the crystal</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Segregation coefficient</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Lattice parameters</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Polarized absorption spectrum</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fluorescence lifetime</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Emission cross-section</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The Raman spectra of the crystal</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>JENSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>373</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>STUDENIKIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1162</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>ZAGUMENNYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>999</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>HUAIJIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>367</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>439</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>QIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>183</xocs:ref-first-fp>
+            <xocs:ref-last-lp>188</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>367</xocs:ref-first-fp>
+            <xocs:ref-last-lp>371</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>BURTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1953</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1987</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>367</xocs:ref-first-fp>
+            <xocs:ref-last-lp>371</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>339</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12"/>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>231</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>ZENSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>373</xocs:ref-first-fp>
+            <xocs:ref-last-lp>379</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>OFFLT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1962</xocs:ref-pub-year>
+            <xocs:ref-first-fp>511</xocs:ref-first-fp>
+            <xocs:ref-last-lp>521</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>ZAGUMENNYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1071</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ZHUX2007X374</xocs:refkey3>
+         <xocs:refkey4lp>ZHUX2007X374X379</xocs:refkey4lp>
+         <xocs:refkey4ai>ZHUX2007X374XJ</xocs:refkey4ai>
+         <xocs:refkey5>ZHUX2007X374X379XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-577X(06)00552-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167577X06005520</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167577X06005520</xocs:eid>
+         <xocs:doi>10.1016/j.matlet.2006.04.065</xocs:doi>
+         <xocs:cid>271572</xocs:cid>
+         <xocs:timestamp>2010-09-17T00:41:02.159096-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2007-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2007-01-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/MAIN/application/pdf/cd075473bc1456a2f45a8e92694a2b93/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/MAIN/application/pdf/cd075473bc1456a2f45a8e92694a2b93/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>535956</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167577X06005520-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/PREVIEW/image/png/9a41a90f0262fefaae52833f03001482/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/PREVIEW/image/png/9a41a90f0262fefaae52833f03001482/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63422</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/STRIPIN/image/gif/8e23f38dbc223c96f521bf5ad7a5e6d5/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/STRIPIN/image/gif/8e23f38dbc223c96f521bf5ad7a5e6d5/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1956</xocs:filesize>
+               <xocs:pixel-height>46</xocs:pixel-height>
+               <xocs:pixel-width>403</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/STRIPIN/image/gif/73f6fb8cf13a8a48d786f96c8aef6c38/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/STRIPIN/image/gif/73f6fb8cf13a8a48d786f96c8aef6c38/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1730</xocs:filesize>
+               <xocs:pixel-height>23</xocs:pixel-height>
+               <xocs:pixel-width>363</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/STRIPIN/image/gif/f7e83bf77e83e55db74cd8f26bff6af8/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/STRIPIN/image/gif/f7e83bf77e83e55db74cd8f26bff6af8/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1898</xocs:filesize>
+               <xocs:pixel-height>28</xocs:pixel-height>
+               <xocs:pixel-width>398</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr10/DOWNSAMPLED/image/jpeg/b2643176ab8dc9510d797698ef6fbb16/gr10.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr10/DOWNSAMPLED/image/jpeg/b2643176ab8dc9510d797698ef6fbb16/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17297</xocs:filesize>
+               <xocs:pixel-height>221</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr10/THUMBNAIL/image/gif/962733fa05d28d2742314eb019bbc43c/gr10.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr10/THUMBNAIL/image/gif/962733fa05d28d2742314eb019bbc43c/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2013</xocs:filesize>
+               <xocs:pixel-height>72</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr11/DOWNSAMPLED/image/jpeg/70a882b49079ae60060fb6f0b5dce6ee/gr11.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr11/DOWNSAMPLED/image/jpeg/70a882b49079ae60060fb6f0b5dce6ee/gr11.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17647</xocs:filesize>
+               <xocs:pixel-height>214</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr11.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr11/THUMBNAIL/image/gif/4898c377cca87c3ad1b6d254b9357aae/gr11.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr11/THUMBNAIL/image/gif/4898c377cca87c3ad1b6d254b9357aae/gr11.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2035</xocs:filesize>
+               <xocs:pixel-height>70</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr2/DOWNSAMPLED/image/jpeg/d02e18af9bb4d59063b655b9df460828/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr2/DOWNSAMPLED/image/jpeg/d02e18af9bb4d59063b655b9df460828/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29306</xocs:filesize>
+               <xocs:pixel-height>186</xocs:pixel-height>
+               <xocs:pixel-width>355</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr2/THUMBNAIL/image/gif/a650de87431da39fe816516870b4aec0/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr2/THUMBNAIL/image/gif/a650de87431da39fe816516870b4aec0/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1302</xocs:filesize>
+               <xocs:pixel-height>65</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr3/DOWNSAMPLED/image/jpeg/5df1c998dcc80c8dc20c120fa8ea80fd/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr3/DOWNSAMPLED/image/jpeg/5df1c998dcc80c8dc20c120fa8ea80fd/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>13578</xocs:filesize>
+               <xocs:pixel-height>199</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr3/THUMBNAIL/image/gif/f3bdc651f706d5ba0d1c9d9cf19786a0/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr3/THUMBNAIL/image/gif/f3bdc651f706d5ba0d1c9d9cf19786a0/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1859</xocs:filesize>
+               <xocs:pixel-height>70</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr4/DOWNSAMPLED/image/jpeg/a10d37645a7a29d968dcbbdae7eaa37c/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr4/DOWNSAMPLED/image/jpeg/a10d37645a7a29d968dcbbdae7eaa37c/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17775</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>355</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr4/THUMBNAIL/image/gif/f9737499fcab4fbe4d9d0215f3d0cf21/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr4/THUMBNAIL/image/gif/f9737499fcab4fbe4d9d0215f3d0cf21/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2120</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>122</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr5/DOWNSAMPLED/image/jpeg/d22df7eb1dbfef767c3c9fd525072b4b/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr5/DOWNSAMPLED/image/jpeg/d22df7eb1dbfef767c3c9fd525072b4b/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18140</xocs:filesize>
+               <xocs:pixel-height>276</xocs:pixel-height>
+               <xocs:pixel-width>356</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr5/THUMBNAIL/image/gif/48dd739e63081969c7d7db6109f0ed04/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr5/THUMBNAIL/image/gif/48dd739e63081969c7d7db6109f0ed04/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2243</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>121</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr6/DOWNSAMPLED/image/jpeg/b01a8e2bf5d204005dc6da884df6ecc3/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr6/DOWNSAMPLED/image/jpeg/b01a8e2bf5d204005dc6da884df6ecc3/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16192</xocs:filesize>
+               <xocs:pixel-height>270</xocs:pixel-height>
+               <xocs:pixel-width>356</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr6/THUMBNAIL/image/gif/a0efb8599e3f34b588df217b30f37de1/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr6/THUMBNAIL/image/gif/a0efb8599e3f34b588df217b30f37de1/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2182</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>123</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr7/DOWNSAMPLED/image/jpeg/6865c17d596822d1c5b6b6bddffaa2c3/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr7/DOWNSAMPLED/image/jpeg/6865c17d596822d1c5b6b6bddffaa2c3/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17374</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>356</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr7/THUMBNAIL/image/gif/61c4d379a7dc6de710b1309c9247dfe0/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr7/THUMBNAIL/image/gif/61c4d379a7dc6de710b1309c9247dfe0/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2223</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>122</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr8/DOWNSAMPLED/image/jpeg/934adcb7235665c09451e6878b8ce323/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr8/DOWNSAMPLED/image/jpeg/934adcb7235665c09451e6878b8ce323/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18894</xocs:filesize>
+               <xocs:pixel-height>202</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr8/THUMBNAIL/image/gif/cc4514c2075bfde1b5323199acd13d59/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr8/THUMBNAIL/image/gif/cc4514c2075bfde1b5323199acd13d59/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2201</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr9/DOWNSAMPLED/image/jpeg/14bdf81157d4b6b275f06ffbedc63f50/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr9/DOWNSAMPLED/image/jpeg/14bdf81157d4b6b275f06ffbedc63f50/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18480</xocs:filesize>
+               <xocs:pixel-height>197</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr9/THUMBNAIL/image/gif/50a473a255597fcd541f39495a514854/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr9/THUMBNAIL/image/gif/50a473a255597fcd541f39495a514854/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2175</xocs:filesize>
+               <xocs:pixel-height>64</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr1/DOWNSAMPLED/image/jpeg/19bf19de43f3255c757b8b4bdd7d840e/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr1/DOWNSAMPLED/image/jpeg/19bf19de43f3255c757b8b4bdd7d840e/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>84143</xocs:filesize>
+               <xocs:pixel-height>208</xocs:pixel-height>
+               <xocs:pixel-width>667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06005520-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06005520/gr1/THUMBNAIL/image/gif/53b5a53ce58247e3a10fe8f2ff769d5a/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06005520/gr1/THUMBNAIL/image/gif/53b5a53ce58247e3a10fe8f2ff769d5a/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3241</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" docsubtype="sco" xml:lang="en">
+         <item-info>
+            <jid>MLBLUE</jid>
+            <aid>7316</aid>
+            <ce:pii>S0167-577X(06)00552-0</ce:pii>
+            <ce:doi>10.1016/j.matlet.2006.04.065</ce:doi>
+            <ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">(a) The Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal (b) 1.48 at.% Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal (c) the wafers of the Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">XRD patterns of the different Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The relation of the lattice volume versus the concentration of Nd<ce:sup loc="post">3+</ce:sup>-doped ions.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The absorption spectrum 0.31 at.% Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The absorption spectrum 0.76 at.% Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The absorption spectrum 1.48 at.% Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The absorption spectrum 4.08 at.% Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The Raman spectra of GdVO<ce:inf loc="post">4</ce:inf> crystal (100).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The Raman spectra of GdVO<ce:inf loc="post">4</ce:inf> crystal (001).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:figure id="fig10">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The Raman spectra of Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal (100).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr10"/>
+            </ce:figure>
+            <ce:figure id="fig11">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The Raman spectra of Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal (001).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr11"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The segregation coefficients of Nd<ce:sup loc="post">3+</ce:sup> and Ca<ce:sup loc="post">2+</ce:sup> ions</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" morerows="1" valign="top">Crystal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col3" rowsep="1" valign="top">
+                           <italic>C</italic>
+                           <inf loc="post">s</inf> (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col4" nameend="col5" rowsep="1" valign="top">
+                           <italic>C</italic>
+                           <inf loc="post">l</inf> (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col7" rowsep="1" valign="top">
+                           <italic>k</italic>
+                           <inf loc="post">
+                              <italic>e</italic>
+                           </inf>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Ca</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Nd</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Ca</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Nd</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Ca</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Nd</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">8.546</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.313</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">10.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.84</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.65</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.918</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.762</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">10.34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.77</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.68</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.962</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1.484</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">10.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">2.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.79</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.71</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.538</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">4.084</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">10.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">5.17</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.79</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The indexing data of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals at room temperature</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="10">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <colspec colnum="10" colname="col10"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2<italic>θ</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Int</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>h</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>k</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>l</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2<italic>θ</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Int</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>h</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>k</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>l</italic>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">18.498</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">160</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">57.083</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">24.479</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">600</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">58.099</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">30.929</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">61.813</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">108</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">33.197</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">320</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">64.081</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">103</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">35.191</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">66.309</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">37.653</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">70.805</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">148</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">40.155</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">73.269</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">44.377</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">74.284</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">47.389</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">79.757</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">49.147</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">214</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">80.500</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">50.632</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">81.517</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">51.375</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">83.745</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">54.346</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">84.253</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">83</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The lattice parameters of Nd: Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="9">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" morerows="1" valign="top">Crystal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">Nd<sup loc="post">3+</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">
+                           <italic>a</italic>
+                           <hsp sp="0.12"/>×<hsp sp="0.12"/>10 (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">
+                           <italic>b</italic>
+                           <hsp sp="0.12"/>×<hsp sp="0.12"/>10 (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">
+                           <italic>c</italic>
+                           <hsp sp="0.12"/>×<hsp sp="0.12"/>10 (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">
+                           <italic>α</italic> (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">
+                           <italic>β</italic> (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">
+                           <italic>γ</italic> (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">
+                           <italic>V</italic>
+                           <hsp sp="0.12"/>×<hsp sp="0.12"/>10<sup loc="post">3</sup> (nm<sup loc="post">3</sup>)</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0 (GdVO<inf loc="post">4</inf>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">7.2126</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">7.2126</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">6.3483</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">330.25</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0 (Gd<inf loc="post">0.08</inf>V<inf loc="post">0.92</inf>O<inf loc="post">4</inf>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2123</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2123</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">6.3508</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">92</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">330.35</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0.31 at.%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2123</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2123</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">6.3510</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">330.36</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0.76 at.%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2121</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2121</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">6.3525</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">330.42</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1.48 at.%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2122</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2122</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">6.3546</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">330.54</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4.08 at.%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2123</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">7.2123</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">6.3615</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">330.91</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl4" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The absorption peak of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal at near 808 nm</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="9">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Nd<sup loc="post">3+</sup> (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col3" valign="top">0.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col4" nameend="col5" valign="top">0.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col7" valign="top">1.48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col8" nameend="col9" valign="top">4.08</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Polarization</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Π</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">σ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Π</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">σ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Π</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">σ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Π</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">σ</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>λ</italic>
+                           <inf loc="post">abs</inf> (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">809</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">809</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">809</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">809</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">810</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">809</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">810</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">809</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">FWHM (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">12</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl5" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The absorption cross-sections of the crystals</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Crystal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Nd<sup loc="post">3+</sup> (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>L</italic> (cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>A</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>N</italic>
+                           <inf loc="post">0</inf> (10<sup loc="post">20</sup> cm<sup loc="post">−<hsp sp="0.10"/>3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>α</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>σ</italic>
+                           <inf loc="post">abs</inf> (10<sup loc="post">−<hsp sp="0.10"/>20</sup> cm<sup loc="post">2</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.150</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.174</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.3951</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">3.78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">6.762</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.150</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.542</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.9674</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">11.38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">8.602</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1.48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.150</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1.8801</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">16.43</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">6.533</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">4.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.150</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">5.1463</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">22.42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">3.259</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl6" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The fluorescence lifetime of the crystals</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">No.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">2<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">3<sup loc="post">#</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4<sup loc="post">#</sup>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>C</italic>
+                           <inf loc="post">s,Nd</inf> (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1.48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">4.08</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>τ</italic>
+                           <inf loc="post">f</inf> (μs)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">115</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">85</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl7" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The emission cross-sections of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="9">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Nd<sup loc="post">3+</sup> (at.%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>λ</italic>
+                           <inf loc="post">em</inf> (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>λ</italic>
+                           <inf loc="post">1</inf> (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>λ</italic>
+                           <inf loc="post">2</inf> (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>β</italic>
+                           <inf loc="post">
+                              <italic>J</italic>′</inf> (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>η</italic>
+                           <inf loc="post">s</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>τ</italic>
+                           <inf loc="post">f</inf> (μs)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>σ</italic>
+                           <inf loc="post">em</inf> (10<sup loc="post">−<hsp sp="0.10"/>19</sup> cm<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>σ</italic>
+                           <inf loc="post">em</inf>
+                           <hsp sp="0.10"/>·<hsp sp="0.10"/>
+                           <italic>τ</italic>
+                           <inf loc="post">f</inf> (10<sup loc="post">−<hsp sp="0.10"/>23</sup> cm<sup loc="post">2</sup> s)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1063.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1061.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1064.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">50.93</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">115</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">3.556</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">4.089</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">0.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1063.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1061.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1064.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">50.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">3.8977</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">4.288</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">1.48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1063.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1061.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1076.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">50.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">4.3796</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">4.818</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">4.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1064.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1062.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1067.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">50.32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">0.68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">2.6237</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">2.624</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Effect of Calcium on Nd:GdVO<ce:inf loc="post">4</ce:inf> single crystal</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Jin</ce:given-name>
+                  <ce:surname>Zhu</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Fulan</ce:given-name>
+                  <ce:surname>Zhong</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Naifeng</ce:given-name>
+                  <ce:surname>Zhuang</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jianzhong</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>School of Chemistry and Chemical Engineering, Fuzhou University, Fuzhou, Fujian 350002, PR China</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="29" month="12" year="2005"/>
+            <ce:date-accepted day="13" month="4" year="2006"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal and Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals were grown by the Czochralski method; the lattice parameters of the crystals were determined by XRD. The results showed that substituting Nd<ce:sup loc="post">3+</ce:sup> caused an increase in lattice parameter; the segregation coefficient of Nd<ce:sup loc="post">3+</ce:sup> ions in the crystal is lower than that of Nd:GdVO<ce:inf loc="post">4</ce:inf> crystal; the absorption spectra, fluorescence spectra, absorption cross-section and the emission cross-section of the Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal were investigated at room temperature; furthermore, the Raman performance of Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal was improved.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Czochralski method</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Segregate coefficient</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Crystal structure</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Optical properties</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Laser diode pumped solid-state lasers have a variety of applications such as in militaries, industries, medical treatments, and scientific research, due to their high level of stability, compactness, efficiency, and longevity. The Nd:GdVO<ce:inf loc="post">4</ce:inf> crystal has excellent laser properties in high-power laser systems. It is better than that of Nd:YVO<ce:inf loc="post">4</ce:inf>. Many laser experiments have shown that Nd:GdVO<ce:inf loc="post">4</ce:inf> crystal is an efficient LD pumped solid-state laser crystal <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5 bib6">[1–6]</ce:cross-refs>. However, the intensity of Stimulated Raman Scattering (SRS) is quite weak for the GdVO<ce:inf loc="post">4</ce:inf> crystal. In order to improve its Raman performance, the Ca-doped GdVO<ce:inf loc="post">4</ce:inf> crystals have been grown and investigated in our laboratory. This paper deals with the effect of Calcium on Nd:GdVO<ce:inf loc="post">4</ce:inf> single crystal.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Materials synthesis</ce:section-title>
+                     <ce:para view="all">The raw material, GdVO<ce:inf loc="post">4</ce:inf>, was prepared by liquid-phase reaction. At first, NH<ce:inf loc="post">4</ce:inf>VO<ce:inf loc="post">3</ce:inf> (≥<ce:hsp sp="0.10"/>99% analytically pure) powder was dissolved in the heated distilled water, and then filtrated to clarify the solution. Secondly, Gd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (≥<ce:hsp sp="0.10"/>99.999% spectroscopic pure) powder was dissolved in the heated dilute nitric acid. Finally, the solutions of NH<ce:inf loc="post">4</ce:inf>VO<ce:inf loc="post">3</ce:inf> and Gd(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf> were mixed in a container equipped with a stirrer, and adjusted to pH<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>7 by using ammonia. The chemical reaction equations are as follows:<ce:display>
+                           <ce:formula>
+                              <ce:chem>Gd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>
+                                 <ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>6HNO<ce:inf loc="post">3</ce:inf>
+                                 <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>2Gd(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>
+                                 <ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>3H<ce:inf loc="post">2</ce:inf>O</ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mtext>NH</mml:mtext>
+                                    <mml:mn>4</mml:mn>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mtext>VO</mml:mtext>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:msub>
+                                    <mml:mtext>NH</mml:mtext>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>·</mml:mo>
+                                 <mml:msub>
+                                    <mml:mtext>H</mml:mtext>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                                 <mml:mtext>O</mml:mtext>
+                                 <mml:mover>
+                                    <mml:mtext>
+                                       <ce:glyph name="dbnd"/>
+                                    </mml:mtext>
+                                    <mml:mrow>
+                                       <mml:mtext>pH</mml:mtext>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mn>7</mml:mn>
+                                    </mml:mrow>
+                                 </mml:mover>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mo>(</mml:mo>
+                                       <mml:msub>
+                                          <mml:mtext>NH</mml:mtext>
+                                          <mml:mn>4</mml:mn>
+                                       </mml:msub>
+                                       <mml:mo>)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mtext>VO</mml:mtext>
+                                    <mml:mn>4</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mtext>H</mml:mtext>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                                 <mml:mtext>O</mml:mtext>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si2.gif" overflow="scroll">
+                                 <mml:mtext>Gd</mml:mtext>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mo>(</mml:mo>
+                                       <mml:msub>
+                                          <mml:mtext>NO</mml:mtext>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:msub>
+                                       <mml:mo>)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mo>(</mml:mo>
+                                       <mml:msub>
+                                          <mml:mtext>NH</mml:mtext>
+                                          <mml:mn>4</mml:mn>
+                                       </mml:msub>
+                                       <mml:mo>)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mtext>VO</mml:mtext>
+                                    <mml:mn>4</mml:mn>
+                                 </mml:msub>
+                                 <mml:mover>
+                                    <mml:mtext>
+                                       <ce:glyph name="dbnd"/>
+                                    </mml:mtext>
+                                    <mml:mrow>
+                                       <mml:mtext>pH</mml:mtext>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mn>7</mml:mn>
+                                    </mml:mrow>
+                                 </mml:mover>
+                                 <mml:msub>
+                                    <mml:mtext>GdVO</mml:mtext>
+                                    <mml:mn>4</mml:mn>
+                                 </mml:msub>
+                                 <mml:mi>↓</mml:mi>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>3</mml:mn>
+                                 <mml:msub>
+                                    <mml:mtext>NH</mml:mtext>
+                                    <mml:mn>4</mml:mn>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mtext>NO</mml:mtext>
+                                    <mml:mn>3</mml:mn>
+                                 </mml:msub>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para view="all">The deposit of GdVO<ce:inf loc="post">4</ce:inf> was washed by the distilled water, centrifugated, dried, pressed to sheet and sintered to obtained white polycrystalline materials. The synthesis method of NdVO<ce:inf loc="post">4</ce:inf> is the same as GdVO<ce:inf loc="post">4</ce:inf> (The starting materials, Nd<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, is spectroscopic pure).</ce:para>
+                     <ce:para view="all">Another material, Ca<ce:inf loc="post">3</ce:inf>(VO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf>, was synthesized with NH<ce:inf loc="post">4</ce:inf>VO<ce:inf loc="post">3</ce:inf> and CaCO<ce:inf loc="post">3</ce:inf>(≥<ce:hsp sp="0.10"/>99% analytically pure) by solid-phase reaction. The chemical reaction equations are as follows:<ce:display>
+                           <ce:formula>
+                              <ce:chem>2NH<ce:inf loc="post">4</ce:inf>VO<ce:inf loc="post">3</ce:inf>
+                                 <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>V<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf>
+                                 <ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>2NH<ce:inf loc="post">3</ce:inf>↑<ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>H<ce:inf loc="post">2</ce:inf>O↑; 3CaCO<ce:inf loc="post">3</ce:inf>
+                                 <ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>V<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf>
+                                 <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>Ca<ce:inf loc="post">3</ce:inf>(VO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf>
+                                 <ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>3CO<ce:inf loc="post">2</ce:inf>↑</ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para view="all">The well-proportioned admixture was pressed to sheet and sintered for 8 h at 850 °C, and then sintered at 1000 °C for 8 h. Finally we obtained white Ca<ce:inf loc="post">3</ce:inf>(VO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Crystal growth</ce:section-title>
+                     <ce:para view="all">All the crystals in this paper were grown by the Czochralski method with a radio frequency furnace heating an iridium crucible (50 mm in diameter and 45 mm in height) <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs>.The growth atmosphere is N<ce:inf loc="post">2</ce:inf> (purity: 99.99%, pressure: 0.14 MPa); in order to avoid the formation of the polycrystals in the process of crystal growth, it is necessary to remain at a temperature of 50–100 °C higher than the melting point of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> polycrystalline materials for an hour. The pulling rate was 0.5 mm/h and the rotating velocity was 15–20 r/min. After crystallization, the crystals were pulled out of the melt and cooled down to room temperature at a speed of 8–100 °C/h. In the process of cooling, the atmosphere was supplied with 3–5 vol.% oxygen after the melt surface froze. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/> showed us the crystals and the wafer of the Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Nd-doped concentration in the crystal</ce:section-title>
+                     <ce:para view="all">The dopant concentration in the crystal was measured by JY-ULTIMA-2 (type)-ICP emission spectrum apparatus using the solution samples prepared previously. In the table, <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">l</ce:inf> was calculated according to the quantity of GdVO<ce:inf loc="post">4</ce:inf>, Ca<ce:inf loc="post">3</ce:inf>(VO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf>, NdVO<ce:inf loc="post">4</ce:inf> in the melt, which is added to the iridium crucible at the beginning of crystal growth.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>X-ray powder diffraction of the crystal</ce:section-title>
+                     <ce:para view="all">The XRD patterns of Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals was taken with a computer-automated diffractometer (Rigaku D/max-3C).The lattice parameters of the crystals were calculated by X-pert plus program.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title>Polarized absorption spectrum measurement</ce:section-title>
+                     <ce:para view="all">The polarized absorption spectrum of Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> was mensurated by Perkin–Elmer Lambda 35 UV/VIS spectrum apparatus in the wavelength range of 400 nm–1200 nm.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title>The Raman spectra of the crystal</ce:section-title>
+                     <ce:para view="all">The Raman spectra of the crystal was measured by RERKZN-ELMER 2000 Raman spectra apparatus. Excitation wavelength is 1064 nm, power is 100 mW, and resolving power is 4.0 cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Segregation coefficient</ce:section-title>
+                     <ce:para view="all">The formula of the segregation coefficient is as follows <ce:cross-ref refid="bib9">[9]</ce:cross-ref>: <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>e</ce:italic>
+                        </ce:inf>
+                        <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>
+                        <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>
+                        <ce:hsp sp="0.12"/>/<ce:hsp sp="0.12"/>C<ce:inf loc="post">l</ce:inf>,in which, <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> is the doped-ion concentration in the crystal and <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">l</ce:inf> is the doped-ion concentration in the melt. The segregation coefficients of Nd<ce:sup loc="post">3+</ce:sup> and Ca<ce:sup loc="post">2+</ce:sup> are shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>.</ce:para>
+                     <ce:para view="all">From <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, the segregation coefficient of Nd<ce:sup loc="post">3+</ce:sup> in Ca<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>Gd<ce:inf loc="post">1<ce:hsp sp="0.12"/>−<ce:hsp sp="0.12"/>
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals increases with the increasing of the Nd<ce:sup loc="post">3+</ce:sup>-doped concentration, and the value of <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">Nd</ce:inf> in the Ca<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>Gd<ce:inf loc="post">1<ce:hsp sp="0.12"/>−<ce:hsp sp="0.12"/>
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal is less than 1.00, so <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">l</ce:inf> increases in growth process and <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> increases accordingly. Thus, the dopant concentration increases by degrees along the growth axis of the crystal. In order to reduce the concentration gradient of the doped ions in the crystal, it is an accepted method to descend the pulling rate and increase the rotative velocity step by step. The segregation coefficient (0.71) of Nd<ce:sup loc="post">3+</ce:sup> in Ca<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>Gd<ce:inf loc="post">1<ce:hsp sp="0.12"/>−<ce:hsp sp="0.12"/>
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals is lower than that of GdVO<ce:inf loc="post">4</ce:inf> crystals (0.78) <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. According to <ce:italic>k</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>e</ce:italic>
+                        </ce:inf> (Ca<ce:sup loc="post">2+</ce:sup>), we adjusted the value of <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">l</ce:inf> to keep the quantity of Ca<ce:sup loc="post">2+</ce:sup> constant. Thus, the different Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals can be grown.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Lattice parameters</ce:section-title>
+                     <ce:para view="all">The XRD pattern of Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals are shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>.The lattice parameters of Nd: Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals are listed in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>. The indexing data of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals are listed in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>.</ce:para>
+                     <ce:para view="all">From <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> and <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="tbl3"/>, the lattice parameters of Gd<ce:inf loc="post">0.08</ce:inf>V<ce:inf loc="post">0.92</ce:inf>O<ce:inf loc="post">4</ce:inf> crystal are close to that of pure GdVO<ce:inf loc="post">4</ce:inf> crystal <ce:cross-ref refid="bib11">[11]</ce:cross-ref>.Contrasted with the X-ray pattern of pure GdVO<ce:inf loc="post">4</ce:inf> crystal <ce:cross-ref refid="bib12">[12]</ce:cross-ref>, there is no other diffraction peak. It indicates that substituting Ca<ce:sup loc="post">2+</ce:sup> is well-proportioned in GdVO<ce:inf loc="post">4</ce:inf>.</ce:para>
+                     <ce:para view="all">As <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref> shows, after the Nd<ce:sup loc="post">3+</ce:sup> replaced Gd<ce:sup loc="post">3+</ce:sup> in Gd<ce:inf loc="post">0.08</ce:inf>V<ce:inf loc="post">0.92</ce:inf>O<ce:inf loc="post">4</ce:inf> crystal, the lattice parameters become bigger. The probable reason is the radius of Nd<ce:sup loc="post">3+</ce:sup> ion is bigger than that of Gd<ce:sup loc="post">3+</ce:sup> ion. But the crystal structure was markedly not changed. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> shows the relation of the lattice volume (nm<ce:sup loc="post">3</ce:sup>
+                        <ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">−<ce:hsp sp="0.10"/>3</ce:sup>) versus the concentration of Nd<ce:sup loc="post">3+</ce:sup>-doped ions (at.%). With the increasing of Nd<ce:sup loc="post">3+</ce:sup>-doped concentration, the lattice volume of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals increases accordingly.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Polarized absorption spectrum</ce:section-title>
+                     <ce:para view="all">The absorption spectrograms are as follows (<ce:cross-refs refid="fig4 fig5 fig6 fig7">Figs. 4–7</ce:cross-refs>
+                        <ce:float-anchor refid="fig4"/>
+                        <ce:float-anchor refid="fig5"/>
+                        <ce:float-anchor refid="fig6"/>
+                        <ce:float-anchor refid="fig7"/>).</ce:para>
+                     <ce:para view="all">As a result, there is visible polarization in the absorption spectrogram of each sample. From <ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>
+                        <ce:float-anchor refid="tbl4"/> we know that ∏-polarization absorption is stronger than σ-polarization absorption of each crystal, especially to 1.48 at.% Nd-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal.</ce:para>
+                     <ce:para view="all">The formulas of calculating the absorption cross-section are as follows:<ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si3.gif" overflow="scroll">
+                                 <mml:mi>α</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>ln</mml:mi>
+                                       <mml:mo>⁡</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>I</mml:mi>
+                                          <mml:mn>0</mml:mn>
+                                       </mml:msub>
+                                       <mml:mo>/</mml:mo>
+                                       <mml:mi>I</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mi>L</mml:mi>
+                                 </mml:mfrac>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mn>2.303</mml:mn>
+                                       <mml:mo>×</mml:mo>
+                                       <mml:mi>A</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mi>L</mml:mi>
+                                 </mml:mfrac>
+                                 <mml:mspace width="2em" height="0.3ex"/>
+                                 <mml:msub>
+                                    <mml:mi>σ</mml:mi>
+                                    <mml:mtext>abs</mml:mtext>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>ln</mml:mi>
+                                       <mml:mo>⁡</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>I</mml:mi>
+                                          <mml:mn>0</mml:mn>
+                                       </mml:msub>
+                                       <mml:mo>/</mml:mo>
+                                       <mml:mi>I</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>N</mml:mi>
+                                          <mml:mn>0</mml:mn>
+                                       </mml:msub>
+                                       <mml:mo>·</mml:mo>
+                                       <mml:mi>L</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mi>α</mml:mi>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>N</mml:mi>
+                                          <mml:mn>0</mml:mn>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>in which, <ce:italic>I</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>, <ce:italic>I</ce:italic> are the intensity of incident light and transmitted light respectively, <ce:italic>L</ce:italic> is the thickness of crystal slice, <ce:italic>N</ce:italic>
+                        <ce:inf loc="post">0</ce:inf> is volume concentration of ion. The absorption cross-sections of the crystals are shown in <ce:cross-ref refid="tbl5">Table 5</ce:cross-ref>
+                        <ce:float-anchor refid="tbl5"/>.</ce:para>
+                     <ce:para view="all">Thus it can be seen, the absorption cross-section of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals is big at 808 nm. It is fit to be pumped by LD.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title>Fluorescence lifetime</ce:section-title>
+                     <ce:para view="all">The fluorescence lifetime of the crystals at 1064 nm are listed in <ce:cross-ref refid="tbl6">Table 6</ce:cross-ref>
+                        <ce:float-anchor refid="tbl6"/>. The excitation wavelength is 808 nm.</ce:para>
+                     <ce:para view="all">From <ce:cross-ref refid="tbl6">Table 6</ce:cross-ref>, with the increase of the concentration of Nd<ce:sup loc="post">3+</ce:sup> ions, the lifetime of energy transition (<ce:sup loc="pre">4</ce:sup>
+                        <ce:italic>F</ce:italic>
+                        <ce:inf loc="post">3<ce:italic>/</ce:italic>2</ce:inf>
+                        <ce:hsp sp="0.10"/>→<ce:hsp sp="0.10"/>
+                        <ce:sup loc="pre">4</ce:sup>
+                        <ce:italic>I</ce:italic>
+                        <ce:inf loc="post">11<ce:italic>/</ce:italic>2</ce:inf>) of Nd<ce:sup loc="post">3+</ce:sup> ions become smaller and smaller, and the fluorescence quenching effect of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal is weaker than Nd:YVO<ce:inf loc="post">4</ce:inf>/GdVO<ce:inf loc="post">4</ce:inf> crystals <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. So substituting Ca<ce:sup loc="post">2+</ce:sup> benefits increasing the Nd-doped concentration in Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal, and the absorption of LD pumped lamp is enhanced.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title>Emission cross-section</ce:section-title>
+                     <ce:para view="all">Based on the Judd–Ofelt theory, the emission cross-sections in this crystal were calculated.</ce:para>
+                     <ce:para view="all">The emission cross-sections of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals are listed in <ce:cross-ref refid="tbl7">Table 7</ce:cross-ref>
+                        <ce:float-anchor refid="tbl7"/>.</ce:para>
+                     <ce:para view="all">Through the <ce:cross-ref refid="tbl7">Table 7</ce:cross-ref>, we can know the value of <ce:italic>σ</ce:italic>
+                        <ce:inf loc="post">em</ce:inf>
+                        <ce:hsp sp="0.12"/>·<ce:hsp sp="0.12"/>
+                        <ce:italic>τ</ce:italic> of 1.48 at.% Nd<ce:sup loc="post">3+</ce:sup>-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal is biggest. The threshold value of laser is in inverse proportion to the value of <ce:italic>σ</ce:italic>
+                        <ce:inf loc="post">em</ce:inf>
+                        <ce:hsp sp="0.10"/>·<ce:hsp sp="0.10"/>
+                        <ce:italic>τ</ce:italic>. That is to say, the bigger is the value of <ce:italic>σ</ce:italic>
+                        <ce:inf loc="post">em</ce:inf>
+                        <ce:hsp sp="0.12"/>·<ce:hsp sp="0.12"/>
+                        <ce:italic>τ</ce:italic>, the more advantageous is the formation and output of laser. So 1.48 at.% Nd<ce:sup loc="post">3+</ce:sup>-doped concentration is fittest in Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal. Although the emission cross-section of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal are lower than it of Nd:GdVO<ce:inf loc="post">4</ce:inf> 
+                        <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs>, there is no great effect of spectral parameter of the crystal. It is easy to realize laser output.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title>The Raman spectra of the crystal</ce:section-title>
+                     <ce:para view="all">There is a sharp contrast of the Raman spectra between the GdVO<ce:inf loc="post">4</ce:inf> crystal and the Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal through <ce:cross-refs refid="fig8 fig9 fig10 fig11">Figs. 8–11</ce:cross-refs>
+                        <ce:float-anchor refid="fig8"/>
+                        <ce:float-anchor refid="fig9"/>
+                        <ce:float-anchor refid="fig10"/>
+                        <ce:float-anchor refid="fig11"/>. After choosing Ca as a substitute for gadolinium, the peak intensity of the Raman spectra of Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal was clearly stronger than the GdVO<ce:inf loc="post">4</ce:inf> crystal at near 890 cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>.This result indicates the Raman performance of Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal was improved.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">
+                     <ce:list>
+                        <ce:list-item>
+                           <ce:label>(1)</ce:label>
+                           <ce:para view="all">The average value of the segregation coefficient of Nd<ce:sup loc="post">3+</ce:sup> ions in Nd: Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystals is 0.71 which is lower than that of Nd:GdVO<ce:inf loc="post">4</ce:inf> crystals. This indicates that substituting Ca<ce:sup loc="post">2+</ce:sup> in Nd:GdVO<ce:inf loc="post">4</ce:inf> crystals decreases the segregation coefficient of Nd<ce:sup loc="post">3+</ce:sup> ions.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>(2)</ce:label>
+                           <ce:para view="all">XRD analysis showed that the Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal also belongs to a tetragonal system and has a Zircon-Type structure. Even after substituting Ca<ce:sup loc="post">2+</ce:sup> and Nd<ce:sup loc="post">3+</ce:sup>, its crystal structure has no enormous change.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>(3)</ce:label>
+                           <ce:para view="all">A 1.48 at.% Nd<ce:sup loc="post">3+</ce:sup>-doped Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal has wider absorption peak at 809 nm. Its FWHM (10 nm) is bigger than FWHM (1.6 nm) <ce:cross-ref refid="bib16">[16]</ce:cross-ref> of the Nd:GdVO<ce:inf loc="post">4</ce:inf> crystal. It makes for GaAlAs laser diode pumped and debases the need of temperature of LD.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>(4)</ce:label>
+                           <ce:para view="all">Contrasting to Nd:GdVO<ce:inf loc="post">4</ce:inf> crystal, the fluorescence lifetime of Nd:Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal was longer, and the emission cross-section and the value of <ce:italic>τ</ce:italic>
+                              <ce:hsp sp="0.10"/>·<ce:hsp sp="0.10"/>
+                              <ce:italic>σ</ce:italic> was smaller. So the crystal is easy to realize laser output.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>(5)</ce:label>
+                           <ce:para view="all">When Ca substituted for gadolinium, the Raman performance of Ca<ce:inf loc="post">0.08</ce:inf>Gd<ce:inf loc="post">0.92</ce:inf>VO<ce:inf loc="post">4</ce:inf> crystal was improved.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">Support of this work by the National Natural Science Foundation of China (60478018) is gratefully acknowledged.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Ostroumov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-P.</ce:given-name>
+                                 <ce:surname>Meyn</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys., B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>373</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Studenikin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.I.</ce:given-name>
+                                 <ce:surname>Zagumennyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yu.D.</ce:given-name>
+                                 <ce:surname>Zavartsev</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Quantum Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1162</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.I.</ce:given-name>
+                                 <ce:surname>Zagumennyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.Yu.</ce:given-name>
+                                 <ce:surname>Nikol'skii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Prokhorov</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Quantum Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>999</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Zhang</ce:given-name>
+                                 <ce:surname>Huaijin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Meng</ce:given-name>
+                                 <ce:surname>Xianlin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Liu</ce:given-name>
+                                 <ce:surname>Junhai</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>216</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>367</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys., B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Chow</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Laser Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>439</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Lianjie</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Xianlin</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Jiguo</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Li</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Huaijin</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Bingchao</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Huaidong</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Growth and defects of Nd:GdVO<ce:inf loc="post">4</ce:inf> single crystal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>242</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>183</sb:first-page>
+                              <sb:last-page>188</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Junhai</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Li</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Changqing</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Zongshu</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Jiyang</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yaogang</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Huaijin</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Xianlin</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Growth of lowly Nd doped GdVO<ce:inf loc="post">4</ce:inf> single crystal and its laser properties</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>216</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>367</sb:first-page>
+                              <sb:last-page>371</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Burton</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1953</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1987</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Huaijin</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Xianlin</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Growth of lowly Nd doped GdVO<ce:inf loc="post">4</ce:inf> single crystal and its laser properties</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>216</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>367</sb:first-page>
+                              <sb:last-page>371</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Qinghan</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Zhibin</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yujing</ce:given-name>
+                                 <ce:surname>Huo</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Growth and performance of Nd:GdVO<ce:inf loc="post">4</ce:inf> crystal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Laser Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>339</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>JCPDS diffraction file:16-0452.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Kecong</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ximin</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of the synthetic crystal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Synth. Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>231</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zenson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Ostroumov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Meyn</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Spectroscopic characterization and laser performance of diode laser-pumped Nd:GdVO<ce:inf loc="post">4</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys., B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>373</sb:first-page>
+                              <sb:last-page>379</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>offlt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Intensities of crystal spectra of rare-earth ions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1962</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>511</sb:first-page>
+                              <sb:last-page>521</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.I.</ce:given-name>
+                                 <ce:surname>Zagumennyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Ostroumov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.A.</ce:given-name>
+                                 <ce:surname>Shcherbakov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jensen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Meyn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Huber</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sov. J. Quantum Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1071</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

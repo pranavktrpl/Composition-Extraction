@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S003810980000243X</prism:url><dc:identifier>doi:10.1016/S0038-1098(00)00243-X</dc:identifier><eid>1-s2.0-S003810980000243X</eid><prism:doi>10.1016/S0038-1098(00)00243-X</prism:doi><pii>S0038-1098(00)00243-X</pii><dc:title>Dielectric properties of lithium niobate–tantalate crystals </dc:title><prism:publicationName>Solid State Communications</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00381098</prism:issn><prism:volume>115</prism:volume><prism:issueIdentifier>11</prism:issueIdentifier><prism:startingPage>581</prism:startingPage><prism:endingPage>585</prism:endingPage><prism:pageRange>581-585</prism:pageRange><prism:number>11</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2000-08-07</prism:coverDate><prism:coverDisplayDate>7 August 2000</prism:coverDisplayDate><prism:copyright>Copyright © 2000 Elsevier Science Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Science Ltd.</prism:publisher><dc:creator>Xue, D.</dc:creator><dc:creator>Betzler, K.</dc:creator><dc:creator>Hesse, H.</dc:creator><dc:description>
+                  Dielectric properties, including linear (refractive index) and second-order nonlinear optical responses, of LiNb1−y
+                     Ta
+                        y
+                     O3-type mixed single crystals with y=0.00, 0.81, 0.92, 0.97, and 1.00 have been quantitatively studied. Based on the corresponding crystal compositions, the chemical bond method was applied. The results show that the dielectric susceptibilities at 1.064μm decrease remarkably with increasing tantalum content in the mixed-crystal system lithium niobate–tantalate.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>A. Insulators</dcterms:subject><dcterms:subject>C. Crystal structure and symmetry</dcterms:subject><dcterms:subject>D. Optical properties</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S003810980000243X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S003810980000243X" rel="scidir"/></coredata><objects><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="153" height="16" size="632">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-si9.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="150" height="16" size="594">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="130" height="16" size="583">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="124" height="16" size="556">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="92" height="18" size="485">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="46" height="18" size="308">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="97" height="18" size="551">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="844" height="51" size="4574">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="191" height="38" size="1058">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="72" height="93" size="2394">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="337" height="434" size="46684">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="73" size="2294">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="503" height="292" size="31450">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="99" height="93" size="1554">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="250" height="235" size="5228">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-gr3.gif?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="108" height="93" size="2833">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="190" height="164" size="5284">https://api.elsevier.com/content/object/eid/1-s2.0-S003810980000243X-gr4.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>0000164364</scopus-id><scopus-eid>2-s2.0-0000164364</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0000164364" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271577</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Solid State Communications</xocs:srctitle>
+      <xocs:normalized-srctitle>SOLIDSTATECOMMUNICATIONS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20000720">2000-07-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20000720">2000-07-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-17T01:49:01</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S003810980000243X</xocs:eid>
+      <xocs:pii-formatted>S0038-1098(00)00243-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S003810980000243X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0038-1098(00)00243-X</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0038109800X02694</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T02:30:25.964289-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20000807</xocs:date-search-begin>
+      <xocs:year-nav>2000</xocs:year-nav>
+      <xocs:indexeddate epoch="964051200">2000-07-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast misctext primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0038-1098</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00381098</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>115</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>115</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>11</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>11</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 115, Issue 11</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>581</xocs:first-fp>
+      <xocs:last-lp>585</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>581</xocs:first-page>
+         <xocs:last-page>585</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20000807</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>7 August 2000</xocs:cover-date-text>
+      <xocs:cover-date-start>2000-08-07</xocs:cover-date-start>
+      <xocs:cover-date-year>2000</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2000 Elsevier Science Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>DIELECTRICPROPERTIESLITHIUMNIOBATETANTALATECRYSTALS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>XUE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Theoretical method</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>RAUBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CURRENTTOPICSINMATERIALSSCIENCES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>KRATZIG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHOTOREFRACTIVEMATERIALSAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ABRAHAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BOYSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>405</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>MALOVICHKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>785</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>SAFARYAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8079</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>GUENTHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7611</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7623</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>ADIBI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3767</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3769</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>BAXTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>753</xocs:ref-first-fp>
+            <xocs:ref-last-lp>756</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>KRETSCHMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-last-lp>298</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>HOFMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>896</xocs:ref-first-fp>
+            <xocs:ref-last-lp>898</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>MILLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4896</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>TANGONAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>238</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>KOSKELA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2683</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2685</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>IMBROCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1392</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1397</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>FURUKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1816</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1819</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>KOSTRITSKII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>180</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>KIP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>150</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>WONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6513</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6518</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>FRIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>267</xocs:ref-first-fp>
+            <xocs:ref-last-lp>270</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>LORENZO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3735</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>SCHLARB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>751</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7515</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>78</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>SHIMURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>579</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>XUE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>R7</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>XUEX2000X581</xocs:refkey3>
+         <xocs:refkey4lp>XUEX2000X581X585</xocs:refkey4lp>
+         <xocs:refkey4ai>XUEX2000X581XD</xocs:refkey4ai>
+         <xocs:refkey5>XUEX2000X581X585XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0038-1098(00)00243-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S003810980000243X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S003810980000243X</xocs:eid>
+         <xocs:doi>10.1016/S0038-1098(00)00243-X</xocs:doi>
+         <xocs:cid>271577</xocs:cid>
+         <xocs:timestamp>2010-12-18T11:47:14.345398-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2000-08-07</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/MAIN/application/pdf/b40a020b570253a1d7ad5bb6c114efd7/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/MAIN/application/pdf/b40a020b570253a1d7ad5bb6c114efd7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>191700</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S003810980000243X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/PREVIEW/image/png/66fa154bf3cd7e27aa99578aa9844a0b/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/PREVIEW/image/png/66fa154bf3cd7e27aa99578aa9844a0b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64876</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/STRIPIN/image/gif/ea213b6bba9d26e69310427177662ea9/si9.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/STRIPIN/image/gif/ea213b6bba9d26e69310427177662ea9/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>632</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>153</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/STRIPIN/image/gif/5b27148199d6f446eb9969366624d8c5/si8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/STRIPIN/image/gif/5b27148199d6f446eb9969366624d8c5/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>594</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>150</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/STRIPIN/image/gif/e5589a5e5c6e42427bcfd697bd67bf90/si7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/STRIPIN/image/gif/e5589a5e5c6e42427bcfd697bd67bf90/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>583</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>130</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/STRIPIN/image/gif/d31bf9e5b0500d5d7018af388c9e013f/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/STRIPIN/image/gif/d31bf9e5b0500d5d7018af388c9e013f/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>556</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>124</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/STRIPIN/image/gif/c441589b6655edaa8bb6f1ce553cb380/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/STRIPIN/image/gif/c441589b6655edaa8bb6f1ce553cb380/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>485</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>92</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/STRIPIN/image/gif/ae33fd75e3d484199bd79600fd2200b0/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/STRIPIN/image/gif/ae33fd75e3d484199bd79600fd2200b0/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>308</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>46</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/STRIPIN/image/gif/040a94d602759117842223ffe6bfc102/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/STRIPIN/image/gif/040a94d602759117842223ffe6bfc102/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>551</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>97</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/STRIPIN/image/gif/57914ee82b1d6de169645ffe2a57079e/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/STRIPIN/image/gif/57914ee82b1d6de169645ffe2a57079e/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>4574</xocs:filesize>
+               <xocs:pixel-height>51</xocs:pixel-height>
+               <xocs:pixel-width>844</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/STRIPIN/image/gif/0ed0f1057a57cc16ce250f9e529af3e0/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/STRIPIN/image/gif/0ed0f1057a57cc16ce250f9e529af3e0/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1058</xocs:filesize>
+               <xocs:pixel-height>38</xocs:pixel-height>
+               <xocs:pixel-width>191</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/gr1/THUMBNAIL/image/gif/c808134a083cb7a0833eccaa655aeadf/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/gr1/THUMBNAIL/image/gif/c808134a083cb7a0833eccaa655aeadf/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2394</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>72</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/gr1/DOWNSAMPLED/image/jpeg/3bb748ce584ce4f1ede8efe76f83f1f2/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/gr1/DOWNSAMPLED/image/jpeg/3bb748ce584ce4f1ede8efe76f83f1f2/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46684</xocs:filesize>
+               <xocs:pixel-height>434</xocs:pixel-height>
+               <xocs:pixel-width>337</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/gr2/THUMBNAIL/image/gif/141fa01846997c850645e5ab4fd5d3a0/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/gr2/THUMBNAIL/image/gif/141fa01846997c850645e5ab4fd5d3a0/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2294</xocs:filesize>
+               <xocs:pixel-height>73</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/gr2/DOWNSAMPLED/image/jpeg/dfacb129b867087d16d2e13d05f01de7/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/gr2/DOWNSAMPLED/image/jpeg/dfacb129b867087d16d2e13d05f01de7/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31450</xocs:filesize>
+               <xocs:pixel-height>292</xocs:pixel-height>
+               <xocs:pixel-width>503</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/gr3/THUMBNAIL/image/gif/b6bde71f696f171b704256d11a6e78c9/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/gr3/THUMBNAIL/image/gif/b6bde71f696f171b704256d11a6e78c9/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1554</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>99</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-gr3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/gr3/DOWNSAMPLED/image/gif/3e968f44d6c1ec8b0da5d853e908fee6/gr3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/gr3/DOWNSAMPLED/image/gif/3e968f44d6c1ec8b0da5d853e908fee6/gr3.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5228</xocs:filesize>
+               <xocs:pixel-height>235</xocs:pixel-height>
+               <xocs:pixel-width>250</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/gr4/THUMBNAIL/image/gif/41d35cab815cf823ce7d3528dd908136/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/gr4/THUMBNAIL/image/gif/41d35cab815cf823ce7d3528dd908136/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2833</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>108</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S003810980000243X-gr4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S003810980000243X/gr4/DOWNSAMPLED/image/gif/0f5bd0a9c128daee753e2a069e59a63d/gr4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S003810980000243X/gr4/DOWNSAMPLED/image/gif/0f5bd0a9c128daee753e2a069e59a63d/gr4.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5284</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>190</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>SSC</jid>
+            <aid>5347</aid>
+            <ce:pii>S0038-1098(00)00243-X</ce:pii>
+            <ce:doi>10.1016/S0038-1098(00)00243-X</ce:doi>
+            <ce:copyright type="full-transfer" year="2000">Elsevier Science Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Stereoscopic view (to be viewed with crossed eyes) of the lithium niobate crystal structure. Light gray: oxygen; small dark spheres: lithium; larger dark spheres: niobium. Oxygen octahedrons and triangles are indicated by sticks.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Stereoscopic view (to be viewed with crossed eyes) of the bonding topography around niobium (large dark) and lithium ions (small dark) in lithium niobate. Light gray: oxygen ions.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Refractive index <ce:italic>n</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> of lithium niobate tantalate LiNb<ce:inf loc="post">1−<ce:italic>y</ce:italic>
+                     </ce:inf>Ta<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf> (squares: calculated, circles: experimental) and nonstoichiometric lithium niobate Li<ce:inf loc="post">1−5<ce:italic>x</ce:italic>
+                     </ce:inf>Nb<ce:inf loc="post">1+<ce:italic>x</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf> (triangles) as a function of Ta content <ce:italic>y</ce:italic> or excess Nb content <ce:italic>x</ce:italic>. The solid line is a linear fit to the calculated data.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="FIG4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Tensor coefficients of the nonlinear susceptibility for lithium niobate tantalate LiNb<ce:inf loc="post">1−<ce:italic>y</ce:italic>
+                     </ce:inf>Ta<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf> (open markers) and nonstoichiometric lithium niobate Li<ce:inf loc="post">1−5<ce:italic>x</ce:italic>
+                     </ce:inf>Nb<ce:inf loc="post">1+<ce:italic>x</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf> (filled markers) as a function of Ta content <ce:italic>y</ce:italic> or excess Nb content <ce:italic>x</ce:italic>. Circles: <ce:italic>d</ce:italic>
+                     <ce:inf loc="post">22</ce:inf>, squares: <ce:italic>d</ce:italic>
+                     <ce:inf loc="post">31</ce:inf>, triangles: <ce:italic>d</ce:italic>
+                     <ce:inf loc="post">33</ce:inf>. The solid lines are linear fits to the calculated data.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Calculated dielectric susceptibilities of LiNb<ce:inf loc="post">1−<ce:italic>y</ce:italic>
+                     </ce:inf>Ta<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf> mixed crystals at 1.064<ce:hsp sp="0.25"/>μm</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col6" rowsep="1">LiNb<inf loc="post">1−<italic>y</italic>
+                           </inf>Ta<inf loc="post">
+                              <italic>y</italic>
+                           </inf>O<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>y</italic>=0.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>y</italic>=0.81</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>y</italic>=0.92</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>y</italic>=0.97</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>y</italic>=1.00</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Refractive index <italic>n</italic>
+                           <inf loc="post">0</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.077</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.056</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.046</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.04</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>d</italic>
+                           <inf loc="post">22</inf> (pm/V)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.84</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.64</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>d</italic>
+                           <inf loc="post">31</inf> (pm/V)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−4.94</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−3.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−2.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−2.79</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−2.73</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>d</italic>
+                           <inf loc="post">33</inf> (pm/V)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−25.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−17.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−16.78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−16.32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−16.03</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Dielectric properties of lithium niobate–tantalate crystals</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>Xue</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>K.</ce:given-name>
+                  <ce:surname>Betzler</ce:surname>
+                  <ce:cross-ref refid="CORR1">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>H.</ce:given-name>
+                  <ce:surname>Hesse</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Fachbereich Physik, Universität Osnabrück, D-49069 Osnabrück, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="CORR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author. Fax: +49-541-969-3512</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="6" month="3" year="2000"/>
+            <ce:date-accepted day="6" month="6" year="2000"/>
+            <ce:miscellaneous>by P. Dederichs</ce:miscellaneous>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Dielectric properties, including linear (refractive index) and second-order nonlinear optical responses, of LiNb<ce:inf loc="post">1−<ce:italic>y</ce:italic>
+                     </ce:inf>Ta<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf>-type mixed single crystals with <ce:italic>y</ce:italic>=0.00, 0.81, 0.92, 0.97, and 1.00 have been quantitatively studied. Based on the corresponding crystal compositions, the chemical bond method was applied. The results show that the dielectric susceptibilities at 1.064<ce:hsp sp="0.25"/>μm decrease remarkably with increasing tantalum content in the mixed-crystal system lithium niobate–tantalate.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" xml:lang="en">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>A. Insulators</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>C. Crystal structure and symmetry</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>D. Optical properties</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Mixed ferroelectrics have been the focus of intensive fundamental and applied research for many years. Interest in the study of these materials arises from the fact that the physical properties of crystalline materials are governed to a large extent by the composition of the crystals, thus can be tuned by varying the composition. One of the simplest systems of ferroelectric mixed crystals is lithium niobate–tantalate (LNT) as both end members exhibit the same crystal structure (space group <ce:italic>R</ce:italic>3<ce:italic>c</ce:italic>) with only slight differences in the lattice and positional parameters. Both border components which make up the system, lithium niobate LiNbO<ce:inf loc="post">3</ce:inf> (LN) and lithium tantalate LiTaO<ce:inf loc="post">3</ce:inf> (LT), belong to the small group of ferroelectric materials, which are important for applications in many technological fields.</ce:para>
+                  <ce:para view="all">Lithium niobate is of great interest since several decades for both fundamental sciences and applications in optics due to its large electrooptical and nonlinear optical (NLO) coefficients <ce:cross-refs refid="BIB1 BIB2">[1,2]</ce:cross-refs>. Its crystal structure <ce:cross-refs refid="BIB3 BIB4">[3,4]</ce:cross-refs> and defect structure <ce:cross-refs refid="BIB5 BIB6">[5,6]</ce:cross-refs> have attracted considerable interest these years. Recent improvements have been achieved in the field of holographic storage where two-color <ce:cross-ref refid="BIB7">[7]</ce:cross-ref> and two-center redording <ce:cross-ref refid="BIB8">[8]</ce:cross-ref> have been developed. In the field of frequency conversion, wavelength range and conversion efficiency could be greatly extended using periodically poled structures in bulk crystals <ce:cross-refs refid="BIB9 BIB10">[9,10]</ce:cross-refs> or in combination with waveguides <ce:cross-ref refid="BIB11">[11]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Lithium tantalate has gained interest in similar fields due to its large NLO coefficients <ce:cross-ref refid="BIB12">[12]</ce:cross-ref> and photorefractive damage resistance <ce:cross-ref refid="BIB13">[13]</ce:cross-ref>. Applications include surface acoustic wave devices <ce:cross-ref refid="BIB14">[14]</ce:cross-ref>, holographic storage <ce:cross-refs refid="BIB15 BIB16">[15,16]</ce:cross-refs>, channel waveguides <ce:cross-refs refid="BIB17 BIB18">[17,18]</ce:cross-refs>, periodically poled structures <ce:cross-ref refid="BIB19">[19]</ce:cross-ref>, and electro-optic deflectors <ce:cross-ref refid="BIB20">[20]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Despite all similarities, there are also specific differences of the physical properties, which make it important to study the mixed system LNT in more detail. Phase matching properties, e.g. for NLO applications like sum frequency generation or optical parametric oscillation could be influenced very sensitively by the composition. To a certain degree, the mixed system yields also a simple crystal modeling method that may lead to good functional materials.</ce:para>
+                  <ce:para view="all">As lithium niobate has been much more intensively investigated than lithium tantalate, it is reasonable to use lithium niobate as the starting point in the considerations of the current mixed system.</ce:para>
+                  <ce:para view="all">Lithium niobate is a slightly nonstoichiometric, typically Li-deficient crystal, preferably grown at the congruently melting composition with 48.5<ce:hsp sp="0.25"/>mol% Li<ce:inf loc="post">2</ce:inf>O. A large variety of dopants ranging from the +1 valent state H<ce:sup loc="post">+</ce:sup> to the +3 valent state earth cations can be introduced into the crystal structure frame of lithium niobate crystals. Most are known to occupy Li sites <ce:cross-ref refid="BIB21">[21]</ce:cross-ref>. This can be understood from the defect structure of Li-deficient lithium niobate, all recent investigations have shown that preferably lithium vacancies are formed <ce:cross-refs refid="BIB5 BIB6">[5,6]</ce:cross-refs>. From the viewpoint of the synthetic chemistry, the dopant usually prefers to occupy the vacant lattice site in the host. Even excess Nb in nonstoichiometric lithium niobate occupies vacant Li sites.</ce:para>
+                  <ce:para view="all">In contrast to these Li-site dopants, tantalum is isomorphous to niobium and replaces niobium when introduced into the crystal structure frame of lithium niobate. As tantalum can substitute for niobium up to 100%, i.e. up to a complete exchange, it is very important to study the influence of the tantalum ‘dopant’ on the properties of lithium niobate crystals. Any changes in the crystal composition will finally affect all physical properties of the crystal, such as the linear dielectric response, i.e. the refractive index, and the second-order NLO susceptibility. Our previous experimental and theoretical studies have shown the important effect of different compositions of lithium niobate on its corresponding dielectric responses, respectively <ce:cross-refs refid="BIB22 BIB23">[22,23]</ce:cross-refs>, but both studies explain the effect of niobium cations on lithium sites in lithium niobate crystals on the dielectric responses. Therefore, the current study about the tantalum dopant on niobium sites will, in a sense, complement our earlier work towards a more thorough understanding of the influence of different dopants, occupying different lattice sites, on the dielectric properties of lithium niobate type crystals. Eventually general information can be gained about the way how dielectric properties can be effectively modified.</ce:para>
+                  <ce:para view="all">Our chemical bond method allows us to understand dielectric responses of crystal materials from corresponding crystallographic structures by using the constructed structure–property relationship <ce:cross-ref refid="BIB24">[24]</ce:cross-ref>. In an earlier work <ce:cross-ref refid="BIB25">[25]</ce:cross-ref>, we have quantitatively studied linear and second-order NLO responses (at 1.064<ce:hsp sp="0.25"/>μm) of LN and LT, from their respective detailed crystallographic structures at room temperature. Since LT and LN have the similar crystallographic structures, we therefore, in the present work, can do some predictions of dielectric responses of the mixed lithium niobate–tantalum crystals, LiNb<ce:inf loc="post">1−<ce:italic>y</ce:italic>
+                     </ce:inf>Ta<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf> with <ce:italic>y</ce:italic>=0.00, 0.81, 0.92, 0.97, and 1.00 (hereafter, abbreviated as LNT). In the present work, their dielectric responses include refractive indices <ce:italic>n</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> at 1.064<ce:hsp sp="0.25"/>μm and all independent second-order NLO tensor coefficients <ce:italic>d</ce:italic>
+                     <ce:inf loc="post">22</ce:inf>, <ce:italic>d</ce:italic>
+                     <ce:inf loc="post">31</ce:inf>, and <ce:italic>d</ce:italic>
+                     <ce:inf loc="post">33</ce:inf> at 1.064<ce:hsp sp="0.25"/>μm.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Theoretical method</ce:section-title>
+                  <ce:para view="all">As shown in the previous studies <ce:cross-ref refid="BIB24">[24]</ce:cross-ref>, the chemical bond method regards certain macroscopic physical properties of a crystal as the combination of the contributions of all constituent chemical bonds. According to the relationship between the crystal structure and dielectric responses of crystal materials, the linear and second-order NLO properties of any crystal can be calculated using the appropriate geometric sum of the respective properties of its corresponding constituent chemical bonds. On the basis of the crystallographic structure of an assigned crystal, its linear and second-order NLO susceptibilities <ce:italic>χ</ce:italic> and <ce:italic>d</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>ij</ce:italic>
+                     </ce:inf> thus can be written as:<display>
+                        <formula id="FD1">
+                           <ce:label>(1)</ce:label>
+                           <math altimg="si1.gif">χ=<lim>
+                                 <op>∑</op>
+                                 <ll>μ</ll>
+                              </lim>F<sup loc="post">μ</sup>χ<sup loc="post">μ</sup>=<lim>
+                                 <op>∑</op>
+                                 <ll>μ</ll>
+                              </lim>N<inf loc="post">
+                                 <rm>b</rm>
+                              </inf>
+                              <sup loc="post">μ</sup>χ<inf loc="post">
+                                 <rm>b</rm>
+                              </inf>
+                              <sup loc="post">μ</sup>
+                           </math>
+                        </formula>
+                     </display>and<display>
+                        <formula id="FD2">
+                           <ce:label>(2)</ce:label>
+                           <math altimg="si2.gif">d<inf loc="post">ij</inf>=<lim>
+                                 <op>∑</op>
+                                 <ll>μ</ll>
+                              </lim>
+                              <fen>
+                                 <cp type="lcub" style="s"/>
+                                 <fr shape="built" align="c" style="s">
+                                    <nu>G<inf loc="post">ij</inf>
+                                       <sup loc="post">μ</sup>N<inf loc="post">
+                                          <rm>b</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>(0.5){[(Z<inf loc="post">
+                                          <rm>A</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>)<sup loc="post">∗</sup>+n(Z<inf loc="post">
+                                          <rm>B</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>)<sup loc="post">∗</sup>]/[(Z<inf loc="post">
+                                          <rm>A</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>)<sup loc="post">∗</sup>−n(Z<inf loc="post">
+                                          <rm>B</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>)<sup loc="post">∗</sup>]}f<inf loc="post">
+                                          <rm>i</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>(χ<inf loc="post">
+                                          <rm>b</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>)<sup loc="post">2</sup>
+                                    </nu>
+                                    <de>d<sup loc="post">μ</sup>q<sup loc="post">μ</sup>
+                                    </de>
+                                 </fr>+<fr shape="built" align="c" style="s">
+                                    <nu>G<inf loc="post">ij</inf>
+                                       <sup loc="post">μ</sup>N<inf loc="post">
+                                          <rm>b</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>s(2s−1)[r<inf loc="post">0</inf>
+                                       <sup loc="post">μ</sup>/(r<inf loc="post">0</inf>
+                                       <sup loc="post">μ</sup>−r<inf loc="post">
+                                          <rm>c</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>)]<sup loc="post">2</sup>f<inf loc="post">
+                                          <rm>c</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>(χ<inf loc="post">
+                                          <rm>b</rm>
+                                       </inf>
+                                       <sup loc="post">μ</sup>)<sup loc="post">2</sup>ρ<sup loc="post">μ</sup>
+                                    </nu>
+                                    <de>d<sup loc="post">μ</sup>q<sup loc="post">μ</sup>
+                                    </de>
+                                 </fr>
+                                 <cp type="rcub" style="s"/>
+                              </fen>,</math>
+                        </formula>
+                     </display>respectively. Parameters used in <ce:cross-refs refid="FD1 FD2">Eqs. (1) and (2)</ce:cross-refs> and in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref> 
+                     <ce:float-anchor refid="TBL1"/>include:<ce:list>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>F</ce:italic>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>: Fraction of bonds of type <ce:italic>μ</ce:italic> composing the crystal;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>χ</ce:italic>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>: Linear susceptibility contribution from <ce:italic>μ</ce:italic>-type bonds;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>N</ce:italic>
+                              <ce:inf loc="post">b</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>: Number of bonds of type <ce:italic>μ</ce:italic> per cm<ce:sup loc="post">3</ce:sup>;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>χ</ce:italic>
+                              <ce:inf loc="post">b</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>: Susceptibility of a single bond of type <ce:italic>μ</ce:italic>;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>G</ce:italic>
+                              <ce:inf loc="post">
+                                 <ce:italic>ij</ce:italic>
+                              </ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>: Geometrical contribution of chemical bonds of type <ce:italic>μ</ce:italic>;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <math altimg="si3.gif">(Z<inf loc="post">
+                                    <rm>A</rm>
+                                 </inf>
+                                 <sup loc="post">μ</sup>)<sup loc="post">∗</sup>,<ce:hsp sp="0.25"/>(Z<inf loc="post">
+                                    <rm>B</rm>
+                                 </inf>
+                                 <sup loc="post">μ</sup>)<sup loc="post">∗</sup>:</math> Effective number of valence electrons of A and B ions, respectively;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>n</ce:italic>: Ratio of numbers of two elements B and A in the bond valence equation <ce:cross-ref refid="BIB23">[23]</ce:cross-ref>;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <math altimg="si4.gif">f<inf loc="post">
+                                    <rm>i</rm>
+                                 </inf>
+                                 <sup loc="post">μ</sup>,<ce:hsp sp="0.25"/>f<inf loc="post">
+                                    <rm>c</rm>
+                                 </inf>
+                                 <sup loc="post">μ</sup>:</math> Fractions of ionic and covalent characteristics of the individual bonds, <ce:italic>f</ce:italic>
+                              <ce:inf loc="post">i</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>=(<ce:italic>C</ce:italic>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>)<ce:sup loc="post">2</ce:sup>/[(<ce:italic>E</ce:italic>
+                              <ce:inf loc="post">
+                                 <ce:italic>h</ce:italic>
+                              </ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>)<ce:sup loc="post">2</ce:sup>+(<ce:italic>C</ce:italic>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>)<ce:sup loc="post">2</ce:sup>] and <ce:italic>f</ce:italic>
+                              <ce:inf loc="post">c</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>=1−<ce:italic>f</ce:italic>
+                              <ce:inf loc="post">i</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>, where <ce:italic>C</ce:italic>
+                              <ce:sup loc="post">μ</ce:sup>, <ce:italic>E</ce:italic>
+                              <ce:inf loc="post">
+                                 <ce:italic>h</ce:italic>
+                              </ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup> are the average energy gaps due to ionic and covalent effects;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>d<ce:sup loc="post">μ</ce:sup>
+                              </ce:italic>: Bond length of the <ce:italic>μ</ce:italic>-type bonds in Å;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>q<ce:sup loc="post">μ</ce:sup>
+                              </ce:italic>: Bond charge of the <ce:italic>μ</ce:italic>th bond;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>s</ce:italic>: Exponent in the bond force constant (2.48);</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <math altimg="si5.gif">r<inf loc="post">
+                                    <rm>c</rm>
+                                 </inf>
+                                 <sup loc="post">μ</sup>=0.35<ce:hsp sp="0.25"/>r<inf loc="post">0</inf>
+                                 <sup loc="post">μ</sup>:</math> Core radius, where <ce:italic>r</ce:italic>
+                              <ce:inf loc="post">0</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>=<ce:italic>d</ce:italic>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>/2;</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">
+                              <ce:italic>ρ</ce:italic>=(<ce:italic>r</ce:italic>
+                              <ce:inf loc="post">A</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>−<ce:italic>r</ce:italic>
+                              <ce:inf loc="post">B</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>)/(<ce:italic>r</ce:italic>
+                              <ce:inf loc="post">A</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>+<ce:italic>r</ce:italic>
+                              <ce:inf loc="post">B</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup>): Difference in the atomic sizes, where <ce:italic>r</ce:italic>
+                              <ce:inf loc="post">A</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup> and <ce:italic>r</ce:italic>
+                              <ce:inf loc="post">B</ce:inf>
+                              <ce:sup loc="post">
+                                 <ce:italic>μ</ce:italic>
+                              </ce:sup> are the covalent radii of atoms A and B.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para view="all">All of the above parameters can be deduced from the detailed chemical bonding structures of all constituent atoms, which are obtained from the corresponding crystallographic structure of the assigned crystal material <ce:cross-ref refid="BIB24">[24]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">The crystal structure of lithium niobate in the ferroelectric room temperature phase is characterized by distorted oxygen octahedra as sketched in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="FIG1"/>. The octahedron centers are occupied by the cations in a stacking sequence … –Li–Nb–□–Li–Nb–□–… along the <ce:italic>c</ce:italic>-axis, where □ represents a structural vacancy (an empty octahedron) <ce:cross-ref refid="BIB3">[3]</ce:cross-ref>. Nb and Li ions are displaced from the exact center positions along the ferroelectric <ce:italic>c</ce:italic>-axis, thus giving rise to the ferroelectric polarisation. Off-center displacement and distortion of the octahedra cause various different bond lengths for the Nb–O and Li–O bonds, respectively. The principal bond situation is shown in a stereoscopic view in <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="FIG2"/>. Due to the three-fold symmetry, always three equivalent bonds rotationally spaced by 120° exhibit equal lengths. In the calculations, two kinds of Nb–O bonds and two kinds of Li–O bonds are regarded, neglecting the longer ones of the Li–O bonds. When Ta atoms are introduced into the crystal frame, they replace Nb atoms. A corresponding amount of Ta–O bonds instead of Nb–O bonds has to be accounted for in the calculations.</ce:para>
+                  <ce:para view="all">The current work is carried out on the basis of our previous calculations of LN <ce:cross-refs refid="BIB23 BIB25">[23,25]</ce:cross-refs>. Starting from the detailed crystallographic data of LN and LT, we have calculated corresponding chemical bonding structures of all constituent atoms of LN and LT, respectively. According to the detailed chemical bonding situations of Li, Nb and O atoms, we can calculate chemical bond parameters and linear and second-order NLO properties of all constituent Li–O, Nb–O and Ta–O bonds. The contributions of these constituent chemical bonds are then geometrically summed up yielding the total linear and second-order NLO responses of LN and LT crystals or LNT-type mixed crystals. For the calculation of the linear optical response of LNT, only an isotropic approximation is used yielding the ordinary index of refraction. This is justified by the fact that the birefringence of LN and LT is in the order of 2 and 0.2%, respectively. Effects of this magnitude are beyond the possibilities of the method applied. As a further approximation, we assume in all calculations that length and orientation of all bonds in the mixed crystals is the same as in the respective pure crystals.</ce:para>
+                  <ce:para view="all">We carried out our calculations for crystal compositions of LiNb<ce:inf loc="post">1−<ce:italic>y</ce:italic>
+                     </ce:inf>Ta<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf> for which experimental values of the refractive indices already have been reported <ce:cross-ref refid="BIB26">[26]</ce:cross-ref>, namely for crystals with <ce:italic>y</ce:italic>=0.81, 0.92, and 0.97. The final values are summarized in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref> together with the values for the pure crystals lithium niobate and lithium tantalate, which have a good agreement with the experimental data for NLO coefficients <ce:cross-refs refid="BIB23 BIB25">[23,25]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">The calculated results for the refractive index are plotted in <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="FIG3"/>, for the three independent tensor coefficients of the nonlinear susceptibility in <ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="FIG4"/>. Also plotted in <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref> are available experimental data for the refractive indices. As is evident from both plots, the dependence on the tantalum content is linear in a very good approximation. The lines plotted in both figures are linear fits to the calculated data. This supports our recent work where we had shown that often a linear correlation between dielectric properties and constituent atoms in crystals with similar structure exists <ce:cross-ref refid="BIB27">[27]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">From the linear fits, the numerical dependence of the dielectric properties on the Ta content <ce:italic>y</ce:italic> in LiNb<ce:inf loc="post">1−<ce:italic>y</ce:italic>
+                     </ce:inf>Ta<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf> can be derived to be<display>
+                        <formula>
+                           <ce:label>(3)</ce:label>
+                           <math altimg="si6.gif">n<inf loc="post">0</inf>=2.23−0.19y</math>
+                        </formula>
+                     </display>
+                     <display>
+                        <formula>
+                           <ce:label>(4)</ce:label>
+                           <math altimg="si7.gif">d<inf loc="post">22</inf>=2.72−1.08y</math>
+                        </formula>
+                     </display>
+                     <display>
+                        <formula>
+                           <ce:label>(5)</ce:label>
+                           <math altimg="si8.gif">d<inf loc="post">31</inf>=−4.94+2.21y</math>
+                        </formula>
+                     </display>
+                     <display>
+                        <formula>
+                           <ce:label>(6)</ce:label>
+                           <math altimg="si9.gif">d<inf loc="post">33</inf>=−25.3+9.27y.</math>
+                        </formula>
+                     </display>Included in both plots are corresponding data for nonstoichiometric lithium niobate where Nb ions replace Li ions up to a certain amount <ce:cross-ref refid="BIB23">[23]</ce:cross-ref>. As can be concluded from the plotted data, the effect of this replacement on the dielectric susceptibilities is remarkably stronger than the effect of the Nb/Ta replacement. This indicates that in the lithium niobate lattice Li sites are much more sensitive to any sort of doping than Nb sites. Two factors are responsible for this matter. When Li is replaced by Nb, four additional Li vacancies are formed, reducing the dielectric response. Further, the oxygen triangle near the Li site is the largest of all oxygen triangles in the lithium niobate lattice (<ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>, thus can be distorted most easily).</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para view="all">From the constituent chemical bond viewpoint of crystal materials, we have studied the effect of replacing Nb by Ta cations in lithium niobate crystals on their dielectric properties. Refractive indices and second-order NLO susceptibilities of the LiNb<ce:inf loc="post">1−<ce:italic>y</ce:italic>
+                     </ce:inf>Ta<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">3</ce:inf> type mixed single crystals with <ce:italic>y</ce:italic>=0.00, 0.81, 0.92, 0.97, and 1.00, at 1.064<ce:hsp sp="0.25"/>μm were calculated. The present work shows that the dielectric responses of lithium niobate–tantalate decrease approximately linearly with increasing Ta content. A comparison with corresponding data for nonstoichiometric, Li-deficient lithium niobate shows that replacing Li cations has a considerably stronger effect on the dielectric properties. Obviously, lithium sites are the more sensitive lattice sites affecting the dielectric properties of lithium niobate. Therefore, the dielectric properties should be modified more strongly by introducing dopants into lithium sites.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">Dr Xue thanks the Alexander von Humboldt Foundation for all supports during his stay in Germany.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Räuber</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>E.</ce:given-name>
+                                    <ce:surname>Kaldis</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Current Topics in Materials Sciences</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1978</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North Holland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Krätzig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.F.</ce:given-name>
+                                 <ce:surname>Schirmer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>P.</ce:given-name>
+                                    <ce:surname>Günter</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.P.</ce:given-name>
+                                    <ce:surname>Huignard</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Photorefractive Materials and their Applications</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1988</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Abrahams</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Marsh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Boysen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Altorfer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>405</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Malovichko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Grachev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Schirmer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>785</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.P.</ce:given-name>
+                                 <ce:surname>Safaryan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Feigelson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Petrosyan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8079</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Guenther</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Macfarlane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Furukawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kitamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Neurgaonkar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Optics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7611</sb:first-page>
+                              <sb:last-page>7623</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Adibi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Buse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Psaltis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3767</sb:first-page>
+                              <sb:last-page>3769</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Baxter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Orr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. B—Lasers and Optics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>753</sb:first-page>
+                              <sb:last-page>756</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Kretschmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Huber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Batchko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Meyn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Fejer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Byer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Laser Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                              <sb:last-page>298</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hofmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Schreiber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Haase</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Herrmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Grundkotter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ricken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Sohler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Optics Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>896</sb:first-page>
+                              <sb:last-page>898</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Nordland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4896</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Tangonan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Barnoski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Lotspeich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>238</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Koskela</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.V.</ce:given-name>
+                                 <ce:surname>Knuuttila</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.T.</ce:given-name>
+                                 <ce:surname>Tikka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Hartmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.P.</ce:given-name>
+                                 <ce:surname>Plessky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Appl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2683</sb:first-page>
+                              <sb:last-page>2685</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Imbrock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wevering</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Buse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Kratzig</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Opt. Soc. Am. B—Optical Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1392</sb:first-page>
+                              <sb:last-page>1397</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Furukawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kitamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Niwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hatano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Bernasconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>P</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Gunter</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys. Part 1—Regular Papers Short Notes and Review Papers</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1816</sb:first-page>
+                              <sb:last-page>1819</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Kostritskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kip</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Status Solidi A—Appl. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>169</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>180</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kip</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. B—Lasers and Optics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                              <sb:last-page>150</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6513</sb:first-page>
+                              <sb:last-page>6518</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Friel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Conroy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Kemp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.D.</ce:given-name>
+                                 <ce:surname>Sinclair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Ley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. B—Lasers and Optics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>267</sb:first-page>
+                              <sb:last-page>270</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lorenzo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jaffrezic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Roux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Boulon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Garcia-Sole</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3735</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Schlarb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Betzler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>751</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7515</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>262</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>78</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phil. Mag. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Shimura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>579</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Betzler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hesse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lammers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Status Solidi (b)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>216</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>R7</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

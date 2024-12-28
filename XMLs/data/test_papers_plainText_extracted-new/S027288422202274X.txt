@@ -1,0 +1,882 @@
+Title:
+A novel low-loss Ba
+
+Abstract:
+A novel low-loss Ba12SbNb9O36 microwave dielectric ceramic is synthesized via the solid-state reaction method. TG-DSC thermal analysis is employed to study the phase formation process of the samples. The XRD and TEM analyses reveal that the ceramic samples all confirmed a hexagonal perovskite structure with the R-3 m space group. The refinement result shows that the ceramic is a shifted hexagonal perovskite with an 18-layer structure. Porosity has an important impact on permittivity and dielectric loss in this ceramic. Raman spectroscopy revealed that the quality factor shows a close connection with the FWHM of the A1g mode at 777 cm−1. XPS analysis shows that the oxidation of Sb ions deteriorates the τf value of the ceramic. The optimum microwave dielectric properties (εr = 35.59, Q × f = 58,297 GHz and τf = +34.14 ppm/°C) are obtained by sintering at 1250 °C, making the Ba12SbNb9O36 ceramic a promising candidate for high-performance microwave applications.
+
+Keywords:
+Ba12SbNb9O36
+Hexagonal perovskite
+Microwave dielectric ceramic
+
+Acknowledgements:
+Acknowledgments:
+Acknowledgments
+               This work was supported by the National Natural Science Foundation of China (Grant No.52102129).
+
+Introduction:
+As the fifth generation of mobile communication technology and the Internet of Things has developed, the demand for microwave electronics has been growing. As the base part of microwave devices, microwave dielectric ceramics possess the advantages of low cost, light weight, small size, good stability and superior performance, making them a growing attraction from academia and industry [1–6]. As microwave circuits continue to evolve towards miniaturization, high reliability and high-precision integration, the ceramic material is expected to exhibit medium to high dielectric constants (εr: 20–70), a high-quality factor (Q × f), and a relatively near-zero temperature coefficient of resonant frequency (τf) [7,8]. Based on the above needs, it is imperative that microwave dielectric ceramics with superior performance be explored.
+As one of the most widely researched electronic ceramics, ABO3 perovskite ceramics are broadly applied within ferroelectric, piezoelectric and microwave communication applications [9]. The ideal perovskite structure has cubic symmetry (Pm 
+                     
+                        
+                           3
+                           
+                              (
+                              —
+                              )
+                           
+                        
+                      
+                     m), and the crystal structure consists mainly of [AO3] tightly stacked layers and [BO6] octahedra. As another member of the perovskite family that cannot be ignored, hexagonal perovskites have the same structural unit AO3 layers as cubic perovskites, with the difference that the close-packed AO3 layers of hexagonal perovskites are arranged in hexagonal (h) stacks or mixed cubic (c) stacks [10]. Hexagonal perovskites have attracted focused interest over the past few years due to their structural diversity and physical properties (e.g., relatively high dielectric constant, ion mobility, photocatalytic activity, etc.) [11–16].
+In hexagonal perovskite materials, with a wide range of reports on B-deficient ceramics with the general formula AnBn-1O3n, e.g., Ba3LaNb3O12, Ba5Nb4O15, Ba8MTa6O24 (M = Zn, Co, Ni), Ba8M'Nb6O24 (M′ = Zn, Co, Mn, Fe), etc. [17–22], the study of general AnBn-2O3n ceramics has become a new direction of exploration. In previous work, we reported a series of novel ceramics with the general formula Ba12B'Nb9O36 (B′ = Gd, Dy, Ho, Y, Er, Tm, Yb and In) that exhibit the following characteristics: S.T.: 1420–1490 °C, εr: 36.12–41.71, Q × f: 9477–57,250 GHz, and τf: +17.58 ∼ +83.3 ppm/°C [23,24]. The Ba12B'Nb9O36 ceramic family exhibits an interesting phenomenon: as the radius of the B′-site ion grows, the Q × f value decreases while the τf value increases, meaning that this material has better dielectric properties when the B′ ion radius is small, as shown in Fig. 1
+                     . Among the above materials, the In3+ ion (CN = 6, r = 0.80) is the smallest B′-site ion, and Ba12InNb9O36 exhibits the best properties. Since the Sb3+ ion radius (CN = 6, r = 0.76) is smaller than that of In3+ ions, we speculated that the Ba12SbNb9O36 ceramic may have an outstanding Q × f and superior τf value. In this paper, Ba12SbNb9O36 ceramics are manufactured by a solid-state reaction process, and the crystal structure, phase formation process, microstructure, Raman vibration modes, microwave dielectric properties and elemental valency analysis are studied.
+
+Experimental:
+The conventional solid-phase reaction process was carried out to synthesize Ba12SbNb9O36 ceramics. Reagent grade BaCO3(99%, Aladdin, China), Nb2O5(99%, Shanghai Chengxin Industrial Co., Ltd., China), and Sb2O3(99%, Sinopharm Chemical Reagent Co., Ltd., China) were weighed by stoichiometry. The above raw material powder was mixed with zirconia balls and deionized water ball milled for approximately 10 h. Next, the mixtures were desiccated at 105 °C, sifted by sieve and calcined at 950 °C for 3 h. Subsequently, a second ball mill was carried out for 9 h and the dried powder was granulated with 5% polyvinyl alcohol. At a pressure of 15 MPa, the powder was compacted into the cylinder (Φ 12 × 6 mm). Finally, raw ceramic embryos were formed at 1200–1300 °C for 4 h.
+The physical changes and chemical reactions of ceramics during heating were analysed by thermogravimetric-differential scanning calorimetry (NETZSCH, Germany). The phase composition of the prepared samples was characterized by X-ray powder diffraction with Cu Kα radiation. The XRD results were analysed by the Rietveld refinement method with the GSAS-EXPGUI program. Transmission electron microscopy (JEOL, JEM-2100) was used to observe the selected area electron diffraction map. The εr and Q × f of ceramics were tested with a selected TE01δ model. The elemental valence states were identified with X-ray photoelectron spectroscopy (Thermal Sciences K-Alpha). The Raman spectra (50-1000 cm−1) were obtained on a Raman spectroscope (RENISHAW, UK). Grain morphology in ceramics observed with scanning electron microscope. τf was calculated by the equation below:
+                        
+                           (1)
+                           
+                              
+                                 
+                                    τ
+                                    f
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          f
+                                          
+                                             T
+                                             1
+                                          
+                                       
+                                       −
+                                       
+                                          f
+                                          
+                                             T
+                                             0
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          f
+                                          
+                                             T
+                                             0
+                                          
+                                       
+                                       
+                                          (
+                                          
+                                             T
+                                             1
+                                          
+                                          −
+                                          
+                                             T
+                                             0
+                                          
+                                          )
+                                       
+                                    
+                                 
+                                 ×
+                                 
+                                    10
+                                    6
+                                 
+                                 
+                                    (
+                                    ppm/
+                                    °
+                                    C
+                                    )
+                                 
+                              
+                           
+                        
+                     where f
+                     
+                        T1 and f
+                     
+                        T0 are resonant frequencies at T
+                     1 and T
+                     0. For the experimental tests in this paper, T
+                     1 = 85 °C and T
+                     0 = 25 °C.
+
+Results and discussion:
+The phase formation process for the Ba12SbNb9O36 ceramic was investigated using thermogravimetric-differential scanning calorimetry (TG-DSC) thermal analysis and XRD. From Fig. 2
+                      (a), the DSC curve shows that the exothermic peaks at approximately 500–670 °C are probably caused by the formation of BaNb2O6 (BaCO3 + Nb2O5 → BaNb2O6 + CO2↑) [25], SbNbO4 (Nb2O5 + Sb2O3 → 2SbNbO4) and Ba2Nb5O9. According to the TG curve, the weight loss of approximately 4% in this range is mainly related to the elimination of water adsorbed on the surface of the raw material powder and carbon dioxide produced by the reaction [26]. An exothermic peak at 817 °C is caused by the formation of Ba5Nb4O15, and similar phenomena have been observed in reports on Ba16ZrNb12O48 ceramics [27]. The XRD of Fig. 2 (b) shows the presence of a new phase BaSb2O6 approximately 1000 °C, hence an exothermic peak at 942 °C, where a partial conversion of the elemental antimony from trivalent to pentavalent can be seen. Subsequently, an exothermic peak occurs in the 950–1100 °C region, indicating the basic formation of the Ba12SbNb9O36 phase (2Ba5Nb4O15 + SbNbO4 + 2BaCO3 → Ba12SbNb9O36 + 2CO2↑). As the sintering temperature rises above approximately 1100 °C, exothermic phenomena and weight loss are no longer observed. Therefore, we deduce that Ba12SbNb9O36 ceramics can be synthesized above 1100 °C.
+The XRD diffraction peaks of Ba12SbNb9O36 show a fine match to the standard card (JCPDS #76-0014) as can be observed in Fig. 3
+                     , suggesting that the pure hexagonal perovskite structure with the R-3 m space group was confirmed. Notably, the diffraction peak of the (013) lattice plane shifts to the high angle direction first and then to the low angle as the temperature increases in the range of 28.6–29.2°, reflecting that the cell volume of ceramics decreases first and then increases. To understand the crystal structure information in detail, the powder diffraction data were refined based on the Rietveld method with the aid of GSAS software. Fig. 4
+                      shows the Rietveld refinement pattern of the sample at 1250 °C, where the reliability factors Rp, Rwp, and χ2 are 5.84%, 8.65%, and 4.667, respectively. The lattice parameters are a = b = 7.2947 Å, c = 54.4270 Å and Vcell = 2508.1784 Å3. The refinement results of Ba12SbNb9O36 with various temperatures are listed in Table 1
+                     . Following an increase in temperature from 1200 °C to 1300 °C, the lattice parameters and cell volume first decrease and then increase, confirming the diffraction peak (013) displacement. In the hexagonal system, the shift of the diffraction peak can be explained by combining the Bragg equation (λ = 2dsinθ) and the equation for the crystal plane spacing (1/d2 = (h2 + k2)/a2 +l2/c2):
+                        
+                           (2)
+                           
+                              
+                                 
+                                    
+                                       sin
+                                       
+                                    
+                                    2
+                                 
+                                 
+                                 θ
+                                 =
+                                 
+                                    
+                                       λ
+                                       2
+                                    
+                                    4
+                                 
+                                 
+                                    (
+                                    
+                                       
+                                          4
+                                          3
+                                       
+                                       
+                                          
+                                             
+                                                h
+                                                2
+                                             
+                                             +
+                                             h
+                                             k
+                                             +
+                                             
+                                                k
+                                                2
+                                             
+                                          
+                                          
+                                             a
+                                             2
+                                          
+                                       
+                                       +
+                                       
+                                          
+                                             l
+                                             2
+                                          
+                                          
+                                             c
+                                             2
+                                          
+                                       
+                                    
+                                    )
+From the equation, the lattice parameters a and c are inversely correlated with θ. Thus, as a and c decrease, the diffraction peak (013) is moved towards the high-angle direction, and in contrast, the diffraction peak is moved towards the opposite direction.
+TEM examination allows observation of the Ba12SbNb9O36 ceramic crystal structure in more detail. Fig. 5
+                      (a) and (b) display the HRTEM and SAED images observed along the [001] axis for the Ba12SbNb9O36 sample. The lattice spacing is observed to be approximately 0.289 nm from the HRTEM image, which corresponds to the (110) lattice in the Ba12SbNb9O36 structure. The SAED pattern is consistent with the embedded simulated diffraction pattern. The XRD data and simulation analysis are in agreement with the TEM observations, confirming that the Ba12SbNb9O36 ceramic exhibits a hexagonal structure with the R-3 m space group. The Ba12SbNb9O36 with 18-layer shifted hexagonal perovskite obtained from refinement is shown in Fig. 5 (c). The Ba12SbNb9O36 ceramic belongs to the B-site deficient hexagonal perovskite with the general formula AnBn-2O3n, where Ba ions occupy the A-site and Sb and Nb ions jointly occupy the B-site. In the structure of the 18-layer shifted hexagonal perovskite, the BaO3 layers are ordered according to the (cccchh)3 arrangement, where the BO6 octahedra of the c-layer are connected by corner sharing and the BO6 octahedra of the h-layer are connected by face sharing. Furthermore, it is worth noting that in the h-h layer region, there are three octahedra that are continuously and face-sharing connected, but the middle octahedra are empty octahedra, and this structure can effectively avoid the effect of ion repulsion in the centre of the face-sharing octahedra [16].
+Fig. 6
+                      (a) - (e) show SEM micrographs of Ba12SbNb9O36 ceramic at various temperatures. Overall, the microstructure of the samples exhibits “rod” and “flake” morphologies. As the sintering temperature increases, the pores disappear, the grains gradually grow, and the morphology becomes more uniform. A denser and more homogeneous microscopic morphology of the ceramics is observed at 1250 °C, when the relative density reaches a maximum of 96.69%. However, as the temperature continually increased, a small amount of porosity appeared inside the ceramic at 1275 °C, and the grain size grew abnormally at 1300 °C.
+The ρ
+                     relative, εr, Q × f and τf of the Ba12SbNb9O36 ceramic with respect to temperature are shown in Fig. 7
+                      (a) - (d). Initially, the relative density gradually increases with increasing temperature, reaching a maximum value of 96.69% at 1250 °C. Subsequently, the relative density decreases as the temperature continues to rise. The variation in relative density is in general agreement with the SEM analysis, demonstrating the close association between the dense condition within the ceramic and the relative density. The bulk density and relative density of Ba12SbNb9O36 ceramics are shown in Table 2
+                     . The trend in εr is analogous to that of ρ
+                     relative, suggesting that porosity is an influential factor in the dielectric constant. Therefore, the effect of porosity on Ba12SbNb9O36 is studied using the following spherical porosity model [28]:
+                        
+                           (3)
+                           
+                              
+                                 
+                                    ε
+                                    r
+                                 
+                                 =
+                                 
+                                    ε
+                                    
+                                       r
+                                       c
+                                    
+                                 
+                                 
+                                    (
+                                    
+                                       1
+                                       −
+                                       
+                                          
+                                             3
+                                             P
+                                             (
+                                             
+                                                ε
+                                                
+                                                   r
+                                                   c
+                                                
+                                             
+                                             −
+                                             1
+                                             )
+                                          
+                                          
+                                             2
+                                             
+                                                ε
+                                                
+                                                   r
+                                                   c
+                                                
+                                             
+                                             +
+                                             1
+                                          
+                                       
+                                    
+                                    )
+                                 
+                              
+                           
+                        
+                     where εr, εrc, and P denote the tested εr, porosity corrected εrc and porosity, respectively. The parameters associated with the ceramic spherical pore model are listed in Table 3
+                     . The results reveal that the values for εrc are all greater than those for εr, indicating that the presence of pores as a component in the Ba12SbNb9O36 ceramic reduces the dielectric constant. As presented in Fig. 7 (c), Q × f first increases, reaching a maximum value of 58,297 at 1250 °C, and then gradually decreases. The consistent trend in Q × f values and relative density with temperature reflects the critical impact of porosity leading to dielectric loss. This could be described in terms of the porosity model [28]:
+                        
+                           (4)
+                           
+                              
+                                 tan
+                                 
+                                 δ
+                                 =
+                                 
+                                    (
+                                    1
+                                    −
+                                    P
+                                    )
+                                 
+                                 tan
+                                 
+                                 
+                                    δ
+                                    0
+                                 
+                                 +
+                                 
+                                    A
+                                    ′
+                                 
+                                 P
+                                 
+                                    
+                                       (
+                                       
+                                          P
+                                          
+                                             1
+                                             −
+                                             P
+                                          
+                                       
+                                       )
+                                    
+                                    
+                                       2
+                                       /
+                                       3
+                                    
+                                 
+                              
+                           
+                        
+                     where tan δ, P and tan δ0 indicate the measured values of dielectric loss, porosity fraction and completely dense ceramic loss, respectively. The model reflects the fact that the dielectric loss shows a positive relationship with the porosity fraction, so that the Q × f values and relative density have a similar trend. As shown in Fig. 7 (d), τf varies with sintering temperature in the range of +34 to +43 ppm/°C, demonstrating the weak dependence of Ba12SbNb9O36 ceramic on sintering temperature. Similar phenomena are more common in microwave dielectric ceramics, such as NaCa4V5O17, BaZnP2O7, Ba16ZrNb12O48, and Ce2[Zr1−x(Al1/2Ta1/2)x]3(MoO4)9 [27,29–31].
+Raman spectroscopy can be used to analyse the vibrational properties of crystals. Following the group theory and the website of the Bilbao Crystallographic central, the optical modes for crystal Ba12SbNb9O36 are shown below [32]:
+                        
+                           (5)
+                           
+                              
+                                 
+                                    Γ
+                                    
+                                       op
+                                       t
+                                       i
+                                       c
+                                    
+                                 
+                                 =
+                                 12
+                                 
+                                    A
+                                    
+                                       1
+                                       g
+                                    
+                                 
+                                 +
+                                 3
+                                 
+                                    A
+                                    
+                                       1
+                                       u
+                                    
+                                 
+                                 +
+                                 3
+                                 
+                                    A
+                                    
+                                       2
+                                       g
+                                    
+                                 
+                                 +
+                                 13
+                                 
+                                    A
+                                    
+                                       2
+                                       u
+                                    
+                                 
+                                 +
+                                 16
+                                 
+                                    E
+                                    u
+                                 
+                                 +
+                                 15
+                                 
+                                    E
+                                    g
+                                 
+                              
+                           
+                        
+                     where 12A1g + 3A2g + 15Eg is the Raman active vibrational mode [23]. Fig. 8
+                      (a) illustrates Ba12SbNb9O36 ceramic Raman spectra, where the observed Raman modes are much smaller than the theoretical vibrational modes, mainly due to the overlap of the peaks and the low resolution of the test instrument. The A1g vibration mode located near 777 cm−1 has the strongest intensity of all the vibration modes and corresponds to the NbO6 octahedron stretching vibration [33]. Asymmetric stretching vibrations of the Eg mode corresponding to the NbO6 octahedron [34]. The A1g + Eg modes at 549 cm−1 are linked to Ba atom vibrations [35]. The A1g+2Eg Raman peak is designated as an asymmetric bending vibration within the oxygen octahedron [34]. The vibrational mode (A1g) associated with the ordered structure is observed at 311 cm−1 [36]. The 119 cm−1 peak related to the NbO6 octahedral and Ba–O bond vibrations corresponds to the A1g + Eg modes [37].
+In the meantime, the association between the ceramic structure and properties is investigated by Raman spectroscopy. Microwave dielectric losses in ceramics are usually caused by both internal and external factors. External losses include porosity, which is studied above, in addition to the second phase and grain boundaries [38]. Internal losses are caused by nonharmonic vibrations [39]. Raman spectroscopy is an effective means of studying intrinsic losses. The intrinsic loss tanδ due to nonharmonic vibrations satisfies the following equation [40]:
+                        
+                           (6)
+                           
+                              
+                                 tan
+                                 
+                                 δ
+                                 ≈
+                                 
+                                    
+                                       γ
+                                       
+                                          w
+                                          0
+                                       
+                                    
+                                    
+                                       w
+                                       T
+                                       2
+                                    
+                                 
+                              
+                           
+                        
+                     
+                     
+                        
+                           (7)
+                           
+                              
+                                 F
+                                 W
+                                 H
+                                 M
+                                 =
+                                 
+                                    
+                                       γ
+                                       
+                                          
+                                             
+                                                γ
+                                                2
+                                             
+                                             +
+                                             4
+                                             w
+                                             
+                                                0
+                                                2
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       2
+                                       w
+                                       0
+                                    
+                                 
+                              
+                           
+                        
+                     where γ, w
+                     0 and w
+                     T are the damping coefficient, the centre frequency of phonon modes and the angular frequency of the lattice vibration transverse optical mode, respectively. Fig. 8 (b) displays the correlation between the Q × f value and the full width at half maximum (FWHM) of the A1g mode at approximately 777 cm−1. As the temperature increases, the FWHM value first decreases and then increases, which is the opposite of the change in the Q × f value. A lower FWHM value corresponds to a weakening of the damping behaviour of the NbO6 oxygen octahedron stretching vibration at 777 cm−1 and a reduction in nonharmonic vibrations, which reduces the inherent dielectric losses.
+Following our earlier studies, the Q × f and τf of Ba12B'Nb9O36 (B′ = Gd, Dy, Ho, Y, Er, Tm, Yb and In) ceramics are closely related to the B′ site ionic radius, as evidenced by the fact that both tan δ and τf increase as the B′ site ionic radius grows. When Q × f and τf follow the abovementioned variation pattern, the Ba12SbNb9O36 ceramic could possess high Q × f and stable τf. Not exactly in agreement with the speculation, the experimental data show that the Ba12SbNb9O36 ceramic indeed has a relatively decent Q × f, while τf is slightly larger than expected. The deviation in performance may be due to the partial oxidation of Sb3+ to Sb5+ during sintering, and similar valence change phenomena have been reported for Co0.5Ti0.5Nb1-xSbxO4 and Li3Mg2Sb1−x
+                     O6 ceramics [41,42]. Therefore, XPS was utilized to determine the elemental chemical valence states of the Ba12SbNb9O36 ceramic. Fig. 9
+                      (a) presents the Ba12SbNb9O36 ceramic XPS full-spectrum, containing Ba 3d, Sb 3d, O 1s, C 1s (contaminating carbon) and Nb 3d. As displayed in Fig. 9 (b) and (c), the Ba 3d fine spectrum exhibits separated spin-orbit peaks at 779.4 eV(3d5/2) and 794.7 eV(3d3/2), confirming the chemical valence of elemental barium as Ba2+. The 3d5/2 and 3d3/2 peaks of the Nb 3d fine spectrum separation were located at 206.6 eV and 209.4 eV, respectively, and the element was designated Nb5+. As shown in Fig. 9 (d), the 529.6 eV and 530.5 eV peaks are identified as Sb 3d5/2 and O 1s, respectively. The Sb 3d3/2 spin-orbit peak splits into 539.9 eV and 539.0 eV peaks, corresponding to Sb(Ⅴ) and Sb(Ⅲ), respectively. The experimental findings are generally consistent in the literature with those described by Geraldo and Montilla [43,44]. These analyses confirm that there was a conversion of Sb3+ to Sb5+ during the sintering of the Ba12SbNb9O36 ceramic. Therefore, the rise in the temperature coefficient may be due to structural instability caused by the oxidation of Sb3+ to Sb5+. The discovery in this aspect provides a research direction for optimizing τf of the ceramic.
+Overall, Ba12SbNb9O36 ceramics exhibit impressive dielectric properties in the Ba12B'Nb9O36 family. The lower sintering temperature (1250 °C) is a significant strength and could be used in LTCC technology in the future by further reducing the sintering temperature. This low-loss ceramic possesses the potentiality of being a high-performance microwave device material contender.
+
+Conclusion:
+In this paper, a new high Q × f Ba12SbNb9O36 ceramic is fabricated with a conventional solid-phase reaction method. The results of the TG-DSC thermal analysis indicate that the sample is synthesized above 1100 °C. XRD and TEM analysis reveal that the ceramic samples all possess hexagonal perovskite structures with the R-3 m space group. The refinement result shows that the ceramic is a shifted hexagonal perovskite with an 18-layer structure. Porosity has a vital result on εr and Q × f for this ceramic. Raman spectroscopy analyses the vibrational modes of the ceramic samples and reveals that a low FWHM corresponds to low loss. XPS analysis confirmed the oxidation of elemental antimony from Sb3+ to Sb5+ during sintering, which deteriorated the τf value of Ba12SbNb9O36. The optimum properties (εr = 35.59, Q × f = 58,297 GHz and τf = +34.14 ppm/°C) are obtained for the ceramic sintered at 1250 °C.
+
+Declaration of competing interest:
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgments:
+This work was supported by the National Natural Science Foundation of China (Grant No.52102129).
+
+Body:
+As the fifth generation of mobile communication technology and the Internet of Things has developed, the demand for microwave electronics has been growing. As the base part of microwave devices, microwave dielectric ceramics possess the advantages of low cost, light weight, small size, good stability and superior performance, making them a growing attraction from academia and industry [1–6]. As microwave circuits continue to evolve towards miniaturization, high reliability and high-precision integration, the ceramic material is expected to exhibit medium to high dielectric constants (εr: 20–70), a high-quality factor (Q × f), and a relatively near-zero temperature coefficient of resonant frequency (τf) [7,8]. Based on the above needs, it is imperative that microwave dielectric ceramics with superior performance be explored.
+
+As one of the most widely researched electronic ceramics, ABO3 perovskite ceramics are broadly applied within ferroelectric, piezoelectric and microwave communication applications [9]. The ideal perovskite structure has cubic symmetry (Pm 
+                     
+                        
+                           3
+                           
+                              (
+                              —
+                              )
+                           
+                        
+                      
+                     m), and the crystal structure consists mainly of [AO3] tightly stacked layers and [BO6] octahedra. As another member of the perovskite family that cannot be ignored, hexagonal perovskites have the same structural unit AO3 layers as cubic perovskites, with the difference that the close-packed AO3 layers of hexagonal perovskites are arranged in hexagonal (h) stacks or mixed cubic (c) stacks [10]. Hexagonal perovskites have attracted focused interest over the past few years due to their structural diversity and physical properties (e.g., relatively high dielectric constant, ion mobility, photocatalytic activity, etc.) [11–16].
+
+In hexagonal perovskite materials, with a wide range of reports on B-deficient ceramics with the general formula AnBn-1O3n, e.g., Ba3LaNb3O12, Ba5Nb4O15, Ba8MTa6O24 (M = Zn, Co, Ni), Ba8M'Nb6O24 (M′ = Zn, Co, Mn, Fe), etc. [17–22], the study of general AnBn-2O3n ceramics has become a new direction of exploration. In previous work, we reported a series of novel ceramics with the general formula Ba12B'Nb9O36 (B′ = Gd, Dy, Ho, Y, Er, Tm, Yb and In) that exhibit the following characteristics: S.T.: 1420–1490 °C, εr: 36.12–41.71, Q × f: 9477–57,250 GHz, and τf: +17.58 ∼ +83.3 ppm/°C [23,24]. The Ba12B'Nb9O36 ceramic family exhibits an interesting phenomenon: as the radius of the B′-site ion grows, the Q × f value decreases while the τf value increases, meaning that this material has better dielectric properties when the B′ ion radius is small, as shown in Fig. 1
+                     . Among the above materials, the In3+ ion (CN = 6, r = 0.80) is the smallest B′-site ion, and Ba12InNb9O36 exhibits the best properties. Since the Sb3+ ion radius (CN = 6, r = 0.76) is smaller than that of In3+ ions, we speculated that the Ba12SbNb9O36 ceramic may have an outstanding Q × f and superior τf value. In this paper, Ba12SbNb9O36 ceramics are manufactured by a solid-state reaction process, and the crystal structure, phase formation process, microstructure, Raman vibration modes, microwave dielectric properties and elemental valency analysis are studied.
+
+The conventional solid-phase reaction process was carried out to synthesize Ba12SbNb9O36 ceramics. Reagent grade BaCO3(99%, Aladdin, China), Nb2O5(99%, Shanghai Chengxin Industrial Co., Ltd., China), and Sb2O3(99%, Sinopharm Chemical Reagent Co., Ltd., China) were weighed by stoichiometry. The above raw material powder was mixed with zirconia balls and deionized water ball milled for approximately 10 h. Next, the mixtures were desiccated at 105 °C, sifted by sieve and calcined at 950 °C for 3 h. Subsequently, a second ball mill was carried out for 9 h and the dried powder was granulated with 5% polyvinyl alcohol. At a pressure of 15 MPa, the powder was compacted into the cylinder (Φ 12 × 6 mm). Finally, raw ceramic embryos were formed at 1200–1300 °C for 4 h.
+
+The physical changes and chemical reactions of ceramics during heating were analysed by thermogravimetric-differential scanning calorimetry (NETZSCH, Germany). The phase composition of the prepared samples was characterized by X-ray powder diffraction with Cu Kα radiation. The XRD results were analysed by the Rietveld refinement method with the GSAS-EXPGUI program. Transmission electron microscopy (JEOL, JEM-2100) was used to observe the selected area electron diffraction map. The εr and Q × f of ceramics were tested with a selected TE01δ model. The elemental valence states were identified with X-ray photoelectron spectroscopy (Thermal Sciences K-Alpha). The Raman spectra (50-1000 cm−1) were obtained on a Raman spectroscope (RENISHAW, UK). Grain morphology in ceramics observed with scanning electron microscope. τf was calculated by the equation below:
+                        
+                           (1)
+                           
+                              
+                                 
+                                    τ
+                                    f
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          f
+                                          
+                                             T
+                                             1
+                                          
+                                       
+                                       −
+                                       
+                                          f
+                                          
+                                             T
+                                             0
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          f
+                                          
+                                             T
+                                             0
+                                          
+                                       
+                                       
+                                          (
+                                          
+                                             T
+                                             1
+                                          
+                                          −
+                                          
+                                             T
+                                             0
+                                          
+                                          )
+                                       
+                                    
+                                 
+                                 ×
+                                 
+                                    10
+                                    6
+                                 
+                                 
+                                    (
+                                    ppm/
+                                    °
+                                    C
+                                    )
+                                 
+                              
+                           
+                        
+                     where f
+                     
+                        T1 and f
+                     
+                        T0 are resonant frequencies at T
+                     1 and T
+                     0. For the experimental tests in this paper, T
+                     1 = 85 °C and T
+                     0 = 25 °C.
+
+The phase formation process for the Ba12SbNb9O36 ceramic was investigated using thermogravimetric-differential scanning calorimetry (TG-DSC) thermal analysis and XRD. From Fig. 2
+                      (a), the DSC curve shows that the exothermic peaks at approximately 500–670 °C are probably caused by the formation of BaNb2O6 (BaCO3 + Nb2O5 → BaNb2O6 + CO2↑) [25], SbNbO4 (Nb2O5 + Sb2O3 → 2SbNbO4) and Ba2Nb5O9. According to the TG curve, the weight loss of approximately 4% in this range is mainly related to the elimination of water adsorbed on the surface of the raw material powder and carbon dioxide produced by the reaction [26]. An exothermic peak at 817 °C is caused by the formation of Ba5Nb4O15, and similar phenomena have been observed in reports on Ba16ZrNb12O48 ceramics [27]. The XRD of Fig. 2 (b) shows the presence of a new phase BaSb2O6 approximately 1000 °C, hence an exothermic peak at 942 °C, where a partial conversion of the elemental antimony from trivalent to pentavalent can be seen. Subsequently, an exothermic peak occurs in the 950–1100 °C region, indicating the basic formation of the Ba12SbNb9O36 phase (2Ba5Nb4O15 + SbNbO4 + 2BaCO3 → Ba12SbNb9O36 + 2CO2↑). As the sintering temperature rises above approximately 1100 °C, exothermic phenomena and weight loss are no longer observed. Therefore, we deduce that Ba12SbNb9O36 ceramics can be synthesized above 1100 °C.
+
+The XRD diffraction peaks of Ba12SbNb9O36 show a fine match to the standard card (JCPDS #76-0014) as can be observed in Fig. 3
+                     , suggesting that the pure hexagonal perovskite structure with the R-3 m space group was confirmed. Notably, the diffraction peak of the (013) lattice plane shifts to the high angle direction first and then to the low angle as the temperature increases in the range of 28.6–29.2°, reflecting that the cell volume of ceramics decreases first and then increases. To understand the crystal structure information in detail, the powder diffraction data were refined based on the Rietveld method with the aid of GSAS software. Fig. 4
+                      shows the Rietveld refinement pattern of the sample at 1250 °C, where the reliability factors Rp, Rwp, and χ2 are 5.84%, 8.65%, and 4.667, respectively. The lattice parameters are a = b = 7.2947 Å, c = 54.4270 Å and Vcell = 2508.1784 Å3. The refinement results of Ba12SbNb9O36 with various temperatures are listed in Table 1
+                     . Following an increase in temperature from 1200 °C to 1300 °C, the lattice parameters and cell volume first decrease and then increase, confirming the diffraction peak (013) displacement. In the hexagonal system, the shift of the diffraction peak can be explained by combining the Bragg equation (λ = 2dsinθ) and the equation for the crystal plane spacing (1/d2 = (h2 + k2)/a2 +l2/c2):
+                        
+                           (2)
+                           
+                              
+                                 
+                                    
+                                       sin
+                                       
+                                    
+                                    2
+                                 
+                                 
+                                 θ
+                                 =
+                                 
+                                    
+                                       λ
+                                       2
+                                    
+                                    4
+                                 
+                                 
+                                    (
+                                    
+                                       
+                                          4
+                                          3
+                                       
+                                       
+                                          
+                                             
+                                                h
+                                                2
+                                             
+                                             +
+                                             h
+                                             k
+                                             +
+                                             
+                                                k
+                                                2
+                                             
+                                          
+                                          
+                                             a
+                                             2
+                                          
+                                       
+                                       +
+                                       
+                                          
+                                             l
+                                             2
+                                          
+                                          
+                                             c
+                                             2
+                                          
+                                       
+                                    
+                                    )
+
+From the equation, the lattice parameters a and c are inversely correlated with θ. Thus, as a and c decrease, the diffraction peak (013) is moved towards the high-angle direction, and in contrast, the diffraction peak is moved towards the opposite direction.
+
+TEM examination allows observation of the Ba12SbNb9O36 ceramic crystal structure in more detail. Fig. 5
+                      (a) and (b) display the HRTEM and SAED images observed along the [001] axis for the Ba12SbNb9O36 sample. The lattice spacing is observed to be approximately 0.289 nm from the HRTEM image, which corresponds to the (110) lattice in the Ba12SbNb9O36 structure. The SAED pattern is consistent with the embedded simulated diffraction pattern. The XRD data and simulation analysis are in agreement with the TEM observations, confirming that the Ba12SbNb9O36 ceramic exhibits a hexagonal structure with the R-3 m space group. The Ba12SbNb9O36 with 18-layer shifted hexagonal perovskite obtained from refinement is shown in Fig. 5 (c). The Ba12SbNb9O36 ceramic belongs to the B-site deficient hexagonal perovskite with the general formula AnBn-2O3n, where Ba ions occupy the A-site and Sb and Nb ions jointly occupy the B-site. In the structure of the 18-layer shifted hexagonal perovskite, the BaO3 layers are ordered according to the (cccchh)3 arrangement, where the BO6 octahedra of the c-layer are connected by corner sharing and the BO6 octahedra of the h-layer are connected by face sharing. Furthermore, it is worth noting that in the h-h layer region, there are three octahedra that are continuously and face-sharing connected, but the middle octahedra are empty octahedra, and this structure can effectively avoid the effect of ion repulsion in the centre of the face-sharing octahedra [16].
+
+Fig. 6
+                      (a) - (e) show SEM micrographs of Ba12SbNb9O36 ceramic at various temperatures. Overall, the microstructure of the samples exhibits “rod” and “flake” morphologies. As the sintering temperature increases, the pores disappear, the grains gradually grow, and the morphology becomes more uniform. A denser and more homogeneous microscopic morphology of the ceramics is observed at 1250 °C, when the relative density reaches a maximum of 96.69%. However, as the temperature continually increased, a small amount of porosity appeared inside the ceramic at 1275 °C, and the grain size grew abnormally at 1300 °C.
+
+The ρ
+                     relative, εr, Q × f and τf of the Ba12SbNb9O36 ceramic with respect to temperature are shown in Fig. 7
+                      (a) - (d). Initially, the relative density gradually increases with increasing temperature, reaching a maximum value of 96.69% at 1250 °C. Subsequently, the relative density decreases as the temperature continues to rise. The variation in relative density is in general agreement with the SEM analysis, demonstrating the close association between the dense condition within the ceramic and the relative density. The bulk density and relative density of Ba12SbNb9O36 ceramics are shown in Table 2
+                     . The trend in εr is analogous to that of ρ
+                     relative, suggesting that porosity is an influential factor in the dielectric constant. Therefore, the effect of porosity on Ba12SbNb9O36 is studied using the following spherical porosity model [28]:
+                        
+                           (3)
+                           
+                              
+                                 
+                                    ε
+                                    r
+                                 
+                                 =
+                                 
+                                    ε
+                                    
+                                       r
+                                       c
+                                    
+                                 
+                                 
+                                    (
+                                    
+                                       1
+                                       −
+                                       
+                                          
+                                             3
+                                             P
+                                             (
+                                             
+                                                ε
+                                                
+                                                   r
+                                                   c
+                                                
+                                             
+                                             −
+                                             1
+                                             )
+                                          
+                                          
+                                             2
+                                             
+                                                ε
+                                                
+                                                   r
+                                                   c
+                                                
+                                             
+                                             +
+                                             1
+                                          
+                                       
+                                    
+                                    )
+                                 
+                              
+                           
+                        
+                     where εr, εrc, and P denote the tested εr, porosity corrected εrc and porosity, respectively. The parameters associated with the ceramic spherical pore model are listed in Table 3
+                     . The results reveal that the values for εrc are all greater than those for εr, indicating that the presence of pores as a component in the Ba12SbNb9O36 ceramic reduces the dielectric constant. As presented in Fig. 7 (c), Q × f first increases, reaching a maximum value of 58,297 at 1250 °C, and then gradually decreases. The consistent trend in Q × f values and relative density with temperature reflects the critical impact of porosity leading to dielectric loss. This could be described in terms of the porosity model [28]:
+                        
+                           (4)
+                           
+                              
+                                 tan
+                                 
+                                 δ
+                                 =
+                                 
+                                    (
+                                    1
+                                    −
+                                    P
+                                    )
+                                 
+                                 tan
+                                 
+                                 
+                                    δ
+                                    0
+                                 
+                                 +
+                                 
+                                    A
+                                    ′
+                                 
+                                 P
+                                 
+                                    
+                                       (
+                                       
+                                          P
+                                          
+                                             1
+                                             −
+                                             P
+                                          
+                                       
+                                       )
+                                    
+                                    
+                                       2
+                                       /
+                                       3
+                                    
+                                 
+                              
+                           
+                        
+                     where tan δ, P and tan δ0 indicate the measured values of dielectric loss, porosity fraction and completely dense ceramic loss, respectively. The model reflects the fact that the dielectric loss shows a positive relationship with the porosity fraction, so that the Q × f values and relative density have a similar trend. As shown in Fig. 7 (d), τf varies with sintering temperature in the range of +34 to +43 ppm/°C, demonstrating the weak dependence of Ba12SbNb9O36 ceramic on sintering temperature. Similar phenomena are more common in microwave dielectric ceramics, such as NaCa4V5O17, BaZnP2O7, Ba16ZrNb12O48, and Ce2[Zr1−x(Al1/2Ta1/2)x]3(MoO4)9 [27,29–31].
+
+Raman spectroscopy can be used to analyse the vibrational properties of crystals. Following the group theory and the website of the Bilbao Crystallographic central, the optical modes for crystal Ba12SbNb9O36 are shown below [32]:
+                        
+                           (5)
+                           
+                              
+                                 
+                                    Γ
+                                    
+                                       op
+                                       t
+                                       i
+                                       c
+                                    
+                                 
+                                 =
+                                 12
+                                 
+                                    A
+                                    
+                                       1
+                                       g
+                                    
+                                 
+                                 +
+                                 3
+                                 
+                                    A
+                                    
+                                       1
+                                       u
+                                    
+                                 
+                                 +
+                                 3
+                                 
+                                    A
+                                    
+                                       2
+                                       g
+                                    
+                                 
+                                 +
+                                 13
+                                 
+                                    A
+                                    
+                                       2
+                                       u
+                                    
+                                 
+                                 +
+                                 16
+                                 
+                                    E
+                                    u
+                                 
+                                 +
+                                 15
+                                 
+                                    E
+                                    g
+                                 
+                              
+                           
+                        
+                     where 12A1g + 3A2g + 15Eg is the Raman active vibrational mode [23]. Fig. 8
+                      (a) illustrates Ba12SbNb9O36 ceramic Raman spectra, where the observed Raman modes are much smaller than the theoretical vibrational modes, mainly due to the overlap of the peaks and the low resolution of the test instrument. The A1g vibration mode located near 777 cm−1 has the strongest intensity of all the vibration modes and corresponds to the NbO6 octahedron stretching vibration [33]. Asymmetric stretching vibrations of the Eg mode corresponding to the NbO6 octahedron [34]. The A1g + Eg modes at 549 cm−1 are linked to Ba atom vibrations [35]. The A1g+2Eg Raman peak is designated as an asymmetric bending vibration within the oxygen octahedron [34]. The vibrational mode (A1g) associated with the ordered structure is observed at 311 cm−1 [36]. The 119 cm−1 peak related to the NbO6 octahedral and Ba–O bond vibrations corresponds to the A1g + Eg modes [37].
+
+In the meantime, the association between the ceramic structure and properties is investigated by Raman spectroscopy. Microwave dielectric losses in ceramics are usually caused by both internal and external factors. External losses include porosity, which is studied above, in addition to the second phase and grain boundaries [38]. Internal losses are caused by nonharmonic vibrations [39]. Raman spectroscopy is an effective means of studying intrinsic losses. The intrinsic loss tanδ due to nonharmonic vibrations satisfies the following equation [40]:
+                        
+                           (6)
+                           
+                              
+                                 tan
+                                 
+                                 δ
+                                 ≈
+                                 
+                                    
+                                       γ
+                                       
+                                          w
+                                          0
+                                       
+                                    
+                                    
+                                       w
+                                       T
+                                       2
+                                    
+                                 
+                              
+                           
+                        
+                     
+                     
+                        
+                           (7)
+                           
+                              
+                                 F
+                                 W
+                                 H
+                                 M
+                                 =
+                                 
+                                    
+                                       γ
+                                       
+                                          
+                                             
+                                                γ
+                                                2
+                                             
+                                             +
+                                             4
+                                             w
+                                             
+                                                0
+                                                2
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       2
+                                       w
+                                       0
+                                    
+                                 
+                              
+                           
+                        
+                     where γ, w
+                     0 and w
+                     T are the damping coefficient, the centre frequency of phonon modes and the angular frequency of the lattice vibration transverse optical mode, respectively. Fig. 8 (b) displays the correlation between the Q × f value and the full width at half maximum (FWHM) of the A1g mode at approximately 777 cm−1. As the temperature increases, the FWHM value first decreases and then increases, which is the opposite of the change in the Q × f value. A lower FWHM value corresponds to a weakening of the damping behaviour of the NbO6 oxygen octahedron stretching vibration at 777 cm−1 and a reduction in nonharmonic vibrations, which reduces the inherent dielectric losses.
+
+Following our earlier studies, the Q × f and τf of Ba12B'Nb9O36 (B′ = Gd, Dy, Ho, Y, Er, Tm, Yb and In) ceramics are closely related to the B′ site ionic radius, as evidenced by the fact that both tan δ and τf increase as the B′ site ionic radius grows. When Q × f and τf follow the abovementioned variation pattern, the Ba12SbNb9O36 ceramic could possess high Q × f and stable τf. Not exactly in agreement with the speculation, the experimental data show that the Ba12SbNb9O36 ceramic indeed has a relatively decent Q × f, while τf is slightly larger than expected. The deviation in performance may be due to the partial oxidation of Sb3+ to Sb5+ during sintering, and similar valence change phenomena have been reported for Co0.5Ti0.5Nb1-xSbxO4 and Li3Mg2Sb1−x
+                     O6 ceramics [41,42]. Therefore, XPS was utilized to determine the elemental chemical valence states of the Ba12SbNb9O36 ceramic. Fig. 9
+                      (a) presents the Ba12SbNb9O36 ceramic XPS full-spectrum, containing Ba 3d, Sb 3d, O 1s, C 1s (contaminating carbon) and Nb 3d. As displayed in Fig. 9 (b) and (c), the Ba 3d fine spectrum exhibits separated spin-orbit peaks at 779.4 eV(3d5/2) and 794.7 eV(3d3/2), confirming the chemical valence of elemental barium as Ba2+. The 3d5/2 and 3d3/2 peaks of the Nb 3d fine spectrum separation were located at 206.6 eV and 209.4 eV, respectively, and the element was designated Nb5+. As shown in Fig. 9 (d), the 529.6 eV and 530.5 eV peaks are identified as Sb 3d5/2 and O 1s, respectively. The Sb 3d3/2 spin-orbit peak splits into 539.9 eV and 539.0 eV peaks, corresponding to Sb(Ⅴ) and Sb(Ⅲ), respectively. The experimental findings are generally consistent in the literature with those described by Geraldo and Montilla [43,44]. These analyses confirm that there was a conversion of Sb3+ to Sb5+ during the sintering of the Ba12SbNb9O36 ceramic. Therefore, the rise in the temperature coefficient may be due to structural instability caused by the oxidation of Sb3+ to Sb5+. The discovery in this aspect provides a research direction for optimizing τf of the ceramic.
+
+Overall, Ba12SbNb9O36 ceramics exhibit impressive dielectric properties in the Ba12B'Nb9O36 family. The lower sintering temperature (1250 °C) is a significant strength and could be used in LTCC technology in the future by further reducing the sintering temperature. This low-loss ceramic possesses the potentiality of being a high-performance microwave device material contender.
+
+In this paper, a new high Q × f Ba12SbNb9O36 ceramic is fabricated with a conventional solid-phase reaction method. The results of the TG-DSC thermal analysis indicate that the sample is synthesized above 1100 °C. XRD and TEM analysis reveal that the ceramic samples all possess hexagonal perovskite structures with the R-3 m space group. The refinement result shows that the ceramic is a shifted hexagonal perovskite with an 18-layer structure. Porosity has a vital result on εr and Q × f for this ceramic. Raman spectroscopy analyses the vibrational modes of the ceramic samples and reveals that a low FWHM corresponds to low loss. XPS analysis confirmed the oxidation of elemental antimony from Sb3+ to Sb5+ during sintering, which deteriorated the τf value of Ba12SbNb9O36. The optimum properties (εr = 35.59, Q × f = 58,297 GHz and τf = +34.14 ppm/°C) are obtained for the ceramic sintered at 1250 °C.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+This work was supported by the National Natural Science Foundation of China (Grant No.52102129).

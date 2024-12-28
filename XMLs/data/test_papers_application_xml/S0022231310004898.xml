@@ -1,0 +1,2745 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0022231310004898</prism:url><dc:identifier>doi:10.1016/j.jlumin.2010.11.013</dc:identifier><eid>1-s2.0-S0022231310004898</eid><prism:doi>10.1016/j.jlumin.2010.11.013</prism:doi><pii>S0022-2313(10)00489-8</pii><dc:title>Room-temperature scintillation properties of cerium-doped REOX (RE=Y, La, Gd, and Lu; X=F, Cl, Br, and I) </dc:title><prism:publicationName>Journal of Luminescence</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00222313</prism:issn><prism:volume>131</prism:volume><prism:issueIdentifier>4</prism:issueIdentifier><prism:startingPage>669</prism:startingPage><prism:endingPage>675</prism:endingPage><prism:pageRange>669-675</prism:pageRange><prism:number>4</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2011-04-30</prism:coverDate><prism:coverDisplayDate>April 2011</prism:coverDisplayDate><prism:copyright>Published by Elsevier B.V.</prism:copyright><dc:creator>Eagleman, Yetta D.</dc:creator><dc:creator>Bourret-Courchesne, Edith</dc:creator><dc:creator>Derenzo, Stephen E.</dc:creator><dc:description>
+                  The scintillation properties of cerium-doped oxyhalides following the general formula REOX (RE=Y, La, Gd, and Lu; X=F, Cl, Br, and I) are reported. These materials were synthesized under dry conditions as microcrystalline powders from conventional solid state reactions. The room temperature X-ray excited emission and scintillation decay curves were measured and analyzed for each material. Additionally, the hygroscopic nature of the oxychlorides and oxybromides was compared to that of their corresponding rare earth halides. The yttrium, lanthanum, and gadolinium oxychlorides, and all of the oxybromides and oxyiodides are found to be activated by Ce3+. GdOBr doped with 0.5% Ce3+ has the highest light output with a relative luminosity of about one-half that of LaBr3: Ce3+. It displays a single exponential decay of 30ns.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Scintillator</dcterms:subject><dcterms:subject>Cerium</dcterms:subject><dcterms:subject>Oxyhalides</dcterms:subject><dcterms:subject>Luminescence</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0022231310004898" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0022231310004898" rel="scidir"/></coredata><objects><object ref="si0004" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="116" height="29" size="531">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-si0004.gif?httpAccept=%2A%2F%2A</object><object ref="si0003" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="321" height="33" size="2072">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-si0003.gif?httpAccept=%2A%2F%2A</object><object ref="si0002" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="217" height="41" size="1520">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-si0002.gif?httpAccept=%2A%2F%2A</object><object ref="si0001" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="217" height="16" size="820">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-si0001.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2109" height="3955" size="1025676">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3586" height="1816" size="521682">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="476" height="893" size="133194">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="810" height="410" size="78442">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="87" height="163" size="4522">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="111" size="5218">https://api.elsevier.com/content/object/eid/1-s2.0-S0022231310004898-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>79952317375</scopus-id><scopus-eid>2-s2.0-79952317375</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/79952317375" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271627</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291687</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Luminescence</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALLUMINESCENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20101120">2010-11-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20101120">2010-11-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-09-27T03:59:59</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0022231310004898</xocs:eid>
+      <xocs:pii-formatted>S0022-2313(10)00489-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0022231310004898</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jlumin.2010.11.013</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0022231311X00030</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T01:14:54.81921-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20110401</xocs:date-search-begin>
+      <xocs:date-search-end>20110430</xocs:date-search-end>
+      <xocs:year-nav>2011</xocs:year-nav>
+      <xocs:indexeddate epoch="1290211200">2010-11-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0022-2313</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00222313</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>131</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>131</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 131, Issue 4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>23</xocs:sort-order>
+      <xocs:first-fp>669</xocs:first-fp>
+      <xocs:last-lp>675</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>669</xocs:first-page>
+         <xocs:last-page>675</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201104</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2011</xocs:cover-date-text>
+      <xocs:cover-date-start>2011-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2011-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2011</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ROOMTEMPERATURESCINTILLATIONPROPERTIESCERIUMDOPEDREOXREYLAGDLUXFCLBRI</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>EAGLEMAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Synthesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Physical properties</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Densities and <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>eff</ce:italic>
+                     </ce:inf>
+                  </xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Hygroscopic nature</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Luminescence properties</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Oxyfluorides-REOF: Ce<ce:sup loc="post">3+</ce:sup>
+                  </xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Oxychlorides-REOCl: Ce<ce:sup loc="post">3+</ce:sup>
+                  </xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Oxybromides-REOBr: Ce<ce:sup loc="post">3+</ce:sup>
+                  </xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.4</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Oxyiodides-REOI: Ce<ce:sup loc="post">3+</ce:sup>
+                  </xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Cerium-activated scintillation</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>(Y)(Gd)OCl: Ce<ce:sup loc="post">3+</ce:sup>, REOBr: Ce<ce:sup loc="post">3+</ce:sup>, and REOI: Ce<ce:sup loc="post">3+</ce:sup>
+                  </xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.1.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>LaOCl: Ce<ce:sup loc="post">3+</ce:sup>
+                  </xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Non-cerium scintillation</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>REOF: Ce<ce:sup loc="post">3+</ce:sup>
+                  </xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>LuOCl: Ce<ce:sup loc="post">3+</ce:sup>
+                  </xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Structural influences</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Disclaimer</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>DERENZO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>111</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>BESSIERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>22</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>GUILLOTNOEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>MOSES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>51</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>VANLOEF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1573</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>VANLOEF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>254</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>WOJTOWICZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14880</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>SHAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2302</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>VANLOEF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>138</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>MENGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>HAAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1086</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>BLASSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1967</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5139</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13"/>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>RABATIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1552</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>STARICK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>199</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>HOLSA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>48</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>469</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>DERENZO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1458</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>DERENZO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>860</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20"/>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>MANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1970</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2129</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>ZACHARIASEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1951</xocs:ref-pub-year>
+            <xocs:ref-first-fp>231</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23"/>
+         <xocs:ref-info refid="bib24">
+            <xocs:ref-normalized-surname>TAOUDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1137</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib25">
+            <xocs:ref-normalized-surname>ZACHARIASEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1949</xocs:ref-pub-year>
+            <xocs:ref-first-fp>388</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib26">
+            <xocs:ref-normalized-surname>SILLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1941</xocs:ref-pub-year>
+            <xocs:ref-first-fp>367</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib27">
+            <xocs:ref-normalized-surname>BRIXNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib28">
+            <xocs:ref-normalized-surname>LIMBURG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>404</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib29"/>
+         <xocs:ref-info refid="bib30"/>
+         <xocs:ref-info refid="bib31">
+            <xocs:ref-normalized-surname>SHANNON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>751</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib32">
+            <xocs:ref-normalized-surname>CHAUDHRY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>949</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib33">
+            <xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>510</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib34">
+            <xocs:ref-normalized-surname>PORTERCHAPMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>881</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib35">
+            <xocs:ref-normalized-surname>DROZDOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1391</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib36">
+            <xocs:ref-normalized-surname>DROZDOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>412</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib37">
+            <xocs:ref-normalized-surname>LECOQ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INORGANICSCINTILLATORSFORDETECTORSYSTEMS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib38">
+            <xocs:ref-normalized-surname>BLASSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib39">
+            <xocs:ref-normalized-surname>SRIVASTAVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>187</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>EAGLEMANX2011X669</xocs:refkey3>
+         <xocs:refkey4lp>EAGLEMANX2011X669X675</xocs:refkey4lp>
+         <xocs:refkey4ai>EAGLEMANX2011X669XY</xocs:refkey4ai>
+         <xocs:refkey5>EAGLEMANX2011X669X675XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0022-2313(10)00489-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0022231310004898</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0022231310004898</xocs:eid>
+         <xocs:doi>10.1016/j.jlumin.2010.11.013</xocs:doi>
+         <xocs:cid>271627</xocs:cid>
+         <xocs:timestamp>2014-09-27T16:54:01.144597-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2011-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2011-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/MAIN/application/pdf/7dc6f4aa4c4f0c60281fdd2069c8616b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/MAIN/application/pdf/7dc6f4aa4c4f0c60281fdd2069c8616b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>668013</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0022231310004898-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/PREVIEW/image/png/0b7637548aff953bb2fc315e1eb21ae4/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/PREVIEW/image/png/0b7637548aff953bb2fc315e1eb21ae4/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>54008</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-si0004.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/STRIPIN/image/gif/bdd53ff5c605420acb07c4bde5410cbd/si0004.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/STRIPIN/image/gif/bdd53ff5c605420acb07c4bde5410cbd/si0004.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0004</xocs:file-basename>
+               <xocs:filename>si0004.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>531</xocs:filesize>
+               <xocs:pixel-height>29</xocs:pixel-height>
+               <xocs:pixel-width>116</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-si0003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/STRIPIN/image/gif/e6df847c64bceefc9c551275e8378647/si0003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/STRIPIN/image/gif/e6df847c64bceefc9c551275e8378647/si0003.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0003</xocs:file-basename>
+               <xocs:filename>si0003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2072</xocs:filesize>
+               <xocs:pixel-height>33</xocs:pixel-height>
+               <xocs:pixel-width>321</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-si0002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/STRIPIN/image/gif/1d1442136f6fb746798482170364896d/si0002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/STRIPIN/image/gif/1d1442136f6fb746798482170364896d/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0002</xocs:file-basename>
+               <xocs:filename>si0002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1520</xocs:filesize>
+               <xocs:pixel-height>41</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-si0001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/STRIPIN/image/gif/a557753f7fc925737d48672242215f71/si0001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/STRIPIN/image/gif/a557753f7fc925737d48672242215f71/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0001</xocs:file-basename>
+               <xocs:filename>si0001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>820</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/gr2/HIGHRES/image/jpeg/e59b4198cd77b49cde8618ee4f052bff/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/gr2/HIGHRES/image/jpeg/e59b4198cd77b49cde8618ee4f052bff/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1025676</xocs:filesize>
+               <xocs:pixel-height>3955</xocs:pixel-height>
+               <xocs:pixel-width>2109</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/gr1/HIGHRES/image/jpeg/02ab07d3d14d9bb4c7f2e623c795d35d/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/gr1/HIGHRES/image/jpeg/02ab07d3d14d9bb4c7f2e623c795d35d/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>521682</xocs:filesize>
+               <xocs:pixel-height>1816</xocs:pixel-height>
+               <xocs:pixel-width>3586</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/gr2/DOWNSAMPLED/image/jpeg/cde9beeb6a055734ee4c72cb36fa1d53/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/gr2/DOWNSAMPLED/image/jpeg/cde9beeb6a055734ee4c72cb36fa1d53/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>133194</xocs:filesize>
+               <xocs:pixel-height>893</xocs:pixel-height>
+               <xocs:pixel-width>476</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/gr1/DOWNSAMPLED/image/jpeg/7515ce4eb9acf4fa915930678c192831/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/gr1/DOWNSAMPLED/image/jpeg/7515ce4eb9acf4fa915930678c192831/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>78442</xocs:filesize>
+               <xocs:pixel-height>410</xocs:pixel-height>
+               <xocs:pixel-width>810</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/gr2/THUMBNAIL/image/gif/7f5545af4cff9f7fbed19cc29a73c0dc/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/gr2/THUMBNAIL/image/gif/7f5545af4cff9f7fbed19cc29a73c0dc/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4522</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>87</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022231310004898-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022231310004898/gr1/THUMBNAIL/image/gif/c36033382dd1d4452162061b460f3234/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022231310004898/gr1/THUMBNAIL/image/gif/c36033382dd1d4452162061b460f3234/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5218</xocs:filesize>
+               <xocs:pixel-height>111</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.1">
+         <item-info>
+            <jid>LUMIN</jid>
+            <aid>10395</aid>
+            <ce:pii>S0022-2313(10)00489-8</ce:pii>
+            <ce:doi>10.1016/j.jlumin.2010.11.013</ce:doi>
+            <ce:copyright type="us-gov" year="2010"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0005" view="all">(a and b) Hygroscopic nature (moisture absorption) of REX<ce:inf loc="post">3</ce:inf> and REOX, where RE=Y, La, Gd, and Lu, and (a) X=Cl and (b) X=Br.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0010" view="all">(a–d) Room temperature X-ray excited emission spectra and (e–h) room temperature X-ray excited decay curves of select cerium-activated REOX scintillators.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0015" view="all">Physical and scintillation properties of cerium-doped REOX (RE=Y, La, Gd, and Lu; X=F, Cl, Br, and I) at their optimized cerium concentrations.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Compound</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crystal system <cross-ref refid="bib19">[19]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Density</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>Z</italic>
+                           <inf loc="post">
+                              <italic>eff</italic>
+                           </inf>
+                           <cross-ref refid="tbl1fna">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ce<sup loc="post">3+</sup> doping (mole%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Emission wavelength (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Luminosity relative to LaBr<inf loc="post">3</inf>: 5% Ce<sup loc="post">3+</sup>
+                           <cross-ref refid="tbl1fnb">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Major decay times (≥10% of light)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">YOF</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rhombohedral <cross-ref refid="bib20">[20]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">330, 400</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1906±9 (77%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LaOF</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rhombohedral <cross-ref refid="bib21">[21]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">490</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2058±30 (36%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GdOF</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rhombohedral <cross-ref refid="bib22">[22]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.69</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1405±417<hsp sp="0.25"/>ns (16%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LuOF</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Monoclinic <cross-ref refid="bib23">[23]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">80±6 (16%); 335±16 (16%); 1882±91 (23%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">YOCl</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib24">[24]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">380</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20±0<hsp sp="0.25"/>ns (83%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LaOCl</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib25">[25]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">420</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17±1<hsp sp="0.25"/>ns (15%); 106±5<hsp sp="0.25"/>ns (16%); 836±18<hsp sp="0.25"/>ns (15%);</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GdOCl</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib24">[24]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">400</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rise time: 6±1<hsp sp="0.25"/>ns; 25±1<hsp sp="0.25"/>ns (63%); 76±13<hsp sp="0.25"/>ns (27%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LuOCl</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rhombohedral <cross-ref refid="bib26">[26]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">380</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">377±24<hsp sp="0.25"/>ns (16%); 1512±10<hsp sp="0.25"/>ns (77%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">YOBr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib19">[19]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">400, 445</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">25±0<hsp sp="0.25"/>ns (76%); 59±2<hsp sp="0.25"/>ns (17%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LaOBr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib25">[25]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.17</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">425</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1±0<hsp sp="0.25"/>ns (11%); 4±0<hsp sp="0.25"/>ns (26%); 13±0<hsp sp="0.25"/>ns (35%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GdOBr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib27">[27]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">405, 445</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rise time: 10±1<hsp sp="0.25"/>ns; 30±1<hsp sp="0.25"/>ns (100%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LuOBr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal<cross-ref refid="bib19">[19]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.58</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">405, 445</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">25±0<hsp sp="0.25"/>ns (56%); 73±1<hsp sp="0.25"/>ns (10%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">YOI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib19">[19]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">430, 480</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">23±0<hsp sp="0.25"/>ns (85%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LaOI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib25">[25]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">470</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">24±0<hsp sp="0.25"/>ns (86%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">GdOI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib28">[28]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">440, 470</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">23±0<hsp sp="0.25"/>ns (67%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">LuOI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tetragonal <cross-ref refid="bib29">[29]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.71</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">430, 480</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">23±0<hsp sp="0.25"/>ns (82%); 73±1<hsp sp="0.25"/>ns (10%)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl1fna">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>
+                     <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>eff</ce:italic>
+                     </ce:inf> is calculated by (4), <mml:math altimg="si0001.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>Z</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>e</mml:mi>
+                              <mml:mi>f</mml:mi>
+                              <mml:mi>f</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>=</mml:mo>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>W</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>A</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:msubsup>
+                           <mml:mrow>
+                              <mml:mi>Z</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>A</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mn>4</mml:mn>
+                           </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo>+</mml:mo>
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>W</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>B</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:msubsup>
+                           <mml:mrow>
+                              <mml:mi>Z</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>B</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mn>4</mml:mn>
+                           </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo>+</mml:mo>
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>W</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>C</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:msubsup>
+                           <mml:mrow>
+                              <mml:mi>Z</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>C</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mn>4</mml:mn>
+                           </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo stretchy="false">)</mml:mo>
+                        <mml:mspace width="1em"/>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>4</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                     </mml:math> where <ce:italic>W</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>A</ce:italic>
+                     </ce:inf>, <ce:italic>W</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>B</ce:italic>
+                     </ce:inf>, <ce:italic>W</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>C</ce:italic>
+                     </ce:inf>, <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>A</ce:italic>
+                     </ce:inf>, <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>B</ce:italic>
+                     </ce:inf>, and <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>C</ce:italic>
+                     </ce:inf> are the weight ratios and atomic numbers of elements A, B, and C, respectively <ce:cross-ref refid="bib30">[30]</ce:cross-ref>.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tbl1fnb">
+                  <ce:label>b</ce:label>
+                  <ce:note-para>Relative luminosities calculated utilizing <ce:cross-ref refid="eq0015">(3)</ce:cross-ref>.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Room-temperature scintillation properties of cerium-doped REOX (RE=Y, La, Gd, and Lu; X=F, Cl, Br, and I)</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Yetta D.</ce:given-name>
+                  <ce:surname>Eagleman</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Edith</ce:given-name>
+                  <ce:surname>Bourret-Courchesne</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Stephen E.</ce:given-name>
+                  <ce:surname>Derenzo</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +1 510 486 7537.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="25" month="7" year="2010"/>
+            <ce:date-revised day="9" month="11" year="2010"/>
+            <ce:date-accepted day="14" month="11" year="2010"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="sp0020" view="all">The scintillation properties of cerium-doped oxyhalides following the general formula REOX (RE=Y, La, Gd, and Lu; X=F, Cl, Br, and I) are reported. These materials were synthesized under dry conditions as microcrystalline powders from conventional solid state reactions. The room temperature X-ray excited emission and scintillation decay curves were measured and analyzed for each material. Additionally, the hygroscopic nature of the oxychlorides and oxybromides was compared to that of their corresponding rare earth halides. The yttrium, lanthanum, and gadolinium oxychlorides, and all of the oxybromides and oxyiodides are found to be activated by Ce<ce:sup loc="post">3+</ce:sup>. GdOBr doped with 0.5% Ce<ce:sup loc="post">3+</ce:sup> has the highest light output with a relative luminosity of about one-half that of LaBr<ce:inf loc="post">3</ce:inf>: Ce<ce:sup loc="post">3+</ce:sup>. It displays a single exponential decay of 30<ce:hsp sp="0.25"/>ns.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical">
+               <ce:abstract-sec>
+                  <ce:section-title>Research Highlights</ce:section-title>
+                  <ce:simple-para id="sp0025" view="all">►Room temperature scintillation properties of cerium doped rare earth oxyhalides. ►Oxybromides and oxyiodides most efficient scintillators. ►Cerium activation may be linked to structure.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Scintillator</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Cerium</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Oxyhalides</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Luminescence</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Cerium-doped rare earth halides display desirable <ce:cross-ref refid="bib1">[1]</ce:cross-ref> high scintillation light yields with fast decay components <ce:cross-refs refid="bib2 bib3 bib4 bib5 bib6 bib7 bib8 bib9 bib10 bib11">[2–11]</ce:cross-refs> (e.g., LaBr<ce:inf loc="post">3</ce:inf>: Ce<ce:sup loc="post">3+</ce:sup> has been reported to have luminosities in the range of 61,000–74,000<ce:hsp sp="0.25"/>phs/MeV and decay times &lt;40<ce:hsp sp="0.25"/>ns <ce:cross-refs refid="bib5 bib6 bib10">[5,6,10]</ce:cross-refs>), and hence they have garnered much attention. Though these halides are attractive scintillators, their hygroscopic nature make them difficult to handle. Traditionally, metal oxide scintillators are more air stable.</ce:para>
+                  <ce:para id="p0010" view="all">In this work, we investigated inorganic hosts containing both oxide and halide ions in an attempt to discover new host materials that are more stable than the rare earth halides and have comparable scintillation properties when doped with cerium. Yttrium, lanthanum, gadolinium, and lutetium oxychlorides and oxybromides doped with trivalent cerium have been previously studied for use in cathodoluminescent and X-ray intensifying screens <ce:cross-refs refid="bib12 bib13 bib14 bib15">[12–15]</ce:cross-refs>. Here we report the scintillation properties (emission spectra, decay curves, and decay times) of these materials and added those of the oxyfluorides and oxyiodides, following the general formula REOX (RE=Y, La, Gd, and Lu; X=F, Cl, Br, and I). Relative luminosities are obtained by normalization to the known scintillator LaBr<ce:inf loc="post">3</ce:inf>: 5% Ce<ce:sup loc="post">3+</ce:sup>. A semi-quantitative study is included of the chemical stability of the oxychlorides and oxybromides.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Synthesis</ce:section-title>
+                     <ce:para id="p0015" view="all">The oxyfluoride and oxyiodide materials were produced from the solid state reaction<ce:display>
+                           <ce:formula id="eq0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si0002.gif" overflow="scroll">
+                                 <mml:mtable columnalign="left">
+                                    <mml:mtr>
+                                       <mml:mtd>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">RE</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">O</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:mi mathvariant="normal">s</mml:mi>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mtext>REX</mml:mtext>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:mi mathvariant="normal">s</mml:mi>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                          <mml:mo>→</mml:mo>
+                                          <mml:mi>3REOX</mml:mi>
+                                          <mml:mo stretchy="false" mathvariant="normal">(</mml:mo>
+                                          <mml:mi mathvariant="normal">s</mml:mi>
+                                          <mml:mo stretchy="false" mathvariant="normal">)</mml:mo>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                    <mml:mtr>
+                                       <mml:mtd>
+                                          <mml:mo stretchy="false" mathvariant="normal">(</mml:mo>
+                                          <mml:mi>RE</mml:mi>
+                                          <mml:mo mathvariant="normal">=</mml:mo>
+                                          <mml:mi mathvariant="normal">Y</mml:mi>
+                                          <mml:mo mathvariant="normal">,</mml:mo>
+                                          <mml:mi>La</mml:mi>
+                                          <mml:mo mathvariant="normal">,</mml:mo>
+                                          <mml:mi>Gd</mml:mi>
+                                          <mml:mo mathvariant="normal">,</mml:mo>
+                                          <mml:mspace width=".25em"/>
+                                          <mml:mtext>and</mml:mtext>
+                                          <mml:mspace width=".25em"/>
+                                          <mml:mi>Lu</mml:mi>
+                                          <mml:mo mathvariant="normal">;</mml:mo>
+                                          <mml:mi mathvariant="normal">X</mml:mi>
+                                          <mml:mo mathvariant="normal">=</mml:mo>
+                                          <mml:mi mathvariant="normal">F</mml:mi>
+                                          <mml:mspace width=".25em"/>
+                                          <mml:mtext>and</mml:mtext>
+                                          <mml:mspace width=".25em"/>
+                                          <mml:mi mathvariant="normal">I</mml:mi>
+                                          <mml:mo stretchy="false" mathvariant="normal">)</mml:mo>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                 </mml:mtable>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>Finely ground mixtures of the rare earth oxides and fluorides were reacted in capped alumina tubes under 3% H<ce:inf loc="post">2</ce:inf>/argon flow at 1000<ce:hsp sp="0.25"/>°C for 10<ce:hsp sp="0.25"/>h. The oxyiodides were synthesized at the same temperature and duration in sealed evacuated quartz tubes. The rare earth iodides and the oxyiodide products are sensitive to light and moisture; therefore, all manipulations of these materials were performed in the dark in an argon-filled glove box.</ce:para>
+                     <ce:para id="p0020" view="all">The rare earth oxychlorides and oxybromides were synthesized in accordance with<ce:display>
+                           <ce:formula id="eq0010">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si0003.gif" overflow="scroll">
+                                 <mml:mtable columnalign="left">
+                                    <mml:mtr>
+                                       <mml:mtd>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">RE</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">O</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>3</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mo mathvariant="normal" stretchy="false">(</mml:mo>
+                                          <mml:mi mathvariant="normal">s</mml:mi>
+                                          <mml:mo mathvariant="normal" stretchy="false">)</mml:mo>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mtext>2NH</mml:mtext>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>4</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mi mathvariant="normal">X</mml:mi>
+                                          <mml:mo mathvariant="normal" stretchy="false">(</mml:mo>
+                                          <mml:mi mathvariant="normal">s</mml:mi>
+                                          <mml:mo mathvariant="normal" stretchy="false">)</mml:mo>
+                                          <mml:mo>→</mml:mo>
+                                          <mml:mi>2REOX</mml:mi>
+                                          <mml:mo mathvariant="normal" stretchy="false">(</mml:mo>
+                                          <mml:mi mathvariant="normal">s</mml:mi>
+                                          <mml:mo mathvariant="normal" stretchy="false">)</mml:mo>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mtext>2NH</mml:mtext>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">3</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mo stretchy="false" mathvariant="normal">(</mml:mo>
+                                                <mml:mi mathvariant="normal">g</mml:mi>
+                                                <mml:mo stretchy="false" mathvariant="normal">)</mml:mo>
+                                                <mml:mo mathvariant="normal">+</mml:mo>
+                                                <mml:mi mathvariant="normal">H</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">2</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mi mathvariant="normal">O</mml:mi>
+                                          <mml:mo mathvariant="normal" stretchy="false">(</mml:mo>
+                                          <mml:mi mathvariant="normal">g</mml:mi>
+                                          <mml:mo mathvariant="normal" stretchy="false">)</mml:mo>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                    <mml:mtr>
+                                       <mml:mtd>
+                                          <mml:mo mathvariant="normal" stretchy="false">(</mml:mo>
+                                          <mml:mi>RE</mml:mi>
+                                          <mml:mo mathvariant="normal">=</mml:mo>
+                                          <mml:mi mathvariant="normal">Y</mml:mi>
+                                          <mml:mo mathvariant="normal">,</mml:mo>
+                                          <mml:mi>La</mml:mi>
+                                          <mml:mo mathvariant="normal">,</mml:mo>
+                                          <mml:mi>Gd</mml:mi>
+                                          <mml:mo>,</mml:mo>
+                                          <mml:mspace width=".25em"/>
+                                          <mml:mtext>and</mml:mtext>
+                                          <mml:mspace width=".25em"/>
+                                          <mml:mi>Lu</mml:mi>
+                                          <mml:mo mathvariant="normal">;</mml:mo>
+                                          <mml:mi mathvariant="normal">X</mml:mi>
+                                          <mml:mo mathvariant="normal">=</mml:mo>
+                                          <mml:mi>Cl</mml:mi>
+                                          <mml:mspace width=".25em"/>
+                                          <mml:mtext>and</mml:mtext>
+                                          <mml:mspace width=".25em"/>
+                                          <mml:mi>Br</mml:mi>
+                                          <mml:mo mathvariant="normal" stretchy="false">)</mml:mo>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                 </mml:mtable>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where mixtures of the corresponding rare earth oxide and ammonium chloride or bromide (1:2 molar ratio) were reacted under 3% H<ce:inf loc="post">2</ce:inf>/argon flow following a modified synthesis procedure of <ce:cross-refs refid="bib16 bib17">[16,17]</ce:cross-refs>. Each mixture was initially heated at 450<ce:hsp sp="0.25"/>°C for 1<ce:hsp sp="0.25"/>h, allowing the release of ammonia and water gases. Subsequently, the temperature was raised to 800<ce:hsp sp="0.25"/>°C and was held there for 1<ce:hsp sp="0.25"/>h to crystallize the phases.</ce:para>
+                     <ce:para id="p0025" view="all">Each REOX material was prepared in its undoped and doped forms. Concentrations of 0.5, 1, 2, 5, and 10<ce:hsp sp="0.25"/>mole% of the rare earth precursors were replaced by cerous oxide (Ce<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>) and/or cerium halide (CeX<ce:inf loc="post">3</ce:inf>). With the exception of the oxyiodides, all oxyhalides are colorless hygroscopic powders. The oxyiodides are hygroscopic and tan.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Characterization</ce:section-title>
+                     <ce:para id="p0030" view="all">Proper synthesis of each material was confirmed by powder X-ray diffraction. The diffractometer is an in-house diffraction setup utilizing a Bruker Nonius FR591 rotating anode X-ray generator operated at 50<ce:hsp sp="0.25"/>kV and 60<ce:hsp sp="0.25"/>mA. A more detailed description of this setup is supplied in <ce:cross-ref refid="bib17">[17]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0035" view="all">Once the structure of each material was confirmed, a quantitative test was taken of the hygroscopic nature of the undoped oxychlorides and oxybromides. The weight gain for ∼100<ce:hsp sp="0.25"/>mg of each sample was recorded at room temperature in open air (75% humidity) over 95<ce:hsp sp="0.25"/>h. Identical measurements were conducted on the corresponding rare earth halides for comparison.</ce:para>
+                     <ce:para id="p0040" view="all">Room temperature X-ray excited luminescence spectra and pulsed X-ray decay curves were measured for each REOX and LaBr<ce:inf loc="post">3</ce:inf>: 5% Ce<ce:sup loc="post">3+</ce:sup> microcrystalline powder in sealed quartz cuvettes. Details of these procedures can be found in <ce:cross-refs refid="bib18 bib19">[18,19]</ce:cross-refs>. Multiple high-statistics pulsed X-ray data sets were used to determine the standard deviations in the decay times. For each material a minimum of four replicate data sets were acquired, and each contained typically 4 million events. A sum of exponential decay components was fit to each data set. In all cases the same components were identified with exponential decay times that differed somewhat due to the statistical fluctuations in the data.</ce:para>
+                     <ce:para id="p0045" view="all">The total luminosities were determined from pulsed X-ray measurements by summing all detected photons. Relative luminosities of each sample, <ce:italic>RL</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>Sample</ce:italic>
+                        </ce:inf>, were calculated by<ce:display>
+                           <ce:formula id="eq0015">
+                              <ce:label>(3)</ce:label>
+                              <mml:math altimg="si0004.gif" overflow="scroll">
+                                 <mml:mi>R</mml:mi>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>L</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>S</mml:mi>
+                                       <mml:mi>a</mml:mi>
+                                       <mml:mi>m</mml:mi>
+                                       <mml:mi>p</mml:mi>
+                                       <mml:mi>l</mml:mi>
+                                       <mml:mi>e</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>P</mml:mi>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>L</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>S</mml:mi>
+                                             <mml:mi>a</mml:mi>
+                                             <mml:mi>m</mml:mi>
+                                             <mml:mi>p</mml:mi>
+                                             <mml:mi>l</mml:mi>
+                                             <mml:mi>e</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>P</mml:mi>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>L</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>S</mml:mi>
+                                             <mml:mi>t</mml:mi>
+                                             <mml:mi>n</mml:mi>
+                                             <mml:mi>d</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>PL</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>Sample</ce:italic>
+                        </ce:inf> and <ce:italic>PL</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>Stnd</ce:italic>
+                        </ce:inf> are the luminosities obtained for the sample and standard, LaBr<ce:inf loc="post">3</ce:inf>: 5% Ce<ce:sup loc="post">3+</ce:sup>, powders, respectively.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results</ce:section-title>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Physical properties</ce:section-title>
+                     <ce:section id="s0035" view="all">
+                        <ce:label>3.1.1</ce:label>
+                        <ce:section-title>Densities and <ce:italic>Z</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>eff</ce:italic>
+                           </ce:inf>
+                        </ce:section-title>
+                        <ce:para id="p0050" view="all">The densities and <ce:italic>Z</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>eff</ce:italic>
+                           </ce:inf> of the REOX (RE=Y, La, Gd, and Lu; X=F, Cl, Br, and I) compounds are listed in <ce:float-anchor refid="t0005"/>
+                           <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>. These physical parameters are important determinates of the stopping power of a scintillator <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. The higher the density and <ce:italic>Z</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>eff</ce:italic>
+                           </ce:inf> of a host, the better the material will absorb ionizing radiation. The compounds studied have densities and <ce:italic>Z</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>eff</ce:italic>
+                           </ce:inf> comparable to LaBr<ce:inf loc="post">3</ce:inf> (<ce:italic>ρ</ce:italic>=5.1<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup>; <ce:italic>Z</ce:italic>
+                           <ce:inf loc="post">
+                              <ce:italic>eff</ce:italic>
+                           </ce:inf>=47).</ce:para>
+                     </ce:section>
+                     <ce:section id="s0040" view="all">
+                        <ce:label>3.1.2</ce:label>
+                        <ce:section-title>Hygroscopic nature</ce:section-title>
+                        <ce:para id="p0055" view="all">The increase in weight of the rare earth halides and oxyhalides while sitting in an open container exposed to open air is attributed to their absorption of moisture. After 95<ce:hsp sp="0.25"/>h, the percentage of weight gained by the rare earth oxyhalides was less than a third of the weight gained by the rare earth halides (<ce:float-anchor refid="f0005"/>
+                           <ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>(a) and (b)). The hygroscopic nature of each rare earth oxyhalide is inversely related to the ionic size of their rare earth. The ionic radii of these trivalent cations (<ce:italic>CN</ce:italic>=8) follow the trend: Lu<ce:sup loc="post">3+</ce:sup> (0.98<ce:hsp sp="0.25"/>Å)&lt;Y<ce:sup loc="post">3+</ce:sup> (1.02<ce:hsp sp="0.25"/>Å)≈Gd<ce:sup loc="post">3+</ce:sup> (1.05<ce:hsp sp="0.25"/>Å)&lt;La<ce:sup loc="post">3+</ce:sup> (1.22<ce:hsp sp="0.25"/>Å) <ce:cross-ref refid="bib31">[31]</ce:cross-ref>. Likewise, their hygroscopic natures follow a similar trend in which the smaller the rare earth, the more hygroscopic the material. The oxyfluorides and oxyiodides were excluded from these experiments; the fluorides tend to be stable and the iodides are light sensitive, making them less viable as useful scintillators.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Luminescence properties</ce:section-title>
+                     <ce:para id="p0060" view="all">X-ray excited emission spectra and pulsed X-ray decay curves were obtained for each undoped and cerium-doped REOX sample. A repeatable luminosity value for each material was achieved within 10%. Attention was given to changes in luminosities, emission peak maxima, and decay curve structures with variation of cerium concentration. <ce:cross-ref refid="t0005">Table 1</ce:cross-ref> lists the emission peak maxima and major decay times found for each cerium-doped REOX material at the concentration that produced the highest light yield. The averages and standard deviations of the fitted decay times are listed. The standard deviations of the fitted fractions of the exponential components were typically 0.01 and less than 0.02 in all cases. Select X-ray excited emission spectra and decay curves are presented in <ce:float-anchor refid="f0010"/>
+                        <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(a–h).</ce:para>
+                     <ce:para id="p0065" view="all">Cerium-activated materials are expected to exhibit doublet emission peaks and exponential decays that correspond to transitions from the 5d configuration to the two terminating levels of the 4f configuration of Ce<ce:sup loc="post">3+</ce:sup>: <ce:sup loc="pre">2</ce:sup>F<ce:inf loc="post">7/2</ce:inf> and <ce:sup loc="pre">2</ce:sup>F<ce:inf loc="post">5/2</ce:inf>. Of the sixteen REOX materials, ten exhibit such signature cerium luminescence upon doping. Details are discussed below.</ce:para>
+                     <ce:section id="s0050" view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title>Oxyfluorides-REOF: Ce<ce:sup loc="post">3+</ce:sup>
+                        </ce:section-title>
+                        <ce:para id="p0070" view="all">The REOF: Ce<ce:sup loc="post">3+</ce:sup> materials do not exhibit cerium characteristic scintillation properties. Their scintillation light yields are low, and their emission peak intensities are either negligible or lack discernible cerium doublets. Moreover, the decay curves obtained from pulsed X-ray measurements are non-exponential with decay times ≥80<ce:hsp sp="0.25"/>ns.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0055" view="all">
+                        <ce:label>3.2.2</ce:label>
+                        <ce:section-title>Oxychlorides-REOCl: Ce<ce:sup loc="post">3+</ce:sup>
+                        </ce:section-title>
+                        <ce:para id="p0075" view="all">The yttrium and gadolinium oxychlorides show typical cerium emission and decay curves under X-ray excitation. <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(a) and (e) contain the emission spectrum and decay curve, respectively, of YOCl: 1% Ce<ce:sup loc="post">3+</ce:sup>, the concentration exhibiting the highest light yield of the cerium-doped yttrium oxychloride samples. This material emits as a broad unresolved doublet covering 330–490<ce:hsp sp="0.25"/>nm with maximum at 380<ce:hsp sp="0.25"/>nm. It displays an exponential decay of 20<ce:hsp sp="0.25"/>ns for 83% of its scintillation light. The remainder of the decay has lifetimes &gt;1<ce:hsp sp="0.25"/>μs.</ce:para>
+                        <ce:para id="p0080" view="all">
+                           <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(c) and (g) contains the emission spectrum and decay curve, respectively, of GdOCl: 0.5% Ce<ce:sup loc="post">3+</ce:sup>, the concentration displaying the highest light yield of the cerium-doped gadolinium oxychloride samples. It emits as a broad unresolved doublet from 340 to 500<ce:hsp sp="0.25"/>nm with maximum at 400<ce:hsp sp="0.25"/>nm. Its decay curve reveals two major decay components: one at 25<ce:hsp sp="0.25"/>ns for 63% of its scintillation light, and the other at 76<ce:hsp sp="0.25"/>ns for 27% of its light. A slow rise time of 6<ce:hsp sp="0.25"/>ns is evident in this material (see inset in <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(g)).</ce:para>
+                        <ce:para id="p0085" view="all">The LaOCl: Ce<ce:sup loc="post">3+</ce:sup> materials exhibit atypical cerium scintillation under X-ray excitation. They emit as broad unresolved peaks in the range of 350–750<ce:hsp sp="0.25"/>nm with maxima of 420<ce:hsp sp="0.25"/>nm (<ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(b)). Although the photoluminescence excitation spectra of each LaOCl: Ce<ce:sup loc="post">3+</ce:sup> material shows cerium incorporation, their scintillation decay curves are non-exponential and slow; see <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(f). The LaOCl: 2% Ce<ce:sup loc="post">3+</ce:sup> material, which has the highest light yield, displays a 17<ce:hsp sp="0.25"/>ns decay component indicative of cerium; however, the majority of the decay has lifetimes ≥100<ce:hsp sp="0.25"/>ns.</ce:para>
+                        <ce:para id="p0090" view="all">Broad asymmetric peaks with maxima of 380<ce:hsp sp="0.25"/>nm are observed in the undoped and cerium-doped LuOCl materials (<ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(d)). The intensity of this emission decreases as the concentration of cerium increases. Likewise, both the undoped and cerium-doped LuOCl materials exhibit non-exponential scintillation decay curves and have decays &gt;300<ce:hsp sp="0.25"/>ns. These characteristics are inconsistent with typical cerium activation.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0060" view="all">
+                        <ce:label>3.2.3</ce:label>
+                        <ce:section-title>Oxybromides-REOBr: Ce<ce:sup loc="post">3+</ce:sup>
+                        </ce:section-title>
+                        <ce:para id="p0095" view="all">All four oxybromides exhibit cerium doublet emission and exponential decay curves upon doping. For the optimal cerium concentrations, their emission peaks range from 400 to 445<ce:hsp sp="0.25"/>nm, and their major decay components have lifetimes ranging from 1 to 30<ce:hsp sp="0.25"/>ns for ≥56% of their scintillation light.</ce:para>
+                        <ce:para id="p0100" view="all">The YOBr: 1% Ce<ce:sup loc="post">3+</ce:sup> material exhibits the highest light yield found for the YOBr: Ce<ce:sup loc="post">3+</ce:sup> samples and for all the yttrium oxyhalides. <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(a) presents the emission spectrum for this material. It emits as a doublet in the range of 380–520<ce:hsp sp="0.25"/>nm with maxima at 400 and 445<ce:hsp sp="0.25"/>nm. At all cerium concentrations studied, the intensity of the higher energy peak (i.e., the 400<ce:hsp sp="0.25"/>nm peak) is reduced. An exponential decay of 25<ce:hsp sp="0.25"/>ns dominates the decay curve accounting for 76% of the light (<ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(e)). A second decay component of 59<ce:hsp sp="0.25"/>ns is observed for 17% of the light.</ce:para>
+                        <ce:para id="p0105" view="all">The LaOBr: Ce<ce:sup loc="post">3+</ce:sup> materials exhibit broad unresolved emission occurring at 370–600<ce:hsp sp="0.25"/>nm with maxima that shifts from 420 to 430<ce:hsp sp="0.25"/>nm as the concentration of cerium increases to 10<ce:hsp sp="0.25"/>mol%. Abnormally fast decay components at 1, 4, and 13<ce:hsp sp="0.25"/>ns are observed at all concentrations. LaOBr: 1% Ce<ce:sup loc="post">3+</ce:sup> produces the greatest light yield of all the lanthanum oxybromides and has a peak maximum at 425<ce:hsp sp="0.25"/>nm (<ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(b)).</ce:para>
+                        <ce:para id="p0110" view="all">The 0.5% Ce<ce:sup loc="post">3+</ce:sup>-doped GdOBr material displays the highest light yield of all the REOX materials with a relative luminosity, <ce:italic>RL</ce:italic>, of 48% of LaBr<ce:inf loc="post">3</ce:inf>: 5% Ce<ce:sup loc="post">3+</ce:sup>. It emits as a doublet between 380 and 520<ce:hsp sp="0.25"/>nm with maxima at 405 and 445<ce:hsp sp="0.25"/>nm. Each GdOBr: Ce<ce:sup loc="post">3+</ce:sup> material displays exponential decays of 26–30<ce:hsp sp="0.25"/>ns for &gt;60% of their scintillation light. An additional decay component in the range of 60–95<ce:hsp sp="0.25"/>ns is observed as well for samples with cerium concentrations &gt;0.5%. The inset in <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(g) displays the observed slow rise time of 10<ce:hsp sp="0.25"/>ns for GdOBr: 0.5% Ce<ce:sup loc="post">3+</ce:sup>.</ce:para>
+                        <ce:para id="p0115" view="all">The LuOBr: 0.5% Ce<ce:sup loc="post">3+</ce:sup> material exhibits the greatest light yield of all the lutetium oxyhalides. Its cerium doublet emission occurs from 375 to 520<ce:hsp sp="0.25"/>nm with peak maxima at 405 and 445<ce:hsp sp="0.25"/>nm. Like YOBr: Ce<ce:sup loc="post">3+</ce:sup>, the intensity of the high energy peak is reduced in each LuOBr: Ce<ce:sup loc="post">3+</ce:sup> material. Two major decay components are observed in this material: one at 25<ce:hsp sp="0.25"/>ns for 56% of the light and the other at 73<ce:hsp sp="0.25"/>ns for 10%. The remainder of the decay has lifetimes &gt;200<ce:hsp sp="0.25"/>ns.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0065" view="all">
+                        <ce:label>3.2.4</ce:label>
+                        <ce:section-title>Oxyiodides-REOI: Ce<ce:sup loc="post">3+</ce:sup>
+                        </ce:section-title>
+                        <ce:para id="p0120" view="all">All four cerium-doped rare earth oxyiodides exhibit characteristic cerium emission and exponential decay components. They display emission peaks between 430 and 480<ce:hsp sp="0.25"/>nm and have decay components with lifetimes of 20 and 24<ce:hsp sp="0.25"/>ns for ≥67% of their light yields.</ce:para>
+                        <ce:para id="p0125" view="all">The yttrium and lutetium oxyiodides have optimal light yields at 1% doping. The X-ray excited emission spectra of these two materials are shown in <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(a) and (d). Both display doublet emission at 400–560<ce:hsp sp="0.25"/>nm with maxima at 430 and 480<ce:hsp sp="0.25"/>nm. The decay curves of YOI: Ce<ce:sup loc="post">3+</ce:sup> and LuOI: Ce<ce:sup loc="post">3+</ce:sup> are concentration dependent. At concentrations ≤2%, they exhibit exponential decays of 20–26<ce:hsp sp="0.25"/>ns for &gt;80% of their light. At 5% and 10% doping, components with lifetimes ranging from 4 to 17<ce:hsp sp="0.25"/>ns make larger contributions to the overall decay curve. These faster decays are accompanied by lower light yields. The scintillation decay curves of YOI: 1% Ce<ce:sup loc="post">3+</ce:sup> and LuOI: 1% Ce<ce:sup loc="post">3+</ce:sup> are included in <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(e) and (h).</ce:para>
+                        <ce:para id="p0130" view="all">Of the lanthanum oxyhalides, LaOI: 2% Ce<ce:sup loc="post">3+</ce:sup> exhibits the greatest light output. This trend was predicted by Chaudhry et al. <ce:cross-ref refid="bib32">[32]</ce:cross-ref>. It exhibits broad unresolved emission from 400 to 650<ce:hsp sp="0.25"/>nm with peak maximum at 470<ce:hsp sp="0.25"/>nm. Pulsed X-ray measurements of this material reveal an exponential decay component of 23<ce:hsp sp="0.25"/>ns for 86% of its scintillation light.</ce:para>
+                        <ce:para id="p0135" view="all">The GdOI: 2% Ce<ce:sup loc="post">3+</ce:sup> material displays the highest light yield of the cerium-doped gadolinium oxyiodides. It exhibits doublet emission at 400–560<ce:hsp sp="0.25"/>nm with maxima at 440 and 470<ce:hsp sp="0.25"/>nm and an exponential decay component of 23<ce:hsp sp="0.25"/>ns for 67% of its scintillation light.</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0070" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Discussion</ce:section-title>
+                  <ce:section id="s0075" view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title>Cerium-activated scintillation</ce:section-title>
+                     <ce:section id="s0080" view="all">
+                        <ce:label>4.1.1</ce:label>
+                        <ce:section-title>(Y)(Gd)OCl: Ce<ce:sup loc="post">3+</ce:sup>, REOBr: Ce<ce:sup loc="post">3+</ce:sup>, and REOI: Ce<ce:sup loc="post">3+</ce:sup>
+                        </ce:section-title>
+                        <ce:para id="p0140" view="all">The yttrium and gadolinium oxychlorides, and all the oxybromides and oxyiodides, exhibit characteristic cerium scintillation. As shown in <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(a–d), the emission peaks increase in wavelength going from Cl to I in each rare earth family. The oxychlorides emit as broad unresolved doublets with maxima at 380 and 400<ce:hsp sp="0.25"/>nm for YOCl: Ce<ce:sup loc="post">3+</ce:sup> and GdOCl: Ce<ce:sup loc="post">3+</ce:sup>, respectively. The oxybromides emit as doublets with peaks in the 400–445<ce:hsp sp="0.25"/>nm range. The oxyiodides emit as doublets with peaks in the 430–480<ce:hsp sp="0.25"/>nm range. The positions of the emission peaks are independent of cerium concentration except those of LaOBr: Ce<ce:sup loc="post">3+</ce:sup>. As the concentration of cerium increases from 0.5% to 10%, the peak maxima of LaOBr: Ce<ce:sup loc="post">3+</ce:sup> shifts from 420 to 430<ce:hsp sp="0.25"/>nm. Buchanan et al. <ce:cross-ref refid="bib13">[13]</ce:cross-ref> observed a broad emission peak with maximum of ∼450<ce:hsp sp="0.25"/>nm under electron beam irradiation for LaOBr: 1% Ce<ce:sup loc="post">3+</ce:sup>, and Blasse et al. <ce:cross-ref refid="bib12">[12]</ce:cross-ref> observed a maximum of 438<ce:hsp sp="0.25"/>nm under UV and cathode ray excitation for LaOBr: 1–2% Ce<ce:sup loc="post">3+</ce:sup>.</ce:para>
+                        <ce:para id="p0145" view="all">The decay curves of the cerium-activated scintillators are presented in <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>(e–h). Each material exhibits characteristic cerium decays of 20–30<ce:hsp sp="0.25"/>ns. Several of the cerium-doped REOX materials also display major decay components (&gt;10% of the curve) in the range of 45–95<ce:hsp sp="0.25"/>ns. Using room temperature pulsed X-ray measurements, we attempt to explain the origins of these decays.</ce:para>
+                        <ce:para id="p0150" view="all">The GdOCl: Ce<ce:sup loc="post">3+</ce:sup> and GdOBr: Ce<ce:sup loc="post">3+</ce:sup> materials display slow rise times and decay components at each concentration of cerium. These features are common in cerium-doped gadolinium materials and originate from the transfer of Gd<ce:sup loc="post">3+</ce:sup> luminescence to Ce<ce:sup loc="post">3+</ce:sup> centers <ce:cross-refs refid="bib33 bib34">[33,34]</ce:cross-refs>. The YOBr: Ce<ce:sup loc="post">3+</ce:sup> and LuOBr: Ce<ce:sup loc="post">3+</ce:sup> materials display reduced intensities in their high energy peaks and slower decay components. These features suggest reabsorption processes similar to those reported in CeBr<ce:inf loc="post">3</ce:inf> and BaF<ce:inf loc="post">2</ce:inf>: Ce<ce:sup loc="post">3+</ce:sup> 
+                           <ce:cross-refs refid="bib35 bib36">[35,36]</ce:cross-refs>. For all samples shown in <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>, there are additional slow components (lifetimes&gt;95<ce:hsp sp="0.25"/>ns) in the decay curves that could be the result of delayed energy transfer to cerium.</ce:para>
+                        <ce:para id="p0155" view="all">Abnormally fast, exponential decays (lifetimes&lt;20<ce:hsp sp="0.25"/>ns) are observed in cerium-doped LaOBr, YOI, and LuOI. The LaOBr: Ce<ce:sup loc="post">3+</ce:sup> materials exhibit decays of 1, 4, and 13<ce:hsp sp="0.25"/>ns for all cerium concentrations studied. These decays could be the result of thermally induced quenching mechanisms at room temperature. Such quenching has been observed in LaI<ce:inf loc="post">3</ce:inf>: Ce <ce:cross-ref refid="bib2">[2]</ce:cross-ref> and has been attributed to cerium 5d levels close to the conduction band of the host. The fast decay times observed at high concentrations in cerium-doped YOI, and LuOI are accompanied by decreased light yields. This indicates quenching of the luminescence due to increased Ce<ce:sup loc="post">3+</ce:sup>–Ce<ce:sup loc="post">3+</ce:sup> interactions <ce:cross-ref refid="bib37">[37]</ce:cross-ref>, i.e., concentration quenching.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0085" view="all">
+                        <ce:label>4.1.2</ce:label>
+                        <ce:section-title>LaOCl: Ce<ce:sup loc="post">3+</ce:sup>
+                        </ce:section-title>
+                        <ce:para id="p0160" view="all">Room temperature photoluminescence spectra of the LaOCl: Ce<ce:sup loc="post">3+</ce:sup> materials show two cerium 5d excitation peaks at 280 and 315<ce:hsp sp="0.25"/>nm and a 415<ce:hsp sp="0.25"/>nm emission peak; on the other hand, under X-rays, a 420<ce:hsp sp="0.25"/>nm broad emission peak with underlying emission up to 750<ce:hsp sp="0.25"/>nm is observed. The excitation and emission spectra indicate that LaOCl is activated by cerium, and a decay component of 17<ce:hsp sp="0.25"/>ns is observed in the scintillation decay. However, the overall decay curve is non-exponential and has major decay components ≥100<ce:hsp sp="0.25"/>ns for each LaOCl: Ce<ce:sup loc="post">3+</ce:sup> material. Likewise, under electron beam irradiation, Buchanan et al. <ce:cross-ref refid="bib13">[13]</ce:cross-ref> observed a decay time of 100<ce:hsp sp="0.25"/>ns for LaOCl: 1% Ce<ce:sup loc="post">3+</ce:sup>. The slow scintillation observed by us and Buchanan could be linked to the underlying emission at 500–750<ce:hsp sp="0.25"/>nm noted in our X-ray excited emission spectra. An emission peak maximum of 360<ce:hsp sp="0.25"/>nm was observed for LaOCl: Ce<ce:sup loc="post">3+</ce:sup> by Blasse and Bril <ce:cross-ref refid="bib12">[12]</ce:cross-ref> under UV and cathode ray excitation. However, we suggest this emission matches that of LaCl<ce:inf loc="post">3</ce:inf>: Ce<ce:sup loc="post">3+</ce:sup>, an easily made by-product.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0090" view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title>Non-cerium scintillation</ce:section-title>
+                     <ce:section id="s0095" view="all">
+                        <ce:label>4.2.1</ce:label>
+                        <ce:section-title>REOF: Ce<ce:sup loc="post">3+</ce:sup>
+                        </ce:section-title>
+                        <ce:para id="p0165" view="all">The X-ray excited emission and decay curves of the oxyfluorides are not consistent with cerium signature emission. This can be explained by the large band gaps expected for these materials. First-principle calculations reveal large Ce<ce:sup loc="post">3+</ce:sup> 4f-valence band gaps for YOF: Ce<ce:sup loc="post">3+</ce:sup> and LaOF: Ce<ce:sup loc="post">3+</ce:sup>. These gaps reduce the probability of cerium to trap holes, thereby decreasing the probability of cerium scintillation <ce:cross-ref refid="bib32">[32]</ce:cross-ref>. As a result, the luminescence observed under X-rays could be attributed to intrinsic luminescence from the host instead of cerium. This may also explain the non-cerium scintillation of GdOF: Ce<ce:sup loc="post">3+</ce:sup> and LuOF: Ce<ce:sup loc="post">3+</ce:sup>.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0100" view="all">
+                        <ce:label>4.2.2</ce:label>
+                        <ce:section-title>LuOCl: Ce<ce:sup loc="post">3+</ce:sup>
+                        </ce:section-title>
+                        <ce:para id="p0170" view="all">The LuOCl: Ce<ce:sup loc="post">3+</ce:sup> materials do not demonstrate cerium characteristic emission under X-rays. It is unclear from room temperature optical excitation and emission measurements whether LuOCl is activated by cerium. LuOCl: Ce<ce:sup loc="post">3+</ce:sup> emission under UV and X-ray excitation has low yield and is similar to emission observed from undoped LuOCl. This emission could be attributed to intrinsic processes from the host that were not further explored in this study.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0105" view="all">
+                     <ce:label>4.3</ce:label>
+                     <ce:section-title>Structural influences</ce:section-title>
+                     <ce:para id="p0175" view="all">These REOX compounds crystallize into one of three structure types. The oxychlorides, oxybromides, and oxyiodides of yttrium, lanthanum, and gadolinium, as well as lutetium oxybromide and oxyiodide, have two-dimensional layered tetragonal structures (space group P4/nmm, PbFCl type) <ce:cross-refs refid="bib20 bib9">[20,9]</ce:cross-refs>. The yttrium, lanthanum, and gadolinium oxyfluorides and the lutetium oxychloride crystallizes in the same three-dimensional rhombohedral structure (space group R-3m) <ce:cross-refs refid="bib21 bib22 bib23 bib27">[21,22,23,27]</ce:cross-refs>. Lastly, the lutetium oxyfluoride crystallizes three-dimensionally in the monoclinic space group P2<ce:inf loc="post">1</ce:inf>/c <ce:cross-ref refid="bib24">[24]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0180" view="all">Previous studies of the structural influences on luminescence suggest that the delocalization of the excited electrons in three-dimensionally coupled d-orbitals accounts for the quenching of photoluminescence in many phosphors <ce:cross-refs refid="bib38 bib39">[38,39]</ce:cross-refs>. The more isolated the excited state structure, the less likely the excited electron will find quenching centers; therefore, luminescence has a better chance of occurring in compounds with less dimensionality.</ce:para>
+                     <ce:para id="p0185" view="all">In our study of the REOX compounds, we found that the oxyhalides that crystallize in the two-dimensional tetragonal structure are activated by trivalent cerium and show fast scintillation. One exception is LaOCl: Ce<ce:sup loc="post">3+</ce:sup>, whose overall scintillation is abnormally slow, possibly due to competing emission. The oxyfluoride and LuOCl materials have three-dimensional structures, which could contribute to their lack of fast, exponential decays, and efficient cerium luminescence upon doping. In particular, Rabatin <ce:cross-ref refid="bib14">[14]</ce:cross-ref> also observed “different” emission in LuOCl: Ce<ce:sup loc="post">3+</ce:sup> relative to LuOBr: Ce<ce:sup loc="post">3+</ce:sup> and attributed it to structural dissimilarities.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0110" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para id="p0190" view="all">The room temperature scintillation properties were obtained of cerium-doped rare earth oxyhalides following the formula REOX (RE=Y, La, Gd, and Lu; X=F, Cl, Br, and I). Of these materials, YOCl: Ce<ce:sup loc="post">3+</ce:sup>, GdOCl: Ce<ce:sup loc="post">3+</ce:sup>, and all the oxybromides and oxyiodides show typical cerium-activated characteristics in their scintillation light. Of these materials, three stand out as displaying attractive combinations of densities (5–7<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup>), <ce:italic>Z</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>eff</ce:italic>
+                     </ce:inf> (36–54), and moderate light yields: YOBr: 1% Ce<ce:sup loc="post">3+</ce:sup>, LaOI: 2% Ce<ce:sup loc="post">3+</ce:sup>, and GdOBr: 0.5% Ce<ce:sup loc="post">3+</ce:sup>. They also display cerium exponential decays of 27, 24, and 30<ce:hsp sp="0.25"/>ns, respectively. Unfortunately, these materials may be difficult to grow as large crystals since they have layered structures.</ce:para>
+                  <ce:para id="p0195" view="all">In addition, the rare earth oxychlorides and oxybromides were found to be less hygroscopic than their rare earth halide counterparts. This indicates that not only can oxyhalides be efficient cerium-activated hosts, they may also be more stable than their corresponding halides. Furthermore, we observed that the cerium activation of these rare earth oxyhalides may be linked to the structural dimensionality of the host.</ce:para>
+               </ce:section>
+               <ce:section id="s0115" view="all">
+                  <ce:section-title>Disclaimer</ce:section-title>
+                  <ce:para id="p0200" view="all">This document was prepared as an account of work sponsored by the United States Government. While this document is believed to contain correct information, neither the United States Government nor any agency thereof, nor The Regents of the University of California, nor any of their employees, makes any warranty, express or implied, or assumes any legal responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights. Reference herein to any specific commercial product, process, or service by its trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof, or The Regents of the University of California. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof or The Regents of the University of California.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgments</ce:section-title>
+               <ce:para id="p0210" view="all">The authors would like to thank Marvin Weber for his invaluable input in the writing of this manuscript and all the members of the Department of Radiotracer Development and Imaging Technology at LBNL. In addition, we want to thank Matthias Klintenberg for his suggestions to investigate several of these materials. This work was supported by the US Department of Homeland Security and was carried out at the <ce:grant-sponsor xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" id="Gs1" xlink:type="simple">Lawrence Berkeley National Laboratory under US Department</ce:grant-sponsor> of Energy Contract no. <ce:grant-number refid="Gs1">DE-AC02-05CH11231.</ce:grant-number>
+               </ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bb0005">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Derenzo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Bourret-Courchesne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Klintenberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instrum. Methods A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>505</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>111</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bessiere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dorenbos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.E.</ce:given-name>
+                                 <ce:surname>Van Eijk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kramer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Gudel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>de Mello Donega</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Meijerink</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instrum. Methods A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>537</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>22</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Guillot-Noel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.M.</ce:given-name>
+                                 <ce:surname>de Haas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dorenbos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.E.</ce:given-name>
+                                 <ce:surname>van Eijk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kramer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Gudel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Lumin.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Moses</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Derenzo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instrum. Methods A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>299</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>51</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.V.D.</ce:given-name>
+                                 <ce:surname>van Loef</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dorenbos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.E.</ce:given-name>
+                                 <ce:surname>van Eijk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kramer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Gudel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1573</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.V.D.</ce:given-name>
+                                 <ce:surname>Van Loef</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dorenbos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.E.</ce:given-name>
+                                 <ce:surname>Van Eijk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kramer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Gudel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instrum. Methods A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>486</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>254</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Wojtowicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Balcerzyk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Berman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lempicki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14880</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Shah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Glodo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Klugerman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Higgins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Moses</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Derenzo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dorenbos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Nucl. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2302</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.V.D.</ce:given-name>
+                                 <ce:surname>Van Loef</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dorenbos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.E.</ce:given-name>
+                                 <ce:surname>Van Eijk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kramer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.U.</ce:given-name>
+                                 <ce:surname>Gudel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instrum. Methods A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>496</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>138</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Menge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gautier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Iltis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Rozsa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Solovyev</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instrum. Methods A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>579</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.M. d.</ce:given-name>
+                                 <ce:surname>Haas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dorenbos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Nucl. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1086</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Blasse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bril</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1967</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5139</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R.A. Buchanan, T.G. Maple, A.F. Sklensky, I. Lockheed, Missiles &amp; Space Company, US Patent No. 4,297,584: Lockheed Missiles &amp; Space Company, Inc., 1981, pp. 65–80.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rabatin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>129</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1552</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Starick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Golovkova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Gurvic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Lumin.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40-41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>199</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Holsa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lahtinen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lastusaari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Valkonen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Viljanen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>165</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>48</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Saito</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>160</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>469</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Derenzo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Boswell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Bourret-Courchesne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Boutchko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Budinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Canning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Hanrahan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Janecek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Porter-Chapman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Powell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Ramsey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.-W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Nucl. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1458</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Derenzo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Moses</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dujardin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Nucl. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>860</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>PDF4+Powder Diffraction File, Newton Square, PA, USA: International Centre for Diffraction Data, 2007.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Mann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.M.</ce:given-name>
+                                 <ce:surname>Bevan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Crystallogr. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1970</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2129</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Zachariasen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Crystallogr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1951</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>231</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S. Kirik, L. Solovyov, G. Korolev, Inst. of Chemistry, Academy of Sciences, Krasnoyarsk, Russia, ICDD Grant-in-Aid, 1997.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Taoudi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Laval</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Frit</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1137</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Zachariasen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Crystallogr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1949</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>388</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.G.</ce:given-name>
+                                 <ce:surname>Sillen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Nylander</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sven. Kem. Tidskr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1941</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>367</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brixner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Lumin.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Limburg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hoelsae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Porcher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Herzog</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Starick</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wulff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>404</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S. Putilin, E. Antipov, Moscow State Univ. Russia. ICDD Grant-in-Aid, 1995.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>G. Meyer, Institut fur Anorganische Chemie, Universitat Hannover, Hannover, Germany. ICDD Grant-in-Aid, 1990.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Shannon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Cryst.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>751</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chaudhry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Canning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Boutchko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Porter-Chapman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bourret-Courchsne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Derenzo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Nucl. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>949</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Tombrello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Melcher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Peterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Schweitzer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instrum. Methods A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>346</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>510</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Porter-Chapman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.D.</ce:given-name>
+                                 <ce:surname>Bourret-Courchesne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bizarri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Weber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Derenzo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Nucl. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>881</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Drozdowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dorenbos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.J.</ce:given-name>
+                                 <ce:surname>Bos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bizarri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Owens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.G.A.</ce:given-name>
+                                 <ce:surname>Quarati</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Nucl. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1391</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Drozdowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Wojtowicz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucl. Instrum. Methods A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>486</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>412</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lecoq</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Annenkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gektin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Korzhik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Pedrini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Inorganic Scintillators for Detector Systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2006</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer-Verkag Berlin Heidelberg</sb:name>
+                                 <sb:location>New York City, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>94</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib38">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Blasse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>79</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib39">
+                     <ce:label>[39]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Srivastava</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Ackerman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>134</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>187</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

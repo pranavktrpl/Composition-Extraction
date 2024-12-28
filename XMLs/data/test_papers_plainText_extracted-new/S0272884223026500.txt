@@ -1,0 +1,1258 @@
+Title:
+Thermal diffused post-selenization for enhancing the photovoltaic performance of thermally evaporated Sb
+
+Abstract:
+Sb2Se3 is a promising absorber material for photovoltaic applications owing to its suitable bandgap and high absorption coefficient. However, the initial deposition of the precursor Sb2Se3 thin films using thermal evaporation with an annealing process, results in poor crystallinity and inadequate Se content, leading to significantly low device efficiency and some deep-level detrimental defects. To address these issues, herein, we propose a facile thermal diffusion post-selenization method to supplement Se into post-deposited Sb2Se3 thin films. This process not only achieves stoichiometric composition but also improves the crystallinity of the samples, thereby reducing defect density and carrier recombination. As a result, the efficiency of the fabricated Mo/Sb2Se3/CdS/ITO/Ag solar cell is significantly enhanced from 0.66% to 3.29%.
+
+Keywords:
+Sb2Se3
+Solar cell
+Thermal diffusion post-selenization
+Photovoltaic performance
+
+Acknowledgements:
+This work was supported by the National Natural Science Foundation of China (No. 62274112), Guangdong Basic and Applied Basic Research Foundation (2022A1515010929), and Science and Technology plan project of Shenzhen (JCYJ20220531103601003).
+
+Introduction:
+The need for renewable energy sources is expanding as energy and environmental issues become more critical. As a new renewable and clean energy source, it is of great significance how solar energy can be efficiently harvested [1]. Photovoltaic (PV) technology is considered as a reliable and promising technique to meet the current energy demands [2,3]. Due to their advantages of low material use, low energy consumption, and high power generation efficiency, thin film solar cells have been significantly investigated over the previous few decades [4–6]. Compound-based thin film solar cells such as perovskite, copper indium gallium sulfo selenide (Cu(In,Ga)(S,Se)2), and cadmium telluride (CdTe) were favored due to their low preparation energy consumption, better absorption efficiency, and their progressive PCE of up to 23% [7–9]. However, perovskite contain toxic lead elements, which may be harmful to the environment and human health, and instability due to susceptibility to decomposition [19,34]. Wide range of application of copper indium gallium sulfo selenide limited by the lack and expensiveness of In and Ga. In addition, the difficulty of the synthesis has been increased by the unique quadruple component. As a simple binary component compound, the application of CdTe solar cell has been restricted by its toxicity [10–12]. Thus, low-cost and non-toxic photovoltaic materials with simple chemical structure are urgently required.
+Antimony selenide (Sb2Se3) is considered as a promising absorber material for photovoltaic applications. Sb2Se3 possesses a proper bandgap (1.0–1.2eV) which approaches the ideal Shockley-Queisser value. It also possesses a high absorption coefficient (>10−5 cm−1 at visible wavelength), decent carrier mobility (1–10 cm2V−1s−1), and long carrier lifetimes (∼60ns) to effectively suppress charge recombination [13–17]. Moreover, Sb2Se3 consists of low-cost and non-toxic Sb and Se elements with some advantages, such as low melting point (885K) and large saturated vapor pressure, which enables easy vacuum processing [18,19]. Furthermore, Sb2Se3 has a unique one-dimensional crystal structure with only one stable orthorhombic crystallographic phase. The Sb2Se3 crystal is formed by stacking (Sb4Se6)n unit-ribbons with the (001) direction through strong covalent Sb–Se bonds, which means that the vertically oriented Sb2Se3 thin films have a facile carrier transport which can also inhibits the formation of inert grain boundaries. Whereas in the (100) and (010) directions the (Sb4Se6)n ribbons are held together by van der Waals forces. Particularly, the carriers transport between adjacent [Sb4Se6]n chains by the way of hopping, which may lead to low carrier mobility. Therefore, growth along the (hkl) direction is more favorable for carrier transport whereas in the (hk0) direction the electron transfer is restricted [13,20]. Theoretically, a single-junction Sb2Se3 solar is expected to deliver a power conversion efficiency (ŋ) of ca. 33% [14]. Sb2Se3 thin films solar cells have drawn more researchers’ attention owing to their attractive material features and booming device performance. The PCE of Sb2Se3 thin film solar cells was achieved 10.57% by using chemical bath deposition (CBD) method [21], but the result still far away from its theoretical maximum value. This is attributed to its intrinsic low carrier density (∼10−13 cm−3), and severe recombination of photogenerated carriers at the bulk and heterojunction interface [22].
+Vacuum-based film deposition such as thermal evaporation is an effective and versatile process, usually includes two processes: evaporation of raw materials and condensation on the substrates [23]. Kumar et al. used co-evaporation of Sb2Se3 with Se and post-deposition annealing of Se films to inhibit deep energy level defects formed by Se deletion [24]. Benefit from the low melting point, high vapor pressure, and pure source powder, a high-quality Sb2Se3 film free from external elements introduced defects can be easily fabricated. However, the Se element is at high risk of escaping during thermal evaporation, and high temperature annealing process. This Se-deficiency (Sevac) leads to deep-donor levels in the bandgap which may instigate carrier recombination centers [25,26]. To passivate these deep energy level defects, the Sb2Se3 thin film would undergo a post-selenization process. Post-selenization is necessary to enhance the device's performance by boosting its Voc [17], but the volatile instability of selenium throughout the process reduces the reproducibility of the manufactured films.
+In this study, we introduced a novel post-selenization method to address the issue of instability by utilizing a thermal diffusion process. We also successfully demonstrated the feasibility and effectiveness of the thermal diffusion process in synthesizing Sb2Se3 thin films. During the post-selenization process, the Se film uniformly contacts the surface of the Sb2Se3 film, promoting a better performance in thermal diffusion. Simultaneously, the increase in temperature facilitates the self-assembly of the precursor film, resulting in the formation of a highly crystalized film. To evaluate the performance of our approach, we applied the Mo/Sb2Se3/CdS/ITO/Ag substrate structure for our Sb2Se3 solar cells. The total area of the device was 4 cm2 and the device was divided into 20 square active areas of the same size, each active area is of 0.11 cm2. Notably, we achieved a power conversion efficiency (PCE) of 3.29% for our devices. This outcome highlights the potential of our post-selenization method in enhancing the performance of Sb2Se3 solar cell.
+
+Experimental section:
+Thin Films: Sb2Se3 powder (5 N, Jiangxi Ke Tai Advanced Material Co., Ltd), Se powder (3 N, Aladdin). Sb2Se3 deposition: The Sb2Se3 thin films was deposited on Mo substrate by thermal evaporation. The Mo-coated soda lime glass was selected as device substrate, which was ultrasonically cleaned in sequential detergent, acetone, iso-propanol, and ethanol solution for 10 min prior to evaporation. The deposition chamber was evacuated under 5 × 10−5 Torr pressure. Evaporation current was fixed at 150A and 1.2 μm amorphous Sb2Se3 thin film was achieved after 15 min of evaporation. Subsequently, amorphous thin films were annealed under an oxygen-free atmosphere. Due to the absence of the selenium component during the annealing process, the thin films were subjected to post-selenization process under different temperatures. The details of the annealing and post-selenization process will be discussed in the lateral part of the manuscript.
+Device Fabrication: After obtaining a series of Sb2Se3 films, cadmium sulfide (CdS) buffer layer was deposited onto the absorber layer by chemical bath deposition. The mixture solution is composited by cadmium sulfate (0.015 M), thiourea (0.75 M), NH3OH aqueous solution, and deionized water. Afterward, the Sb2Se3 films were vertically dipped in the solution at 353K with continuous stirring for at least 9mins. Immediately after, the Sb2Se3/CdS heterojunction was heated at 598K in a vacuum tubular furnace for 5 min. Indium tin oxide (ITO) window layer was deposited by the magnetron sputtering. Finally, the device surface was divided into 20 small cells of equal size and the Ag electrodes were deposited by thermal evaporation onto the ITO thin film.
+Characterization: the surface morphology of Sb2Se3 thin films was studied through scanning electron microscopy (SEM, Zeiss SUPRA 55). The crystal information of the films was studied using X-ray diffraction (XRD, Ultima-iv, CuKα radiation under operation conditions of 40 kV and 40 mA from 10° to 60°). Chemical composition of the films was analyzed with an energy dispersive X-ray spectrometer (EDS, Bruker Quuantax 200) equipped with the SEM. Light reflectance measurements were performed using Shimadzu UV-3600 UV/Vis/NIR spectrophotometer with a monochromator. The current density voltage (J-V) characteristics of thin film solar cells were measured using a multimeter (Keithley 2400 Series) under AM 1.5G light irradiation with a light intensity calibration of 100 mW/cm2; the dark current density-voltage (ID-V) characteristics of the thin films, inside an opaque box, were measured using the same instrument as of J-V measurement. The power conversion efficiency (PCE) of the films were measured using cyclic voltammetry and chronoamperometry under AM 1.5G light. The external quantum efficiency (EQE) spectra were plotted using a Zolix SCS101 system and a Keithley 2400 source meter. Capacitance-voltage (C–V) and drive-level capacitance analysis (DLCP) measurements at 30 mV AC and 10 kHz using a Keithley 4200A-SCS system and JANIS cryogenic platform.
+
+Result and discussion:
+To understand the effect of our novel selenization strategy, Sb2Se3 films were prepared in two distinct steps. The entire preparation process is depicted in the schematic diagram Fig. 1
+                     (a–e). Firstly, the amorphous thin films were annealed under an oxygen-free and standard atmospheric pressure at 683K, 693K, 703K, 713K, and 723K for 20mins, which are labeled as A1, A2, A3, A4, and A5, respectively. The EDS analysis in Table S1 (supporting information) confirms that these Sb2Se3 films suffer with Se-loss. Thus, the synthesized samples are probably suffered from severe Sevac detrimental defects [25]. Prior to the post-selenization process, the Se thin film was deposited by thermal evaporation on the glass substrate with a thickness of 1 μm. All the annealing samples were subjected to a post-selenization process at 713K for 20mins and renamed as P1, P2, P3, P4, and P5, respectively. Se film and Sb2Se3 film were lightly touched together, while a Cu holder was placed underneath the Mo substrate. Finally, the whole specimen was wrapped and fixed by high-temperature-resistant adhesive tapes, and then placed on a heater for post-selenization process. The whole thin film arrangement of the selenization process is portrayed in Fig. 1 (b). In this condition, the Se monolithic film thermally diffuses into the Sb2Se3 film after reaching a suitable temperature due to the increase in temperature and comparatively high vapor pressure due to minimal space between the source and substrate. Thus, the Sb2Se3 thin film grains undergone a re-growth process. The thin films annealed at lower temperature (A1, A2, A3, and A4) almost got an ideal stoichiometric ratio upon diffused post-selenization, while the one post-selenized at high temperature (A5) still appeared to be Sb-rich, as shown in Table S1. It is assumed that as sample A5 was initially post-annealed at the highest temperature thus it suffered with the highest Se loss. Though our optimized diffused selenization strategy could suppress Se deficits to a huge extend even for P5, but not as good as P4. The details of annealing, selenization condition, and its impact on the Sb/Se ration variation is summarized in Table 1
+                     .
+From Fig. S1 (supporting information), the surface grains of the films grow from flattened to full-bodied small grains as the annealing temperature increases. Fig. 2
+                     (a–f) exhibits SEM top view images of the Sb2Se3 films from the single annealing process (control film A4) and the post-selenization process. It is obvious that an incomplete grain development was caused by the single annealing procedure. Grain growth significantly improved on all films that had undergone a post-selenization treatment. Likewise, for the sample A4, smaller grains as well as some regions with fuzzy grain boundaries and irregular grain growth were noted. On the other hand, crystal grain size was substantially greater after diffused post-selenization (sample P4), and the grain boundaries became more distinct. Furthermore, as the annealing temperature upsurges, the grains of the post-selenization films become fuller. This implies that the annealing pre-crystallization step is also crucial prior to post-selenisation. Fig. 2(g) shows the XRD patterns of the corresponding samples. Films P1–P5 showed clear peaks, consistent with those shown on the JCPDS standard cards (No. 15–0861). However, the absence of elemental Se during the annealing process resulted in the appearance of Sb impurity peak in the A4 sample. The XRD patterns clearly indicate that the films subjected to the diffused post-selenization process exhibited enhanced crystallographic orientation along the (hkl) planes, while the orientation along the (020) direction was notably suppressed. Notably, in the P4 thin film, the (020) orientation was maximally inhibited. The shift in peak intensity can be attributed to the increase of grain size due to the addition of elemental Se during post-selenization. More details can be obtained from Fig. S3 (supporting information). The variation in the grain orientation of the thin film can be further confirmed by the texture coefficient (TC) in Fig. S2 (Supporting Information), which can be calculated by Equation (1) [27]:
+                        
+                           (1)
+                           
+                              
+                                 T
+                                 
+                                    (
+                                    
+                                       h
+                                       k
+                                       l
+                                    
+                                    )
+                                 
+                                 =
+                                 
+                                    
+                                       I
+                                       
+                                          (
+                                          
+                                             h
+                                             k
+                                             l
+                                          
+                                          )
+                                       
+                                    
+                                    
+                                       I
+                                       
+                                          0
+                                          
+                                             (
+                                             
+                                                h
+                                                k
+                                                l
+                                             
+                                             )
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       [
+                                       
+                                          
+                                             1
+                                             N
+                                          
+                                          
+                                             
+                                                ∑
+                                                
+                                                   i
+                                                   =
+                                                   1
+                                                
+                                                N
+                                             
+                                             
+                                                
+                                                   I
+                                                   
+                                                      (
+                                                      
+                                                         
+                                                            h
+                                                            i
+                                                         
+                                                         
+                                                            k
+                                                            i
+                                                         
+                                                         
+                                                            l
+                                                            i
+                                                         
+                                                      
+                                                      )
+                                                   
+                                                
+                                                
+                                                   I
+                                                   
+                                                      0
+                                                      
+                                                         (
+                                                         
+                                                            
+                                                               h
+                                                               i
+                                                            
+                                                            
+                                                               k
+                                                               i
+                                                            
+                                                            
+                                                               l
+                                                               i
+                                                            
+                                                         
+                                                         )
+                                                      
+                                                   
+                                                
+                                             
+                                          
+                                       
+                                       ]
+                                    
+                                    
+                                       −
+                                       1
+                                    
+                                 
+                              
+                           
+                        
+                     where I(hkl) is the measured diffraction peak intensity of the (hkl) plane, I0(hkl) is the standard XRD peak intensity, and N is the number of reflections considered for calculations. With the introduction of the diffused post-selenization process, the value of TC is significantly suppressed in the (020) orientation of the sample. In particular, the sample P4 has the strongest suppression for the (020) orientation, which also coincides with the XRD pattern. Similarly, sample P4 was significantly enhanced for (211) orientation and (221) orientation. This observation is consistent with the SEM top-view photograph obtained. Actually, Sb2Se3 crystal grains growing in vertical direction on the substrate is beneficial for carrier transportation and reducing interface recombination. The reflectance spectra of Sb2Se3 films grown on glass substrates were measured in the range 300–1500 nm using a UV/Vis/NIR spectrophotometer. In Fig. 2(h), all of the samples shown a quite similar short wavelength cut-off edge of about 1000 nm. The difference between the thin films is attributed to the grain size and thin film surface roughness. The information of bandgap (Eg) was calculated by the formular (2) and (3):
+                        
+                           (2)
+                           
+                              
+                                 2
+                                 α
+                                 d
+                                 =
+                                 ln
+                                 
+                                    [
+                                    
+                                       
+                                          (
+                                          
+                                             
+                                                R
+                                                max
+                                             
+                                             −
+                                             
+                                                R
+                                                min
+                                             
+                                          
+                                          )
+                                       
+                                       /
+                                       
+                                          (
+                                          
+                                             R
+                                             −
+                                             
+                                                R
+                                                min
+                                             
+                                          
+                                          )
+                                       
+                                    
+                                    ]
+                                 
+                              
+                           
+                        
+                     
+                     
+                        
+                           (3)
+                           
+                              
+                                 α
+                                 h
+                                 ν
+                                 =
+                                 C
+                                 
+                                    
+                                       (
+                                       
+                                          h
+                                          ν
+                                          −
+                                          
+                                             E
+                                             g
+                                          
+                                       
+                                       )
+                                    
+                                    n
+                                 
+                              
+                           
+                        
+                     where α is the absorption coefficient, d is thickness, Rmax and Rmin is the maximum and minimum values of reflectance, C is a constant, h is the Planck's constant, v is the photon frequency, and n is an index defined by 0.5 for direct and 2.0 for indirect bandgap semiconductor [28,29]. The Sb2Se3 thin films have direct bandgap of 1.203, 1.209, 1.207, 1.240, 1.216 and 1.227 eV separately for P1, P2, P3, P4, P5, and A4, as shown in Fig. 2(i). Sample P4 is expected to exhibit good optical characteristics because it has an optical bandgap (Eg) of 1.240 eV, which is suitably matched to the theoretical band gap of Sb2Se3.
+All the prepared thin films including A1-A5 and P1–P5 were employed to fabricate into PV devices, and the specific parameters of the optimal devices are shown in Table S1. The Voc and Jsc of thin films that had undergone the post-selenization procedure had significantly improved. Additionally, the device made from P4 thin film reached 3.29%. Thus, we further compare the parameters of devices made from A4 and P4 films named as As-deposited and Post-selenized, respectively. Fig. 3
+                     (a–d) shows the critical performance parameters, including VOC, short-circuit current density (JSC), FF, and PCE, of the devices prepared from thin films A4 and P4.
+The J-V characteristics of the two devices were measured under the simulated AM1.5G solar irradiation (Fig. 3(e)). The Post-selenized device offered a Jsc of 26.3 mA/cm2, a Voc of 408 mV, and FF of 31.32%. Apparently, the Post-selenized device possessed superior parameters than As-deposited, accomplishing superior thin film quality and crystallinity. SEM and XRD results also indorse that device performance is closely related to the crystalline orientation, the degree of crystal grain fullness, the appropriate stoichiometric ratio, and the grain crystallinity. The external quantum efficiency (EQE) is shown in Fig. 3(f). Obviously, the Post-selenized device had comparatively a higher quantum response in the visible region (400–750 nm), which had a maximum EQE higher than 75%. This indicates that there was less recombination in the bulk film and at the Sb2Se3/CdS interface in the Post-selenized device. This can be attributed to the proper post-selenization process that not only passivated the bulk defects but improved the adhesion at the heterojunction interface. Moreover, the EQE spectra of the Post-selenized device had a similar broad optical response range from UV to NIR, which overlapped well with the narrow bandgap of Sb2Se3.
+The junction-dependent electrical behavior was thoroughly summarized in order to better examine the mechanisms of the enhanced Post-selenized device. Fig. 4
+                     (a) depicts the J-V curves for the two devices under dark condition.
+Shunt conductance (G), series resistance (R), diode ideality factor (A), and reverse saturation current density (J0) were calculated according to the general single exponential diode Equation (4) bellow [30]:
+                        
+                           (4)
+                           
+                              
+                                 J
+                                 =
+                                 
+                                    J
+                                    0
+                                 
+                                 
+                                 exp
+                                 
+                                    [
+                                    
+                                       
+                                          q
+                                          
+                                             A
+                                             k
+                                             T
+                                          
+                                       
+                                       
+                                          (
+                                          
+                                             V
+                                             −
+                                             R
+                                             J
+                                          
+                                          )
+                                       
+                                    
+                                    ]
+                                 
+                                 +
+                                 G
+                                 V
+                                 −
+                                 J
+                                 L
+Fig. 4(b) shows a direct plot of dJ/dV against V for both devices. The shunt conductance G for the Post-selenized and As-deposited devices, 9.7 × 10−2 mS/cm2 and 12.9 × 10−2 mS/cm2 were respectively obtained by extracting the flat region of the curve under reverse bias. The series resistance R and ideality factor A of the diode can be found by plotting dV/dJ against (J + Jsc)−1 and finding the intercept and slope AkT/q on the y-axis, where R is 38.83 Ω cm2 and 83.29 Ω cm2 for Post-selenized and As-deposited devices, respectively. Furthermore, the Post-selenized device exhibited a better ideality factor (3.01) then the As-deposited one (3.12). This indicates that the As-deposited device has more severe interfacial recombination, with inhomogeneous defect energy levels in the depletion region of the heterojunction interface. By plotting the ln(J + J
+                     
+                        SC
+                     
+                     -GV) against V-RJ, the reverse saturation current density (J
+                     
+                        0
+                     ) can be obtained and the resulted value of J0 for the Post-selenized and As-deposited devices are 4.2 × 10−4 mA/cm2 and 1 × 10−3 mA/cm2. In general, Post-selenized device had smaller shunt conductance G, smaller series resistance R and better ideality factor than As-deposited devices. This further demonstrates that the addition of post-selenization as a process enhances the quality of the device Sb2Se3/CdS heterojunction to some extent.
+To further investigate the mechanism behind enhanced junction quality and superior device performance, the heterojunction-dependent built-in voltage (V
+                     
+                        bi
+                     ) was obtained through C–V measurements. Fig. 5
+                     (a) shows the 1/C
+                     
+                        2
+                     
+                     –V curves, based on the following equation [31]:
+                        
+                           (5)
+                           
+                              
+                                 
+                                    1
+                                    
+                                       C
+                                       2
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       
+                                          (
+                                          
+                                             
+                                                V
+                                                
+                                                   b
+                                                   i
+                                                
+                                             
+                                             −
+                                             V
+                                          
+                                          )
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             A
+                                             E
+                                          
+                                          2
+                                       
+                                       
+                                          ε
+                                          a
+                                       
+                                       q
+                                       
+                                          N
+                                          A
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     where A
+                     
+                        E
+                      is the electrode area, V
+                     
+                        bi
+                      is the heterojunction-dependent built-in voltage, V is the applied DC bias voltage and N
+                     
+                        A
+                      is the doping density, respectively. The value of V
+                     
+                        bi
+                      can be obtained from the x-intercept of the linear part of the curve in Fig. 5(a). Compared to As-deposited device, a higher Vbi of 561 mV was obtained for Post-selenized based device. In another word, the enhanced V
+                     
+                        bi
+                      could result in a V
+                     
+                        oc
+                      boost, which can be attribute to the increase in carrier density of the bulk absorption film to a large extent, according to the equation [32]:
+                        
+                           (6)
+                           
+                              
+                                 
+                                    V
+                                    
+                                       b
+                                       i
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       k
+                                       T
+                                    
+                                    q
+                                 
+                                 n
+                                 
+                                    (
+                                    
+                                       
+                                          
+                                             N
+                                             A
+                                          
+                                          
+                                             N
+                                             D
+                                          
+                                       
+                                       
+                                          
+                                             n
+                                             i
+                                          
+                                          2
+                                       
+                                    
+                                    )
+Capacitance-voltage (C–V) analysis characterization and deep-level capacitance performance (DLCP) analysis characterization were carried out to investigate the interface defects of the devices, as shown in Fig. 5(b).
+Typically, the C–V measured doping density (N
+                     
+                        C
+                     
+                     –
+                     
+                        V
+                     ) includes free carriers, bulk defects, and interface defects, while the DLCP measured doping density (N
+                     
+                        DLCP
+                     ) represents the response of free carriers and bulk defects only. In contrast, DLCP is less susceptible to interfacial defects than C–V, therefore interfacial defects are the main reason for the difference between C–V and DLCP [17]. Thus, the interface defect density of the device can be calculated by subtracting N
+                     
+                        DLCP
+                      from N
+                     
+                        C-V
+                     . Variation curve of N
+                     
+                        C-V
+                      and N
+                     
+                        DLCP
+                      with profile depth x can be expressed by the following equations [33]:
+                        
+                           (7)
+                           
+                              
+                                 {
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                N
+                                                
+                                                   C
+                                                   −
+                                                   V
+                                                
+                                             
+                                             =
+                                             
+                                                
+                                                   −
+                                                   2
+                                                   
+                                                      ε
+                                                      
+                                                         r
+                                                         ,
+                                                         n
+                                                      
+                                                   
+                                                   
+                                                      N
+                                                      D
+                                                   
+                                                
+                                                
+                                                   (
+                                                   
+                                                      
+                                                         
+                                                            d
+                                                            
+                                                               (
+                                                               
+                                                                  1
+                                                                  /
+                                                                  
+                                                                     C
+                                                                     2
+                                                                  
+                                                               
+                                                               )
+                                                            
+                                                         
+                                                         
+                                                            d
+                                                            V
+                                                         
+                                                      
+                                                      q
+                                                      
+                                                         A
+                                                         2
+                                                      
+                                                      
+                                                         ε
+                                                         0
+                                                      
+                                                      
+                                                         ε
+                                                         
+                                                            r
+                                                            ,
+                                                            n
+                                                         
+                                                      
+                                                      
+                                                         ε
+                                                         
+                                                            r
+                                                            ,
+                                                            p
+                                                         
+                                                      
+                                                      
+                                                         N
+                                                         D
+                                                      
+                                                      +
+                                                      2
+                                                      
+                                                         ε
+                                                         
+                                                            r
+                                                            ,
+                                                            p
+                                                         
+                                                      
+                                                   
+                                                   )
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                N
+                                                
+                                                   D
+                                                   L
+                                                   C
+                                                   P
+                                                
+                                             
+                                             =
+                                             −
+                                             
+                                                
+                                                   C
+                                                   0
+                                                   3
+                                                
+                                                
+                                                   2
+                                                   q
+                                                   
+                                                      ε
+                                                      0
+                                                   
+                                                   
+                                                      ε
+                                                      
+                                                         r
+                                                         ,
+                                                         p
+                                                      
+                                                   
+                                                   
+                                                      A
+                                                      2
+                                                   
+                                                   
+                                                      C
+                                                      1
+                                                   
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             x
+                                             =
+                                             
+                                                ε
+                                                0
+                                             
+                                             
+                                                ε
+                                                
+                                                   r
+                                                   ,
+                                                   p
+                                                
+                                             
+                                             A
+                                             /
+                                             
+                                                C
+                                                0
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     where ND is the carrier concentration of CdS; A is the device area; and ε
+                     0, εr,n and εr,p respectively represent the permittivity of free space and the relative permittivity of CdS and Sb2Se3; C0 and C1 are two quadratic fit parameters derived from the C–V curves. In comparison, the Post-selenized device had a smaller gap between NC-V and NDLCP than the As-deposited device, which means a low defect density and less recombination loss at the Sb2Se3/CdS heterojunction interface for Post-selenized device. Moreover, the Post-selenized device possesses a large depletion width, which can benifits the light absorption and carrier extraction capabilities. Based on our systematic investigation, the diffused Post-selenized Sb2Se3-based device exhibited lower defect concentration, superior junction quality, and lower reverse saturation current, which significantly held a positive impact on the Sb2Se3-based solar cell performance.
+
+Conclusion:
+In this study, we successfully implemented a diffused post-selenization strategy as a post-annealing method, resulting in a precursor film with complete grain growth, superior crystallinity, and an absorber layer film with a stoichiometric composition, thereby reducing defect density and minimizing carrier recombination. To evaluate the effectiveness of our approach, we fabricated Sb2Se3 thin-film solar cells with a substrate structure of Mo/Sb2Se3/CdS/ITO/Ag. The optimized device exhibited an open-circuit voltage of 400 mV, the short-circuit current density of 26 mA/cm2, and power conversion efficiency of 3.29%. These improvements were also accompanied by enhancements in electrical properties and a reduction in heterojunction defect density. Although the post-selenized device exhibited a power conversion efficiency (PCE) of 3.29%, it is worth noting that our study demonstrates the feasibility of enhancing the performance of Sb2Se3 thin film solar cells through post-selenization. This approach holds promise for further optimizing the efficiency and stability of Sb2Se3-based photovoltaic devices in future research and development efforts.
+
+Declaration of competing interest:
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Supplementary data:
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.ceramint.2023.09.024.
+
+Body:
+The need for renewable energy sources is expanding as energy and environmental issues become more critical. As a new renewable and clean energy source, it is of great significance how solar energy can be efficiently harvested [1]. Photovoltaic (PV) technology is considered as a reliable and promising technique to meet the current energy demands [2,3]. Due to their advantages of low material use, low energy consumption, and high power generation efficiency, thin film solar cells have been significantly investigated over the previous few decades [4–6]. Compound-based thin film solar cells such as perovskite, copper indium gallium sulfo selenide (Cu(In,Ga)(S,Se)2), and cadmium telluride (CdTe) were favored due to their low preparation energy consumption, better absorption efficiency, and their progressive PCE of up to 23% [7–9]. However, perovskite contain toxic lead elements, which may be harmful to the environment and human health, and instability due to susceptibility to decomposition [19,34]. Wide range of application of copper indium gallium sulfo selenide limited by the lack and expensiveness of In and Ga. In addition, the difficulty of the synthesis has been increased by the unique quadruple component. As a simple binary component compound, the application of CdTe solar cell has been restricted by its toxicity [10–12]. Thus, low-cost and non-toxic photovoltaic materials with simple chemical structure are urgently required.
+
+Antimony selenide (Sb2Se3) is considered as a promising absorber material for photovoltaic applications. Sb2Se3 possesses a proper bandgap (1.0–1.2eV) which approaches the ideal Shockley-Queisser value. It also possesses a high absorption coefficient (>10−5 cm−1 at visible wavelength), decent carrier mobility (1–10 cm2V−1s−1), and long carrier lifetimes (∼60ns) to effectively suppress charge recombination [13–17]. Moreover, Sb2Se3 consists of low-cost and non-toxic Sb and Se elements with some advantages, such as low melting point (885K) and large saturated vapor pressure, which enables easy vacuum processing [18,19]. Furthermore, Sb2Se3 has a unique one-dimensional crystal structure with only one stable orthorhombic crystallographic phase. The Sb2Se3 crystal is formed by stacking (Sb4Se6)n unit-ribbons with the (001) direction through strong covalent Sb–Se bonds, which means that the vertically oriented Sb2Se3 thin films have a facile carrier transport which can also inhibits the formation of inert grain boundaries. Whereas in the (100) and (010) directions the (Sb4Se6)n ribbons are held together by van der Waals forces. Particularly, the carriers transport between adjacent [Sb4Se6]n chains by the way of hopping, which may lead to low carrier mobility. Therefore, growth along the (hkl) direction is more favorable for carrier transport whereas in the (hk0) direction the electron transfer is restricted [13,20]. Theoretically, a single-junction Sb2Se3 solar is expected to deliver a power conversion efficiency (ŋ) of ca. 33% [14]. Sb2Se3 thin films solar cells have drawn more researchers’ attention owing to their attractive material features and booming device performance. The PCE of Sb2Se3 thin film solar cells was achieved 10.57% by using chemical bath deposition (CBD) method [21], but the result still far away from its theoretical maximum value. This is attributed to its intrinsic low carrier density (∼10−13 cm−3), and severe recombination of photogenerated carriers at the bulk and heterojunction interface [22].
+
+Vacuum-based film deposition such as thermal evaporation is an effective and versatile process, usually includes two processes: evaporation of raw materials and condensation on the substrates [23]. Kumar et al. used co-evaporation of Sb2Se3 with Se and post-deposition annealing of Se films to inhibit deep energy level defects formed by Se deletion [24]. Benefit from the low melting point, high vapor pressure, and pure source powder, a high-quality Sb2Se3 film free from external elements introduced defects can be easily fabricated. However, the Se element is at high risk of escaping during thermal evaporation, and high temperature annealing process. This Se-deficiency (Sevac) leads to deep-donor levels in the bandgap which may instigate carrier recombination centers [25,26]. To passivate these deep energy level defects, the Sb2Se3 thin film would undergo a post-selenization process. Post-selenization is necessary to enhance the device's performance by boosting its Voc [17], but the volatile instability of selenium throughout the process reduces the reproducibility of the manufactured films.
+
+In this study, we introduced a novel post-selenization method to address the issue of instability by utilizing a thermal diffusion process. We also successfully demonstrated the feasibility and effectiveness of the thermal diffusion process in synthesizing Sb2Se3 thin films. During the post-selenization process, the Se film uniformly contacts the surface of the Sb2Se3 film, promoting a better performance in thermal diffusion. Simultaneously, the increase in temperature facilitates the self-assembly of the precursor film, resulting in the formation of a highly crystalized film. To evaluate the performance of our approach, we applied the Mo/Sb2Se3/CdS/ITO/Ag substrate structure for our Sb2Se3 solar cells. The total area of the device was 4 cm2 and the device was divided into 20 square active areas of the same size, each active area is of 0.11 cm2. Notably, we achieved a power conversion efficiency (PCE) of 3.29% for our devices. This outcome highlights the potential of our post-selenization method in enhancing the performance of Sb2Se3 solar cell.
+
+Thin Films: Sb2Se3 powder (5 N, Jiangxi Ke Tai Advanced Material Co., Ltd), Se powder (3 N, Aladdin). Sb2Se3 deposition: The Sb2Se3 thin films was deposited on Mo substrate by thermal evaporation. The Mo-coated soda lime glass was selected as device substrate, which was ultrasonically cleaned in sequential detergent, acetone, iso-propanol, and ethanol solution for 10 min prior to evaporation. The deposition chamber was evacuated under 5 × 10−5 Torr pressure. Evaporation current was fixed at 150A and 1.2 μm amorphous Sb2Se3 thin film was achieved after 15 min of evaporation. Subsequently, amorphous thin films were annealed under an oxygen-free atmosphere. Due to the absence of the selenium component during the annealing process, the thin films were subjected to post-selenization process under different temperatures. The details of the annealing and post-selenization process will be discussed in the lateral part of the manuscript.
+
+Device Fabrication: After obtaining a series of Sb2Se3 films, cadmium sulfide (CdS) buffer layer was deposited onto the absorber layer by chemical bath deposition. The mixture solution is composited by cadmium sulfate (0.015 M), thiourea (0.75 M), NH3OH aqueous solution, and deionized water. Afterward, the Sb2Se3 films were vertically dipped in the solution at 353K with continuous stirring for at least 9mins. Immediately after, the Sb2Se3/CdS heterojunction was heated at 598K in a vacuum tubular furnace for 5 min. Indium tin oxide (ITO) window layer was deposited by the magnetron sputtering. Finally, the device surface was divided into 20 small cells of equal size and the Ag electrodes were deposited by thermal evaporation onto the ITO thin film.
+
+Characterization: the surface morphology of Sb2Se3 thin films was studied through scanning electron microscopy (SEM, Zeiss SUPRA 55). The crystal information of the films was studied using X-ray diffraction (XRD, Ultima-iv, CuKα radiation under operation conditions of 40 kV and 40 mA from 10° to 60°). Chemical composition of the films was analyzed with an energy dispersive X-ray spectrometer (EDS, Bruker Quuantax 200) equipped with the SEM. Light reflectance measurements were performed using Shimadzu UV-3600 UV/Vis/NIR spectrophotometer with a monochromator. The current density voltage (J-V) characteristics of thin film solar cells were measured using a multimeter (Keithley 2400 Series) under AM 1.5G light irradiation with a light intensity calibration of 100 mW/cm2; the dark current density-voltage (ID-V) characteristics of the thin films, inside an opaque box, were measured using the same instrument as of J-V measurement. The power conversion efficiency (PCE) of the films were measured using cyclic voltammetry and chronoamperometry under AM 1.5G light. The external quantum efficiency (EQE) spectra were plotted using a Zolix SCS101 system and a Keithley 2400 source meter. Capacitance-voltage (C–V) and drive-level capacitance analysis (DLCP) measurements at 30 mV AC and 10 kHz using a Keithley 4200A-SCS system and JANIS cryogenic platform.
+
+To understand the effect of our novel selenization strategy, Sb2Se3 films were prepared in two distinct steps. The entire preparation process is depicted in the schematic diagram Fig. 1
+                     (a–e). Firstly, the amorphous thin films were annealed under an oxygen-free and standard atmospheric pressure at 683K, 693K, 703K, 713K, and 723K for 20mins, which are labeled as A1, A2, A3, A4, and A5, respectively. The EDS analysis in Table S1 (supporting information) confirms that these Sb2Se3 films suffer with Se-loss. Thus, the synthesized samples are probably suffered from severe Sevac detrimental defects [25]. Prior to the post-selenization process, the Se thin film was deposited by thermal evaporation on the glass substrate with a thickness of 1 μm. All the annealing samples were subjected to a post-selenization process at 713K for 20mins and renamed as P1, P2, P3, P4, and P5, respectively. Se film and Sb2Se3 film were lightly touched together, while a Cu holder was placed underneath the Mo substrate. Finally, the whole specimen was wrapped and fixed by high-temperature-resistant adhesive tapes, and then placed on a heater for post-selenization process. The whole thin film arrangement of the selenization process is portrayed in Fig. 1 (b). In this condition, the Se monolithic film thermally diffuses into the Sb2Se3 film after reaching a suitable temperature due to the increase in temperature and comparatively high vapor pressure due to minimal space between the source and substrate. Thus, the Sb2Se3 thin film grains undergone a re-growth process. The thin films annealed at lower temperature (A1, A2, A3, and A4) almost got an ideal stoichiometric ratio upon diffused post-selenization, while the one post-selenized at high temperature (A5) still appeared to be Sb-rich, as shown in Table S1. It is assumed that as sample A5 was initially post-annealed at the highest temperature thus it suffered with the highest Se loss. Though our optimized diffused selenization strategy could suppress Se deficits to a huge extend even for P5, but not as good as P4. The details of annealing, selenization condition, and its impact on the Sb/Se ration variation is summarized in Table 1
+                     .
+
+From Fig. S1 (supporting information), the surface grains of the films grow from flattened to full-bodied small grains as the annealing temperature increases. Fig. 2
+                     (a–f) exhibits SEM top view images of the Sb2Se3 films from the single annealing process (control film A4) and the post-selenization process. It is obvious that an incomplete grain development was caused by the single annealing procedure. Grain growth significantly improved on all films that had undergone a post-selenization treatment. Likewise, for the sample A4, smaller grains as well as some regions with fuzzy grain boundaries and irregular grain growth were noted. On the other hand, crystal grain size was substantially greater after diffused post-selenization (sample P4), and the grain boundaries became more distinct. Furthermore, as the annealing temperature upsurges, the grains of the post-selenization films become fuller. This implies that the annealing pre-crystallization step is also crucial prior to post-selenisation. Fig. 2(g) shows the XRD patterns of the corresponding samples. Films P1–P5 showed clear peaks, consistent with those shown on the JCPDS standard cards (No. 15–0861). However, the absence of elemental Se during the annealing process resulted in the appearance of Sb impurity peak in the A4 sample. The XRD patterns clearly indicate that the films subjected to the diffused post-selenization process exhibited enhanced crystallographic orientation along the (hkl) planes, while the orientation along the (020) direction was notably suppressed. Notably, in the P4 thin film, the (020) orientation was maximally inhibited. The shift in peak intensity can be attributed to the increase of grain size due to the addition of elemental Se during post-selenization. More details can be obtained from Fig. S3 (supporting information). The variation in the grain orientation of the thin film can be further confirmed by the texture coefficient (TC) in Fig. S2 (Supporting Information), which can be calculated by Equation (1) [27]:
+                        
+                           (1)
+                           
+                              
+                                 T
+                                 
+                                    (
+                                    
+                                       h
+                                       k
+                                       l
+                                    
+                                    )
+                                 
+                                 =
+                                 
+                                    
+                                       I
+                                       
+                                          (
+                                          
+                                             h
+                                             k
+                                             l
+                                          
+                                          )
+                                       
+                                    
+                                    
+                                       I
+                                       
+                                          0
+                                          
+                                             (
+                                             
+                                                h
+                                                k
+                                                l
+                                             
+                                             )
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       [
+                                       
+                                          
+                                             1
+                                             N
+                                          
+                                          
+                                             
+                                                ∑
+                                                
+                                                   i
+                                                   =
+                                                   1
+                                                
+                                                N
+                                             
+                                             
+                                                
+                                                   I
+                                                   
+                                                      (
+                                                      
+                                                         
+                                                            h
+                                                            i
+                                                         
+                                                         
+                                                            k
+                                                            i
+                                                         
+                                                         
+                                                            l
+                                                            i
+                                                         
+                                                      
+                                                      )
+                                                   
+                                                
+                                                
+                                                   I
+                                                   
+                                                      0
+                                                      
+                                                         (
+                                                         
+                                                            
+                                                               h
+                                                               i
+                                                            
+                                                            
+                                                               k
+                                                               i
+                                                            
+                                                            
+                                                               l
+                                                               i
+                                                            
+                                                         
+                                                         )
+                                                      
+                                                   
+                                                
+                                             
+                                          
+                                       
+                                       ]
+                                    
+                                    
+                                       −
+                                       1
+                                    
+                                 
+                              
+                           
+                        
+                     where I(hkl) is the measured diffraction peak intensity of the (hkl) plane, I0(hkl) is the standard XRD peak intensity, and N is the number of reflections considered for calculations. With the introduction of the diffused post-selenization process, the value of TC is significantly suppressed in the (020) orientation of the sample. In particular, the sample P4 has the strongest suppression for the (020) orientation, which also coincides with the XRD pattern. Similarly, sample P4 was significantly enhanced for (211) orientation and (221) orientation. This observation is consistent with the SEM top-view photograph obtained. Actually, Sb2Se3 crystal grains growing in vertical direction on the substrate is beneficial for carrier transportation and reducing interface recombination. The reflectance spectra of Sb2Se3 films grown on glass substrates were measured in the range 300–1500 nm using a UV/Vis/NIR spectrophotometer. In Fig. 2(h), all of the samples shown a quite similar short wavelength cut-off edge of about 1000 nm. The difference between the thin films is attributed to the grain size and thin film surface roughness. The information of bandgap (Eg) was calculated by the formular (2) and (3):
+                        
+                           (2)
+                           
+                              
+                                 2
+                                 α
+                                 d
+                                 =
+                                 ln
+                                 
+                                    [
+                                    
+                                       
+                                          (
+                                          
+                                             
+                                                R
+                                                max
+                                             
+                                             −
+                                             
+                                                R
+                                                min
+                                             
+                                          
+                                          )
+                                       
+                                       /
+                                       
+                                          (
+                                          
+                                             R
+                                             −
+                                             
+                                                R
+                                                min
+                                             
+                                          
+                                          )
+                                       
+                                    
+                                    ]
+                                 
+                              
+                           
+                        
+                     
+                     
+                        
+                           (3)
+                           
+                              
+                                 α
+                                 h
+                                 ν
+                                 =
+                                 C
+                                 
+                                    
+                                       (
+                                       
+                                          h
+                                          ν
+                                          −
+                                          
+                                             E
+                                             g
+                                          
+                                       
+                                       )
+                                    
+                                    n
+                                 
+                              
+                           
+                        
+                     where α is the absorption coefficient, d is thickness, Rmax and Rmin is the maximum and minimum values of reflectance, C is a constant, h is the Planck's constant, v is the photon frequency, and n is an index defined by 0.5 for direct and 2.0 for indirect bandgap semiconductor [28,29]. The Sb2Se3 thin films have direct bandgap of 1.203, 1.209, 1.207, 1.240, 1.216 and 1.227 eV separately for P1, P2, P3, P4, P5, and A4, as shown in Fig. 2(i). Sample P4 is expected to exhibit good optical characteristics because it has an optical bandgap (Eg) of 1.240 eV, which is suitably matched to the theoretical band gap of Sb2Se3.
+
+All the prepared thin films including A1-A5 and P1–P5 were employed to fabricate into PV devices, and the specific parameters of the optimal devices are shown in Table S1. The Voc and Jsc of thin films that had undergone the post-selenization procedure had significantly improved. Additionally, the device made from P4 thin film reached 3.29%. Thus, we further compare the parameters of devices made from A4 and P4 films named as As-deposited and Post-selenized, respectively. Fig. 3
+                     (a–d) shows the critical performance parameters, including VOC, short-circuit current density (JSC), FF, and PCE, of the devices prepared from thin films A4 and P4.
+
+The J-V characteristics of the two devices were measured under the simulated AM1.5G solar irradiation (Fig. 3(e)). The Post-selenized device offered a Jsc of 26.3 mA/cm2, a Voc of 408 mV, and FF of 31.32%. Apparently, the Post-selenized device possessed superior parameters than As-deposited, accomplishing superior thin film quality and crystallinity. SEM and XRD results also indorse that device performance is closely related to the crystalline orientation, the degree of crystal grain fullness, the appropriate stoichiometric ratio, and the grain crystallinity. The external quantum efficiency (EQE) is shown in Fig. 3(f). Obviously, the Post-selenized device had comparatively a higher quantum response in the visible region (400–750 nm), which had a maximum EQE higher than 75%. This indicates that there was less recombination in the bulk film and at the Sb2Se3/CdS interface in the Post-selenized device. This can be attributed to the proper post-selenization process that not only passivated the bulk defects but improved the adhesion at the heterojunction interface. Moreover, the EQE spectra of the Post-selenized device had a similar broad optical response range from UV to NIR, which overlapped well with the narrow bandgap of Sb2Se3.
+
+The junction-dependent electrical behavior was thoroughly summarized in order to better examine the mechanisms of the enhanced Post-selenized device. Fig. 4
+                     (a) depicts the J-V curves for the two devices under dark condition.
+
+Shunt conductance (G), series resistance (R), diode ideality factor (A), and reverse saturation current density (J0) were calculated according to the general single exponential diode Equation (4) bellow [30]:
+                        
+                           (4)
+                           
+                              
+                                 J
+                                 =
+                                 
+                                    J
+                                    0
+                                 
+                                 
+                                 exp
+                                 
+                                    [
+                                    
+                                       
+                                          q
+                                          
+                                             A
+                                             k
+                                             T
+                                          
+                                       
+                                       
+                                          (
+                                          
+                                             V
+                                             −
+                                             R
+                                             J
+                                          
+                                          )
+                                       
+                                    
+                                    ]
+                                 
+                                 +
+                                 G
+                                 V
+                                 −
+                                 J
+                                 L
+
+Fig. 4(b) shows a direct plot of dJ/dV against V for both devices. The shunt conductance G for the Post-selenized and As-deposited devices, 9.7 × 10−2 mS/cm2 and 12.9 × 10−2 mS/cm2 were respectively obtained by extracting the flat region of the curve under reverse bias. The series resistance R and ideality factor A of the diode can be found by plotting dV/dJ against (J + Jsc)−1 and finding the intercept and slope AkT/q on the y-axis, where R is 38.83 Ω cm2 and 83.29 Ω cm2 for Post-selenized and As-deposited devices, respectively. Furthermore, the Post-selenized device exhibited a better ideality factor (3.01) then the As-deposited one (3.12). This indicates that the As-deposited device has more severe interfacial recombination, with inhomogeneous defect energy levels in the depletion region of the heterojunction interface. By plotting the ln(J + J
+                     
+                        SC
+                     
+                     -GV) against V-RJ, the reverse saturation current density (J
+                     
+                        0
+                     ) can be obtained and the resulted value of J0 for the Post-selenized and As-deposited devices are 4.2 × 10−4 mA/cm2 and 1 × 10−3 mA/cm2. In general, Post-selenized device had smaller shunt conductance G, smaller series resistance R and better ideality factor than As-deposited devices. This further demonstrates that the addition of post-selenization as a process enhances the quality of the device Sb2Se3/CdS heterojunction to some extent.
+
+To further investigate the mechanism behind enhanced junction quality and superior device performance, the heterojunction-dependent built-in voltage (V
+                     
+                        bi
+                     ) was obtained through C–V measurements. Fig. 5
+                     (a) shows the 1/C
+                     
+                        2
+                     
+                     –V curves, based on the following equation [31]:
+                        
+                           (5)
+                           
+                              
+                                 
+                                    1
+                                    
+                                       C
+                                       2
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       
+                                          (
+                                          
+                                             
+                                                V
+                                                
+                                                   b
+                                                   i
+                                                
+                                             
+                                             −
+                                             V
+                                          
+                                          )
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             A
+                                             E
+                                          
+                                          2
+                                       
+                                       
+                                          ε
+                                          a
+                                       
+                                       q
+                                       
+                                          N
+                                          A
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     where A
+                     
+                        E
+                      is the electrode area, V
+                     
+                        bi
+                      is the heterojunction-dependent built-in voltage, V is the applied DC bias voltage and N
+                     
+                        A
+                      is the doping density, respectively. The value of V
+                     
+                        bi
+                      can be obtained from the x-intercept of the linear part of the curve in Fig. 5(a). Compared to As-deposited device, a higher Vbi of 561 mV was obtained for Post-selenized based device. In another word, the enhanced V
+                     
+                        bi
+                      could result in a V
+                     
+                        oc
+                      boost, which can be attribute to the increase in carrier density of the bulk absorption film to a large extent, according to the equation [32]:
+                        
+                           (6)
+                           
+                              
+                                 
+                                    V
+                                    
+                                       b
+                                       i
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       k
+                                       T
+                                    
+                                    q
+                                 
+                                 n
+                                 
+                                    (
+                                    
+                                       
+                                          
+                                             N
+                                             A
+                                          
+                                          
+                                             N
+                                             D
+                                          
+                                       
+                                       
+                                          
+                                             n
+                                             i
+                                          
+                                          2
+                                       
+                                    
+                                    )
+
+Capacitance-voltage (C–V) analysis characterization and deep-level capacitance performance (DLCP) analysis characterization were carried out to investigate the interface defects of the devices, as shown in Fig. 5(b).
+
+Typically, the C–V measured doping density (N
+                     
+                        C
+                     
+                     –
+                     
+                        V
+                     ) includes free carriers, bulk defects, and interface defects, while the DLCP measured doping density (N
+                     
+                        DLCP
+                     ) represents the response of free carriers and bulk defects only. In contrast, DLCP is less susceptible to interfacial defects than C–V, therefore interfacial defects are the main reason for the difference between C–V and DLCP [17]. Thus, the interface defect density of the device can be calculated by subtracting N
+                     
+                        DLCP
+                      from N
+                     
+                        C-V
+                     . Variation curve of N
+                     
+                        C-V
+                      and N
+                     
+                        DLCP
+                      with profile depth x can be expressed by the following equations [33]:
+                        
+                           (7)
+                           
+                              
+                                 {
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                N
+                                                
+                                                   C
+                                                   −
+                                                   V
+                                                
+                                             
+                                             =
+                                             
+                                                
+                                                   −
+                                                   2
+                                                   
+                                                      ε
+                                                      
+                                                         r
+                                                         ,
+                                                         n
+                                                      
+                                                   
+                                                   
+                                                      N
+                                                      D
+                                                   
+                                                
+                                                
+                                                   (
+                                                   
+                                                      
+                                                         
+                                                            d
+                                                            
+                                                               (
+                                                               
+                                                                  1
+                                                                  /
+                                                                  
+                                                                     C
+                                                                     2
+                                                                  
+                                                               
+                                                               )
+                                                            
+                                                         
+                                                         
+                                                            d
+                                                            V
+                                                         
+                                                      
+                                                      q
+                                                      
+                                                         A
+                                                         2
+                                                      
+                                                      
+                                                         ε
+                                                         0
+                                                      
+                                                      
+                                                         ε
+                                                         
+                                                            r
+                                                            ,
+                                                            n
+                                                         
+                                                      
+                                                      
+                                                         ε
+                                                         
+                                                            r
+                                                            ,
+                                                            p
+                                                         
+                                                      
+                                                      
+                                                         N
+                                                         D
+                                                      
+                                                      +
+                                                      2
+                                                      
+                                                         ε
+                                                         
+                                                            r
+                                                            ,
+                                                            p
+                                                         
+                                                      
+                                                   
+                                                   )
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                N
+                                                
+                                                   D
+                                                   L
+                                                   C
+                                                   P
+                                                
+                                             
+                                             =
+                                             −
+                                             
+                                                
+                                                   C
+                                                   0
+                                                   3
+                                                
+                                                
+                                                   2
+                                                   q
+                                                   
+                                                      ε
+                                                      0
+                                                   
+                                                   
+                                                      ε
+                                                      
+                                                         r
+                                                         ,
+                                                         p
+                                                      
+                                                   
+                                                   
+                                                      A
+                                                      2
+                                                   
+                                                   
+                                                      C
+                                                      1
+                                                   
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             x
+                                             =
+                                             
+                                                ε
+                                                0
+                                             
+                                             
+                                                ε
+                                                
+                                                   r
+                                                   ,
+                                                   p
+                                                
+                                             
+                                             A
+                                             /
+                                             
+                                                C
+                                                0
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     where ND is the carrier concentration of CdS; A is the device area; and ε
+                     0, εr,n and εr,p respectively represent the permittivity of free space and the relative permittivity of CdS and Sb2Se3; C0 and C1 are two quadratic fit parameters derived from the C–V curves. In comparison, the Post-selenized device had a smaller gap between NC-V and NDLCP than the As-deposited device, which means a low defect density and less recombination loss at the Sb2Se3/CdS heterojunction interface for Post-selenized device. Moreover, the Post-selenized device possesses a large depletion width, which can benifits the light absorption and carrier extraction capabilities. Based on our systematic investigation, the diffused Post-selenized Sb2Se3-based device exhibited lower defect concentration, superior junction quality, and lower reverse saturation current, which significantly held a positive impact on the Sb2Se3-based solar cell performance.
+
+In this study, we successfully implemented a diffused post-selenization strategy as a post-annealing method, resulting in a precursor film with complete grain growth, superior crystallinity, and an absorber layer film with a stoichiometric composition, thereby reducing defect density and minimizing carrier recombination. To evaluate the effectiveness of our approach, we fabricated Sb2Se3 thin-film solar cells with a substrate structure of Mo/Sb2Se3/CdS/ITO/Ag. The optimized device exhibited an open-circuit voltage of 400 mV, the short-circuit current density of 26 mA/cm2, and power conversion efficiency of 3.29%. These improvements were also accompanied by enhancements in electrical properties and a reduction in heterojunction defect density. Although the post-selenized device exhibited a power conversion efficiency (PCE) of 3.29%, it is worth noting that our study demonstrates the feasibility of enhancing the performance of Sb2Se3 thin film solar cells through post-selenization. This approach holds promise for further optimizing the efficiency and stability of Sb2Se3-based photovoltaic devices in future research and development efforts.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+This work was supported by the National Natural Science Foundation of China (No. 62274112), Guangdong Basic and Applied Basic Research Foundation (2022A1515010929), and Science and Technology plan project of Shenzhen (JCYJ20220531103601003).
+
+The following is the Supplementary data to this article.
+                        
+                           Multimedia component 1
+                           Multimedia component 1
+
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.ceramint.2023.09.024.

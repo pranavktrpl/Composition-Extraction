@@ -1,0 +1,1920 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167577X12003023</prism:url><dc:identifier>doi:10.1016/j.matlet.2012.02.093</dc:identifier><eid>1-s2.0-S0167577X12003023</eid><prism:doi>10.1016/j.matlet.2012.02.093</prism:doi><pii>S0167-577X(12)00302-3</pii><dc:title>Amoxicillin embedded in cellulose acetate-poly (vinyl pyrrolidone) fibers prepared by coaxial electrospinning: Preparation and characterization </dc:title><prism:publicationName>Materials Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>0167577X</prism:issn><prism:volume>76</prism:volume><prism:startingPage>250</prism:startingPage><prism:endingPage>254</prism:endingPage><prism:pageRange>250-254</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2012-06-01</prism:coverDate><prism:coverDisplayDate>1 June 2012</prism:coverDisplayDate><prism:copyright>Copyright © 2012 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Castillo-Ortega, M.M.</dc:creator><dc:creator>Montaño-Figueroa, A.G.</dc:creator><dc:creator>Rodríguez-Félix, D.E.</dc:creator><dc:creator>Munive, G.T.</dc:creator><dc:creator>Herrera-Franco, P.J.</dc:creator><dc:description>
+                  The optimal conditions for the preparation of a composite material of fibers of cellulose acetate (CA), poly (vinyl pyrrolidone) (PVP), containing amoxicillin (Amoxi) within the fiber, CA/PVP-Amoxi/CA, were found. The geometrical, physical–chemical and thermal properties of the fibrous membranes containing CA, PVP and amoxicillin were characterized using FTIR spectroscopy, thermal analysis, SEM and TEM. Also, mechanical characterization of the fibers showed that the tensile strength of the membrane is not affected by the presence of amoxicillin within the fiber as compared with fibers without amoxicillin; however, the rigidity of the membrane decreases by approximately 45%. The effect of the pH on the release rate of amoxicillin was also studied. The amount of amoxicillin release and the k value increased with an increasing pH, from 61% for a pH 3.0 to 79% at pH 7.2, with k values of 0.2120 and 0.2609 respectively. An empirical model for the amoxicillin release was studied; the release of amoxicillin is assumed to obey a diffusion mechanism. These composite materials are recommended for solving the problem of possible loss of drug during the process of entrapment in the matrix with potential local application in biological media to treat dental or skin infections.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Fibrous membranes</dcterms:subject><dcterms:subject>Cellulose acetate-poly(vinyl pyrrolidone)</dcterms:subject><dcterms:subject>Electrospinning</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167577X12003023" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167577X12003023" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="50" height="28" size="1328">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X12003023-si1.gif?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="558" height="737" size="59893">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X12003023-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="124" height="164" size="7006">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X12003023-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="310" height="429" size="26942">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X12003023-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="118" height="163" size="2545">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X12003023-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="629" height="321" size="33250">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X12003023-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="112" size="2689">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X12003023-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="551" height="628" size="76594">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X12003023-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="144" height="164" size="6480">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X12003023-gr3.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84858743087</scopus-id><scopus-eid>2-s2.0-84858743087</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84858743087" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271572</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20120228">2012-02-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20120228">2012-02-28</xocs:available-online-date>
+      <xocs:ew-transaction-id>2012-03-31T00:53:11</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167577X12003023</xocs:eid>
+      <xocs:pii-formatted>S0167-577X(12)00302-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167577X12003023</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matlet.2012.02.093</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167577X12X00065</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T04:57:05.420465-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20120601</xocs:date-search-begin>
+      <xocs:year-nav>2012</xocs:year-nav>
+      <xocs:indexeddate epoch="1330387200">2012-02-28T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings suppl volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-577X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0167577X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>76</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>76</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 76</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>73</xocs:sort-order>
+      <xocs:first-fp>250</xocs:first-fp>
+      <xocs:last-lp>254</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>250</xocs:first-page>
+         <xocs:last-page>254</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20120601</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 June 2012</xocs:cover-date-text>
+      <xocs:cover-date-start>2012-06-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2012</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2012 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>AMOXICILLINEMBEDDEDINCELLULOSEACETATEPOLYVINYLPYRROLIDONEFIBERSPREPAREDBYCOAXIALELECTROSPINNINGPREPARATIONCHARACTERIZATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CASTILLOORTEGA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fibrous membrane preparation by coaxial electrospinning</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>FTIR characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Thermal analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mechanical analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SEM imaging</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>TEM imaging</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.8</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of pH on the release of amoxicillin</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.9</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Empirical model for the amoxicillin release rate</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bb0005">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>803</xocs:ref-first-fp>
+            <xocs:ref-last-lp>819</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0010">
+            <xocs:ref-normalized-surname>CHUANGLONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>515</xocs:ref-first-fp>
+            <xocs:ref-last-lp>524</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0015">
+            <xocs:ref-normalized-surname>ENZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0020">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>245</xocs:ref-first-fp>
+            <xocs:ref-last-lp>258</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0025">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>732</xocs:ref-first-fp>
+            <xocs:ref-last-lp>741</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0030">
+            <xocs:ref-normalized-surname>SU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2285</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2294</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0035">
+            <xocs:ref-normalized-surname>JI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4199</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4207</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0135">
+            <xocs:ref-normalized-surname>SUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0045">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2403</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2411</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0050">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>571</xocs:ref-first-fp>
+            <xocs:ref-last-lp>577</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0055">
+            <xocs:ref-normalized-surname>CARACCIOLO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2137</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0060">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1183</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0065">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3215</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0070">
+            <xocs:ref-normalized-surname>SHUTOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1093</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1096</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0075">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>933</xocs:ref-first-fp>
+            <xocs:ref-last-lp>946</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0080">
+            <xocs:ref-normalized-surname>MENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2799</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2807</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0085">
+            <xocs:ref-normalized-surname>DEVRIEZE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1357</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1362</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0090">
+            <xocs:ref-normalized-surname>HAAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1299</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1306</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0095">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1032</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1038</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0100">
+            <xocs:ref-normalized-surname>CASTILLOORTEGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1873</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1878</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0140">
+            <xocs:ref-normalized-surname>CASTILLOORTEGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1772</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1778</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0145">
+            <xocs:ref-normalized-surname>RITGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0150">
+            <xocs:ref-normalized-surname>RITGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>42</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0155">
+            <xocs:ref-normalized-surname>RODRIGUEZFELIX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0125">
+            <xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>315</xocs:ref-first-fp>
+            <xocs:ref-last-lp>321</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0130">
+            <xocs:ref-normalized-surname>KUMBAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>552</xocs:ref-first-fp>
+            <xocs:ref-last-lp>560</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CASTILLOORTEGAX2012X250</xocs:refkey3>
+         <xocs:refkey4lp>CASTILLOORTEGAX2012X250X254</xocs:refkey4lp>
+         <xocs:refkey4ai>CASTILLOORTEGAX2012X250XM</xocs:refkey4ai>
+         <xocs:refkey5>CASTILLOORTEGAX2012X250X254XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-577X(12)00302-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167577X12003023</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167577X12003023</xocs:eid>
+         <xocs:doi>10.1016/j.matlet.2012.02.093</xocs:doi>
+         <xocs:cid>271572</xocs:cid>
+         <xocs:timestamp>2012-03-30T22:52:57.967964-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2012-06-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/MAIN/application/pdf/0099b636ed3877d14a915ef26ef4b320/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/MAIN/application/pdf/0099b636ed3877d14a915ef26ef4b320/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>520508</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167577X12003023-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/PREVIEW/image/png/3b1cc8397b1e89f5ed28be5b8b3816b2/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/PREVIEW/image/png/3b1cc8397b1e89f5ed28be5b8b3816b2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60810</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/STRIPIN/image/gif/909a7b86ae2075910d4a73564261d860/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/STRIPIN/image/gif/909a7b86ae2075910d4a73564261d860/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1328</xocs:filesize>
+               <xocs:pixel-height>28</xocs:pixel-height>
+               <xocs:pixel-width>50</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/fx1/DOWNSAMPLED/image/jpeg/38a3c8db318c07e86ca97a7fa301d7bc/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/fx1/DOWNSAMPLED/image/jpeg/38a3c8db318c07e86ca97a7fa301d7bc/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>59893</xocs:filesize>
+               <xocs:pixel-height>737</xocs:pixel-height>
+               <xocs:pixel-width>558</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/fx1/THUMBNAIL/image/gif/f69b2d0761ee5182ecedcb9e6c731299/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/fx1/THUMBNAIL/image/gif/f69b2d0761ee5182ecedcb9e6c731299/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7006</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>124</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/gr1/DOWNSAMPLED/image/jpeg/ba52969277926c7253bf5092a091e5f8/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/gr1/DOWNSAMPLED/image/jpeg/ba52969277926c7253bf5092a091e5f8/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26942</xocs:filesize>
+               <xocs:pixel-height>429</xocs:pixel-height>
+               <xocs:pixel-width>310</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/gr1/THUMBNAIL/image/gif/cdb53748cb365db4c99fda78a9c0ea2f/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/gr1/THUMBNAIL/image/gif/cdb53748cb365db4c99fda78a9c0ea2f/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2545</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>118</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/gr2/DOWNSAMPLED/image/jpeg/a706c7774547fc2dd7158d06a253a170/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/gr2/DOWNSAMPLED/image/jpeg/a706c7774547fc2dd7158d06a253a170/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33250</xocs:filesize>
+               <xocs:pixel-height>321</xocs:pixel-height>
+               <xocs:pixel-width>629</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/gr2/THUMBNAIL/image/gif/6a9a91f869e4d35e1c370feb50128045/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/gr2/THUMBNAIL/image/gif/6a9a91f869e4d35e1c370feb50128045/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2689</xocs:filesize>
+               <xocs:pixel-height>112</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/gr3/DOWNSAMPLED/image/jpeg/6cc6d72a4558dbaf999cc9f7c2664d4d/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/gr3/DOWNSAMPLED/image/jpeg/6cc6d72a4558dbaf999cc9f7c2664d4d/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>76594</xocs:filesize>
+               <xocs:pixel-height>628</xocs:pixel-height>
+               <xocs:pixel-width>551</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X12003023-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X12003023/gr3/THUMBNAIL/image/gif/b1e06bf25e475eac3205699f11bd6b15/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X12003023/gr3/THUMBNAIL/image/gif/b1e06bf25e475eac3205699f11bd6b15/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6480</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>144</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" docsubtype="sco" xml:lang="en">
+         <item-info>
+            <jid>MLBLUE</jid>
+            <aid>13405</aid>
+            <ce:pii>S0167-577X(12)00302-3</ce:pii>
+            <ce:doi>10.1016/j.matlet.2012.02.093</ce:doi>
+            <ce:copyright type="full-transfer" year="2012">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0015" view="all">FTIR spectra of (a) CA, (b) PVP, (c) amoxicillin, (d) CA/PVP-Amoxi/CA, (e) CA/PVP-Amoxi/CA after their release in a buffer solution of pH 7.2, (f) CA/PVP-Amoxi/CA after their release in a buffer solution of pH 3.0.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0020" view="all">Thermograms of (a) fibrous membrane CA/PVP-Amoxi/CA, (b) CA, PVP and amoxicillin.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0025" view="all">(a) SEM micrographs for the fibrous membrane CA/PVP-Amoxi/CA before amoxicillin release, (b) after amoxicillin release at pH 7.2, (c) after amoxicillin release at pH 3.0, (d) TEM micrographs for the fibrous membrane CA/PVP-Amoxi/CA before amoxicillin release (e) after amoxicillin release at pH 7.2 (f) after amoxicillin release at pH 3.0, and (g) kinetics of release of amoxicillin from fibrous membrane CA/PVP-Amoxi/CA.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0030" view="all">Parameters of the empirical model and release amount of amoxicillin to 10<ce:hsp sp="0.25"/>min, 24<ce:hsp sp="0.25"/>h and 48<ce:hsp sp="0.25"/>h for CA/PVP-Amoxi/CA membrane.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">pH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">
+                           <italic>n</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">
+                           <italic>k</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">
+                           <italic>r</italic>
+                           <sup loc="post">2</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="left">Released amount of amoxicillin (mg)<br/>
+                           <italic>t</italic>
+                           <hsp sp="0.12"/>=<hsp sp="0.12"/>10<hsp sp="0.25"/>min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="left">Released amount of amoxicillin (mg)<br/>
+                           <italic>t</italic>
+                           <hsp sp="0.12"/>=<hsp sp="0.12"/>24<hsp sp="0.25"/>h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="left">Maximum released amount of amoxicillin (mg)<br/>
+                           <italic>t</italic>
+                           <hsp sp="0.12"/>=<hsp sp="0.12"/>48<hsp sp="0.25"/>h</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="char" char=".">7.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">0.2438</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">0.2609</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">0.99</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">179.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">356.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">396.09</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="char" char=".">3.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">0.2604</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">0.2120</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">0.99</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">121.57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">249.85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">315.90</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Amoxicillin embedded in cellulose acetate-poly (vinyl pyrrolidone) fibers prepared by coaxial electrospinning: Preparation and characterization</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>M.M.</ce:given-name>
+                  <ce:surname>Castillo-Ortega</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:indexed-name>Montano-Figueroa</ce:indexed-name>
+                  <ce:given-name>A.G.</ce:given-name>
+                  <ce:surname>Montaño-Figueroa</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:indexed-name>Rodriguez-Felix</ce:indexed-name>
+                  <ce:given-name>D.E.</ce:given-name>
+                  <ce:surname>Rodríguez-Félix</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>G.T.</ce:given-name>
+                  <ce:surname>Munive</ce:surname>
+                  <ce:cross-ref refid="af0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P.J.</ce:given-name>
+                  <ce:surname>Herrera-Franco</ce:surname>
+                  <ce:cross-ref refid="af0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Departamento de Investigación en Polímeros y Materiales, Universidad de Sonora, C.P. 83 000, Hermosillo, Sonora, Mexico</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Departamento de Ingeniería Química y Metalurgia, Universidad de Sonora, C.P. 83 000, Hermosillo, Sonora, Mexico</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="af0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Centro de Investigación Científica de Yucatán, calle 43 No. 130 Col. Chuburná de Hidalgo, C.P. 97200, Merida, Yucatan, Mexico</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="12" month="11" year="2011"/>
+            <ce:date-accepted day="22" month="2" year="2012"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="sp0005" view="all">The optimal conditions for the preparation of a composite material of fibers of cellulose acetate (CA), poly (vinyl pyrrolidone) (PVP), containing amoxicillin (Amoxi) within the fiber, CA/PVP-Amoxi/CA, were found. The geometrical, physical–chemical and thermal properties of the fibrous membranes containing CA, PVP and amoxicillin were characterized using FTIR spectroscopy, thermal analysis, SEM and TEM. Also, mechanical characterization of the fibers showed that the tensile strength of the membrane is not affected by the presence of amoxicillin within the fiber as compared with fibers without amoxicillin; however, the rigidity of the membrane decreases by approximately 45%. The effect of the pH on the release rate of amoxicillin was also studied. The amount of amoxicillin release and the <ce:italic>k</ce:italic> value increased with an increasing pH, from 61% for a pH 3.0 to 79% at pH 7.2, with <ce:italic>k</ce:italic> values of 0.2120 and 0.2609 respectively. An empirical model for the amoxicillin release was studied; the release of amoxicillin is assumed to obey a diffusion mechanism. These composite materials are recommended for solving the problem of possible loss of drug during the process of entrapment in the matrix with potential local application in biological media to treat dental or skin infections.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical">
+               <ce:section-title>Graphical abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="sp0035" view="all">
+                     <ce:display>
+                        <ce:figure id="f0005">
+                           <ce:link locator="fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec>
+                  <ce:section-title>Highlights</ce:section-title>
+                  <ce:simple-para id="sp0010" view="all">► We prepared CA/PVP-Amoxi/CA membrane by coaxial electrospinning. ► We studied the membrane by SEM, TEM, FT-IR, thermal and mechanically. ► The amoxicillin in the membrane is effectively released. ► Amoxicillin cumulative release reached 79% at pH 7.2 and 61% at pH 3.0.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Fibrous membranes</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Cellulose acetate-poly(vinyl pyrrolidone)</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Electrospinning</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Coaxial electrospinning has been used in different materials, such as membranes composed of dextran and poly(<ce:small-caps>l</ce:small-caps>-lactide-co-ε-caprolactone) <ce:cross-ref refid="bb0005">[1]</ce:cross-ref>, poly(<ce:small-caps>l</ce:small-caps>-lactic acid) and tetracycline hydrochloride <ce:cross-ref refid="bb0010">[2]</ce:cross-ref>, composite fibers of poly(vinylpyrrolidone) with the liquid crystal 4-cyano-4′-octylbiphenyl in its smectic phase <ce:cross-ref refid="bb0015">[3]</ce:cross-ref>, poly(vinylpyrrolidone)/poly(<ce:small-caps>l</ce:small-caps>-lactide-co-ε-caprolactone) <ce:cross-ref refid="bb0020">[4]</ce:cross-ref>, poly(vinylpyrrolidone) and N,N-dimethylacetamide <ce:cross-ref refid="bb0025">[5]</ce:cross-ref>, biodegradable nanofibrous mats <ce:cross-ref refid="bb0030">[6]</ce:cross-ref>, polycaprolactone with incorporated protein <ce:cross-ref refid="bb0035">[7]</ce:cross-ref>, poly ethylene terephthalate with Fe<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> nanoparticles <ce:cross-ref refid="bb0135">[8]</ce:cross-ref>, and others.</ce:para>
+                  <ce:para id="p0010" view="all">Likewise, materials prepared by the electrospinning method have been used for different applications, such as drug delivery systems <ce:cross-refs refid="bb0045 bb0050">[9,10]</ce:cross-refs>, tissue engineering <ce:cross-refs refid="bb0055 bb0060">[11,12]</ce:cross-refs>, vascular grafts <ce:cross-ref refid="bb0065">[13]</ce:cross-ref>, fibrous filtering membranes <ce:cross-ref refid="bb0070">[14]</ce:cross-ref>, and in general for biomedical and biotechnological applications <ce:cross-refs refid="bb0075 bb0080">[15,16]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0015" view="all">There are many factors that affect the optimal preparation of fibers by the electrospinning method, for example, temperature and humidity <ce:cross-ref refid="bb0085">[17]</ce:cross-ref>, solvent used <ce:cross-ref refid="bb0090">[18]</ce:cross-ref>, and polymer concentrations <ce:cross-ref refid="bb0095">[19]</ce:cross-ref>. To obtain fibers with specific characteristics, a systematic work is necessary. Therefore, different variables are studied including the following: applied voltage, flow rate, distance between the needle and the collector plate and concentration of solutions and mixtures of solvents used.</ce:para>
+                  <ce:para id="p0020" view="all">In a previous article we reported the preparation of fibrous membranes of cellulose acetate and poly (vinylpyrrolidone) by the electrospinning method, using an array of two needles placed side by side <ce:cross-ref refid="bb0100">[20]</ce:cross-ref>. In another article, we reported the preparation, characterization and release of amoxicillin from cellulose acetate and poly (vinylpyrrolidone) coaxially electrospun fibrous membranes <ce:cross-ref refid="bb0140">[21]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0025" view="all">However, the loading of amoxicillin in the fibers has certain problems because it was not possible to know the exact amount of amoxicillin incorporated into the fibers to be able to estimate the percentage of amoxicillin release (%).</ce:para>
+                  <ce:para id="p0030" view="all">In this work we present the feasibility of producing a fibrous composite membrane via coaxial electrospinning using both the CA and the PVP, with the amoxicillin embedded within the PVP, also, determination of the optimal conditions for the preparation, and the characterization of the geometrical, physical–chemical and mechanical properties using SEM, TEM, FTIR, thermal, mechanical, as well as the evaluation of the release rate of amoxicillin using the model proposed by Ritger and Peppas, at both pH 3 and 7.2. This study aims to develop materials that will allow the solution of problems of possible loss of drug during the tedious process of entrapment in the matrix.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Materials and methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Materials</ce:section-title>
+                     <ce:para id="p0035" view="all">The materials used in this study included cellulose acetate (CA) powder, 39.7<ce:hsp sp="0.25"/>wt% acetyl content, an average Mn of 50,000 (Aldrich); poly(vinylpyrrolidone) (PVP) white powder and average Mw of 360,000 (Aldrich); acetone, 99.7% (Aldrich); ethanol, 99.6% (Aldrich); amoxicillin (Sigma); sodium phosphate, dibasic (Meyer); sodium phosphate monobasic, monohydrate, crystal, (J.T. Baker); sodium hydroxide, pellets (Meyer); citric acid, monohydrate (Merck). All reagents, with the exception of amoxicillin, were used as received.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Fibrous membrane preparation by coaxial electrospinning</ce:section-title>
+                     <ce:para id="p0040" view="all">For the preparation of a cellulose acetate-poly(vinyl pyrrolidone) fibrous membrane, CA/PVP-Amoxi/CA with amoxicillin incorporated into the fiber, a careful study of all the variables was performed. The variables studied were, the concentration of the polymer solution, the applied voltage, the flow of the solution, and the distance between the needle and the collector plate. In the case of the CA solution, an acetone–water mixture was used as a solvent with a polymer concentration of 8% W. For 5<ce:hsp sp="0.25"/>ml of a PVP solution an ethanol–water mixture was used with a polymer concentration of 8% W; 0.5<ce:hsp sp="0.25"/>g of sodium salt of amoxicillin was added. The solutions were transferred to the plastic syringes together with a syringe pump KDS Scientific, whose flow rate was varied in the range of 0.3–3.0<ce:hsp sp="0.25"/>ml<ce:hsp sp="0.25"/>h<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>. A high voltage of 11–18<ce:hsp sp="0.25"/>kV was applied to the polymer solution, using a high-voltage power supply (Spellman, model CZE 1000R). Finally, the distance between the needle and the collector plate was set at 15<ce:hsp sp="0.25"/>cm. A square plate of aluminum (10<ce:hsp sp="0.25"/>cm<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:hsp sp="0.25"/>cm) was used as a collector.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>FTIR characterization</ce:section-title>
+                     <ce:para id="p0045" view="all">Dried membranes were mixed with KBr powder and pelletized. The IR characterizations were performed using a Perkin–Elmer Spectrum GX FTIR spectrometer.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>Thermal analysis</ce:section-title>
+                     <ce:para id="p0050" view="all">Thermogravimetric analysis (TGA) was carried out, using a DSC–TGA TA instruments model SDT 2960. Samples of approximately 6<ce:hsp sp="0.25"/>mg were taken, and heated from room temperature to 590<ce:hsp sp="0.25"/>°C, with a heating rate of 10<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>min<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>, under a continuous flow of air of 23<ce:hsp sp="0.25"/>ml<ce:hsp sp="0.25"/>min<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title>Mechanical analysis</ce:section-title>
+                     <ce:para id="p0055" view="all">Tensile test was performed using a micro tensiometer equipped with a 250<ce:hsp sp="0.25"/>g load cell at a constant crosshead speed of 1.2<ce:hsp sp="0.25"/>mm/min. Before and during testing, the samples were conditioned at a 60% relative humidity and a room temperature of 25<ce:hsp sp="0.25"/>°C.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title>SEM imaging</ce:section-title>
+                     <ce:para id="p0060" view="all">The morphology of the fibrous membranes was evaluated using a JEOL 5410LV scanning electron microscope (SEM), operated at both, 25<ce:hsp sp="0.25"/>kV, and 20<ce:hsp sp="0.25"/>kV. The samples were gold-sputtered prior to the SEM examination.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>2.7</ce:label>
+                     <ce:section-title>TEM imaging</ce:section-title>
+                     <ce:para id="p0065" view="all">For the transmission electron microscopy imaging (TEM), a sample of the membrane was placed on a carbon film supported by a copper grid in order to obtain electron micrographs in a JEOL 2010F Electron Microscope.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>2.8</ce:label>
+                     <ce:section-title>Effect of pH on the release of amoxicillin</ce:section-title>
+                     <ce:para id="p0070" view="all">In order to study the drug release kinetics, the membrane samples containing amoxicillin were immersed in 400<ce:hsp sp="0.25"/>ml of a buffer solution and were maintained with continuous magnetic agitation at 25<ce:hsp sp="0.25"/>°C. The release at both pH 3 and 7.2 was investigated. At certain time intervals, 100<ce:hsp sp="0.25"/>μl was taken out from each release system and was diluted to a final volume of 3<ce:hsp sp="0.25"/>ml. The cumulative amount of amoxicillin released at each time sampling was determined by UV–vis spectroscopy to 273<ce:hsp sp="0.25"/>nm using a Perkin Elmer Lambda 20 UV–vis spectrophotometer system. This experiment was repeated until the absorbance values were constant, that is, when the equilibrium of released drug was reached. The amounts of amoxicillin released were determined by interpolation of absorbance values in a calibration curve previously developed.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:label>2.9</ce:label>
+                     <ce:section-title>Empirical model for the amoxicillin release rate</ce:section-title>
+                     <ce:para id="p0140" view="all">Theoretical studies by other authors <ce:cross-refs refid="bb0145 bb0150">[22,23]</ce:cross-refs> have identified a number of factors which may affect the rate at which a particular solute is released from a polymeric matrix into a liquid phase. In this study, an overall evaluation of the rate of amoxicillin release from the fibrous membrane, CA/PVP-Amoxi/CA, was done according to the exponential model developed by Ritger and Peppas <ce:cross-ref refid="bb0145">[22]</ce:cross-ref>:<ce:display>
+                           <ce:formula id="fo0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:msub>
+                                          <mml:mi>M</mml:mi>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:msub>
+                                       <mml:msub>
+                                          <mml:mi>M</mml:mi>
+                                          <mml:mi>∞</mml:mi>
+                                       </mml:msub>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mi>k</mml:mi>
+                                    <mml:msup>
+                                       <mml:mi>t</mml:mi>
+                                       <mml:mi>n</mml:mi>
+                                    </mml:msup>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0090" view="all">where <ce:italic>M</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>t</ce:italic>
+                        </ce:inf> and <ce:italic>M</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>∞</ce:italic>
+                        </ce:inf> are the mass of amoxicillin released at time <ce:italic>t</ce:italic> and <ce:italic>∞</ce:italic>, respectively; <ce:italic>k</ce:italic> is a kinetic constant, and <ce:italic>n</ce:italic> is the diffusion exponent that can be related to the drug transport mechanism.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0060" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para id="p0095" view="all">After a systematic study varying the conditions for the coaxial electrospinning method, the optimal conditions for the preparation of cellulose acetate-poly(vinyl pyrrolidone) fibers with embedded amoxicillin (CA/PVP-Amoxi/CA) were found; flow rate of 0.5<ce:hsp sp="0.25"/>ml<ce:hsp sp="0.25"/>h<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> and a high voltage of 15<ce:hsp sp="0.25"/>kV were applied to the polymer solution.</ce:para>
+                  <ce:para id="p0100" view="all">The FTIR spectroscopy of the fibers was performed in order to corroborate the existence of amoxicillin in CA/PVP-Amoxi/CA before and after the release of amoxicillin at both pH 3.0 and 7.2. The following characteristic peaks were observed: for CA, there is an ester stretching peak at around 1748<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>, <ce:cross-ref refid="f0010">Fig. 1</ce:cross-ref>(a)<ce:float-anchor refid="f0010"/>; for PVP, the band at 1665<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> is attributed to C═O stretching vibration of the amide group, <ce:cross-ref refid="f0010">Fig. 1</ce:cross-ref>(b); for amoxicillin, an amide stretching wide band at 3434<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>, <ce:cross-ref refid="f0010">Fig. 1</ce:cross-ref>(c); for the CA/PVP-Amoxi/CA, characteristic peaks of CA, PVP and amoxicillin were observed, demonstrating the existence of amoxicillin in the fiber, <ce:cross-ref refid="f0010">Fig. 1</ce:cross-ref>(d). After release of the amoxicillin, at both pH values, the peaks of PVP and amoxicillin almost disappear showing a lack of PVP which is highly soluble in water and of amoxicillin, <ce:cross-ref refid="f0010">Fig. 1</ce:cross-ref>(e) and (f).</ce:para>
+                  <ce:para id="p0105" view="all">Analysis of weight loss as a function of temperature was performed for CA/PVP-Amoxi/CA membranes. <ce:cross-ref refid="f0015">Fig. 2</ce:cross-ref>(a)<ce:float-anchor refid="f0015"/> shows the thermogram of these membranes. It can be seen, that even at 590<ce:hsp sp="0.25"/>°C there is no complete degradation of the materials, and this can be explained by the presence of residual NaOH used to obtain the sodium salt of amoxicillin. The first significant weight loss, marked as (1) in <ce:cross-ref refid="f0015">Fig. 2</ce:cross-ref>(a), at 100<ce:hsp sp="0.25"/>°C is attributed to the loss of moisture and solvent adsorbed in the fibers. Three additional weight losses between 150<ce:hsp sp="0.25"/>°C and 500<ce:hsp sp="0.25"/>°C, marked as (2), (3) and (4) are observed in <ce:cross-ref refid="f0015">Fig. 2</ce:cross-ref>(a), are attributed to amoxicillin, CA and PVP, respectively. Making these assignments based on the analysis of weight loss of CA fibers and PVP fibers prepared by electrospinning, and sodium salt of amoxicillin, <ce:cross-ref refid="f0015">Fig. 2</ce:cross-ref>(b), for a weight loss around 300<ce:hsp sp="0.25"/>°C and 400<ce:hsp sp="0.25"/>°C respectively for CA and PVP fibers. Amoxicillin shows a weight loss around 200<ce:hsp sp="0.25"/>°C.</ce:para>
+                  <ce:para id="p0110" view="all">The presence of the amoxicillin on the CA/PVP/CA electro spun fibers <ce:cross-ref refid="bb0140">[21]</ce:cross-ref> seems to have an effect on their mechanical properties, especially on their rigidity. Strictly speaking, the amoxicillin located in the central portion of the composite fiber and this drug is later diffused out of the fiber. No strong interactions are expected between the polymer and amoxicillin and there are no noticeable effects on either the tensile strength or the strain at break of the membrane. However, the rigidity of the membrane decreases by approximately 45%.</ce:para>
+                  <ce:para id="p0115" view="all">To study the morphology of the membranes and verify that the fibers are formed, SEM and TEM micrographs were done. <ce:cross-ref refid="f0020">Fig. 3</ce:cross-ref>(a)<ce:float-anchor refid="f0020"/> shows the fibrous membrane CA/PVP-Amoxi/CA before the release of amoxicillin. Fibers with cylindrical shape with diameter values around 1.5<ce:hsp sp="0.25"/>μm can be observed. In the case of the membranes CA/PVP-Amoxi/CA after amoxicillin release at pH 7.2, hollow fibers can be observed without the original cylindrical shape, <ce:cross-ref refid="f0020">Fig. 3</ce:cross-ref>(b), suggesting that PVP and amoxicillin were removed from the fiber. Membranes CA/PVP-Amoxi/CA after release amoxicillin at pH 3.0 shown in <ce:cross-ref refid="f0020">Fig. 3</ce:cross-ref>(c) can be observed and a more noticeable deterioration of the fiber attributed to the highly acidic conditions of the environment and subsequent release of PVP and amoxicillin. <ce:cross-ref refid="f0020">Fig. 3</ce:cross-ref>(d) shows the TEM micrographs for the fibrous membrane CA/PVP-Amoxi/CA before the release of amoxicillin, homogeneous fibers with a little dark area in the core of the fiber can be seen, there are no empty spaces as an <ce:cross-ref refid="f0020">Fig. 3</ce:cross-ref>(e) and (f) after release of amoxicillin and PVP at pH 7.2 and 3.0 respectively.</ce:para>
+                  <ce:para id="p0120" view="all">The effect of the pH on the amoxicillin release (pH 3.0 and pH 7.2) was analyzed through the kinetics of release, <ce:cross-ref refid="f0020">Fig. 3</ce:cross-ref>(g). The amoxicillin release kinetics from a CA/PVP-Amoxi/CA membrane in buffer solutions with pH 7.2 and 3.0 showed a final percentage of amoxicillin release of 79 at pH 7.2 and 61 at pH 3.0, both at 48<ce:hsp sp="0.25"/>h. The release at pH<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>7.2 is higher than at pH<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>3.0. These results are in agreement with those reported previously <ce:cross-ref refid="bb0140">[21]</ce:cross-ref>; amoxicillin has the ability to form hydrogen bonds with the other components of the fiber when it is at pH 3, thus reducing its release into the environment.</ce:para>
+                  <ce:para id="p0125" view="all">Parameters <ce:italic>k</ce:italic> and <ce:italic>n</ce:italic> were obtained by plotting the experimental values of ln(<ce:italic>M</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>t</ce:italic>
+                     </ce:inf>
+                     <ce:italic>/M</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>∞</ce:italic>
+                     </ce:inf>) versus ln(<ce:italic>t</ce:italic>) and fitting the data to a straight line. The parameter <ce:italic>n</ce:italic> was obtained from the slope of this plot, whereas parameter <ce:italic>k</ce:italic> was obtained from the intersection at ln(<ce:italic>t</ce:italic>)<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>0. <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/> summarizes the results thus obtained. In general, the kinetic constant <ce:italic>k</ce:italic>, increased as the pH increased. This is consistent with the previous discussion and the values of the amount of amoxicillin release in 10<ce:hsp sp="0.25"/>min, 24<ce:hsp sp="0.25"/>h and 48<ce:hsp sp="0.25"/>h shown in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>. On the other hand, the parameter <ce:italic>n</ce:italic> decreased as the pH increased; this trend is observed in hydrogel amoxicillin releasing <ce:cross-ref refid="bb0155">[24]</ce:cross-ref> and explained by formation or no formation of hydrogen bonds. Also, for a cylindrical geometry, a value of <ce:italic>n</ce:italic> equal to 0.45 or less corresponds to a Fickian diffusion mechanism <ce:cross-ref refid="bb0125">[25]</ce:cross-ref>. Values of <ce:italic>n</ce:italic> between 0.26 and 0.31 indicate that the transport mechanism could be Fickian <ce:cross-ref refid="bb0130">[26]</ce:cross-ref>. Then, according to the results obtained from the characterization of the material, a mechanism of diffusion is proposed for the release of amoxicillin from the fiber core to the surrounding medium.</ce:para>
+               </ce:section>
+               <ce:section id="s0065" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para id="p0130" view="all">The optimal conditions for the preparation of fibers of cellulose acetate, poly (vinyl pyrrolidone) containing amoxicillin within the fiber were found; the physical and morphological characteristics of these fibrous membranes were corroborated by FTIR spectroscopy, thermal analysis, SEM and TEM. Formation of composite fibers of CA and PVP containing amoxicillin was evidenced. From the mechanical characterization of the fibrous membranes, in general, it can be said that the mechanical properties of the material are not affected by the presence of amoxicillin within the fiber. The effect of the pH on the release of amoxicillin was also studied. The percentage of amoxicillin release and <ce:italic>k</ce:italic> value was increased with the increased in pH. The release of amoxicillin was studied following an empirical model and from the parameters obtained, the release of amoxicillin may occur by diffusion. These materials are recommended for potential local application in biological media as dental or skin infections.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para id="p0135" view="all">This work was supported by grant from the <ce:grant-sponsor id="gts0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">CONACYT</ce:grant-sponsor> (Project <ce:grant-number refid="gts0005">CB-2008-105003</ce:grant-number>). The authors also wish to thank Silvia Burruel for obtaining the SEM images, Eduardo Larios for obtaining the TEM images, and Jesus Manuel Quiroz for useful discussions. A.G. Montaño-Figueroa thanks CONACYT for the granted scholarship.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bs0005">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ch.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Controlled release of PDGF-bb by coaxial electrospun dextran/poly(<ce:small-caps>l</ce:small-caps>-lactide-co-ε-caprolactone) fibers with an ultrafine core/shell structure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Biomater Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>803</sb:first-page>
+                              <sb:last-page>819</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chuang-Long</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zheng-Ming</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Xiao-Jian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Hua-Shan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ch.</ce:given-name>
+                                 <ce:surname>Lu-Song</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coaxial electrospun poly(<ce:small-caps>l</ce:small-caps>-lactic acid) ultrafine fibers for sustained drug delivery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Macromol Sci B Phys</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>515</sb:first-page>
+                              <sb:last-page>524</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf1000">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Enz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Baumeister</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lagerwall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coaxial electrospinning of liquid cristal-containing poly(vinylpyrrolidone) microfibers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Beilstein J Org Chem</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.3762/bjoc.5.58</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of electrospun core/shell poly(vinyl pyrrolidone)/poly(<ce:small-caps>l</ce:small-caps>-lactide-co-ε-caprolactone) fibrous membranes and their cytocompatibility in vitro</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Biomater Sci Polym Ed</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>245</sb:first-page>
+                              <sb:last-page>258</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Branford-White</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Chatterton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A modified coaxial electrospinning for preparing fibers from a high concentration polymer solution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>eXPRESS Polym Lett</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>732</sb:first-page>
+                              <sb:last-page>741</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and characterization of biodegradable nanofibrous mats by mix and coaxial electrospinning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Mater Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2285</sb:first-page>
+                              <sb:last-page>2294</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.J.P.</ce:given-name>
+                                 <ce:surname>van den Beucken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Bian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fibrous scaffolds loaded with protein prepared by blend or coaxial electrospinning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Biomater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4199</sb:first-page>
+                              <sb:last-page>4207</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.K.</ce:given-name>
+                                 <ce:surname>Sung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.W.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Magnetic nanofibers with core (Fe<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">4</ce:inf> nanoparticle suspension)/sheath (poly ethylene terephthalate) structure fabricated by coaxial electrospinning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Magn Magn Mater</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.jmmm.2011.03.004</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Branford-White</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Chatterton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ester prodrug-loaded electrospun cellulose acetate fiber mats as transdermal drug delivery systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Mater Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2403</sb:first-page>
+                              <sb:last-page>2411</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.N.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Ch.</ce:given-name>
+                                 <ce:surname>Jeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Q.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Study of release speeds and bacteria inhibiting capabilities of drug delivery membranes fabricated via electrospinning by observing bacteria growth curves</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Mater Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>571</sb:first-page>
+                              <sb:last-page>577</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Caracciolo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.K.</ce:given-name>
+                                 <ce:surname>Vohra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Buffa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Abraham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrospinning of novel biodegradable poly(ester urethane)s and poly(ester urethane urea)s for soft tissue-engineering applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Mater Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2129</sb:first-page>
+                              <sb:last-page>2137</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Touny</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Bhaduri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication of novel PLA/CDHA bionanocomposite fibers for tissue engineering applications via electrospinning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Mater Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1183</sb:first-page>
+                              <sb:last-page>1193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ch.</ce:given-name>
+                                 <ce:surname>Chu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrospinning of small diameter 3-D nanofibrous tubular scaffolds with controllable nanofiber orientations for vascular grafts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Mater Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3207</sb:first-page>
+                              <sb:last-page>3215</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Shutov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.Yu.</ce:given-name>
+                                 <ce:surname>Astakhov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Formation of fibrous filtering membranes by electrospinning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tech Phys</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1093</sb:first-page>
+                              <sb:last-page>1096</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ch.T.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramakrishna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent development of polymer nanofibers for biomedical and biotechnological applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Mater Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>933</sb:first-page>
+                              <sb:last-page>946</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of gelatin-containing PHBV nanofiber mats for biomedical applicatiosn</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci Mater Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2799</sb:first-page>
+                              <sb:last-page>2807</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>De Vrieze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Van Camp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Nelvig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hagstrom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Westbroek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>De Clerck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of temperatura and humidity on electrospinning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1357</sb:first-page>
+                              <sb:last-page>1362</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Haas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Heinrich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Greil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solvent control of cellulose acetate nanofiber felt structure produced by electrospinnin</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1299</sb:first-page>
+                              <sb:last-page>1306</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrospun poly(methyl methacrylate) nanofibers and microparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1032</sb:first-page>
+                              <sb:last-page>1038</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Castillo-Ortega</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Romero-Garcia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Rodriguez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Najera-Luna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Herrera-Franco</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fibrous membranes of cellulose acetate and poly(vinyl pyrrolidone) by electrospinning method: preparation and characterization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Appl Polym Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>116</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1873</sb:first-page>
+                              <sb:last-page>1878</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Castillo-Ortega</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Najera-Luna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Rodriguez-Felix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Encinas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Rodriguez-Felix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation, characterization and release of amoxicillin from cellulose acetate and poly(vinyl pyrrolidone) coaxial electrospun fibrous membranes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater Sci Eng C Mater Biol Appl</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1772</sb:first-page>
+                              <sb:last-page>1778</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Ritger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Peppas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A simple equation for description of solute release I. Fickian and non-Fickian release from non-swellable devices in the form of slabs, spheres, cylinders or discs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Control Release</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                              <sb:last-page>36</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Ritger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Peppas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A simple equation for description of solute release II. Fickian and anomalous release from swell able devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Control Release</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                              <sb:last-page>42</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf1005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Rodriguez-Felix</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Perez-Martinez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Castillo-Ortega</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Perez-Tello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Romero-Garcia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Ledezma-Perez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Del Castillo-Castro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Rodriguez-Felix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>pH- and temperatura-sensitive semi-interpenetrating network hydrogels composed of poly(acrylamide) and poly(γ-glutamic acid) as amoxicillin controlled-release system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polym Bull</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1007/s00289-011-0549-1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A multifunctional hydrogel with high conductivity, pH-responsive, thermo-responsive and release properties frompolyacrylate/polyaniline hybrid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbohydr Polymer</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>315</sb:first-page>
+                              <sb:last-page>321</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Kumbar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Aminabhavi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation and characterization of interpenetrating networks beads of poly(vinyl alcohol)-grafted-poly(acrylamide) with sodium alginate and their controlled release characteristics for cypermethrin pesticide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Appl Polym Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>552</sb:first-page>
+                              <sb:last-page>560</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

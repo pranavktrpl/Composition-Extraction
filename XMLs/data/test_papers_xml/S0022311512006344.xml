@@ -1,0 +1,1925 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0022311512006344</prism:url><dc:identifier>doi:10.1016/j.jnucmat.2012.11.040</dc:identifier><eid>1-s2.0-S0022311512006344</eid><prism:doi>10.1016/j.jnucmat.2012.11.040</prism:doi><pii>S0022-3115(12)00634-4</pii><dc:title>Synthesis and sintering of nanocrystalline thoria doped with CaO and MgO derived through oxalate-deagglomeration </dc:title><prism:publicationName>Journal of Nuclear Materials</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00223115</prism:issn><prism:volume>434</prism:volume><prism:issueIdentifier>1-3</prism:issueIdentifier><prism:startingPage>223</prism:startingPage><prism:endingPage>229</prism:endingPage><prism:pageRange>223-229</prism:pageRange><prism:number>1-3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2013-03-31</prism:coverDate><prism:coverDisplayDate>March 2013</prism:coverDisplayDate><prism:copyright>Copyright © 2012 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>Special Section on Spent Nuclear Fuel</prism:issueName><dc:creator>Ananthasivan, K.</dc:creator><dc:creator>Balakrishnan, S.</dc:creator><dc:creator>Anthonysamy, S.</dc:creator><dc:creator>Divakar, R.</dc:creator><dc:creator>Mohandas, E.</dc:creator><dc:creator>Ganesan, V.</dc:creator><dc:description>
+                  Thorium dioxide doped with oxides of magnesium and calcium was prepared from deagglomerated mixed oxalates. The influence of the dopant oxide concentration (0.1, 0.25 and 0.5mol% MO, M=Mg, Ca) on the powder properties was studied. The dependence of bulk density, specific surface area, X-ray crystallite size, residual carbon content and distribution of particle size on the dopant concentrations was investigated in detail. The transmission electron microscopy (TEM) investigations revealed that the powders comprised cuboidal agglomerates with a nanocrystalline substructure (10nm). It was found that 0.5mol% calcia doped thoria exhibits better sinterability than pure thoria and magnesia doped thoria at a temperature as low as 1673K. Further, it was demonstrated for the first time that doping nanocrystalline thoria with calcia helps reduce the de-sintering phenomena.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0022311512006344" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0022311512006344" rel="scidir"/></coredata><objects><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="215" height="164" size="4617">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="7411">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="212" height="164" size="5115">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="113" height="163" size="5057">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="54" height="162" size="3126">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="213" height="164" size="5748">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="5462">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="164" size="6072">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="213" height="164" size="4441">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="354" height="269" size="19488">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="345" height="268" size="29830">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="351" height="271" size="18723">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="333" height="482" size="42946">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="310" height="927" size="92062">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="354" height="272" size="25422">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="278" size="24206">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="333" height="249" size="18761">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="274" size="17552">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311512006344-gr1.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84871784208</scopus-id><scopus-eid>2-s2.0-84871784208</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84871784208" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271598</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291702</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291829</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Nuclear Materials</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALNUCLEARMATERIALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20121128">2012-11-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20121128">2012-11-28</xocs:available-online-date>
+      <xocs:ew-transaction-id>2016-06-27T14:47:17</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0022311512006344</xocs:eid>
+      <xocs:pii-formatted>S0022-3115(12)00634-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0022311512006344</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jnucmat.2012.11.040</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0022311512X0014X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160627">2016-06-27T15:58:51.855122-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130301</xocs:date-search-begin>
+      <xocs:date-search-end>20130331</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1354060800">2012-11-28T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body affil articletitle auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0022-3115</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00223115</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>434</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>434</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>3</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 434, Issues 1–3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>30</xocs:sort-order>
+      <xocs:first-fp>223</xocs:first-fp>
+      <xocs:last-lp>229</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>223</xocs:first-page>
+         <xocs:last-page>229</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201303</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>March 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-03-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-03-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Special Section on Spent Nuclear Fuel</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Javier</ce:given-name>
+                     <ce:surname>Giménez</ce:surname>
+                  </ce:author>
+                  <ce:author>
+                     <ce:degrees>Prof.</ce:degrees>
+                     <ce:given-name>Ignasi</ce:given-name>
+                     <ce:surname>Casas</ce:surname>
+                  </ce:author>
+                  <ce:author>
+                     <ce:degrees>Prof.</ce:degrees>
+                     <ce:given-name>Joan de</ce:given-name>
+                     <ce:surname>Pablo</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2012 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>SYNTHESISSINTERINGNANOCRYSTALLINETHORIADOPEDCAOMGODERIVEDTHROUGHOXALATEDEAGGLOMERATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ANANTHASIVAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>K</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemicals</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of starting materials, powders and compacts</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Precipitation of the oxalate</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characteristics of the powders</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Residual carbon</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Microstructure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characteristics of the pellets</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analysis of microstructure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="b0005">
+            <xocs:ref-normalized-surname>ANANTHARAMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-last-lp>121</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0010">
+            <xocs:ref-normalized-surname>MATZKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>47</xocs:ref-first-fp>
+            <xocs:ref-last-lp>53</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0015">
+            <xocs:ref-normalized-surname>LOMBARDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>944</xocs:ref-first-fp>
+            <xocs:ref-last-lp>953</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0020">
+            <xocs:ref-normalized-surname>EMSLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>NATURESBUILDINGBLOCKS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0025">
+            <xocs:ref-normalized-surname>SCHADE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>648</xocs:ref-first-fp>
+            <xocs:ref-last-lp>660</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0030">
+            <xocs:ref-normalized-surname>MARQUES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>598</xocs:ref-first-fp>
+            <xocs:ref-last-lp>605</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0035">
+            <xocs:ref-normalized-surname>ANANTHASIVAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>217</xocs:ref-first-fp>
+            <xocs:ref-last-lp>229</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0040">
+            <xocs:ref-normalized-surname>CHANDRAMOULI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>213</xocs:ref-first-fp>
+            <xocs:ref-last-lp>220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0045">
+            <xocs:ref-normalized-surname>CHANDRAMOULI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>255</xocs:ref-first-fp>
+            <xocs:ref-last-lp>261</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0050">
+            <xocs:ref-normalized-surname>ANTHONYSAMY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>346</xocs:ref-first-fp>
+            <xocs:ref-last-lp>357</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0055"/>
+         <xocs:ref-info refid="b0060"/>
+         <xocs:ref-info refid="b0065">
+            <xocs:ref-normalized-surname>MORGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>107</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0070">
+            <xocs:ref-normalized-surname>ANANTHASIVAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0075">
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>SPRINGERSERIESINMATERIALSSCIENCEVOL68</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0080">
+            <xocs:ref-normalized-surname>REETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>481</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCWORLDCONGRESSHIGHTECHCERAMICSSIXTHINTMEETINGMODERNCERAMICSTECHNOL6THCIMTECMILANITALYJUNE24281987</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0085">
+            <xocs:ref-normalized-surname>ZHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>351</xocs:ref-first-fp>
+            <xocs:ref-last-lp>355</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0090">
+            <xocs:ref-normalized-surname>OKTAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>76</xocs:ref-first-fp>
+            <xocs:ref-last-lp>82</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0095">
+            <xocs:ref-normalized-surname>SATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>552</xocs:ref-first-fp>
+            <xocs:ref-last-lp>556</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0100">
+            <xocs:ref-normalized-surname>KALISZEWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1504</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1509</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0105">
+            <xocs:ref-normalized-surname>ALLRED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-last-lp>120</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0110">
+            <xocs:ref-normalized-surname>BALAKRISHNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>657</xocs:ref-first-fp>
+            <xocs:ref-last-lp>660</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0115">
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>115</xocs:ref-first-fp>
+            <xocs:ref-normalized-srctitle>NANOSTRUCTUREDMATERIALSPROCESSINGPROPERTIESAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0120">
+            <xocs:ref-normalized-surname>BALAKRISHNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>88</xocs:ref-first-fp>
+            <xocs:ref-last-lp>94</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ANANTHASIVANX2013X223</xocs:refkey3>
+         <xocs:refkey4lp>ANANTHASIVANX2013X223X229</xocs:refkey4lp>
+         <xocs:refkey4ai>ANANTHASIVANX2013X223XK</xocs:refkey4ai>
+         <xocs:refkey5>ANANTHASIVANX2013X223X229XK</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0022-3115(12)00634-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0022311512006344</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0022311512006344</xocs:eid>
+         <xocs:doi>10.1016/j.jnucmat.2012.11.040</xocs:doi>
+         <xocs:cid>271598</xocs:cid>
+         <xocs:timestamp>2016-06-27T15:58:51.855122-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-03-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-03-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/MAIN/application/pdf/c2f57444611c0f4bc4d7b96700e5965b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/MAIN/application/pdf/c2f57444611c0f4bc4d7b96700e5965b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>842060</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0022311512006344-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/PREVIEW/image/png/f6a4726f9220fc51b541da014ca9d675/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/PREVIEW/image/png/f6a4726f9220fc51b541da014ca9d675/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59937</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr2/THUMBNAIL/image/gif/fc132894c7e4a34f073321200516dd8c/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr2/THUMBNAIL/image/gif/fc132894c7e4a34f073321200516dd8c/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4617</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>215</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr3/THUMBNAIL/image/gif/d1e4fed143da6f9b877085665e328926/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr3/THUMBNAIL/image/gif/d1e4fed143da6f9b877085665e328926/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7411</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr4/THUMBNAIL/image/gif/101ae474f3cbe73c521f4f1dab8a4df8/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr4/THUMBNAIL/image/gif/101ae474f3cbe73c521f4f1dab8a4df8/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5115</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>212</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr5/THUMBNAIL/image/gif/1e1e14d745f1c9a5874ccd625d89290d/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr5/THUMBNAIL/image/gif/1e1e14d745f1c9a5874ccd625d89290d/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5057</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>113</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr6/THUMBNAIL/image/gif/e7d470cbf54af69559acde8166f91b75/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr6/THUMBNAIL/image/gif/e7d470cbf54af69559acde8166f91b75/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3126</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>54</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr7/THUMBNAIL/image/gif/7607240b40ac96baa27c5d9f7a5b25e8/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr7/THUMBNAIL/image/gif/7607240b40ac96baa27c5d9f7a5b25e8/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5748</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr8/THUMBNAIL/image/gif/81cce06f723a1b35d9d0a8a7ffea9c06/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr8/THUMBNAIL/image/gif/81cce06f723a1b35d9d0a8a7ffea9c06/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5462</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr9/THUMBNAIL/image/gif/ecd0a82f9e1a0019f47637f89c0a711f/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr9/THUMBNAIL/image/gif/ecd0a82f9e1a0019f47637f89c0a711f/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6072</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr1/THUMBNAIL/image/gif/42f8c06038b11ad132c5c04d74568024/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr1/THUMBNAIL/image/gif/42f8c06038b11ad132c5c04d74568024/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4441</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr2/DOWNSAMPLED/image/jpeg/31bd800eb40e461ac241d6ac51784bf4/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr2/DOWNSAMPLED/image/jpeg/31bd800eb40e461ac241d6ac51784bf4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19488</xocs:filesize>
+               <xocs:pixel-height>269</xocs:pixel-height>
+               <xocs:pixel-width>354</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr3/DOWNSAMPLED/image/jpeg/afadcf83fcb86d48a3b19314002239ba/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr3/DOWNSAMPLED/image/jpeg/afadcf83fcb86d48a3b19314002239ba/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29830</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>345</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr4/DOWNSAMPLED/image/jpeg/1b1ec31a7b71d907a4191d374d0f7cc4/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr4/DOWNSAMPLED/image/jpeg/1b1ec31a7b71d907a4191d374d0f7cc4/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18723</xocs:filesize>
+               <xocs:pixel-height>271</xocs:pixel-height>
+               <xocs:pixel-width>351</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr5/DOWNSAMPLED/image/jpeg/862e86b0409afd43efe141fbd8c3b43e/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr5/DOWNSAMPLED/image/jpeg/862e86b0409afd43efe141fbd8c3b43e/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42946</xocs:filesize>
+               <xocs:pixel-height>482</xocs:pixel-height>
+               <xocs:pixel-width>333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr6/DOWNSAMPLED/image/jpeg/f74acd20c46e6ed597dd1ea11a53024f/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr6/DOWNSAMPLED/image/jpeg/f74acd20c46e6ed597dd1ea11a53024f/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92062</xocs:filesize>
+               <xocs:pixel-height>927</xocs:pixel-height>
+               <xocs:pixel-width>310</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr7/DOWNSAMPLED/image/jpeg/24677909482d9d69551e788051a4cb78/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr7/DOWNSAMPLED/image/jpeg/24677909482d9d69551e788051a4cb78/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25422</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>354</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr8/DOWNSAMPLED/image/jpeg/d034547889374a381a0358f922dd6e61/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr8/DOWNSAMPLED/image/jpeg/d034547889374a381a0358f922dd6e61/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24206</xocs:filesize>
+               <xocs:pixel-height>278</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr9/DOWNSAMPLED/image/jpeg/b7a6e878a2f13bba2e38820db4b5f1b4/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr9/DOWNSAMPLED/image/jpeg/b7a6e878a2f13bba2e38820db4b5f1b4/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18761</xocs:filesize>
+               <xocs:pixel-height>249</xocs:pixel-height>
+               <xocs:pixel-width>333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311512006344-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311512006344/gr1/DOWNSAMPLED/image/jpeg/9a336c716490bf146f7fbb796f3f58ac/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311512006344/gr1/DOWNSAMPLED/image/jpeg/9a336c716490bf146f7fbb796f3f58ac/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17552</xocs:filesize>
+               <xocs:pixel-height>274</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.1">
+         <item-info>
+            <jid>NUMA</jid>
+            <aid>46762</aid>
+            <ce:pii>S0022-3115(12)00634-4</ce:pii>
+            <ce:doi>10.1016/j.jnucmat.2012.11.040</ce:doi>
+            <ce:copyright type="full-transfer" year="2012">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0010" view="all">Dependence of the bulk density of thoria on the concentration of the dopant.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0015" view="all">Dependence of specific surface area of thoria and doped thoria powders.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0020" view="all">X-ray diffractograms of thoria powders.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0025" view="all">Distribution of sizes in the calcined thoria powders.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0030" view="all">TEM image of the calcia doped thorium oxalate powder showing (a) cuboidal morphology, and (b) lattice image from a cuboid edge.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0035" view="all">TEM image of the calcined thoria (a) undoped, showing triple line voids, (b) facetted nanocrystallites, (c) calcia doped thoria, dark-field image and (d) grain boundaries between the nanocrystallites.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0040" view="all">Dependence of sintered density on the dopant concentration in TM.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0045" view="all">Dependence of sintered density on the dopant concentration in TC.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0050" view="all">SEM micrograph of a high density thoria pellet TC0.50.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0055" view="all">Characteristics of the thoria powders.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="9">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <colspec colname="col7" align="left"/>
+                  <colspec colname="col8" align="left"/>
+                  <colspec colname="col9" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Dopant MO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">MO (Mol%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col4" nameend="col5">Bulk density (Mg<hsp sp="0.25"/>m<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col7">Specific surface area (m<sup loc="post">2</sup>
+                           <hsp sp="0.25"/>g<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">X-ray crystallite size (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Residual carbon content (%)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">T</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">T</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">T</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">T</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TP</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.180</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TM 0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2">MgO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.180</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TM 0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.106</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TM 0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.129</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col9">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TC 0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2">CaO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.098</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TC 0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.098</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TC 0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">19.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.199</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0060" view="all">O<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Oxalate powder; T<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Thoria powder.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0010" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0065" view="all">Distribution of particle size in the powders.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4">Particle size distribution (vol.%)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10 vol.% of sample has size less than (μm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50 vol.% of sample has size less than (μm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">90 vol.% of sample has size less than (μm)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TP</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">375.74</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TC 0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">52.36</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TC 0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.37</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">35.20</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TM<hsp sp="0.25"/>0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.23</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TM 0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.21</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TM 0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">149.31</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0015" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0070" view="all">Characteristics of the pellets.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Green density (%TD)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col3" nameend="col5">Sintered density (%TD)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1473 (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1673 (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1873 (K)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TP</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">96.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">93.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">96.4</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TC 0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">51.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">97.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">95.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">96.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TC 0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">96.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">97.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">98.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TC 0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">96.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">98.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">98.6</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TM 0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">95.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">95.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">95.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TM 0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">51.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">97.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">93.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">95.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TM 0.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">97.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">94.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">96.7</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0075" view="all">TD: Theoretical Density.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Synthesis and sintering of nanocrystalline thoria doped with CaO and MgO derived through oxalate-deagglomeration</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>K.</ce:given-name>
+                  <ce:surname>Ananthasivan</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Balakrishnan</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Anthonysamy</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Divakar</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>E.</ce:given-name>
+                  <ce:surname>Mohandas</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>V.</ce:given-name>
+                  <ce:surname>Ganesan</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Chemistry Group, IGCAR, Kalpakkam 603 102, India</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Physical Metallurgy Division, Metallurgy Group, IGCAR, Kalpakkam 603 102, India</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +91 44 2748 0500x24069; fax: +91 44 2748 0065.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="18" month="7" year="2012"/>
+            <ce:date-accepted day="20" month="11" year="2012"/>
+            <ce:abstract class="author" xml:lang="en"><ce:abstract-sec>
+                  <ce:simple-para id="sp0005" view="all">Thorium dioxide doped with oxides of magnesium and calcium was prepared from deagglomerated mixed oxalates. The influence of the dopant oxide concentration (0.1, 0.25 and 0.5<ce:hsp sp="0.25"/>mol% MO, M<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Mg, Ca) on the powder properties was studied. The dependence of bulk density, specific surface area, X-ray crystallite size, residual carbon content and distribution of particle size on the dopant concentrations was investigated in detail. The transmission electron microscopy (TEM) investigations revealed that the powders comprised cuboidal agglomerates with a nanocrystalline substructure (10<ce:hsp sp="0.25"/>nm). It was found that 0.5<ce:hsp sp="0.25"/>mol% calcia doped thoria exhibits better sinterability than pure thoria and magnesia doped thoria at a temperature as low as 1673<ce:hsp sp="0.25"/>K. Further, it was demonstrated for the first time that doping nanocrystalline thoria with calcia helps reduce the de-sintering phenomena.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Thorium oxide (thoria) is an important ceramic oxide used in the nuclear industry. High density thoria pellets are used in pressurized heavy water reactors (PHWRs) for flux flattening and in the blankets of Fast Breeder Reactors (FBRs) <ce:cross-ref refid="b0005">[1]</ce:cross-ref>. It is one of the oxides that are being considered as a matrix for the selective partitioning and transmutation of plutonium and minor actinides <ce:cross-refs refid="b0010 b0015">[2,3]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0010" view="all">The chemical inertness and high melting point (3573<ce:hsp sp="0.25"/>K) <ce:cross-ref refid="b0020">[4]</ce:cross-ref> of thoria make it suitable for applications in other industries as well. It is used as a stabilizer in tungsten electrodes in TIG (Tungsten Inert Gas) welding, and in the manufacture of electron tubes <ce:cross-ref refid="b0025">[5]</ce:cross-ref>. Yttria doped thoria (YDT) is used as an oxide ion conducting solid electrolyte in the construction of galvanic cells used in the measurement of oxygen partial pressures at high temperatures <ce:cross-ref refid="b0030">[6]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0015" view="all">Most of the applications mentioned above require the use of thorium oxide bodies with a sintered density better than 95% TD. These are usually obtained by sintering at temperatures above 2073<ce:hsp sp="0.25"/>K. Thus the fabrication of high density thoria is an expensive and energy intensive process. However, recent investigations on the citrate-gel-combustion synthesis of thoria have shown that nanocrystalline thoria could be sintered to a final density of 9.6<ce:hsp sp="0.25"/>Mg<ce:hsp sp="0.25"/>m<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>at a temperature as low as 1573<ce:hsp sp="0.25"/>K <ce:cross-refs refid="b0035 b0040 b0045 b0050">[7–10]</ce:cross-refs>. Further, it has also been demonstrated that doping aliovalent cations in nanocrystalline thoria enhances the cation diffusivity and brings about activated sintering <ce:cross-refs refid="b0035 b0055">[7,11]</ce:cross-refs>. Citrate gel-combustion is amenable for such a doping and ensures a homogeneous distribution of the dopant ion in the host matrix. In spite of these advantages, nanocrystalline thoria derived through the citrate-gel combustion was not found suitable for the fabrication of crucibles for it yielded products with a large fraction of microporosity <ce:cross-ref refid="b0060">[12]</ce:cross-ref> that led to an undesirable reduction in density when sintered at a higher temperature (1873<ce:hsp sp="0.25"/>K). A similar observation has been observed in sol–gel derived thoria, which was termed as de-sintering by Morgan and McCorckle <ce:cross-ref refid="b0065">[13]</ce:cross-ref>. Investigations carried out in our laboratory <ce:cross-ref refid="b0070">[14]</ce:cross-ref> had revealed that the thoria powders derived from deagglomerated thorium oxalate are nanocrystalline and exhibit a better densification behaviour than those derived through gel-combustion. Another investigation <ce:cross-ref refid="b0055">[11]</ce:cross-ref> also suggests that the de-sintering in combustion derived thoria could be brought down by doping it with calcia and magnesia. Thus it is expected that nanocrystalline thoria derived from thorium oxalate doped with calcia or magnesia would be most suitable for making high density thoria ceramics. Since, no systematic investigation has so far been reported on the sinterability of oxalate derived nanocrystalline thoria doped with calcia and magnesia, we investigated the sinterability of the same in this study. We have also investigated the effect of both the temperature (1473, 1673 and 1873<ce:hsp sp="0.25"/>K) and the concentration (0.1, 0.25 and 0.5<ce:hsp sp="0.25"/>mol%) of the dopants (CaO, MgO) on the sinterability of nanocrystalline thoria.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Chemicals</ce:section-title>
+                     <ce:para id="p0020" view="all">Nuclear grade thorium (IV) nitrate penta hydrate was obtained from M/s. Indian Rare Earths Ltd., Mumbai, India. Calcium nitrate (AR grade) was supplied by M/s. E. Merck (India) Ltd., Mumbai, India. Magnesium nitrate of purity better than 99% was obtained from M/s. Fluka Chemie AG, Buchs, Switzerland.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Experimental procedure</ce:section-title>
+                     <ce:para id="p0025" view="all">In a typical experiment, about 50<ce:hsp sp="0.25"/>g of thorium nitrate, appropriate quantities of magnesium nitrate (or calcium nitrate) and oxalic acid were dissolved separately in a minimum amount of distilled water (about 75<ce:hsp sp="0.25"/>mL). The concentration of the dopants were so chosen as to correspond to a final composition of 0.1, 0.25 and 0.5<ce:hsp sp="0.25"/>mol%, MO (M<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Ca, Mg). The mixed oxalates were quantitatively precipitated by the slow addition of oxalic acid solution to the solution of nitrates (at 298<ce:hsp sp="0.25"/>K). The completion of the reaction was verified by ascertaining that no precipitation took place when an excess aliquot of oxalic acid solution was added to the filtrate. The precipitate was filtered under suction, through a sintered glass (G3) frit. Subsequently this precipitate was dispersed in propan-2-one with the help of ultrasonication (90<ce:hsp sp="0.25"/>s) in order to obtain a homogeneous suspension. Once again this suspension was filtered as before. This procedure was repeated twice and the precipitate thus obtained was dried under an infrared (IR) lamp for about an hour. The mixed oxalate was decomposed by calcination in air at 923<ce:hsp sp="0.25"/>K for 4<ce:hsp sp="0.25"/>h in a furnace fitted with silicon carbide heating elements. The powders synthesized in this study were identified by using the following nomenclature. The oxalate powders were designated as O while the products obtained by their calcination were named T. The suffix P was used to denote pure thoria while thoria powders doped with calcia and magnesia were identified by suffices C and M respectively. Their labels were further appended with 0.1, 0.25 or 0.5 indicating the nominal concentration of the dopant in mole percent. These indices are used throughout this article.</ce:para>
+                     <ce:para id="p0030" view="all">The calcined powders were compacted at 200<ce:hsp sp="0.25"/>MPa in a die lined with tungsten carbide into pellets having a diameter of about 10<ce:hsp sp="0.25"/>mm and a thickness of about 3<ce:hsp sp="0.25"/>mm by using plungers made out of tungsten carbide. An automated double action hydraulic press (M/s. Bemco Ltd., India) was used for compaction. The green compacts were sintered in a furnace equipped with molybdenum di-silicide heating elements (M/s. Carbolite, UK), at 1473, 1673 or 1873<ce:hsp sp="0.25"/>K in air for 4<ce:hsp sp="0.25"/>h. A moderate rate of heating and cooling (300<ce:hsp sp="0.25"/>K<ce:hsp sp="0.25"/>h<ce:sup loc="post">−1</ce:sup>) were employed in order to minimize the thermal shock experienced by these specimens.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Characterization of starting materials, powders and compacts</ce:section-title>
+                     <ce:para id="p0035" view="all">The impurities present in the thorium nitrate used in the present investigation were analysed by using Inductively Coupled Plasma Mass Spectrometer (ICPMS, model Elan 250, supplied by M/s. Sciex, Toronto, Canada). The surface area of the powders was measured by using the BET (Brauner, Emmett, and Teller) isotherm method with nitrogen as the adsorbate (Monosorb-16, M/s. Quantachrome Inc., USA). The particle size analyses were carried out with the help of laser light scattering (Mastersizer, M/s.<ce:hsp sp="0.25"/>Malvern, Worcestershire, UK). An XPERT MPD X-ray diffractometer system supplied by M/s. Philips, Holland was used for recording the X-ray powder diffraction patterns. The lattice strain and the mean crystallite size were measured by using the Hall Williams method <ce:cross-ref refid="b0075">[15]</ce:cross-ref>. The instrumental broadening was obtained by using a silicon single crystal.</ce:para>
+                     <ce:para id="p0040" view="all">The geometric density of the green compacts was estimated from their dimensions and weights while the density of the sintered specimens was measured by using the liquid immersion method with dibutyl phthalate as the pycnometric liquid. The residual carbon present in the powders and sintered pellets was determined by heating these samples in a stream of oxygen. The carbon dioxide thus evolved was measured by using an infrared detector.</ce:para>
+                     <ce:para id="p0045" view="all">A transmission electron microscope (TEM) was used in order to examine the morphology and microstructure of these powders. A small quantity of the powder under investigation was suspended in methanol, deagglomerated by sonicating it in an ultrasonic bath and a drop of this suspension was placed on a copper grid coated with holey carbon film. A JEOL 2000 EX-II TEM with a top entry goniometer, operated at 200<ce:hsp sp="0.25"/>kV was used to record the diffraction patterns as well as phase contrast images and diffraction.</ce:para>
+                     <ce:para id="p0050" view="all">In order to record their microstructure, the sintered pellets were ground and polished by using a standard ceramographic procedure and were thermally etched at their sintering temperature. The microstructure was recorded by using a scanning electron microscope (ESEM, Philips XL 30, The Netherlands).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Precipitation of the oxalate</ce:section-title>
+                     <ce:para id="p0155" view="all">Particles of thorium oxide assume the shape of the precursor from which they are derived, a fact often referred to as pseudomorphism <ce:cross-ref refid="b0080">[16]</ce:cross-ref>. The precipitation process starts with a molecular precursor that subsequently grows through a nanosized state that agglomerates into a microcrystalline precipitate <ce:cross-ref refid="b0085">[17]</ce:cross-ref>. Further the conditions of precipitation (pH and temperature) could also influence the morphology of the precipitate <ce:cross-ref refid="b0090">[18]</ce:cross-ref>. Factors that significantly influence the nucleation and growth of the precursor precipitate would influence the distribution of sizes <ce:cross-ref refid="b0095">[19]</ce:cross-ref> among the precursor particles.</ce:para>
+                     <ce:para id="p0160" view="all">The agglomeration of nanocrystalline powders could be by washing the precipitate with a less polar solvent. Kaliszewski and Heuer <ce:cross-ref refid="b0100">[20]</ce:cross-ref> demonstrated that the strength of these agglomerates stems from the polar interaction between the bridging water molecules and the surface hydroxyls that are hydrogen bonded. It has further been demonstrated that the strength of these agglomerates as well as the growth of crystallites in a ceramic powder could be effectively controlled by crystallizing the precursor in an organic solvent with lower surface tension <ce:cross-ref refid="b0100">[20]</ce:cross-ref>. Our earlier investigations demonstrated that higher degree of agitation during the precipitation tends to reduce the mean size of the precipitate particles <ce:cross-ref refid="b0060">[12]</ce:cross-ref>. Oktay and Yayli <ce:cross-ref refid="b0090">[18]</ce:cross-ref> demonstrated that the size of thorium oxalate particles could be reduced by ultrasonication and that their size distribution has a bearing on their pyrolysis.</ce:para>
+                     <ce:para id="p0055" view="all">The precipitation carried out by adding oxalic acid to the mixed nitrate solution was found to yield a free flowing and less agglomerated thorium oxalate powder than those obtained by reversing the order of addition of the reactants. XRD analysis of the dried precipitate showed that it comprised nanocrystalline thorium oxalate. Further the precipitation reaction was not influenced by the presence of the dopant cation. Thus powders of both pure and doped thorium oxalate were identical in their characteristics.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Characteristics of the powders</ce:section-title>
+                     <ce:para id="p0060" view="all">The bulk densities of the thoria powders were found to lie between 1 and 1.2<ce:hsp sp="0.25"/>Mg<ce:hsp sp="0.25"/>m<ce:sup loc="post">−3</ce:sup> (<ce:cross-ref refid="t0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/> and <ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>). These values are comparable with those pertaining to pure <ce:cross-ref refid="b0055">[11]</ce:cross-ref> and doped thoria <ce:cross-ref refid="b0070">[14]</ce:cross-ref> reported in earlier investigations. Even though the bulk density does not show any dependence on the dopant concentration, a marginal increase in the same is observed with the concentration of calcia in the host matrix while the magnesia doped powders did not exhibit such behaviour. The values of specific surface area of these powders (<ce:cross-ref refid="t0005">Table 1</ce:cross-ref> and <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>) were not significantly affected by the concentration of the dopant. This observation is similar to the trend observed in Ref. <ce:cross-ref refid="b0055">[11]</ce:cross-ref> and is in contrast to the results reported in an earlier study on thoria doped with cations of group VB <ce:cross-ref refid="b0035">[7]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0065" view="all">Addition of dopants that are known to enhance the sinterability could result in substantial binding between the constituent particles in agglomerate and enhance the bulk density of that powder <ce:cross-ref refid="b0050">[10]</ce:cross-ref>. However this study does not reveal such a trend. Plausibly neither the conditions employed for calcination nor the concentration of dopants caused a significant growth of the crystallites or bonding between the agglomerates.</ce:para>
+                     <ce:para id="p0070" view="all">The XRD patterns (<ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>) pertaining to the calcined powders ascertained their phase purity and that their constituent crystallites had a typical size of about 10<ce:hsp sp="0.25"/>nm. The crystallite size of the thorium oxalate (primary) particles is governed by the precipitation conditions while that of thoria (secondary) particles depends upon on the size of the precursor as well as on the temperature and duration of calcination. Allred et al. <ce:cross-ref refid="b0105">[21]</ce:cross-ref> reported that the X-ray crystallite size of thoria derived through the oxalate route varies exponentially with the temperature of calcination. An earlier investigation <ce:cross-ref refid="b0070">[14]</ce:cross-ref> carried out in our laboratory revealed that a similar trend is observed with thoria derived through the oxalate de-agglomeration route. However, the latter powders were found to have a much smaller crystallite size than those reported in Ref. <ce:cross-ref refid="b0085">[17]</ce:cross-ref>. The X-ray crystallite sizes of the powders obtained in this study were comparable to those reported in Ref. <ce:cross-ref refid="b0070">[14]</ce:cross-ref> and were not affected by the concentration of the dopant. This further substantiates the fact that the dopant did not cause any significant pre-sintering among the particles and augurs well with the dependence of bulk density on the concentration of the dopant discussed in the previous section. Yet another important observation is that the crystallite size of these powders was smaller than those derived through combustion synthesis, reported in an earlier study <ce:cross-ref refid="b0030">[6]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0075" view="all">The distribution of particle sizes in the thoria powders are depicted in <ce:cross-ref refid="f0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/> and <ce:cross-ref refid="t0010">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="t0010"/>. The size distribution of the agglomerates did not show any systematic dependence on the dopant concentration. This observation augurs well with the other characteristics discussed above. However, pure thoria powders exhibited an enhancement in the size fraction of the agglomerates with a mean size greater than 100<ce:hsp sp="0.25"/>μm. This could be due to the agglomeration of the particulates in the dispersion medium during the particle size measurement. Ultrasonication of the suspension during the particle size measurement could lead to fracture of these particulates and introduce experimental artifacts. In view of the above it is reasonable to conclude that the dopants did not influence the size distribution significantly.</ce:para>
+                     <ce:para id="p0080" view="all">All the thoria powders were free flowing and the green compacts (120<ce:hsp sp="0.25"/>MPa) obtained from them had similar densities (about 50–52% TD), revealing that their constituent agglomerates had comparable strength.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Residual carbon</ce:section-title>
+                     <ce:para id="p0085" view="all">The amounts of carbon residue in the powders obtained in this study are listed in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>. The calcined powders had a residual carbon content of about 1000–1800<ce:hsp sp="0.25"/>ppm. These values are much lower than those observed for the powders derived through gel-combustion <ce:cross-ref refid="b0040">[8]</ce:cross-ref>. The quantity of carbon residue did not show any systematic dependence on the concentration of the dopant.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title>Microstructure</ce:section-title>
+                     <ce:para id="p0090" view="all">The SEM image of the powders obtained in this study is shown in <ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/>. From this figure it is evident that these particles possess irregular cuboidal morphology and do not possess any submicron porosity, unlike their combustion derived counterparts <ce:cross-ref refid="b0055">[11]</ce:cross-ref>. Further the EDAX analysis revealed that thorium was the major constituent and that no second phase was precipitated in the host matrix. It has been demonstrated <ce:cross-ref refid="b0070">[14]</ce:cross-ref> that oxalate derived thoria possesses a cuboidal morphology, while deagglomerated thorium oxalate yields thoria platelets which are only about a few nanometers thick. No systematic variation in the morphology was discernible with the concentration of the dopants.</ce:para>
+                     <ce:para id="p0095" view="all">
+                        <ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref>a, is a bright-field image of the 0.5<ce:hsp sp="0.25"/>mol% CaO doped thorium oxalate revealing cuboids with a size of about 0.5<ce:hsp sp="0.25"/>μm. The rough cuboids of the oxalate particles (not shown) composed of randomly oriented nanocrystallites got transformed into sharp cuboids upon doping with calcia. Higher resolution imaging showed that these cuboids are agglomerates of irregularly-shaped nanocrystallites with a size in the range 5–10<ce:hsp sp="0.25"/>nm. A close inspection of the lattice planes along an edge of a cuboidal agglomerate (<ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref>b) where lattice planes with a spacing of about 0.3<ce:hsp sp="0.25"/>nm are imaged shows that the nanocrystallites do not follow any systematic orientation relationships with the flat outer surface of the cuboids.</ce:para>
+                     <ce:para id="p0100" view="all">Thoria powders derived from calcination of these agglomerates exhibiting an external cuboidal morphology also showed a similar morphology. The calcination process had the effect of smoothing out surface irregularities in the precursor particles resulting in sharp edges and corners. <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/>a, is a lattice image from one such agglomerate of undoped thoria. It is evident from this figure that the agglomerates are composed of randomly oriented nanocrystallites with a size of about ∼10<ce:hsp sp="0.25"/>nm. A small number of 1–2<ce:hsp sp="0.25"/>nm sized voids were seen at some of the triple line junctions. <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>b is a higher magnification detail from a typical nanocrystallite in the [1<ce:hsp sp="0.12"/>1<ce:hsp sp="0.12"/>0] orientation where it is seen that the surface is facetted. <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>c shows a dark-field image from the calcia doped thoria recorded with a section of the (1<ce:hsp sp="0.12"/>1<ce:hsp sp="0.12"/>1) and (2<ce:hsp sp="0.12"/>0<ce:hsp sp="0.12"/>0) diffraction rings. The image shows a region of overlap of two cuboidal agglomerates. The nanocrystallites within are randomly oriented and no nano-sized voids could be detected in the regions observed. <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>d shows typical interfaces between the nanocrystallites where no structural evidence for segregation of dopant could be seen. The crystallite sizes are in agreement with the XRD derived values presented in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title>Characteristics of the pellets</ce:section-title>
+                     <ce:para id="p0105" view="all">A compaction pressure of 200<ce:hsp sp="0.25"/>MPa was required in order to obtain green pellets with a density better than 50% TD. This value is more than the critical compaction pressure of 120<ce:hsp sp="0.25"/>MPa reported for thoria derived through the conventional oxalate route <ce:cross-ref refid="b0110">[22]</ce:cross-ref>. Nanocrystalline powders often require higher compaction pressures <ce:cross-ref refid="b0115">[23]</ce:cross-ref> due to a higher magnitude of interparticle friction. Further it is reported that nanocrystalline powders need not be compacted to 50% TD in order to obtain a final product with a density higher than 90% TD <ce:cross-ref refid="b0115">[23]</ce:cross-ref>. Hence pellets with a lower density obtained by precompacting at 120<ce:hsp sp="0.25"/>MPa, (that did not possess the desired handling strength) were crushed and re-compacted at a final compaction pressure of 200<ce:hsp sp="0.25"/>MPa. The densities of these green pellets are given in <ce:cross-ref refid="t0015">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="t0015"/>. There is no significant variation in the green densities of the pellets with an increase in dopant concentration. Almost all the green pellets exhibited a theoretical density of about 50% TD. This observation is consistent with the particle size distribution and bulk density data.</ce:para>
+                     <ce:para id="p0110" view="all">The sintered densities of the pellets obtained from pure and doped thoria are listed in <ce:cross-ref refid="t0015">Table 3</ce:cross-ref>. The dependence of the sintered densities of the pellets on the concentration of the dopants MgO and CaO are depicted in <ce:cross-refs refid="f0035 f0040">Figs. 7 and 8</ce:cross-refs>
+                        <ce:float-anchor refid="f0035"/>
+                        <ce:float-anchor refid="f0040"/> respectively. The data reported in an earlier study <ce:cross-ref refid="b0055">[11]</ce:cross-ref> on the sinterability of combustion derived nanocrystalline thoria doped with MgO and CaO are also shown in these figures for comparison.</ce:para>
+                     <ce:para id="p0115" view="all">These data bring out the following facts. All the powders sinter to a density better than 95% TD at 1473<ce:hsp sp="0.25"/>K. However, the densities of the pellets sintered at 1673<ce:hsp sp="0.25"/>K are lower than those sintered at 1473 and 1873<ce:hsp sp="0.25"/>K. Magnesia doped thoria sinters to lower densities at temperatures above 1473<ce:hsp sp="0.25"/>K. These density values are comparable with that of pure thoria sintered under identical conditions. Compared to the combustion derived magnesia doped thoria <ce:cross-ref refid="b0055">[11]</ce:cross-ref> the powders obtained in this study sinter better and exhibit lesser reduction in density when sintered at temperatures above 1473<ce:hsp sp="0.25"/>K.</ce:para>
+                     <ce:para id="p0120" view="all">Thoria doped with calcia sinters to higher densities than those doped with magnesia. In most cases a density better than 95% TD was observed. The sintering experiment carried out at 1473<ce:hsp sp="0.25"/>K did not reveal any systematic dependence on the concentration of the dopant while the experiments carried out at 1673 and 1873<ce:hsp sp="0.25"/>K showed a discernible trend. In the latter a threshold concentration of 0.25<ce:hsp sp="0.25"/>mol% was found necessary in order to achieve a density better than 95% TD. Further pure thoria (TP) and TC0.10 were found to yield lesser densities when sintered at higher temperatures. Morgan and McCorkle <ce:cross-ref refid="b0065">[13]</ce:cross-ref> reported that dense compacts (9.9<ce:hsp sp="0.25"/>Mg<ce:hsp sp="0.25"/>m<ce:sup loc="post">−1</ce:sup>) of thorium dioxide obtained from sol–gel derived powder became less dense and the value of the density dropped to 8.9<ce:hsp sp="0.25"/>Mg<ce:hsp sp="0.25"/>m<ce:sup loc="post">−3</ce:sup> when reheated at 2073<ce:hsp sp="0.25"/>K. This phenomenon is known as de-sintering and is believed to be due to coalescence of pores during resintering. The sintering behaviour of the powders TP and TC0.10 could be related to de-sintering.</ce:para>
+                     <ce:para id="p0125" view="all">In the thorium oxide lattice, diffusion of Th<ce:sup loc="post">4+</ce:sup> ions is many times slower than that of O<ce:sup loc="post">2−</ce:sup> ions. Creation of point defects in this lattice enhances the rate of diffusion of the cation. These point defects could be created in two ways, viz., by additives and by controlling the sintering atmosphere. Doping a cation with a valence less than 4 (MgO, CaO) would create vacant oxygen sites while a cation with a valence more than four would create oxygen interstitials in the thoria lattice. Balakrishna et al. <ce:cross-ref refid="b0120">[24]</ce:cross-ref> obtained densities in the range of 9.37–9.59<ce:hsp sp="0.25"/>Mg<ce:hsp sp="0.25"/>m<ce:sup loc="post">−3</ce:sup> for magnesium oxide doped, (oxalate derived) thorium dioxide sintered in pure hydrogen at 1973<ce:hsp sp="0.25"/>K. The data presented here clearly demonstrates that the deagglomerated thoria powders doped with 0.25<ce:hsp sp="0.25"/>mol% calcia (TC0.25) could be sintered to a density of 96.7% TD even at a temperature as low as 1473<ce:hsp sp="0.25"/>K and is thus more sinteractive than the oxalate derived thoria that were physically doped with calcia <ce:cross-ref refid="b0120">[24]</ce:cross-ref>. From the foregoing it is evident that the addition of both calcia and magnesia does bring about a marginal increase in the sintered density of nanocrystalline thoria even at temperatures as low as 1473<ce:hsp sp="0.25"/>K. Further it is also observed that the incorporation of calcia into the thorium dioxide lattice helps alleviate the problem of de-sintering observed in pure thoria pellets at temperatures above 1673<ce:hsp sp="0.25"/>K.</ce:para>
+                     <ce:para id="p0130" view="all">Balakrishna et al. <ce:cross-ref refid="b0120">[24]</ce:cross-ref> reported that sintering in a reducing atmosphere enhances the sinterability of thoria doped with calcia and magnesia. Hence, it would be worthwhile to re-investigate the sinterability of these powders in a reducing ambience. In physical doping, the dopant oxide is interspersed between the particles of the host oxide (thoria). Thus a higher concentration of the dopant prevails in the vicinity of the grain boundaries at the start of the sintering. Hence, when the dopant is added by physical mixing, even a much lower concentration of the dopant could bring about accelerated sintering. However, if this dopant oxide is volatile, preferential vaporization could render the sintered compact porous <ce:cross-ref refid="b0035">[7]</ce:cross-ref>. In the physical doping procedure reported in Ref. <ce:cross-ref refid="b0120">[24]</ce:cross-ref> a threshold concentration of 0.25<ce:hsp sp="0.25"/>mol% MgO was necessary in order to bring about accelerated sintering in thoria. The present study reveals that the sinterability of nanocrystalline thoria is not altered significantly by doping with magnesia.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0060" view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title>Analysis of microstructure</ce:section-title>
+                     <ce:para id="p0135" view="all">From the SEM micrograph of sintered pellets obtained from TC0.50 shown in <ce:cross-ref refid="f0045">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="f0045"/>, it is evident that this pellet has isolated closed pores. The energy dispersive X-ray analysis showed that thorium is the major constituent. No reflections pertaining to calcium could be discerned. The presence of porosity in the final product supports our surmise that calcium inhibits the elimination of the closed pores by coalescence in the final stages of sintering. Since de-sintering is a common phenomenon observed with the gel-combustion derived nanocrystalline powders, the observations made in this study are valuable in preventing the same. A sintered density as high as 98.8% TD, for thoria at a temperature as low as 1673<ce:hsp sp="0.25"/>K is being reported for the first time.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0065" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para id="p0140" view="all">Nanocrystalline powders of pure thoria as well as thoria doped with calcia and magnesia were synthesized by using the oxalate de-agglomertion method. It was observed that the concentration of the dopant ion (Ca<ce:sup loc="post">2+</ce:sup> and Mg<ce:sup loc="post">2+</ce:sup>) had a marginal influence on the bulk density and specific surface area while it did not affect the crystallite size of these powders. The residual carbon content was found to be of the same order in all the powders irrespective of the concentration of the dopant.</ce:para>
+                  <ce:para id="p0145" view="all">Complex surface phenomena are at play during the precipitation of cuboidal nanocrystallite oxalate agglomerates from solution where the role of calcia is found to be significant. The reduction in the triple line defects in the doped oxide powder suggests that the dopant species has a beneficial effect on the consolidation process even at temperatures far below the sintering temperature.</ce:para>
+                  <ce:para id="p0150" view="all">The TEM investigations of these powders reaffirmed that the dopants were uniformly distributed into the host matrix. Thus, this method is a novel procedure for synthesizing nanocrystalline thoria homogenously doped with cations of Group 2 elements at relatively low temperatures. The powders were irregular nanocrystallites agglomerated as cuboidal particles pseudomorphic with the oxalate precursor. These powders exhibited good compactibility and yielded green compacts with a density as high as 50% TD. A density as high as 98.8% TD could be obtained by doping calcia into thoria and at a temperature as low as 1673<ce:hsp sp="0.25"/>K. This is so far the highest density reported in calcia doped thoria. Further calcium doping was found to prevent de-sintering, a common behaviour observed with most nanocrystalline powders.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bs0005">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Anantharaman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Shivakumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Saha</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>383</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                              <sb:last-page>121</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Hj.</ce:given-name>
+                                 <ce:surname>Matzke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Rondinella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Wiss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>274</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>47</sb:first-page>
+                              <sb:last-page>53</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lombardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Luzzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Padovani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Vettraino</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Nucl. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>944</sb:first-page>
+                              <sb:last-page>953</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>John.</ce:given-name>
+                                 <ce:surname>Emsley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nature’s Building Blocks</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>fourth ed.</sb:edition>
+                              <sb:date>2001</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Oxford University Press</sb:name>
+                                 <sb:location>United Kingdom</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>p. 441</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Schade</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Refract. Met. H</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>648</sb:first-page>
+                              <sb:last-page>660</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.M.B.</ce:given-name>
+                                 <ce:surname>Marques</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Wirtz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>598</sb:first-page>
+                              <sb:last-page>605</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ananthasivan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Anthonysamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sudha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.E.</ce:given-name>
+                                 <ce:surname>Terrance</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Vasudeva Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>300</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>217</sb:first-page>
+                              <sb:last-page>229</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Chandramouli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Anthonysamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Vasudeva Rao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Divakar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sundararaman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>231</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>213</sb:first-page>
+                              <sb:last-page>220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Chandramouli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Anthonysamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Vasudeva Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>265</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>255</sb:first-page>
+                              <sb:last-page>261</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Anthonysamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ananthasivan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Chandramouli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kaliappan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Vasudeva Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>278</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>346</sb:first-page>
+                              <sb:last-page>357</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K. Ananthasivan, V. Chandramouli, S. Anthonysamy, P.R. Vasudeva Rao, in: Proc. International Conference on Characterization and Quality Control of Nuclear Fuels (CQCNF-2002), Hyderabad, December. 2002, 482–497.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K. Ananthasivan, Ph.D. Dissertation, University of Madras, Chennai, 2002.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Morgan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>McCorkle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Powell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J.<ce:hsp sp="0.25"/>Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104</sb:first-page>
+                              <sb:last-page>107</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ananthasivan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Anthonysamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Alok</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Vasudeva Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>306</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>E.J.</ce:given-name>
+                                    <ce:surname>Mittemeijer</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>P.</ce:given-name>
+                                    <ce:surname>Scardi</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Springer Series in Materials Science, vol. 68</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer-Verlag</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Reetz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Haase</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>P.</ce:given-name>
+                                       <ce:surname>Vincenzini</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Proc. World Congress on High Tech Ceramics, sixth Int Meeting on Modern Ceramics Technol (6th CIMTEC), Milan, Italy, June 24–28, 1987</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier Science Publishers</sb:name>
+                                 <sb:location>UK</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>481</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater.<ce:hsp sp="0.25"/>Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>351</sb:first-page>
+                              <sb:last-page>355</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Oktay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Yayli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>288</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>76</sb:first-page>
+                              <sb:last-page>82</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Dosaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yoshioka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Okuwaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Torii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Onodera</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J.<ce:hsp sp="0.25"/>Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>552</sb:first-page>
+                              <sb:last-page>556</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Kaliszewski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Heuer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J.<ce:hsp sp="0.25"/>Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1504</sb:first-page>
+                              <sb:last-page>1509</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.D.</ce:given-name>
+                                 <ce:surname>Allred</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Buxton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>McBride</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1957</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                              <sb:last-page>120</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Balakrishna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.P.</ce:given-name>
+                                 <ce:surname>Varma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Krishnan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.R.R.</ce:given-name>
+                                 <ce:surname>Mohan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ramakrishna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>657</sb:first-page>
+                              <sb:last-page>660</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>Joanna R.</ce:given-name>
+                                    <ce:surname>Groza</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>Carl C.</ce:given-name>
+                                    <ce:surname>Koch</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Nanostructured Materials – Processing, Properties and Applications</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2007</sb:date>
+                              <sb:publisher>
+                                 <sb:name>William Andrew Publishing</sb:name>
+                                 <sb:location>New York, USA</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>115</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Balakrishna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.P.</ce:given-name>
+                                 <ce:surname>Varma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Krishnan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.R.R.</ce:given-name>
+                                 <ce:surname>Mohan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ramakrishnan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>160</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>88</sb:first-page>
+                              <sb:last-page>94</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

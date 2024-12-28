@@ -1,0 +1,5706 @@
+Title:
+Size effects on Debye temperature  Einstein temperature  and volume thermal expansion coefficient of nanocrystals
+
+Abstract:
+Based on a size-dependent root of mean square amplitude (rms) model, the size-dependent Debye temperatures of nanocrystals are modeled without any adjustable parameter by considering both Lindemann’s criterion and Mott’s equation. In terms of this model, the Debye temperatures depend on both size and interface conditions, which lead to related applications on size effects of the Einstein temperature and the volume thermal expansion coefficient. It is found that the model’s predictions are in good agreement with available experimental and computer simulation results.
+
+Keywords:
+A. Metals
+D. Thermodynamic properties
+
+Acknowledgements:
+Financial support from the National Key Basic Research and Development Program (Grant No. 2004CB619301) and from the “985 Project” of Jilin University are acknowledged.
+
+PACS:
+61.46.+w
+65.40.-b
+
+Introduction:
+The physical properties of nanocrystals have been investigated extensively both theoretically and experimentally due to their scientific and industrial importance [1]. As the size of low-dimensional materials decreases to the nanometer size range, the electronic, magnetic, optic, catalytic, and thermodynamic properties of the materials are significantly altered from those of either the bulk or a single molecule [1]. Among these properties of nanocrystals, the Debye temperature of nanocrystals, 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , has received considerable attention, since it is an essential physical quantity to characterize many material properties, such as the thermal vibration of atoms and phase transitions, where 
+                        D
+                      denotes the diameter of nanoparticles and nanowires or the thickness of thin films [2–12]. Moreover, some important physical properties and their size effects, such as the Einstein temperature 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and the volume thermal expansion coefficient 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , are all related to the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function [4,7,13]. Once the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function is known, the other two can be determined. Therefore, it is important to determine this function.
+It is now known that the above physical properties of a free nanocrystal decrease as its 
+                        D
+                      decreases [2,7,9,13], while they can decrease or increase for nanocrystals embedded in a matrix or deposited on a substrate [3–6,8,10–12]. A body of evidence shows that enhancement or depression of the foregoing physical properties of nanocrystals in a matrix essentially depends on the chemical interaction at interfaces between embedded nanocrystals and the matrix [3–6,8,10–12]. For instance, when the interfaces are coherent or semi-coherent, which denotes a strong bond connection, the enhancement of 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                      of the nanocrystals is present [11,12]. Although size effects on all of the above physical properties have been modeled separately by a series of related theoretical approaches, consistent insight and a systematic thermodynamic treatment considering both the size and interface effects are highly desirable in order to reveal the physical nature of the nanocrystals.
+In this contribution, 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions of nanocrystals are modeled in the form of the root of mean square amplitude (rms) model. The model that is established is extended to predict the size effects on 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                      and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                      of nanocrystals. The model predictions agree well with known experimental and computer simulation results.
+
+Model:
+In terms of the Debye model, the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                      function is related to the rms 
+                        σ
+                      by [4,14], 
+                        
+                           (1)
+                           
+                              
+                                 
+                                    σ
+                                 
+                                 
+                                    2
+                                 
+                              
+                              ∝
+                              T
+                              /
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                                 
+                                    2
+                                 
+                              
+                           
+                        
+                      when 
+                        T
+                        >
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        /
+                        2
+                     , where 
+                        T
+                      is the temperature and 
+                        ∞
+                      denotes the bulk size.
+According to Lindemann’s criterion [15] for melting and Mott’s equation [16,17], the size-dependent rms 
+                        σ
+                        
+                           (
+                           D
+                           )
+                        
+                      has been found to have the following form [14,18]: 
+                        
+                           (2)
+                           
+                              σ
+                              
+                                 (
+                                 D
+                                 )
+                              
+                              /
+                              σ
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              
+                                 
+                                    exp
+                                    
+                                       {
+                                       
+                                          (
+                                          α
+                                          −
+                                          1
+                                          )
+                                       
+                                       /
+                                       
+                                          [
+                                          
+                                             (
+                                             D
+                                             /
+                                             
+                                                
+                                                   D
+                                                
+                                                
+                                                   0
+                                                
+                                             
+                                             )
+                                          
+                                          −
+                                          1
+                                          ]
+                                       
+                                       }
+                                    
+                                 
+                              
+                           
+                        
+                      where 
+                        α
+                        =
+                        
+                           
+                              σ
+                           
+                           
+                              s
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        /
+                        
+                           
+                              σ
+                           
+                           
+                              ν
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , with 
+                        
+                           
+                              σ
+                           
+                           
+                              s
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        
+                           
+                              σ
+                           
+                           
+                              ν
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      denoting size-dependent rms values of the surface and interior atoms of nanocrystals, respectively [14,18], and 
+                        
+                           
+                              D
+                           
+                           
+                              0
+                           
+                        
+                      shows a critical diameter at which all atoms of a low-dimensional material are located on its surface, which depends on dimension 
+                        d
+                      and atomic diameter 
+                        h
+                      through [14,19], 
+                        
+                           (3)
+                           
+                              
+                                 
+                                    D
+                                 
+                                 
+                                    0
+                                 
+                              
+                              =
+                              2
+                              
+                                 (
+                                 3
+                                 −
+                                 d
+                                 )
+                              
+                              h
+                           
+                        
+                      where 
+                        d
+                        =
+                        0
+                      for nanoparticles, 
+                        d
+                        =
+                        1
+                      for nanowires, and 
+                        d
+                        =
+                        2
+                      for thin films.
+In Eq. (2), the parameter 
+                        α
+                      must be known to determine 
+                        σ
+                        
+                           (
+                           D
+                           )
+                        
+                     . For crystals with free surfaces, such as free-standing particles, particles or thin films deposited on inert substrates, and nanowires in inert porous glasses, their 
+                        
+                           
+                              σ
+                           
+                           
+                              s
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        >
+                        
+                           
+                              σ
+                           
+                           
+                              ν
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        α
+                        >
+                        1
+                      [14], and [14,19], 
+                        
+                           (4)
+                           
+                              α
+                              =
+                              
+                                 [
+                                 2
+                                 
+                                    Δ
+                                 
+                                 
+                                    
+                                       S
+                                    
+                                    
+                                       
+                                          vib
+                                       
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 /
+                                 
+                                    (
+                                    3
+                                    R
+                                    )
+                                 
+                                 ]
+                              
+                              +
+                              1
+                              ,
+                           
+                        
+                      where 
+                        R
+                      is the ideal gas constant and 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      is the vibrational part of the overall melting entropy 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     , which consists of at least three components: positional 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 pos
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     , vibrational 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     , and electronic 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 el
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      [17]. Namely, 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        +
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 pos
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        +
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 el
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      and 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 pos
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        −
+                        R
+                        
+                           (
+                           
+                              
+                                 x
+                              
+                              
+                                 A
+                              
+                           
+                           ln
+                           
+                              
+                                 x
+                              
+                              
+                                 A
+                              
+                           
+                           +
+                           
+                              
+                                 x
+                              
+                              
+                                 B
+                              
+                           
+                           ln
+                           
+                              
+                                 x
+                              
+                              
+                                 B
+                              
+                           
+                           )
+                        
+                     , where 
+                        
+                           
+                              x
+                           
+                           
+                              A
+                           
+                        
+                      and 
+                        
+                           
+                              x
+                           
+                           
+                              B
+                           
+                        
+                      are molar fractions of crystals and vacancies, respectively [17]. For the melting transition, 
+                        
+                           
+                              x
+                           
+                           
+                              A
+                           
+                        
+                        =
+                        1
+                        /
+                        
+                           (
+                           1
+                           +
+                           
+                              Δ
+                           
+                           
+                              
+                                 V
+                              
+                              
+                                 m
+                              
+                           
+                           /
+                           
+                              
+                                 V
+                              
+                              
+                                 s
+                              
+                           
+                           )
+                        
+                     , 
+                        
+                           
+                              x
+                           
+                           
+                              B
+                           
+                        
+                        =
+                        1
+                        −
+                        
+                           
+                              x
+                           
+                           
+                              A
+                           
+                        
+                     , where 
+                        
+                           Δ
+                        
+                        
+                           
+                              V
+                           
+                           
+                              m
+                           
+                        
+                        =
+                        
+                           
+                              V
+                           
+                           
+                              l
+                           
+                        
+                        −
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                     , with 
+                        V
+                      being the molar volume and the subscripts 
+                        s
+                      and 
+                        l
+                      denoting the crystal and the liquid, respectively. For metallic crystals, the type of chemical connection does not vary during the melting transition. Thus, 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 el
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        ≈
+                        0
+                      [17] and 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        −
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 pos
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     , or 
+                        
+                           (5)
+                           
+                              
+                                 Δ
+                              
+                              
+                                 
+                                    S
+                                 
+                                 
+                                    
+                                       vib
+                                    
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              
+                                 Δ
+                              
+                              
+                                 
+                                    S
+                                 
+                                 
+                                    m
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              +
+                              R
+                              
+                                 (
+                                 
+                                    
+                                       x
+                                    
+                                    
+                                       A
+                                    
+                                 
+                                 ln
+                                 
+                                    
+                                       x
+                                    
+                                    
+                                       A
+                                    
+                                 
+                                 +
+                                 
+                                    
+                                       x
+                                    
+                                    
+                                       B
+                                    
+                                 
+                                 ln
+                                 
+                                    
+                                       x
+                                    
+                                    
+                                       B
+                                    
+                                 
+                                 )
+                              
+                              .
+However, for semi-metals, 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 el
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      strongly contributes to 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     . In this situation, 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      is determined by Mott’s equation [16], 
+                        
+                           (6)
+                           
+                              
+                                 Δ
+                              
+                              
+                                 
+                                    S
+                                 
+                                 
+                                    
+                                       vib
+                                    
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              3
+                              R
+                              ln
+                              
+                                 (
+                                 
+                                    
+                                       ν
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 /
+                                 
+                                    
+                                       ν
+                                    
+                                    
+                                       l
+                                    
+                                 
+                                 )
+                              
+                              =
+                              
+                                 (
+                                 3
+                                 /
+                                 2
+                                 )
+                              
+                              R
+                              ln
+                              
+                                 (
+                                 
+                                    
+                                       c
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 /
+                                 
+                                    
+                                       c
+                                    
+                                    
+                                       l
+                                    
+                                 
+                                 )
+                              
+                           
+                        
+                      where 
+                        ν
+                      and 
+                        c
+                      denote the characteristic vibration frequency and electrical conductivity, respectively.
+For nanocrystals embedded in a matrix with a coherent or semi-coherent interface, their 
+                        
+                           
+                              σ
+                           
+                           
+                              s
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        <
+                        
+                           
+                              σ
+                           
+                           
+                              ν
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        α
+                        <
+                        1
+                      [19], and [19], 
+                        
+                           (7)
+                           
+                              α
+                              =
+                              
+                                 [
+                                 
+                                    
+                                       
+                                          (
+                                          
+                                             
+                                                h
+                                             
+                                             
+                                                M
+                                             
+                                          
+                                          /
+                                          h
+                                          )
+                                       
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 
+                                    
+                                       T
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       T
+                                    
+                                    
+                                       M
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 +
+                                 1
+                                 ]
+                              
+                              /
+                              2
+                              ,
+                           
+                        
+                      where 
+                        
+                           
+                              h
+                           
+                           
+                              M
+                           
+                        
+                      denotes the atomic diameter of the matrix, and 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      and 
+                        
+                           
+                              T
+                           
+                           
+                              M
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      are the bulk melting temperature of the nanocrystals and the matrix, respectively.
+Based on Eq. (1), it is assumed that 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      has the same size dependence of 
+                        1
+                        /
+                        σ
+                        
+                           (
+                           D
+                           )
+                        
+                      as a first-order approximation, since the nature of any phase transition is related to the potentials of the two related phases of the crystals. Thus, 
+                        
+                           (8)
+                           
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                              
+                              
+                                 (
+                                 D
+                                 )
+                              
+                              /
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              σ
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              /
+                              σ
+                              
+                                 (
+                                 D
+                                 )
+                              
+                              .
+Substituting Eq. (2) into Eq. (8), this reads, 
+                        
+                           (9)
+                           
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                              
+                              
+                                 (
+                                 D
+                                 )
+                              
+                              /
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              
+                                 
+                                    exp
+                                    
+                                       {
+                                       −
+                                       
+                                          (
+                                          α
+                                          −
+                                          1
+                                          )
+                                       
+                                       /
+                                       
+                                          [
+                                          
+                                             (
+                                             D
+                                             /
+                                             
+                                                
+                                                   D
+                                                
+                                                
+                                                   0
+                                                
+                                             
+                                             )
+                                          
+                                          −
+                                          1
+                                          ]
+                                       
+                                       }
+                                    
+                                 
+                              
+                              .
+Since 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        ∝
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      [4] and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        ∝
+                        1
+                        /
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      [7], Eq. (9) can be extended for 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions as follows: 
+                        
+                           
+                              (10)
+                              
+                                 
+                                    
+                                       Θ
+                                    
+                                    
+                                       E
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       Θ
+                                    
+                                    
+                                       E
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 =
+                                 
+                                    
+                                       exp
+                                       
+                                          {
+                                          −
+                                          
+                                             (
+                                             α
+                                             −
+                                             1
+                                             )
+                                          
+                                          /
+                                          
+                                             [
+                                             
+                                                (
+                                                D
+                                                /
+                                                
+                                                   
+                                                      D
+                                                   
+                                                   
+                                                      0
+                                                   
+                                                
+                                                )
+                                             
+                                             −
+                                             1
+                                             ]
+                                          
+                                          }
+                                       
+                                    
+                                 
+                                 ,
+                              
+                           
+                           
+                              (11)
+                              
+                                 
+                                    
+                                       α
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       α
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 =
+                                 exp
+                                 
+                                    {
+                                    
+                                       (
+                                       α
+                                       −
+                                       1
+                                       )
+                                    
+                                    /
+                                    
+                                       [
+                                       
+                                          (
+                                          D
+                                          /
+                                          
+                                             
+                                                D
+                                             
+                                             
+                                                0
+                                             
+                                          
+                                          )
+                                       
+                                       −
+                                       1
+                                       ]
+                                    
+                                    }
+                                 
+                                 .
+
+Results and discussion:
+Comparisons between model predictions in terms of Eqs. (4), (7) and (9) and the available experimental and computer simulation results for 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions of Fe, 
+                        β
+                     -Sn, Se, Cu, Co, Au, and Ar/Al (Ar nanocrystals embedded in Al matrix) nanocrystals are shown in Fig. 1
+                     , where the related parameters are listed in Table 1
+                      (parameters used for other figures are also listed in this table). It is obvious that our model predictions for different kinds of nanocrystals in different surroundings correspond to the experimental and computer simulation results in the full size range, which implies that Eq. (9) is reasonable.
+As shown in Fig. 1(a)–(f), 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      with 
+                        α
+                        >
+                        1
+                      decreases for free nanocrystals as 
+                        D
+                      decreases. 
+                        α
+                        >
+                        1
+                      implies a decrease in 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      with an increase in the rms. Note that Fe and 
+                        β
+                     -Sn films in Fig. 1(a) and (b) may refer to fine granular structures with high densities of inner surface/grain boundaries and cannot be described by a continuous film [14]. This granular structure is similar to a random structure of a chain polymer, modeled by the trajectory of a self-avoiding walk with a fractal dimension of 
+                        d
+                        =
+                        4
+                        /
+                        3
+                      [14]. It is obvious that the depression for 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      of films with 
+                        D
+                      is weaker than that of nanoparticles, as shown in Fig. 1(a) and (b), which is induced by different values of 
+                        d
+                      and thus different values of 
+                        
+                           
+                              D
+                           
+                           
+                              0
+                           
+                        
+                      in Eq. (3). Consequently, our model can also predict the dimension dependence of 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , while different dimensions of nanocrystals have different surface /volume ratios.
+For nanocrystals embedded in a matrix with a coherent or semi-coherent interface, such as the Ar/Al system in Fig. 1(g), 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      with 
+                        α
+                        <
+                        1
+                      increases as 
+                        D
+                      decreases. 
+                        α
+                        <
+                        1
+                      implies the suppression of the rms of the nanoparticles as a total effect induced by both the surface and the interface. Although the surface of the nanocrystals still has a tendency to lower the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      value, the total effect of the surface and the interface between the nanocrystals and the matrix leads to a drop in the internal energy of the nanocrystals and thus an increase in 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      as 
+                        D
+                      decreases. Note also that 
+                        
+                           
+                              h
+                           
+                           
+                              M
+                           
+                        
+                        <
+                        h
+                      in the system reported above, although it is not a necessary condition for 
+                        α
+                        <
+                        1
+                      in Eq. (9). It is plausible that if 
+                        
+                           
+                              h
+                           
+                           
+                              M
+                           
+                        
+                        >
+                        h
+                     , the local internal stress at the interface is a tensile stress, which increases, but does not decrease the rms of the surface atoms of the nanocrystals. Thus, any evident enhancement of 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      should occur under the condition 
+                        
+                           
+                              h
+                           
+                           
+                              M
+                           
+                        
+                        <
+                        h
+                     .
+A comparison between the model predictions in the frame of Eqs. (4) and (10) and the available experimental results for the 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function of Se nanocrystals is shown in Fig. 2
+                     , where 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      decreases as 
+                        D
+                      drops. There are good agreements between the model predictions and the experimental evidence, although only experimental results of 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      suppression are compared due to the unavailability of experimental evidence.
+As shown in Fig. 3
+                     (a) and (b), comparisons between the model predictions based on Eqs. (4) and (11) and experimental results for 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      of Se and Pb nanocrystals are presented. The model predictions correspond to the experimental results of Se nanocrystals over the full size range, as shown in Fig. 3(a). For Pb nanocrystals in Fig. 3(b), our model can predict the 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           =
+                           40
+                           
+                           
+                              nm
+                           
+                           )
+                        
+                      value accurately in comparison with the experimental results, while a big divergency between them is found for the 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           =
+                           16
+                           
+                           
+                              nm
+                           
+                           )
+                        
+                      value. One possible reason is that the approximation of 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        =
+                        3
+                        
+                           
+                              α
+                           
+                           
+                              l
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      could collapse in a smaller size range (such as 
+                        D
+                        =
+                        16
+                        
+                        
+                           nm
+                        
+                     ). As mentioned above, 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      increases with decreasing 
+                        D
+                     . It is known that 
+                        
+                           
+                              E
+                           
+                           
+                              c
+                           
+                        
+                        ∝
+                        1
+                        /
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                     , where 
+                        
+                           
+                              E
+                           
+                           
+                              c
+                           
+                        
+                      denotes the cohesive energy of atoms [13] and 
+                        
+                           
+                              E
+                           
+                           
+                              c
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      decreases with decreasing 
+                        D
+                      [24], which confirms Eq. (11).
+Note that, in the above consideration, the effect of size on 
+                        h
+                      has been neglected, i.e. 
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                      or 
+                        h
+                      is assumed to be a size-independent constant, namely 
+                        
+                           Δ
+                        
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        =
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        −
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        ≈
+                        0
+                      or 
+                        
+                           Δ
+                        
+                        h
+                        =
+                        h
+                        
+                           (
+                           ∞
+                           )
+                        
+                        −
+                        h
+                        
+                           (
+                           D
+                           )
+                        
+                        ≈
+                        0
+                     . It is known that 
+                        
+                           Δ
+                        
+                        h
+                        /
+                        h
+                        =
+                        
+                           Δ
+                        
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        /
+                        
+                           (
+                           3
+                           
+                              
+                                 V
+                              
+                              
+                                 s
+                              
+                           
+                           )
+                        
+                        =
+                        0.1
+                        %
+                        –
+                        2.5
+                        %
+                      when 
+                        D
+                        <
+                        20
+                        
+                        
+                           nm
+                        
+                     , and it is negligible when 
+                        D
+                        >
+                        20
+                        
+                        
+                           nm
+                        
+                      [25]. Thus, even for 
+                        D
+                        <
+                        20
+                        
+                        
+                           nm
+                        
+                     , 
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                        ≈
+                        0.95
+                        –
+                        0.97
+                     . According to Lindemann’s criterion, 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        =
+                        
+                           
+                              c
+                           
+                           
+                              1
+                           
+                        
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       T
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 /
+                                 
+                                    (
+                                    
+                                       
+                                          
+                                             MV
+                                          
+                                       
+                                       
+                                          s
+                                       
+                                       
+                                          2
+                                          /
+                                          3
+                                       
+                                    
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              1
+                              /
+                              2
+                           
+                        
+                      [26], where 
+                        
+                           
+                              c
+                           
+                           
+                              1
+                           
+                        
+                      is a constant and 
+                        M
+                      denotes the molar weight and is size-independent. Thus, 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        ∝
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        
+                           
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                     . If 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      has the same size dependence of 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        
+                           
+                              
+                                 (
+                                 D
+                                 )
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                      as a first-order approximation, 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        /
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        
+                           [
+                           
+                              
+                                 Θ
+                              
+                              
+                                 D
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              (
+                              D
+                              )
+                           
+                           /
+                           
+                              
+                                 Θ
+                              
+                              
+                                 D
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              (
+                              ∞
+                              )
+                           
+                           ]
+                        
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                     . Similarly, 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        /
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        
+                           [
+                           
+                              
+                                 Θ
+                              
+                              
+                                 D
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              (
+                              ∞
+                              )
+                           
+                           /
+                           
+                              
+                                 Θ
+                              
+                              
+                                 D
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              (
+                              D
+                              )
+                           
+                           ]
+                        
+                        /
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                     , since 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        =
+                        
+                           
+                              c
+                           
+                           
+                              2
+                           
+                        
+                        /
+                        
+                           
+                              
+                                 (
+                                 
+                                    
+                                       α
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          MV
+                                       
+                                    
+                                    
+                                       s
+                                    
+                                    
+                                       2
+                                       /
+                                       3
+                                    
+                                 
+                                 )
+                              
+                           
+                           
+                              1
+                              /
+                              2
+                           
+                        
+                     , with 
+                        
+                           
+                              c
+                           
+                           
+                              2
+                           
+                        
+                      being a constant [7]. Thus, the error range induced by 
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                      is only 3%–5% for the 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function in our former prediction [14,19] and for the 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function in the present prediction. This high-order error has also been neglected for simplicity in Ref. [18].
+As shown above, 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions for different kinds of nanocrystals and different surroundings can be described as long as the related thermodynamic parameters of crystals are known. The physical nature of the enhancement or suppression of these physical properties is related to both the surface/volume ratio and the interfacial energetic change between embedded nanocrystals and the matrix.
+
+Conclusions:
+In summary, a model for the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function is established by considering both Lindemann’s criterion and Mott’s equation. The 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function decreases for free nanocrystals and increases for nanocrystals having a strong chemical interaction with their surroundings as 
+                        D
+                      decreases. Since the 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions have simple relations to the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function, these functions are also developed. The model’s predictions correspond to known experimental and computer simulation results.
+
+Body:
+The physical properties of nanocrystals have been investigated extensively both theoretically and experimentally due to their scientific and industrial importance [1]. As the size of low-dimensional materials decreases to the nanometer size range, the electronic, magnetic, optic, catalytic, and thermodynamic properties of the materials are significantly altered from those of either the bulk or a single molecule [1]. Among these properties of nanocrystals, the Debye temperature of nanocrystals, 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , has received considerable attention, since it is an essential physical quantity to characterize many material properties, such as the thermal vibration of atoms and phase transitions, where 
+                        D
+                      denotes the diameter of nanoparticles and nanowires or the thickness of thin films [2–12]. Moreover, some important physical properties and their size effects, such as the Einstein temperature 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and the volume thermal expansion coefficient 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , are all related to the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function [4,7,13]. Once the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function is known, the other two can be determined. Therefore, it is important to determine this function.
+
+It is now known that the above physical properties of a free nanocrystal decrease as its 
+                        D
+                      decreases [2,7,9,13], while they can decrease or increase for nanocrystals embedded in a matrix or deposited on a substrate [3–6,8,10–12]. A body of evidence shows that enhancement or depression of the foregoing physical properties of nanocrystals in a matrix essentially depends on the chemical interaction at interfaces between embedded nanocrystals and the matrix [3–6,8,10–12]. For instance, when the interfaces are coherent or semi-coherent, which denotes a strong bond connection, the enhancement of 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                      of the nanocrystals is present [11,12]. Although size effects on all of the above physical properties have been modeled separately by a series of related theoretical approaches, consistent insight and a systematic thermodynamic treatment considering both the size and interface effects are highly desirable in order to reveal the physical nature of the nanocrystals.
+
+In this contribution, 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions of nanocrystals are modeled in the form of the root of mean square amplitude (rms) model. The model that is established is extended to predict the size effects on 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                      and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                      of nanocrystals. The model predictions agree well with known experimental and computer simulation results.
+
+In terms of the Debye model, the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                      function is related to the rms 
+                        σ
+                      by [4,14], 
+                        
+                           (1)
+                           
+                              
+                                 
+                                    σ
+                                 
+                                 
+                                    2
+                                 
+                              
+                              ∝
+                              T
+                              /
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                                 
+                                    2
+                                 
+                              
+                           
+                        
+                      when 
+                        T
+                        >
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        /
+                        2
+                     , where 
+                        T
+                      is the temperature and 
+                        ∞
+                      denotes the bulk size.
+
+According to Lindemann’s criterion [15] for melting and Mott’s equation [16,17], the size-dependent rms 
+                        σ
+                        
+                           (
+                           D
+                           )
+                        
+                      has been found to have the following form [14,18]: 
+                        
+                           (2)
+                           
+                              σ
+                              
+                                 (
+                                 D
+                                 )
+                              
+                              /
+                              σ
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              
+                                 
+                                    exp
+                                    
+                                       {
+                                       
+                                          (
+                                          α
+                                          −
+                                          1
+                                          )
+                                       
+                                       /
+                                       
+                                          [
+                                          
+                                             (
+                                             D
+                                             /
+                                             
+                                                
+                                                   D
+                                                
+                                                
+                                                   0
+                                                
+                                             
+                                             )
+                                          
+                                          −
+                                          1
+                                          ]
+                                       
+                                       }
+                                    
+                                 
+                              
+                           
+                        
+                      where 
+                        α
+                        =
+                        
+                           
+                              σ
+                           
+                           
+                              s
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        /
+                        
+                           
+                              σ
+                           
+                           
+                              ν
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , with 
+                        
+                           
+                              σ
+                           
+                           
+                              s
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        
+                           
+                              σ
+                           
+                           
+                              ν
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      denoting size-dependent rms values of the surface and interior atoms of nanocrystals, respectively [14,18], and 
+                        
+                           
+                              D
+                           
+                           
+                              0
+                           
+                        
+                      shows a critical diameter at which all atoms of a low-dimensional material are located on its surface, which depends on dimension 
+                        d
+                      and atomic diameter 
+                        h
+                      through [14,19], 
+                        
+                           (3)
+                           
+                              
+                                 
+                                    D
+                                 
+                                 
+                                    0
+                                 
+                              
+                              =
+                              2
+                              
+                                 (
+                                 3
+                                 −
+                                 d
+                                 )
+                              
+                              h
+                           
+                        
+                      where 
+                        d
+                        =
+                        0
+                      for nanoparticles, 
+                        d
+                        =
+                        1
+                      for nanowires, and 
+                        d
+                        =
+                        2
+                      for thin films.
+
+In Eq. (2), the parameter 
+                        α
+                      must be known to determine 
+                        σ
+                        
+                           (
+                           D
+                           )
+                        
+                     . For crystals with free surfaces, such as free-standing particles, particles or thin films deposited on inert substrates, and nanowires in inert porous glasses, their 
+                        
+                           
+                              σ
+                           
+                           
+                              s
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        >
+                        
+                           
+                              σ
+                           
+                           
+                              ν
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        α
+                        >
+                        1
+                      [14], and [14,19], 
+                        
+                           (4)
+                           
+                              α
+                              =
+                              
+                                 [
+                                 2
+                                 
+                                    Δ
+                                 
+                                 
+                                    
+                                       S
+                                    
+                                    
+                                       
+                                          vib
+                                       
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 /
+                                 
+                                    (
+                                    3
+                                    R
+                                    )
+                                 
+                                 ]
+                              
+                              +
+                              1
+                              ,
+                           
+                        
+                      where 
+                        R
+                      is the ideal gas constant and 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      is the vibrational part of the overall melting entropy 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     , which consists of at least three components: positional 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 pos
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     , vibrational 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     , and electronic 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 el
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      [17]. Namely, 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        +
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 pos
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        +
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 el
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      and 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 pos
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        −
+                        R
+                        
+                           (
+                           
+                              
+                                 x
+                              
+                              
+                                 A
+                              
+                           
+                           ln
+                           
+                              
+                                 x
+                              
+                              
+                                 A
+                              
+                           
+                           +
+                           
+                              
+                                 x
+                              
+                              
+                                 B
+                              
+                           
+                           ln
+                           
+                              
+                                 x
+                              
+                              
+                                 B
+                              
+                           
+                           )
+                        
+                     , where 
+                        
+                           
+                              x
+                           
+                           
+                              A
+                           
+                        
+                      and 
+                        
+                           
+                              x
+                           
+                           
+                              B
+                           
+                        
+                      are molar fractions of crystals and vacancies, respectively [17]. For the melting transition, 
+                        
+                           
+                              x
+                           
+                           
+                              A
+                           
+                        
+                        =
+                        1
+                        /
+                        
+                           (
+                           1
+                           +
+                           
+                              Δ
+                           
+                           
+                              
+                                 V
+                              
+                              
+                                 m
+                              
+                           
+                           /
+                           
+                              
+                                 V
+                              
+                              
+                                 s
+                              
+                           
+                           )
+                        
+                     , 
+                        
+                           
+                              x
+                           
+                           
+                              B
+                           
+                        
+                        =
+                        1
+                        −
+                        
+                           
+                              x
+                           
+                           
+                              A
+                           
+                        
+                     , where 
+                        
+                           Δ
+                        
+                        
+                           
+                              V
+                           
+                           
+                              m
+                           
+                        
+                        =
+                        
+                           
+                              V
+                           
+                           
+                              l
+                           
+                        
+                        −
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                     , with 
+                        V
+                      being the molar volume and the subscripts 
+                        s
+                      and 
+                        l
+                      denoting the crystal and the liquid, respectively. For metallic crystals, the type of chemical connection does not vary during the melting transition. Thus, 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 el
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        ≈
+                        0
+                      [17] and 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        −
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 pos
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     , or 
+                        
+                           (5)
+                           
+                              
+                                 Δ
+                              
+                              
+                                 
+                                    S
+                                 
+                                 
+                                    
+                                       vib
+                                    
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              
+                                 Δ
+                              
+                              
+                                 
+                                    S
+                                 
+                                 
+                                    m
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              +
+                              R
+                              
+                                 (
+                                 
+                                    
+                                       x
+                                    
+                                    
+                                       A
+                                    
+                                 
+                                 ln
+                                 
+                                    
+                                       x
+                                    
+                                    
+                                       A
+                                    
+                                 
+                                 +
+                                 
+                                    
+                                       x
+                                    
+                                    
+                                       B
+                                    
+                                 
+                                 ln
+                                 
+                                    
+                                       x
+                                    
+                                    
+                                       B
+                                    
+                                 
+                                 )
+                              
+                              .
+
+However, for semi-metals, 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 el
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      strongly contributes to 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                     . In this situation, 
+                        
+                           Δ
+                        
+                        
+                           
+                              S
+                           
+                           
+                              
+                                 vib
+                              
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      is determined by Mott’s equation [16], 
+                        
+                           (6)
+                           
+                              
+                                 Δ
+                              
+                              
+                                 
+                                    S
+                                 
+                                 
+                                    
+                                       vib
+                                    
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              3
+                              R
+                              ln
+                              
+                                 (
+                                 
+                                    
+                                       ν
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 /
+                                 
+                                    
+                                       ν
+                                    
+                                    
+                                       l
+                                    
+                                 
+                                 )
+                              
+                              =
+                              
+                                 (
+                                 3
+                                 /
+                                 2
+                                 )
+                              
+                              R
+                              ln
+                              
+                                 (
+                                 
+                                    
+                                       c
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 /
+                                 
+                                    
+                                       c
+                                    
+                                    
+                                       l
+                                    
+                                 
+                                 )
+                              
+                           
+                        
+                      where 
+                        ν
+                      and 
+                        c
+                      denote the characteristic vibration frequency and electrical conductivity, respectively.
+
+For nanocrystals embedded in a matrix with a coherent or semi-coherent interface, their 
+                        
+                           
+                              σ
+                           
+                           
+                              s
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        <
+                        
+                           
+                              σ
+                           
+                           
+                              ν
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        α
+                        <
+                        1
+                      [19], and [19], 
+                        
+                           (7)
+                           
+                              α
+                              =
+                              
+                                 [
+                                 
+                                    
+                                       
+                                          (
+                                          
+                                             
+                                                h
+                                             
+                                             
+                                                M
+                                             
+                                          
+                                          /
+                                          h
+                                          )
+                                       
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 
+                                    
+                                       T
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       T
+                                    
+                                    
+                                       M
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 +
+                                 1
+                                 ]
+                              
+                              /
+                              2
+                              ,
+                           
+                        
+                      where 
+                        
+                           
+                              h
+                           
+                           
+                              M
+                           
+                        
+                      denotes the atomic diameter of the matrix, and 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      and 
+                        
+                           
+                              T
+                           
+                           
+                              M
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      are the bulk melting temperature of the nanocrystals and the matrix, respectively.
+
+Based on Eq. (1), it is assumed that 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      has the same size dependence of 
+                        1
+                        /
+                        σ
+                        
+                           (
+                           D
+                           )
+                        
+                      as a first-order approximation, since the nature of any phase transition is related to the potentials of the two related phases of the crystals. Thus, 
+                        
+                           (8)
+                           
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                              
+                              
+                                 (
+                                 D
+                                 )
+                              
+                              /
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              σ
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              /
+                              σ
+                              
+                                 (
+                                 D
+                                 )
+                              
+                              .
+
+Substituting Eq. (2) into Eq. (8), this reads, 
+                        
+                           (9)
+                           
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                              
+                              
+                                 (
+                                 D
+                                 )
+                              
+                              /
+                              
+                                 
+                                    Θ
+                                 
+                                 
+                                    D
+                                 
+                              
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                              =
+                              
+                                 
+                                    exp
+                                    
+                                       {
+                                       −
+                                       
+                                          (
+                                          α
+                                          −
+                                          1
+                                          )
+                                       
+                                       /
+                                       
+                                          [
+                                          
+                                             (
+                                             D
+                                             /
+                                             
+                                                
+                                                   D
+                                                
+                                                
+                                                   0
+                                                
+                                             
+                                             )
+                                          
+                                          −
+                                          1
+                                          ]
+                                       
+                                       }
+                                    
+                                 
+                              
+                              .
+
+Since 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        ∝
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      [4] and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        ∝
+                        1
+                        /
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                      [7], Eq. (9) can be extended for 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions as follows: 
+                        
+                           
+                              (10)
+                              
+                                 
+                                    
+                                       Θ
+                                    
+                                    
+                                       E
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       Θ
+                                    
+                                    
+                                       E
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 =
+                                 
+                                    
+                                       exp
+                                       
+                                          {
+                                          −
+                                          
+                                             (
+                                             α
+                                             −
+                                             1
+                                             )
+                                          
+                                          /
+                                          
+                                             [
+                                             
+                                                (
+                                                D
+                                                /
+                                                
+                                                   
+                                                      D
+                                                   
+                                                   
+                                                      0
+                                                   
+                                                
+                                                )
+                                             
+                                             −
+                                             1
+                                             ]
+                                          
+                                          }
+                                       
+                                    
+                                 
+                                 ,
+                              
+                           
+                           
+                              (11)
+                              
+                                 
+                                    
+                                       α
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       α
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 =
+                                 exp
+                                 
+                                    {
+                                    
+                                       (
+                                       α
+                                       −
+                                       1
+                                       )
+                                    
+                                    /
+                                    
+                                       [
+                                       
+                                          (
+                                          D
+                                          /
+                                          
+                                             
+                                                D
+                                             
+                                             
+                                                0
+                                             
+                                          
+                                          )
+                                       
+                                       −
+                                       1
+                                       ]
+                                    
+                                    }
+                                 
+                                 .
+
+Comparisons between model predictions in terms of Eqs. (4), (7) and (9) and the available experimental and computer simulation results for 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions of Fe, 
+                        β
+                     -Sn, Se, Cu, Co, Au, and Ar/Al (Ar nanocrystals embedded in Al matrix) nanocrystals are shown in Fig. 1
+                     , where the related parameters are listed in Table 1
+                      (parameters used for other figures are also listed in this table). It is obvious that our model predictions for different kinds of nanocrystals in different surroundings correspond to the experimental and computer simulation results in the full size range, which implies that Eq. (9) is reasonable.
+
+As shown in Fig. 1(a)–(f), 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      with 
+                        α
+                        >
+                        1
+                      decreases for free nanocrystals as 
+                        D
+                      decreases. 
+                        α
+                        >
+                        1
+                      implies a decrease in 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      with an increase in the rms. Note that Fe and 
+                        β
+                     -Sn films in Fig. 1(a) and (b) may refer to fine granular structures with high densities of inner surface/grain boundaries and cannot be described by a continuous film [14]. This granular structure is similar to a random structure of a chain polymer, modeled by the trajectory of a self-avoiding walk with a fractal dimension of 
+                        d
+                        =
+                        4
+                        /
+                        3
+                      [14]. It is obvious that the depression for 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      of films with 
+                        D
+                      is weaker than that of nanoparticles, as shown in Fig. 1(a) and (b), which is induced by different values of 
+                        d
+                      and thus different values of 
+                        
+                           
+                              D
+                           
+                           
+                              0
+                           
+                        
+                      in Eq. (3). Consequently, our model can also predict the dimension dependence of 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , while different dimensions of nanocrystals have different surface /volume ratios.
+
+For nanocrystals embedded in a matrix with a coherent or semi-coherent interface, such as the Ar/Al system in Fig. 1(g), 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      with 
+                        α
+                        <
+                        1
+                      increases as 
+                        D
+                      decreases. 
+                        α
+                        <
+                        1
+                      implies the suppression of the rms of the nanoparticles as a total effect induced by both the surface and the interface. Although the surface of the nanocrystals still has a tendency to lower the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      value, the total effect of the surface and the interface between the nanocrystals and the matrix leads to a drop in the internal energy of the nanocrystals and thus an increase in 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      as 
+                        D
+                      decreases. Note also that 
+                        
+                           
+                              h
+                           
+                           
+                              M
+                           
+                        
+                        <
+                        h
+                      in the system reported above, although it is not a necessary condition for 
+                        α
+                        <
+                        1
+                      in Eq. (9). It is plausible that if 
+                        
+                           
+                              h
+                           
+                           
+                              M
+                           
+                        
+                        >
+                        h
+                     , the local internal stress at the interface is a tensile stress, which increases, but does not decrease the rms of the surface atoms of the nanocrystals. Thus, any evident enhancement of 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      should occur under the condition 
+                        
+                           
+                              h
+                           
+                           
+                              M
+                           
+                        
+                        <
+                        h
+                     .
+
+A comparison between the model predictions in the frame of Eqs. (4) and (10) and the available experimental results for the 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function of Se nanocrystals is shown in Fig. 2
+                     , where 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      decreases as 
+                        D
+                      drops. There are good agreements between the model predictions and the experimental evidence, although only experimental results of 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      suppression are compared due to the unavailability of experimental evidence.
+
+As shown in Fig. 3
+                     (a) and (b), comparisons between the model predictions based on Eqs. (4) and (11) and experimental results for 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      of Se and Pb nanocrystals are presented. The model predictions correspond to the experimental results of Se nanocrystals over the full size range, as shown in Fig. 3(a). For Pb nanocrystals in Fig. 3(b), our model can predict the 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           =
+                           40
+                           
+                           
+                              nm
+                           
+                           )
+                        
+                      value accurately in comparison with the experimental results, while a big divergency between them is found for the 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           =
+                           16
+                           
+                           
+                              nm
+                           
+                           )
+                        
+                      value. One possible reason is that the approximation of 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        =
+                        3
+                        
+                           
+                              α
+                           
+                           
+                              l
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      could collapse in a smaller size range (such as 
+                        D
+                        =
+                        16
+                        
+                        
+                           nm
+                        
+                     ). As mentioned above, 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      increases with decreasing 
+                        D
+                     . It is known that 
+                        
+                           
+                              E
+                           
+                           
+                              c
+                           
+                        
+                        ∝
+                        1
+                        /
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                     , where 
+                        
+                           
+                              E
+                           
+                           
+                              c
+                           
+                        
+                      denotes the cohesive energy of atoms [13] and 
+                        
+                           
+                              E
+                           
+                           
+                              c
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      decreases with decreasing 
+                        D
+                      [24], which confirms Eq. (11).
+
+Note that, in the above consideration, the effect of size on 
+                        h
+                      has been neglected, i.e. 
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                      or 
+                        h
+                      is assumed to be a size-independent constant, namely 
+                        
+                           Δ
+                        
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        =
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        −
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        ≈
+                        0
+                      or 
+                        
+                           Δ
+                        
+                        h
+                        =
+                        h
+                        
+                           (
+                           ∞
+                           )
+                        
+                        −
+                        h
+                        
+                           (
+                           D
+                           )
+                        
+                        ≈
+                        0
+                     . It is known that 
+                        
+                           Δ
+                        
+                        h
+                        /
+                        h
+                        =
+                        
+                           Δ
+                        
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        /
+                        
+                           (
+                           3
+                           
+                              
+                                 V
+                              
+                              
+                                 s
+                              
+                           
+                           )
+                        
+                        =
+                        0.1
+                        %
+                        –
+                        2.5
+                        %
+                      when 
+                        D
+                        <
+                        20
+                        
+                        
+                           nm
+                        
+                     , and it is negligible when 
+                        D
+                        >
+                        20
+                        
+                        
+                           nm
+                        
+                      [25]. Thus, even for 
+                        D
+                        <
+                        20
+                        
+                        
+                           nm
+                        
+                     , 
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                        ≈
+                        0.95
+                        –
+                        0.97
+                     . According to Lindemann’s criterion, 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        =
+                        
+                           
+                              c
+                           
+                           
+                              1
+                           
+                        
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       T
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 /
+                                 
+                                    (
+                                    
+                                       
+                                          
+                                             MV
+                                          
+                                       
+                                       
+                                          s
+                                       
+                                       
+                                          2
+                                          /
+                                          3
+                                       
+                                    
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              1
+                              /
+                              2
+                           
+                        
+                      [26], where 
+                        
+                           
+                              c
+                           
+                           
+                              1
+                           
+                        
+                      is a constant and 
+                        M
+                      denotes the molar weight and is size-independent. Thus, 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        ∝
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        
+                           
+                              
+                                 (
+                                 ∞
+                                 )
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                     . If 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      has the same size dependence of 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                           
+                              2
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        
+                           
+                              V
+                           
+                           
+                              s
+                           
+                        
+                        
+                           
+                              
+                                 (
+                                 D
+                                 )
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                      as a first-order approximation, 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        /
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        
+                           [
+                           
+                              
+                                 Θ
+                              
+                              
+                                 D
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              (
+                              D
+                              )
+                           
+                           /
+                           
+                              
+                                 Θ
+                              
+                              
+                                 D
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              (
+                              ∞
+                              )
+                           
+                           ]
+                        
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                     . Similarly, 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                        /
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           ∞
+                           )
+                        
+                        =
+                        
+                           [
+                           
+                              
+                                 Θ
+                              
+                              
+                                 D
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              (
+                              ∞
+                              )
+                           
+                           /
+                           
+                              
+                                 Θ
+                              
+                              
+                                 D
+                              
+                              
+                                 2
+                              
+                           
+                           
+                              (
+                              D
+                              )
+                           
+                           ]
+                        
+                        /
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                     , since 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        =
+                        
+                           
+                              c
+                           
+                           
+                              2
+                           
+                        
+                        /
+                        
+                           
+                              
+                                 (
+                                 
+                                    
+                                       α
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          MV
+                                       
+                                    
+                                    
+                                       s
+                                    
+                                    
+                                       2
+                                       /
+                                       3
+                                    
+                                 
+                                 )
+                              
+                           
+                           
+                              1
+                              /
+                              2
+                           
+                        
+                     , with 
+                        
+                           
+                              c
+                           
+                           
+                              2
+                           
+                        
+                      being a constant [7]. Thus, the error range induced by 
+                        
+                           
+                              
+                                 [
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    D
+                                    )
+                                 
+                                 /
+                                 
+                                    
+                                       V
+                                    
+                                    
+                                       s
+                                    
+                                 
+                                 
+                                    (
+                                    ∞
+                                    )
+                                 
+                                 ]
+                              
+                           
+                           
+                              2
+                              /
+                              3
+                           
+                        
+                      is only 3%–5% for the 
+                        
+                           
+                              T
+                           
+                           
+                              m
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function in our former prediction [14,19] and for the 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function in the present prediction. This high-order error has also been neglected for simplicity in Ref. [18].
+
+As shown above, 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                     , and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions for different kinds of nanocrystals and different surroundings can be described as long as the related thermodynamic parameters of crystals are known. The physical nature of the enhancement or suppression of these physical properties is related to both the surface/volume ratio and the interfacial energetic change between embedded nanocrystals and the matrix.
+
+In summary, a model for the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function is established by considering both Lindemann’s criterion and Mott’s equation. The 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function decreases for free nanocrystals and increases for nanocrystals having a strong chemical interaction with their surroundings as 
+                        D
+                      decreases. Since the 
+                        
+                           
+                              Θ
+                           
+                           
+                              E
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      and 
+                        
+                           
+                              α
+                           
+                           
+                              v
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      functions have simple relations to the 
+                        
+                           
+                              Θ
+                           
+                           
+                              D
+                           
+                        
+                        
+                           (
+                           D
+                           )
+                        
+                      function, these functions are also developed. The model’s predictions correspond to known experimental and computer simulation results.
+
+Financial support from the National Key Basic Research and Development Program (Grant No. 2004CB619301) and from the “985 Project” of Jilin University are acknowledged.

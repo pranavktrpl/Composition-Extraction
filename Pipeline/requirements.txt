@@ -10,3 +10,5 @@ requests==2.32.3
 six==1.17.0
 tzdata==2024.2
 python-dotenv==1.0.1
+litellm==1.55.12
+pydantic[email]

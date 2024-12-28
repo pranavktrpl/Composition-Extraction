@@ -1,0 +1,2061 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0272884215005635</prism:url><dc:identifier>doi:10.1016/j.ceramint.2015.03.158</dc:identifier><eid>1-s2.0-S0272884215005635</eid><prism:doi>10.1016/j.ceramint.2015.03.158</prism:doi><pii>S0272-8842(15)00563-5</pii><dc:title>Influence of deposition temperature on microstructure and electrical properties of modified (Ba, Sr)TiO3 ferroelectric thin films </dc:title><prism:publicationName>Ceramics International</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02728842</prism:issn><prism:volume>41</prism:volume><prism:startingPage>S520</prism:startingPage><prism:endingPage>S525</prism:endingPage><prism:pageRange>S520-S525</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2015-07-31</prism:coverDate><prism:coverDisplayDate>July 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd and Techna Group S.r.l.</prism:publisher><prism:issueName>The 9th Asian Meeting on Electroceramics (AMEC-9)</prism:issueName><dc:creator>Yan, Dongxu</dc:creator><dc:creator>Luo, Lizhu</dc:creator><dc:creator>Zhang, Yongbin</dc:creator><dc:creator>Peng, Zhihang</dc:creator><dc:creator>Liu, Hong</dc:creator><dc:creator>Xiao, Dingquan</dc:creator><dc:creator>Liu, Tianwei</dc:creator><dc:creator>Lai, Xinchun</dc:creator><dc:creator>Zhu, Jianguo</dc:creator><dc:description>
+                  Modified Ba0.67Sr0.33TiO3 (BST) thin films were deposited on Pt/Ti/SiO2/Si substrates using RF magnetron sputtering. By optimizing the deposition temperature (T
+                     
+                        d
+                     ), the dielectric and ferroelectric properties of BST films were improved. The onset of crystallization of the BST films was observed at about 600°C, beyond which there was an increase in grain size with further increasing T
+                     
+                        d
+                      up to 700°C. The better crystallized film deposited at 700°C with a thickness of 670nm shows a polycrystalline and dense structure, a dielectric constant (
+                        
+                           
+                              ε
+                           
+                           
+                              r
+                           
+                        
+                     )=953.40 (at 100kHz), and a remanent polarization (2P
+                     
+                        r
+                     )=23.87μC/cm2. The dielectric tunability at 1MHz increases as T
+                     
+                        d
+                      increases, and reaches the highest value of 55.40% for an applied field of 770kV/cm at the highest T
+                     
+                        d
+                      of 700°C. X-ray diffraction (XRD), scanning electron microscopy (SEM) and electric performance analysis also indicate that the deposition temperature during growth strongly affects the microstructure of BST films. This in turn influences the dielectric, ferroelectric and tunable behavior of BST films.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>BST</dcterms:subject><dcterms:subject>Ferroelectric films</dcterms:subject><dcterms:subject>Deposition temperature</dcterms:subject><dcterms:subject>Tunability</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0272884215005635" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0272884215005635" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="184" height="164" size="5557">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="187" height="164" size="6280">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="150" size="12895">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="186" height="164" size="7112">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="188" height="163" size="5199">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="159" height="164" size="5242">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="140" size="4828">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="7213">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="217" height="164" size="5302">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="268" size="26917">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="264" size="31920">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="527" height="362" size="56271">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="498" size="72088">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="491" size="61514">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="330" size="38994">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="303" height="194" size="22430">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="223" size="31399">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="228" size="24257">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="si0001" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="14" height="10" size="135">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-si0001.gif?httpAccept=%2A%2F%2A</object><object ref="si0002" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="15" height="11" size="153">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-si0002.gif?httpAccept=%2A%2F%2A</object><object ref="si0003" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="76" height="38" size="470">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-si0003.gif?httpAccept=%2A%2F%2A</object><object ref="si0004" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="15" height="11" size="153">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-si0004.gif?httpAccept=%2A%2F%2A</object><object ref="si0005" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="14" height="10" size="135">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-si0005.gif?httpAccept=%2A%2F%2A</object><object ref="si0006" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="36" height="12" size="240">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-si0006.gif?httpAccept=%2A%2F%2A</object><object ref="si0007" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="198" height="38" size="1167">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-si0007.gif?httpAccept=%2A%2F%2A</object><object ref="si0008" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="32" height="16" size="258">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-si0008.gif?httpAccept=%2A%2F%2A</object><object ref="si0009" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="35" height="16" size="265">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884215005635-si0009.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84937513844</scopus-id><scopus-eid>2-s2.0-84937513844</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84937513844" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271590</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ceramics International</xocs:srctitle>
+      <xocs:normalized-srctitle>CERAMICSINTERNATIONAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150330">2015-03-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150330">2015-03-30</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20150719">2015-07-19</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20150719">2015-07-19</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-04-27T01:34:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0272884215005635</xocs:eid>
+      <xocs:pii-formatted>S0272-8842(15)00563-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0272884215005635</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ceramint.2015.03.158</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0272884215X00101</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190427">2019-04-27T09:13:58.641309Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150701</xocs:date-search-begin>
+      <xocs:date-search-end>20150731</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1427757442">2015-03-30T23:17:22.581932Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confdate confeditor confloc confsponsor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0272-8842</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02728842</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>41</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>41</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>S1</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 41, Supplement 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>92</xocs:sort-order>
+      <xocs:first-fp>S520</xocs:first-fp>
+      <xocs:last-lp>S525</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>S520</xocs:first-page>
+         <xocs:last-page>S525</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201507</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>July 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-07-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-07-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>The 9th Asian Meeting on Electroceramics (AMEC-9)</ce:title>
+            <xocs:conference-info>
+               <xocs:venue>Shanghai International Convention Center, Shanghai, China</xocs:venue>
+               <xocs:conference-date-text>26–30 October 2014</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20141026</xocs:start-date>
+                  <xocs:end-date>20141030</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Yongxiang</ce:given-name>
+                     <ce:surname>Li</ce:surname>
+                  </ce:author>
+                  <ce:author>
+                     <ce:given-name>Cewen</ce:given-name>
+                     <ce:surname>Nan</ce:surname>
+                  </ce:author>
+                  <ce:author>
+                     <ce:given-name>Xiangming</ce:given-name>
+                     <ce:surname>Chen</ce:surname>
+                  </ce:author>
+                  <ce:author>
+                     <ce:given-name>Wook</ce:given-name>
+                     <ce:surname>Jo</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+            <xocs:sponsors>
+               <xocs:sponsor>Sponsored by Shanghai Institute of Ceramics, Chinese Academy of Sciences (SICCAS)</xocs:sponsor>
+            </xocs:sponsors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INFLUENCEDEPOSITIONTEMPERATUREMICROSTRUCTUREELECTRICALPROPERTIESMODIFIEDBASRTIO3FERROELECTRICTHINFILMS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>YAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conflict of Interest</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>OSTAPCHUK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>474215</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>RESHMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6561</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6566</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>MAUNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>213</xocs:ref-first-fp>
+            <xocs:ref-last-lp>224</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>162909</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>NODA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2221</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2227</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0005"/>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>124110</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0010"/>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-last-lp>157</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>PALUKURU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11</xocs:ref-first-fp>
+            <xocs:ref-last-lp>17</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>CUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>353</xocs:ref-first-fp>
+            <xocs:ref-last-lp>357</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155</xocs:ref-first-fp>
+            <xocs:ref-last-lp>160</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2785</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2791</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0015"/>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>VARANASI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2878</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2881</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0020"/>
+         <xocs:ref-info refid="othref0025"/>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>CRACIUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>S787</xocs:ref-first-fp>
+            <xocs:ref-last-lp>S789</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8913</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8916</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>BANIECKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>162908</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1550</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1556</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>ADIKARY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>70</xocs:ref-first-fp>
+            <xocs:ref-last-lp>74</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>YANX2015XS520</xocs:refkey3>
+         <xocs:refkey4lp>YANX2015XS520XS525</xocs:refkey4lp>
+         <xocs:refkey4ai>YANX2015XS520XD</xocs:refkey4ai>
+         <xocs:refkey5>YANX2015XS520XS525XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2017-07-18T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0272-8842(15)00563-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0272884215005635</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0272884215005635</xocs:eid>
+         <xocs:doi>10.1016/j.ceramint.2015.03.158</xocs:doi>
+         <xocs:cid>271590</xocs:cid>
+         <xocs:timestamp>2019-04-27T09:13:58.641309Z</xocs:timestamp>
+         <xocs:cover-date-start>2015-07-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-07-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/MAIN/application/pdf/aafff11d417df050832b9d503db992da/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1921575</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0272884215005635-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/PREVIEW/image/png/c34d145cf055b12c413768795ab2f79b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>72786</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr1/THUMBNAIL/image/gif/671c1e6afb4d225efbdc362ce31f2820/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5557</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>184</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr2/THUMBNAIL/image/gif/d9e5afbf3896e97fa50de0b0ff03c455/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6280</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>187</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr3/THUMBNAIL/image/gif/cb0b77a927023b13928597c4ee8a2562/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12895</xocs:filesize>
+               <xocs:pixel-height>150</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr4/THUMBNAIL/image/gif/9cd50015ab6e2cb53f144bb9813f12ea/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7112</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>186</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr5/THUMBNAIL/image/gif/fdbee86bc7bc141173e0c9522b0e6ac3/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5199</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>188</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr6/THUMBNAIL/image/gif/00a4fa031dc57e7aa9120c3ed3fdd0c1/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5242</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>159</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr7/THUMBNAIL/image/gif/ea6ad5ca8229ac6ba471c71e452e3305/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4828</xocs:filesize>
+               <xocs:pixel-height>140</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr8/THUMBNAIL/image/gif/6d8b4e99799d7e750e8ebd498b0af1e1/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7213</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr9/THUMBNAIL/image/gif/0301aca6f47c401fa1dce8753994f568/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5302</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr1/DOWNSAMPLED/image/jpeg/112c88fbebcc0881d51cb5ace71932e5/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26917</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr2/DOWNSAMPLED/image/jpeg/e8abc16770b38776b97c5d646b328af4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31920</xocs:filesize>
+               <xocs:pixel-height>264</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr3/DOWNSAMPLED/image/jpeg/eb6f361e0d31931185998b4af6c76e34/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56271</xocs:filesize>
+               <xocs:pixel-height>362</xocs:pixel-height>
+               <xocs:pixel-width>527</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr4/DOWNSAMPLED/image/jpeg/de128a362d48f8bb8043c078f621e69c/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>72088</xocs:filesize>
+               <xocs:pixel-height>498</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr5/DOWNSAMPLED/image/jpeg/b7b7bb58482862952b0f0155c07e9b1f/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>61514</xocs:filesize>
+               <xocs:pixel-height>491</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr6/DOWNSAMPLED/image/jpeg/5d7d225d2acbc8755581e26a16dc12ec/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38994</xocs:filesize>
+               <xocs:pixel-height>330</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr7/DOWNSAMPLED/image/jpeg/55519a98e3f0cab9281a005b34ea8698/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22430</xocs:filesize>
+               <xocs:pixel-height>194</xocs:pixel-height>
+               <xocs:pixel-width>303</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr8/DOWNSAMPLED/image/jpeg/158ae59fcf0b57d51808f1c3d755feda/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31399</xocs:filesize>
+               <xocs:pixel-height>223</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/gr9/DOWNSAMPLED/image/jpeg/cc65f59adf937e0b7a15f7257b3c6b9d/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24257</xocs:filesize>
+               <xocs:pixel-height>228</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-si0001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/STRIPIN/image/gif/d9cf88ef05a6fc7dc802eb741c71122c/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0001</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>si0001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>135</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>14</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-si0002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/STRIPIN/image/gif/b3e66f6b65124b5331cb051cf48a95d7/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0002</xocs:file-basename>
+               <xocs:filename>si0002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>153</xocs:filesize>
+               <xocs:pixel-height>11</xocs:pixel-height>
+               <xocs:pixel-width>15</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-si0003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/STRIPIN/image/gif/cb60fed45431218a96babf9f47026739/si0003.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0003</xocs:file-basename>
+               <xocs:filename>si0003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>470</xocs:filesize>
+               <xocs:pixel-height>38</xocs:pixel-height>
+               <xocs:pixel-width>76</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-si0004.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/STRIPIN/image/gif/b3e66f6b65124b5331cb051cf48a95d7/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0004</xocs:file-basename>
+               <xocs:filename>si0004.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>153</xocs:filesize>
+               <xocs:pixel-height>11</xocs:pixel-height>
+               <xocs:pixel-width>15</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-si0005.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/STRIPIN/image/gif/d9cf88ef05a6fc7dc802eb741c71122c/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0005</xocs:file-basename>
+               <xocs:filename>si0005.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>135</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>14</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-si0006.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/STRIPIN/image/gif/2afdb22a5a099958e4be81da9c3ed75c/si0006.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0006</xocs:file-basename>
+               <xocs:filename>si0006.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>240</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>36</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-si0007.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/STRIPIN/image/gif/0059422988c707c13d3d14be88360d1e/si0007.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0007</xocs:file-basename>
+               <xocs:filename>si0007.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1167</xocs:filesize>
+               <xocs:pixel-height>38</xocs:pixel-height>
+               <xocs:pixel-width>198</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-si0008.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/STRIPIN/image/gif/23340383c94d899742b4ad3b5d2cec72/si0008.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0008</xocs:file-basename>
+               <xocs:filename>si0008.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>258</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>32</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884215005635-si0009.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884215005635/STRIPIN/image/gif/9a5d0b6cdfe7777fdecdea2febfbc64d/si0009.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0009</xocs:file-basename>
+               <xocs:filename>si0009.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>265</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>35</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.2">
+         <item-info>
+            <jid>CERI</jid>
+            <aid>10237</aid>
+            <ce:pii>S0272-8842(15)00563-5</ce:pii>
+            <ce:doi>10.1016/j.ceramint.2015.03.158</ce:doi>
+            <ce:copyright type="joint" year="2015">Elsevier Ltd and Techna Group S.r.l.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">XRD pattern and surface morphology (Insert) of modified BST ceramic target.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">XRD patterns of the modified BST thin films deposited at different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">Surface and cross-section morphology of the modified BST thin films deposited at different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">The fitted narrow-scan spectra of (a) Ba <ce:italic>3d</ce:italic>, (b) Sr <ce:italic>3d</ce:italic>, (c) Ti <ce:italic>2p</ce:italic>, and (d) O <ce:italic>1s</ce:italic> peaks for the modified BST thin films deposited at 700<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">
+                     <ce:italic>P</ce:italic>–<ce:italic>E</ce:italic> hysteresis loops of the modified BST thin films deposited at different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">Dielectric constant and loss tangent as a function of frequency for the modified BST thin films deposited at different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="sp0035" view="all">Dielectric constant and loss tangent as a function of deposition temperature for the modified BST thin films measured at 100<ce:hsp sp="0.25"/>kHz.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="sp0040" view="all">Electric-field dependent tunability for the modified BST thin films deposited at different temperatures measured at 1<ce:hsp sp="0.25"/>MHz.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="sp0045" view="all">Tunability as a function of deposition temperature for the modified BST thin films measured at 1<ce:hsp sp="0.25"/>MHz.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="sp0050" view="all">Sputtering conditions for the modified BST deposition.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Target</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Modified Ba<inf loc="post">0.67</inf>Sr<inf loc="post">0.33</inf>TiO<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Deposition temperature</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">550–700<hsp sp="0.25"/>°C</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Deposition pressure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2<hsp sp="0.25"/>Pa</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O<inf loc="post">2</inf>/(Ar+O<inf loc="post">2</inf>) flow ratio</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">25%</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RF sputtering power</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50<hsp sp="0.25"/>W</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Target-substrate distance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">60<hsp sp="0.25"/>mm</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="sp0055" view="all">Ferroelectricparameters of the modified BST thin films.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>T</italic>
+                           <inf loc="post">
+                              <italic>d</italic>
+                           </inf>(°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">550</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">600</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">650</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">700</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2<italic>P</italic>
+                           <inf loc="post">
+                              <italic>r</italic>
+                           </inf> (μC/cm<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">11.89</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">19.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">23.87</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2<italic>E</italic>
+                           <inf loc="post">
+                              <italic>c</italic>
+                           </inf> (kV/cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">195.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">381.61</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">290.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">297.70</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Influence of deposition temperature on microstructure and electrical properties of modified (Ba, Sr)TiO<ce:inf loc="post">3</ce:inf> ferroelectric thin films</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005">
+                  <ce:given-name>Dongxu</ce:given-name>
+                  <ce:surname>Yan</ce:surname>
+                  <ce:cross-ref id="cr0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0010" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010">
+                  <ce:given-name>Lizhu</ce:given-name>
+                  <ce:surname>Luo</ce:surname>
+                  <ce:cross-ref id="cr0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015">
+                  <ce:given-name>Yongbin</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref id="cr0020" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020">
+                  <ce:given-name>Zhihang</ce:given-name>
+                  <ce:surname>Peng</ce:surname>
+                  <ce:cross-ref id="cr0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025">
+                  <ce:given-name>Hong</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:cross-ref id="cr0030" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030">
+                  <ce:given-name>Dingquan</ce:given-name>
+                  <ce:surname>Xiao</ce:surname>
+                  <ce:cross-ref id="cr0035" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0035">
+                  <ce:given-name>Tianwei</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:cross-ref id="cr0040" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0040">
+                  <ce:given-name>Xinchun</ce:given-name>
+                  <ce:surname>Lai</ce:surname>
+                  <ce:cross-ref id="cr0045" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0045">
+                  <ce:given-name>Jianguo</ce:given-name>
+                  <ce:surname>Zhu</ce:surname>
+                  <ce:cross-ref id="cr0050" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0055" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>College of Materials Science and Engineering, Sichuan University, Chengdu 610064, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>College of Materials Science and Engineering, Sichuan University</sa:organization>
+                     <sa:city>Chengdu</sa:city>
+                     <sa:postal-code>610064</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Science and Technology on Surface Physics and Chemistry Laboratory, Mianyang 621907, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Science and Technology on Surface Physics and Chemistry Laboratory</sa:organization>
+                     <sa:city>Mianyang</sa:city>
+                     <sa:postal-code>621907</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +86 028 85412415; fax: +86 028 85416050.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="26" month="10" year="2014"/>
+            <ce:date-accepted day="10" month="3" year="2015"/>
+            <ce:abstract id="ab0005" class="author" view="all"><ce:abstract-sec id="abs0005" view="all">
+                  <ce:simple-para id="sp0060" view="all">Modified Ba<ce:inf loc="post">0.67</ce:inf>Sr<ce:inf loc="post">0.33</ce:inf>TiO<ce:inf loc="post">3</ce:inf> (BST) thin films were deposited on Pt/Ti/SiO<ce:inf loc="post">2</ce:inf>/Si substrates using RF magnetron sputtering. By optimizing the deposition temperature (<ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf>), the dielectric and ferroelectric properties of BST films were improved. The onset of crystallization of the BST films was observed at about 600<ce:hsp sp="0.25"/>°C, beyond which there was an increase in grain size with further increasing <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> up to 700<ce:hsp sp="0.25"/>°C. The better crystallized film deposited at 700<ce:hsp sp="0.25"/>°C with a thickness of 670<ce:hsp sp="0.25"/>nm shows a polycrystalline and dense structure, a dielectric constant (<mml:math altimg="si0001.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>ε</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi mathvariant="italic">r</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math>)=953.40 (at 100<ce:hsp sp="0.25"/>kHz), and a remanent polarization (2<ce:italic>P</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>r</ce:italic>
+                     </ce:inf>)=23.87<ce:hsp sp="0.25"/>μC/cm<ce:sup loc="post">2</ce:sup>. The dielectric tunability at 1<ce:hsp sp="0.25"/>MHz increases as <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> increases, and reaches the highest value of 55.40% for an applied field of 770<ce:hsp sp="0.25"/>kV/cm at the highest <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> of 700<ce:hsp sp="0.25"/>°C. X-ray diffraction (XRD), scanning electron microscopy (SEM) and electric performance analysis also indicate that the deposition temperature during growth strongly affects the microstructure of BST films. This in turn influences the dielectric, ferroelectric and tunable behavior of BST films.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>BST</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>Ferroelectric films</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>Deposition temperature</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>Tunability</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Barium strontium titanate (Ba<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Sr<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>TiO<ce:inf loc="post">3</ce:inf>) is a solid solution ferroelectric material <ce:cross-ref id="cr0060" refid="bib1">[1]</ce:cross-ref> exhibiting a large dielectric constant change with an applied dc electric field. The dc electric-field dependent dielectric constant can be employed to develop tunable microwave devices <ce:cross-refs id="crs0005" refid="bib2 bib3 bib4 bib5">[2–5]</ce:cross-refs>, such as tunable varactors <ce:cross-refs id="crs0010" refid="bib6 bib7">[6,7]</ce:cross-refs>, filters <ce:cross-ref id="cr0065" refid="bib8">[8]</ce:cross-ref>, resonators <ce:cross-ref id="cr0070" refid="bib9">[9]</ce:cross-ref>, and phase shifters <ce:cross-ref id="cr0075" refid="bib10">[10]</ce:cross-ref>. Ba<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                     </ce:inf>Sr<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>TiO<ce:inf loc="post">3</ce:inf> is currently a material of choice for microwave applications due to its low loss <ce:cross-ref id="cr0080" refid="bib11">[11]</ce:cross-ref> and composition dependent Curie temperature(<ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf>) <ce:cross-ref id="cr0085" refid="bib1">[1]</ce:cross-ref>, which ranges from −163 to 120<ce:hsp sp="0.25"/>°C for <ce:italic>x</ce:italic>=0 to <ce:italic>x</ce:italic>=1 respectively. To realize better tunability, its composition (Ba/Sr ratio) has to be chosen such that the <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf> is just at around room temperature (the operating temperature), which is more favorable for practical device application. We have recently reported a detailed study <ce:cross-refs id="crs0015" refid="bib12 bib13">[12,13]</ce:cross-refs> on the effect of Mn/Y codoping and sintering temperature on the microstructure and electrical properties of bulk Ba<ce:inf loc="post">0.67</ce:inf>Sr<ce:inf loc="post">0.33</ce:inf>TiO<ce:inf loc="post">3</ce:inf> ceramics. We also have obtained modified bulk Ba<ce:inf loc="post">0.67</ce:inf>Sr<ce:inf loc="post">0.33</ce:inf>TiO<ce:inf loc="post">3</ce:inf>, which processes a low dielectric loss (tan<ce:hsp sp="0.25"/>
+                     <ce:italic>δ</ce:italic> &lt;0.0073 at 1<ce:hsp sp="0.25"/>kHz) and good dispersion characteristics.</ce:para>
+                  <ce:para id="p0010" view="all">However, bulk BST shows several drawbacks: its dielectric constant is too high, which inevitably leads to a very complicated impedance matching circuit <ce:cross-ref id="cr0090" refid="bib14">[14]</ce:cross-ref>; its size is not suitable for integrated devices; very high processing temperature is necessary in order to obtain good crystallinity. Therefore, great emphasis in this research field has been placed on thin film BST.</ce:para>
+                  <ce:para id="p0015" view="all">Thin film BST offers advantages over bulk BST for tunable microwave applications. Large electric fields (0–400<ce:hsp sp="0.25"/>kV/cm) can be achieved in thin film BST (~224<ce:hsp sp="0.25"/>nm) using low voltages <ce:cross-ref id="cr0095" refid="bib15">[15]</ce:cross-ref>. It is well known that the electric properties of thin film BST is sensitive to its microstructure and crystallinity which are determined by deposition conditions <ce:cross-ref id="cr0100" refid="bib16">[16]</ce:cross-ref> such as deposition temperature and O<ce:inf loc="post">2</ce:inf>/Ar ratio. Due to the enormous technological importance in micro-electric applications, it is indispensable to study the interdependence of the electric properties of thin film BST as a function of sputtering conditions. Therefore, optimizing deposition conditions present an intriguing opportunity to develop thin film BST for tunable microwave applications with stringent demands focused on high tunability, while still maintaining a low dielectric loss. In this work, our focus is to study the effect of deposition temperature on the crystallinity, dielectric and ferroelectric properties of the modified Ba<ce:inf loc="post">0.67</ce:inf>Sr<ce:inf loc="post">0.33</ce:inf>TiO<ce:inf loc="post">3</ce:inf> 
+                     <ce:cross-ref id="cr0105" refid="bib13">[13]</ce:cross-ref> by RF magnetron sputtering on Pt/Ti/SiO2/Si substrates, and correlate these to observed tunability behavior.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Experimental procedure</ce:section-title>
+                  <ce:para id="p0020" view="all">Modified BST ceramic target was prepared using citrate–nitrate combustion derived powder <ce:cross-refs id="crs0020" refid="bib12 bib13">[12,13]</ce:cross-refs>, following the composition of Ba<ce:inf loc="post">0.67</ce:inf>Sr<ce:inf loc="post">0.33</ce:inf>TiO<ce:inf loc="post">3</ce:inf> co-doped with 0.5<ce:hsp sp="0.25"/>mol% for Mn and 1.0<ce:hsp sp="0.25"/>mol% for Y dopants. The dense ceramic target possesses pure polycrystalline perovskite structure (<ce:float-anchor refid="f0005"/>
+                     <ce:cross-ref id="cr0110" refid="f0005">Fig. 1</ce:cross-ref>), and its relative density reaches to 92.5% of the theoretical value. BST films were grown onto Pt (200<ce:hsp sp="0.25"/>nm)/Ti(50<ce:hsp sp="0.25"/>nm)/SiO<ce:inf loc="post">2</ce:inf>(500<ce:hsp sp="0.25"/>nm)/Si substrates by off-axis RF magnetron sputtering from the BST target under an Ar/O<ce:inf loc="post">2</ce:inf> (4:1) gas mixture at 2<ce:hsp sp="0.25"/>Pa. The deposition temperature varied from 550 to 700<ce:hsp sp="0.25"/>°C and the RF power during BST deposition was held constant. Prior to deposition, the substrates were ultrasonically cleaned with acetone, ethanol, and de-ionized water, and the target was pre-sputtered in the chamber for 3<ce:hsp sp="0.25"/>h to remove any surface contamination. Details of the processing conditions are given in <ce:float-anchor refid="t0005"/>
+                     <ce:cross-ref id="cr0115" refid="t0005">Table 1</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0025" view="all">Patterned Au top electrodes were deposited through a shadow mask onto the BST films at 50<ce:hsp sp="0.25"/>°C, using DC magnetron sputtering. The crystal structures of BST films were assessed by glancing angle X-ray diffraction (GXRD). A JSM5900 field-emission scanning microscope (FESEM) was utilized to assess the cross-sectional and plan-view film microstructures. The chemical composition and bonding were determined by X-ray photoelectron spectroscope (XPS: PerkinElmer PHI5600) instrument equipped with Al Kα radiation. Dielectric and tunable properties were measured by using a precision impedance analyzer (HP 4294A). The polarization electric-field (<ce:italic>P</ce:italic>–<ce:italic>E</ce:italic>) hysteresis loops were measured by using a Radiant Precision Ferroelectric Measurement System (RT2000 Tester, USA).</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0025">Results and discussion</ce:section-title>
+                  <ce:para id="p0030" view="all">GXRD was utilized to assess the crystallinity of the BST films and to determine whether or not the films possess a single phase structure. <ce:float-anchor refid="f0010"/>
+                     <ce:cross-ref id="cr0120" refid="f0010">Fig. 2</ce:cross-ref> displays the diffraction patterns of the BST films deposited on Pt/Ti/SiO<ce:inf loc="post">2</ce:inf>/Si substrates. The absence of BST peaks in the patterns for the BST film deposited at 550<ce:hsp sp="0.25"/>°C indicates that the films are amorphous in nature. Minimally crystallized BST film was obtained at a deposition temperature of 600<ce:hsp sp="0.25"/>°C with no clear evidence of secondary phase formation. As deposition temperature increases, the peak intensity of BST increases and the FWHM of (110) peak decreases, indicating enhanced crystallinity and an increase in grain size. Based on the X-ray characterization results, 700<ce:hsp sp="0.25"/>°C was determined to be the optimum deposition temperature, at which the film possesses a cubic and non-textured polycrystalline structure.</ce:para>
+                  <ce:para id="p0035" view="all">
+                     <ce:float-anchor refid="f0015"/>
+                     <ce:cross-ref id="cr0125" refid="f0015">Fig. 3</ce:cross-ref> displays the surface and cross-sectional morphologies of the BST films deposited at different temperatures. Qualitatively, the surface morphologies are in good accordance with the results of XRD analysis. The BST film deposited at 550<ce:hsp sp="0.25"/>°C (<ce:cross-ref id="cr0130" refid="f0015">Fig. 3</ce:cross-ref>a) shows amorphous form, in which no grain can be observed. This is likely due to insufficient mobility of arriving adatoms at the low temperature. The BST film deposited at 600<ce:hsp sp="0.25"/>°C (<ce:cross-ref id="cr0135" refid="f0015">Fig. 3</ce:cross-ref>b), in which deposited atoms or molecules may undergo nucleation and growth of BST, becomes smoother in appearance, and the grains are visible compared with that at 550<ce:hsp sp="0.25"/>°C. As the deposition temperature is further increased from 600<ce:hsp sp="0.25"/>°C to 700<ce:hsp sp="0.25"/>°C, the average grain size of BST increases. For the fully crystallized BST film deposited at 700<ce:hsp sp="0.25"/>°C (<ce:cross-ref id="cr0140" refid="f0015">Fig. 3</ce:cross-ref>c), the grains about 130<ce:hsp sp="0.25"/>nm could be observed in the dense microstructure. The cross section of the BST film deposited at 700<ce:hsp sp="0.25"/>°C is shown in <ce:cross-ref id="cr0145" refid="f0015">Fig. 3</ce:cross-ref>d. The BST film is crack-free, uniform and dense, and its thickness is 670<ce:hsp sp="0.25"/>nm.</ce:para>
+                  <ce:para id="p0040" view="all">
+                     <ce:float-anchor refid="f0020"/>
+                     <ce:cross-ref id="cr0150" refid="f0020">Fig. 4</ce:cross-ref> displays the fitted narrow-scan spectras of Ba <ce:italic>3d</ce:italic>, Sr <ce:italic>3d</ce:italic>, Ti <ce:italic>2p</ce:italic> and O <ce:italic>1s</ce:italic> peaks for the BST film deposited at 700<ce:hsp sp="0.25"/>°C. The measurement was performed on a PHI5600 instrument with Al <ce:italic>Kα</ce:italic> radiation (1486.6<ce:hsp sp="0.25"/>eV) and a takeoff angle of 90°. Compensation for the film charging was performed by comparison with the adventitious C <ce:italic>1s</ce:italic> peak at 284.6<ce:hsp sp="0.25"/>eV. <ce:cross-ref id="cr0155" refid="f0020">Fig. 4</ce:cross-ref>a shows that Ba <ce:italic>3d</ce:italic> doublet can be fitted to two overlapped spin orbit splitting (SOS) pairs separated by 1.18<ce:hsp sp="0.25"/>eV, and the SOS energy for Ba <ce:italic>3d</ce:italic> is Δ<ce:inf loc="post">Ba <ce:italic>3d</ce:italic>
+                     </ce:inf> with the theoretical value of 15.33<ce:hsp sp="0.25"/>eV <ce:cross-ref id="cr0160" refid="bib17">[17]</ce:cross-ref>. The lower binding energy SOS pair (779.02 and 794.35<ce:hsp sp="0.25"/>eV) denoted as Ba<ce:inf loc="post">(1)</ce:inf> is assigned to Ba atoms located at A-site in ABO<ce:inf loc="post">3</ce:inf> type perovskite structure, which is identified as a signal from Ba–O bonds <ce:cross-refs id="crs0025" refid="bib18 bib19">[18,19]</ce:cross-refs>. The higher binding energy SOS pair (780.30 and 795.63<ce:hsp sp="0.25"/>eV) denoted as Ba<ce:inf loc="post">(2)</ce:inf> may be attributed to the relaxed Ba phase, which is probably caused by oxygen vacancies, cation defects, or relaxed surface phase <ce:cross-ref id="cr0165" refid="bib20">[20]</ce:cross-ref>. Similarly, Sr<ce:inf loc="post">(1)</ce:inf> in <ce:cross-ref id="cr0170" refid="f0020">Fig. 4</ce:cross-ref>b is assigned to Sr atoms located at A-site in ABO<ce:inf loc="post">3</ce:inf> type perovskite structure, and Sr<ce:inf loc="post">(2)</ce:inf> may be attributed to the relaxed Sr surface phase. Ti<ce:inf loc="post">(1)</ce:inf> in <ce:cross-ref id="cr0175" refid="f0020">Fig. 4</ce:cross-ref>c is assigned to Ti atoms located at B-site in ABO<ce:inf loc="post">3</ce:inf> type perovskite structure, and Ti<ce:inf loc="post">(2)</ce:inf> may be attributed to the relaxed Ti surface phase. <ce:cross-ref id="cr0180" refid="f0020">Fig. 4</ce:cross-ref>d shows that O 1s peak was fitted to two overlapped peaks at 530.12 and 531.72<ce:hsp sp="0.25"/>eV. The lower binding energy peak is due to the oxide, and the high binding energy peak may be due to the absorbed oxygen.</ce:para>
+                  <ce:para id="p0045" view="all">
+                     <ce:float-anchor refid="f0025"/>
+                     <ce:cross-ref id="cr0185" refid="f0025">Fig. 5</ce:cross-ref> displays the <ce:italic>P–E</ce:italic> hysteresis loops for these BST films deposited at different temperatures, measured at 500<ce:hsp sp="0.25"/>Hz and room temperature. Deposition temperature (<ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf>) plays an important role in fabricating BST films with good ferroelectric properties. The BST film with <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf>=550<ce:hsp sp="0.25"/>°C shows a Pseudo-hysteresis curve, which is from interface effect. However, the BST films with <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf>≥600<ce:hsp sp="0.25"/>°C show much improved <ce:italic>P–E</ce:italic> hysteresis loops. It should be noted that the remanent polarization (2<ce:italic>P</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>r</ce:italic>
+                     </ce:inf>) and coercive field (2<ce:italic>E</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>c</ce:italic>
+                     </ce:inf>) of the BST film with <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf>=700<ce:hsp sp="0.25"/>°C are 23.87<ce:hsp sp="0.25"/>μC/cm<ce:sup loc="post">2</ce:sup> and 297.70<ce:hsp sp="0.25"/>kV/cm (<ce:float-anchor refid="t0010"/>
+                     <ce:cross-ref id="cr0190" refid="t0010">Table 2</ce:cross-ref>) respectively. This 2<ce:italic>P</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>r</ce:italic>
+                     </ce:inf> value is over 3.8 times as large as that of the BST ceramics (6.2<ce:hsp sp="0.25"/>μC/cm<ce:sup loc="post">2</ce:sup>) <ce:cross-ref id="cr0195" refid="bib21">[21]</ce:cross-ref>. In our work, deposition temperature has contributed to enhancement in the ferroelectric properties of BST films.</ce:para>
+                  <ce:para id="p0050" view="all">The relative dielectric constant (<mml:math altimg="si0002.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>ε</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mn>0</mml:mn>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math>) was calculated from the capacitance from 100<ce:hsp sp="0.25"/>Hz to 100<ce:hsp sp="0.25"/>kHz using the following equation:<ce:display>
+                        <ce:formula id="eq0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si0003.gif" overflow="scroll">
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi>ε</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>r</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mo>=</mml:mo>
+                              <mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mi>C</mml:mi>
+                                    <mml:mo>⋅</mml:mo>
+                                    <mml:mi>d</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>ε</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>0</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo>⋅</mml:mo>
+                                    <mml:mi>A</mml:mi>
+                                 </mml:mrow>
+                              </mml:mfrac>
+                              <mml:mo>,</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>C</ce:italic> is the capacitance, <mml:math altimg="si0004.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>ε</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mn>0</mml:mn>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math> is the permittivity of free space (8.85×10<ce:sup loc="post">12</ce:sup>
+                     <ce:hsp sp="0.25"/>F/m), <ce:italic>A</ce:italic> is the capacitor area, and <ce:italic>d</ce:italic> is BST film thickness.</ce:para>
+                  <ce:para id="p0055" view="all">The relative dielectric constant (<mml:math altimg="si0005.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>ε</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>r</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                     </mml:math>) and loss tangent (<mml:math altimg="si0006.gif" overflow="scroll">
+                        <mml:mi>tan</mml:mi>
+                        <mml:mspace width=".25em"/>
+                        <mml:mi>δ</mml:mi>
+                     </mml:math>) as a function of frequency are given in <ce:float-anchor refid="f0030"/>
+                     <ce:cross-ref id="cr0200" refid="f0030">Fig. 6</ce:cross-ref>. It could be observed that the BST films deposited at different temperatures do not show any significant dispersion in relative dielectric constant, indicating excellent film homogeneity and absence of internal interfacial barriers. Similar observation has been reported by Adikary et al. <ce:cross-ref id="cr0205" refid="bib22">[22]</ce:cross-ref>. The variation in relative dielectric constant and loss tangent (measured at 100<ce:hsp sp="0.25"/>kHz) of BST films with deposition temperatures are given in <ce:float-anchor refid="f0035"/>
+                     <ce:cross-ref id="cr0210" refid="f0035">Fig. 7</ce:cross-ref>. The amorphous film deposited at 550<ce:hsp sp="0.25"/>°C has the lowest dielectric constant and loss tangent, which is 264.74 and 0.0157 respectively. It is seen that dielectric constant increases with increasing <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf> due to crystallinity and improved grain growth. This demonstrates the effect of crystallinity and grain size on the dielectric properties of BST films. The relative dielectric constant and loss tangent are 943.40 and 0.0384 for the BST film deposited at 700<ce:hsp sp="0.25"/>°C, respectively. Though the BST films deposited at higher temperatures, such as 700<ce:hsp sp="0.25"/>°C, have larger dielectric constant, their loss tangents are also much higher than that of the films deposited at lower temperatures. In general, dielectric loss originates from two competing mechanisms: resistive loss and relaxation loss. In the former case, energy is consumed by mobile charges in BST films; in the latter case, energy is dissipated due to relaxation of dipoles. In our work, as deposition temperature increases, dielectric constant as well as the dielectric loss increase, which could be due to increase in grain size with an increase in deposition temperature, in turn resulting in a reduction in the number of grain boundaries. A reduction in the number of grain boundaries increases conductivity. Hence, the BST film deposited at 700<ce:hsp sp="0.25"/>°C has higher loss tangent due to contributions from resistive loss.</ce:para>
+                  <ce:para id="p0060" view="all">The dielectric tunability of the BST films deposited at various temperatures as a function of applied electric field is shown in <ce:float-anchor refid="f0040"/>
+                     <ce:cross-ref id="cr0215" refid="f0040">Fig. 8</ce:cross-ref>. The tunability is defined as<ce:display>
+                        <ce:formula id="eq0010">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si0007.gif" overflow="scroll">
+                              <mml:mi mathvariant="normal">Tunability</mml:mi>
+                              <mml:mspace width=".25em"/>
+                              <mml:mrow>
+                                 <mml:mo stretchy="true">(</mml:mo>
+                                 <mml:mo>%</mml:mo>
+                                 <mml:mo stretchy="true">)</mml:mo>
+                              </mml:mrow>
+                              <mml:mo>=</mml:mo>
+                              <mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>ε</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>r</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mrow>
+                                       <mml:mo stretchy="true">(</mml:mo>
+                                       <mml:mn>0</mml:mn>
+                                       <mml:mo stretchy="true">)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mo>−</mml:mo>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>ε</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>r</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:mi>E</mml:mi>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>ε</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>r</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:mn>0</mml:mn>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                 </mml:mrow>
+                              </mml:mfrac>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where<mml:math altimg="si0008.gif" overflow="scroll">
+                        <mml:mspace width=".25em"/>
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>ε</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>r</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mn>0</mml:mn>
+                        <mml:mo stretchy="false">)</mml:mo>
+                     </mml:math> and<mml:math altimg="si0009.gif" overflow="scroll">
+                        <mml:mspace width=".25em"/>
+                        <mml:msub>
+                           <mml:mrow>
+                              <mml:mi>ε</mml:mi>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>r</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:mrow>
+                           <mml:mo stretchy="true">(</mml:mo>
+                           <mml:mi>E</mml:mi>
+                           <mml:mo stretchy="true">)</mml:mo>
+                        </mml:mrow>
+                        <mml:mspace width=".25em"/>
+                     </mml:math>are dielectric constant at zero field and an applied field (<ce:italic>E</ce:italic>), respectively. It is clearly seen that tunability increases with increasing deposition temperature (<ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf>) and applied field. The BST film deposited at <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf>=550<ce:hsp sp="0.25"/>°C, which is amorphous (<ce:cross-ref id="cr0220" refid="f0010">Fig. 2</ce:cross-ref>), shows very poor tunability. The film deposited at 650<ce:hsp sp="0.25"/>°C shows a tunability of 44.44%. The maximum tunability of 55.40% (at 770<ce:hsp sp="0.25"/>kV/cm) was obtained for the BST film deposited at 700<ce:hsp sp="0.25"/>°C. <ce:float-anchor refid="f0045"/>
+                     <ce:cross-ref id="cr0225" refid="f0045">Fig. 9</ce:cross-ref> shows tunability as a function of deposition temperature, measured at 350, 490, 630, 770<ce:hsp sp="0.25"/>kV/cm. It is clearly observed that tunability increases with an increase in <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf>. Dependence of tunability of the BST films on deposition temperature stems from parameters, such as nature of crystallinity and grain size. The XRD results show that the onset of crystallization is about 600<ce:hsp sp="0.25"/>°C, and the grain size increases with increasing <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>d</ce:italic>
+                     </ce:inf>. The film deposited at 700<ce:hsp sp="0.25"/>°C has the highest tunability because of large dielectric constant originating from better growth. So, high value of tunability can be attributed to better growth of BST thin films.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0030">Conclusions</ce:section-title>
+                  <ce:para id="p0065" view="all">We have prepared the modified Ba<ce:inf loc="post">0.67</ce:inf>Sr<ce:inf loc="post">0.33</ce:inf>TiO<ce:inf loc="post">3</ce:inf> films for potential application in electrically tunable devices. Deposition temperature strongly affects crystalline quality, surface morphology, remanent polarization and dielectric tunability of the BST films. By optimizing deposition temperature, we have obtained the BST film deposited at 700<ce:hsp sp="0.25"/>°C with the tunability of 55.40% and the remanent polarization (2<ce:italic>P</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>r</ce:italic>
+                     </ce:inf>)=23.87<ce:hsp sp="0.25"/>μC/cm<ce:sup loc="post">2</ce:sup>. The high tunability with appropriate dielectric loss makes the BST films a promising material for tunable microwave application.</ce:para>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:section-title id="sect0035">Conflict of Interest</ce:section-title>
+                  <ce:para id="p0070" view="all">We declare that we do not have any commercial or associative interest that represents a conflict of interest in connection with the work submitted.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0040">Acknowledgments</ce:section-title>
+               <ce:para id="p0075" view="all">The work was supported by the <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100001809" id="gs1" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">National Natural Science Foundation of China</ce:grant-sponsor> (Grant no. <ce:grant-number refid="gs1">51332003</ce:grant-number>) and the <ce:grant-sponsor id="gs2" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Development Fund of STSPCL</ce:grant-sponsor> (Grant no. <ce:grant-number refid="gs2">ZDFZ2012-12</ce:grant-number>). The authors would like to thank Ms. C. L. Jiang for the SEM analysis and Mr. Q. G. Wang for the XRD data collection.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0045">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ostapchuk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Petzelt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hlinka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Bovtun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kuzel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ponomareva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lisenkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Bellaiche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tkach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Vilarinho</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Broad-band dielectric spectroscopy and ferroelectric soft-mode response in the Ba<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>TiO<ce:inf loc="post">3</ce:inf> solid solution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>474215</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Reshmi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Asha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Krishnaprasad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Jayaraj</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Sebastian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High tunability of pulsed laser deposited Ba<ce:inf loc="post">0.7</ce:inf>Sr<ce:inf loc="post">0.3</ce:inf>TiO<ce:inf loc="post">3</ce:inf> thin films on perovskite oxide electrode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>509</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6561</sb:first-page>
+                              <sb:last-page>6566</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Maune</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sazegar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yuliang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xianghui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Giere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Scheele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Binder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jakoby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nonlinear ceramics for tunable microwave devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microsyst. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>213</sb:first-page>
+                              <sb:last-page>224</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ponchel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Remiens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Legier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Chateigner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microwave properties of epitaxial (111)-oriented Ba<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>TiO<ce:inf loc="post">3</ce:inf> thin films on Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>(0001) up to 40<ce:hsp sp="0.25"/>GHz</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>162909</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Noda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yamada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Seki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kamo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamashita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Funakubo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Okuyama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparison of BST film microwave tunable devices based on (100) and (111) MgO substrates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Ultrason. Ferroelectr. Freq. Control</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2221</sb:first-page>
+                              <sb:last-page>2227</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="othref0005">
+                        <ce:textref>H. Maune, M. Sazegar, Y. Zheng, R. Jakoby, Memory effects in ferroelectric thick film varactors based on Barium Strontium Titanate, in: Proceedings of the IEEE Radio and Wireless Symposium, RWS, 2011, pp. 134–137.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.-Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>Ong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ferroelectric Ba<ce:inf loc="post">x</ce:inf>Sr<ce:inf loc="post">1−x</ce:inf>TiO<ce:inf loc="post">3</ce:inf> thin-film varactors with parallel plate and interdigital electrodes for microwave applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>124110</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="othref0010">
+                        <ce:textref>Z.F. Feng, W.M. Fathelbab, P.G. Lam, V. Haridasan, J.P. Maria, A.I. Kingon, M.B. Steer, Narrowband Barium Strontium Titanate (BST) tunable bandpass filters at X-band, in: Proceedings of the IEEE/Mtt-S International Microwave Symposium, Vol 1–32009, 2009, pp. 1061–1064.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.W.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>TiO<ce:inf loc="post">3</ce:inf> thin film based ring resonators</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Integr. Ferroelectr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                              <sb:last-page>157</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Palukuru</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Perantie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jantti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jantunen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tunable Microwave Phase Shifters Using LTCC Technology with Integrated BST Thick Films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Appl. Ceram. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11</sb:first-page>
+                              <sb:last-page>17</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.X.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.M.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low dielectric loss and enhanced tunable properties of Mn-doped BST/MgO composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>490</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>353</sb:first-page>
+                              <sb:last-page>357</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and influence of sintering temperature on material properties of Mn/Y codoped Ba<ce:inf loc="post">0.67</ce:inf>Sr<ce:inf loc="post">0.33</ce:inf>TiO<ce:inf loc="post">3</ce:inf> ceramics via using citrate–nitrate combustion derived powder</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>563</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155</sb:first-page>
+                              <sb:last-page>160</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.X.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Q.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and electrical properties of Mn/Y codoped Ba<ce:inf loc="post">0.67</ce:inf>Sr<ce:inf loc="post">0.33</ce:inf>TiO<ce:inf loc="post">3</ce:inf> ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2785</sb:first-page>
+                              <sb:last-page>2791</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref id="othref0015">
+                        <ce:textref>P. Scheele, F. Goelden, A. Giere, S. Mueller, R. Jakoby, Continuously tunable impedance matching network using ferroelectric varactors, in: Proceedings of the IEEE MTT-S International Microwave Symposium, Vol 1–42005, 2005, pp. 603–606.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.V.</ce:given-name>
+                                 <ce:surname>Varanasi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.D.</ce:given-name>
+                                 <ce:surname>Leedy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Tomich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Subramanyam</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Large area Ba<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                                 </ce:inf>Sr<ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf>TiO<ce:inf loc="post">3</ce:inf> thin films for microwave applications deposited by pulsed laser ablation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>517</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2878</sb:first-page>
+                              <sb:last-page>2881</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref id="othref0020">
+                        <ce:textref>T. Kohno, T. Tsuchikawa, G. Bhakdisongkhram, T. Nishida, H. Takeda, K. Uchiyama, T. Shiosaki, Sputtering deposition of (Ba<ce:inf loc="post">
+                              <ce:italic>x</ce:italic>
+                           </ce:inf>Sr<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                           </ce:inf>)TiO<ce:inf loc="post">3</ce:inf> thin films for microwave waveguide devices, in: Proceedings of the Sixteenth IEEE International Symposium on the Applications of Ferroelectrics, Vols 1 and 22007, 2007, pp. 209–211.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref id="othref0025">
+                        <ce:textref>J.F. Moulder, W.F. Stickle, P.E. Sobol, K.D. Bomben, Handbook of X-ray photoelectron spectroscopy, 1995.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Craciun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Srivastava</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Howard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Perriere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characteristics of Ba<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>TiO<ce:inf loc="post">3</ce:inf> thin films grown by ultraviolet-assisted pulsed laser deposition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. A: Mater. Sci. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>S787</sb:first-page>
+                              <sb:last-page>S789</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Kuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Xiong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface chemical states of barium zirconate titanate thin films prepared by chemical solution deposition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>255</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8913</sb:first-page>
+                              <sb:last-page>8916</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Baniecki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ishii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Shioga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kurihara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Miyahara</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface core-level shifts of strontium observed in photoemission of barium strontium titanate thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>162908</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of sintering temperature on structure and nonlinear dielectric properties of Ba<ce:inf loc="post">0.6</ce:inf>Sr<ce:inf loc="post">0.4</ce:inf>TiO<ce:inf loc="post">3</ce:inf> ceramics prepared by the citrate method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1550</sb:first-page>
+                              <sb:last-page>1556</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.U.</ce:given-name>
+                                 <ce:surname>Adikary</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.W.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ferroelectric and dielectric properties of sol–gel derived Ba<ce:inf loc="post">
+                                    <ce:italic>x</ce:italic>
+                                 </ce:inf>Sr<ce:inf loc="post">1−<ce:italic>x</ce:italic>
+                                 </ce:inf>TiO<ce:inf loc="post">3</ce:inf> thin films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>424</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>70</sb:first-page>
+                              <sb:last-page>74</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

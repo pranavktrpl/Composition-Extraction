@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167577X06007804</prism:url><dc:identifier>doi:10.1016/j.matlet.2006.06.070</dc:identifier><eid>1-s2.0-S0167577X06007804</eid><prism:doi>10.1016/j.matlet.2006.06.070</prism:doi><pii>S0167-577X(06)00780-4</pii><dc:title>New “Y” type nonlinear optical chromophores with good transparency and enhanced nonlinear optical effects </dc:title><prism:publicationName>Materials Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>0167577X</prism:issn><prism:volume>61</prism:volume><prism:issueIdentifier>4-5</prism:issueIdentifier><prism:startingPage>1151</prism:startingPage><prism:endingPage>1153</prism:endingPage><prism:pageRange>1151-1153</prism:pageRange><prism:number>4-5</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2007-02-28</prism:coverDate><prism:coverDisplayDate>February 2007</prism:coverDisplayDate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Gong, Wei</dc:creator><dc:creator>Li, Qianqian</dc:creator><dc:creator>Li, Suyue</dc:creator><dc:creator>Lu, Changgui</dc:creator><dc:creator>Li, Zhen</dc:creator><dc:creator>Zhu, Jing</dc:creator><dc:creator>Zhu, Zhichao</dc:creator><dc:creator>Li, Zhong'an</dc:creator><dc:creator>Wang, Qingrong</dc:creator><dc:creator>Cui, Yiping</dc:creator><dc:creator>Qin, Jingui</dc:creator><dc:description>
+                  Two new “Y” type triaryl amino chromophores with tricyanovinyldihydrofuran groups as electronic acceptor are synthesized and found to exhibit blue-shifted absorption in comparison with the corresponding D–π–A analogues while demonstrating significantly enhanced optical nonlinearity, as well as good thermal stability.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0167577X06007804" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167577X06007804" rel="scidir"/></coredata><objects><object ref="sc1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="667" height="531" size="63945">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06007804-sc1.jpg?httpAccept=%2A%2F%2A</object><object ref="sc1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="93" size="2516">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X06007804-sc1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33845974463</scopus-id><scopus-eid>2-s2.0-33845974463</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33845974463" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271572</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20060720">2006-07-20</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20060720">2006-07-20</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-28T03:48:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167577X06007804</xocs:eid>
+      <xocs:pii-formatted>S0167-577X(06)00780-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167577X06007804</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matlet.2006.06.070</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167577X06X03580</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T04:57:05.441565-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20070201</xocs:date-search-begin>
+      <xocs:date-search-end>20070228</xocs:date-search-end>
+      <xocs:year-nav>2007</xocs:year-nav>
+      <xocs:indexeddate epoch="1153353600">2006-07-20T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-577X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0167577X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>61</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>61</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:iss-last>5</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 61, Issues 4–5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>57</xocs:sort-order>
+      <xocs:first-fp>1151</xocs:first-fp>
+      <xocs:last-lp>1153</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1151</xocs:first-page>
+         <xocs:last-page>1153</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200702</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2007</xocs:cover-date-text>
+      <xocs:cover-date-start>2007-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2007-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2007</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>NEWYTYPENONLINEAROPTICALCHROMOPHORESGOODTRANSPARENCYENHANCEDNONLINEAROPTICALEFFECTS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GONG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1a">
+            <xocs:ref-normalized-surname>DALTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib1b">
+            <xocs:ref-normalized-surname>KAJZAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib1c">
+            <xocs:ref-normalized-surname>MARDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>845</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib1d">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>559</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib1e">
+            <xocs:ref-normalized-surname>ZYSS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>149</xocs:ref-first-fp>
+            <xocs:ref-last-lp>150</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOLECULARNONLINEAROPTICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2a">
+            <xocs:ref-normalized-surname>MARKS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2b">
+            <xocs:ref-normalized-surname>DALTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1905</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>MOYLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12599</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>CAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1847</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>SPRAUL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3253</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>CHRISTOPHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12950</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2698</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8a">
+            <xocs:ref-normalized-surname>ZANETTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1927</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1066</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8b">
+            <xocs:ref-normalized-surname>MOHANAKRISHNAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3105</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>ROBINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>BROECK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3315</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11"/>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1140</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13a">
+            <xocs:ref-normalized-surname>BERNARDI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>173</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13b1">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10643</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13b2">
+            <xocs:ref-normalized-surname>VARANASI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12443</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13c">
+            <xocs:ref-normalized-surname>MORLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3009</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>CHO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3167</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>GONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10241</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16a">
+            <xocs:ref-normalized-surname>WATANABE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16b">
+            <xocs:ref-normalized-surname>MATSUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GONGX2007X1151</xocs:refkey3>
+         <xocs:refkey4lp>GONGX2007X1151X1153</xocs:refkey4lp>
+         <xocs:refkey4ai>GONGX2007X1151XW</xocs:refkey4ai>
+         <xocs:refkey5>GONGX2007X1151X1153XW</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-577X(06)00780-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167577X06007804</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167577X06007804</xocs:eid>
+         <xocs:doi>10.1016/j.matlet.2006.06.070</xocs:doi>
+         <xocs:cid>271572</xocs:cid>
+         <xocs:timestamp>2010-09-17T00:44:02.437929-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2007-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2007-02-28</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167577X06007804-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06007804/MAIN/application/pdf/8d507b5b43736caa965ece82b8b67066/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06007804/MAIN/application/pdf/8d507b5b43736caa965ece82b8b67066/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>199146</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>3</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167577X06007804-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06007804/PREVIEW/image/png/a416ed6fc908f882fa510589194b336e/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06007804/PREVIEW/image/png/a416ed6fc908f882fa510589194b336e/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>77701</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06007804-sc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06007804/sc1/DOWNSAMPLED/image/jpeg/5f084c4b8befc7e40636b250691a5600/sc1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06007804/sc1/DOWNSAMPLED/image/jpeg/5f084c4b8befc7e40636b250691a5600/sc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63945</xocs:filesize>
+               <xocs:pixel-height>531</xocs:pixel-height>
+               <xocs:pixel-width>667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X06007804-sc1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X06007804/sc1/THUMBNAIL/image/gif/bf997bca801467dd6e4f08753f62fd8a/sc1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X06007804/sc1/THUMBNAIL/image/gif/bf997bca801467dd6e4f08753f62fd8a/sc1.sml</xocs:ucs-locator>
+               <xocs:file-basename>sc1</xocs:file-basename>
+               <xocs:filename>sc1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2516</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" docsubtype="sco" xml:lang="en">
+         <item-info>
+            <jid>MLBLUE</jid>
+            <aid>7509</aid>
+            <ce:pii>S0167-577X(06)00780-4</ce:pii>
+            <ce:doi>10.1016/j.matlet.2006.06.070</ce:doi>
+            <ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="sch1">
+               <ce:label>Scheme 1</ce:label>
+               <ce:link locator="sc1"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Cpd</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>λ</italic>
+                           <inf loc="post">max</inf>/nm<cross-ref refid="tblfn1">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>β</italic>
+                           <inf loc="post">HRS</inf>
+                           <cross-ref refid="tblfn2">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>β</italic>
+                           <inf loc="post">0</inf>
+                           <cross-ref refid="tblfn3">
+                              <sup loc="post">c</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <italic>T</italic>
+                           <inf loc="post">d</inf>
+                           <cross-ref refid="tblfn4">
+                              <sup loc="post">d</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <bold>I</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">628</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center" valign="top">648</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">166</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">310</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <bold>II</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">620</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center" valign="top">728</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">172</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">298</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <bold>III</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">621</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center" valign="top">1023</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">244</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">
+                           <bold>IV</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">618</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center" valign="top">1091</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">252</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">283</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tblfn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>Tested in chloroform.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tblfn2">
+                  <ce:label>b</ce:label>
+                  <ce:note-para>
+                     <ce:italic>β</ce:italic> values (in unit of 10<ce:sup loc="post">−<ce:hsp sp="0.10"/>30</ce:sup> esu) measured by Hyper–Rayleigh Scattering (HRS) technique in chloroform using the fundamental excitation wavelength of 1064 nm, with <ce:italic>p</ce:italic>-nitroaniline (<ce:italic>p</ce:italic>-NA) in the same solvent used as the external reference (<ce:italic>β</ce:italic>
+                     <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>23<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">−<ce:hsp sp="0.10"/>30</ce:sup> esu).</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tblfn3">
+                  <ce:label>c</ce:label>
+                  <ce:note-para>Dispersion-corrected <ce:italic>β</ce:italic> values calculated by using an approximate two-level model.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tblfn4">
+                  <ce:label>d</ce:label>
+                  <ce:note-para>
+                     <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">d</ce:inf> = TGA onset in nitrogen at a heating rate of 10 °C/min.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>New “Y” type nonlinear optical chromophores with good transparency and enhanced nonlinear optical effects</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Wei</ce:given-name>
+                  <ce:surname>Gong</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Qianqian</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Suyue</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Changgui</ce:given-name>
+                  <ce:surname>Lu</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Zhen</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jing</ce:given-name>
+                  <ce:surname>Zhu</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Zhichao</ce:given-name>
+                  <ce:surname>Zhu</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Zhong'an</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Qingrong</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Yiping</ce:given-name>
+                  <ce:surname>Cui</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jingui</ce:given-name>
+                  <ce:surname>Qin</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Hubei Key Lab on Organic and Polymeric Opto-Electronic Materials, Department of Chemistry, Wuhan University, Wuhan 430072, China</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Advanced Photonics Center, Department of Electronic Engineering, Southeast University, Nanjing 210096, China</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors. Tel.: +86 27 62254108; fax: +86 27 68756757.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="8" month="4" year="2006"/>
+            <ce:date-accepted day="26" month="6" year="2006"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Two new “Y” type triaryl amino chromophores with tricyanovinyldihydrofuran groups as electronic acceptor are synthesized and found to exhibit blue-shifted absorption in comparison with the corresponding D–π–A analogues while demonstrating significantly enhanced optical nonlinearity, as well as good thermal stability.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Considerable attention has been attracted in the organic electro-optic (EO) materials due to their potential applications in photonics <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. As one of the key points of second-order nonlinear optical (NLO) materials, organic chromophores, which exhibit good properties such as high thermal and chemical stability, large nonlinearity, and transparency are currently being pursued for the next generation of high-performance photonics devices <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. However, it is difficult to simultaneously achieve the three criteria required for usefulness, and there are experimentally observed tradeoffs, such as the nonlinearity–thermal stability tradeoff, and the nonlinearity–transparency tradeoff. Here, we report the synthesis, optical, and thermal properties of a series of new triaryl amino chromophore with tricyanovinyldihydrofuran (TCF) groups as the electron acceptor (<ce:cross-ref refid="sch1">Scheme 1</ce:cross-ref>), which demonstrate good thermal stability, relatively better transparency and large nonlinearity.</ce:para>
+                  <ce:para view="all">In general, the additional thermal stability can be added to a nonlinear chromophore by substitution of aromatic moieties for aliphatic ones along the delocalized path, and triphenylamino group is often used as the donor part to provide better optimization of the nonlinearity–thermal stability tradeoff <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. However, some triaryl amino chromophores have shown increased thermal stability, but decreased molecular hyperpolarizability <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. By using one of the strongest known acceptors, TCF, there was report of triaryl amino chromophores showing large nonlinearity and good thermal stability <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. The preparation of “Y” type chromophore coupling triphenyl amine donor with strong acceptor, however, has not been reported, though other “Y” type chromophores have proved to show good comprehensive properties <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. In this study, triphenyl amine donors are for the first time used in the “Y” type chromophores, bridged to TCF via vinyl thiophene or furan linkages, which demonstrate a combination of relatively good transparency, high thermal stability, and large nonlinearity.</ce:para>
+               </ce:section>
+               <ce:section role="results" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">The syntheses of chromophores <ce:bold>I</ce:bold>–<ce:bold>IV</ce:bold> are shown in <ce:cross-ref refid="sch1">Scheme 1</ce:cross-ref>
+                     <ce:float-anchor refid="sch1"/>. A Vilsmeier reaction of triphenyl amine yielded aldehyde <ce:bold>1</ce:bold> according to the previous literature <ce:cross-ref refid="bib7">[7]</ce:cross-ref>, which condensed with furan or thiophene methyl triphenylphosphonium bromide <ce:cross-ref refid="bib8">[8]</ce:cross-ref> gave the intermediate <ce:bold>3</ce:bold> or <ce:bold>4</ce:bold> in the yields of 84 and 64% for furan and thiophene moieties respectively. Also by the Vilsmeier reactions, the aldehydes <ce:bold>5</ce:bold> and <ce:bold>6</ce:bold> were obtained in the yields of 80 and 60% respectively. Finally, chromophores <ce:bold>I</ce:bold> and <ce:bold>II</ce:bold> were synthesized by condensation of the aldehydes <ce:bold>5</ce:bold> and <ce:bold>6</ce:bold> with TCF <ce:cross-ref refid="bib9">[9]</ce:cross-ref> in 46 and 61% yields, respectively. And those of chromophores <ce:bold>III</ce:bold> and <ce:bold>IV</ce:bold> were prepared by similar procedures with dialdehyde <ce:cross-ref refid="bib10">[10]</ce:cross-ref> used instead of aldehyde <ce:bold>1</ce:bold>. All the intermediates and chromophores were isolated as pure compounds by chromatography on silica gel followed by recrystallization from organic solvents, and gave satisfied spectroscopic data <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. The chromophores are soluble in common organic solvents, such as chloroform, THF, DMF, <ce:italic>etc</ce:italic>.</ce:para>
+                  <ce:para view="all">The <ce:italic>β</ce:italic> values of the chromophores <ce:bold>I</ce:bold>–<ce:bold>IV</ce:bold> were measured by Hyper–Rayleigh Scattering (HRS) technique <ce:cross-ref refid="bib12">[12]</ce:cross-ref> in chloroform using the fundamental excitation wavelength of 1064 nm, and the known <ce:italic>β</ce:italic> value of <ce:italic>p</ce:italic>-nitroaniline was used as an external reference. The measured hyperpolarizabilities <ce:italic>β</ce:italic> and the static <ce:italic>β</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> obtained from the two-level modulation of these chromophores, the UV–visible absorption maxima, <ce:italic>λ</ce:italic>
+                     <ce:inf loc="post">max</ce:inf>, and thermal decomposition temperature (<ce:italic>T</ce:italic>
+                     <ce:inf loc="post">d</ce:inf>) of the chromophores were summarized in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>.</ce:para>
+                  <ce:para view="all">The prediction by the theoretical calculation and earlier results demonstrated that for a given acceptor and donor, the <ce:italic>β</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> values are larger for the chromophores with thiophene as conjugation than those for the chromophores containing the bridge of furan <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. However, there were reported results in contrast to the above idea <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs>. In our case, the <ce:italic>β</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> values of <ce:bold>I</ce:bold> and <ce:bold>III</ce:bold> are a little smaller than those of <ce:bold>II</ce:bold> and <ce:bold>IV</ce:bold> respectively. However, considering the possible deviation of the testing setup, the results might only indicate that the furan moieties are as good as the conjugation bridges of thiophene groups for this system.</ce:para>
+                  <ce:para view="all">The <ce:italic>β</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> values of the “Y” type chromophores <ce:bold>III</ce:bold> and <ce:bold>IV</ce:bold> are enhanced at a large degree, in comparison with those of chromophores <ce:bold>I</ce:bold> and <ce:bold>II</ce:bold>, with the improvement of 47% and 46% from <ce:bold>I</ce:bold> to <ce:bold>III</ce:bold> and <ce:bold>II</ce:bold> to <ce:bold>IV</ce:bold>, respectively. This is very exciting but understandable. In the “Y” type chromophores <ce:bold>III</ce:bold> and <ce:bold>IV</ce:bold>, there are two acceptors and one donor, the ground state can be described as DA<ce:inf loc="post">1</ce:inf>A<ce:inf loc="post">2</ce:inf>, and it would be difficult for the two acceptor groups to interact with each other because of their rigid structure. Then, there will be two degenerated excited states: D<ce:sup loc="post">+</ce:sup>A<ce:inf loc="post">1</ce:inf>
+                     <ce:sup loc="post">−</ce:sup>A<ce:inf loc="post">2</ce:inf> and D<ce:sup loc="post">+</ce:sup>A<ce:inf loc="post">1</ce:inf>A<ce:inf loc="post">2</ce:inf>
+                     <ce:sup loc="post">−</ce:sup>, similar as in the case of symmetric (dicyanomethylene)pyran (DCM) derivatives <ce:cross-ref refid="bib6">[6]</ce:cross-ref>, which possess two donors and one acceptor. And just like in the DCM series, the two low-lying electronic excited states in chromophores <ce:bold>III</ce:bold> and <ce:bold>IV</ce:bold> should also contribute to the molecular hyperpolarizability <ce:italic>β</ce:italic> in an additive manner, making these two chromophores enhanced NLO properties, compared to their corresponding D–π–A analogues, chromophores <ce:bold>I</ce:bold> and <ce:bold>II</ce:bold>. Even so, the improvement was very large, showing the advantages of the “Y” type NLO chromophores, and providing a new route to enhance the molecular hyperpolarizabilities of chromophores with triphenyl amino groups as the electronic donor moieties. It is also interesting to note that the improvement degree from chromophore <ce:bold>I</ce:bold> to <ce:bold>III</ce:bold> is nearly the same to that from chromophore <ce:bold>II</ce:bold> to <ce:bold>IV</ce:bold>, possibly indicating that the electronic properties of the furan moieties are similar to those of the thiophene groups.</ce:para>
+                  <ce:para view="all">It is interesting that chromophores <ce:bold>III</ce:bold> and <ce:bold>IV</ce:bold> show similar absorption wavelengths when compared with their corresponding D–π–A analogues. To check the reproducibility, we repeated the measurements several times and got the same results. Then, it is for sure that chromophores <ce:bold>III</ce:bold> and <ce:bold>IV</ce:bold> exhibit similar UV–visible absorption maxima (<ce:italic>λ</ce:italic>
+                     <ce:inf loc="post">max</ce:inf>) instead of red-shifted absorption, although their molecular hyperpolarizabilities were enhanced at a large degree. This might be due to the presence of the two charge-transporting levels in the chromophores as other “Λ” type chromophores reported previously <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. Thus, our examples provide a new opportunity for defeating nonlinearity–transparency tradeoff in designing second-order nonlinear optical chromophores by using triphenyl amino groups as the donor part.</ce:para>
+                  <ce:para view="all">The decomposition temperature <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">d</ce:inf> of the chromophores was measured by thermal gravimetric analysis (TGA) in nitrogen, with a heating rate of 10 °C/min. The <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">d</ce:inf> of the chromophores was in the range of 283–310 °C, with chromophore <ce:bold>I</ce:bold> showing the highest thermal decomposition at 310 °C.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">In summary, we have synthesized two new “Y” type chromophores with triphenyl amino groups as the donor, bridged to one of the strongest known acceptors, TCF, via vinyl furan or thiophene linkages. The two chromophores demonstrated enhanced nonlinear response without sacrifice in their transparency but with a similar absorption in comparison with their corresponding D–π–A analogues, also they are thermally stable up to 280 °C. Thus, the two chromophores may be used as NLO active moieties in the practical EO applications.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">Z. Li and J. Qin are grateful to the National Science Foundation of China (NSFC) (nos. 20402011, 90201002), the National Fundamental Key Research Program and Hubei Province for the financial support. Y. Cui thanks the National Science Foundation for Distinguished Young Scholars of China (no. 60125513) and NSFC (no. 10374013).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="bib1a">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Dalton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Polym. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>158</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib1b">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Kajzar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-Y.</ce:given-name>
+                                 <ce:surname>Jen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Polym. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>161</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib1c">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Marder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kippelen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.-Y.</ce:given-name>
+                                 <ce:surname>Jen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Peyghambarian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>388</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>845</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib1d">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Wada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sasabe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>559</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib1e">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zyss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Molecular Nonlinear Optics</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1994</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>149</sb:first-page>
+                              <sb:last-page>150</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="bib2a">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Marks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Ratner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem., Int. Ed. Engl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib2b">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Dalton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Steier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Garner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Londergan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Irwin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Carlson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Fifield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Phelan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kincaid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Amend</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.-Y.</ce:given-name>
+                                 <ce:surname>Jen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1905</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Moylan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Twieg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Swanson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Betterton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12599</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Liakatas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bosch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bosshard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gunter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Concilio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Tirelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Suter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Org. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1847</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Spraul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Suresh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sassa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Herranz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Echegoyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Wada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Perahia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tetrahedron lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3253</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Christopher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ermer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Steven</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.H.</ce:given-name>
+                                 <ce:surname>McComb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Leung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wortmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Prdmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Twieg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12950</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2698</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="bib8a">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Zanetti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1927</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1066</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib8b">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Mohanakrishnan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.V.</ce:given-name>
+                                 <ce:surname>Lakshmikantham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>McDougal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Cava</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Baldwin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Metzger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Org. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3105</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Dalton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Harper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Todorova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Aniszfeld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Garner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Steier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Houbrecht</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Persoons</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ledoux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zyss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.-Y.</ce:given-name>
+                                 <ce:surname>Jen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>245</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.V.</ce:given-name>
+                                 <ce:surname>Broeck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Verbiest</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Degryse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.V.</ce:given-name>
+                                 <ce:surname>Beylen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Persoons</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Samyn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polymer</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3315</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>The yield (%), melting point (°C), NMR (300M), IR (neat) and MS data for the four chromophores. <ce:bold>I</ce:bold>: yield 46; mp 286–287; NMR (DMSO-<ce:italic>d</ce:italic>
+                           <ce:inf loc="post">6</ce:inf>) <ce:italic>δ</ce:italic> (ppm): 7.75 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>15.3 Hz, 1H), 7.56 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>8.7 Hz, 2H), 7.33–7.41 (m, 6H), 7.07–7.09 (m, 7H), 6.82–6.93 (m, 4H), 1.77 (s, 6H); IR: 2225 cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> (C<ce:glyph name="tbnd"/>N); ESI-MS <ce:italic>m</ce:italic>/<ce:italic>z</ce:italic> (%) 546.2 (M<ce:sup loc="post">+</ce:sup>); HRMS calcd for C<ce:inf loc="post">36</ce:inf>H<ce:inf loc="post">26</ce:inf>N<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">2</ce:inf>: 546.2058, Found: 546.2050. <ce:bold>II</ce:bold>: yield 61; mp 247–249; NMR (DMSO-<ce:italic>d</ce:italic>
+                           <ce:inf loc="post">6</ce:inf>) <ce:italic>δ</ce:italic> (ppm): 8.11 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>15.6 Hz, 1H), 7.75 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>3.6 Hz, 1H), 7.53 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>8.1 Hz, 2H), 7.32–7.37 (m, 6H), 7.05–7.13 (m, 6H), 6.91 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>7.8 Hz, 3H), 6.71 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>16.2 Hz, 1H), 1.79 (s, 6H); IR: 2225 cm<ce:sup loc="post">−1</ce:sup> (C<ce:glyph name="tbnd"/>N); ESI-MS <ce:italic>m</ce:italic>/<ce:italic>z</ce:italic> (%) 585.2 (M<ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>Na<ce:sup loc="post">+</ce:sup>); HRMS calcd for C<ce:inf loc="post">36</ce:inf>H<ce:inf loc="post">26</ce:inf>N<ce:inf loc="post">4</ce:inf>OSNa: 585.1735, Found: 585.1720. <ce:bold>III</ce:bold>: yield 36; mp 210–212; NMR (CDCl<ce:inf loc="post">3</ce:inf>) <ce:italic>δ</ce:italic> (ppm): 7.80 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>16.2 Hz, 2H), 7.60 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>8.4 Hz, 4H), 7.47–7.37 (m, 6H), 7.32 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>3.6 Hz, 2H), 7.19–7.17 (m, 5H), 7.11–7.02 (m, 4H), 6.86 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>3.6 Hz, 2H), 1.76 (s, 12H); IR: 2226 cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> (C<ce:glyph name="tbnd"/>N); ESI-MS <ce:italic>m</ce:italic>/<ce:italic>z</ce:italic> (%) 870.3 (M<ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>Na<ce:sup loc="post">+</ce:sup>); HRMS calcd for C<ce:inf loc="post">54</ce:inf>H<ce:inf loc="post">37</ce:inf>N<ce:inf loc="post">7</ce:inf>O<ce:inf loc="post">4</ce:inf>Na: 870.2803, Found: 870.2799. <ce:bold>IV</ce:bold>: yield 46; mp 200–202; NMR (DMSO-<ce:italic>d</ce:italic>
+                           <ce:inf loc="post">6</ce:inf>) <ce:italic>δ</ce:italic> (ppm): 8.11 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>16.2 Hz, 2H), 7.75–7.76 (m, 2H), 7.58 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>9 Hz, 4H), 7.33–7.46 (m, 6H), 7.09–7.27 (m, 5H), 7.00 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>8.1 Hz, 4H), 6.71 (<ce:italic>d</ce:italic>, <ce:italic>J</ce:italic>
+                           <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>15.9 Hz, 2H), 1.79 (s, 12H); IR: 2226 cm<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> (C<ce:glyph name="tbnd"/>N); ESI-MS <ce:italic>m</ce:italic>/<ce:italic>z</ce:italic> (%) 902.2 (M<ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>Na<ce:sup loc="post">+</ce:sup>); HRMS calcd for C<ce:inf loc="post">54</ce:inf>H<ce:inf loc="post">37</ce:inf>N<ce:inf loc="post">7</ce:inf>O<ce:inf loc="post">2</ce:inf>S<ce:inf loc="post">2</ce:inf>Na: 902.2352, Found: 902.2342.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Lett.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1140</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="bib13a">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Bernardi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Struct.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>163</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>173</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib13b1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.-P.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Tam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Marder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Stiegman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Rikken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Spangler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10643</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib13b2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Varanasi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.-Y.</ce:given-name>
+                                 <ce:surname>Jen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chandrasckhar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.N.N.</ce:given-name>
+                                 <ce:surname>Namboothiri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rathna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12443</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib13c">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.O.</ce:given-name>
+                                 <ce:surname>Morley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc., Faraday Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3009</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.R.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.N.</ce:given-name>
+                                 <ce:surname>Son</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.I.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Jeon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tetrahedron Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3167</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem., B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10241</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="bib16a">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Watanabe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hosonmin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>NATO ASI Ser.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>194</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference id="bib16b">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Matsui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tsuge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Funabiki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Shibata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Muramatsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hirota</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hirota</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hosoda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Fluorine Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

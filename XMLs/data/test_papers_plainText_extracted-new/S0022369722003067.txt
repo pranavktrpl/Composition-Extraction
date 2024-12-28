@@ -1,0 +1,1660 @@
+Title:
+First-principles calculations to investigate band gap of cubic BaThO
+
+Abstract:
+The motive of this study is to offer a comprehensive evaluation of the structural, elastic, mechanical, anisotropic, electrical and optical characteristics of BaThO3 under the pressure range of 0 GPa–113 GPa. There is no phase transformation and the structure remains cubic but a diminishment in lattice parameters is observed. The material is found to be mechanically stable, inflexible, rigid and has high resistance to shear stress by computing the various elastic and mechanical (bulk modulus, shear modulus and young's modulus) parameters. The Pugh/Frantsevich ratios, Cauchy pressure, Poisson's ratio, and the Kleinman's parameter have proved the ductility, metallic bond nature and high-pressure endurance of the material. Distinctive anisotropy factors are engaged to verify that a compound is anisotropic. When the electronic band structure (BS) is taken into consideration, a change from wide band gap semiconductor (3.174eV) to narrow band gap semiconductor (1.832eV) and eventually metal (0eV) is seen. The total density of states (TDOS), the partial density of states (PDOS) and elemental partial density of states (EPDOS) have all been estimated in order to investigate the electronic BS. To enforce the relevance of this material, the real ε
+                     1(ω) and imaginary ε
+                     2(ω) dielectric functions, absorption I(ω), refractive index n(ω), extinction coefficient k(ω), loss function L(ω), reflectivity R(ω) and real/imaginary conductivity have all been calculated. The static values of ε
+                     
+                        1
+                     (ω) and n(ω) increase with applied pressure. Since its absorption spectra are present in the UV range, this is the best material to utilize as a UV filter. Additionally, its high refractive index, absorption, reflectivity, and conductivity make it an excellent component in optoelectronic devices.
+
+Keywords:
+Phase stability
+Mechanical stability
+Semiconductor-metal transition
+Maximum absorption in UV region
+UV filter
+
+Acknowledgements:
+Acknowledgement:
+Acknowledgement
+               Thank to Higher Education Commission (HEC) of Pakistan for financial support to S. S. A. Gillani under 6934/NRPU/HEC grant number.
+
+Graphical abstract:
+Image 1
+
+Introduction:
+Perovskites have been a very hotly debated topic for scientists and engineers in the modern scientific period due to their spellbinding properties like ferro and piezoelectricity, ionic and electronic conductivity, high temperature superconductivity (HTS), thermal stability and catalytic properties. However, these materials are viable candidates for optoelectronic and spintronic devices since they may be used as sensors, substrates or catalytic electrodes in fuel cells. ABO3 is a predefined chemical formula for perovskite oxides, where A and B are two distinct cations, respectively. In order to form corner-sharing BO6 octahedrons, the B-site cations are six-fold coordinated with oxygen atoms in many cases, while the A-site cations fill the pits formed by the octahedrons. Although some perovskite oxides have a perfect cubic lattice, many perovskite oxides are significantly deformed with deprived symmetry. The structural properties of cubic barium thorate (BaThO3) manifest that it belongs to the Pm3 m phase group. Ba occupies the (0, 0, 0) position, O holds the (0.5, 0.5, 0), (0.5, 0, 0.5) and (0, 0.5, 0.5) locations and Th possesses the (0.5, 0.5, 0.5) position. Moreover, this octahedrally coupled to six oxygen ions (ThO6) [1–10].
+Thorium (Th) is more abundant in nature than uranium and it is more widely distributed around the world. The Th fuel cycle has a low output of minor actinides and a high resistance to nuclear proliferation (NP), making it an excellent choice for nuclear power [11–13]. The Th fuel cycle has lately regained popularity because of its several favorable properties, including its high thermal conductivity, melting point, chemical stability and minimal thermal expansion. Owing to its compatibility with present light and heavy water reactors, oxide (O) fuel is one of numerous Th fuel types that have some prospects. Ba, Kr, Sr, Cs, I, and Xe are fission products during the fission reaction. The alkaline earth fission product reacts with the matrix oxide to form multi-component oxides (MCO). It was discovered that irradiated mixed oxide (MOX) fuel has a grey oxide phase that has a perovskite structure [14]. For Th-based fuel, the production of multi-component oxides should be addressed. One of the multi-component oxides to examine is BaThO3 (BTO) [15].
+Due to its high thermal stability with a melting point of 2300 °C and low work function of Th, BTO is an excellent material for thermionic cathodes in high intensity discharge lamps [16,17]. During neodymium (Nd) and yttrium (Y) doping over 900 °C, BTO ceramics are solid electrolytes that have the greatest proton conductivity of all solid electrolytes [18–20]. Because it is a fission product in nuclear reactors, particularly in uranium-thorium reactors, it is essential to understand the capabilities of BTO to anticipate the dependability of nuclear fuel components [16]. Because of its prominence in nuclear reactors, Moreira and Dias investigated the structural features of this material [21]. Mishra et al. [22] have also looked at the topic of thermodynamic stability. Additionally, other physical features of BTO such as heat capacity and Gibbs free energy are described in the literature [23–25]. The full potential linearized augmented plane wave method (FP-LAPW) within the DFT framework assesses the structural and optoelectronic properties. From these calculations, the cubic BTO is a direct band gap insulator with E
+                     
+                        g
+                      = 5.7eV [26]. Another DFT simulation using the FP-LPAW technique shows the direct nature of band gap and BTO has E
+                     
+                        g
+                      = 3.16eV [27]. By using the LDA-mBJ methodology based on the DFT, the cubic structure of BTO has a direct band gap with E
+                     
+                        g
+                      = 4.39eV [28]. However, the contradiction in the aforementioned theoretical results is clear.
+Since the perovskite family includes BTO as one of its most prominent members, theoretical evidence is limited. Several characteristics of materials, including their structural, elastic, mechanical, electrical and optical properties have been examined under the effect of external pressure (0 GPa–113 GPa) in the current paper. By using the Generalized-Gradient-Approximation-Perdew-Burk-Ernzerhof (GGA-PBE) as an exchange-correlation on the basis of the Cambridge Serial Total Energy Package (CASTEP) code, the compelling parameters include lattice constant (LC), band gap (Eg), density of states (DOS), complex dielectric function (ε1(ω) & ε2(ω)), absorption(I(ω)), complex refractive index (n(ω) & k(ω)), reflectivity (R(ω)), energy loss function (L(ω)) and real/imaginary conductivity of BTO are calculated. According to the findings of this study, both the lattice constants and the band gap of BTO are shown to reduce as the pressure increases from 0 GPa to 113 GPa. There is no phase transition and the structure continues to be cubic. The elasticity and mechanical characteristics demonstrate that the compound has a stable structure, a ductile nature, a pervasiveness of metallic bonding and an anisotropic behaviour. In addition, a transition from a wide band gap semiconductor to a conductor has been seen. The optical characteristics of BTO demonstrate that the absorption edge is migrating towards lower energies, resulting in a redshift and a rise in the refractive index being observed under the influence of external pressure. Due to the fact that its absorption spectrum is in the ultraviolet (UV) region, this material could also be used as a UV filter.
+
+Computational methodology:
+The Material Studio set-up is used in this research to calculate the structural, elastic, mechanical, electrical and optical properties of BTO. By using the precepts of density functional (DFT) theory and the plane wave pseudo-potential algorithm, the Cambridge Serial Total Energy Package (CASTEP) code is considered before the calculations [29–31]. Due to the fact that it analyses the data quickly and accurately, this approach was used in this investigation. The 2 × 2 × 2 supercell is generated when the structure is subjected to pressures ranging from 0 GPa to 113 GPa for the purpose of analysis, as shown in Fig. 1
+                     .
+It is best to utilize the Khon-Sham equations for the calculations [32–34]. To investigate the relationship between electron transfers, Perdew–Burke–Ernzerhof (PBE) developed a generalized gradient approximation (GGA) approach [35,36]. Currently, GGA-PBE is helping as an exchange-correlation. Employing the Vanderbilt type ultra-soft pseudo-potentials (USP) with a cutoff energy of 571.4eV, the electron-ion interaction is thought to be quantified [37]. The electrical configuration of valence shells is defined as follows: Ba: 4 d1⁰, 5p⁶, 6s2, Th: 4f14, 5 d10, 6p6, 7s2, O: 1s2, 2s2, 2p4. The Monkhorst–Pack grid is used to conduct the Brillion zone template across 6 × 6 × 6 sets of k-points mesh. During the calculation of single-point energy, the Broyden-Fletcher-Goldfarb-Shanno (BFGS) is recruited to elevate the geometry with a self-consistent field of 1.0 × 106 Å, the maximum displacement of 0.00001 Å, residual force less than 0.001 V/Å and self-consistent convergence accuracy of 5 × 10−5eV/atom [38–40].
+
+Results and discussion:
+3.1
+                     Geometry optimization
+                     When computing the structural, elastic, mechanical, electrical and optical characteristics of material with and without pressure, the first step is to optimize the geometry. Optimizing the geometry is paramount to achieving the lowest energy for phase stability. At 0 GPa, the lattice constant of BTO is a = b = c = 4.601 Å. The previously reported lattice constants of BTO are 4.527 Å [41] and 4.48 Å [21,42]. In our current study, a substantial decrease in lattice constants is found when pressure is applied between 20 GPa and 113 GPa. The variation in lattice constants under the influence of external pressure is illustrated in Fig. 2
+                        .
+                     Since the lattice constant decreases with increasing pressure, it is reasonable to assume that the atomic interactions are more potent. As a consequence, the volume of the unit cell falls as a direct result of the reduction in the values of the lattice constants. It is required to apply a high degree of accuracy in order to get these lattice constants [43]. In comparison to previously published values, our calculated results are within acceptable limits, indicating that our computations are of high quality and accuracy. When the lattice parameters are estimated without and with pressure, a slight variation in calculations is observed. All computed lattice constants are reported in Table 1
+                        .
+3.2
+                     Elastic and mechanical properties
+                     The elastic and mechanical constants of material are critical in determining the mechanical stability, mechanical characteristics of the material and its applications in the industry [44]. Stiffness, brittleness, stability, ductility, bonding nature, and anisotropy of material are all related to the elastic constants. Subsequently, it is significant to research these constants to comprehend the mechanical properties of BTO at various pressures. According to our research, there are no experimental results for all tested materials to compare with our outcomes. In the present theoretical study, due to the cubic structure of BTO, which is also confirmed by structural parameters in above section, allows for just three distinct elastic constants to be determined. The three constants under discussion are referred to as C11, C12 and C44 [45]. It is possible to indicate compression stress and strain in the direction of (100) by using the C
+                        
+                           11
+                        . Transverse stress and strain in the same direction are shown by C
+                        
+                           44
+                        , and longitudinal stress and strain in the opposite direction are revealed by C
+                        
+                           12
+                         [46]. All computations of elastic constants are reported in Table 2
+                        .
+                     Independent elastic constants should meet the stability criterion in order to interpret the mechanically stable structure of cubic crystal. For cubic structures, the stability conditions are as follows [48]:
+                           
+                              (1)
+                              (C
+                                 
+                                    11
+                                  – C
+                                 
+                                    12
+                                 ) > 0, C
+                                 
+                                    11
+                                  > 0, C
+                                 
+                                    44
+                                  > 0 and (C
+                                 
+                                    11
+                                  + 2C
+                                 
+                                    12
+                                 ) > 0
+                           
+                        
+                     
+                     From the computed values of elastic parameters, it is obvious that the cubic structure of BTO stays stable when subjected to pressures between 0 GPa and 113 GPa. In addition to this, it is indeed noticeable that the results that are shown in Table 2 for the literature nearly coincide with the values that we have determined for the elastic constants. It is also noted that C
+                        
+                           11
+                         and C
+                        
+                           12
+                         rise in a linear way which means that compressive and longitudinal strain increases. However, we can observe a reduction in transverse strain due to decline in C
+                        
+                           44
+                         with external pressure except at 20 GPa. According to results it is clear that BTO experiences the larger compressive/longitudinal strain as compare to transverse strain. Fig. 3
+                         depicts the variations in elastic constants that occur as a result of the action of external pressure.
+                           
+                              (2)
+                              
+                                 E = 9 GB / (3B + G)
+                              
+                           
+                        
+                        
+                           
+                              (3)
+                              
+                                 υ = (3B – 2G) / (6B + 2G)
+                           
+                        
+                     
+                     It is necessary to use the Reuss and Voigt approximation to obtain the bulk and shear moduli. The symbols B
+                        
+                           V
+                        , B
+                        
+                           R
+                        , G
+                        
+                           V
+                         and G
+                        
+                           R
+                         represent bulk and shear moduli, as defined by the Voigt and Reuss expressions. Therefore, we have mathematical formulations [50], such as the ones listed below:
+                           
+                              (4)
+                              
+                                 G
+                                 
+                                    V
+                                  = (C
+                                 
+                                    11
+                                  + 3C
+                                 
+                                    44
+                                  – C
+                                 
+                                    12
+                                 ) / 5
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 G
+                                 
+                                    R
+                                  = 5 (C
+                                 
+                                    11
+                                  – C
+                                 
+                                    12
+                                 )C
+                                 
+                                    44
+                                  / 3(C
+                                 
+                                    11
+                                  – C
+                                 
+                                    12
+                                 ) + 4C
+                                 
+                                    44
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              
+                                 G = (G
+                                 
+                                    V
+                                  + G
+                                 
+                                    R
+                                 ) / 2
+                           
+                        
+                        
+                           
+                              (7)
+                              
+                                 B
+                                 
+                                    V
+                                  = B
+                                 
+                                    R
+                                  = (C
+                                 
+                                    11
+                                  + 2C
+                                 
+                                    12
+                                 ) / 3
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 B = (B
+                                 
+                                    V
+                                  + B
+                                 
+                                    R
+                                 ) / 2
+                           
+                        
+                     
+                     For genuine polycrystalline constants (GPC), Hill says G
+                        
+                           V
+                         is the highest bond, while G
+                        
+                           R
+                         is the bottom one [51]. Equations (6) and (8) are used to determine the Hill average of the bulk (B) and shear (G) moduli. All calculated results of B, G, E, B/G, G/B, P
+                        
+                           C
+                        , υ and ξ are reported in Table 3
+                        .
+                     The inflexibility of a compound is predicted by its bulk modulus (B). The high value of bulk modulus (B) represents the stiffness and tightness of compound. However, the high value of bulk modulus (B) is inadequate to reveal the mechanical strength of the compound, but shear modulus (G) is much better in predicting the hardness of the material. Furthermore, the maximum value of the shear modulus (G) indicates a high level of resistance to permanent deformation [52]. Moreover, the value of Young's modulus (E) is an important parameter in asserting the rigidity of a substance [53]. Without and with external pressure, the mechanical characteristics of BTO are dispatched in Fig. 4
+                        . In recent research, we found that when pressure is applied to BTO, the bulk (B) increases, which leads to the high stiffness of the compound. Shear and young moduli all rise, indicating that the material is hard and resistant to permanent deformation but they decrease at 80, 110, 112, and 113 GPa, where shear (G) and young (E) moduli fall, indicating that BTO has less hardness and a small amount of resistance to permanent deformation at these pressures, as shown in Fig. 4 (a).
+                     Without and with external pressure, the mechanical characteristics of BTO are dispatched in Fig. 4. In recent research, we found that when pressure is applied to BTO, the bulk (B) increases, which leads to the high stiffness of the compound. Shear and young moduli all rise, indicating that the material is hard and resistant to permanent deformation but they decrease at 80, 110, 112, and 113 GPa, where shear (G) and young (E) moduli fall, indicating that BTO has less hardness and a small amount of resistance to permanent deformation at these pressures, as shown in Fig. 4(a).
+                     Pugh predicts an elastic modulus B/G to describe the plastic qualities (ductility and brittleness) of a material in order to describe its plastic behaviour [54]. If B/G > 1.75 the material will be ductile otherwise it will be brittle [55]. The B/G ratio of BTO is more than 1.75 and it goes up as the pressure goes up, as reported in Table 3. This means that the BTO is ductile and its ductility increases as the pressure increases, as revealed by Fig. 4(b). Frantsevich's ratio (G/B) is another significant criterion for determining the ductility of a material. If G/B < 0.571, the material is ductile and brittle if G/B > 0.571 [56]. Fig. 4(c) expresses that BTO is ductile in nature based on this measurement, which ranges from 0.495 to 0.135. As an alternative to the Pugh and Frantsevich ratio, it has also been postulated that the ductility behaviour is connected to the Cauchy pressures [57]. The Cauchy pressures (P
+                        
+                           C
+                        ) for cubic [58] structure can be calculated using the following formula:
+                           
+                              (9)
+                              
+                                 P
+                                 
+                                    C
+                                  = C
+                                 
+                                    12
+                                  – C
+                                 
+                                    44
+                                 
+                              
+                           
+                        
+                     
+                     The Cauchy pressure (P
+                        
+                           C
+                        ) is normally positive for metallic bonding (ductile) and negative (brittle) for directional bonding with a greater negative pressure signifying a more directed nature. The positive values of P
+                        
+                           C
+                         confirm the ductile nature of BTO under external pressure, and it has a significant contribution of metallic bonding, as shown in Fig. 4(d). When taking into account all of these three parameters such as the Pugh/Frantsevich ratio and Cauchy pressure, it strikes as a big surprise to learn that BTO has ductile behaviour.
+                     The Poisson's ratio (υ) is a prominent characteristic for identifying the kind of bond present inside a material. In the presence of external load, this parameter forecasts the corresponding characteristics of the material. In addition, it tells us about the volume variance. When Poisson's ratio is reduced to its lowest value, a considerable increase in volume is seen [46]. For covalent materials υ < 0.1 but compound having a Poisson's ratio (υ) of 0.25 is deemed to be ionic in composition. But at υ ≥ 0.3, a strong metallic character is exhibited [59,60]. In the present study, the Poisson's ratio (υ) ranges from 0.287 to 0.435 and rises with applied pressure, demonstrating the strong metallic nature of our material and variation in volume is also observed, as seen in Fig. 4(e).
+                     Kleinman's parameter (ζ) is a critical parameter in determining the stability of a material when it is bent or stretched. The maximum and minimum values of Kleinman's parameter (ζ) signify the resistance to bond stretching that is strong or low, respectively. The following equation can help us to find the ζ [61]:
+                           
+                              (10)
+                              
+                                 ζ = C
+                                 
+                                    11
+                                  + 8C
+                                 
+                                    12
+                                  / 7C
+                                 
+                                    11
+                                  – 2C
+                                 
+                                    12
+                                 
+                              
+                           
+                        
+                     
+                     Bond bending is dominant when ζ = 0. In contrast to this, a value of ζ = 1 indicates that bond stretching is dominant [47]. The current data reveal a pressure-induced change in ζ from 0.404 to 0.469. That's why our material can withstand high pressure and has a stable phase structure, as shown in Fig. 4(f). Tables 2 and 3 show, the values for the most important elastic and mechanical properties are comparable to those in the literature. Correlations may cause small differences. Table 1 illustrates decreasing lattice parameters, although the cubic structure is stable because of its elastic features. The Poisson ratio verifies volume fluctuation due to loss in lattice parameters.
+                     
+                        3.2.1
+                        Elastic anisotropy
+                        In order to analyze the mechanical characteristics of crystals, it is necessary to describe elastic anisotropy. The elastic characteristics exhibit significant directional dependency even in extremely symmetrical cubic crystals. On the base of elastic moduli and other parameters, different approaches are documented in the literature to understand the elastic anisotropy of material. A variety of perspectives have been employed in our investigation to support the claims made about the elastic anisotropy behaviour described here. Cubic crystal anisotropy was first quantified by Zener's work on anisotropy. If the A
+                           
+                              Z
+                            is unity, then the crystal is isotropic, and any discrepancy from unity can be referred as a measure of the anisotropic behaviour of the crystal under exploration. However, there are some of the limitations of this equation: it only considers the cubic crystals and it is a non-unique formulation because it can be expressed as its inverse instead. Following formula can be used to compute the A
+                           Z [62,63]:
+                              
+                                 (11)
+                                 
+                                    A
+                                    Z = 2C
+                                    
+                                       44
+                                     / (C
+                                    
+                                       11
+                                     – C
+                                    
+                                       12
+                                    )
+                              
+                           
+                        
+                        
+                           Table 4
+                            provides a summary of all estimated values for different anisotropy factors and a compression of the data found in the literature.
+                        Here we can see that our calculated value of A
+                           
+                              Z
+                            is closely matched with reported data at 0 GPa which shows the sound worth of our work. However, a change in A
+                           
+                              Z
+                            is indicated by raising the pressure from 20 to 113 GPa, as shown in Fig. 5
+                           (a). The deviation of A
+                           
+                              Z
+                            from 1 shows the anisotropic behaviour of BTO.
+                        In order to attain single valuedness (SV) for cubic crystals, the Chung-Buessem anisotropy was established, which allows for the comparison of cubic crystals on a comparative basis. For isotropic crystals, A
+                           
+                              CB
+                            = 0 and any positive divergence from this limiting value would suggest anisotropic behaviour. With this concept, it is possible to determine with certainty if a certain cubic crystal is more anisotropic than another [62,64].
+                              
+                                 (12)
+                                 
+                                    A
+                                    
+                                       CB
+                                     = (G
+                                    
+                                       V
+                                     – G
+                                    
+                                       R
+                                    ) / (G
+                                    
+                                       V
+                                    
+                                    + G
+                                    
+                                       R
+                                    )
+                              
+                           
+                        
+                        In order to attain single valuedness (SV) for cubic crystals, the Chung-Buessem anisotropy was established, which allows for the comparison of cubic crystals on a comparative basis. For isotropic crystals, A
+                           
+                              CB
+                            = 0 and any positive divergence from this limiting value would suggest anisotropic behaviour. With this concept, it is possible to determine with certainty if a certain cubic crystal is more anisotropic than another [62,64].
+                              
+                                 
+                                    A
+                                    
+                                       CB
+                                     = (G
+                                    
+                                       V
+                                     – G
+                                    
+                                       R
+                                    ) / (G
+                                    
+                                       V
+                                     
+                                    + G
+                                    
+                                       R
+                                    ) (12)
+                              
+                           
+                        
+                        Due to the development of the notion of elastic anisotropy, another strategy that is linked to the Ranganathan and Ostoja-Starzewski universal anisotropy index could apply to any crystal system. The universal anisotropy index is similar to the Chung-Buessem anisotropy in that it specifies the limiting value of isotropic crystals to be zero, and any positive departures from zero would indicate the presence of elastic anisotropies. When using this concept, one must be cautious since it only allows for relative comparisons between two crystals. For this purpose, we have followed below expression [65,66],
+                              
+                                 (13)
+                                 
+                                    A
+                                    
+                                       U
+                                     = (B
+                                    
+                                       V
+                                    /B
+                                    
+                                       R
+                                    ) + 5(G
+                                    
+                                       V
+                                    /G
+                                    
+                                       R
+                                    ) – 6
+                              
+                           
+                        
+                        Given the fact that it was developed to perform definite comparisons between any two crystals, the Kube's log-Euclidean anisotropy is the broadest definition of anisotropy available at the moment. The log-Euclidean anisotropy behaves in a manner that is quite similar to the behaviour of the preceding two anisotropies. A measure of elastic isotropy is denoted as A
+                           
+                              L
+                            = 0, however, any positive deviation is confirmation of anisotropy [67].
+                              
+                                 (14)
+                                 
+                                    A
+                                    
+                                       L
+                                     = [[ln (B
+                                    
+                                       V
+                                    
+                                    /B
+                                    
+                                       R
+                                    )]2 + 5 [ln (G
+                                    
+                                       V
+                                    
+                                    /G
+                                    
+                                       R
+                                    )]2]1/2
+                                 
+                              
+                           
+                        
+                        If we look at Table 4, we can see that all of the numeric values of A
+                           
+                              CB,
+                            
+                           A
+                           
+                              U
+                            and A
+                           
+                              L
+                            are not zero, which indicates that BTO is an anisotropic compound (Table 4). Aside from that, Fig. 5(b–d) shows a rising trend in anisotropy factors. Moreover, slight variations in anisotropy factors occur as a result of material plasticity, as well as modifications in structural properties. This is because a material exhibits diverse properties in different directions [68].
+3.3
+                     Electronic band structure
+                     To understand the electronic behaviour of compound, band structure (BS), total density of states (TDOS), partial density of states (PDOS) and elemental partial density of states (EPDOS) are calculated and discussed in this section. Two sorts of electronic bands exist due to the fact that they provide details on the accessibility of electrons. One is referred to as the conduction band (CB), which appears beyond the Fermi level (E
+                        
+                           F
+                        ), while the other is referred to as the valence band (VB), which occurs at the bottom part of the E
+                        
+                           F
+                        .
+                     Band gap can be achieved by calculating the difference between the minimum value of CB and maximum value of VB. Electronic band can be explained as a direct or indirect band. The term direct band refers to a band in which the CB minima (CBM) and the VB maxima (VBM) are located at the same position. However, the occurrence of CBM and VBM at separate places leads to the establishment of an indirect band. To express the BS, Fig. 6
+                         is arranged with TDOS at 0 GPa, 20 GPa and 40 GPa. Fig. 6 shows that k-symmetry points are taken along the x-axis while the y-axis represents the energy. By raising the pressure from 0 GPa to 40 GPa, we can observe that the band gap drops from 3.174eV to 1.997eV, which is consistent with the transition from a wide band gap semiconductor to a narrow band gap semiconductor. As CBM and VBM are located at the same point G in the Brillion zone, this indicates that the direct band has been identified with certainty (Fig. 6).
+                     
+                        Fig. 7
+                         exhibits a substantial decrease in band gap from 1.832eV to 0eV at high pressures ranging from 60 GPa to 113 GPa. Moreover, band gap remains direct owing to CBM and VBM at similar symmetry point G in the Brillion zone and the dark lines make it clear. As a result of the external pressure, the lattice parameters (see Table 1) are similarly modified. This alteration in lattice parameters results in a shift in the band gap at symmetrical sites. External pressure changes the overlapping component, which alters the electrical band structure by causing a shift in the band gap's thickness. Moreover, when a lot of pressure is put on a material, electronic interaction increases and the probability of electronic movement from VB to CB is increased significantly and the band gap gets reduced. Moreover, due to the direct nature of the band gap, it is a perfect candidate for photovoltaic and optoelectronic applications. To put it another way, when BTO perovskite is subjected to pressure, it changes the band gap and so improves its absorptive, conductive, and other optical properties, as described in section 3.4. In addition, we find that increasing pressure improves the applicability of this perovskite up to a pressure of 113 GPa [43,69].
+                     
+                        Figs. 6 and 7 demonstrate the significant consequences of external pressure on BTO, where we can see that VB approaches E
+                        
+                           F
+                         and the CB edge moves toward the low energies. The migration of VB towards the E
+                        
+                           F
+                         validates the p-type semiconductor behaviour under peculiar pressure. Moreover, we can see the metallic response of material at 113 GPa due to the mixing of VB and CB. Furthermore, the reduction in band gap makes it a favorable component for its optimal use in electrical appliances and the field. Fig. 8
+                         shows the accumulative effects of pressure on the band gap and the movement of the CB edge.
+                     For a better understanding of band structure, it is necessary to consider the density of states in an energy spectrum in order to get insight into the different energy levels inhabited by electrons in different materials. In the absence of external pressure, the PDOS of pure BTO is displayed in Fig. 9
+                        .
+                     In the graph (Fig. 9), the maximum contribution of O-2p is seen in comparison to the 7s-, 6p-, 5d-, 4f-states of Th and the 4d-state of Ba in VB in the energy range of 0eV to -5eV. However, in the energy range of 0–5eV, the CB reports the highest contribution of Ba-4d. While in the higher CB, between 5eV and 10eV, a significant influence of Th-4f can be found. PDOS are depicted in Fig. 10
+                         to probe the electronic band structure when BTO is exposed to external pressure (0 GPa–113GPa). The p-state is the most prevalent configuration in the VB in energy range of 0eV to -5eV. While in CB from 0eV to 5eV, d-states provide a greater percentage of the overall contribution than s- and f-states. However, a significant portion of f-states is found in the upper CB from 5eV to 10eV. The density of states seems to move toward the E
+                        
+                           F
+                         when the pressure is increased, and this is the primary explanation for the decrease in band gap as pressure is increased.
+                     The EPDOS of BTO at different pressures are seen in Fig. 11
+                        . Fig. 11(a–i) demonstrates that VB is completely filled with O-2p states in the region of -5eV–0eV when compared to Th-5d and Th-4f states in the same range. As a matter of fact, Ba-4d has greater dominance than any other state within the 0–5eV in CB. On the other hand, Th-4f significantly contributes to CB in the energy range of 5eV–10eV. When BTO is exposed to external pressure, it is obvious from the graphs that EPDOS are travelling toward lower energies, and as a result, a widening of the band gap is perceived. Because of the combination of CB and VB, the material behaves as a conductor under pressures ranging from 80 GPa to 113 GPa, as illustrated in Fig. 11(e–i).
+3.4
+                     Optical properties
+                     The optical properties of a material are important in understanding its electrical structure since they can be explained by a variety of means. To explain the repercussion of pressure on BTO, we have estimated the various optical properties like complex dielectric function, which consists of real ε
+                        1(ω) and imaginary parts ε
+                        2(ω), absorption I(ω), refractive index n(ω), loss function L(ω), reflectivity R(ω), extinction coefficient (k) and complex optical conductivity. It is possible to justify the appropriateness and viability of materials in nano/opto-electronic industries with the help of these optical parameters [70]. By using the Maxwell's equation, one can determine the complex dielectric function (CDF). During the interaction of electromagnetic waves (EM) with material, CDF explains the response of compound [29,30].
+                           
+                              (15)
+                              
+                                 ε(ω) = ε
+                                 
+                                    1
+                                 (ω) + iε
+                                 
+                                    2
+                                 (ω)
+                           
+                        
+                     
+                     Here, ϵ
+                        
+                           1
+                        (ω) is a real dielectric function (RDF), which is used to describe the dispersion and polarization of light. However, the imaginary dielectric function (IDF), which is ϵ
+                        
+                           2
+                        (ω), helps us to reveal the reduction and dissipation of light by material. All calculated values of various optical parameters are arranged in Table 5
+                        .
+                     
+                        Fig. 12
+                        (a and b) illustrates the variation of ϵ
+                        
+                           1
+                        (ω) and ϵ
+                        
+                           2
+                        (ω) in energy frame of 0–50eV at pressure of 0 GPa–113 GPa. At 0eV, the static values of ε
+                        1(0) show the increasing trend as reported in Table 5. However, the main peaks of ε
+                        1(ω) are 8.197, 8.330, 8.347, 8.315, 8.280, 8.254, 8.239, 8.224 and 8.246 respectively. All of these computations represent a fluctuation in peak values. Moreover, Fig. 12(a) represents that main peak of RDF appear after the static values. Fig. 12(b) represents the IDF, where static value of ε
+                        2(0) seems to be zero in the absence or presence of external pressure. However, all results of ε
+                        2(ω) demonstrates that peak values (Table 5) fall with modest changes and subsequently rise, while moving towards the higher energies.
+                     According to Table 5, the main absorption peaks of BTO shift towards higher energies as external pressure is applied, with the exception of 40 and 60 GPa, where there is a small decline (Fig. 13(a)). However, as illustrated in Fig. 13
+                        (b), the absorption edge of BTO is shifting to lower energies (4.190–2.973 eV). This shifting of the absorption edge is an identification of red shift.
+                     The wavelengths of the absorption edge and main peaks are plotted in Fig. 13(c and d). Fig. 13(c) shows that there was an absorption edge in the UV region when the outside pressure was between 0 and 100 GPa. However, when the pressure was between 110 and 113 GPa, the material could be used in the visible spectrum. Fig. 13(d) shows that the maximum absorption peaks of BTO are in the UV region, and the highest absorption is at 18.530eV with a wavelength of 67.06 nm. Our results demonstrated that BTO is a suitable compound for use as a UV filter for a wide range of energies in the UV spectrum [71,72]. In addition to this, Fig. 14
+                         is plotted to explain the cumulative behaviour of different optical properties. As stated by Table 5, there is an enormous increase in refractive index of BTO. While peak values of refractive index are 2.913, 2.951, 2.958, 2.959, 2.967, 2.969, 2.973, 2.965 and 2.959 respectively, as shown by Fig. 14(a).
+                     We can see from Fig. 14(b) that the highest extinction coefficient peaks (Table 5) are transferred to higher energies. The notified peaks of the loss function are disclosed in Table 5 where we can see that loss function peaks are moving toward the higher energies at 0–60 GPa and then a decline is observed (Fig. 14 (c)).
+                     The static values of reflectivity (see Table 5) are 0.121, 0.127, 0.133, 0.141, 0.150, 0.167, 0.182, 0.186 and 0.190, respectively. Fig. 14(d) expresses that static values and peak values are travelling toward higher energies. In Fig. 14(e and f), the graph of real and imaginary conductivity is plotted. The computed data show that Fig. 14(e) has increasing behaviour in peak values, whereas Fig. 14(f) has little discrepancies in peak values, with a drop at 20, 40, and 113 GPa. The optical properties of BTO are checked by applying an external pressure ranging from 0 GPa to 113 GPa to each of the previously described calibrations. Table 5 shows how well our current DFT study fits with earlier findings, allowing us to demonstrate the importance of what we are discovering. In addition, these changes in certain optical properties can only be explained by the influence of external pressure. This is because putting pressure on a material changes its lattice parameters and band gap in a big way, which changes the way it behaves optically [73].
+                     After taking into account the values of refractive index and absorption, we discover that they have an inverse relationship up to 60 GPa pressure, and the same is true for reflectivity and absorption. It follows that when refractive index is greatest at the same location, the lowest value of absorption is seen and vice versa, where reflectivity is highest, the lowest value of absorption is observed. The semiconductor behaviour of the material is represented by these inverse relationships, as illustrated in Fig. 15
+                        .
+                     In a similar vein, the metallicity of the material corresponds to high reflectivity. There is a significant rise in reflectivity between 80 GPa and 113 GPa, with the maximum reflectivity being obtained at 113 GPa, indicating that the compound is metallic in composition (Fig. 15). Fig. 16
+                         describes the relation between the trends of different optical characteristics of BTO, computed against pressures ranging from 0 GPa to 113 GPa.
+
+Geometry optimization:
+When computing the structural, elastic, mechanical, electrical and optical characteristics of material with and without pressure, the first step is to optimize the geometry. Optimizing the geometry is paramount to achieving the lowest energy for phase stability. At 0 GPa, the lattice constant of BTO is a = b = c = 4.601 Å. The previously reported lattice constants of BTO are 4.527 Å [41] and 4.48 Å [21,42]. In our current study, a substantial decrease in lattice constants is found when pressure is applied between 20 GPa and 113 GPa. The variation in lattice constants under the influence of external pressure is illustrated in Fig. 2
+                        .
+Since the lattice constant decreases with increasing pressure, it is reasonable to assume that the atomic interactions are more potent. As a consequence, the volume of the unit cell falls as a direct result of the reduction in the values of the lattice constants. It is required to apply a high degree of accuracy in order to get these lattice constants [43]. In comparison to previously published values, our calculated results are within acceptable limits, indicating that our computations are of high quality and accuracy. When the lattice parameters are estimated without and with pressure, a slight variation in calculations is observed. All computed lattice constants are reported in Table 1
+                        .
+
+Elastic and mechanical properties:
+The elastic and mechanical constants of material are critical in determining the mechanical stability, mechanical characteristics of the material and its applications in the industry [44]. Stiffness, brittleness, stability, ductility, bonding nature, and anisotropy of material are all related to the elastic constants. Subsequently, it is significant to research these constants to comprehend the mechanical properties of BTO at various pressures. According to our research, there are no experimental results for all tested materials to compare with our outcomes. In the present theoretical study, due to the cubic structure of BTO, which is also confirmed by structural parameters in above section, allows for just three distinct elastic constants to be determined. The three constants under discussion are referred to as C11, C12 and C44 [45]. It is possible to indicate compression stress and strain in the direction of (100) by using the C
+                        
+                           11
+                        . Transverse stress and strain in the same direction are shown by C
+                        
+                           44
+                        , and longitudinal stress and strain in the opposite direction are revealed by C
+                        
+                           12
+                         [46]. All computations of elastic constants are reported in Table 2
+                        .
+Independent elastic constants should meet the stability criterion in order to interpret the mechanically stable structure of cubic crystal. For cubic structures, the stability conditions are as follows [48]:
+                           
+                              (1)
+                              (C
+                                 
+                                    11
+                                  – C
+                                 
+                                    12
+                                 ) > 0, C
+                                 
+                                    11
+                                  > 0, C
+                                 
+                                    44
+                                  > 0 and (C
+                                 
+                                    11
+                                  + 2C
+                                 
+                                    12
+                                 ) > 0
+From the computed values of elastic parameters, it is obvious that the cubic structure of BTO stays stable when subjected to pressures between 0 GPa and 113 GPa. In addition to this, it is indeed noticeable that the results that are shown in Table 2 for the literature nearly coincide with the values that we have determined for the elastic constants. It is also noted that C
+                        
+                           11
+                         and C
+                        
+                           12
+                         rise in a linear way which means that compressive and longitudinal strain increases. However, we can observe a reduction in transverse strain due to decline in C
+                        
+                           44
+                         with external pressure except at 20 GPa. According to results it is clear that BTO experiences the larger compressive/longitudinal strain as compare to transverse strain. Fig. 3
+                         depicts the variations in elastic constants that occur as a result of the action of external pressure.
+                           
+                              (2)
+                              
+                                 E = 9 GB / (3B + G)
+                              
+                           
+                        
+                        
+                           
+                              (3)
+                              
+                                 υ = (3B – 2G) / (6B + 2G)
+It is necessary to use the Reuss and Voigt approximation to obtain the bulk and shear moduli. The symbols B
+                        
+                           V
+                        , B
+                        
+                           R
+                        , G
+                        
+                           V
+                         and G
+                        
+                           R
+                         represent bulk and shear moduli, as defined by the Voigt and Reuss expressions. Therefore, we have mathematical formulations [50], such as the ones listed below:
+                           
+                              (4)
+                              
+                                 G
+                                 
+                                    V
+                                  = (C
+                                 
+                                    11
+                                  + 3C
+                                 
+                                    44
+                                  – C
+                                 
+                                    12
+                                 ) / 5
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 G
+                                 
+                                    R
+                                  = 5 (C
+                                 
+                                    11
+                                  – C
+                                 
+                                    12
+                                 )C
+                                 
+                                    44
+                                  / 3(C
+                                 
+                                    11
+                                  – C
+                                 
+                                    12
+                                 ) + 4C
+                                 
+                                    44
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              
+                                 G = (G
+                                 
+                                    V
+                                  + G
+                                 
+                                    R
+                                 ) / 2
+                           
+                        
+                        
+                           
+                              (7)
+                              
+                                 B
+                                 
+                                    V
+                                  = B
+                                 
+                                    R
+                                  = (C
+                                 
+                                    11
+                                  + 2C
+                                 
+                                    12
+                                 ) / 3
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 B = (B
+                                 
+                                    V
+                                  + B
+                                 
+                                    R
+                                 ) / 2
+For genuine polycrystalline constants (GPC), Hill says G
+                        
+                           V
+                         is the highest bond, while G
+                        
+                           R
+                         is the bottom one [51]. Equations (6) and (8) are used to determine the Hill average of the bulk (B) and shear (G) moduli. All calculated results of B, G, E, B/G, G/B, P
+                        
+                           C
+                        , υ and ξ are reported in Table 3
+                        .
+The inflexibility of a compound is predicted by its bulk modulus (B). The high value of bulk modulus (B) represents the stiffness and tightness of compound. However, the high value of bulk modulus (B) is inadequate to reveal the mechanical strength of the compound, but shear modulus (G) is much better in predicting the hardness of the material. Furthermore, the maximum value of the shear modulus (G) indicates a high level of resistance to permanent deformation [52]. Moreover, the value of Young's modulus (E) is an important parameter in asserting the rigidity of a substance [53]. Without and with external pressure, the mechanical characteristics of BTO are dispatched in Fig. 4
+                        . In recent research, we found that when pressure is applied to BTO, the bulk (B) increases, which leads to the high stiffness of the compound. Shear and young moduli all rise, indicating that the material is hard and resistant to permanent deformation but they decrease at 80, 110, 112, and 113 GPa, where shear (G) and young (E) moduli fall, indicating that BTO has less hardness and a small amount of resistance to permanent deformation at these pressures, as shown in Fig. 4 (a).
+Without and with external pressure, the mechanical characteristics of BTO are dispatched in Fig. 4. In recent research, we found that when pressure is applied to BTO, the bulk (B) increases, which leads to the high stiffness of the compound. Shear and young moduli all rise, indicating that the material is hard and resistant to permanent deformation but they decrease at 80, 110, 112, and 113 GPa, where shear (G) and young (E) moduli fall, indicating that BTO has less hardness and a small amount of resistance to permanent deformation at these pressures, as shown in Fig. 4(a).
+Pugh predicts an elastic modulus B/G to describe the plastic qualities (ductility and brittleness) of a material in order to describe its plastic behaviour [54]. If B/G > 1.75 the material will be ductile otherwise it will be brittle [55]. The B/G ratio of BTO is more than 1.75 and it goes up as the pressure goes up, as reported in Table 3. This means that the BTO is ductile and its ductility increases as the pressure increases, as revealed by Fig. 4(b). Frantsevich's ratio (G/B) is another significant criterion for determining the ductility of a material. If G/B < 0.571, the material is ductile and brittle if G/B > 0.571 [56]. Fig. 4(c) expresses that BTO is ductile in nature based on this measurement, which ranges from 0.495 to 0.135. As an alternative to the Pugh and Frantsevich ratio, it has also been postulated that the ductility behaviour is connected to the Cauchy pressures [57]. The Cauchy pressures (P
+                        
+                           C
+                        ) for cubic [58] structure can be calculated using the following formula:
+                           
+                              (9)
+                              
+                                 P
+                                 
+                                    C
+                                  = C
+                                 
+                                    12
+                                  – C
+                                 
+                                    44
+The Cauchy pressure (P
+                        
+                           C
+                        ) is normally positive for metallic bonding (ductile) and negative (brittle) for directional bonding with a greater negative pressure signifying a more directed nature. The positive values of P
+                        
+                           C
+                         confirm the ductile nature of BTO under external pressure, and it has a significant contribution of metallic bonding, as shown in Fig. 4(d). When taking into account all of these three parameters such as the Pugh/Frantsevich ratio and Cauchy pressure, it strikes as a big surprise to learn that BTO has ductile behaviour.
+The Poisson's ratio (υ) is a prominent characteristic for identifying the kind of bond present inside a material. In the presence of external load, this parameter forecasts the corresponding characteristics of the material. In addition, it tells us about the volume variance. When Poisson's ratio is reduced to its lowest value, a considerable increase in volume is seen [46]. For covalent materials υ < 0.1 but compound having a Poisson's ratio (υ) of 0.25 is deemed to be ionic in composition. But at υ ≥ 0.3, a strong metallic character is exhibited [59,60]. In the present study, the Poisson's ratio (υ) ranges from 0.287 to 0.435 and rises with applied pressure, demonstrating the strong metallic nature of our material and variation in volume is also observed, as seen in Fig. 4(e).
+Kleinman's parameter (ζ) is a critical parameter in determining the stability of a material when it is bent or stretched. The maximum and minimum values of Kleinman's parameter (ζ) signify the resistance to bond stretching that is strong or low, respectively. The following equation can help us to find the ζ [61]:
+                           
+                              (10)
+                              
+                                 ζ = C
+                                 
+                                    11
+                                  + 8C
+                                 
+                                    12
+                                  / 7C
+                                 
+                                    11
+                                  – 2C
+                                 
+                                    12
+Bond bending is dominant when ζ = 0. In contrast to this, a value of ζ = 1 indicates that bond stretching is dominant [47]. The current data reveal a pressure-induced change in ζ from 0.404 to 0.469. That's why our material can withstand high pressure and has a stable phase structure, as shown in Fig. 4(f). Tables 2 and 3 show, the values for the most important elastic and mechanical properties are comparable to those in the literature. Correlations may cause small differences. Table 1 illustrates decreasing lattice parameters, although the cubic structure is stable because of its elastic features. The Poisson ratio verifies volume fluctuation due to loss in lattice parameters.
+3.2.1
+                        Elastic anisotropy
+                        In order to analyze the mechanical characteristics of crystals, it is necessary to describe elastic anisotropy. The elastic characteristics exhibit significant directional dependency even in extremely symmetrical cubic crystals. On the base of elastic moduli and other parameters, different approaches are documented in the literature to understand the elastic anisotropy of material. A variety of perspectives have been employed in our investigation to support the claims made about the elastic anisotropy behaviour described here. Cubic crystal anisotropy was first quantified by Zener's work on anisotropy. If the A
+                           
+                              Z
+                            is unity, then the crystal is isotropic, and any discrepancy from unity can be referred as a measure of the anisotropic behaviour of the crystal under exploration. However, there are some of the limitations of this equation: it only considers the cubic crystals and it is a non-unique formulation because it can be expressed as its inverse instead. Following formula can be used to compute the A
+                           Z [62,63]:
+                              
+                                 (11)
+                                 
+                                    A
+                                    Z = 2C
+                                    
+                                       44
+                                     / (C
+                                    
+                                       11
+                                     – C
+                                    
+                                       12
+                                    )
+                              
+                           
+                        
+                        
+                           Table 4
+                            provides a summary of all estimated values for different anisotropy factors and a compression of the data found in the literature.
+                        Here we can see that our calculated value of A
+                           
+                              Z
+                            is closely matched with reported data at 0 GPa which shows the sound worth of our work. However, a change in A
+                           
+                              Z
+                            is indicated by raising the pressure from 20 to 113 GPa, as shown in Fig. 5
+                           (a). The deviation of A
+                           
+                              Z
+                            from 1 shows the anisotropic behaviour of BTO.
+                        In order to attain single valuedness (SV) for cubic crystals, the Chung-Buessem anisotropy was established, which allows for the comparison of cubic crystals on a comparative basis. For isotropic crystals, A
+                           
+                              CB
+                            = 0 and any positive divergence from this limiting value would suggest anisotropic behaviour. With this concept, it is possible to determine with certainty if a certain cubic crystal is more anisotropic than another [62,64].
+                              
+                                 (12)
+                                 
+                                    A
+                                    
+                                       CB
+                                     = (G
+                                    
+                                       V
+                                     – G
+                                    
+                                       R
+                                    ) / (G
+                                    
+                                       V
+                                    
+                                    + G
+                                    
+                                       R
+                                    )
+                              
+                           
+                        
+                        In order to attain single valuedness (SV) for cubic crystals, the Chung-Buessem anisotropy was established, which allows for the comparison of cubic crystals on a comparative basis. For isotropic crystals, A
+                           
+                              CB
+                            = 0 and any positive divergence from this limiting value would suggest anisotropic behaviour. With this concept, it is possible to determine with certainty if a certain cubic crystal is more anisotropic than another [62,64].
+                              
+                                 
+                                    A
+                                    
+                                       CB
+                                     = (G
+                                    
+                                       V
+                                     – G
+                                    
+                                       R
+                                    ) / (G
+                                    
+                                       V
+                                     
+                                    + G
+                                    
+                                       R
+                                    ) (12)
+                              
+                           
+                        
+                        Due to the development of the notion of elastic anisotropy, another strategy that is linked to the Ranganathan and Ostoja-Starzewski universal anisotropy index could apply to any crystal system. The universal anisotropy index is similar to the Chung-Buessem anisotropy in that it specifies the limiting value of isotropic crystals to be zero, and any positive departures from zero would indicate the presence of elastic anisotropies. When using this concept, one must be cautious since it only allows for relative comparisons between two crystals. For this purpose, we have followed below expression [65,66],
+                              
+                                 (13)
+                                 
+                                    A
+                                    
+                                       U
+                                     = (B
+                                    
+                                       V
+                                    /B
+                                    
+                                       R
+                                    ) + 5(G
+                                    
+                                       V
+                                    /G
+                                    
+                                       R
+                                    ) – 6
+                              
+                           
+                        
+                        Given the fact that it was developed to perform definite comparisons between any two crystals, the Kube's log-Euclidean anisotropy is the broadest definition of anisotropy available at the moment. The log-Euclidean anisotropy behaves in a manner that is quite similar to the behaviour of the preceding two anisotropies. A measure of elastic isotropy is denoted as A
+                           
+                              L
+                            = 0, however, any positive deviation is confirmation of anisotropy [67].
+                              
+                                 (14)
+                                 
+                                    A
+                                    
+                                       L
+                                     = [[ln (B
+                                    
+                                       V
+                                    
+                                    /B
+                                    
+                                       R
+                                    )]2 + 5 [ln (G
+                                    
+                                       V
+                                    
+                                    /G
+                                    
+                                       R
+                                    )]2]1/2
+                                 
+                              
+                           
+                        
+                        If we look at Table 4, we can see that all of the numeric values of A
+                           
+                              CB,
+                            
+                           A
+                           
+                              U
+                            and A
+                           
+                              L
+                            are not zero, which indicates that BTO is an anisotropic compound (Table 4). Aside from that, Fig. 5(b–d) shows a rising trend in anisotropy factors. Moreover, slight variations in anisotropy factors occur as a result of material plasticity, as well as modifications in structural properties. This is because a material exhibits diverse properties in different directions [68].
+
+Elastic anisotropy:
+In order to analyze the mechanical characteristics of crystals, it is necessary to describe elastic anisotropy. The elastic characteristics exhibit significant directional dependency even in extremely symmetrical cubic crystals. On the base of elastic moduli and other parameters, different approaches are documented in the literature to understand the elastic anisotropy of material. A variety of perspectives have been employed in our investigation to support the claims made about the elastic anisotropy behaviour described here. Cubic crystal anisotropy was first quantified by Zener's work on anisotropy. If the A
+                           
+                              Z
+                            is unity, then the crystal is isotropic, and any discrepancy from unity can be referred as a measure of the anisotropic behaviour of the crystal under exploration. However, there are some of the limitations of this equation: it only considers the cubic crystals and it is a non-unique formulation because it can be expressed as its inverse instead. Following formula can be used to compute the A
+                           Z [62,63]:
+                              
+                                 (11)
+                                 
+                                    A
+                                    Z = 2C
+                                    
+                                       44
+                                     / (C
+                                    
+                                       11
+                                     – C
+                                    
+                                       12
+                                    )
+Table 4
+                            provides a summary of all estimated values for different anisotropy factors and a compression of the data found in the literature.
+Here we can see that our calculated value of A
+                           
+                              Z
+                            is closely matched with reported data at 0 GPa which shows the sound worth of our work. However, a change in A
+                           
+                              Z
+                            is indicated by raising the pressure from 20 to 113 GPa, as shown in Fig. 5
+                           (a). The deviation of A
+                           
+                              Z
+                            from 1 shows the anisotropic behaviour of BTO.
+In order to attain single valuedness (SV) for cubic crystals, the Chung-Buessem anisotropy was established, which allows for the comparison of cubic crystals on a comparative basis. For isotropic crystals, A
+                           
+                              CB
+                            = 0 and any positive divergence from this limiting value would suggest anisotropic behaviour. With this concept, it is possible to determine with certainty if a certain cubic crystal is more anisotropic than another [62,64].
+                              
+                                 (12)
+                                 
+                                    A
+                                    
+                                       CB
+                                     = (G
+                                    
+                                       V
+                                     – G
+                                    
+                                       R
+                                    ) / (G
+                                    
+                                       V
+                                    
+                                    + G
+                                    
+                                       R
+                                    )
+In order to attain single valuedness (SV) for cubic crystals, the Chung-Buessem anisotropy was established, which allows for the comparison of cubic crystals on a comparative basis. For isotropic crystals, A
+                           
+                              CB
+                            = 0 and any positive divergence from this limiting value would suggest anisotropic behaviour. With this concept, it is possible to determine with certainty if a certain cubic crystal is more anisotropic than another [62,64].
+                              
+                                 
+                                    A
+                                    
+                                       CB
+                                     = (G
+                                    
+                                       V
+                                     – G
+                                    
+                                       R
+                                    ) / (G
+                                    
+                                       V
+                                     
+                                    + G
+                                    
+                                       R
+                                    ) (12)
+Due to the development of the notion of elastic anisotropy, another strategy that is linked to the Ranganathan and Ostoja-Starzewski universal anisotropy index could apply to any crystal system. The universal anisotropy index is similar to the Chung-Buessem anisotropy in that it specifies the limiting value of isotropic crystals to be zero, and any positive departures from zero would indicate the presence of elastic anisotropies. When using this concept, one must be cautious since it only allows for relative comparisons between two crystals. For this purpose, we have followed below expression [65,66],
+                              
+                                 (13)
+                                 
+                                    A
+                                    
+                                       U
+                                     = (B
+                                    
+                                       V
+                                    /B
+                                    
+                                       R
+                                    ) + 5(G
+                                    
+                                       V
+                                    /G
+                                    
+                                       R
+                                    ) – 6
+Given the fact that it was developed to perform definite comparisons between any two crystals, the Kube's log-Euclidean anisotropy is the broadest definition of anisotropy available at the moment. The log-Euclidean anisotropy behaves in a manner that is quite similar to the behaviour of the preceding two anisotropies. A measure of elastic isotropy is denoted as A
+                           
+                              L
+                            = 0, however, any positive deviation is confirmation of anisotropy [67].
+                              
+                                 (14)
+                                 
+                                    A
+                                    
+                                       L
+                                     = [[ln (B
+                                    
+                                       V
+                                    
+                                    /B
+                                    
+                                       R
+                                    )]2 + 5 [ln (G
+                                    
+                                       V
+                                    
+                                    /G
+                                    
+                                       R
+                                    )]2]1/2
+If we look at Table 4, we can see that all of the numeric values of A
+                           
+                              CB,
+                            
+                           A
+                           
+                              U
+                            and A
+                           
+                              L
+                            are not zero, which indicates that BTO is an anisotropic compound (Table 4). Aside from that, Fig. 5(b–d) shows a rising trend in anisotropy factors. Moreover, slight variations in anisotropy factors occur as a result of material plasticity, as well as modifications in structural properties. This is because a material exhibits diverse properties in different directions [68].
+
+Electronic band structure:
+To understand the electronic behaviour of compound, band structure (BS), total density of states (TDOS), partial density of states (PDOS) and elemental partial density of states (EPDOS) are calculated and discussed in this section. Two sorts of electronic bands exist due to the fact that they provide details on the accessibility of electrons. One is referred to as the conduction band (CB), which appears beyond the Fermi level (E
+                        
+                           F
+                        ), while the other is referred to as the valence band (VB), which occurs at the bottom part of the E
+                        
+                           F
+                        .
+Band gap can be achieved by calculating the difference between the minimum value of CB and maximum value of VB. Electronic band can be explained as a direct or indirect band. The term direct band refers to a band in which the CB minima (CBM) and the VB maxima (VBM) are located at the same position. However, the occurrence of CBM and VBM at separate places leads to the establishment of an indirect band. To express the BS, Fig. 6
+                         is arranged with TDOS at 0 GPa, 20 GPa and 40 GPa. Fig. 6 shows that k-symmetry points are taken along the x-axis while the y-axis represents the energy. By raising the pressure from 0 GPa to 40 GPa, we can observe that the band gap drops from 3.174eV to 1.997eV, which is consistent with the transition from a wide band gap semiconductor to a narrow band gap semiconductor. As CBM and VBM are located at the same point G in the Brillion zone, this indicates that the direct band has been identified with certainty (Fig. 6).
+Fig. 7
+                         exhibits a substantial decrease in band gap from 1.832eV to 0eV at high pressures ranging from 60 GPa to 113 GPa. Moreover, band gap remains direct owing to CBM and VBM at similar symmetry point G in the Brillion zone and the dark lines make it clear. As a result of the external pressure, the lattice parameters (see Table 1) are similarly modified. This alteration in lattice parameters results in a shift in the band gap at symmetrical sites. External pressure changes the overlapping component, which alters the electrical band structure by causing a shift in the band gap's thickness. Moreover, when a lot of pressure is put on a material, electronic interaction increases and the probability of electronic movement from VB to CB is increased significantly and the band gap gets reduced. Moreover, due to the direct nature of the band gap, it is a perfect candidate for photovoltaic and optoelectronic applications. To put it another way, when BTO perovskite is subjected to pressure, it changes the band gap and so improves its absorptive, conductive, and other optical properties, as described in section 3.4. In addition, we find that increasing pressure improves the applicability of this perovskite up to a pressure of 113 GPa [43,69].
+Figs. 6 and 7 demonstrate the significant consequences of external pressure on BTO, where we can see that VB approaches E
+                        
+                           F
+                         and the CB edge moves toward the low energies. The migration of VB towards the E
+                        
+                           F
+                         validates the p-type semiconductor behaviour under peculiar pressure. Moreover, we can see the metallic response of material at 113 GPa due to the mixing of VB and CB. Furthermore, the reduction in band gap makes it a favorable component for its optimal use in electrical appliances and the field. Fig. 8
+                         shows the accumulative effects of pressure on the band gap and the movement of the CB edge.
+For a better understanding of band structure, it is necessary to consider the density of states in an energy spectrum in order to get insight into the different energy levels inhabited by electrons in different materials. In the absence of external pressure, the PDOS of pure BTO is displayed in Fig. 9
+                        .
+In the graph (Fig. 9), the maximum contribution of O-2p is seen in comparison to the 7s-, 6p-, 5d-, 4f-states of Th and the 4d-state of Ba in VB in the energy range of 0eV to -5eV. However, in the energy range of 0–5eV, the CB reports the highest contribution of Ba-4d. While in the higher CB, between 5eV and 10eV, a significant influence of Th-4f can be found. PDOS are depicted in Fig. 10
+                         to probe the electronic band structure when BTO is exposed to external pressure (0 GPa–113GPa). The p-state is the most prevalent configuration in the VB in energy range of 0eV to -5eV. While in CB from 0eV to 5eV, d-states provide a greater percentage of the overall contribution than s- and f-states. However, a significant portion of f-states is found in the upper CB from 5eV to 10eV. The density of states seems to move toward the E
+                        
+                           F
+                         when the pressure is increased, and this is the primary explanation for the decrease in band gap as pressure is increased.
+The EPDOS of BTO at different pressures are seen in Fig. 11
+                        . Fig. 11(a–i) demonstrates that VB is completely filled with O-2p states in the region of -5eV–0eV when compared to Th-5d and Th-4f states in the same range. As a matter of fact, Ba-4d has greater dominance than any other state within the 0–5eV in CB. On the other hand, Th-4f significantly contributes to CB in the energy range of 5eV–10eV. When BTO is exposed to external pressure, it is obvious from the graphs that EPDOS are travelling toward lower energies, and as a result, a widening of the band gap is perceived. Because of the combination of CB and VB, the material behaves as a conductor under pressures ranging from 80 GPa to 113 GPa, as illustrated in Fig. 11(e–i).
+
+Optical properties:
+The optical properties of a material are important in understanding its electrical structure since they can be explained by a variety of means. To explain the repercussion of pressure on BTO, we have estimated the various optical properties like complex dielectric function, which consists of real ε
+                        1(ω) and imaginary parts ε
+                        2(ω), absorption I(ω), refractive index n(ω), loss function L(ω), reflectivity R(ω), extinction coefficient (k) and complex optical conductivity. It is possible to justify the appropriateness and viability of materials in nano/opto-electronic industries with the help of these optical parameters [70]. By using the Maxwell's equation, one can determine the complex dielectric function (CDF). During the interaction of electromagnetic waves (EM) with material, CDF explains the response of compound [29,30].
+                           
+                              (15)
+                              
+                                 ε(ω) = ε
+                                 
+                                    1
+                                 (ω) + iε
+                                 
+                                    2
+                                 (ω)
+Here, ϵ
+                        
+                           1
+                        (ω) is a real dielectric function (RDF), which is used to describe the dispersion and polarization of light. However, the imaginary dielectric function (IDF), which is ϵ
+                        
+                           2
+                        (ω), helps us to reveal the reduction and dissipation of light by material. All calculated values of various optical parameters are arranged in Table 5
+                        .
+Fig. 12
+                        (a and b) illustrates the variation of ϵ
+                        
+                           1
+                        (ω) and ϵ
+                        
+                           2
+                        (ω) in energy frame of 0–50eV at pressure of 0 GPa–113 GPa. At 0eV, the static values of ε
+                        1(0) show the increasing trend as reported in Table 5. However, the main peaks of ε
+                        1(ω) are 8.197, 8.330, 8.347, 8.315, 8.280, 8.254, 8.239, 8.224 and 8.246 respectively. All of these computations represent a fluctuation in peak values. Moreover, Fig. 12(a) represents that main peak of RDF appear after the static values. Fig. 12(b) represents the IDF, where static value of ε
+                        2(0) seems to be zero in the absence or presence of external pressure. However, all results of ε
+                        2(ω) demonstrates that peak values (Table 5) fall with modest changes and subsequently rise, while moving towards the higher energies.
+According to Table 5, the main absorption peaks of BTO shift towards higher energies as external pressure is applied, with the exception of 40 and 60 GPa, where there is a small decline (Fig. 13(a)). However, as illustrated in Fig. 13
+                        (b), the absorption edge of BTO is shifting to lower energies (4.190–2.973 eV). This shifting of the absorption edge is an identification of red shift.
+The wavelengths of the absorption edge and main peaks are plotted in Fig. 13(c and d). Fig. 13(c) shows that there was an absorption edge in the UV region when the outside pressure was between 0 and 100 GPa. However, when the pressure was between 110 and 113 GPa, the material could be used in the visible spectrum. Fig. 13(d) shows that the maximum absorption peaks of BTO are in the UV region, and the highest absorption is at 18.530eV with a wavelength of 67.06 nm. Our results demonstrated that BTO is a suitable compound for use as a UV filter for a wide range of energies in the UV spectrum [71,72]. In addition to this, Fig. 14
+                         is plotted to explain the cumulative behaviour of different optical properties. As stated by Table 5, there is an enormous increase in refractive index of BTO. While peak values of refractive index are 2.913, 2.951, 2.958, 2.959, 2.967, 2.969, 2.973, 2.965 and 2.959 respectively, as shown by Fig. 14(a).
+We can see from Fig. 14(b) that the highest extinction coefficient peaks (Table 5) are transferred to higher energies. The notified peaks of the loss function are disclosed in Table 5 where we can see that loss function peaks are moving toward the higher energies at 0–60 GPa and then a decline is observed (Fig. 14 (c)).
+The static values of reflectivity (see Table 5) are 0.121, 0.127, 0.133, 0.141, 0.150, 0.167, 0.182, 0.186 and 0.190, respectively. Fig. 14(d) expresses that static values and peak values are travelling toward higher energies. In Fig. 14(e and f), the graph of real and imaginary conductivity is plotted. The computed data show that Fig. 14(e) has increasing behaviour in peak values, whereas Fig. 14(f) has little discrepancies in peak values, with a drop at 20, 40, and 113 GPa. The optical properties of BTO are checked by applying an external pressure ranging from 0 GPa to 113 GPa to each of the previously described calibrations. Table 5 shows how well our current DFT study fits with earlier findings, allowing us to demonstrate the importance of what we are discovering. In addition, these changes in certain optical properties can only be explained by the influence of external pressure. This is because putting pressure on a material changes its lattice parameters and band gap in a big way, which changes the way it behaves optically [73].
+After taking into account the values of refractive index and absorption, we discover that they have an inverse relationship up to 60 GPa pressure, and the same is true for reflectivity and absorption. It follows that when refractive index is greatest at the same location, the lowest value of absorption is seen and vice versa, where reflectivity is highest, the lowest value of absorption is observed. The semiconductor behaviour of the material is represented by these inverse relationships, as illustrated in Fig. 15
+                        .
+In a similar vein, the metallicity of the material corresponds to high reflectivity. There is a significant rise in reflectivity between 80 GPa and 113 GPa, with the maximum reflectivity being obtained at 113 GPa, indicating that the compound is metallic in composition (Fig. 15). Fig. 16
+                         describes the relation between the trends of different optical characteristics of BTO, computed against pressures ranging from 0 GPa to 113 GPa.
+
+Conclusion:
+In this research, the structural, elastic, mechanical, electrical, and optical properties of BaThO3 under the effect of an external pressure ranging from 0 to 113 GPa are investigated using DFT simulations based on CASTEP code with GGA-PBE exchange correlation. To ensure consistency with previous studies, the lattice parameters were measured at a pressure of 0 GPa. A good agreement is found between the experimental and theoretical results for the lattice parameters at 0 GPa. The value of the lattice parameters reduces from 4.601 Å to 3.976 Å when the pressure is increased from 0 to 113 GPa. Regardless of level of pressure, the material is shown to remain stable and no phase transition is noticed. Mechanical parameters such as the bulk, shear, and young's moduli of a material have been implemented to determine the inflexibility, hardness, stiffness, and resistance to shear stress. The Pugh/Frantsevich ratio and Cauchy pressure both indicate that BTO is ductile. The Poisson's ratio and the Kleinman's parameter both suggest that the material under study has a metallic bond nature and has a stable phase under high pressures. Moreover, anisotropy factors are evidence of anisotropic behaviour of compound. Due to a reduction in band gap because of rising pressure from 0 to 113 GPa, it is possible to observe the conversion of a wide band gap semiconductor into a narrow band gap semiconductor and ultimately into a conductor (3.174eV–0eV) with the assistance of BS. A consistent direct band gap is seemed irrespective of the amount of pressure applied to it. Besides BS, the analysis of TDOS, PDOS and EPDOS help us in an examination of the electronic band structure. In the VB, the p-state is the most prevalent configuration. While, there are three distinct states in CB that are d- (the dominant one), s- and f-. It seems that when pressure raises, the density of states moves closer to the E
+                     
+                        F
+                     , resulting in a reduction of the band gap. This research article contains a wide scope of optical characteristics, including real ε
+                     1(ω) and imaginary dielectric ε
+                     2(ω) functions, absorption I(ω), refractive index n(ω), extinction coefficient k(ω), loss function L(ω), reflectivity R(ω) and real/imaginary conductivity. When pressure is applied, the static values of the RDF and the refractive index are increased. The optical characteristics of this material demonstrate that it may be deployed as a UV filter owing to the presence of its absorption spectra in the UV region. Furthermore, because of its high refractive index, high absorption, high reflectivity and conductivity, it is an excellent option for use in optoelectronic devices.
+
+Author’s agreement:
+All the authors are well agreed with the contents of this manuscript. Not all the paper or any part of this manuscript is under consideration to any journal.
+
+Author statement:
+As corresponding author, I, Dr. Zeba Israr, hereby confirm on behalf of all authors that:
+                        
+                           1.
+                           This manuscript contains new work and has not been published and is not being submitted to any other journal.
+                        
+                        
+                           2.
+                           All necessary permissions for publication were secured prior to submission of the manuscript.
+                        
+                        
+                           3.
+                           All authors listed have made a significant contribution to the research reported and have read and approved the submitted manuscript, and furthermore, all those who made substantive contributions to this work have been included in the author list.
+
+Declaration of competing interest:
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgement:
+Thank to Higher Education Commission (HEC) of Pakistan for financial support to S. S. A. Gillani under 6934/NRPU/HEC grant number.
+
+Body:
+Perovskites have been a very hotly debated topic for scientists and engineers in the modern scientific period due to their spellbinding properties like ferro and piezoelectricity, ionic and electronic conductivity, high temperature superconductivity (HTS), thermal stability and catalytic properties. However, these materials are viable candidates for optoelectronic and spintronic devices since they may be used as sensors, substrates or catalytic electrodes in fuel cells. ABO3 is a predefined chemical formula for perovskite oxides, where A and B are two distinct cations, respectively. In order to form corner-sharing BO6 octahedrons, the B-site cations are six-fold coordinated with oxygen atoms in many cases, while the A-site cations fill the pits formed by the octahedrons. Although some perovskite oxides have a perfect cubic lattice, many perovskite oxides are significantly deformed with deprived symmetry. The structural properties of cubic barium thorate (BaThO3) manifest that it belongs to the Pm3 m phase group. Ba occupies the (0, 0, 0) position, O holds the (0.5, 0.5, 0), (0.5, 0, 0.5) and (0, 0.5, 0.5) locations and Th possesses the (0.5, 0.5, 0.5) position. Moreover, this octahedrally coupled to six oxygen ions (ThO6) [1–10].
+
+Thorium (Th) is more abundant in nature than uranium and it is more widely distributed around the world. The Th fuel cycle has a low output of minor actinides and a high resistance to nuclear proliferation (NP), making it an excellent choice for nuclear power [11–13]. The Th fuel cycle has lately regained popularity because of its several favorable properties, including its high thermal conductivity, melting point, chemical stability and minimal thermal expansion. Owing to its compatibility with present light and heavy water reactors, oxide (O) fuel is one of numerous Th fuel types that have some prospects. Ba, Kr, Sr, Cs, I, and Xe are fission products during the fission reaction. The alkaline earth fission product reacts with the matrix oxide to form multi-component oxides (MCO). It was discovered that irradiated mixed oxide (MOX) fuel has a grey oxide phase that has a perovskite structure [14]. For Th-based fuel, the production of multi-component oxides should be addressed. One of the multi-component oxides to examine is BaThO3 (BTO) [15].
+
+Due to its high thermal stability with a melting point of 2300 °C and low work function of Th, BTO is an excellent material for thermionic cathodes in high intensity discharge lamps [16,17]. During neodymium (Nd) and yttrium (Y) doping over 900 °C, BTO ceramics are solid electrolytes that have the greatest proton conductivity of all solid electrolytes [18–20]. Because it is a fission product in nuclear reactors, particularly in uranium-thorium reactors, it is essential to understand the capabilities of BTO to anticipate the dependability of nuclear fuel components [16]. Because of its prominence in nuclear reactors, Moreira and Dias investigated the structural features of this material [21]. Mishra et al. [22] have also looked at the topic of thermodynamic stability. Additionally, other physical features of BTO such as heat capacity and Gibbs free energy are described in the literature [23–25]. The full potential linearized augmented plane wave method (FP-LAPW) within the DFT framework assesses the structural and optoelectronic properties. From these calculations, the cubic BTO is a direct band gap insulator with E
+                     
+                        g
+                      = 5.7eV [26]. Another DFT simulation using the FP-LPAW technique shows the direct nature of band gap and BTO has E
+                     
+                        g
+                      = 3.16eV [27]. By using the LDA-mBJ methodology based on the DFT, the cubic structure of BTO has a direct band gap with E
+                     
+                        g
+                      = 4.39eV [28]. However, the contradiction in the aforementioned theoretical results is clear.
+
+Since the perovskite family includes BTO as one of its most prominent members, theoretical evidence is limited. Several characteristics of materials, including their structural, elastic, mechanical, electrical and optical properties have been examined under the effect of external pressure (0 GPa–113 GPa) in the current paper. By using the Generalized-Gradient-Approximation-Perdew-Burk-Ernzerhof (GGA-PBE) as an exchange-correlation on the basis of the Cambridge Serial Total Energy Package (CASTEP) code, the compelling parameters include lattice constant (LC), band gap (Eg), density of states (DOS), complex dielectric function (ε1(ω) & ε2(ω)), absorption(I(ω)), complex refractive index (n(ω) & k(ω)), reflectivity (R(ω)), energy loss function (L(ω)) and real/imaginary conductivity of BTO are calculated. According to the findings of this study, both the lattice constants and the band gap of BTO are shown to reduce as the pressure increases from 0 GPa to 113 GPa. There is no phase transition and the structure continues to be cubic. The elasticity and mechanical characteristics demonstrate that the compound has a stable structure, a ductile nature, a pervasiveness of metallic bonding and an anisotropic behaviour. In addition, a transition from a wide band gap semiconductor to a conductor has been seen. The optical characteristics of BTO demonstrate that the absorption edge is migrating towards lower energies, resulting in a redshift and a rise in the refractive index being observed under the influence of external pressure. Due to the fact that its absorption spectrum is in the ultraviolet (UV) region, this material could also be used as a UV filter.
+
+The Material Studio set-up is used in this research to calculate the structural, elastic, mechanical, electrical and optical properties of BTO. By using the precepts of density functional (DFT) theory and the plane wave pseudo-potential algorithm, the Cambridge Serial Total Energy Package (CASTEP) code is considered before the calculations [29–31]. Due to the fact that it analyses the data quickly and accurately, this approach was used in this investigation. The 2 × 2 × 2 supercell is generated when the structure is subjected to pressures ranging from 0 GPa to 113 GPa for the purpose of analysis, as shown in Fig. 1
+                     .
+
+It is best to utilize the Khon-Sham equations for the calculations [32–34]. To investigate the relationship between electron transfers, Perdew–Burke–Ernzerhof (PBE) developed a generalized gradient approximation (GGA) approach [35,36]. Currently, GGA-PBE is helping as an exchange-correlation. Employing the Vanderbilt type ultra-soft pseudo-potentials (USP) with a cutoff energy of 571.4eV, the electron-ion interaction is thought to be quantified [37]. The electrical configuration of valence shells is defined as follows: Ba: 4 d1⁰, 5p⁶, 6s2, Th: 4f14, 5 d10, 6p6, 7s2, O: 1s2, 2s2, 2p4. The Monkhorst–Pack grid is used to conduct the Brillion zone template across 6 × 6 × 6 sets of k-points mesh. During the calculation of single-point energy, the Broyden-Fletcher-Goldfarb-Shanno (BFGS) is recruited to elevate the geometry with a self-consistent field of 1.0 × 106 Å, the maximum displacement of 0.00001 Å, residual force less than 0.001 V/Å and self-consistent convergence accuracy of 5 × 10−5eV/atom [38–40].
+
+When computing the structural, elastic, mechanical, electrical and optical characteristics of material with and without pressure, the first step is to optimize the geometry. Optimizing the geometry is paramount to achieving the lowest energy for phase stability. At 0 GPa, the lattice constant of BTO is a = b = c = 4.601 Å. The previously reported lattice constants of BTO are 4.527 Å [41] and 4.48 Å [21,42]. In our current study, a substantial decrease in lattice constants is found when pressure is applied between 20 GPa and 113 GPa. The variation in lattice constants under the influence of external pressure is illustrated in Fig. 2
+                        .
+
+Since the lattice constant decreases with increasing pressure, it is reasonable to assume that the atomic interactions are more potent. As a consequence, the volume of the unit cell falls as a direct result of the reduction in the values of the lattice constants. It is required to apply a high degree of accuracy in order to get these lattice constants [43]. In comparison to previously published values, our calculated results are within acceptable limits, indicating that our computations are of high quality and accuracy. When the lattice parameters are estimated without and with pressure, a slight variation in calculations is observed. All computed lattice constants are reported in Table 1
+                        .
+
+The elastic and mechanical constants of material are critical in determining the mechanical stability, mechanical characteristics of the material and its applications in the industry [44]. Stiffness, brittleness, stability, ductility, bonding nature, and anisotropy of material are all related to the elastic constants. Subsequently, it is significant to research these constants to comprehend the mechanical properties of BTO at various pressures. According to our research, there are no experimental results for all tested materials to compare with our outcomes. In the present theoretical study, due to the cubic structure of BTO, which is also confirmed by structural parameters in above section, allows for just three distinct elastic constants to be determined. The three constants under discussion are referred to as C11, C12 and C44 [45]. It is possible to indicate compression stress and strain in the direction of (100) by using the C
+                        
+                           11
+                        . Transverse stress and strain in the same direction are shown by C
+                        
+                           44
+                        , and longitudinal stress and strain in the opposite direction are revealed by C
+                        
+                           12
+                         [46]. All computations of elastic constants are reported in Table 2
+                        .
+
+Independent elastic constants should meet the stability criterion in order to interpret the mechanically stable structure of cubic crystal. For cubic structures, the stability conditions are as follows [48]:
+                           
+                              (1)
+                              (C
+                                 
+                                    11
+                                  – C
+                                 
+                                    12
+                                 ) > 0, C
+                                 
+                                    11
+                                  > 0, C
+                                 
+                                    44
+                                  > 0 and (C
+                                 
+                                    11
+                                  + 2C
+                                 
+                                    12
+                                 ) > 0
+
+From the computed values of elastic parameters, it is obvious that the cubic structure of BTO stays stable when subjected to pressures between 0 GPa and 113 GPa. In addition to this, it is indeed noticeable that the results that are shown in Table 2 for the literature nearly coincide with the values that we have determined for the elastic constants. It is also noted that C
+                        
+                           11
+                         and C
+                        
+                           12
+                         rise in a linear way which means that compressive and longitudinal strain increases. However, we can observe a reduction in transverse strain due to decline in C
+                        
+                           44
+                         with external pressure except at 20 GPa. According to results it is clear that BTO experiences the larger compressive/longitudinal strain as compare to transverse strain. Fig. 3
+                         depicts the variations in elastic constants that occur as a result of the action of external pressure.
+                           
+                              (2)
+                              
+                                 E = 9 GB / (3B + G)
+                              
+                           
+                        
+                        
+                           
+                              (3)
+                              
+                                 υ = (3B – 2G) / (6B + 2G)
+
+It is necessary to use the Reuss and Voigt approximation to obtain the bulk and shear moduli. The symbols B
+                        
+                           V
+                        , B
+                        
+                           R
+                        , G
+                        
+                           V
+                         and G
+                        
+                           R
+                         represent bulk and shear moduli, as defined by the Voigt and Reuss expressions. Therefore, we have mathematical formulations [50], such as the ones listed below:
+                           
+                              (4)
+                              
+                                 G
+                                 
+                                    V
+                                  = (C
+                                 
+                                    11
+                                  + 3C
+                                 
+                                    44
+                                  – C
+                                 
+                                    12
+                                 ) / 5
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 G
+                                 
+                                    R
+                                  = 5 (C
+                                 
+                                    11
+                                  – C
+                                 
+                                    12
+                                 )C
+                                 
+                                    44
+                                  / 3(C
+                                 
+                                    11
+                                  – C
+                                 
+                                    12
+                                 ) + 4C
+                                 
+                                    44
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              
+                                 G = (G
+                                 
+                                    V
+                                  + G
+                                 
+                                    R
+                                 ) / 2
+                           
+                        
+                        
+                           
+                              (7)
+                              
+                                 B
+                                 
+                                    V
+                                  = B
+                                 
+                                    R
+                                  = (C
+                                 
+                                    11
+                                  + 2C
+                                 
+                                    12
+                                 ) / 3
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 B = (B
+                                 
+                                    V
+                                  + B
+                                 
+                                    R
+                                 ) / 2
+
+For genuine polycrystalline constants (GPC), Hill says G
+                        
+                           V
+                         is the highest bond, while G
+                        
+                           R
+                         is the bottom one [51]. Equations (6) and (8) are used to determine the Hill average of the bulk (B) and shear (G) moduli. All calculated results of B, G, E, B/G, G/B, P
+                        
+                           C
+                        , υ and ξ are reported in Table 3
+                        .
+
+The inflexibility of a compound is predicted by its bulk modulus (B). The high value of bulk modulus (B) represents the stiffness and tightness of compound. However, the high value of bulk modulus (B) is inadequate to reveal the mechanical strength of the compound, but shear modulus (G) is much better in predicting the hardness of the material. Furthermore, the maximum value of the shear modulus (G) indicates a high level of resistance to permanent deformation [52]. Moreover, the value of Young's modulus (E) is an important parameter in asserting the rigidity of a substance [53]. Without and with external pressure, the mechanical characteristics of BTO are dispatched in Fig. 4
+                        . In recent research, we found that when pressure is applied to BTO, the bulk (B) increases, which leads to the high stiffness of the compound. Shear and young moduli all rise, indicating that the material is hard and resistant to permanent deformation but they decrease at 80, 110, 112, and 113 GPa, where shear (G) and young (E) moduli fall, indicating that BTO has less hardness and a small amount of resistance to permanent deformation at these pressures, as shown in Fig. 4 (a).
+
+Without and with external pressure, the mechanical characteristics of BTO are dispatched in Fig. 4. In recent research, we found that when pressure is applied to BTO, the bulk (B) increases, which leads to the high stiffness of the compound. Shear and young moduli all rise, indicating that the material is hard and resistant to permanent deformation but they decrease at 80, 110, 112, and 113 GPa, where shear (G) and young (E) moduli fall, indicating that BTO has less hardness and a small amount of resistance to permanent deformation at these pressures, as shown in Fig. 4(a).
+
+Pugh predicts an elastic modulus B/G to describe the plastic qualities (ductility and brittleness) of a material in order to describe its plastic behaviour [54]. If B/G > 1.75 the material will be ductile otherwise it will be brittle [55]. The B/G ratio of BTO is more than 1.75 and it goes up as the pressure goes up, as reported in Table 3. This means that the BTO is ductile and its ductility increases as the pressure increases, as revealed by Fig. 4(b). Frantsevich's ratio (G/B) is another significant criterion for determining the ductility of a material. If G/B < 0.571, the material is ductile and brittle if G/B > 0.571 [56]. Fig. 4(c) expresses that BTO is ductile in nature based on this measurement, which ranges from 0.495 to 0.135. As an alternative to the Pugh and Frantsevich ratio, it has also been postulated that the ductility behaviour is connected to the Cauchy pressures [57]. The Cauchy pressures (P
+                        
+                           C
+                        ) for cubic [58] structure can be calculated using the following formula:
+                           
+                              (9)
+                              
+                                 P
+                                 
+                                    C
+                                  = C
+                                 
+                                    12
+                                  – C
+                                 
+                                    44
+
+The Cauchy pressure (P
+                        
+                           C
+                        ) is normally positive for metallic bonding (ductile) and negative (brittle) for directional bonding with a greater negative pressure signifying a more directed nature. The positive values of P
+                        
+                           C
+                         confirm the ductile nature of BTO under external pressure, and it has a significant contribution of metallic bonding, as shown in Fig. 4(d). When taking into account all of these three parameters such as the Pugh/Frantsevich ratio and Cauchy pressure, it strikes as a big surprise to learn that BTO has ductile behaviour.
+
+The Poisson's ratio (υ) is a prominent characteristic for identifying the kind of bond present inside a material. In the presence of external load, this parameter forecasts the corresponding characteristics of the material. In addition, it tells us about the volume variance. When Poisson's ratio is reduced to its lowest value, a considerable increase in volume is seen [46]. For covalent materials υ < 0.1 but compound having a Poisson's ratio (υ) of 0.25 is deemed to be ionic in composition. But at υ ≥ 0.3, a strong metallic character is exhibited [59,60]. In the present study, the Poisson's ratio (υ) ranges from 0.287 to 0.435 and rises with applied pressure, demonstrating the strong metallic nature of our material and variation in volume is also observed, as seen in Fig. 4(e).
+
+Kleinman's parameter (ζ) is a critical parameter in determining the stability of a material when it is bent or stretched. The maximum and minimum values of Kleinman's parameter (ζ) signify the resistance to bond stretching that is strong or low, respectively. The following equation can help us to find the ζ [61]:
+                           
+                              (10)
+                              
+                                 ζ = C
+                                 
+                                    11
+                                  + 8C
+                                 
+                                    12
+                                  / 7C
+                                 
+                                    11
+                                  – 2C
+                                 
+                                    12
+
+Bond bending is dominant when ζ = 0. In contrast to this, a value of ζ = 1 indicates that bond stretching is dominant [47]. The current data reveal a pressure-induced change in ζ from 0.404 to 0.469. That's why our material can withstand high pressure and has a stable phase structure, as shown in Fig. 4(f). Tables 2 and 3 show, the values for the most important elastic and mechanical properties are comparable to those in the literature. Correlations may cause small differences. Table 1 illustrates decreasing lattice parameters, although the cubic structure is stable because of its elastic features. The Poisson ratio verifies volume fluctuation due to loss in lattice parameters.
+
+In order to analyze the mechanical characteristics of crystals, it is necessary to describe elastic anisotropy. The elastic characteristics exhibit significant directional dependency even in extremely symmetrical cubic crystals. On the base of elastic moduli and other parameters, different approaches are documented in the literature to understand the elastic anisotropy of material. A variety of perspectives have been employed in our investigation to support the claims made about the elastic anisotropy behaviour described here. Cubic crystal anisotropy was first quantified by Zener's work on anisotropy. If the A
+                           
+                              Z
+                            is unity, then the crystal is isotropic, and any discrepancy from unity can be referred as a measure of the anisotropic behaviour of the crystal under exploration. However, there are some of the limitations of this equation: it only considers the cubic crystals and it is a non-unique formulation because it can be expressed as its inverse instead. Following formula can be used to compute the A
+                           Z [62,63]:
+                              
+                                 (11)
+                                 
+                                    A
+                                    Z = 2C
+                                    
+                                       44
+                                     / (C
+                                    
+                                       11
+                                     – C
+                                    
+                                       12
+                                    )
+
+Table 4
+                            provides a summary of all estimated values for different anisotropy factors and a compression of the data found in the literature.
+
+Here we can see that our calculated value of A
+                           
+                              Z
+                            is closely matched with reported data at 0 GPa which shows the sound worth of our work. However, a change in A
+                           
+                              Z
+                            is indicated by raising the pressure from 20 to 113 GPa, as shown in Fig. 5
+                           (a). The deviation of A
+                           
+                              Z
+                            from 1 shows the anisotropic behaviour of BTO.
+
+In order to attain single valuedness (SV) for cubic crystals, the Chung-Buessem anisotropy was established, which allows for the comparison of cubic crystals on a comparative basis. For isotropic crystals, A
+                           
+                              CB
+                            = 0 and any positive divergence from this limiting value would suggest anisotropic behaviour. With this concept, it is possible to determine with certainty if a certain cubic crystal is more anisotropic than another [62,64].
+                              
+                                 (12)
+                                 
+                                    A
+                                    
+                                       CB
+                                     = (G
+                                    
+                                       V
+                                     – G
+                                    
+                                       R
+                                    ) / (G
+                                    
+                                       V
+                                    
+                                    + G
+                                    
+                                       R
+                                    )
+
+In order to attain single valuedness (SV) for cubic crystals, the Chung-Buessem anisotropy was established, which allows for the comparison of cubic crystals on a comparative basis. For isotropic crystals, A
+                           
+                              CB
+                            = 0 and any positive divergence from this limiting value would suggest anisotropic behaviour. With this concept, it is possible to determine with certainty if a certain cubic crystal is more anisotropic than another [62,64].
+                              
+                                 
+                                    A
+                                    
+                                       CB
+                                     = (G
+                                    
+                                       V
+                                     – G
+                                    
+                                       R
+                                    ) / (G
+                                    
+                                       V
+                                     
+                                    + G
+                                    
+                                       R
+                                    ) (12)
+
+Due to the development of the notion of elastic anisotropy, another strategy that is linked to the Ranganathan and Ostoja-Starzewski universal anisotropy index could apply to any crystal system. The universal anisotropy index is similar to the Chung-Buessem anisotropy in that it specifies the limiting value of isotropic crystals to be zero, and any positive departures from zero would indicate the presence of elastic anisotropies. When using this concept, one must be cautious since it only allows for relative comparisons between two crystals. For this purpose, we have followed below expression [65,66],
+                              
+                                 (13)
+                                 
+                                    A
+                                    
+                                       U
+                                     = (B
+                                    
+                                       V
+                                    /B
+                                    
+                                       R
+                                    ) + 5(G
+                                    
+                                       V
+                                    /G
+                                    
+                                       R
+                                    ) – 6
+
+Given the fact that it was developed to perform definite comparisons between any two crystals, the Kube's log-Euclidean anisotropy is the broadest definition of anisotropy available at the moment. The log-Euclidean anisotropy behaves in a manner that is quite similar to the behaviour of the preceding two anisotropies. A measure of elastic isotropy is denoted as A
+                           
+                              L
+                            = 0, however, any positive deviation is confirmation of anisotropy [67].
+                              
+                                 (14)
+                                 
+                                    A
+                                    
+                                       L
+                                     = [[ln (B
+                                    
+                                       V
+                                    
+                                    /B
+                                    
+                                       R
+                                    )]2 + 5 [ln (G
+                                    
+                                       V
+                                    
+                                    /G
+                                    
+                                       R
+                                    )]2]1/2
+
+If we look at Table 4, we can see that all of the numeric values of A
+                           
+                              CB,
+                            
+                           A
+                           
+                              U
+                            and A
+                           
+                              L
+                            are not zero, which indicates that BTO is an anisotropic compound (Table 4). Aside from that, Fig. 5(b–d) shows a rising trend in anisotropy factors. Moreover, slight variations in anisotropy factors occur as a result of material plasticity, as well as modifications in structural properties. This is because a material exhibits diverse properties in different directions [68].
+
+To understand the electronic behaviour of compound, band structure (BS), total density of states (TDOS), partial density of states (PDOS) and elemental partial density of states (EPDOS) are calculated and discussed in this section. Two sorts of electronic bands exist due to the fact that they provide details on the accessibility of electrons. One is referred to as the conduction band (CB), which appears beyond the Fermi level (E
+                        
+                           F
+                        ), while the other is referred to as the valence band (VB), which occurs at the bottom part of the E
+                        
+                           F
+                        .
+
+Band gap can be achieved by calculating the difference between the minimum value of CB and maximum value of VB. Electronic band can be explained as a direct or indirect band. The term direct band refers to a band in which the CB minima (CBM) and the VB maxima (VBM) are located at the same position. However, the occurrence of CBM and VBM at separate places leads to the establishment of an indirect band. To express the BS, Fig. 6
+                         is arranged with TDOS at 0 GPa, 20 GPa and 40 GPa. Fig. 6 shows that k-symmetry points are taken along the x-axis while the y-axis represents the energy. By raising the pressure from 0 GPa to 40 GPa, we can observe that the band gap drops from 3.174eV to 1.997eV, which is consistent with the transition from a wide band gap semiconductor to a narrow band gap semiconductor. As CBM and VBM are located at the same point G in the Brillion zone, this indicates that the direct band has been identified with certainty (Fig. 6).
+
+Fig. 7
+                         exhibits a substantial decrease in band gap from 1.832eV to 0eV at high pressures ranging from 60 GPa to 113 GPa. Moreover, band gap remains direct owing to CBM and VBM at similar symmetry point G in the Brillion zone and the dark lines make it clear. As a result of the external pressure, the lattice parameters (see Table 1) are similarly modified. This alteration in lattice parameters results in a shift in the band gap at symmetrical sites. External pressure changes the overlapping component, which alters the electrical band structure by causing a shift in the band gap's thickness. Moreover, when a lot of pressure is put on a material, electronic interaction increases and the probability of electronic movement from VB to CB is increased significantly and the band gap gets reduced. Moreover, due to the direct nature of the band gap, it is a perfect candidate for photovoltaic and optoelectronic applications. To put it another way, when BTO perovskite is subjected to pressure, it changes the band gap and so improves its absorptive, conductive, and other optical properties, as described in section 3.4. In addition, we find that increasing pressure improves the applicability of this perovskite up to a pressure of 113 GPa [43,69].
+
+Figs. 6 and 7 demonstrate the significant consequences of external pressure on BTO, where we can see that VB approaches E
+                        
+                           F
+                         and the CB edge moves toward the low energies. The migration of VB towards the E
+                        
+                           F
+                         validates the p-type semiconductor behaviour under peculiar pressure. Moreover, we can see the metallic response of material at 113 GPa due to the mixing of VB and CB. Furthermore, the reduction in band gap makes it a favorable component for its optimal use in electrical appliances and the field. Fig. 8
+                         shows the accumulative effects of pressure on the band gap and the movement of the CB edge.
+
+For a better understanding of band structure, it is necessary to consider the density of states in an energy spectrum in order to get insight into the different energy levels inhabited by electrons in different materials. In the absence of external pressure, the PDOS of pure BTO is displayed in Fig. 9
+                        .
+
+In the graph (Fig. 9), the maximum contribution of O-2p is seen in comparison to the 7s-, 6p-, 5d-, 4f-states of Th and the 4d-state of Ba in VB in the energy range of 0eV to -5eV. However, in the energy range of 0–5eV, the CB reports the highest contribution of Ba-4d. While in the higher CB, between 5eV and 10eV, a significant influence of Th-4f can be found. PDOS are depicted in Fig. 10
+                         to probe the electronic band structure when BTO is exposed to external pressure (0 GPa–113GPa). The p-state is the most prevalent configuration in the VB in energy range of 0eV to -5eV. While in CB from 0eV to 5eV, d-states provide a greater percentage of the overall contribution than s- and f-states. However, a significant portion of f-states is found in the upper CB from 5eV to 10eV. The density of states seems to move toward the E
+                        
+                           F
+                         when the pressure is increased, and this is the primary explanation for the decrease in band gap as pressure is increased.
+
+The EPDOS of BTO at different pressures are seen in Fig. 11
+                        . Fig. 11(a–i) demonstrates that VB is completely filled with O-2p states in the region of -5eV–0eV when compared to Th-5d and Th-4f states in the same range. As a matter of fact, Ba-4d has greater dominance than any other state within the 0–5eV in CB. On the other hand, Th-4f significantly contributes to CB in the energy range of 5eV–10eV. When BTO is exposed to external pressure, it is obvious from the graphs that EPDOS are travelling toward lower energies, and as a result, a widening of the band gap is perceived. Because of the combination of CB and VB, the material behaves as a conductor under pressures ranging from 80 GPa to 113 GPa, as illustrated in Fig. 11(e–i).
+
+The optical properties of a material are important in understanding its electrical structure since they can be explained by a variety of means. To explain the repercussion of pressure on BTO, we have estimated the various optical properties like complex dielectric function, which consists of real ε
+                        1(ω) and imaginary parts ε
+                        2(ω), absorption I(ω), refractive index n(ω), loss function L(ω), reflectivity R(ω), extinction coefficient (k) and complex optical conductivity. It is possible to justify the appropriateness and viability of materials in nano/opto-electronic industries with the help of these optical parameters [70]. By using the Maxwell's equation, one can determine the complex dielectric function (CDF). During the interaction of electromagnetic waves (EM) with material, CDF explains the response of compound [29,30].
+                           
+                              (15)
+                              
+                                 ε(ω) = ε
+                                 
+                                    1
+                                 (ω) + iε
+                                 
+                                    2
+                                 (ω)
+
+Here, ϵ
+                        
+                           1
+                        (ω) is a real dielectric function (RDF), which is used to describe the dispersion and polarization of light. However, the imaginary dielectric function (IDF), which is ϵ
+                        
+                           2
+                        (ω), helps us to reveal the reduction and dissipation of light by material. All calculated values of various optical parameters are arranged in Table 5
+                        .
+
+Fig. 12
+                        (a and b) illustrates the variation of ϵ
+                        
+                           1
+                        (ω) and ϵ
+                        
+                           2
+                        (ω) in energy frame of 0–50eV at pressure of 0 GPa–113 GPa. At 0eV, the static values of ε
+                        1(0) show the increasing trend as reported in Table 5. However, the main peaks of ε
+                        1(ω) are 8.197, 8.330, 8.347, 8.315, 8.280, 8.254, 8.239, 8.224 and 8.246 respectively. All of these computations represent a fluctuation in peak values. Moreover, Fig. 12(a) represents that main peak of RDF appear after the static values. Fig. 12(b) represents the IDF, where static value of ε
+                        2(0) seems to be zero in the absence or presence of external pressure. However, all results of ε
+                        2(ω) demonstrates that peak values (Table 5) fall with modest changes and subsequently rise, while moving towards the higher energies.
+
+According to Table 5, the main absorption peaks of BTO shift towards higher energies as external pressure is applied, with the exception of 40 and 60 GPa, where there is a small decline (Fig. 13(a)). However, as illustrated in Fig. 13
+                        (b), the absorption edge of BTO is shifting to lower energies (4.190–2.973 eV). This shifting of the absorption edge is an identification of red shift.
+
+The wavelengths of the absorption edge and main peaks are plotted in Fig. 13(c and d). Fig. 13(c) shows that there was an absorption edge in the UV region when the outside pressure was between 0 and 100 GPa. However, when the pressure was between 110 and 113 GPa, the material could be used in the visible spectrum. Fig. 13(d) shows that the maximum absorption peaks of BTO are in the UV region, and the highest absorption is at 18.530eV with a wavelength of 67.06 nm. Our results demonstrated that BTO is a suitable compound for use as a UV filter for a wide range of energies in the UV spectrum [71,72]. In addition to this, Fig. 14
+                         is plotted to explain the cumulative behaviour of different optical properties. As stated by Table 5, there is an enormous increase in refractive index of BTO. While peak values of refractive index are 2.913, 2.951, 2.958, 2.959, 2.967, 2.969, 2.973, 2.965 and 2.959 respectively, as shown by Fig. 14(a).
+
+We can see from Fig. 14(b) that the highest extinction coefficient peaks (Table 5) are transferred to higher energies. The notified peaks of the loss function are disclosed in Table 5 where we can see that loss function peaks are moving toward the higher energies at 0–60 GPa and then a decline is observed (Fig. 14 (c)).
+
+The static values of reflectivity (see Table 5) are 0.121, 0.127, 0.133, 0.141, 0.150, 0.167, 0.182, 0.186 and 0.190, respectively. Fig. 14(d) expresses that static values and peak values are travelling toward higher energies. In Fig. 14(e and f), the graph of real and imaginary conductivity is plotted. The computed data show that Fig. 14(e) has increasing behaviour in peak values, whereas Fig. 14(f) has little discrepancies in peak values, with a drop at 20, 40, and 113 GPa. The optical properties of BTO are checked by applying an external pressure ranging from 0 GPa to 113 GPa to each of the previously described calibrations. Table 5 shows how well our current DFT study fits with earlier findings, allowing us to demonstrate the importance of what we are discovering. In addition, these changes in certain optical properties can only be explained by the influence of external pressure. This is because putting pressure on a material changes its lattice parameters and band gap in a big way, which changes the way it behaves optically [73].
+
+After taking into account the values of refractive index and absorption, we discover that they have an inverse relationship up to 60 GPa pressure, and the same is true for reflectivity and absorption. It follows that when refractive index is greatest at the same location, the lowest value of absorption is seen and vice versa, where reflectivity is highest, the lowest value of absorption is observed. The semiconductor behaviour of the material is represented by these inverse relationships, as illustrated in Fig. 15
+                        .
+
+In a similar vein, the metallicity of the material corresponds to high reflectivity. There is a significant rise in reflectivity between 80 GPa and 113 GPa, with the maximum reflectivity being obtained at 113 GPa, indicating that the compound is metallic in composition (Fig. 15). Fig. 16
+                         describes the relation between the trends of different optical characteristics of BTO, computed against pressures ranging from 0 GPa to 113 GPa.
+
+In this research, the structural, elastic, mechanical, electrical, and optical properties of BaThO3 under the effect of an external pressure ranging from 0 to 113 GPa are investigated using DFT simulations based on CASTEP code with GGA-PBE exchange correlation. To ensure consistency with previous studies, the lattice parameters were measured at a pressure of 0 GPa. A good agreement is found between the experimental and theoretical results for the lattice parameters at 0 GPa. The value of the lattice parameters reduces from 4.601 Å to 3.976 Å when the pressure is increased from 0 to 113 GPa. Regardless of level of pressure, the material is shown to remain stable and no phase transition is noticed. Mechanical parameters such as the bulk, shear, and young's moduli of a material have been implemented to determine the inflexibility, hardness, stiffness, and resistance to shear stress. The Pugh/Frantsevich ratio and Cauchy pressure both indicate that BTO is ductile. The Poisson's ratio and the Kleinman's parameter both suggest that the material under study has a metallic bond nature and has a stable phase under high pressures. Moreover, anisotropy factors are evidence of anisotropic behaviour of compound. Due to a reduction in band gap because of rising pressure from 0 to 113 GPa, it is possible to observe the conversion of a wide band gap semiconductor into a narrow band gap semiconductor and ultimately into a conductor (3.174eV–0eV) with the assistance of BS. A consistent direct band gap is seemed irrespective of the amount of pressure applied to it. Besides BS, the analysis of TDOS, PDOS and EPDOS help us in an examination of the electronic band structure. In the VB, the p-state is the most prevalent configuration. While, there are three distinct states in CB that are d- (the dominant one), s- and f-. It seems that when pressure raises, the density of states moves closer to the E
+                     
+                        F
+                     , resulting in a reduction of the band gap. This research article contains a wide scope of optical characteristics, including real ε
+                     1(ω) and imaginary dielectric ε
+                     2(ω) functions, absorption I(ω), refractive index n(ω), extinction coefficient k(ω), loss function L(ω), reflectivity R(ω) and real/imaginary conductivity. When pressure is applied, the static values of the RDF and the refractive index are increased. The optical characteristics of this material demonstrate that it may be deployed as a UV filter owing to the presence of its absorption spectra in the UV region. Furthermore, because of its high refractive index, high absorption, high reflectivity and conductivity, it is an excellent option for use in optoelectronic devices.
+
+All the authors are well agreed with the contents of this manuscript. Not all the paper or any part of this manuscript is under consideration to any journal.
+
+As corresponding author, I, Dr. Zeba Israr, hereby confirm on behalf of all authors that:
+                        
+                           1.
+                           This manuscript contains new work and has not been published and is not being submitted to any other journal.
+                        
+                        
+                           2.
+                           All necessary permissions for publication were secured prior to submission of the manuscript.
+                        
+                        
+                           3.
+                           All authors listed have made a significant contribution to the research reported and have read and approved the submitted manuscript, and furthermore, all those who made substantive contributions to this work have been included in the author list.
+
+This manuscript contains new work and has not been published and is not being submitted to any other journal.
+
+All necessary permissions for publication were secured prior to submission of the manuscript.
+
+All authors listed have made a significant contribution to the research reported and have read and approved the submitted manuscript, and furthermore, all those who made substantive contributions to this work have been included in the author list.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Thank to Higher Education Commission (HEC) of Pakistan for financial support to S. S. A. Gillani under 6934/NRPU/HEC grant number.

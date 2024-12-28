@@ -1,0 +1,2792 @@
+Title:
+Proceedings of the 19th International Conference on Plasma-Surface Interactions in Controlled Fusion
+
+Abstract:
+Systematic scans using D2 gas puffing and impurity-seeding (Ne, N2) have been carried out on ELMy-H and Advanced-Tokamak-like discharges to study power deposition amelioration at the divertor target plates in preparation for the JET ITER-Like Wall (ILW). Hereby it has been discovered that the recycling ion fluxes I
+                     div to the outer target plate exhibit a clear connection to pedestal ne
+                      and Te, whereby the Dα photon flux Φ
+                     Dα from the outer divertor serves here as an approximate measure of I
+                     div. Φ
+                     Dα can be expressed as (ne
+                     /Te
+                     )
+                        β
+                      with β
+                     =2.5/3 depending on the scenario (EH/AT). This coupling between SOL and pedestal across the edge transport barrier (ETB) is associated with a close connection between ne
+                      and Te
+                      in the ETB over the entire range of operational parameters, with the slope of log
+                     Te
+                      vs. log
+                     ne
+                      being ∼0.9/1.24 for ET/AT scenarios, respectively.
+
+Introduction:
+With use of tungsten target plates for the JET ILW, now under construction, carbon radiation will be reduced and must be replaced by that of extrinsic impurities to exploit ILW high power capabilities [1]. Studies of ELMy-H (EH) and Advanced-Tokamak-like (AT) scenarios using N2- and Ne-seeding along with D2 fuelling have been carried out in matrix fashion [2], aiming to cover a large range in divertor power loading P
+                     div and temperature 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 div
+                              
+                           
+                        
+                     . The outer strike point (OSP) is placed on the horizontal target, as foreseen for primary ILW operation. The intended purpose of impurity seeding is to augment radiation P
+                     rad in order to mitigate P
+                     div and that of D2 to enhance recycling to further reduce P
+                     div and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 div
+                              
+                           
+                        
+                     . These aspects are covered in [2,3] as well as setup details of the experiments. This data set is used to illuminate average inter-ELM relationships between pedestal temperature 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and density 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and total Dα emission from the outer divertor Φ
+                     Dα, serving here as an indication of the recycling ion flux I
+                     div at the outer target plate [4]. An advantage of these studies is the wider range of 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      afforded by impurities as well as the extent of fuelling, pushing the OSP into power detachment at the highest values (for EH with moderate cost in confinement loss). Type-I ELM behavior also varies: For EH f
+                     ELM initially decreases with D2 (∼20→10Hz, Fig. 1
+                     ). Further, impurities can provoke compound ELMs (f
+                     ELM
+                     ⩾3Hz) as well as augment f
+                     ELM (to 50Hz) depending on the impurity species and D2 level (γ
+                     D2). f
+                     ELM(AT) largely spans the range ∼50–200Hz, increasing with γ
+                     D2.
+
+Experimental results:
+Although the viewing cone for Φ
+                     Dα subtends the entire divertor outside the x-point, Dα emission itself is concentrated around the OSP. Φ
+                     Dα is used as a measure of I
+                     div due to a lack of comprehensive reliable Langmuir probe measurements. Fig. 1 depicts Dα time traces for an EH γ
+                     D2- and Ne-scan, showing the change in ELM behavior as well as increase in Dα level as a function of both γ
+                     D2 and Ne. Core ne
+                      and Te
+                      are taken from the High Resolution Thomson Scattering (HRTS) diagnostic. Fig. 2
+                      illustrates the ne
+                      pedestal extends to the flux surface coordinate Ψ
+                     ∼0.96, typical for all discharges here. Due to the pedestal’s spatial extent, the interferometer outer vertical chord, tangent to the flux surface coordinate Ψ
+                     ∼0.9 and thus integrating over ne
+                      outside this region, is an excellent measure of 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , with good inter-ELM time resolution, low noise (∼ ±1018
+                     m−3) and none of the vagaries associated with potential ne
+                      calibration errors of Thomson scattering and is used to define 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     . Te
+                      from HRTS at Ψ
+                     =0.95 is taken as 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     . Inter-ELM Te
+                     -excursions in compound ELM phases can more than 200eV (only with Ne in EH at low γ
+                     D2) with an average deviation from the mean of < ±100eV, otherwise ∼ ±50eV.
+For EH, only discharges with H
+                     98y,2
+                     ⩾0.9 are examined since partial detachment at the OSP is already achievable in this range. In contrast, it is necessary to accept H
+                     98y,2
+                     >0.7 in order to cover a similar recycling range for the AT scenario. Fig. 3
+                      depicts 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      vs. 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , showing the operational range for these experiments. Note that 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     (AT) ∼0.5 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     (EH). Also, the 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     –
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      values roughly follow a constant electron pressure contour, with significant deviations to lower values often associated with impurity seeding. Fig. 4
+                      gives an overview of energy confinement time τ
+                     E, 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      as a function Φ
+                     Dα. Φ
+                     Dα itself is largely determined by γ
+                     D2, with moderate variations related to impurity level for EH, and a more pronounced influence of impurities on Φ
+                     Dα for AT (Fig. 5
+                     ). Higher Φ
+                     Dα dictates moderately lower τ
+                     E for EH and a more pronounced decrease for AT. In addition, τ
+                     E as well as 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      drop in proportion to the level of N2-seeding for EH discharges, associated with an N2-driven increase in f
+                     ELM. This causes the “scatter” seen in the EH plots. For AT, both 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      significantly decrease at the lowest Φ
+                     Dα level with Ne-seeding. Otherwise, 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      tails off very uniformly with higher Φ
+                     Dα for EH and AT. D2 fuelling (higher Φ
+                     Dα) initially augments 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and thereafter has little further effect on the density.
+
+Discussion:
+Fig. 4 illustrates that Φ
+                     Dα is closely related to 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      (higher Φ
+                     Dα
+                     →lower 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     ) with scatter only at the lowest Φ
+                     Dα. Overall, Φ
+                     Dα is better correlated with the quantity 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      (Fig. 6
+                     ), with fits: Φ
+                     Dα(EH)∝(
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     )2.55±0.21 and Φ
+                     Dα(AT)∝(
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     )2.98±0.16. An unconstrained least-squares fit (but not considering uncertainties in 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     ) yields Φ
+                     Dα(EH)∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     2.48±0.9/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     2.68±0.96 and Φ
+                     Dα(AT)∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     2.81±0.29/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     3.14±0.28 (Fig. 7
+                     ). Note that although the result is the same, the forced EH fit with 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      has a smaller exponential uncertainty. Thus a function of the form (
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     )2.5−3 is capable of describing the inter-ELM Φ
+                     Dα behavior over the operational ranges of both ELMy-H (for H
+                     98y,2
+                     >0.9) and AT scenarios from low- to high-recycling regimes down to partial detachment at the OSP. These encompass an order of magnitude change in Φ
+                     Dα and a factor of ∼2 for 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     -
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , as well as ELM frequencies ranging below 10Hz to above 200Hz.
+The connection between I
+                     div and Φ
+                     Dα remains to be investigated since the ion flux is of principal interest, not Φ
+                     Dα. The standard SOL 2-point model predicts that I
+                     div is related to the upstream separatrix density n
+                     es as I
+                     div
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 es
+                              
+                              
+                                 2
+                              
+                           
+                        
+                      (high recycling regime) before partial detachment sets in. Taking n
+                     es from HRTS for the AT dataset, under the assumption that EFIT predicts the correct position of the separatrix yields: n
+                     es
+                     =0.39
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     1.02±0.12/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     0.94±0.12 (Fig. 8
+                     ), i.e. n
+                     es
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , or n
+                     es
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     ∝1/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      (note that in dimensionless parameters 1/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      ∝ (υ
+                     ∗/β
+                     ped)1/3). Φ
+                     Dα is related to n
+                     es as Φ
+                     Dα
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 es
+                              
+                              
+                                 2.78
+                                 ±
+                                 0.21
+                              
+                           
+                        
+                     . Thus, the fits of Φ
+                     Dα to 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      may be interpreted as hidden regressions on n
+                     es. It is possible to gain an estimate of I
+                     div from Φ
+                     Dα if the ratio of Do ionizations to Dα excitations (S/XB ratio) is known for the conditions at hand. Langmuir probe measurements for γ
+                     D2
+                     ∼0.4×1022/s EH discharges indicate an S/XB ratio I
+                     div/Φ
+                     Dα
+                     ∼38. Reliable ratios under other conditions for these experiments are not available. However, a feeling for systematic relationships among I
+                     div, n
+                     es and Φ
+                     Dα is provided by an L-mode (2.9MW) 3-step gas puff scan with the same OSP position [5]: It is found Φ
+                     Dα
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 es
+                              
+                              
+                                 2.62
+                              
+                           
+                        
+                      and I
+                     div
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 es
+                              
+                              
+                                 2.31
+                              
+                           
+                        
+                     , i.e. Dα has nearly the same dependence as for the AT experiments. For these discharges S/XB∼22–27. More details concerning the connection between I
+                     div and Φ
+                     Dα must await new JET experiments in addition to ongoing EDGE2D modeling [6].
+Previous studies of n
+                     es behavior for EH conditions (12MW) documented that n
+                     es scaled linearly with f
+                     ELM (5–13Hz) [7,8]. This observation also holds true for the AT dataset where one finds a well-ordered linear relationship between n
+                     es (∼0.8–2.2×1019) and f
+                     ELM (∼60–180Hz), meaning that 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      is also a parameter related to the ELM frequency. However, for the present EH dataset where f
+                     ELM is not related in a linear fashion to γ
+                     D2 (see Fig. 1), these statements do not apply. Thus, the expression n
+                     es
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      demonstrated for the AT scenario would seem of more fundamental nature.
+The exact form of the fits here is not of principal importance, rather the demonstration of the very coherent interplay among 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                           –
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , n
+                     es and Φ
+                     Dα, i.e. a coupling over the ETB. This link might imply a couplingbetween ne
+                      and Te
+                      in the ETB, which is examined in Fig. 9
+                      where log
+                     Te
+                      vs. log
+                     ne
+                      is plotted over Ψ
+                     =0.97–1.0 with the D2 level as a parameter. The data is well collated but exhibits slightly different slopes as a function of D2 and scenario (Table 1
+                     ) showing that the ne
+                     –Te
+                      coupling is not absolutely “stiff”. On the other hand, if 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                           –
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      were to follow a constant pressure contour, then 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     ∝1/
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and the expression n
+                     es ∝ 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      becomes n
+                     es ∝ 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     2. Such a relationship has been observed on limiter Tokamaks (with ne
+                     
+                     -avrg replacing 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     ) and is expected from simple neutral penetration models [9], i.e. without need for coupling between ne
+                     –Te
+                      in the ETB. However, a multi-machine database for diverted L-mode discharges yields n
+                     es
+                     ∝
+                     ne
+                     
+                     -avrg 
+                     [10]. Moreover, regression analysis shows that both 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      are significant parameters for the present dataset, as to be expected from Fig. 3 where some impurity-seeded discharges provoke considerable deviation from a constant pressure curve.
+
+Conclusions:
+A connection between the total Dα signal from the outer divertor Φ
+                     Dα and 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                           –
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      has been established in the form Φ
+                     Dα
+                     ∝ (
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     )2.5−3, with indications that n
+                     es
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     . Thus Φ
+                     Dα is a very sensitive probe for changes in n
+                     es. This expression for Φ
+                     Dα is valid over the entire operational range of Ne- and N2-seeded ELMy-H and Advanced Tokamak scenarios for the given magnetic field configuration and power levels, from low-recycling conditions to partial detachment at the OSP (under the restriction H
+                     98y,2
+                     ⩾0.9 for EH). Generally n
+                     es is set by γ
+                     D2 (see Fig. 5: Φ
+                     Dα vs. D2) and Tes by the power into the SOL. Transport processes within the ETB will largely determine 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      but they must be such as to be compatible with the 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     –n
+                     es–Φ
+                     Dα link reported here. ne
+                      and Te
+                      in the ETB are coupled in the sense that log
+                     Te
+                      vs. log
+                     ne
+                      points gather about a common slope η
+                     e (d log
+                     Te
+                     /d log
+                     ne
+                     ) across the ETB, with η
+                     e exhibiting a weak D2 dependence (Table 1: η
+                     e(EH)∼0.73–0.96, η
+                     e(AT)∼1.11–1.45). These findings are in contrast to those of ASDEX Upgrade, with η
+                     e
+                     ∼2 for good ELMy H-modes [11,12] but have common ground in that ne
+                     –Te
+                      in the ETB are related in the sense described.
+The discovered link among 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                           –
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and Φ
+                     Dα (i.e. n
+                     es) across the ETB is a new observation of fundamental nature and remains to be investigated in more detail with dedicated JET experiments. Nonetheless, it has pragmatic ramifications for producing ILW-compatible conditions at the outer target plate: To suppress W-sputtering associated with seeded impurities, as well as to mitigate power loading, enhanced I
+                     div will be obligatory to suppress 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 div
+                              
+                           
+                        
+                      to tolerable levels. This is effected by higher gas fueling, initiating the chain of events reported here, including decreases in τ
+                     E. Whereas this seems compatible with good ELMy H-modes, it remains to be seen whether viable AT scenarios can be developed since the sacrifice in τ
+                     E is higher to achieve similar I
+                     div.
+This work was supported by EURATOM and carried out within the framework of the European Fusion Development Agreement. The views and opinions expressed herein do not necessarily reflect those of the European Commission.
+
+Body:
+With use of tungsten target plates for the JET ILW, now under construction, carbon radiation will be reduced and must be replaced by that of extrinsic impurities to exploit ILW high power capabilities [1]. Studies of ELMy-H (EH) and Advanced-Tokamak-like (AT) scenarios using N2- and Ne-seeding along with D2 fuelling have been carried out in matrix fashion [2], aiming to cover a large range in divertor power loading P
+                     div and temperature 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 div
+                              
+                           
+                        
+                     . The outer strike point (OSP) is placed on the horizontal target, as foreseen for primary ILW operation. The intended purpose of impurity seeding is to augment radiation P
+                     rad in order to mitigate P
+                     div and that of D2 to enhance recycling to further reduce P
+                     div and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 div
+                              
+                           
+                        
+                     . These aspects are covered in [2,3] as well as setup details of the experiments. This data set is used to illuminate average inter-ELM relationships between pedestal temperature 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and density 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and total Dα emission from the outer divertor Φ
+                     Dα, serving here as an indication of the recycling ion flux I
+                     div at the outer target plate [4]. An advantage of these studies is the wider range of 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      afforded by impurities as well as the extent of fuelling, pushing the OSP into power detachment at the highest values (for EH with moderate cost in confinement loss). Type-I ELM behavior also varies: For EH f
+                     ELM initially decreases with D2 (∼20→10Hz, Fig. 1
+                     ). Further, impurities can provoke compound ELMs (f
+                     ELM
+                     ⩾3Hz) as well as augment f
+                     ELM (to 50Hz) depending on the impurity species and D2 level (γ
+                     D2). f
+                     ELM(AT) largely spans the range ∼50–200Hz, increasing with γ
+                     D2.
+
+Although the viewing cone for Φ
+                     Dα subtends the entire divertor outside the x-point, Dα emission itself is concentrated around the OSP. Φ
+                     Dα is used as a measure of I
+                     div due to a lack of comprehensive reliable Langmuir probe measurements. Fig. 1 depicts Dα time traces for an EH γ
+                     D2- and Ne-scan, showing the change in ELM behavior as well as increase in Dα level as a function of both γ
+                     D2 and Ne. Core ne
+                      and Te
+                      are taken from the High Resolution Thomson Scattering (HRTS) diagnostic. Fig. 2
+                      illustrates the ne
+                      pedestal extends to the flux surface coordinate Ψ
+                     ∼0.96, typical for all discharges here. Due to the pedestal’s spatial extent, the interferometer outer vertical chord, tangent to the flux surface coordinate Ψ
+                     ∼0.9 and thus integrating over ne
+                      outside this region, is an excellent measure of 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , with good inter-ELM time resolution, low noise (∼ ±1018
+                     m−3) and none of the vagaries associated with potential ne
+                      calibration errors of Thomson scattering and is used to define 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     . Te
+                      from HRTS at Ψ
+                     =0.95 is taken as 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     . Inter-ELM Te
+                     -excursions in compound ELM phases can more than 200eV (only with Ne in EH at low γ
+                     D2) with an average deviation from the mean of < ±100eV, otherwise ∼ ±50eV.
+
+For EH, only discharges with H
+                     98y,2
+                     ⩾0.9 are examined since partial detachment at the OSP is already achievable in this range. In contrast, it is necessary to accept H
+                     98y,2
+                     >0.7 in order to cover a similar recycling range for the AT scenario. Fig. 3
+                      depicts 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      vs. 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , showing the operational range for these experiments. Note that 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     (AT) ∼0.5 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     (EH). Also, the 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     –
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      values roughly follow a constant electron pressure contour, with significant deviations to lower values often associated with impurity seeding. Fig. 4
+                      gives an overview of energy confinement time τ
+                     E, 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      as a function Φ
+                     Dα. Φ
+                     Dα itself is largely determined by γ
+                     D2, with moderate variations related to impurity level for EH, and a more pronounced influence of impurities on Φ
+                     Dα for AT (Fig. 5
+                     ). Higher Φ
+                     Dα dictates moderately lower τ
+                     E for EH and a more pronounced decrease for AT. In addition, τ
+                     E as well as 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      drop in proportion to the level of N2-seeding for EH discharges, associated with an N2-driven increase in f
+                     ELM. This causes the “scatter” seen in the EH plots. For AT, both 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      significantly decrease at the lowest Φ
+                     Dα level with Ne-seeding. Otherwise, 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      tails off very uniformly with higher Φ
+                     Dα for EH and AT. D2 fuelling (higher Φ
+                     Dα) initially augments 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and thereafter has little further effect on the density.
+
+Fig. 4 illustrates that Φ
+                     Dα is closely related to 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      (higher Φ
+                     Dα
+                     →lower 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     ) with scatter only at the lowest Φ
+                     Dα. Overall, Φ
+                     Dα is better correlated with the quantity 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      (Fig. 6
+                     ), with fits: Φ
+                     Dα(EH)∝(
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     )2.55±0.21 and Φ
+                     Dα(AT)∝(
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     )2.98±0.16. An unconstrained least-squares fit (but not considering uncertainties in 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     ) yields Φ
+                     Dα(EH)∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     2.48±0.9/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     2.68±0.96 and Φ
+                     Dα(AT)∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     2.81±0.29/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     3.14±0.28 (Fig. 7
+                     ). Note that although the result is the same, the forced EH fit with 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      has a smaller exponential uncertainty. Thus a function of the form (
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     )2.5−3 is capable of describing the inter-ELM Φ
+                     Dα behavior over the operational ranges of both ELMy-H (for H
+                     98y,2
+                     >0.9) and AT scenarios from low- to high-recycling regimes down to partial detachment at the OSP. These encompass an order of magnitude change in Φ
+                     Dα and a factor of ∼2 for 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     -
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , as well as ELM frequencies ranging below 10Hz to above 200Hz.
+
+The connection between I
+                     div and Φ
+                     Dα remains to be investigated since the ion flux is of principal interest, not Φ
+                     Dα. The standard SOL 2-point model predicts that I
+                     div is related to the upstream separatrix density n
+                     es as I
+                     div
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 es
+                              
+                              
+                                 2
+                              
+                           
+                        
+                      (high recycling regime) before partial detachment sets in. Taking n
+                     es from HRTS for the AT dataset, under the assumption that EFIT predicts the correct position of the separatrix yields: n
+                     es
+                     =0.39
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     1.02±0.12/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     0.94±0.12 (Fig. 8
+                     ), i.e. n
+                     es
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , or n
+                     es
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     ∝1/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      (note that in dimensionless parameters 1/
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      ∝ (υ
+                     ∗/β
+                     ped)1/3). Φ
+                     Dα is related to n
+                     es as Φ
+                     Dα
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 es
+                              
+                              
+                                 2.78
+                                 ±
+                                 0.21
+                              
+                           
+                        
+                     . Thus, the fits of Φ
+                     Dα to 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      may be interpreted as hidden regressions on n
+                     es. It is possible to gain an estimate of I
+                     div from Φ
+                     Dα if the ratio of Do ionizations to Dα excitations (S/XB ratio) is known for the conditions at hand. Langmuir probe measurements for γ
+                     D2
+                     ∼0.4×1022/s EH discharges indicate an S/XB ratio I
+                     div/Φ
+                     Dα
+                     ∼38. Reliable ratios under other conditions for these experiments are not available. However, a feeling for systematic relationships among I
+                     div, n
+                     es and Φ
+                     Dα is provided by an L-mode (2.9MW) 3-step gas puff scan with the same OSP position [5]: It is found Φ
+                     Dα
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 es
+                              
+                              
+                                 2.62
+                              
+                           
+                        
+                      and I
+                     div
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 es
+                              
+                              
+                                 2.31
+                              
+                           
+                        
+                     , i.e. Dα has nearly the same dependence as for the AT experiments. For these discharges S/XB∼22–27. More details concerning the connection between I
+                     div and Φ
+                     Dα must await new JET experiments in addition to ongoing EDGE2D modeling [6].
+
+Previous studies of n
+                     es behavior for EH conditions (12MW) documented that n
+                     es scaled linearly with f
+                     ELM (5–13Hz) [7,8]. This observation also holds true for the AT dataset where one finds a well-ordered linear relationship between n
+                     es (∼0.8–2.2×1019) and f
+                     ELM (∼60–180Hz), meaning that 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      is also a parameter related to the ELM frequency. However, for the present EH dataset where f
+                     ELM is not related in a linear fashion to γ
+                     D2 (see Fig. 1), these statements do not apply. Thus, the expression n
+                     es
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      demonstrated for the AT scenario would seem of more fundamental nature.
+
+The exact form of the fits here is not of principal importance, rather the demonstration of the very coherent interplay among 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                           –
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     , n
+                     es and Φ
+                     Dα, i.e. a coupling over the ETB. This link might imply a couplingbetween ne
+                      and Te
+                      in the ETB, which is examined in Fig. 9
+                      where log
+                     Te
+                      vs. log
+                     ne
+                      is plotted over Ψ
+                     =0.97–1.0 with the D2 level as a parameter. The data is well collated but exhibits slightly different slopes as a function of D2 and scenario (Table 1
+                     ) showing that the ne
+                     –Te
+                      coupling is not absolutely “stiff”. On the other hand, if 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                           –
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      were to follow a constant pressure contour, then 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     ∝1/
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and the expression n
+                     es ∝ 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      becomes n
+                     es ∝ 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     
+                     2. Such a relationship has been observed on limiter Tokamaks (with ne
+                     
+                     -avrg replacing 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     ) and is expected from simple neutral penetration models [9], i.e. without need for coupling between ne
+                     –Te
+                      in the ETB. However, a multi-machine database for diverted L-mode discharges yields n
+                     es
+                     ∝
+                     ne
+                     
+                     -avrg 
+                     [10]. Moreover, regression analysis shows that both 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      are significant parameters for the present dataset, as to be expected from Fig. 3 where some impurity-seeded discharges provoke considerable deviation from a constant pressure curve.
+
+A connection between the total Dα signal from the outer divertor Φ
+                     Dα and 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                           –
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      has been established in the form Φ
+                     Dα
+                     ∝ (
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     )2.5−3, with indications that n
+                     es
+                     ∝
+                     
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     . Thus Φ
+                     Dα is a very sensitive probe for changes in n
+                     es. This expression for Φ
+                     Dα is valid over the entire operational range of Ne- and N2-seeded ELMy-H and Advanced Tokamak scenarios for the given magnetic field configuration and power levels, from low-recycling conditions to partial detachment at the OSP (under the restriction H
+                     98y,2
+                     ⩾0.9 for EH). Generally n
+                     es is set by γ
+                     D2 (see Fig. 5: Φ
+                     Dα vs. D2) and Tes by the power into the SOL. Transport processes within the ETB will largely determine 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      but they must be such as to be compatible with the 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     /
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                     –n
+                     es–Φ
+                     Dα link reported here. ne
+                      and Te
+                      in the ETB are coupled in the sense that log
+                     Te
+                      vs. log
+                     ne
+                      points gather about a common slope η
+                     e (d log
+                     Te
+                     /d log
+                     ne
+                     ) across the ETB, with η
+                     e exhibiting a weak D2 dependence (Table 1: η
+                     e(EH)∼0.73–0.96, η
+                     e(AT)∼1.11–1.45). These findings are in contrast to those of ASDEX Upgrade, with η
+                     e
+                     ∼2 for good ELMy H-modes [11,12] but have common ground in that ne
+                     –Te
+                      in the ETB are related in the sense described.
+
+The discovered link among 
+                        
+                           
+                              
+                                 n
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                           –
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 ped
+                              
+                           
+                        
+                      and Φ
+                     Dα (i.e. n
+                     es) across the ETB is a new observation of fundamental nature and remains to be investigated in more detail with dedicated JET experiments. Nonetheless, it has pragmatic ramifications for producing ILW-compatible conditions at the outer target plate: To suppress W-sputtering associated with seeded impurities, as well as to mitigate power loading, enhanced I
+                     div will be obligatory to suppress 
+                        
+                           
+                              
+                                 T
+                              
+                              
+                                 e
+                              
+                              
+                                 div
+                              
+                           
+                        
+                      to tolerable levels. This is effected by higher gas fueling, initiating the chain of events reported here, including decreases in τ
+                     E. Whereas this seems compatible with good ELMy H-modes, it remains to be seen whether viable AT scenarios can be developed since the sacrifice in τ
+                     E is higher to achieve similar I
+                     div.
+
+This work was supported by EURATOM and carried out within the framework of the European Fusion Development Agreement. The views and opinions expressed herein do not necessarily reflect those of the European Commission.

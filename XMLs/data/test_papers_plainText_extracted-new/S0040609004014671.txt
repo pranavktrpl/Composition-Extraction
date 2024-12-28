@@ -1,0 +1,2075 @@
+Title:
+Optical characterization of MoO
+
+Abstract:
+MoO3 thin films were prepared, in this work, evaporating the material with a CO2 laser set up in continuous wave mode. The films were deposited on glass substrates at different substrate temperatures and high vacuum. Additionally, other samples were prepared at different oxygen pressures in the chamber. The samples were characterized by X-ray photoelectron spectroscopy (XPS) and optical transmittance measurements in the visible range. The XPS analyses showed evidence of thin film formation with two composition mix: MoO3 and MoO2; this result appeared in all fabricated samples. The transmittance spectra were reproduced theoretically and from the simulation were calculated the index of refraction, the absorption coefficient of the material, the forbidden energy gap and sample thickness. Samples prepared at high substrate temperature presented, in the red region, an absorption band of about 2.5×104 cm−1. This band kept its wavelength position when oxygen was injected in the chamber but its height decreased by one order of magnitude, indicating it is associated to oxygen vacancies in the sample.
+
+Keywords:
+Deposition process
+Optical properties
+Laser irradiation
+X-ray photoelectron spectroscopy
+Molybdenum oxide
+
+Acknowledgements:
+The authors wish to thank the International Programme in the Physical Sciences (IPPS), Uppsala University, and the Research Division of the Universidad Nacional de Colombia (DIB) for their economic support to this work.
+
+PACS:
+78.66.-W
+78.55.Hx
+
+Introduction:
+MoO3 is a very attractive material due to its multiple technological applications [1–3]. MoO3 thin films have been produced by thermal evaporation, sputtering and electrochemical deposition [4,5].
+One of the most interesting applications of MoO3 is known as smart window in which the device must regulate the amount of light going through it [6]. To optimize the devices, its behavior is modeled in computer, for which it is important to know the optical properties of the materials forming it. Determining the optical constants of MoO3 is quite difficult due to the presence of absorption in the visible region of the spectrum, which hinders the use of traditional calculation methods. Nonetheless, some authors have developed alternative methods to obtain the constants for these materials [7].
+This work describes the synthesis of MoO3 thin films, prepared in high vacuum by evaporating a MoO3 target with a CO2 laser operating in continuous wave mode. Additionally, a method is proposed to calculate the optical constants of the material, using the theoretical simulation of experimental transmittance spectra in the visible and near infrared region. This simulation yields the spectral variations of the refraction index and absorption coefficient, the energy gap and the material's thickness. It also points at the influence of the substrate temperature and oxygen pressure in the chamber, on the optical properties of the material.
+
+Experimental details:
+2.1
+                     Production of the films
+                     The MoO3 thin films were deposited using the laser thermal evaporation technique Fig. 1
+                        . A light beam coming from a CO2 laser is shined on a target made up of MoO3 powder (99.9%). The beam has a wavelength of 10.6 μm and an intensity of 0.73 W/mm2. The beam is introduced into the vacuum chamber through a GaAs lens and focused, with a Copper mirror, on the target. The MoO3 powder is hand pressed to avoid its dispersion toward the substrates by the application of the beam. The heat produced by the laser sublimates the material and it is deposited on common glass substrates (15 mm long and 10 mm wide) placed 10 cm above the powder.
+                     The MoO3 target is rotated at about 20 rpm to avoid the formation of an irregular hole at the incidence point, which produces inhomogeneities on the sample thickness and modifies the deposition rate of the material.
+                     Samples were prepared in vacuum and under different oxygen pressures. The optical constants were obtained in two series of samples. The first series was prepared in vacuum at different substrate temperatures ranging from room temperature to 350 °C, chamber pressure of 6×10−4 Pa, deposition time of 1 min and laser intensity of 0.73 W/mm2. The second series was carried out with constant substrate temperature of 300 °C, deposition time of 1 min, laser intensity of 0.23 W/mm2 and different oxygen pressures in the chamber. In this series, the vacuum chamber was taken to an initial pressure of 6×10−4 Pa.
+2.2
+                     Characterization of the samples
+                     Diffraction oxidations states of both MoO3 powder and prepared samples were determined by X-ray photoelectron spectroscopy (XPS), using a VG-ESCA LAB 250 spectrometer with an energy resolution of 0.4 eV. Al Kα (1486.6 eV) radiation was used as the excitation source. The spectra were recorded in fixed analyzer transmission mode, the pass energy being 50 eV. The scanning of the spectra was done at pressures of 5×10−7 Pa. Binding energies were measured for O (1s) and Mo (3p). Peaks were fitted using a combination of Gaussian and Lorentzian functions. This deconvolution was used to quantify the sensitive factors.
+                     The films were also characterized through transmittance measurements in the visible and near infrared regions, using a double beam PERKIN ELMER lambda 2 spectrophotometer, operating at normal incidence on the sample surface.
+
+Production of the films:
+The MoO3 thin films were deposited using the laser thermal evaporation technique Fig. 1
+                        . A light beam coming from a CO2 laser is shined on a target made up of MoO3 powder (99.9%). The beam has a wavelength of 10.6 μm and an intensity of 0.73 W/mm2. The beam is introduced into the vacuum chamber through a GaAs lens and focused, with a Copper mirror, on the target. The MoO3 powder is hand pressed to avoid its dispersion toward the substrates by the application of the beam. The heat produced by the laser sublimates the material and it is deposited on common glass substrates (15 mm long and 10 mm wide) placed 10 cm above the powder.
+The MoO3 target is rotated at about 20 rpm to avoid the formation of an irregular hole at the incidence point, which produces inhomogeneities on the sample thickness and modifies the deposition rate of the material.
+Samples were prepared in vacuum and under different oxygen pressures. The optical constants were obtained in two series of samples. The first series was prepared in vacuum at different substrate temperatures ranging from room temperature to 350 °C, chamber pressure of 6×10−4 Pa, deposition time of 1 min and laser intensity of 0.73 W/mm2. The second series was carried out with constant substrate temperature of 300 °C, deposition time of 1 min, laser intensity of 0.23 W/mm2 and different oxygen pressures in the chamber. In this series, the vacuum chamber was taken to an initial pressure of 6×10−4 Pa.
+
+Characterization of the samples:
+Diffraction oxidations states of both MoO3 powder and prepared samples were determined by X-ray photoelectron spectroscopy (XPS), using a VG-ESCA LAB 250 spectrometer with an energy resolution of 0.4 eV. Al Kα (1486.6 eV) radiation was used as the excitation source. The spectra were recorded in fixed analyzer transmission mode, the pass energy being 50 eV. The scanning of the spectra was done at pressures of 5×10−7 Pa. Binding energies were measured for O (1s) and Mo (3p). Peaks were fitted using a combination of Gaussian and Lorentzian functions. This deconvolution was used to quantify the sensitive factors.
+The films were also characterized through transmittance measurements in the visible and near infrared regions, using a double beam PERKIN ELMER lambda 2 spectrophotometer, operating at normal incidence on the sample surface.
+
+Results and discussion:
+3.1
+                     XPS measurements
+                     In order to examine the nature of surface species formed on the films, the MoO3 powder and the samples were investigated using the XPS technique. For the purpose of better comparison, the photoelectron peaks of Mo 3p and O 1s pertaining to MoO3 powder and films are presented, together in Figs. 2 and 3
+                        
+                        , respectively. Fig. 2 shows the XPS spectra characteristic of the MoO3 powder (continuum line), together with spectra of films fabricated at substrate temperatures of 200 °C (dotted line) and 100 °C (dashed line) at oxygen pressure of 6.7×10−1 Pa. Fig. 2 shows the binding energies of Mo 3p photoelectron peaks at 398.4±0.1 and 415.8±0.1 eV for Mo 3p3/2 and Mo 3p1/2 lines, respectively. The spectra shows a principal peak at 398.4±0.1 eV which agrees well with the oxidation state Mo6+, suggesting the presence of MoO3 in the departure material and in the samples.
+                     In Fig. 3 are shown the photoelectron peaks of O 1s, obtained in the MoO3 powder and the same samples described in Fig. 2. The O's 1s profiles are complicated due to the oxygen overlapping contribution from other species. In sample prepared at substrate temperature of 200 °C, the quantification process reveals evidence of the presence of three species of O; one at 530.2±0.1 eV related with molybdenum–oxygen bonds. Another at 531.8±0.1 eV in a spectral area corresponding to the presence of OH groups and the last one at 533.0±0.1 eV, associated with water adsorbed at the sample's surface. The spectrum of a sample, prepared at a substrate temperature of 100 °C, suggests the presence of two oxygen species: one at 530.1±0.1 eV associated with Mo–O bonds; the other is located at 532.4±0.1 eV, corresponding to water. No cleaning procedure was performed on the samples before the XPS analysis; the water and OH bonds are probably appearing due to the samples air exposition after the evaporation procedure.
+                     The quantification process also yields evidence of the presence of the phase MoO2 in the samples. This phase appears in all the prepared samples, inclusive in those deposited in oxygen atmosphere.
+3.2
+                     Method employed to calculate the optical constants of the films
+                     The transmittance is calculated using the optical system of a thin film deposited on a semi-infinitely thick substrate [8], which could or could not be absorbent (Fig. 4
+                        ).
+                     The film has a refraction index n
+                        1, an extinction coefficient k
+                        1 and thickness d
+                        1. To the substrate are assigned: refraction index n
+                        2, extinction coefficient k
+                        2 and semi-infinite thickness; n
+                        1, d
+                        1 and k
+                        1 are unknown in our case; n
+                        2=1.52 and k
+                        2=0 in the analyzed spectral region; n
+                        0=1 is the air's refraction index.
+                     The theoretical expression for the transmittance of the film-substrate system is given as a function of λ, the wavelength, and α
+                        1, the absorption coefficient of the thin film.
+                           
+                              (1)
+                              
+                                 T
+                                 =
+                                 
+                                    
+                                       
+                                          n
+                                          2
+                                       
+                                    
+                                    
+                                       
+                                          n
+                                          0
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       [
+                                       (
+                                       1
+                                       +
+                                       
+                                          g
+                                          1
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       
+                                          h
+                                          1
+                                          2
+                                       
+                                       ]
+                                       
+                                          [
+                                          (
+                                          1
+                                          +
+                                          
+                                             g
+                                             2
+                                          
+                                          
+                                             )
+                                             2
+                                          
+                                          +
+                                          
+                                             h
+                                             2
+                                             2
+                                          
+                                          ]
+                                       
+                                    
+                                    
+                                       
+                                          e
+                                          
+                                             2
+                                             
+                                                α
+                                                1
+                                             
+                                          
+                                       
+                                       +
+                                       (
+                                       
+                                          g
+                                          1
+                                          2
+                                       
+                                       +
+                                       
+                                          h
+                                          1
+                                          2
+                                       
+                                       )
+                                       (
+                                       
+                                          g
+                                          2
+                                          2
+                                       
+                                       +
+                                       
+                                          h
+                                          2
+                                          2
+                                       
+                                       )
+                                       
+                                          e
+                                          
+                                             −
+                                             2
+                                             
+                                                α
+                                                1
+                                             
+                                          
+                                       
+                                       +
+                                       C
+                                       
+                                       cos
+                                       
+                                       2
+                                       
+                                          γ
+                                          1
+                                       
+                                       +
+                                       D
+                                       
+                                       sin
+                                       
+                                       2
+                                       
+                                          γ
+                                          1
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    g
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          n
+                                          0
+                                          2
+                                       
+                                       −
+                                       
+                                          n
+                                          1
+                                          2
+                                       
+                                       −
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          0
+                                       
+                                       +
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (3)
+                              
+                                 
+                                    h
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       
+                                          n
+                                          0
+                                       
+                                       
+                                          k
+                                          1
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          0
+                                       
+                                       +
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (4)
+                              
+                                 
+                                    g
+                                    2
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          n
+                                          1
+                                          2
+                                       
+                                       −
+                                       
+                                          n
+                                          2
+                                          2
+                                       
+                                       +
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                       −
+                                       
+                                          k
+                                          2
+                                          2
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          1
+                                       
+                                       +
+                                       
+                                          n
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       (
+                                       
+                                          k
+                                          1
+                                       
+                                       +
+                                       
+                                          k
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    h
+                                    2
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       (
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          k
+                                          2
+                                       
+                                       −
+                                       
+                                          n
+                                          2
+                                       
+                                       
+                                          k
+                                          1
+                                       
+                                       )
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          1
+                                       
+                                       +
+                                       
+                                          n
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       (
+                                       
+                                          k
+                                          1
+                                       
+                                       +
+                                       
+                                          k
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              
+                                 
+                                    α
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       ⁢
+                                       π
+                                       
+                                          k
+                                          1
+                                       
+                                       
+                                          d
+                                          1
+                                       
+                                    
+                                    λ
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (7)
+                              
+                                 
+                                    γ
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       ⁢
+                                       π
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          d
+                                          1
+                                       
+                                    
+                                    λ
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 C
+                                 =
+                                 2
+                                 (
+                                 
+                                    g
+                                    1
+                                 
+                                 
+                                    g
+                                    2
+                                 
+                                 −
+                                 
+                                    h
+                                    1
+                                 
+                                 
+                                    h
+                                    2
+                                 
+                                 )
+                              
+                           
+                        
+                        
+                           
+                              (9)
+                              
+                                 D
+                                 =
+                                 2
+                                 (
+                                 
+                                    g
+                                    1
+                                 
+                                 
+                                    h
+                                    2
+                                 
+                                 +
+                                 
+                                    h
+                                    1
+                                 
+                                 
+                                    g
+                                    2
+                                 
+                                 )
+3.3
+                     Calculation procedure
+                     In the problem, n
+                        1 and k
+                        1 depend on the wavelength and are unknown; the sample thickness is also unknown. These constants are obtained through the theoretical simulation of the experimental transmittance spectra, using the following relation:
+                           
+                              (10)
+                              
+                                 
+                                    T
+                                    Theo
+                                 
+                                 −
+                                 
+                                    T
+                                    exp
+                                 
+                                 <
+                                 0.001
+                              
+                           
+                        
+                     
+                     Where T
+                        Theo is the theoretical transmittance value obtained with Eq. (1) and T
+                        exp is the experimental value.
+                     
+                        Fig. 5
+                         shows a characteristic transmittance spectrum for a MoO3 thin film.
+                     The spectrum presents a high absorption zone for wavelengths shorter than 450 nm and a semitransparent zone from 450 through 1000 nm. The semitransparent zone presents quite useful interference maxima and minima because, from their spectral positions, we can calculate initial values for the refraction index and the sample thickness [9].
+                     Carefully observing the spectrum, we notice that around 850 nm, the transmittance values decrease. This is associated to the presence in the material of a wide absorption band. This absorption band interferes with the spectrum diminishing the amplitudes of maxima and minima and modifying their wavelength positions, causing a dispersion in the calculated value of d. It is observed, in theoretical simulations, that the wavelength shifts for maxima and minima are opposite, compensating in this way for the value of d.
+                     The calculation can be summarized in the following steps:
+                     We assume initially the film to be totally transparent between 450 and 1000 nm to calculate approximate values for the optical path n
+                        1
+                        d
+                        1 inside the material: the sample thickness is calculated using the relation:
+                           
+                              (11)
+                              
+                                 
+                                    d
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          λ
+                                          1
+                                       
+                                       
+                                          λ
+                                          2
+                                       
+                                    
+                                    
+                                       2
+                                       (
+                                       
+                                          λ
+                                          1
+                                       
+                                       
+                                          n
+                                          12
+                                       
+                                       −
+                                       
+                                          λ
+                                          2
+                                       
+                                       
+                                          n
+                                          11
+                                       
+                                       )
+                                    
+                                 
+                              
+                           
+                        where n
+                        11 and n
+                        12 are the MoO3's refraction indexes associated to two consecutive maxima (or minima) located at the respective wavelengths λ
+                        1 and λ
+                        2.
+                     
+                        n
+                        11 and n
+                        12 are obtained using the W–D model of the simple harmonic oscillator proposed by Wemple and DiDomenico [10]:
+                           
+                              (12)
+                              
+                                 
+                                    n
+                                    1
+                                    2
+                                 
+                                 −
+                                 1
+                                 =
+                                 
+                                    
+                                       
+                                          E
+                                          d
+                                       
+                                       
+                                          E
+                                          o
+                                       
+                                    
+                                    
+                                       
+                                          E
+                                          o
+                                          2
+                                       
+                                       −
+                                       
+                                          ℏ
+                                          2
+                                       
+                                       
+                                          ω
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                     Where ℏω is the energy of the photon, E
+                        0 the energy of the oscillator and E
+                        d the dispersion energy. The value of the refraction index is found through the numerical calculation of the values for E
+                        0 and E
+                        d.
+                     The criterion used in this initial part of the process is to seek that the wavelength positions for maxima and minima of the theoretical spectrum be very close to the experimental ones. The d
+                        1 values obtained from the different couples of maxima and/or minima are averaged out to get an acceptable final value.
+                     Once obtained the values for the optical path inside the material, the absorption in the low absorption zone (from 450 through 1000 nm) is included to recalculate the optical path using Eq. (10). This translates into an improvement on the previous values for thickness and refraction index. The refraction index for the high absorption region is calculated with Eq. (12) and, finally, the absorption corresponding to the strong absorption zone is found using Eq. (10).
+3.4
+                     Samples prepared in vacuum at different substrate temperatures
+                     
+                        Fig. 6
+                         shows experimental transmittance spectra obtained in the films of the first series of samples. The same figure depicts the respective theoretical spectra. The samples of this figure present absorption throughout the entire spectrum which hinders the calculations. It is worth pointing out here that the calculation method is not feasible if the samples do not present interference maxima and minima.
+                     The refractive index spectra obtained from the calculation are shown in Fig. 7
+                        .
+                     
+                        Fig. 8
+                         presents the spectral curves for the calculated absorption coefficients of the samples. The absorption band described in the transmittance spectrum appears around 850 nm (1.4 eV); it is a very intense and wide band with values around 2.5×104 cm−1. No noticeable wavelength shifts for the peak are observed when the substrate temperature is changed. It is good to point out that other authors report, for this band, absorption values of the order of 104 cm−1
+                        [7].
+                     It is also observed in Fig. 8 that the energy gap of the material changes with the substrate temperature, shifting toward low energy regions as the temperature increases.
+                     
+                        Table 1
+                         shows the calculated thickness values, refraction index for 600 nm and gap of the material, for the samples of series 1. The gap was calculated by extrapolating the curve (αhν)2 with the energy axis. It is observed, in the table, a refraction index of about 1.8 for samples prepared at substrate temperatures under 250 °C; the latter tends to rise for substrate temperatures over 250 °C. These values agree with results obtained by other authors [7].
+3.5
+                     Samples prepared within different oxygen atmospheres
+                     
+                        Fig. 9
+                         shows transmittance spectra obtained for the samples of the second series. Fig. 10
+                         presents the spectra for the refraction index and Fig. 11
+                         depicts the absorption coefficients. The absorption curves show a reduction on the value of the red absorption band peak of almost one order of magnitude. On the other hand, a clear shift toward high-energy regions is observed for the gap of the material when the oxygen pressure in the chamber is increased.
+                     The influence of oxygen on the optical properties of the material is outstanding; the samples prepared in oxygen atmosphere present a shift of the gap toward high energies as well as a reduction of the red absorption band when their oxygen content in the chamber is raised. This band is associated to oxygen vacancies which increase when the substrate temperature is raised [11]. The samples prepared in vacuum and high substrate temperatures presented oxygen deficiency because the red absorption band was increased and the gap of the material was shifted toward low-energy regions.
+
+XPS measurements:
+In order to examine the nature of surface species formed on the films, the MoO3 powder and the samples were investigated using the XPS technique. For the purpose of better comparison, the photoelectron peaks of Mo 3p and O 1s pertaining to MoO3 powder and films are presented, together in Figs. 2 and 3
+                        
+                        , respectively. Fig. 2 shows the XPS spectra characteristic of the MoO3 powder (continuum line), together with spectra of films fabricated at substrate temperatures of 200 °C (dotted line) and 100 °C (dashed line) at oxygen pressure of 6.7×10−1 Pa. Fig. 2 shows the binding energies of Mo 3p photoelectron peaks at 398.4±0.1 and 415.8±0.1 eV for Mo 3p3/2 and Mo 3p1/2 lines, respectively. The spectra shows a principal peak at 398.4±0.1 eV which agrees well with the oxidation state Mo6+, suggesting the presence of MoO3 in the departure material and in the samples.
+In Fig. 3 are shown the photoelectron peaks of O 1s, obtained in the MoO3 powder and the same samples described in Fig. 2. The O's 1s profiles are complicated due to the oxygen overlapping contribution from other species. In sample prepared at substrate temperature of 200 °C, the quantification process reveals evidence of the presence of three species of O; one at 530.2±0.1 eV related with molybdenum–oxygen bonds. Another at 531.8±0.1 eV in a spectral area corresponding to the presence of OH groups and the last one at 533.0±0.1 eV, associated with water adsorbed at the sample's surface. The spectrum of a sample, prepared at a substrate temperature of 100 °C, suggests the presence of two oxygen species: one at 530.1±0.1 eV associated with Mo–O bonds; the other is located at 532.4±0.1 eV, corresponding to water. No cleaning procedure was performed on the samples before the XPS analysis; the water and OH bonds are probably appearing due to the samples air exposition after the evaporation procedure.
+The quantification process also yields evidence of the presence of the phase MoO2 in the samples. This phase appears in all the prepared samples, inclusive in those deposited in oxygen atmosphere.
+
+Method employed to calculate the optical constants of the films:
+The transmittance is calculated using the optical system of a thin film deposited on a semi-infinitely thick substrate [8], which could or could not be absorbent (Fig. 4
+                        ).
+The film has a refraction index n
+                        1, an extinction coefficient k
+                        1 and thickness d
+                        1. To the substrate are assigned: refraction index n
+                        2, extinction coefficient k
+                        2 and semi-infinite thickness; n
+                        1, d
+                        1 and k
+                        1 are unknown in our case; n
+                        2=1.52 and k
+                        2=0 in the analyzed spectral region; n
+                        0=1 is the air's refraction index.
+The theoretical expression for the transmittance of the film-substrate system is given as a function of λ, the wavelength, and α
+                        1, the absorption coefficient of the thin film.
+                           
+                              (1)
+                              
+                                 T
+                                 =
+                                 
+                                    
+                                       
+                                          n
+                                          2
+                                       
+                                    
+                                    
+                                       
+                                          n
+                                          0
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       [
+                                       (
+                                       1
+                                       +
+                                       
+                                          g
+                                          1
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       
+                                          h
+                                          1
+                                          2
+                                       
+                                       ]
+                                       
+                                          [
+                                          (
+                                          1
+                                          +
+                                          
+                                             g
+                                             2
+                                          
+                                          
+                                             )
+                                             2
+                                          
+                                          +
+                                          
+                                             h
+                                             2
+                                             2
+                                          
+                                          ]
+                                       
+                                    
+                                    
+                                       
+                                          e
+                                          
+                                             2
+                                             
+                                                α
+                                                1
+                                             
+                                          
+                                       
+                                       +
+                                       (
+                                       
+                                          g
+                                          1
+                                          2
+                                       
+                                       +
+                                       
+                                          h
+                                          1
+                                          2
+                                       
+                                       )
+                                       (
+                                       
+                                          g
+                                          2
+                                          2
+                                       
+                                       +
+                                       
+                                          h
+                                          2
+                                          2
+                                       
+                                       )
+                                       
+                                          e
+                                          
+                                             −
+                                             2
+                                             
+                                                α
+                                                1
+                                             
+                                          
+                                       
+                                       +
+                                       C
+                                       
+                                       cos
+                                       
+                                       2
+                                       
+                                          γ
+                                          1
+                                       
+                                       +
+                                       D
+                                       
+                                       sin
+                                       
+                                       2
+                                       
+                                          γ
+                                          1
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    g
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          n
+                                          0
+                                          2
+                                       
+                                       −
+                                       
+                                          n
+                                          1
+                                          2
+                                       
+                                       −
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          0
+                                       
+                                       +
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (3)
+                              
+                                 
+                                    h
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       
+                                          n
+                                          0
+                                       
+                                       
+                                          k
+                                          1
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          0
+                                       
+                                       +
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (4)
+                              
+                                 
+                                    g
+                                    2
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          n
+                                          1
+                                          2
+                                       
+                                       −
+                                       
+                                          n
+                                          2
+                                          2
+                                       
+                                       +
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                       −
+                                       
+                                          k
+                                          2
+                                          2
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          1
+                                       
+                                       +
+                                       
+                                          n
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       (
+                                       
+                                          k
+                                          1
+                                       
+                                       +
+                                       
+                                          k
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    h
+                                    2
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       (
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          k
+                                          2
+                                       
+                                       −
+                                       
+                                          n
+                                          2
+                                       
+                                       
+                                          k
+                                          1
+                                       
+                                       )
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          1
+                                       
+                                       +
+                                       
+                                          n
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       (
+                                       
+                                          k
+                                          1
+                                       
+                                       +
+                                       
+                                          k
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              
+                                 
+                                    α
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       ⁢
+                                       π
+                                       
+                                          k
+                                          1
+                                       
+                                       
+                                          d
+                                          1
+                                       
+                                    
+                                    λ
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (7)
+                              
+                                 
+                                    γ
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       ⁢
+                                       π
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          d
+                                          1
+                                       
+                                    
+                                    λ
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 C
+                                 =
+                                 2
+                                 (
+                                 
+                                    g
+                                    1
+                                 
+                                 
+                                    g
+                                    2
+                                 
+                                 −
+                                 
+                                    h
+                                    1
+                                 
+                                 
+                                    h
+                                    2
+                                 
+                                 )
+                              
+                           
+                        
+                        
+                           
+                              (9)
+                              
+                                 D
+                                 =
+                                 2
+                                 (
+                                 
+                                    g
+                                    1
+                                 
+                                 
+                                    h
+                                    2
+                                 
+                                 +
+                                 
+                                    h
+                                    1
+                                 
+                                 
+                                    g
+                                    2
+                                 
+                                 )
+
+Calculation procedure:
+In the problem, n
+                        1 and k
+                        1 depend on the wavelength and are unknown; the sample thickness is also unknown. These constants are obtained through the theoretical simulation of the experimental transmittance spectra, using the following relation:
+                           
+                              (10)
+                              
+                                 
+                                    T
+                                    Theo
+                                 
+                                 −
+                                 
+                                    T
+                                    exp
+                                 
+                                 <
+                                 0.001
+Where T
+                        Theo is the theoretical transmittance value obtained with Eq. (1) and T
+                        exp is the experimental value.
+Fig. 5
+                         shows a characteristic transmittance spectrum for a MoO3 thin film.
+The spectrum presents a high absorption zone for wavelengths shorter than 450 nm and a semitransparent zone from 450 through 1000 nm. The semitransparent zone presents quite useful interference maxima and minima because, from their spectral positions, we can calculate initial values for the refraction index and the sample thickness [9].
+Carefully observing the spectrum, we notice that around 850 nm, the transmittance values decrease. This is associated to the presence in the material of a wide absorption band. This absorption band interferes with the spectrum diminishing the amplitudes of maxima and minima and modifying their wavelength positions, causing a dispersion in the calculated value of d. It is observed, in theoretical simulations, that the wavelength shifts for maxima and minima are opposite, compensating in this way for the value of d.
+The calculation can be summarized in the following steps:
+We assume initially the film to be totally transparent between 450 and 1000 nm to calculate approximate values for the optical path n
+                        1
+                        d
+                        1 inside the material: the sample thickness is calculated using the relation:
+                           
+                              (11)
+                              
+                                 
+                                    d
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          λ
+                                          1
+                                       
+                                       
+                                          λ
+                                          2
+                                       
+                                    
+                                    
+                                       2
+                                       (
+                                       
+                                          λ
+                                          1
+                                       
+                                       
+                                          n
+                                          12
+                                       
+                                       −
+                                       
+                                          λ
+                                          2
+                                       
+                                       
+                                          n
+                                          11
+                                       
+                                       )
+                                    
+                                 
+                              
+                           
+                        where n
+                        11 and n
+                        12 are the MoO3's refraction indexes associated to two consecutive maxima (or minima) located at the respective wavelengths λ
+                        1 and λ
+                        2.
+n
+                        11 and n
+                        12 are obtained using the W–D model of the simple harmonic oscillator proposed by Wemple and DiDomenico [10]:
+                           
+                              (12)
+                              
+                                 
+                                    n
+                                    1
+                                    2
+                                 
+                                 −
+                                 1
+                                 =
+                                 
+                                    
+                                       
+                                          E
+                                          d
+                                       
+                                       
+                                          E
+                                          o
+                                       
+                                    
+                                    
+                                       
+                                          E
+                                          o
+                                          2
+                                       
+                                       −
+                                       
+                                          ℏ
+                                          2
+                                       
+                                       
+                                          ω
+                                          2
+Where ℏω is the energy of the photon, E
+                        0 the energy of the oscillator and E
+                        d the dispersion energy. The value of the refraction index is found through the numerical calculation of the values for E
+                        0 and E
+                        d.
+The criterion used in this initial part of the process is to seek that the wavelength positions for maxima and minima of the theoretical spectrum be very close to the experimental ones. The d
+                        1 values obtained from the different couples of maxima and/or minima are averaged out to get an acceptable final value.
+Once obtained the values for the optical path inside the material, the absorption in the low absorption zone (from 450 through 1000 nm) is included to recalculate the optical path using Eq. (10). This translates into an improvement on the previous values for thickness and refraction index. The refraction index for the high absorption region is calculated with Eq. (12) and, finally, the absorption corresponding to the strong absorption zone is found using Eq. (10).
+
+Samples prepared in vacuum at different substrate temperatures:
+Fig. 6
+                         shows experimental transmittance spectra obtained in the films of the first series of samples. The same figure depicts the respective theoretical spectra. The samples of this figure present absorption throughout the entire spectrum which hinders the calculations. It is worth pointing out here that the calculation method is not feasible if the samples do not present interference maxima and minima.
+The refractive index spectra obtained from the calculation are shown in Fig. 7
+                        .
+Fig. 8
+                         presents the spectral curves for the calculated absorption coefficients of the samples. The absorption band described in the transmittance spectrum appears around 850 nm (1.4 eV); it is a very intense and wide band with values around 2.5×104 cm−1. No noticeable wavelength shifts for the peak are observed when the substrate temperature is changed. It is good to point out that other authors report, for this band, absorption values of the order of 104 cm−1
+                        [7].
+It is also observed in Fig. 8 that the energy gap of the material changes with the substrate temperature, shifting toward low energy regions as the temperature increases.
+Table 1
+                         shows the calculated thickness values, refraction index for 600 nm and gap of the material, for the samples of series 1. The gap was calculated by extrapolating the curve (αhν)2 with the energy axis. It is observed, in the table, a refraction index of about 1.8 for samples prepared at substrate temperatures under 250 °C; the latter tends to rise for substrate temperatures over 250 °C. These values agree with results obtained by other authors [7].
+
+Samples prepared within different oxygen atmospheres:
+Fig. 9
+                         shows transmittance spectra obtained for the samples of the second series. Fig. 10
+                         presents the spectra for the refraction index and Fig. 11
+                         depicts the absorption coefficients. The absorption curves show a reduction on the value of the red absorption band peak of almost one order of magnitude. On the other hand, a clear shift toward high-energy regions is observed for the gap of the material when the oxygen pressure in the chamber is increased.
+The influence of oxygen on the optical properties of the material is outstanding; the samples prepared in oxygen atmosphere present a shift of the gap toward high energies as well as a reduction of the red absorption band when their oxygen content in the chamber is raised. This band is associated to oxygen vacancies which increase when the substrate temperature is raised [11]. The samples prepared in vacuum and high substrate temperatures presented oxygen deficiency because the red absorption band was increased and the gap of the material was shifted toward low-energy regions.
+
+Conclusions:
+MoO3 thin films were prepared, in this work, using a CO2 laser set up in continuous wave mode. The XPS analysis revealed a mixture of the phases MoO3 and MoO2 in all the prepared films. A simple calculation procedure was used to determine the influence of the substrate temperature and chamber oxygen pressure on the optical properties of the material. It was found that the gap of the material shifts toward higher-energy regions as the oxygen content of the sample is risen. Furthermore, the samples presented an absorption band at 880 nm, associated with oxygen vacancies in them; this band decreases as the oxygen content of the material rises. Samples prepared with substrate temperature under 250 °C and those prepared with high oxygen content in the chamber presented similar optical properties, indicating that low temperatures favor the rise of oxygen content of the samples. Those samples prepared with high substrate temperatures presented oxygen vacancies.
+
+Body:
+MoO3 is a very attractive material due to its multiple technological applications [1–3]. MoO3 thin films have been produced by thermal evaporation, sputtering and electrochemical deposition [4,5].
+
+One of the most interesting applications of MoO3 is known as smart window in which the device must regulate the amount of light going through it [6]. To optimize the devices, its behavior is modeled in computer, for which it is important to know the optical properties of the materials forming it. Determining the optical constants of MoO3 is quite difficult due to the presence of absorption in the visible region of the spectrum, which hinders the use of traditional calculation methods. Nonetheless, some authors have developed alternative methods to obtain the constants for these materials [7].
+
+This work describes the synthesis of MoO3 thin films, prepared in high vacuum by evaporating a MoO3 target with a CO2 laser operating in continuous wave mode. Additionally, a method is proposed to calculate the optical constants of the material, using the theoretical simulation of experimental transmittance spectra in the visible and near infrared region. This simulation yields the spectral variations of the refraction index and absorption coefficient, the energy gap and the material's thickness. It also points at the influence of the substrate temperature and oxygen pressure in the chamber, on the optical properties of the material.
+
+The MoO3 thin films were deposited using the laser thermal evaporation technique Fig. 1
+                        . A light beam coming from a CO2 laser is shined on a target made up of MoO3 powder (99.9%). The beam has a wavelength of 10.6 μm and an intensity of 0.73 W/mm2. The beam is introduced into the vacuum chamber through a GaAs lens and focused, with a Copper mirror, on the target. The MoO3 powder is hand pressed to avoid its dispersion toward the substrates by the application of the beam. The heat produced by the laser sublimates the material and it is deposited on common glass substrates (15 mm long and 10 mm wide) placed 10 cm above the powder.
+
+The MoO3 target is rotated at about 20 rpm to avoid the formation of an irregular hole at the incidence point, which produces inhomogeneities on the sample thickness and modifies the deposition rate of the material.
+
+Samples were prepared in vacuum and under different oxygen pressures. The optical constants were obtained in two series of samples. The first series was prepared in vacuum at different substrate temperatures ranging from room temperature to 350 °C, chamber pressure of 6×10−4 Pa, deposition time of 1 min and laser intensity of 0.73 W/mm2. The second series was carried out with constant substrate temperature of 300 °C, deposition time of 1 min, laser intensity of 0.23 W/mm2 and different oxygen pressures in the chamber. In this series, the vacuum chamber was taken to an initial pressure of 6×10−4 Pa.
+
+Diffraction oxidations states of both MoO3 powder and prepared samples were determined by X-ray photoelectron spectroscopy (XPS), using a VG-ESCA LAB 250 spectrometer with an energy resolution of 0.4 eV. Al Kα (1486.6 eV) radiation was used as the excitation source. The spectra were recorded in fixed analyzer transmission mode, the pass energy being 50 eV. The scanning of the spectra was done at pressures of 5×10−7 Pa. Binding energies were measured for O (1s) and Mo (3p). Peaks were fitted using a combination of Gaussian and Lorentzian functions. This deconvolution was used to quantify the sensitive factors.
+
+The films were also characterized through transmittance measurements in the visible and near infrared regions, using a double beam PERKIN ELMER lambda 2 spectrophotometer, operating at normal incidence on the sample surface.
+
+In order to examine the nature of surface species formed on the films, the MoO3 powder and the samples were investigated using the XPS technique. For the purpose of better comparison, the photoelectron peaks of Mo 3p and O 1s pertaining to MoO3 powder and films are presented, together in Figs. 2 and 3
+                        
+                        , respectively. Fig. 2 shows the XPS spectra characteristic of the MoO3 powder (continuum line), together with spectra of films fabricated at substrate temperatures of 200 °C (dotted line) and 100 °C (dashed line) at oxygen pressure of 6.7×10−1 Pa. Fig. 2 shows the binding energies of Mo 3p photoelectron peaks at 398.4±0.1 and 415.8±0.1 eV for Mo 3p3/2 and Mo 3p1/2 lines, respectively. The spectra shows a principal peak at 398.4±0.1 eV which agrees well with the oxidation state Mo6+, suggesting the presence of MoO3 in the departure material and in the samples.
+
+In Fig. 3 are shown the photoelectron peaks of O 1s, obtained in the MoO3 powder and the same samples described in Fig. 2. The O's 1s profiles are complicated due to the oxygen overlapping contribution from other species. In sample prepared at substrate temperature of 200 °C, the quantification process reveals evidence of the presence of three species of O; one at 530.2±0.1 eV related with molybdenum–oxygen bonds. Another at 531.8±0.1 eV in a spectral area corresponding to the presence of OH groups and the last one at 533.0±0.1 eV, associated with water adsorbed at the sample's surface. The spectrum of a sample, prepared at a substrate temperature of 100 °C, suggests the presence of two oxygen species: one at 530.1±0.1 eV associated with Mo–O bonds; the other is located at 532.4±0.1 eV, corresponding to water. No cleaning procedure was performed on the samples before the XPS analysis; the water and OH bonds are probably appearing due to the samples air exposition after the evaporation procedure.
+
+The quantification process also yields evidence of the presence of the phase MoO2 in the samples. This phase appears in all the prepared samples, inclusive in those deposited in oxygen atmosphere.
+
+The transmittance is calculated using the optical system of a thin film deposited on a semi-infinitely thick substrate [8], which could or could not be absorbent (Fig. 4
+                        ).
+
+The film has a refraction index n
+                        1, an extinction coefficient k
+                        1 and thickness d
+                        1. To the substrate are assigned: refraction index n
+                        2, extinction coefficient k
+                        2 and semi-infinite thickness; n
+                        1, d
+                        1 and k
+                        1 are unknown in our case; n
+                        2=1.52 and k
+                        2=0 in the analyzed spectral region; n
+                        0=1 is the air's refraction index.
+
+The theoretical expression for the transmittance of the film-substrate system is given as a function of λ, the wavelength, and α
+                        1, the absorption coefficient of the thin film.
+                           
+                              (1)
+                              
+                                 T
+                                 =
+                                 
+                                    
+                                       
+                                          n
+                                          2
+                                       
+                                    
+                                    
+                                       
+                                          n
+                                          0
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       [
+                                       (
+                                       1
+                                       +
+                                       
+                                          g
+                                          1
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       
+                                          h
+                                          1
+                                          2
+                                       
+                                       ]
+                                       
+                                          [
+                                          (
+                                          1
+                                          +
+                                          
+                                             g
+                                             2
+                                          
+                                          
+                                             )
+                                             2
+                                          
+                                          +
+                                          
+                                             h
+                                             2
+                                             2
+                                          
+                                          ]
+                                       
+                                    
+                                    
+                                       
+                                          e
+                                          
+                                             2
+                                             
+                                                α
+                                                1
+                                             
+                                          
+                                       
+                                       +
+                                       (
+                                       
+                                          g
+                                          1
+                                          2
+                                       
+                                       +
+                                       
+                                          h
+                                          1
+                                          2
+                                       
+                                       )
+                                       (
+                                       
+                                          g
+                                          2
+                                          2
+                                       
+                                       +
+                                       
+                                          h
+                                          2
+                                          2
+                                       
+                                       )
+                                       
+                                          e
+                                          
+                                             −
+                                             2
+                                             
+                                                α
+                                                1
+                                             
+                                          
+                                       
+                                       +
+                                       C
+                                       
+                                       cos
+                                       
+                                       2
+                                       
+                                          γ
+                                          1
+                                       
+                                       +
+                                       D
+                                       
+                                       sin
+                                       
+                                       2
+                                       
+                                          γ
+                                          1
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    g
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          n
+                                          0
+                                          2
+                                       
+                                       −
+                                       
+                                          n
+                                          1
+                                          2
+                                       
+                                       −
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          0
+                                       
+                                       +
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (3)
+                              
+                                 
+                                    h
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       
+                                          n
+                                          0
+                                       
+                                       
+                                          k
+                                          1
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          0
+                                       
+                                       +
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (4)
+                              
+                                 
+                                    g
+                                    2
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          n
+                                          1
+                                          2
+                                       
+                                       −
+                                       
+                                          n
+                                          2
+                                          2
+                                       
+                                       +
+                                       
+                                          k
+                                          1
+                                          2
+                                       
+                                       −
+                                       
+                                          k
+                                          2
+                                          2
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          1
+                                       
+                                       +
+                                       
+                                          n
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       (
+                                       
+                                          k
+                                          1
+                                       
+                                       +
+                                       
+                                          k
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    h
+                                    2
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       (
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          k
+                                          2
+                                       
+                                       −
+                                       
+                                          n
+                                          2
+                                       
+                                       
+                                          k
+                                          1
+                                       
+                                       )
+                                    
+                                    
+                                       (
+                                       
+                                          n
+                                          1
+                                       
+                                       +
+                                       
+                                          n
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                       +
+                                       (
+                                       
+                                          k
+                                          1
+                                       
+                                       +
+                                       
+                                          k
+                                          2
+                                       
+                                       
+                                          )
+                                          2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              
+                                 
+                                    α
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       ⁢
+                                       π
+                                       
+                                          k
+                                          1
+                                       
+                                       
+                                          d
+                                          1
+                                       
+                                    
+                                    λ
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (7)
+                              
+                                 
+                                    γ
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       2
+                                       ⁢
+                                       π
+                                       
+                                          n
+                                          1
+                                       
+                                       
+                                          d
+                                          1
+                                       
+                                    
+                                    λ
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 C
+                                 =
+                                 2
+                                 (
+                                 
+                                    g
+                                    1
+                                 
+                                 
+                                    g
+                                    2
+                                 
+                                 −
+                                 
+                                    h
+                                    1
+                                 
+                                 
+                                    h
+                                    2
+                                 
+                                 )
+                              
+                           
+                        
+                        
+                           
+                              (9)
+                              
+                                 D
+                                 =
+                                 2
+                                 (
+                                 
+                                    g
+                                    1
+                                 
+                                 
+                                    h
+                                    2
+                                 
+                                 +
+                                 
+                                    h
+                                    1
+                                 
+                                 
+                                    g
+                                    2
+                                 
+                                 )
+
+In the problem, n
+                        1 and k
+                        1 depend on the wavelength and are unknown; the sample thickness is also unknown. These constants are obtained through the theoretical simulation of the experimental transmittance spectra, using the following relation:
+                           
+                              (10)
+                              
+                                 
+                                    T
+                                    Theo
+                                 
+                                 −
+                                 
+                                    T
+                                    exp
+                                 
+                                 <
+                                 0.001
+
+Where T
+                        Theo is the theoretical transmittance value obtained with Eq. (1) and T
+                        exp is the experimental value.
+
+Fig. 5
+                         shows a characteristic transmittance spectrum for a MoO3 thin film.
+
+The spectrum presents a high absorption zone for wavelengths shorter than 450 nm and a semitransparent zone from 450 through 1000 nm. The semitransparent zone presents quite useful interference maxima and minima because, from their spectral positions, we can calculate initial values for the refraction index and the sample thickness [9].
+
+Carefully observing the spectrum, we notice that around 850 nm, the transmittance values decrease. This is associated to the presence in the material of a wide absorption band. This absorption band interferes with the spectrum diminishing the amplitudes of maxima and minima and modifying their wavelength positions, causing a dispersion in the calculated value of d. It is observed, in theoretical simulations, that the wavelength shifts for maxima and minima are opposite, compensating in this way for the value of d.
+
+The calculation can be summarized in the following steps:
+
+We assume initially the film to be totally transparent between 450 and 1000 nm to calculate approximate values for the optical path n
+                        1
+                        d
+                        1 inside the material: the sample thickness is calculated using the relation:
+                           
+                              (11)
+                              
+                                 
+                                    d
+                                    1
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          λ
+                                          1
+                                       
+                                       
+                                          λ
+                                          2
+                                       
+                                    
+                                    
+                                       2
+                                       (
+                                       
+                                          λ
+                                          1
+                                       
+                                       
+                                          n
+                                          12
+                                       
+                                       −
+                                       
+                                          λ
+                                          2
+                                       
+                                       
+                                          n
+                                          11
+                                       
+                                       )
+                                    
+                                 
+                              
+                           
+                        where n
+                        11 and n
+                        12 are the MoO3's refraction indexes associated to two consecutive maxima (or minima) located at the respective wavelengths λ
+                        1 and λ
+                        2.
+
+n
+                        11 and n
+                        12 are obtained using the W–D model of the simple harmonic oscillator proposed by Wemple and DiDomenico [10]:
+                           
+                              (12)
+                              
+                                 
+                                    n
+                                    1
+                                    2
+                                 
+                                 −
+                                 1
+                                 =
+                                 
+                                    
+                                       
+                                          E
+                                          d
+                                       
+                                       
+                                          E
+                                          o
+                                       
+                                    
+                                    
+                                       
+                                          E
+                                          o
+                                          2
+                                       
+                                       −
+                                       
+                                          ℏ
+                                          2
+                                       
+                                       
+                                          ω
+                                          2
+
+Where ℏω is the energy of the photon, E
+                        0 the energy of the oscillator and E
+                        d the dispersion energy. The value of the refraction index is found through the numerical calculation of the values for E
+                        0 and E
+                        d.
+
+The criterion used in this initial part of the process is to seek that the wavelength positions for maxima and minima of the theoretical spectrum be very close to the experimental ones. The d
+                        1 values obtained from the different couples of maxima and/or minima are averaged out to get an acceptable final value.
+
+Once obtained the values for the optical path inside the material, the absorption in the low absorption zone (from 450 through 1000 nm) is included to recalculate the optical path using Eq. (10). This translates into an improvement on the previous values for thickness and refraction index. The refraction index for the high absorption region is calculated with Eq. (12) and, finally, the absorption corresponding to the strong absorption zone is found using Eq. (10).
+
+Fig. 6
+                         shows experimental transmittance spectra obtained in the films of the first series of samples. The same figure depicts the respective theoretical spectra. The samples of this figure present absorption throughout the entire spectrum which hinders the calculations. It is worth pointing out here that the calculation method is not feasible if the samples do not present interference maxima and minima.
+
+The refractive index spectra obtained from the calculation are shown in Fig. 7
+                        .
+
+Fig. 8
+                         presents the spectral curves for the calculated absorption coefficients of the samples. The absorption band described in the transmittance spectrum appears around 850 nm (1.4 eV); it is a very intense and wide band with values around 2.5×104 cm−1. No noticeable wavelength shifts for the peak are observed when the substrate temperature is changed. It is good to point out that other authors report, for this band, absorption values of the order of 104 cm−1
+                        [7].
+
+It is also observed in Fig. 8 that the energy gap of the material changes with the substrate temperature, shifting toward low energy regions as the temperature increases.
+
+Table 1
+                         shows the calculated thickness values, refraction index for 600 nm and gap of the material, for the samples of series 1. The gap was calculated by extrapolating the curve (αhν)2 with the energy axis. It is observed, in the table, a refraction index of about 1.8 for samples prepared at substrate temperatures under 250 °C; the latter tends to rise for substrate temperatures over 250 °C. These values agree with results obtained by other authors [7].
+
+Fig. 9
+                         shows transmittance spectra obtained for the samples of the second series. Fig. 10
+                         presents the spectra for the refraction index and Fig. 11
+                         depicts the absorption coefficients. The absorption curves show a reduction on the value of the red absorption band peak of almost one order of magnitude. On the other hand, a clear shift toward high-energy regions is observed for the gap of the material when the oxygen pressure in the chamber is increased.
+
+The influence of oxygen on the optical properties of the material is outstanding; the samples prepared in oxygen atmosphere present a shift of the gap toward high energies as well as a reduction of the red absorption band when their oxygen content in the chamber is raised. This band is associated to oxygen vacancies which increase when the substrate temperature is raised [11]. The samples prepared in vacuum and high substrate temperatures presented oxygen deficiency because the red absorption band was increased and the gap of the material was shifted toward low-energy regions.
+
+MoO3 thin films were prepared, in this work, using a CO2 laser set up in continuous wave mode. The XPS analysis revealed a mixture of the phases MoO3 and MoO2 in all the prepared films. A simple calculation procedure was used to determine the influence of the substrate temperature and chamber oxygen pressure on the optical properties of the material. It was found that the gap of the material shifts toward higher-energy regions as the oxygen content of the sample is risen. Furthermore, the samples presented an absorption band at 880 nm, associated with oxygen vacancies in them; this band decreases as the oxygen content of the material rises. Samples prepared with substrate temperature under 250 °C and those prepared with high oxygen content in the chamber presented similar optical properties, indicating that low temperatures favor the rise of oxygen content of the samples. Those samples prepared with high substrate temperatures presented oxygen vacancies.
+
+The authors wish to thank the International Programme in the Physical Sciences (IPPS), Uppsala University, and the Research Division of the Universidad Nacional de Colombia (DIB) for their economic support to this work.

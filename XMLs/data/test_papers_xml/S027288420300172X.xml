@@ -1,0 +1,1649 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S027288420300172X</prism:url><dc:identifier>doi:10.1016/j.ceramint.2003.07.004</dc:identifier><eid>1-s2.0-S027288420300172X</eid><prism:doi>10.1016/j.ceramint.2003.07.004</prism:doi><pii>S0272-8842(03)00172-X</pii><dc:title>Thermal and mechanical properties of cordierite, mullite and steatite produced by plasma spraying </dc:title><prism:publicationName>Ceramics International</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02728842</prism:issn><prism:volume>30</prism:volume><prism:issueIdentifier>4</prism:issueIdentifier><prism:startingPage>597</prism:startingPage><prism:endingPage>603</prism:endingPage><prism:pageRange>597-603</prism:pageRange><prism:number>4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2004-12-31</prism:coverDate><prism:coverDisplayDate>2004</prism:coverDisplayDate><prism:copyright>Copyright © 2003 Techna Group S.r.l. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Techna Group S.r.l. Published by Elsevier Ltd.</prism:publisher><dc:creator>Rohan, P</dc:creator><dc:creator>Neufuss, K</dc:creator><dc:creator>Matějíček, J</dc:creator><dc:creator>Dubský, J</dc:creator><dc:creator>Prchlı́k, L</dc:creator><dc:creator>Holzgartner, C</dc:creator><dc:description>
+                  Cordierite, mullite and steatite are silicate materials widely used in the ceramics industry. There is, however, only sparse information on their application in plasma spraying and properties of sprayed materials. Plasma sprayed deposits of cordierite, mullite and steatite contain amorphous phases as the result of rapid cooling of molten particles. The amorphous phase has a significant influence on physical properties, especially in connection with heat treatment.
+                  This article deals with phase changes of cordierite, mullite and steatite, resulting from plasma deposition. Special attention is paid to amorphous phase crystallization in subsequent heat treatment.
+                  Plasma sprayed deposits were produced using a water stabilized plasma torch WSP®. The processes taking place in the deposits were examined primarily by differential thermal analysis (DTA), thermal dilatometry (TMA) and X-ray diffraction (XRD). These measurements were complemented by the determination of physical properties (namely, density, Young’s modulus and strength) and morphological observations. Important thermal characteristics like crystallization temperature and the coefficient of thermal expansion (CTE) of all materials were determined.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>B. Porosity</dcterms:subject><dcterms:subject>C. Thermal properties</dcterms:subject><dcterms:subject>C. Mechanical properties</dcterms:subject><dcterms:subject>D. Silicate</dcterms:subject><dcterms:subject>Plasma spraying</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S027288420300172X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S027288420300172X" rel="scidir"/></coredata><objects><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="159" height="12" size="607">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="141" height="12" size="583">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="86" size="2867">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="329" height="226" size="25752">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2v4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="29" height="91" size="1870">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr2v4.sml?httpAccept=%2A%2F%2A</object><object ref="gr2v4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="672" height="2119" size="820963">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr2v4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="109" height="93" size="2127">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="273" height="234" size="16797">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="70" size="1982">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="371" height="209" size="19700">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="81" size="2100">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="375" height="242" size="21215">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="68" size="2060">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="328" height="178" size="16371">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="79" size="2436">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="300" height="190" size="19337">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="85" size="1368">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="370" height="251" size="6127">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr10.gif?httpAccept=%2A%2F%2A</object><object ref="gr11" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="84" size="2305">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr11.sml?httpAccept=%2A%2F%2A</object><object ref="gr11" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="334" height="225" size="17653">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr11.jpg?httpAccept=%2A%2F%2A</object><object ref="gr12" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="92" size="3621">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr12.sml?httpAccept=%2A%2F%2A</object><object ref="gr12" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="369" height="271" size="35057">https://api.elsevier.com/content/object/eid/1-s2.0-S027288420300172X-gr12.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>2342518903</scopus-id><scopus-eid>2-s2.0-2342518903</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/2342518903" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271590</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ceramics International</xocs:srctitle>
+      <xocs:normalized-srctitle>CERAMICSINTERNATIONAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20040428">2004-04-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20040428">2004-04-28</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-13T09:26:48</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S027288420300172X</xocs:eid>
+      <xocs:pii-formatted>S0272-8842(03)00172-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S027288420300172X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ceramint.2003.07.004</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0272884200X01289</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T06:19:18.398036-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20040101</xocs:date-search-begin>
+      <xocs:date-search-end>20041231</xocs:date-search-end>
+      <xocs:year-nav>2004</xocs:year-nav>
+      <xocs:indexeddate epoch="1083110400">2004-04-28T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast footnotes primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0272-8842</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02728842</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>30</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>30</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 30, Issue 4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>15</xocs:sort-order>
+      <xocs:first-fp>597</xocs:first-fp>
+      <xocs:last-lp>603</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>597</xocs:first-page>
+         <xocs:last-page>603</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2004</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2004</xocs:cover-date-text>
+      <xocs:cover-date-start>2004-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2004-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2004</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2003 Techna Group S.r.l. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>THERMALMECHANICALPROPERTIESCORDIERITEMULLITESTEATITEPRODUCEDBYPLASMASPRAYING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ROHAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Structure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Thermal properties</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Cordierite</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Mullite</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Steatite</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.4</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Density</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mechanical properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-last-lp>71</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>RAMASWAMY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>497</xocs:ref-first-fp>
+            <xocs:ref-last-lp>504</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>SCHNEIDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2073</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2076</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4"/>
+         <xocs:ref-info refid="BIB5"/>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4414</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4418</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>811</xocs:ref-first-fp>
+            <xocs:ref-last-lp>815</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8"/>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>KOKINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>77</xocs:ref-first-fp>
+            <xocs:ref-last-lp>82</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>RAMASWAMY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>729</xocs:ref-first-fp>
+            <xocs:ref-last-lp>742</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>59</xocs:ref-first-fp>
+            <xocs:ref-last-lp>67</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12"/>
+         <xocs:ref-info refid="BIB13"/>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>NEUFUSS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>434</xocs:ref-first-fp>
+            <xocs:ref-last-lp>438</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15"/>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>OLIVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1564</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1583</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>DUBSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>419</xocs:ref-first-fp>
+            <xocs:ref-last-lp>427</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ROHANX2004X597</xocs:refkey3>
+         <xocs:refkey4lp>ROHANX2004X597X603</xocs:refkey4lp>
+         <xocs:refkey4ai>ROHANX2004X597XP</xocs:refkey4ai>
+         <xocs:refkey5>ROHANX2004X597X603XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0272-8842(03)00172-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S027288420300172X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S027288420300172X</xocs:eid>
+         <xocs:doi>10.1016/j.ceramint.2003.07.004</xocs:doi>
+         <xocs:cid>271590</xocs:cid>
+         <xocs:timestamp>2010-12-22T18:25:48.488176-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2004-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2004-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/MAIN/application/pdf/d6b2e1bbb0faa07dff0e5a300f4933a0/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/MAIN/application/pdf/d6b2e1bbb0faa07dff0e5a300f4933a0/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>234735</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S027288420300172X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/PREVIEW/image/png/954925fa5c4457c2d78def6b613131e3/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/PREVIEW/image/png/954925fa5c4457c2d78def6b613131e3/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>66253</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/STRIPIN/image/gif/f81cff0c2da896898192bda498453d75/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/STRIPIN/image/gif/f81cff0c2da896898192bda498453d75/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>607</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>159</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/STRIPIN/image/gif/f37ec755b10419cf8a1f7181abc23f26/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/STRIPIN/image/gif/f37ec755b10419cf8a1f7181abc23f26/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>583</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>141</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr1/THUMBNAIL/image/gif/764ef5f1192cbb00c5912e61a001d4e4/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr1/THUMBNAIL/image/gif/764ef5f1192cbb00c5912e61a001d4e4/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2867</xocs:filesize>
+               <xocs:pixel-height>86</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr1/DOWNSAMPLED/image/jpeg/fd9bb5b9209e4ceec59098ee655dae78/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr1/DOWNSAMPLED/image/jpeg/fd9bb5b9209e4ceec59098ee655dae78/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25752</xocs:filesize>
+               <xocs:pixel-height>226</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr2v4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr2v4/THUMBNAIL/image/gif/f839973ee69672aa7a23ae4e5bc335a0/gr2v4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr2v4/THUMBNAIL/image/gif/f839973ee69672aa7a23ae4e5bc335a0/gr2v4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2v4</xocs:file-basename>
+               <xocs:filename>gr2v4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1870</xocs:filesize>
+               <xocs:pixel-height>91</xocs:pixel-height>
+               <xocs:pixel-width>29</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr2v4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr2v4/DOWNSAMPLED/image/jpeg/4a086d572b7fbc9901a2918199999a51/gr2v4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr2v4/DOWNSAMPLED/image/jpeg/4a086d572b7fbc9901a2918199999a51/gr2v4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2v4</xocs:file-basename>
+               <xocs:filename>gr2v4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>820963</xocs:filesize>
+               <xocs:pixel-height>2119</xocs:pixel-height>
+               <xocs:pixel-width>672</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr5/THUMBNAIL/image/gif/75036d3ff7782f0df1bab47276382d3a/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr5/THUMBNAIL/image/gif/75036d3ff7782f0df1bab47276382d3a/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2127</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>109</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr5/DOWNSAMPLED/image/jpeg/aee3d60217949e4cfe32e0468284a167/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr5/DOWNSAMPLED/image/jpeg/aee3d60217949e4cfe32e0468284a167/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16797</xocs:filesize>
+               <xocs:pixel-height>234</xocs:pixel-height>
+               <xocs:pixel-width>273</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr6/THUMBNAIL/image/gif/57c204222fcc6200d8c92022da6c71f6/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr6/THUMBNAIL/image/gif/57c204222fcc6200d8c92022da6c71f6/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1982</xocs:filesize>
+               <xocs:pixel-height>70</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr6/DOWNSAMPLED/image/jpeg/b52967ae3bcfd40bce8a2a8275f48217/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr6/DOWNSAMPLED/image/jpeg/b52967ae3bcfd40bce8a2a8275f48217/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19700</xocs:filesize>
+               <xocs:pixel-height>209</xocs:pixel-height>
+               <xocs:pixel-width>371</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr7/THUMBNAIL/image/gif/ef90994e439add0fa6830883af8527f1/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr7/THUMBNAIL/image/gif/ef90994e439add0fa6830883af8527f1/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2100</xocs:filesize>
+               <xocs:pixel-height>81</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr7/DOWNSAMPLED/image/jpeg/2a8192877e2d34d138ce03d4ec109430/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr7/DOWNSAMPLED/image/jpeg/2a8192877e2d34d138ce03d4ec109430/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21215</xocs:filesize>
+               <xocs:pixel-height>242</xocs:pixel-height>
+               <xocs:pixel-width>375</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr8/THUMBNAIL/image/gif/36e487453bdc0363458bdbb793050a12/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr8/THUMBNAIL/image/gif/36e487453bdc0363458bdbb793050a12/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2060</xocs:filesize>
+               <xocs:pixel-height>68</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr8/DOWNSAMPLED/image/jpeg/81829bae74417148e7b0f24f5275d4dd/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr8/DOWNSAMPLED/image/jpeg/81829bae74417148e7b0f24f5275d4dd/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16371</xocs:filesize>
+               <xocs:pixel-height>178</xocs:pixel-height>
+               <xocs:pixel-width>328</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr9/THUMBNAIL/image/gif/8506178e638d25209d32509c3ddd5f16/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr9/THUMBNAIL/image/gif/8506178e638d25209d32509c3ddd5f16/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2436</xocs:filesize>
+               <xocs:pixel-height>79</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr9/DOWNSAMPLED/image/jpeg/69bc849ab32089d7c86759449411eeeb/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr9/DOWNSAMPLED/image/jpeg/69bc849ab32089d7c86759449411eeeb/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19337</xocs:filesize>
+               <xocs:pixel-height>190</xocs:pixel-height>
+               <xocs:pixel-width>300</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr10/THUMBNAIL/image/gif/77b2268ac4d5b5fd83e21151f5368ccc/gr10.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr10/THUMBNAIL/image/gif/77b2268ac4d5b5fd83e21151f5368ccc/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1368</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr10/DOWNSAMPLED/image/gif/16231510b10e4e2b84a0567c6dd7fcb7/gr10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr10/DOWNSAMPLED/image/gif/16231510b10e4e2b84a0567c6dd7fcb7/gr10.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>6127</xocs:filesize>
+               <xocs:pixel-height>251</xocs:pixel-height>
+               <xocs:pixel-width>370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr11.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr11/THUMBNAIL/image/gif/a4a31be288e94081ee4d6e06e27194c3/gr11.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr11/THUMBNAIL/image/gif/a4a31be288e94081ee4d6e06e27194c3/gr11.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2305</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr11/DOWNSAMPLED/image/jpeg/f539ca1682fcfb677b762e9d5a3d93bf/gr11.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr11/DOWNSAMPLED/image/jpeg/f539ca1682fcfb677b762e9d5a3d93bf/gr11.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17653</xocs:filesize>
+               <xocs:pixel-height>225</xocs:pixel-height>
+               <xocs:pixel-width>334</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr12.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr12/THUMBNAIL/image/gif/a228e0747700d02eb9aa00b6593776a1/gr12.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr12/THUMBNAIL/image/gif/a228e0747700d02eb9aa00b6593776a1/gr12.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3621</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288420300172X-gr12.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288420300172X/gr12/DOWNSAMPLED/image/jpeg/976417adbae11d3129e49c08aba91fb6/gr12.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288420300172X/gr12/DOWNSAMPLED/image/jpeg/976417adbae11d3129e49c08aba91fb6/gr12.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35057</xocs:filesize>
+               <xocs:pixel-height>271</xocs:pixel-height>
+               <xocs:pixel-width>369</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>CERI</jid>
+            <aid>1573</aid>
+            <ce:pii>S0272-8842(03)00172-X</ce:pii>
+            <ce:doi>10.1016/j.ceramint.2003.07.004</ce:doi>
+            <ce:copyright type="society" year="2003">Techna Group S.r.l.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Denotation of temperatures used in the calculations.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Figs. 2–4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Typical structures of plasma sprayed cordierite, mullite and steatite (cross-sections).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2v4"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Thermal expansion and DTA curve of the cordierite deposit at 5<ce:hsp sp="0.25"/>K<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup> heating rate.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="FIG4">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Thermal expansion of plasma sprayed cordierite.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="FIG5">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Thermal expansion of plasma sprayed mullite, during the first and second heating; DTA curve in the crystallization region.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="FIG6">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Crystallization peak during first heating of mullite.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="FIG7">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">DTA and TMA curves of steatite deposit in the crystallization region.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:figure id="FIG8">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Thermal expansion curves of plasma sprayed steatite in two subsequent heating cycles.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr10"/>
+            </ce:figure>
+            <ce:figure id="FIG9">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Thermal expansion curves of cordierite, mullite and steatite during the first heating.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr11"/>
+            </ce:figure>
+            <ce:figure id="FIG10">
+               <ce:label>Fig. 12</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Correlation of the in-plane Young’s modulus obtained by 4-point bending and indentation techniques for as-sprayed and heat-treated cordierite and mullite.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr12"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Results of thermal analyses of cordierite, mullite and steatite (denotation of temperatures according to <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>)</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <tbody>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cordierite</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mullite</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Steatite</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">TMA</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="1.0"/>As sprayed CTE 150–620<hsp sp="0.25"/>°C (10<sup loc="post">−6</sup>
+                           <hsp sp="0.25"/>K<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="1.0"/>Annealed CTE 150–620<hsp sp="0.25"/>°C (10<sup loc="post">−6</sup>
+                           <hsp sp="0.25"/>K<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="1.0"/>
+                           <italic>T</italic>
+                           <inf loc="post">1</inf> (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">849.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">951.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">804.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="1.0"/>
+                           <italic>T</italic>
+                           <inf loc="post">cryst</inf> (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">915.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">969.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">855.7</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="1.0"/>
+                           <italic>T</italic>
+                           <inf loc="post">inf</inf> (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">936.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">972.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">882.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="1.0"/>
+                           <italic>T</italic>
+                           <inf loc="post">2</inf> (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">967.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">979.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">995.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="1.0"/>Contraction (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.43</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.25</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <vsp sp="0.5"/>DTA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <vsp sp="0.5"/>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <vsp sp="0.5"/>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="1.0"/>Onset (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">937.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">973.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">862.35</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="1.0"/>Peak top (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">958.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">978.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">907.0</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL2" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Density and porosity of mullite, cordierite and steatite</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <tbody>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Density (g<hsp sp="0.25"/>cm<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Apparent density (g<hsp sp="0.25"/>cm<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Open porosity (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Closed porosity (%)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mullite feedstock</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.073</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mullite SD 350<hsp sp="0.25"/>mm deposit</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.851</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.648</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cordierite feedstock</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.539</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cordierite SD 350<hsp sp="0.25"/>mm deposit</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.543</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.346</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.7</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Steatite feedstock</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.857</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Steatite SD 350<hsp sp="0.25"/>mm deposit</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.626</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.512</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.3</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL3" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mechanical properties of plasma sprayed silicates</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col6" rowsep="1">Technique</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4" rowsep="1">Four-point bending</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" namest="col5" nameend="col6" rowsep="1">Indentation</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>E</italic>
+                           <inf loc="post">total</inf> (GPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>E</italic>
+                           <inf loc="post">init</inf> (GPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">MOR (MPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>E</italic>
+                           <inf loc="post">surf</inf> (GPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>E</italic>
+                           <inf loc="post">cross</inf> (GPa)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Steatite 350</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">34 ± 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Steatite 450</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">28 ± 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cordierite 350</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">40 ± 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">38 ± 9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">39 ± 9</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cordierite 450</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">34 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mullite 350</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27 ± 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">26 ± 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">91 ± 8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">57 ± 5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">47 ± 4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mullite 450</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">22 ± 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">23 ± 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">75 ± 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cordierite 350 HT</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">55 ± 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">57 ± 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">51 ± 6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">66 ± 6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">65 ± 10</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cordierite 450 HT</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">56 ± 7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">60 ± 4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">52 ± 8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mullite 350 HT</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">21 ± 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">25 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">29 ± 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">52 ± 5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">40 ± 5</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">The numbers in the first column denote spraying distance in mm. Samples marked ‘HT’ are heat-treated, all others are as-sprayed. <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">total</ce:inf> is the in-plane Young’s modulus calculated from the entire loading period (up to fracture), <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">init</ce:inf> is Young’s modulus at the start of loading, and MOR is the modulus of rupture, also called flexural strength. <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">surf</ce:inf> and <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">cross</ce:inf> denote Young’s modulus determined from indentation on the deposit surface and cross-section, respectively.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Thermal and mechanical properties of cordierite, mullite and steatite produced by plasma spraying</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>P</ce:given-name>
+                  <ce:surname>Rohan</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>K</ce:given-name>
+                  <ce:surname>Neufuss</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J</ce:given-name>
+                  <ce:surname>Matějíček</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J</ce:given-name>
+                  <ce:surname>Dubský</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>L</ce:given-name>
+                  <ce:surname>Prchlı́k</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="FN1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>C</ce:given-name>
+                  <ce:surname>Holzgartner</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Institute of Plasma Physics, Za Slovankou 3, Praha 18221, Czech Republic</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Center for Thermal Spray Research, State University of New York, Stony Brook, NY 11794-2275, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author. Fax: +1-420-286586389.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="FN1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Present address: Skoda Energo, Tylora 57, 31600 Plzen, Czech Republic.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="20" month="5" year="2003"/>
+            <ce:date-revised day="27" month="5" year="2003"/>
+            <ce:date-accepted day="1" month="7" year="2003"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Cordierite, mullite and steatite are silicate materials widely used in the ceramics industry. There is, however, only sparse information on their application in plasma spraying and properties of sprayed materials. Plasma sprayed deposits of cordierite, mullite and steatite contain amorphous phases as the result of rapid cooling of molten particles. The amorphous phase has a significant influence on physical properties, especially in connection with heat treatment.</ce:simple-para>
+                  <ce:simple-para view="all">This article deals with phase changes of cordierite, mullite and steatite, resulting from plasma deposition. Special attention is paid to amorphous phase crystallization in subsequent heat treatment.</ce:simple-para>
+                  <ce:simple-para view="all">Plasma sprayed deposits were produced using a water stabilized plasma torch WSP<ce:sup loc="post">®</ce:sup>. The processes taking place in the deposits were examined primarily by differential thermal analysis (DTA), thermal dilatometry (TMA) and X-ray diffraction (XRD). These measurements were complemented by the determination of physical properties (namely, density, Young’s modulus and strength) and morphological observations. Important thermal characteristics like crystallization temperature and the coefficient of thermal expansion (CTE) of all materials were determined.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" xml:lang="en">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>B. Porosity</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>C. Thermal properties</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>C. Mechanical properties</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>D. Silicate</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Plasma spraying</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section id="SEC1" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Cordierite ceramics, steatite ceramics and mullite are meta-silicates that form the main components of the MgO–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–SiO<ce:inf loc="post">2</ce:inf> system. These ceramic materials are widely applied in industry.</ce:para>
+                  <ce:para view="all">Crystalline cordierite is a major component of so-called cordierite ceramics. This type of ceramics consists of the MgO:Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>:SiO<ce:inf loc="post">2</ce:inf> ternary system components in the 2:2:5 ratio. Cordierite ceramics is used mainly in applications requiring high thermal shock resistance, thanks to its very low coefficient of thermal expansion. Cordierite crystallizes in an orthorhombic, pseudohexagonal system, its density is 2.53<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−3</ce:sup> and melting point 1470<ce:hsp sp="0.25"/>°C. Its mean CTE depends on the cordierite content in the ceramic; typical values are 1.5×10<ce:sup loc="post">−6</ce:sup> to 4.0×10<ce:sup loc="post">−6</ce:sup>
+                     <ce:hsp sp="0.25"/>C<ce:sup loc="post">−1</ce:sup> in the 25–700<ce:hsp sp="0.25"/>°C temperature range. (For plasma sprayed cordierite, 2.94×10<ce:sup loc="post">−6</ce:sup>
+                     <ce:hsp sp="0.25"/>C<ce:sup loc="post">−1</ce:sup> is mentioned in <ce:cross-ref refid="BIB1">[1]</ce:cross-ref>.)</ce:para>
+                  <ce:para view="all">Mullite (3Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>·2SiO<ce:inf loc="post">2</ce:inf>) is another important ceramic material, featuring good thermal <ce:cross-ref refid="BIB2">[2]</ce:cross-ref> and chemical stability. In the entire temperature range of the crystalline phase, there are no polymorphic transitions that would lead to volumetric changes <ce:cross-ref refid="BIB3">[3]</ce:cross-ref>. It has an orthorhombic crystal lattice, its density is 3.0<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−3</ce:sup> and melting point 1810<ce:hsp sp="0.25"/>°C.</ce:para>
+                  <ce:para view="all">Steatite ceramics, whose main component is MgSiO<ce:inf loc="post">3</ce:inf>, features high mechanical strength and a low loss factor, and therefore it is widely used in electrical engineering for high frequency applications <ce:cross-ref refid="BIB4">[4]</ce:cross-ref>. In industrial ceramics, it is usually present as an enstatite phase, whose density is 3.21<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−3</ce:sup>, melting point 1557<ce:hsp sp="0.25"/>°C and crystal lattice is orthorhombic.</ce:para>
+                  <ce:para view="all">Plasma spraying of cordierite, mullite and steatite is only sparsely mentioned in literature and characteristics of the sprayed materials are often inadequate.</ce:para>
+                  <ce:para view="all">Substrate protection by thermally sprayed “substantially pure cordierite to form porous coating” is the subject of a European patent <ce:cross-ref refid="BIB5">[5]</ce:cross-ref>. The amorphous nature of plasma sprayed cordierite was confirmed in <ce:cross-ref refid="BIB6">[6]</ce:cross-ref> by XRD and TEM. Crystallization to μ-cordierite above 830<ce:hsp sp="0.25"/>°C and an irreversible transition a to high-cordierite around 1000<ce:hsp sp="0.25"/>°C was observed <ce:cross-ref refid="BIB7">[7]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Plasma sprayed mullite is mentioned in a US patent submitted by NASA <ce:cross-ref refid="BIB8">[8]</ce:cross-ref>. Delamination of mullite coating and crack development due to mullite crystallization upon heating of SiO<ce:inf loc="post">2</ce:inf> substrate is mentioned.</ce:para>
+                  <ce:para view="all">Thermal barrier coatings (TBC) made from plasma sprayed mullite showed excellent thermal shock resistance up to 1100<ce:hsp sp="0.25"/>°C, but failed above 1200<ce:hsp sp="0.25"/>°C due to phase changes of the SiO<ce:inf loc="post">2</ce:inf> phase <ce:cross-ref refid="BIB2">[2]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Plasma sprayed mullite coatings also exhibited less cracking under thermal cycling than zirconia-based coatings under identical conditions <ce:cross-ref refid="BIB9">[9]</ce:cross-ref>; this was also confirmed in actual diesel engine tests <ce:cross-ref refid="BIB10">[10]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Plasma sprayed mullite and rare earth silicates as oxygen diffusion barriers under top TBC were investigated in <ce:cross-ref refid="BIB11">[11]</ce:cross-ref>. They succeeded in suppressing the oxidation of the underlying material, but did not show an improvement in thermal cycling performance over zirconia-based coatings due to high temperature degradation.</ce:para>
+                  <ce:para view="all">Earlier work by the authors <ce:cross-ref refid="BIB12">[12]</ce:cross-ref> presented results obtained during studies of plasma sprayed cordierite, wollastonite, mullite and steatite. Plasma sprayed deposits contained an amorphous phase and exhibited less pronounced lamellar structure than usually observed in alumina or zirconia ceramics. Annealing of the deposits for 2<ce:hsp sp="0.25"/>h changed the phase composition and the thermal expansion coefficients. Detailed characteristics of the crystallization of the amorphous materials, such as crystallization temperatures and the extent of shrinkage, were not presented. This fact was the reason for a closer examination of these processes. The measurements were performed on samples from the earlier study, except for wollastonite, whose samples were not preserved.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental details</ce:section-title>
+                  <ce:para view="all">Samples were manufactured using a high-throughput water-stabilized plasma spray system WSP PAL 160 (Institute of Plasma Physics, Prague, Czech Republic). The water in this system is used for stabilizing the electric arc and as a plasma-forming medium. This system operates at about 160<ce:hsp sp="0.25"/>kW arc power and can process large amounts of material per hour.</ce:para>
+                  <ce:para view="all">The materials for this study were pre-processed by milling and sieving to a suitable grain size. Cordierite and steatite powders with grain sizes −90+63<ce:hsp sp="0.25"/>μm were prepared by milling electrical components, discarded because of imprecise dimensions. Mullite powder with grain sizes −90+63<ce:hsp sp="0.25"/>μm was synthesized at the Institute of Minerals, Kutná Hora, Czech Republic.</ce:para>
+                  <ce:para view="all">The materials were sprayed on steel substrates (plates of size <math altimg="si1.gif">60<ce:hsp sp="0.25"/>
+                        <rm>mm</rm>×70<ce:hsp sp="0.25"/>
+                        <rm>mm</rm>×8</math>
+                     <ce:hsp sp="0.25"/>mm). The coatings were about 2.5<ce:hsp sp="0.25"/>mm thick and were stripped from the plates after spraying by a patented process <ce:cross-ref refid="BIB13">[13]</ce:cross-ref> and cut with a diamond saw into smaller pieces as necessary for further tests. The measurements were performed on free-standing deposits, to eliminate the influence of the substrate.</ce:para>
+                  <ce:para view="all">The tests included thermal expansion measurements on samples 12–13<ce:hsp sp="0.25"/>mm long, at a 5<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup> rate up to 1350<ce:hsp sp="0.25"/>°C for cordierite, 1480<ce:hsp sp="0.25"/>°C for mullite and 1250<ce:hsp sp="0.25"/>°C for steatite. The measurements were performed on a Setsys 16/18 contact dilatometer (Setaram, France) with a vertical measurement chamber that enables measurements up to 1750<ce:hsp sp="0.25"/>°C in a controlled atmosphere. The thermal expansion coefficients were calculated up to the crystallization and/or transformation temperature for each material.</ce:para>
+                  <ce:para view="all">Denotation of specific temperatures (<ce:italic>T</ce:italic>
+                     <ce:inf loc="post">1</ce:inf>, <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">2</ce:inf>, <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">inf</ce:inf>, <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">cryst</ce:inf>) used for the calculation of shrinkage and temperature of crystallization start is shown in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="FIG1"/>.</ce:para>
+                  <ce:para view="all">Powder samples for DTA were obtained by manually grinding the deposits after cutting the dilatometry samples. The sample weight was 90–130<ce:hsp sp="0.25"/>mg, and the measurements were done in Pt containers at a 5<ce:hsp sp="0.25"/>°C<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup> heating rate. Due to strong exothermic responses of the processes associated with crystallization, the samples were mixed at a 1:1 ratio with Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>. The measurements were performed up to 1400<ce:hsp sp="0.25"/>°C.</ce:para>
+                  <ce:para view="all">The crystallization process is usually exhibited on the DTA curve as a strong, sharp peak and on the dilatometric curve as intensive shrinkage on the order of tenths to units of percentage. For all materials studied, full crystallization occurred during the first heating; in subsequent heating cycles, no crystallization response was detected. TMA and DTA measurements enabled us to distinguish processes in the material by their thermal response.</ce:para>
+                  <ce:para view="all">Mullite powder used as a sample for DTA did not sinter or fuse with the Pt cup even upon second heating, in contrast to cordierite and steatite, which were fully compacted after removal. The DTA results were used for selection of maximum temperatures for TMA, to avoid fusing the sample and dilatometry probe.</ce:para>
+                  <ce:para view="all">Density and porosity of the materials was determined by the Archimedean method and He pycnometry <ce:cross-ref refid="BIB14">[14]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Mechanical properties of the deposits were studied in the as-sprayed state and after heating above the crystallization temperature. In-plane Young’s modulus and flexural strength of the free-standing deposits were determined by 4-point bending in an Instron 1362 universal testing machine (Instron, Canton, MA, USA), closely approximating the ASTM C1161 standard <ce:cross-ref refid="BIB15">[15]</ce:cross-ref>. The outer span of the loading fixture was 40<ce:hsp sp="0.25"/>mm and the inner span 20<ce:hsp sp="0.25"/>mm, the specimens were loaded at a crosshead speed of 1<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup> and their deflection in the central region was measured by an extensometer. Specimen dimensions were about <math altimg="si2.gif">2.5<ce:hsp sp="0.25"/>
+                        <rm>mm</rm>×3.5<ce:hsp sp="0.25"/>
+                        <rm>mm</rm>×50</math>
+                     <ce:hsp sp="0.25"/>mm. Since the materials exhibited a slight non-linearity of the load-deflection curve, two values of Young’s modulus will be presented: <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">total</ce:inf>, calculated from the slope of the entire curve up to fracture, and <ce:italic>E</ce:italic>
+                     <ce:inf loc="post">init</ce:inf>, calculated from the initial portion of the curve.</ce:para>
+                  <ce:para view="all">Mechanical anisotropy was studied by an indentation measurement of Young’s modulus in two directions (parallel and perpendicular to the spray direction). A Nanotest 600 (Micro Materials Limited, Wrexham Technology Park, LL137YP, UK) depth sensing indentation instrument was used. A 1/32<ce:hsp sp="0.25"/>in. diameter tungsten-carbide ball seated in a brass holder was pressed into polished samples at a constant loading and unloading rate of 80<ce:hsp sp="0.25"/>mN<ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>. Continuous measurement of load/displacement records was carried out and the obtained curves were analyzed by the Oliver and Pharr method <ce:cross-ref refid="BIB16">[16]</ce:cross-ref>. Compliance of the machine was determined and corrected for.</ce:para>
+                  <ce:para view="all">Phase composition of the feedstock and the plasma sprayed deposits was examined by X-ray diffraction. A Siemens D500 diffractometer (Siemens, Germany) was used; filtered Co radiation was selected for the majority of the samples.</ce:para>
+                  <ce:para view="all">The morphology of the deposits was studied by scanning electron microscopy SEM (Camscan 4DV, UK).</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Structure</ce:section-title>
+                     <ce:para view="all">The plasma sprayed deposits had an amorphous structure; a lamellar structure, typical for other thermally sprayed deposits, was not observed (see <ce:cross-ref refid="FIG2">Figs. 2–4</ce:cross-ref>
+                        <ce:float-anchor refid="FIG2"/>).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Thermal properties</ce:section-title>
+                     <ce:section view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title>Cordierite</ce:section-title>
+                        <ce:para view="all">The phase composition of the feedstock was cordierite (JCPDS 13-294). Deposits were composed mostly of an amorphous phase with only traces of cordierite. Traces of another crystalline phase were also observed, but could not be identified. Upon heating, the amorphous phase crystallizes to indialite (JCPDS 48-1600). The original crystallographic system of cordierite, i.e., orthorhombic, changed to hexagonal one of indialite.</ce:para>
+                        <ce:para view="all">Thermal processes associated with crystallization of the cordierite glassy phase begin to change the heat flow curve at around 850<ce:hsp sp="0.25"/>°C. The crystallization response is marked by a strong exothermic peak on the DTA curve (<ce:cross-ref refid="FIG3">Fig. 5</ce:cross-ref>
+                           <ce:float-anchor refid="FIG3"/>). Upon cooling, no such response was observed; thus, the transformation was irreversible. No other thermal processes were found on the DTA curves.</ce:para>
+                        <ce:para view="all">Crystallization of cordierite is exhibited on the dilatation curve by a strong shrinkage (4.7%). The temperatures and shrinkages characterizing the crystallization of each material are summarized in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                           <ce:float-anchor refid="TBL1"/>.</ce:para>
+                        <ce:para view="all">The thermal expansion of the cordierite sample stopped increasing at 650<ce:hsp sp="0.25"/>°C. Between 650 and 790<ce:hsp sp="0.25"/>°C, a slight shrinkage took place. The crystallization itself occurred above 900<ce:hsp sp="0.25"/>°C (see <ce:cross-refs refid="FIG3 FIG4">Figs. 5 and 6</ce:cross-refs>
+                           <ce:float-anchor refid="FIG4"/> and <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>), and took place fast and in one step.</ce:para>
+                        <ce:para view="all">Mean values of the thermal expansion coefficient were determined in the linear segments of the dilatometric curves obtained during first and second heating. While the CTE of the as-sprayed cordierite was 3.8×10<ce:sup loc="post">−6</ce:sup>
+                           <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup>, after crystallization it was 1.3×10<ce:sup loc="post">−6</ce:sup>
+                           <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup>.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>3.2.2</ce:label>
+                        <ce:section-title>Mullite</ce:section-title>
+                        <ce:para view="all">Only two phases—mullite and corundum (alpha phase of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>)—were observed in the feedstock material. Deposits contained large amounts of amorphous phase and gamma Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> phase. Corundum content was reduced below the resolution limit of the XRD. The amount of the mullite phase was also significantly reduced.</ce:para>
+                        <ce:para view="all">The amorphous mullite phase in the deposit crystallized upon heating into mullite again, with the same orthorhombic system.</ce:para>
+                        <ce:para view="all">Upon the first heating of the plasma sprayed sample, crystallization occurred at 970<ce:hsp sp="0.25"/>°C, resulting in about a 0.4% shrinkage (<ce:cross-ref refid="FIG5">Fig. 7</ce:cross-ref>
+                           <ce:float-anchor refid="FIG5"/>). At the same instant, a regular peak occurred on the DTA curve (<ce:cross-ref refid="FIG6">Fig. 8</ce:cross-ref>
+                           <ce:float-anchor refid="FIG6"/>). During subsequent heating/cooling cycles, these effects were not observed.</ce:para>
+                        <ce:para view="all">A comparison of the dilatation and heat flow curves at the same heating rate bounds the crystallization of the amorphous mullite to the 970–979<ce:hsp sp="0.25"/>°C temperature interval.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>3.2.3</ce:label>
+                        <ce:section-title>Steatite</ce:section-title>
+                        <ce:para view="all">The feedstock was composed only of MgSiO<ce:inf loc="post">3</ce:inf>–enstatite (JCPDS 11-273). Deposits were composed only of an amorphous phase, with no crystalline peaks being observed.</ce:para>
+                        <ce:para view="all">The phase formed by crystallization of the amorphous deposit is the same as that of the feedstock material, with an identical crystallographic system (orthorhombic).</ce:para>
+                        <ce:para view="all">Non-linearity of the thermal expansion curve occurred about 100<ce:hsp sp="0.25"/>°C before the crystallization itself, as in the other materials studied (cf. <ce:cross-refs refid="FIG7 FIG8 FIG9">Figs. 9–11</ce:cross-refs>
+                           <ce:float-anchor refid="FIG7"/>
+                           <ce:float-anchor refid="FIG8"/>
+                           <ce:float-anchor refid="FIG9"/>). While cordierite and mullite crystallized rapidly, steplessly and without any pause, steatite crystallized in two stages, separated by a sharp change of the shrinkage rate on the dilatation curve (at about 900<ce:hsp sp="0.25"/>°C) and the irregular shape of the DTA peak (<ce:cross-ref refid="FIG7">Fig. 9</ce:cross-ref>). This is supposedly a result of the protoenstatite–enstatite transformation.</ce:para>
+                        <ce:para view="all">Plasma sprayed steatite, as the only one of the materials tested, exhibited higher CTE after crystallization, <ce:italic>α</ce:italic>=8.5×10<ce:sup loc="post">−6</ce:sup>
+                           <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup>
+                           <ce:inf loc="post">,</ce:inf> than before, <ce:italic>α</ce:italic>=6.0×10<ce:sup loc="post">−6</ce:sup>
+                           <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup> (<ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>). During both the first and second heating, the CTE of steatite (as sprayed and annealed) was higher than that of cordierite and mullite. The crystallization shrinkage of steatite, 3.2%, was lower than that of cordierite and higher than that of mullite (<ce:cross-ref refid="FIG9">Fig. 11</ce:cross-ref>). The location of the crystallization response on the DTA agrees with the location of shrinkage on the TMA curve, as was the case with the other two materials studied.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>3.2.4</ce:label>
+                        <ce:section-title>Density</ce:section-title>
+                        <ce:para view="all">The density and porosity of the feedstock and the deposits are presented in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>
+                           <ce:float-anchor refid="TBL2"/>. The first density value is the skeletal density (i.e., of just the solid), while the apparent density is the density of the entire deposit, including the solid and the pores. Densities of corresponding compact materials, prepared by traditional methods, were presented in <ce:cross-ref refid="SEC1">Section 1</ce:cross-ref>.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Mechanical properties</ce:section-title>
+                     <ce:para view="all">Mechanical properties—Young’s moduli and flexural strength–of the deposits are summarized in <ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="TBL3"/>. Some nonlinearity, indicated by the difference in <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">total</ce:inf> and <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">init</ce:inf>, was noticeable in the steatite deposits, but very small in the mullite and cordierite deposits. A possible reason for this behavior is the gradual opening of microcracks under tensile stress, which reduces the effective material stiffness <ce:cross-ref refid="BIB17">[17]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">Overall, the magnitudes of moduli and strengths are relatively small compared to sintered ceramics, however, the strain tolerance of plasma sprayed deposits is significantly higher (strain to fracture of about 0.001 was observed in all materials). Increased spraying distance resulted in a slightly decreased modulus and strength.</ce:para>
+                     <ce:para view="all">Some anisotropy was observed (by the indentation technique) in the mullite deposits, but not in the cordierite deposits. The values obtained by the indentation technique are generally higher than those obtained by the 4-point bending. This can be again explained by the microcracks present in the deposits; while the loading in indentation is compressive, in the case of 4-point bending it is a mixture of tensile and compressive. The results from both techniques are clearly correlated, describing well the general trends between different materials (<ce:cross-ref refid="FIG10">Fig. 12</ce:cross-ref>
+                        <ce:float-anchor refid="FIG10"/>). The indentation loading direction used to obtain <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">cross</ce:inf> corresponds to the direction of loading in 4-point bending.</ce:para>
+                     <ce:para view="all">The heat treatment results in a remarkable increase in the modulus of cordierite deposits and a small increase in strength. In the case of mullite deposits, there was a small decrease in the modulus and a greater decrease in strength. The values still fall in a range commonly observed in plasma sprayed ceramics. It can be concluded that these materials retain their structural integrity and thus are usable even after exposure to the crystallization temperature.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">
+                     <ce:list>
+                        <ce:list-item>
+                           <ce:para view="all">Three crystalline ceramic materials—stoichiometric mullite (3Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>·2SiO<ce:inf loc="post">2</ce:inf>), cordierite (2MgO·2Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>·5SiO<ce:inf loc="post">2</ce:inf>) and steatite (MgSiO<ce:inf loc="post">3</ce:inf>)—with −90+63<ce:hsp sp="0.25"/>μm powder sizes were used for plasma spraying. All three materials studied can be easily sprayed by WSP<ce:sup loc="post">®</ce:sup> to form even millimeters thick deposits.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">The deposits exhibited less pronounced lamellar structure than is usually observed in alumina or zirconia ceramics. This can be easily observed especially on the steatite deposits.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">As sprayed deposits were totally or mostly composed of an amorphous phase with traces of a crystalline phase. Due to the amorphous phase content, the deposits also had lower thermal expansion coefficient than their bulk counterparts <ce:cross-ref refid="BIB4">[4]</ce:cross-ref> (with the exception of cordierite deposits). The crystalline phase was usually different from the feedstock (α→γAl<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> in mullite).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">Annealing the deposits above 1250<ce:hsp sp="0.25"/>°C changed the phase composition and the thermal expansion coefficient. The phase composition of the annealed deposits was the same as the feedstock phase composition, except for cordierite. While for most of the materials the CTE of the annealed deposit was lower than of the as sprayed one, for steatite the CTE of the annealed deposits increased.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">Crystallization of all three plasma sprayed materials exhibited itself by a strong peak on the DTA curve in the 850–980<ce:hsp sp="0.25"/>°C temperature range. This peak did not occur anymore during subsequent heating cycles. It can be assumed that the crystallization behavior will be similar in other meta-silicates, characterized by chain or band structure and commonly used summary formula M<ce:sup loc="post">II</ce:sup>
+                              <ce:inf loc="post">2</ce:inf>[Si<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">6</ce:inf>].</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">In all three cases, the heat treatment resulted in formation of a stable phase.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">In addition to the DTA peak, crystallization was accompanied by a sample length change (<ce:cross-ref refid="FIG9">Fig. 11</ce:cross-ref>). The first heating cycles showed that the largest shrinkage occurred in cordierite (4.7% in the 850–970<ce:hsp sp="0.25"/>°C temperature range). Plasma sprayed mullite showed the smallest amount of shrinkage (0.43% at 950–980<ce:hsp sp="0.25"/>°C) and but the highest temperatures of the crystallization start. Steatite shrunk by 3.2% in the 805–995<ce:hsp sp="0.25"/>°C range.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">The sprayed materials have a lower modulus and strength but a higher strain tolerance than similar bulk materials. The magnitudes as well as the anisotropy of the mechanical properties are to some extent affected by the crystallization of the amorphous phase.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">Plasma sprayed deposits of cordierite, mullite and steatite with a high content of the glassy phase can find industrial applications. Their use as coatings is limited by the crystallization temperatures of the amorphous phases and associated volumetric changes. Free-standing parts (e.g., tubes or plates), however, undergo crystallization without loss of mechanical integrity.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:para view="all">The experimental results confirm significant differences in the properties of plasma sprayed deposits and materials fabricated by traditional methods. Experimentally determined temperature intervals of crystallization are a prerequisite to developing techniques of production of partially crystalline and amorphous materials by means of plasma spraying.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">Financial support from the Grant Agency of the Czech Republic under grant no. 106/03/0710 is thankfully acknowledged.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Herman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal-expansion behavior of plasma sprayed cordierite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                              <sb:last-page>71</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ramaswamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Seetharamu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.B.R.</ce:given-name>
+                                 <ce:surname>Varma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal shock characteristics of plasma sprayed mullite coatings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Therm. Spray Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>497</sb:first-page>
+                              <sb:last-page>504</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Schneider</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Eberhard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal expansion of mullite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2073</sb:first-page>
+                              <sb:last-page>2076</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J. Hlaváč, Základy technologie silikátů SNTL ALFA, Praha, Czech Republic, 1988, (in Czech, Elements of Silicate Technology).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>H. Herman, R.W. Iseli, Europatent 0 072 643, February 23, 1983.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Herman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structure of plasma-sprayed oxides in the MgO–Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–SiO<ce:inf loc="post">2</ce:inf> system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4414</sb:first-page>
+                              <sb:last-page>4418</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Fischman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Herman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Plasma-sprayed cordierite—structure and transformations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>811</sb:first-page>
+                              <sb:last-page>815</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K.N. Lee, R.A. Miller, N.S. Jacobson, U.S. Patent No. 5 391 404, February 21, 1995.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kokini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.R.</ce:given-name>
+                                 <ce:surname>Takeuchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.D.</ce:given-name>
+                                 <ce:surname>Choules</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface thermal cracking of thermal barrier coatings owing to stress relaxation: zirconia versus mullite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1/2</sb:issue-nr>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>77</sb:first-page>
+                              <sb:last-page>82</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ramaswamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Seetharamu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Varma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Raman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermomechanical fatigue characterization of zirconia (8%Y<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–ZrO<ce:inf loc="post">2</ce:inf>) and mullite thermal barrier coatings on diesel engine components: effect of coatings on engine performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mech. Eng. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>214</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>C5</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>729</sb:first-page>
+                              <sb:last-page>742</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.N.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tewari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of refractory silicate-yttria-stabilized zirconia dual-layer thermal barrier coatings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Therm. Spray Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>01</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>59</sb:first-page>
+                              <sb:last-page>67</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K. Neufuss, J. Ilavský, J. Dubský, B. Kolman, P. Chráska, Plasma spraying of silicates II, in: Proceedings of the United Thermal Spray Conference, Dusseldorf, 1999, pp. 636–640.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>K. Neufuss, P. Chráska, Patents (Czech Republic) 283 203, November 25, 1997 and 286 735, April 4, 2000.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Neufuss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Chráska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kolman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sampath</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Trávnı́ček</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Properties of plasma-sprayed freestanding ceramic parts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Therm. Spray Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>434</sb:first-page>
+                              <sb:last-page>438</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>ASTM C1161: Standard Test Method for Flexural Strength of Advanced Ceramics at Ambient Temperature, American Society for Testing and Materials, Philadelphia, PA, 1987.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Pharr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An improved technique for determining hardness and elastic modulus using load and displacement sensing indentation experiments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1564</sb:first-page>
+                              <sb:last-page>1583</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dubský</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Matějíček</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Prask</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Gnaeupel-Herold</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Residual and applied stresses in plasma sprayed Cr<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> coatings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>404–407</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>419</sb:first-page>
+                              <sb:last-page>427</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

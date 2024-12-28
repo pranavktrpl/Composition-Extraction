@@ -1,0 +1,2800 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0022459617303274</prism:url><dc:identifier>doi:10.1016/j.jssc.2017.08.020</dc:identifier><eid>1-s2.0-S0022459617303274</eid><prism:doi>10.1016/j.jssc.2017.08.020</prism:doi><pii>S0022-4596(17)30327-4</pii><dc:title>Thermal decomposition of europium sulfates Eu2(SO4)3·8H2O and EuSO4
+             </dc:title><prism:publicationName>Journal of Solid State Chemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00224596</prism:issn><prism:volume>255</prism:volume><prism:startingPage>219</prism:startingPage><prism:endingPage>224</prism:endingPage><prism:pageRange>219-224</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2017-11-30</prism:coverDate><prism:coverDisplayDate>November 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Denisenko, Yu.G.</dc:creator><dc:creator>Khritokhin, N.A.</dc:creator><dc:creator>Andreev, O.V.</dc:creator><dc:creator>Basova, S.A.</dc:creator><dc:creator>Sal’nikova, E.I.</dc:creator><dc:creator>Polkovnikov, A.A.</dc:creator><dc:description>
+                  Reactions of europium sulfates Eu2(SO4)3·8H2O and EuSO4 complete decomposition were studied by Simultaneous Thermal Analysis. It was revealed that one-step dehydratation of Eu2(SO4)3·8H2O crystallohydrate is accompanied by the formation of amorphous anhydrous europium sulfate Eu2(SO4)3. Crystallization of amorphous europium (III) sulfate occurs at 381.1°С (in argon) and 391.3°C (in air). The average enthalpy values for dehydratation reaction of Eu2(SO4)3·8H2O (ΔH° = 141.1kJ/mol), decomposition reactions of Eu2(SO4)3 (ΔH = 463.1kJ/mol), Eu2O2SO4 (ΔH = 378.4kJ/mol) and EuSO4 (ΔH = 124.1kJ/mol) were determined. The step process mechanisms of thermal decomposition of europium (III) sulfate in air and europium (II) sulfate in inert atmosphere were established and justified. The kinetic parameters of complete thermal decomposition of europium (III) sulfate octahydrate were calculated by Kissinger model. The standard enthalpies of compound formation were calculated using thermal effects and formation enthalpy data for binary compounds.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Europium</dcterms:subject><dcterms:subject>Sulfates</dcterms:subject><dcterms:subject>Thermal analysis</dcterms:subject><dcterms:subject>Thermal decomposition</dcterms:subject><dcterms:subject>Thermodynamic</dcterms:subject><dcterms:subject>Kinetic</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0022459617303274" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0022459617303274" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="91" size="18954">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="68" size="7572">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="199" height="164" size="25074">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="67" size="7614">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="128" size="10368">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="69" size="7623">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="484" height="200" size="73060">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="805" height="250" size="48863">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="558" size="123635">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="804" height="245" size="47969">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="804" height="469" size="84390">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="803" height="251" size="47823">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2143" height="886" size="433208">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3565" height="1106" size="387485">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="2471" size="1068805">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3561" height="1086" size="377240">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3559" height="2078" size="542323">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3556" height="1113" size="351952">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si0001" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="156" height="36" size="2372">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459617303274-si0001.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85027848276</scopus-id><scopus-eid>2-s2.0-85027848276</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85027848276" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272605</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291746</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Solid State Chemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALSOLIDSTATECHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170818">2017-08-18</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170818">2017-08-18</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170829">2017-08-29</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170829">2017-08-29</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-12-02T01:20:57</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0022459617303274</xocs:eid>
+      <xocs:pii-formatted>S0022-4596(17)30327-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0022459617303274</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jssc.2017.08.020</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0022459617X0008X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20191203">2019-12-03T05:05:27.610004Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20171101</xocs:date-search-begin>
+      <xocs:date-search-end>20171130</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1503044144">2017-08-18T08:15:44.668827Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0022-4596</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00224596</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>255</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>255</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 255</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>34</xocs:sort-order>
+      <xocs:first-fp>219</xocs:first-fp>
+      <xocs:last-lp>224</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>219</xocs:first-page>
+         <xocs:last-page>224</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201711</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>November 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-11-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-11-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>THERMALDECOMPOSITIONEUROPIUMSULFATESEU2SO438H2OEUSO4</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>DENISENKO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methods and materials</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>CASCALES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4144</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4149</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>76</xocs:ref-first-fp>
+            <xocs:ref-last-lp>99</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1077</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1080</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>ANDREEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>296</xocs:ref-first-fp>
+            <xocs:ref-last-lp>301</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>SALNIKOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1280</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1283</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>SALNIKOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2121</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2125</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>MACHADO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>305</xocs:ref-first-fp>
+            <xocs:ref-last-lp>311</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>611</xocs:ref-first-fp>
+            <xocs:ref-last-lp>613</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>KIJIMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>311</xocs:ref-first-fp>
+            <xocs:ref-last-lp>316</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>KIJIMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>730</xocs:ref-first-fp>
+            <xocs:ref-last-lp>733</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>MACHIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1487</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1492</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>MACHIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3084</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3090</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>MACHIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>954</xocs:ref-first-fp>
+            <xocs:ref-last-lp>960</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6697</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6703</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>TSUSHIMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-last-lp>60</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>RUSEIKINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1403</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1407</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>SHANNON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>751</xocs:ref-first-fp>
+            <xocs:ref-last-lp>767</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>GREENWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMISTRYELEMENTS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>KHRITOKHIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1881</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1883</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>BAMBUROV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>598</xocs:ref-first-fp>
+            <xocs:ref-last-lp>604</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>SURGUTSKIY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>LAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4532</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4539</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>LYNCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>343</xocs:ref-first-fp>
+            <xocs:ref-last-lp>351</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2020</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2025</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>954</xocs:ref-first-fp>
+            <xocs:ref-last-lp>958</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>BLAINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref27">
+            <xocs:ref-normalized-surname>BUKOVEC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-last-lp>91</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref28">
+            <xocs:ref-normalized-surname>LYADOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>86</xocs:ref-first-fp>
+            <xocs:ref-last-lp>92</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref29">
+            <xocs:ref-normalized-surname>LLOPIZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205</xocs:ref-first-fp>
+            <xocs:ref-last-lp>211</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>TOMASZEWICZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref31">
+            <xocs:ref-normalized-surname>RABBERING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-last-lp>63</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref32">
+            <xocs:ref-normalized-surname>PAULIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1455</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1466</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref33">
+            <xocs:ref-normalized-surname>PELOVSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>273</xocs:ref-first-fp>
+            <xocs:ref-last-lp>280</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref34">
+            <xocs:ref-normalized-surname>FITZGIBBON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>349</xocs:ref-first-fp>
+            <xocs:ref-last-lp>358</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref35">
+            <xocs:ref-normalized-surname>ROSSINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1930</xocs:ref-pub-year>
+            <xocs:ref-first-fp>694</xocs:ref-first-fp>
+            <xocs:ref-last-lp>699</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref36">
+            <xocs:ref-normalized-surname>ECKMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1929</xocs:ref-pub-year>
+            <xocs:ref-first-fp>597</xocs:ref-first-fp>
+            <xocs:ref-last-lp>618</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref37">
+            <xocs:ref-normalized-surname>RARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>555</xocs:ref-first-fp>
+            <xocs:ref-last-lp>582</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>DENISENKOX2017X219</xocs:refkey3>
+         <xocs:refkey4lp>DENISENKOX2017X219X224</xocs:refkey4lp>
+         <xocs:refkey4ai>DENISENKOX2017X219XY</xocs:refkey4ai>
+         <xocs:refkey5>DENISENKOX2017X219X224XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-08-29T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier Inc. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0022-4596(17)30327-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0022459617303274</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0022459617303274</xocs:eid>
+         <xocs:doi>10.1016/j.jssc.2017.08.020</xocs:doi>
+         <xocs:cid>272605</xocs:cid>
+         <xocs:timestamp>2019-12-03T05:05:27.610004Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-11-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-11-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/MAIN/application/pdf/eeb1042788bba6ecd1c25d57c92df31e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1050690</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0022459617303274-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/PREVIEW/image/png/4b89121a86c3457553cdd95e92e0f88a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55299</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/fx1/THUMBNAIL/image/gif/63617a21a14fa54771f37c02837eb85c/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18954</xocs:filesize>
+               <xocs:pixel-height>91</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr1/THUMBNAIL/image/gif/abcb692249b2b979c409648f3d61f949/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7572</xocs:filesize>
+               <xocs:pixel-height>68</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr2/THUMBNAIL/image/gif/f7d53a10ba9b9d7f443450312f2b8373/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>25074</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>199</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr3/THUMBNAIL/image/gif/03f93e281053e92857caee16757ade63/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7614</xocs:filesize>
+               <xocs:pixel-height>67</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr4/THUMBNAIL/image/gif/762be5f1d3f64a6b1e744fbc2466f6d2/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10368</xocs:filesize>
+               <xocs:pixel-height>128</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr5/THUMBNAIL/image/gif/6d8d4612eaa23deb9750105c65a70700/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7623</xocs:filesize>
+               <xocs:pixel-height>69</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/fx1/DOWNSAMPLED/image/jpeg/574b677ab1b89666789556a035da6343/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>73060</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>484</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr1/DOWNSAMPLED/image/jpeg/46646e3186601d54ed80db02c2e35506/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>48863</xocs:filesize>
+               <xocs:pixel-height>250</xocs:pixel-height>
+               <xocs:pixel-width>805</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr2/DOWNSAMPLED/image/jpeg/39b0646552bfe4a6b767d7e4b234bff4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>123635</xocs:filesize>
+               <xocs:pixel-height>558</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr3/DOWNSAMPLED/image/jpeg/36a513cdfc6f95a1d88b0c1d7cca1d79/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47969</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>804</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr4/DOWNSAMPLED/image/jpeg/d7328272679807bd7174bf85efcfaa29/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>84390</xocs:filesize>
+               <xocs:pixel-height>469</xocs:pixel-height>
+               <xocs:pixel-width>804</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr5/DOWNSAMPLED/image/jpeg/f5e478831e6dce6baa66889599a56882/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47823</xocs:filesize>
+               <xocs:pixel-height>251</xocs:pixel-height>
+               <xocs:pixel-width>803</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/fx1/HIGHRES/image/jpeg/9cbb5e8dd167294da0d1e221fbbee272/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>433208</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>2143</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr1/HIGHRES/image/jpeg/178f38c8942081a963e9755173a835d2/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>387485</xocs:filesize>
+               <xocs:pixel-height>1106</xocs:pixel-height>
+               <xocs:pixel-width>3565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr2/HIGHRES/image/jpeg/dc0f8f62e7bce981ee722fcb949f15a1/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1068805</xocs:filesize>
+               <xocs:pixel-height>2471</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr3/HIGHRES/image/jpeg/769da157c21be0471fed8e340f67c822/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>377240</xocs:filesize>
+               <xocs:pixel-height>1086</xocs:pixel-height>
+               <xocs:pixel-width>3561</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr4/HIGHRES/image/jpeg/3bfdf53574f911f89121762a21781187/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>542323</xocs:filesize>
+               <xocs:pixel-height>2078</xocs:pixel-height>
+               <xocs:pixel-width>3559</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/gr5/HIGHRES/image/jpeg/2e99862eb76eec6460b91d154ded46f4/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>351952</xocs:filesize>
+               <xocs:pixel-height>1113</xocs:pixel-height>
+               <xocs:pixel-width>3556</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459617303274-si0001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459617303274/STRIPIN/image/gif/ecc5f22024d4228f482351e4d1e207ac/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0001</xocs:file-basename>
+               <xocs:filename>si0001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2372</xocs:filesize>
+               <xocs:pixel-height>36</xocs:pixel-height>
+               <xocs:pixel-width>156</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.5">
+         <item-info>
+            <jid>YJSSC</jid>
+            <aid>19910</aid>
+            <ce:pii>S0022-4596(17)30327-4</ce:pii>
+            <ce:doi>10.1016/j.jssc.2017.08.020</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">DSC curves of Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O dehydratation processes a) in argon flow; b) in air atmosphere. (2 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459617303274/gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">X-ray diffraction patterns and microstructure transformation of polycrystalline samples under europium sulfate octahydrate heat treating (2 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459617303274/gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">DSC curves of europium (III) sulfate decomposition processes: а) argon flow, b) air atmosphere. (2 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459617303274/gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">Heat effects showing up in dependence of heating rate for processes: (a) Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O → Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> + 8H<ce:inf loc="post">2</ce:inf>O; (b) Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> + 2SO<ce:inf loc="post">2</ce:inf> + O<ce:inf loc="post">2</ce:inf>; (c) Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> + SO<ce:inf loc="post">2</ce:inf> +<ce:sup loc="post">1</ce:sup>/<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> (Heating rate: I – 3<ce:hsp sp="0.25"/>°С/min, II – 5<ce:hsp sp="0.25"/>°С/min, III – 10<ce:hsp sp="0.25"/>°С/min, IV – 15<ce:hsp sp="0.25"/>°С/min).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0020" role="short">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459617303274/gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">DSC curves of europium (II) sulfate decomposition processes: а) argon flow, b) air atmosphere. (2 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0025" role="short">Fig. 5</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459617303274/gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">Thermal stability data of europium sulfate crystallohydrates (2 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0030" role="short">Table 1</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Compound</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Reaction conditions</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Equation of thermal decomposition</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ref.</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="6" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>·8H<inf loc="post">2</inf>O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2">Nitrogen atmosphere, heating mode 10<hsp sp="0.25"/>°С/min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>·8H<inf loc="post">2</inf>O→ Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>+8H<inf loc="post">2</inf>O (50–320<hsp sp="0.25"/>°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2">
+                           <cross-ref id="cr0005" refid="bib23">[23]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>→ Eu<inf loc="post">2</inf>O<inf loc="post">2</inf>SO<inf loc="post">4</inf> + 2SO<inf loc="post">3</inf> (650–860<hsp sp="0.25"/>°C)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>O<inf loc="post">2</inf>SO<inf loc="post">4</inf>→Eu<inf loc="post">2</inf>O<inf loc="post">3</inf> + SO<inf loc="post">3</inf> (960–1080<hsp sp="0.25"/>°C)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="3" role="rowhead">Air atmosphere, heating mode 10<hsp sp="0.25"/>°С/мин</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>·8H<inf loc="post">2</inf>O→Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>·2H<inf loc="post">2</inf>O + 6H<inf loc="post">2</inf>O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="3">
+                           <cross-ref id="cr0010" refid="bib24">[24]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>·2H<inf loc="post">2</inf>O→Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf> + 2H<inf loc="post">2</inf>O</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>→Eu<inf loc="post">2</inf>O(SO<inf loc="post">4</inf>)<inf loc="post">2</inf> + SO<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>O(SO<inf loc="post">4</inf>)<inf loc="post">2</inf>→Eu<inf loc="post">2</inf>O<inf loc="post">2</inf>SO<inf loc="post">4</inf> + SO<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>·4H<inf loc="post">2</inf>O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2">Nitrogen atmosphere, heating mode 10<hsp sp="0.25"/>°С/min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>·4H<inf loc="post">2</inf>O→Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf> + 4H<inf loc="post">2</inf>O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2">
+                           <cross-ref id="cr0015" refid="bib25">[25]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>→ Eu<inf loc="post">2</inf>O<inf loc="post">2</inf>SO<inf loc="post">4</inf> + 2SO<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>O<inf loc="post">2</inf>SO<inf loc="post">4</inf>→Eu<inf loc="post">2</inf>O<inf loc="post">3</inf> + SO<inf loc="post">3</inf>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="sp0035" view="all">Thermal dehydratation data of europium sulfate octahydrate (2 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0035" role="short">Table 2</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Atmosphere</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Heating mode</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Dehydratation temperature range</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" namest="col4" nameend="col5">Mass loss, %</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Dehydratation enthalpy, kJ/mol</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Theor.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Exp.</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Dynamic, Argon</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">25–500<hsp sp="0.25"/>°С 1<hsp sp="0.25"/>°С/min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">97.0–153.2<hsp sp="0.25"/>°С</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">19.57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">139.4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Constant, Air</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">98.4–179.6<hsp sp="0.25"/>°С</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">142.7</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0015" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="sp0040" view="all">Thermal data of X-ray amorphous europium sulfate crystallization (1–1.5 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0040" role="short">Table 3</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Atmosphere</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crystallization temperature</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crystallization enthalpy, kJ/mol</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Dynamic, Argon</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">381.1<hsp sp="0.25"/>°С</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">− 10.7</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Constant, Air</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">391.3<hsp sp="0.25"/>°С</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">− 11.8</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0020" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="sp0045" view="all">Thermochemical characteristics of europium sulfate decomposition processes (2 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0045" role="short">Table 4</ce:alt-text>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" namest="col1" nameend="col4">Argon</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" namest="col5" nameend="col8">Air</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" namest="col1" nameend="col2">Oxysulfate formation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" namest="col3" nameend="col4">Oxide formation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" namest="col5" nameend="col6">Oxysulfate formation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" namest="col7" nameend="col8">Oxide formation</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Temp. range, °С</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ΔH, kJ/mol</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Temp. range, °С</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ΔH, kJ/mol</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Temp. range, °С</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ΔH, kJ/mol</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Temp. range, °С</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ΔH, kJ/mol</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">813.2–923.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">465.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1026.0–1133.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">380.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">810.4–998.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">460.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1121.1–1326.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">376.7</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0025" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 5</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="sp0050" view="all">Kinetic parameters of europium sulfate octahydrate decomposition process (1.5 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0050" role="short">Table 5</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Chemical equation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">А</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">E<inf loc="post">a</inf>, kJ/mol</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>·8H<inf loc="post">2</inf>O → Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf> + 8H<inf loc="post">2</inf>O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1·10<sup loc="post">6</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">71</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf> → Eu<inf loc="post">2</inf>O<inf loc="post">2</inf>SO<inf loc="post">4</inf> + 2SO<inf loc="post">2</inf> + O<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7·10<sup loc="post">7</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">303</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>O<inf loc="post">2</inf>SO<inf loc="post">4</inf> → Eu<inf loc="post">2</inf>O<inf loc="post">3</inf> + SO<inf loc="post">2</inf> +<sup loc="post">1</sup>/<inf loc="post">2</inf>O<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1·10<sup loc="post">12</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">400</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0030" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 6</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="sp0055" view="all">Standard formation enthalpy of binary compounds resulted in reaction 15 (1 columns).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0055" role="short">Table 6</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Compound</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ΔH°<italic>f</italic>, kJ/mol</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ref.</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>O<inf loc="post">3 (cube)</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">− 1662,7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref id="cr0020" refid="bib34">[34]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">H<inf loc="post">2</inf>O <inf loc="post">(gas)</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">− 241.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref id="cr0025" refid="bib35">[35]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">SO<inf loc="post">2 (gas)</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">− 296.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref id="cr0030" refid="bib36">[36]</cross-ref>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0035" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 7</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="sp0060" view="all">Standard formation enthalpy of europium sulfates (1 column).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0060" role="short">Table 7</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Compound</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ΔH<inf loc="post">
+                              <italic>f</italic>
+                           </inf>°, kJ/mol</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>·8H<inf loc="post">2</inf>O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">− 5164.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>(SO<inf loc="post">4</inf>)<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">− 3089.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Eu<inf loc="post">2</inf>O<inf loc="post">2</inf>SO<inf loc="post">4</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">− 2338.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">EuSO<inf loc="post">4</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">− 1379.5</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Thermal decomposition of europium sulfates Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O and EuSO<ce:inf loc="post">4</ce:inf>
+            </ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0022459617303274-949a367eb7eb91592328f37b76399cd4">
+                  <ce:given-name>Yu.G.</ce:given-name>
+                  <ce:surname>Denisenko</ce:surname>
+                  <ce:cross-ref id="cr0035" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0040" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0045" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S0022459617303274-3bd5ac2cc026ed1cd5ac55833dd90f8b">
+                  <ce:given-name>N.A.</ce:given-name>
+                  <ce:surname>Khritokhin</ce:surname>
+                  <ce:cross-ref id="cr0050" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0022459617303274-bd1e00bb1465f95c6207de3720cbfe8d">
+                  <ce:given-name>O.V.</ce:given-name>
+                  <ce:surname>Andreev</ce:surname>
+                  <ce:cross-ref id="cr0055" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S0022459617303274-ec608b31ed000eb23fa6587e40b2de5e">
+                  <ce:given-name>S.A.</ce:given-name>
+                  <ce:surname>Basova</ce:surname>
+                  <ce:cross-ref id="cr0060" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025" author-id="S0022459617303274-a8540171c534652256e3e92ea5f69600">
+                  <ce:given-name>E.I.</ce:given-name>
+                  <ce:surname>Sal’nikova</ce:surname>
+                  <ce:cross-ref id="cr0065" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0070" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S0022459617303274-3f1d180324232000e3de9585b39f702b">
+                  <ce:given-name>A.A.</ce:given-name>
+                  <ce:surname>Polkovnikov</ce:surname>
+                  <ce:cross-ref id="cr0075" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0022459617303274-852635c14e26d10921c4f45f1e02866a">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Institute of Chemistry, Tyumen State University, Perekopskaya Str. 15a, Tyumen 625003, Russia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Chemistry, Tyumen State University</sa:organization>
+                     <sa:address-line>Perekopskaya Str. 15a</sa:address-line>
+                     <sa:city>Tyumen</sa:city>
+                     <sa:postal-code>625003</sa:postal-code>
+                     <sa:country>Russia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S0022459617303274-49453d82db65e7f9ec6f90628d4e7ff7">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of General and Special Chemistry, Industrial University of Tyumen, Volodarskogo Str. 38, Tyumen 625000, Russia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of General and Special Chemistry, Industrial University of Tyumen</sa:organization>
+                     <sa:address-line>Volodarskogo Str. 38</sa:address-line>
+                     <sa:city>Tyumen</sa:city>
+                     <sa:postal-code>625000</sa:postal-code>
+                     <sa:country>Russia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S0022459617303274-2c02332ef8ad286df99e28ca859629b0">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of General Chemistry, Northern Trans-Ural Agricultural University, Respubliki Str. 7, Tyumen 625003, Russia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of General Chemistry, Northern Trans-Ural Agricultural University</sa:organization>
+                     <sa:address-line>Respubliki Str. 7</sa:address-line>
+                     <sa:city>Tyumen</sa:city>
+                     <sa:postal-code>625003</sa:postal-code>
+                     <sa:country>Russia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: Institute of Chemistry, Tyumen State University, Perekopskaya Str. 15a, Tyumen 625003, Russia.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Chemistry, Tyumen State University</sa:organization>
+                     <sa:address-line>Perekopskaya Str. 15a</sa:address-line>
+                     <sa:city>Tyumen</sa:city>
+                     <sa:postal-code>625003</sa:postal-code>
+                     <sa:country>Russia</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="15" month="5" year="2017"/>
+            <ce:date-revised day="15" month="7" year="2017"/>
+            <ce:date-accepted day="13" month="8" year="2017"/>
+            <ce:abstract id="ab0010" class="author" view="all"><ce:abstract-sec id="abs0010" view="all">
+                  <ce:simple-para id="sp0065" view="all">Reactions of europium sulfates Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O and EuSO<ce:inf loc="post">4</ce:inf> complete decomposition were studied by Simultaneous Thermal Analysis. It was revealed that one-step dehydratation of Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O crystallohydrate is accompanied by the formation of amorphous anhydrous europium sulfate Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>. Crystallization of amorphous europium (III) sulfate occurs at 381.1<ce:hsp sp="0.25"/>°С (in argon) and 391.3<ce:hsp sp="0.25"/>°C (in air). The average enthalpy values for dehydratation reaction of Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O (ΔH° = 141.1<ce:hsp sp="0.25"/>kJ/mol), decomposition reactions of Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> (ΔH = 463.1<ce:hsp sp="0.25"/>kJ/mol), Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> (ΔH = 378.4<ce:hsp sp="0.25"/>kJ/mol) and EuSO<ce:inf loc="post">4</ce:inf> (ΔH = 124.1<ce:hsp sp="0.25"/>kJ/mol) were determined. The step process mechanisms of thermal decomposition of europium (III) sulfate in air and europium (II) sulfate in inert atmosphere were established and justified. The kinetic parameters of complete thermal decomposition of europium (III) sulfate octahydrate were calculated by Kissinger model. The standard enthalpies of compound formation were calculated using thermal effects and formation enthalpy data for binary compounds.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="ab0015" class="graphical" view="all">
+               <ce:section-title id="sect0010">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abs0015" view="all">
+                  <ce:simple-para id="sp0070" view="all">
+                     <ce:display>
+                        <ce:figure id="f0030">
+                           <ce:alt-text id="at0065" role="short">fx1</ce:alt-text>
+                           <ce:link id="lk0030" locator="fx1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0022459617303274/fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0020">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>Europium</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>Sulfates</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>Thermal analysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>Thermal decomposition</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0025">
+                  <ce:text>Thermodynamic</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0030">
+                  <ce:text>Kinetic</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0025">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Europium sulfates Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>, Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> and EuSO<ce:inf loc="post">4</ce:inf> are of significant interest due to their useful physico-chemical parameters which makes them prospective functional materials. The network structure of europium sulfates crystallohydrates Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·nH<ce:inf loc="post">2</ce:inf>O (n = 1, 4, 8) allows to consider them as catalysts for chemoselective oxidation of organic sulfides <ce:cross-refs id="crs0005" refid="bib1 bib2">[1,2]</ce:cross-refs>, as well as radioactive waste recultivation agents <ce:cross-ref id="cr0080" refid="bib3">[3]</ce:cross-ref> and gas adsorption hosts <ce:cross-ref id="cr0085" refid="bib4">[4]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0030" view="all">Rare earth elements (REE) oxysulfates are precursors for obtaining Ln<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>S compounds <ce:cross-refs id="crs0010" refid="bib4 bib5 bib6">[4–6]</ce:cross-refs>. Systems containing oxysulfates are practically important as a phosphorescent materials. Besides, they can be used in X-ray computed tomography and radioactive emission detectors <ce:cross-refs id="crs0015" refid="bib7 bib8 bib9 bib10">[7–10]</ce:cross-refs>. The structural and chemical properties of REE oxysulfates allow to consider them as perspective materials for chemical adsorption and gaseous oxygen storage <ce:cross-refs id="crs0020" refid="bib11 bib12 bib13 bib14">[11–14]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0035" view="all">Europium (II) sulfate forms at the first stage of Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> reduction by hydrogen <ce:cross-ref id="cr0090" refid="bib4">[4]</ce:cross-ref>. Eu<ce:sup loc="post">2+</ce:sup> ion possesses properties similar to these of alkaline earth metals ions <ce:cross-refs id="crs0025" refid="bib15 bib16">[15,16]</ce:cross-refs> and, especially, the ion is similar to Sr<ce:sup loc="post">2+</ce:sup> (r(Eu<ce:sup loc="post">2+</ce:sup>) = 0.131<ce:hsp sp="0.25"/>nm, r(Sr<ce:sup loc="post">2+</ce:sup>) = 0.132<ce:hsp sp="0.25"/>nm) <ce:cross-ref id="cr0095" refid="bib17">[17]</ce:cross-ref>. Europium (II) sulfate is isomorphous to strontium and barium sulfates, and the similarity of the ions can also be noticed in non-aqueous solutions chemistry <ce:cross-ref id="cr0100" refid="bib18">[18]</ce:cross-ref>. The reduction of MeSO<ce:inf loc="post">4</ce:inf> (Me = Ca, Sr, Ba) compounds by hydrogen leads to sulfides MeS formation <ce:cross-refs id="crs0030" refid="bib19 bib20">[19,20]</ce:cross-refs>, while reduction of europium sulfate by carbon monoxide <ce:cross-ref id="cr0105" refid="bib21">[21]</ce:cross-ref> and hydrogen <ce:cross-ref id="cr0110" refid="bib4">[4]</ce:cross-ref> leads to europium oxysulfate formation. In the literature, there was no information found about the europium (II) sulfate transformation upon heating. However, it is assumed that transformation will be significantly different to process typical for alkaline earth metals sulfates <ce:cross-ref id="cr0115" refid="bib22">[22]</ce:cross-ref>:<ce:display>
+                        <ce:formula id="eq0005">
+                           <ce:label>(1)</ce:label>
+                           <ce:chem>MeSO<ce:inf loc="post">4</ce:inf> → MeO + SO<ce:inf loc="post">3</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0040" view="all">The research of thermal stability of europium sulfate crystallohydrates was performed in the range of papers (<ce:float-anchor refid="t0005"/>
+                     <ce:cross-ref id="cr0120" refid="t0005">Table 1</ce:cross-ref>.)</ce:para>
+                  <ce:para id="p0045" view="all">The data given in this researches are not consistent with each other. In work <ce:cross-ref id="cr0125" refid="bib24">[24]</ce:cross-ref> the formation of intermediate verified only by spectral analyses, and on DTA curves doesn’t appear at any way. The temperature ranges of reactions behavior were given only in paper <ce:cross-ref id="cr0130" refid="bib23">[23]</ce:cross-ref>. The mentioned above researches doesn’t contain calculations of thermodynamic and kinetic parameters of decomposition processes. Also, the causes of appearence of heat emission effects after complete dehydratation were not revealed, despite the fact that this effects were registered.</ce:para>
+                  <ce:para id="p0050" view="all">The processes appeared during thermal decomposition of europium sulfates, thermal stability of the compounds and europium valence state persistence was not explored by thermal analysis methods with application of sensitive equipment.</ce:para>
+                  <ce:para id="p0055" view="all">The present study is aimed at the investigation of kinetic and thermodynamic parameters of europium sulfates Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O and EuSO<ce:inf loc="post">4</ce:inf> controlled thermal decomposition processes in inert (argon) and oxidative (air) atmosphere using Differential Scanning Calorimetry (DSC) and Thermogravimetry (TGA).</ce:para>
+               </ce:section>
+               <ce:section id="s0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0030">Methods and materials</ce:section-title>
+                  <ce:para id="p0060" view="all">Europium sulfate octahydrate Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O was obtained by crystallization from aqueous saturated solution under room temperature in vacuum desiccator under low pressure. The saturated solution was prepared from anhydrous europium sulfate (III) (99,99%, Ultrapure). 2.5<ce:hsp sp="0.25"/>g of Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> was dissolved in 100<ce:hsp sp="0.25"/>ml of deionized water at 20<ce:hsp sp="0.25"/>°С.</ce:para>
+                  <ce:para id="p0065" view="all">The crystallized solid product was separated from stock solution. Then, it was squeezed dry by filter paper and finally aged to reaching constant mass in desiccator with calcined silica gel on clock glass under room temperature. As the result, white shiny crystals of europium sulfate octahydrate (III) were obtained.</ce:para>
+                  <ce:para id="p0070" view="all">Europium (II) sulfate was obtained by the procedure described in <ce:cross-ref id="cr0135" refid="bib4">[4]</ce:cross-ref>. According this procedure, europium (III) sulfate was reduced by hydrogen under temperature of 500<ce:hsp sp="0.25"/>°С.</ce:para>
+                  <ce:para id="p0075" view="all">The X-ray powder diffraction data of synthesized sulfates and products of their thermal decomposition were collected with diffractometer DRON-7 in CuK<ce:inf loc="post">α</ce:inf> – radiation with Ni-filter. The obtained X-ray diffraction patterns were analyzed accounting data from card index PDF-2.</ce:para>
+                  <ce:para id="p0080" view="all">Thermal analysis in argon flow was carried out at Simultaneous Thermal Analysis (STA) equipment 499 F5 Jupiter NETZSCH (Germany). The powder samples were inserted into alumina crucibles. The heating rate was 3<ce:hsp sp="0.25"/>°С/min. For enthalpy determination, the equipment was calibrated with use of standard substances, such as In, Sn, Bi, Zn, Al, Ag, Au, Ni. The heat effect peaks were determined with package "Proteus 6 2012". The peak temperatures and areas in parallel experiments were reproduced with inaccuracy lower than 3%. The kinetic parameters determination was based on Kissinger formula <ce:cross-ref id="cr0140" refid="bib26">[26]</ce:cross-ref> in linearized form:<ce:display>
+                        <ce:formula id="eq0010">
+                           <mml:math altimg="si0001.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mn>1</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>T</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mn>1</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>E</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">·</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>R</mml:mi>
+                                    <mml:mi mathvariant="italic">ln</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>b</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msup>
+                                          <mml:mrow>
+                                             <mml:mi>T</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:mrow>
+                                       </mml:msup>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mo>−</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>R</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>E</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="italic">ln</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">AR</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>E</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where T is the temperature with maximum reaction rate; b – the heating rate, dps; E - activation energy; A - preexponential factor.</ce:para>
+                  <ce:para id="p0085" view="all">The examples of the formula application to topochemical processes can be found elsewhere <ce:cross-refs id="crs0035" refid="bib27 bib28 bib29">[27–29]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0090" view="all">Electron-microscopic analysis was carried out on electron microscope JEOL JSM-6510LV. X-ray energy-dispersive analyzer was used to register X-rays at element spectrum plotting in selected sample surface areas. The inaccuracy in element content determination was equal to±0.2%.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0035">Discussion</ce:section-title>
+                  <ce:para id="p0095" view="all">Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O thermal dehydratation in argon flow (<ce:float-anchor refid="f0005"/>
+                     <ce:cross-ref id="cr0145" refid="f0005">Fig. 1</ce:cross-ref>a, <ce:float-anchor refid="t0010"/>
+                     <ce:cross-ref id="cr0150" refid="t0010">Table 2</ce:cross-ref>) proceeds in one step despite of crystallohydrate inequivalency of water molecules in the compound. The mass loss is well related to loss of all 8 water molecules according to reaction:<ce:display>
+                        <ce:formula id="eq0015">
+                           <ce:label>(2)</ce:label>
+                           <ce:chem>Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O → Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> + 8H<ce:inf loc="post">2</ce:inf>O↑</ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0100" view="all">The dehydratation onset temperature is equal to 97.0<ce:hsp sp="0.25"/>°С. The complete dehydratation takes place over the temperature range of 97.0–153.2<ce:hsp sp="0.25"/>°С. The dehydratation enthalpy, which was calculated from peak area is equal to − 139.4<ce:hsp sp="0.25"/>kJ/mol.</ce:para>
+                  <ce:para id="p0105" view="all">Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O thermal dehydratation in constant air atmosphere (<ce:cross-ref id="cr0155" refid="f0005">Fig. 1</ce:cross-ref>b) also proceeds in one step, however, nature of DSC curve indicates that crystallohydrate water molecules are inequival to each other. The dehydratation takes place over the temperature range of 98.4–179.6<ce:hsp sp="0.25"/>°С. The dehydratation enthalpy is equal − 142.7<ce:hsp sp="0.25"/>kJ/mol.</ce:para>
+                  <ce:para id="p0110" view="all">In both cases shown in <ce:cross-ref id="cr0160" refid="f0005">Fig. 1</ce:cross-ref>, the low-intensity heat development peaks were registered where sample mass variation was not observed. To evaluate the reason for the effects, the isothermal exposures of europium sulfate octahydrate at T = 200 and 500<ce:hsp sp="0.25"/>°С were implemented. In both the cases, mass losses are conformal to complete dehydratation of Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O. According to XRD analysis and electron-microscopic results (<ce:float-anchor refid="f0010"/>
+                     <ce:cross-ref id="cr0165" refid="f0010">Fig. 2</ce:cross-ref>), the sample heated to 200<ce:hsp sp="0.25"/>°С is classified as X-ray amorphous powder. The sample heated to 500<ce:hsp sp="0.25"/>°С is identified as a polycrystalline anhydrous europium (III) sulfate. Consequently, the appearance of heat development peaks in thermogramms was caused by crystallization of X-ray-amorphous anhydrous europium sulfate phase, which was formed by complete dehydratation of octahydrate. In both cases, the values of crystallization enthalpy are similar (<ce:float-anchor refid="t0015"/>
+                     <ce:cross-ref id="cr0170" refid="t0015">Table 3</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0115" view="all">The thermal decomposition of anhydrous europium (III) sulfate in Ar atmosphere (<ce:float-anchor refid="f0015"/>
+                     <ce:cross-ref id="cr0175" refid="f0015">Fig. 3</ce:cross-ref>a) proceeds by two steps:<ce:display>
+                        <ce:formula id="eq0020">
+                           <ce:label>(3)</ce:label>
+                           <ce:chem>Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> + 2SO<ce:inf loc="post">2</ce:inf> + O<ce:inf loc="post">2</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="eq0025">
+                           <ce:label>(4)</ce:label>
+                           <ce:chem>2Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> → 2Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> + 2SO<ce:inf loc="post">2</ce:inf> + O<ce:inf loc="post">2</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0120" view="all">It can be assumed that anhydrous europium (III) sulfate thermal decomposition takes place according to the reaction scheme:<ce:display>
+                        <ce:formula id="eq0030">
+                           <ce:label>(5)</ce:label>
+                           <ce:chem>Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0125" view="all">However, the two-step process can be observed only on DSC curve recorded in the air atmosphere (<ce:cross-ref id="cr0180" refid="f0015">Fig. 3</ce:cross-ref>b). It can be concluded that oxygen presence in air resulted in the decomposition process retardation with emission of more oxygen and it induced the decomposition process differentiation. Hence, the europium (III) sulfate decomposition proceeds with europium oxydisulfate Eu<ce:inf loc="post">2</ce:inf>O(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf> intermediate formation. The decomposition final product is europium dioxysulfate Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>. The DSC curve points on following europium sulfate decomposition process mechanism:<ce:display>
+                        <ce:formula id="eq0035">
+                           <ce:label>(6)</ce:label>
+                           <ce:chem>Intermediate storage Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf> + SO<ce:inf loc="post">2</ce:inf> +<ce:sup loc="post">1</ce:sup>/<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="eq0040">
+                           <ce:label>(7)</ce:label>
+                           <ce:chem>Co-decomposition of initial product and intermediate to stable form Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> + 2SO<ce:inf loc="post">2</ce:inf> + O<ce:inf loc="post">2</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="eq0045">
+                           <ce:label>(8)</ce:label>
+                           <ce:chem>Eu<ce:inf loc="post">2</ce:inf>O(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">2</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> + SO<ce:inf loc="post">2</ce:inf> + <ce:sup loc="post">1</ce:sup>/<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0130" view="all">The second peak on DSC curves can be attributed to oxysulfate decomposition, which takes place according the reaction:<ce:display>
+                        <ce:formula id="eq0050">
+                           <ce:label>(9)</ce:label>
+                           <ce:chem>Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> + SO<ce:inf loc="post">2</ce:inf> +<ce:sup loc="post">1</ce:sup>/<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0135" view="all">The decomposition proceeds in one step. Europium oxysulfate possesses higher stability in the air atmosphere that is indicated by noticeable decomposition temperature increase. This stability, apparently, is also induced by oxygen presence in the atmosphere. The oxygen is one of the reaction products and its additional formation shifts the equilibrium towards initial products. This factor may support the europium sulfate stability in the air. The reaction enthalpies, determined in this research can be correlated with the values (<ce:float-anchor refid="t0020"/>
+                     <ce:cross-ref id="cr0185" refid="t0020">Table 4</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0140" view="all">The kinetics of the europium sulfate octahydrate thermal decomposition was carried out under different heating rates: 3, 5, 10 и 15<ce:hsp sp="0.25"/>°С/min. The europium (III) sulfate octahydrate thermal decomposition kinetic parameters were calculated based on DTA data recorded at different heating rates (<ce:float-anchor refid="t0025"/>
+                     <ce:cross-ref id="cr0190" refid="t0025">Table 5</ce:cross-ref>). The relation of heat-absorption efficiency maximum peak temperature with heating rate is linear.</ce:para>
+                  <ce:para id="p0145" view="all">The energy activation barrier highly increases on passing from crystallohydrate dehydratation (Е<ce:inf loc="post">а</ce:inf> = 71<ce:hsp sp="0.25"/>kJ/mol) to decomposition processes of sulfates Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> (Е<ce:inf loc="post">а</ce:inf> = 303<ce:hsp sp="0.25"/>kJ/mol) and Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> (Е<ce:inf loc="post">а</ce:inf> = 400<ce:hsp sp="0.25"/>kJ/mol), although it is partly compensated by preexponential factor increase.</ce:para>
+                  <ce:para id="p0150" view="all">This indicates kinetic complexity of sulfate disrupture high-temperature processes in comparison with dehydratation and, on DSC-curves, it is shown up as a significant peak enlargement. Such relation can be used for characterization and forecasting of comparative simplicity of multistage process behavior of single stages in the plan of kinetic mechanism identification (<ce:float-anchor refid="f0020"/> 
+                     <ce:cross-ref id="cr0195" refid="f0020">Fig. 4</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0155" view="all">The thermal decomposition of EuSO4 in argon flow proceeds in two steps, as evident from <ce:float-anchor refid="f0025"/>
+                     <ce:cross-ref id="cr0200" refid="f0025">Fig. 5</ce:cross-ref>a. The first step corresponds to the EuSO<ce:inf loc="post">4</ce:inf> decomposition up to oxysulfate EuO·3EuSO<ce:inf loc="post">4</ce:inf>. The formation of similar oxysulfates is common in the case of decomposition of vitriol like compounds (FeSO<ce:inf loc="post">4</ce:inf>, CuSO<ce:inf loc="post">4</ce:inf>, CoSO<ce:inf loc="post">4</ce:inf> etc.) <ce:cross-refs id="crs0040" refid="bib30 bib31 bib32 bib33">[30–33]</ce:cross-refs>. The inert atmosphere is conductive to divalent state stabilization:<ce:display>
+                        <ce:formula id="eq0055">
+                           <ce:label>(10)</ce:label>
+                           <ce:chem>4EuSO<ce:inf loc="post">4</ce:inf> → 3EuSO<ce:inf loc="post">4</ce:inf>·EuO + SO<ce:inf loc="post">2</ce:inf> + <ce:sup loc="post">1</ce:sup>/<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0160" view="all">The second step can be described by reaction scheme:<ce:display>
+                        <ce:formula id="eq0060">
+                           <ce:label>(11)</ce:label>
+                           <ce:chem>2(EuO·3EuSO<ce:inf loc="post">4</ce:inf>) → 4Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> + S + SO<ce:inf loc="post">2</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0165" view="all">The decomposition enthalpies on the steps are equals 48.9<ce:hsp sp="0.25"/>kJ/mol и 75.4<ce:hsp sp="0.25"/>kJ/mol, respectively. The third peak on DSC-curve corresponds to europium oxysulfate decomposition.</ce:para>
+                  <ce:para id="p0170" view="all">In the air atmosphere (<ce:cross-ref id="cr0205" refid="f0025">Fig. 5</ce:cross-ref>b), europium (II) sulfate is more stable and it decomposes in one step according to the following reaction:<ce:display>
+                        <ce:formula id="eq0065">
+                           <ce:label>(12)</ce:label>
+                           <ce:chem>2EuSO<ce:inf loc="post">4</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> + SO<ce:inf loc="post">2</ce:inf>
+                           </ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0175" view="all">The europium (II) sulfate decomposition enthalpy on air is approximately equals to sum of enthalpies of two decomposition steps in inert atmosphere ΔН = 123.8<ce:hsp sp="0.25"/>kJ/mol.</ce:para>
+                  <ce:para id="p0180" view="all">The second peak on DSC-curve corresponds to europium oxysulfate decomposition. The thermal and thermodynamic characteristics of europium oxysulfate decomposition are the same as those in case of oxysulfate decomposition which was formed as a result of europium (III) sulfate thermal decomposition.</ce:para>
+                  <ce:para id="p0185" view="all">Consequently, having average values of reactions enthalpies, it is possible to compose the thermochemical reaction schemes:<ce:display>
+                        <ce:formula id="eq0070">
+                           <ce:label>(13)</ce:label>
+                           <ce:chem>Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O <ce:inf loc="post">(monoclinic)</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3 (monoclinic)</ce:inf> + 8H<ce:inf loc="post">2</ce:inf>O <ce:inf loc="post">(gas)</ce:inf>; ΔH° = 141·1<ce:hsp sp="0.25"/>kJ/mol</ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="eq0075">
+                           <ce:label>(14)</ce:label>
+                           <ce:chem>Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3 (monoclinic)</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4 (rhombic)</ce:inf> + 2SO<ce:inf loc="post">2 (gas)</ce:inf> + O<ce:inf loc="post">2 (gas)</ce:inf>; ΔH° = 463·1<ce:hsp sp="0.25"/>kJ/mol</ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="eq0080">
+                           <ce:label>(15)</ce:label>
+                           <ce:chem>Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4 (rhombic)</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3 (cubic)</ce:inf> + SO<ce:inf loc="post">2 (gas)</ce:inf> + <ce:sup loc="post">1</ce:sup>/<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2 (gas)</ce:inf>; ΔH° = 378·4<ce:hsp sp="0.25"/>kJ/mol</ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                     <ce:display>
+                        <ce:formula id="eq0085">
+                           <ce:label>(16)</ce:label>
+                           <ce:chem>2EuSO<ce:inf loc="post">4 (rhombic)</ce:inf> → Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4 (rhombic)</ce:inf> + SO<ce:inf loc="post">2 (gas)</ce:inf>; ΔH° = 124·1<ce:hsp sp="0.25"/>kJ/mol</ce:chem>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0190" view="all">The europium sulfates formation enthalpies were calculated from thermochemical equations with use of information materials of binary compounds formation enthalpies and enthalpies collected in this research. The calculation was carried out in series: ΔH°<ce:italic>f</ce:italic> (Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>) by reaction 15, ΔH°<ce:italic>f</ce:italic> (Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>) by reaction 14, ΔH°<ce:italic>f</ce:italic> (Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O) by reaction 13, ΔH°<ce:italic>f</ce:italic> (EuSO<ce:inf loc="post">4</ce:inf>) by reaction 14 (<ce:float-anchor refid="t0030"/>
+                     <ce:float-anchor refid="t0035"/>
+                     <ce:cross-refs id="crs0045" refid="t0030 t0035">Tables 6 and 7</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0195" view="all">There is no information about Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf> and Eu<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> formation enthalpies. The paper <ce:cross-ref id="cr0210" refid="bib37">[37]</ce:cross-ref> contain the following values of europium sulfates formation enthalpies: ΔH°<ce:italic>f</ce:italic>(Eu<ce:inf loc="post">2</ce:inf>(SO<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O) = − 6139<ce:hsp sp="0.25"/>kJ/mol, ΔH°<ce:italic>f</ce:italic>(EuSO<ce:inf loc="post">4</ce:inf>) = − 1471<ce:hsp sp="0.25"/>kJ/mol. The indicated data were obtained by dissolution calorimetry method. The data for EuSO<ce:inf loc="post">4</ce:inf> were obtained by calorimetric researches of dissolution in sulfurous solutions. Unfortunately, solution processes (especially in acidic solutions) are conjugated with a vast amount of equilibria, which influence is very hard or even impossible to account.</ce:para>
+                  <ce:para id="p0200" view="all">Also, the accuracy and repeatability of data carried out by applying DSC in comparison to dissolution calorimetry with use of Beckmann thermometer should not be overlooked. In reference with the above, the data collected in this research should be considered as more accurate.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0040">Conclusion</ce:section-title>
+                  <ce:para id="p0205" view="all">In this work, usage of simultaneous thermal analysis method allowed to calculate a considerable amount of energy and kinetic characteristics for a broad range of inter-related processes. The reasons of appearance of exothermic effects not accompanied with sample mass variation were elucidated by combining DSC, X-ray phase analysis and electron microscopy methods. Influence of atmosphere type on europium sulfates stability was also studied. The compounds which decompose with oxygen emission are more stable in air atmosphere. The inert atmosphere is conductive to europium divalent state stabilization in the intermediate compound formation at europium (II) sulfate thermal decomposition. For the europium (III) sulfate octahydrate dehydratation processes, the atmosphere type is insignificant. All data collected in present experiment are of fundamental importance, and, also, they can be useful for researchers who work with materials related to europium sulfates.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0045">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Cascales</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.G.</ce:given-name>
+                                 <ce:surname>Lor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.G.</ce:given-name>
+                                 <ce:surname>Puebla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Iglesias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Monge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Valero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Snejko</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4144</sb:first-page>
+                              <sb:last-page>4149</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cm049347h</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Fengying</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yongheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Na</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liting</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Open J. Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>76</sb:first-page>
+                              <sb:last-page>99</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.4236/ojic.2013.34011</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Jo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.W.</ce:given-name>
+                                 <ce:surname>Shim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Ok</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bull. Korean Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1077</sb:first-page>
+                              <sb:last-page>1080</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.V.</ce:given-name>
+                                 <ce:surname>Andreev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yu.G.</ce:given-name>
+                                 <ce:surname>Denisenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.I.</ce:given-name>
+                                 <ce:surname>Sal’nikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Khritokhin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Zyryanova</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Russ. J. Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>296</sb:first-page>
+                              <sb:last-page>301</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1134/S0036023616030025</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.I.</ce:given-name>
+                                 <ce:surname>Sal’nikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.O.</ce:given-name>
+                                 <ce:surname>Andreev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Antonov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Russ. J. Phys. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1280</sb:first-page>
+                              <sb:last-page>1283</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1134/S0036024413080207</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.I.</ce:given-name>
+                                 <ce:surname>Sal’nikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.I.</ce:given-name>
+                                 <ce:surname>Kaliev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.O.</ce:given-name>
+                                 <ce:surname>Andreev</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Russ. J. Phys. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2121</sb:first-page>
+                              <sb:last-page>2125</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1134/S0036024411120296</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Machado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.D.O.</ce:given-name>
+                                 <ce:surname>de Azeredo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.P.S.</ce:given-name>
+                                 <ce:surname>Corrêa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>do Rosário Matos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Í.O.</ce:given-name>
+                                 <ce:surname>Mazali</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Therm. Anal. Calorim.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>305</sb:first-page>
+                              <sb:last-page>311</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10973-011-1451-7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Masui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Imanaka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochemistry</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>611</sb:first-page>
+                              <sb:last-page>613</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.5796/electrochemistry.77.611</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kijima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Shinbori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sekita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Uota</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Sakai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Lumin.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>128</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>311</sb:first-page>
+                              <sb:last-page>316</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jlumin.2007.07.018</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kijima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Isayama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sekita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Uota</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Sakai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>485</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>730</sb:first-page>
+                              <sb:last-page>733</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jallcom.2009.06.065</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Machida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kawamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ito</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ikeue</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1487</sb:first-page>
+                              <sb:last-page>1492</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cm0479640</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Machida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kawamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kawano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ikeue</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3084</sb:first-page>
+                              <sb:last-page>3090</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/B605518D</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Machida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kawano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Eto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ikeue</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>954</sb:first-page>
+                              <sb:last-page>960</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cm062625n</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Yoshioka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ikeue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Machida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6697</sb:first-page>
+                              <sb:last-page>6703</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cm801629b</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tsushima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nagasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Photochem. Photobiol. A: Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                              <sb:last-page>60</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/S1010-6030(97)00039-7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Ruseikina</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Russ. J. Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1403</sb:first-page>
+                              <sb:last-page>1407</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1134/S0036023616110176</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Shannon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Crystallogr. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>751</sb:first-page>
+                              <sb:last-page>767</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1107/S0567739476001551</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Greenwood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Earnshaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemistry of the Elements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.A.</ce:given-name>
+                                 <ce:surname>Khritokhin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.V.</ce:given-name>
+                                 <ce:surname>Andreev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Parshukov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Russ. J. Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1881</sb:first-page>
+                              <sb:last-page>1883</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Bamburov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.V.</ce:given-name>
+                                 <ce:surname>Andreev</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Russ. J. Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>598</sb:first-page>
+                              <sb:last-page>604</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.P.</ce:given-name>
+                                 <ce:surname>Surgutskiy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Serebrennikov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Russ. J. Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1966</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Lau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cubicciotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Hildenbrand</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4532</sb:first-page>
+                              <sb:last-page>4539</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1063/1.433707</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Lynch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Sachs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Brittain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thermochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>343</sb:first-page>
+                              <sb:last-page>351</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0040-6031(87)80030-8</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2020</sb:first-page>
+                              <sb:last-page>2025</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jssc.2007.05.005</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yu. Ma, H.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yu</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ya</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Struct. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>954</sb:first-page>
+                              <sb:last-page>958</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1134/S0022476611050179</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Blaine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.E.</ce:given-name>
+                                 <ce:surname>Kissinger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thermochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>450</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>6</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.tca.2012.04.008</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Bukovec</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Bukovec</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Šiftar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thermochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                              <sb:last-page>91</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0040-6031(80)85025-8</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Lyadov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Kurilkin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Russ. J. Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>86</sb:first-page>
+                              <sb:last-page>92</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1134/S003602361601015</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Llopiz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Jerez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Laureiro</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thermochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>256</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1995</sb:issue-nr>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205</sb:first-page>
+                              <sb:last-page>211</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0040-6031(94)02109-2</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tomaszewicz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kotfica</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Therm. Anal. Calorim.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1023/B:JTAN.0000033184.32714.7f</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Rabbering</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wanrooy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Schuijff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thermochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                              <sb:last-page>63</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0040-6031(75)85008-8</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sbref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Paulik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Paulik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Arnold</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Therm. Anal. Calorim.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1455</sb:first-page>
+                              <sb:last-page>1466</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/BF01914370</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sbref33">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Pelovski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Petkova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nikolov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thermochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>274</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>273</sb:first-page>
+                              <sb:last-page>280</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0040-6031(95)02408-5</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="sbref34">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.C.</ce:given-name>
+                                 <ce:surname>Fitzgibbon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Huber</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Holley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Thermodyn.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>349</sb:first-page>
+                              <sb:last-page>358</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0021-9614(72)90018-3</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="sbref35">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.D.</ce:given-name>
+                                 <ce:surname>Rossini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Natl. Acad. Sci. USA</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1930</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>694</sb:first-page>
+                              <sb:last-page>699</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="sbref36">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Eckman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.D.</ce:given-name>
+                                 <ce:surname>Rossini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bur. Stand. J. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1929</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>597</sb:first-page>
+                              <sb:last-page>618</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="sbref37">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Rard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>555</sb:first-page>
+                              <sb:last-page>582</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cr00070a003</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

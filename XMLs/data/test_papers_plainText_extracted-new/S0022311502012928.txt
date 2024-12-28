@@ -1,0 +1,90 @@
+Title:
+Experimental investigation of radioactivity induced in the fusion power plant structural material in Eurofer and in other steels by D–T neutrons
+
+Abstract:
+The low-activation steel Eurofer was irradiated with D–T fusion neutrons. The radioactivity following irradiation was determined several times during decay by γ-spectroscopy. The results were analysed with the European Activation System (EASY-99). Ratios of calculated-to-experimental values for individual activities and for their sums are discussed in connection with the expected low-activation behaviour of the material in fusion power plant conditions.
+
+Keywords:
+N0100
+N0500
+S0600
+S1000
+
+Acknowledgements:
+The work was supported by the European Fusion Technology Programme, by grant no. RUS-540-96 of the German Federal Ministry of Education, Science, Research and Technology and by the Ministry of Higher Education, Research and Culture of the Free State of Saxony. The authors would like to thank Drs U. von Möllendorff, C. Adelhelm, M. Pillon and B. van der Schaaf for supplying or analysing samples.
+
+Introduction:
+The radioactivity induced by neutrons in the materials of a fusion device represents a central topic of safety-related investigations [1]. Radionuclides with a broad range of half-lives have to be included in the corresponding analyses. The short-term radioactivity (half-life ranging from the order of magnitude of minutes to weeks) is mainly of interest with respect to heat production and shut-down dose rates, whereas long-term radioactivity (half-life of the order of 10–100 years or more) determines the waste management [2].
+The spectrum of the neutron flux in a fusion device consists of two parts, a D–T fusion peak at 14 MeV and a continuum ranging down to thermal energies. The radioactivity is mainly produced at 14 MeV neutron energy, where the number of open reaction channels is a maximum, and at thermal neutron energy, where cross-section values are large. In the present work, the radioactivity induced by 14 MeV neutrons in Eurofer was investigated.
+The elemental composition of Eurofer-97 is presented in Table 1
+                     . In a calculation with the European Activation System (EASY-99) [3], this material was taken to be irradiated with 14 MeV neutrons of a flux density corresponding to the power of 1.0 MW/m2, for a period of 1 year. The results obtained for the contact dose rate as a function of decay time after irradiation are shown in Fig. 1
+                     . The same calculations, corresponding to fusion power plant conditions, were carried out for the ITER stainless steel 316 and for the low-activation steel F82H, and the results are presented in Fig. 1.
+For Eurofer and for F82H the dose rates are close together due to similar elemental composition (Table 1). Compared to SS316, the dose rate is expected to be significantly lower for the broad range of decay times from hours up to 104 years. At about 200 years the hands-on limit is achieved. The long-term radioactivity of SS316, dominated by 94Nb and 91Nb, that are produced by several reactions on Mo isotopes, is about 100 times higher than those of Eurofer, where 26Al from 27Al (n,2n) contributes to 70%. Reactions on Ni isotopes lead to 58Co and 60Co that determine the higher dose rates of SS316 compared to Eurofer for decay times between ≃1 day and 50 years.
+A comparison of experimental and calculated radioactivity induced by 14 MeV neutrons in SS316 and F82H was presented at ICFRM-9 [5] for decay times between 30 h and 200 d. Agreement was found for the total activities within ±30%. Investigating Eurofer, the range of decay time was extended, especially to the short-term radioactivity.
+
+Experiment:
+The contribution of the different radionuclides to the total dose rate, as shown in Fig. 2
+                     , suggested carrying out at least two irradiations, a very short one to determine the radioactivity of nuclides with half-life of the order of minutes and a second one to investigate the activity of nuclides in the middle part of the figure.
+The irradiations were performed at the high-intensity D–T neutron generator SNEG-13 [6] at Sergiev Posad. The 14 MeV neutron peak had at the sample position a mean energy of 〈E
+                     n〉=14.93 MeV and a spread of ΔE
+                     n=±0.27 MeV. The incidence energy was shifted in a third experiment to (14.37±0.12) MeV to check the influence of threshold reactions on the γ-radioactivity. The parameters of the three irradiations are given in Table 2
+                     . The applied neutron fluences were determined via activation measurement of niobium foils by the reaction 93Nb(n,2n)92mNb. The cross-section of this reaction was considered constant in the energy range 14–15 MeV and is equal to 464 mb with an uncertainty of 4.2%. A possible background component of thermal neutrons was checked by 197Au(n,γ) and by 115In(n,γ) activation using thin foils. No statistically significant count rate was found for the decay of 198Au. The very large integral capture cross-section of 115In resulted in count rates, which showed that the flux of low-energy neutrons at the sample position is 10−5 of the total. The samples had dimensions of 10×10 mm and a thickness of the order of 1 mm. The γ-ray spectra were taken from the irradiated samples at the decay time t
+                     1 (Fig. 2) in the case of experiment no. 1 and at t
+                     2, t
+                     3 and t
+                     4 in the experiments 2 and 3. The detection efficiency of the Ge(Li)-spectrometer used had an uncertainty of 2.5–3.0% in the energy range of measurements (60 keV–3 MeV). The γ-activities identified by energy and half-life were used to determine nuclide activities with γ-yield data from EASY.
+
+Results:
+The activities of 28Al, 51Ti, 52V, 53V, 56Mn, 57Mn and 53Fe were measured in experiment 1. They are compared in Table 3
+                      with the results of EASY-99 calculations. The uncertainties of the ratios of calculated-to-experimental values (C/E) include both total experimental and calculation (cross-section as well as half-life) errors. Deviations from C/E=1.0 larger than the uncertainty range are observed in three cases only.
+The activities of 24Na, 48Sc, 51Cr, 54Mn and 56Mn were investigated in the experiments 2 and 3. The results are presented in Table 4
+                     . A significant underestimation was found for 54Mn. Some energy dependence of the C/E can be stated for 51Cr as in previous experiments with steels [5]. For the other activities, C and E agree within their uncertainties.
+As the contributions of the several nuclides to the radioactivity of the materials are very different, the sum of the measured activities are compared for the three experiments in Table 5
+                      with the corresponding calculated values. The (C/E)A ratios for the activity deviate less than 20% from unity. Furthermore, the C/E obtained for the individual activities were applied to the dose rates calculated for these nuclides, resulting in a value for the sum of the dose rates, which represents an experimental result, but with exclusion of testing the γ-yield and absorption data. Also the (C/E)D for the dose rates are satisfactory.
+
+Concluding remarks:
+The activities of radionuclides, which determine the short-term radioactivity produced in Eurofer by 14 MeV neutrons in fusion power plant conditions (Fig. 2), were measured in the irradiation experiment 1 at SNEG-13 and compared with EASY-99 calculations. The sum of the measured activities and of the dose rate, which comprises 97% of the total one expected, is underestimated by less than 20%. In a realistic power plant it is expected that nuclides with C/E values closer to unity will contribute more, meaning that this value may be considered as upper limit.
+The activities of six radionuclides, which are dominant for the dose rate in power plant conditions up to about 10 years (Fig. 2), were measured in the experiments 2 and 3. The sum of the activities and of the dose rate agrees also within 20% with the results of EASY-99 calculations. Together with the C/E obtained in previous measurements [5] for the activities of Co isotopes, the radioactivity calculated for reactor neutron fluxes can be validated at this level.
+26Al and 53Mn are dominant in Fig. 2 in the range of the long-term radioactivity. The small Al content of the Eurofer sample was confirmed by the C/E obtained for the 24Na activities (Table 4). Cross-section and half-life uncertainties for 27Al(n,2n) 26Al, the channel with 99.9% contribution, result in 30% uncertainty of the calculated value. 53Mn is produced to 98% by 54Fe(n,d). The uncertainty of the calculated dose rate for this channel was estimated by EASY-99 to be at 60%. Summarising it may be stated, that the low-activation behaviour of Eurofer as predicted in Fig. 1 is satisfactorily confirmed by the irradiation experiments.
+
+Body:
+The radioactivity induced by neutrons in the materials of a fusion device represents a central topic of safety-related investigations [1]. Radionuclides with a broad range of half-lives have to be included in the corresponding analyses. The short-term radioactivity (half-life ranging from the order of magnitude of minutes to weeks) is mainly of interest with respect to heat production and shut-down dose rates, whereas long-term radioactivity (half-life of the order of 10–100 years or more) determines the waste management [2].
+
+The spectrum of the neutron flux in a fusion device consists of two parts, a D–T fusion peak at 14 MeV and a continuum ranging down to thermal energies. The radioactivity is mainly produced at 14 MeV neutron energy, where the number of open reaction channels is a maximum, and at thermal neutron energy, where cross-section values are large. In the present work, the radioactivity induced by 14 MeV neutrons in Eurofer was investigated.
+
+The elemental composition of Eurofer-97 is presented in Table 1
+                     . In a calculation with the European Activation System (EASY-99) [3], this material was taken to be irradiated with 14 MeV neutrons of a flux density corresponding to the power of 1.0 MW/m2, for a period of 1 year. The results obtained for the contact dose rate as a function of decay time after irradiation are shown in Fig. 1
+                     . The same calculations, corresponding to fusion power plant conditions, were carried out for the ITER stainless steel 316 and for the low-activation steel F82H, and the results are presented in Fig. 1.
+
+For Eurofer and for F82H the dose rates are close together due to similar elemental composition (Table 1). Compared to SS316, the dose rate is expected to be significantly lower for the broad range of decay times from hours up to 104 years. At about 200 years the hands-on limit is achieved. The long-term radioactivity of SS316, dominated by 94Nb and 91Nb, that are produced by several reactions on Mo isotopes, is about 100 times higher than those of Eurofer, where 26Al from 27Al (n,2n) contributes to 70%. Reactions on Ni isotopes lead to 58Co and 60Co that determine the higher dose rates of SS316 compared to Eurofer for decay times between ≃1 day and 50 years.
+
+A comparison of experimental and calculated radioactivity induced by 14 MeV neutrons in SS316 and F82H was presented at ICFRM-9 [5] for decay times between 30 h and 200 d. Agreement was found for the total activities within ±30%. Investigating Eurofer, the range of decay time was extended, especially to the short-term radioactivity.
+
+The contribution of the different radionuclides to the total dose rate, as shown in Fig. 2
+                     , suggested carrying out at least two irradiations, a very short one to determine the radioactivity of nuclides with half-life of the order of minutes and a second one to investigate the activity of nuclides in the middle part of the figure.
+
+The irradiations were performed at the high-intensity D–T neutron generator SNEG-13 [6] at Sergiev Posad. The 14 MeV neutron peak had at the sample position a mean energy of 〈E
+                     n〉=14.93 MeV and a spread of ΔE
+                     n=±0.27 MeV. The incidence energy was shifted in a third experiment to (14.37±0.12) MeV to check the influence of threshold reactions on the γ-radioactivity. The parameters of the three irradiations are given in Table 2
+                     . The applied neutron fluences were determined via activation measurement of niobium foils by the reaction 93Nb(n,2n)92mNb. The cross-section of this reaction was considered constant in the energy range 14–15 MeV and is equal to 464 mb with an uncertainty of 4.2%. A possible background component of thermal neutrons was checked by 197Au(n,γ) and by 115In(n,γ) activation using thin foils. No statistically significant count rate was found for the decay of 198Au. The very large integral capture cross-section of 115In resulted in count rates, which showed that the flux of low-energy neutrons at the sample position is 10−5 of the total. The samples had dimensions of 10×10 mm and a thickness of the order of 1 mm. The γ-ray spectra were taken from the irradiated samples at the decay time t
+                     1 (Fig. 2) in the case of experiment no. 1 and at t
+                     2, t
+                     3 and t
+                     4 in the experiments 2 and 3. The detection efficiency of the Ge(Li)-spectrometer used had an uncertainty of 2.5–3.0% in the energy range of measurements (60 keV–3 MeV). The γ-activities identified by energy and half-life were used to determine nuclide activities with γ-yield data from EASY.
+
+The activities of 28Al, 51Ti, 52V, 53V, 56Mn, 57Mn and 53Fe were measured in experiment 1. They are compared in Table 3
+                      with the results of EASY-99 calculations. The uncertainties of the ratios of calculated-to-experimental values (C/E) include both total experimental and calculation (cross-section as well as half-life) errors. Deviations from C/E=1.0 larger than the uncertainty range are observed in three cases only.
+
+The activities of 24Na, 48Sc, 51Cr, 54Mn and 56Mn were investigated in the experiments 2 and 3. The results are presented in Table 4
+                     . A significant underestimation was found for 54Mn. Some energy dependence of the C/E can be stated for 51Cr as in previous experiments with steels [5]. For the other activities, C and E agree within their uncertainties.
+
+As the contributions of the several nuclides to the radioactivity of the materials are very different, the sum of the measured activities are compared for the three experiments in Table 5
+                      with the corresponding calculated values. The (C/E)A ratios for the activity deviate less than 20% from unity. Furthermore, the C/E obtained for the individual activities were applied to the dose rates calculated for these nuclides, resulting in a value for the sum of the dose rates, which represents an experimental result, but with exclusion of testing the γ-yield and absorption data. Also the (C/E)D for the dose rates are satisfactory.
+
+The activities of radionuclides, which determine the short-term radioactivity produced in Eurofer by 14 MeV neutrons in fusion power plant conditions (Fig. 2), were measured in the irradiation experiment 1 at SNEG-13 and compared with EASY-99 calculations. The sum of the measured activities and of the dose rate, which comprises 97% of the total one expected, is underestimated by less than 20%. In a realistic power plant it is expected that nuclides with C/E values closer to unity will contribute more, meaning that this value may be considered as upper limit.
+
+The activities of six radionuclides, which are dominant for the dose rate in power plant conditions up to about 10 years (Fig. 2), were measured in the experiments 2 and 3. The sum of the activities and of the dose rate agrees also within 20% with the results of EASY-99 calculations. Together with the C/E obtained in previous measurements [5] for the activities of Co isotopes, the radioactivity calculated for reactor neutron fluxes can be validated at this level.
+
+26Al and 53Mn are dominant in Fig. 2 in the range of the long-term radioactivity. The small Al content of the Eurofer sample was confirmed by the C/E obtained for the 24Na activities (Table 4). Cross-section and half-life uncertainties for 27Al(n,2n) 26Al, the channel with 99.9% contribution, result in 30% uncertainty of the calculated value. 53Mn is produced to 98% by 54Fe(n,d). The uncertainty of the calculated dose rate for this channel was estimated by EASY-99 to be at 60%. Summarising it may be stated, that the low-activation behaviour of Eurofer as predicted in Fig. 1 is satisfactorily confirmed by the irradiation experiments.
+
+The work was supported by the European Fusion Technology Programme, by grant no. RUS-540-96 of the German Federal Ministry of Education, Science, Research and Technology and by the Ministry of Higher Education, Research and Culture of the Free State of Saxony. The authors would like to thank Drs U. von Möllendorff, C. Adelhelm, M. Pillon and B. van der Schaaf for supplying or analysing samples.

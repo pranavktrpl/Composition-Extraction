@@ -1,0 +1,975 @@
+Title:
+Microstructural evolution of Y
+
+Abstract:
+Different ODS EUROFER steels reinforced with Y2O3 and MgAl2O4 were elaborated by mechanical milling and hot isostatic pressing. Good compromise between strength and ductility could be obtained but the impact properties remain low (especially for the Y2O3 ODS steel). The materials were structurally characterized at each step of the elaboration. During milling, the martensite laths of the steel are transformed into nano-metric ferritic grains and the Y2O3 oxides dissolve (but not the MgAl2O4 spinels). After the HIP, all the ODS steels remain ferritic with micrometric grains, surrounded by nano-metric grains for the Y2O3 ODS steels. The mechanisms in the Y2O3 ODS steels are complex: the Y2O3 oxides re-precipitate as nano-Y2O3 particles that impede a complete austenitization during the HIP. The quenchability of the ODS steels is modified by the milling process, the oxide nature and the oxide content. Eventually, the advantages and drawbacks of each oxide type are discussed.
+
+Acknowledgements:
+Acknowledgments:
+Acknowledgments
+               This work has been sponsored in great part by the European Fusion Development Agreement (EFDA). The authors wish to thank J.M. Hennequin for the milling process, P. Bucci and J.M. Leibold for the HIP process, and J.M. Gentzbittel for the useful discussions.
+
+Introduction:
+1.1
+                     From RAFM to ODS RAFM steels
+                     Reduced activation ferritic/martensitic (RAFM) steels are promising structural materials for the first wall of future fusion reactors DEMO [1]. These steels have proven to be a good alternative to austenitic steels for their better thermal conductivity, their higher swelling resistance and lower accumulation damage [2]. Their development has been promoted in order to simplify special waste storage of highly radioactive structures of fusion reactor after service; some alloying elements present in the commercial martensitic steels have been substituted by other ones that exhibit faster decay of induced radioactivity. In many RAFM steels, the Cr content has been limited to 9%, which is sufficient for corrosion resistance and corresponds to the lowest DBTT during impact tests [3]: higher Cr content (>12%) leads to the formation of δ ferrite and of Cr rich phase α′ under irradiation at low temperature [4] that both lower the impact toughness. Different 8–9Cr RAFM steels based on OPTIFER type have been developed and widely studied such as JLF, F82H (see [5] for an overview), OPTIMAX [6] and more recently EUROFER 97 [7,8]. However, RAFM steels are limited to temperatures lower than about 650°C, whereas higher temperatures are required to improve the reactor’s efficiency.
+                     The use of oxide dispersion to strengthen (ODS) alloys in order to increase the working temperature of materials dates from the 1950’s and was widely developed in the 1960’s, especially for aerospace industry [9]. One of the most spread ways to elaborate ODS alloys is to mix the oxide powders with the alloy ones by mechanical milling (MM). The oxide reinforcement that has been the most largely used is Y2O3, and many Y2O3 ODS steels are commercially available (named MA956 and MA957 [10]). The benefits of the 12–13Cr ODS steels as cladding material for liquid metal fast breeder reactors were recognized in the late sixties [11] and developed in Japan for this application by Ukai [12–16]. Recently, RAFM ODS steels are assessed to evaluate their potentiality in fusion reactors at temperatures higher than 650°C and their ability to substitute the RAFM steels while keeping their inherent advantages [17–19]. Indeed, many studies proved that the tensile and creep properties of the RAFM ODS steels are improved in comparison with unreinforced steels [20] allowing them to just fulfill the tentative DEMO’s design criteria [19]. This improvement is attributed to the dislocation pinning by a dispersion of nano-oxides originated from the initial Y2O3 reinforcements. The mechanisms implied in the formation of these nano-oxides are complex. Okuda proves by an X-ray study that the Y2O3 oxides dissolve in steels during the MM and precipitate with Ti after annealing at temperature higher than 1000°C in form of very fine and complex Y2Ti2O7 and Y2TiO5 oxides [21]. Such chemical changes were also proved by 3D Atom-Probe measurements [22] or EDS analyses on carbon replica [23,24].
+1.2
+                     Properties of ODS steels under irradiation
+                     
+                        1.2.1
+                        Swelling and toughness
+                        The 12–13Cr ODS ferritic/martensitic steels were proved to be very resistant to the swelling produced irradiation by ions [25], electrons [26], or neutrons [2,27]. However, it should be noticed that the dislocation density plays a key role in the swelling resistance, and Saito showed that recrystallized ODS steels could have higher void swelling than conventional ferritic/martensitic steels under electron irradiation at 698K.
+                        The results about the toughness of the 11–13Cr ODS steels after neutron irradiations are not easily comparable. Yoshitake has reported no remarkable embrittlement after irradiation at 450–600°C (by burst tests at 600°C) [28] whereas Kuwabara has reported a loss of toughness after irradiation at temperatures higher than 520°C (by impact Charpy tests) [29]. Sagardze showed an embrittlement of the 13Cr ODS steels irradiated at 410°C (by tensile tests), but comparable with the one observed in the BCC steels [30]. These differences between authors are probably due to the difference between the mechanical tests and between the microstructures (absence of α′ and χ phase in the Japanese ODS steels).
+                     
+                     
+                        1.2.2
+                        Oxide stability
+                        The first electron irradiations at 1MeV proved that the nano-oxides were stable under irradiation [26]. However, Dubuisson suspected a possible dissolution of the oxide particles induced by neutron irradiation [31]. Actually, the phenomenon was recently confirmed by Yamashita for the smaller oxides in an 11Cr ODS steel up to 21dpa (but was judged sufficiently limited) [2] and more convincingly by Monnet [24] in a 13Cr ODS steels up to 81dpa. In order to better understand the dissolution mechanisms and to elaborate predictive models, Monnet studied the stability of different other oxides (MgAl2O4, MgO and Al2O3) under irradiation by neutrons, electron and ions [24]. She clearly showed that the dissolution occurs for all the oxide types and for all the irradiation particles (even for the Y2O3 by electron irradiation at 1.2MeV), and that the less unstable oxides are Y2O3 and MgAl2O4.
+1.3
+                     Elaboration processes
+                     
+                        1.3.1
+                        Hot working
+                        The commercial ODS steels and those developed in Japan imply all the consolidation of the milled powders by hot extrusion and hot and/or cold working. These processes create materials with bamboo-like grain structure and therefore anisotropic mechanical properties. Moreover, the grains are often very small, which is not appropriate for the formability of the work pieces (high strength) and their application at high temperatures (low creep resistance by grain boundary sliding).
+                        A solution to increase the grain size was to apply a recrystallization after the thermomechanical treatment [13,32,33]. However, such method is very tricky; the recrystallization temperature is very high and strongly dependent on the oxide reinforcement content. The high recrystallization temperature might come from a pinning effect of the nano-oxides [13] (many other explanations exist, such as pinning by the nano-grain junctions [33], or carbon dissolution yielding to an increase in pressing strains [34]).
+                        A solution to improve the isotropy proposed by Ukai was to use the γ→α′ transformations [12,14]. However, the cooling rate of the transformation in the ODS steel (few hundred K/h) is far higher than the one for the conventional martensitic steel (around 20K/h) [15]. This loss of quenchability was attributed to the very fine size of the prior austenitic grains [35–37]. Thus, such process could be confronted to technical problems to obtain such a rapid cooling rate on large parts.
+                        A solution to solve both the anisotropy and the grain size problem proposed by Lambard [23] was to use the γ→α transformation. Indeed, a slow cooling during the γ→α transformation allows obtaining ferrite grains larger than the prior austenitic grains that could further be transformed into austenite and then martensite. Optimized ODS steel with both isotropy and large prior austenitic grains (10μm) could be elaborated [23]. Similar study performed by Ukai confirms the potentiality of the method [15].
+                     
+                     
+                        1.3.2
+                        Hot isostatic pressing
+                        Another solution to avoid any formability or anisotropy problems is the hot isostatic pressing (HIP) [39]. This technique has the main advantage of allowing the manufacture of large net shape or near-net shape parts, with the possibility at the same time to join different parts by diffusion welding. Recently, two Y2O3 EUROFER ODS steels elaborated by Plansee following this method have been mechanically and structurally characterized by Lindau [40] and Schäublin [41]. The tensile and creep properties of the ODS are confirmed to be better than the base steel, but the impact toughness is very low, with a ductile-brittle transition temperature (DBTT) of around 100°C in comparison with the −100°C of the EUROFER steel. A possible residual porosity is claimed to be the cause of the low impact toughness properties of the ODS steel elaborated by HIP [19]. Such porosity has actually been observed on one of the two ODS steel studied by Lindau, but not in the one that has been impact tested. Anyway, great attention to the porosity must be paid during the elaboration by HIP.
+                        Our laboratory elaborates ODS steels directly by HIP since 1993 [38,39]. Two kinds of ODS steels with the most irradiation resistant oxides Y2O3 and MgAl2O4 are developed. As previously mentioned, the martensitic transformation in the Y2O3 ODS steels requires very high cooling rates. Martensite is however preferred to polygonal ferrite for its better impact properties (martensite forms a stronger barrier for crack propagation) and better irradiation resistance [42], Therefore, efforts have been made to obtain martensitic ODS steels. Since all steps of the process imply complex microstructural changes, the present work will report the evolution of the microstructure at each step in the aim to further optimize the materials by choosing the most appropriate elaboration parameters. In this study the basic mechanical properties of the Y2O3 and MgAl2O4 HIPped ODS steels will also be reported and linked to the microstructure. The advantages and drawbacks of each oxide will be discussed.
+
+From RAFM to ODS RAFM steels:
+Reduced activation ferritic/martensitic (RAFM) steels are promising structural materials for the first wall of future fusion reactors DEMO [1]. These steels have proven to be a good alternative to austenitic steels for their better thermal conductivity, their higher swelling resistance and lower accumulation damage [2]. Their development has been promoted in order to simplify special waste storage of highly radioactive structures of fusion reactor after service; some alloying elements present in the commercial martensitic steels have been substituted by other ones that exhibit faster decay of induced radioactivity. In many RAFM steels, the Cr content has been limited to 9%, which is sufficient for corrosion resistance and corresponds to the lowest DBTT during impact tests [3]: higher Cr content (>12%) leads to the formation of δ ferrite and of Cr rich phase α′ under irradiation at low temperature [4] that both lower the impact toughness. Different 8–9Cr RAFM steels based on OPTIFER type have been developed and widely studied such as JLF, F82H (see [5] for an overview), OPTIMAX [6] and more recently EUROFER 97 [7,8]. However, RAFM steels are limited to temperatures lower than about 650°C, whereas higher temperatures are required to improve the reactor’s efficiency.
+The use of oxide dispersion to strengthen (ODS) alloys in order to increase the working temperature of materials dates from the 1950’s and was widely developed in the 1960’s, especially for aerospace industry [9]. One of the most spread ways to elaborate ODS alloys is to mix the oxide powders with the alloy ones by mechanical milling (MM). The oxide reinforcement that has been the most largely used is Y2O3, and many Y2O3 ODS steels are commercially available (named MA956 and MA957 [10]). The benefits of the 12–13Cr ODS steels as cladding material for liquid metal fast breeder reactors were recognized in the late sixties [11] and developed in Japan for this application by Ukai [12–16]. Recently, RAFM ODS steels are assessed to evaluate their potentiality in fusion reactors at temperatures higher than 650°C and their ability to substitute the RAFM steels while keeping their inherent advantages [17–19]. Indeed, many studies proved that the tensile and creep properties of the RAFM ODS steels are improved in comparison with unreinforced steels [20] allowing them to just fulfill the tentative DEMO’s design criteria [19]. This improvement is attributed to the dislocation pinning by a dispersion of nano-oxides originated from the initial Y2O3 reinforcements. The mechanisms implied in the formation of these nano-oxides are complex. Okuda proves by an X-ray study that the Y2O3 oxides dissolve in steels during the MM and precipitate with Ti after annealing at temperature higher than 1000°C in form of very fine and complex Y2Ti2O7 and Y2TiO5 oxides [21]. Such chemical changes were also proved by 3D Atom-Probe measurements [22] or EDS analyses on carbon replica [23,24].
+
+Properties of ODS steels under irradiation:
+1.2.1
+                        Swelling and toughness
+                        The 12–13Cr ODS ferritic/martensitic steels were proved to be very resistant to the swelling produced irradiation by ions [25], electrons [26], or neutrons [2,27]. However, it should be noticed that the dislocation density plays a key role in the swelling resistance, and Saito showed that recrystallized ODS steels could have higher void swelling than conventional ferritic/martensitic steels under electron irradiation at 698K.
+                        The results about the toughness of the 11–13Cr ODS steels after neutron irradiations are not easily comparable. Yoshitake has reported no remarkable embrittlement after irradiation at 450–600°C (by burst tests at 600°C) [28] whereas Kuwabara has reported a loss of toughness after irradiation at temperatures higher than 520°C (by impact Charpy tests) [29]. Sagardze showed an embrittlement of the 13Cr ODS steels irradiated at 410°C (by tensile tests), but comparable with the one observed in the BCC steels [30]. These differences between authors are probably due to the difference between the mechanical tests and between the microstructures (absence of α′ and χ phase in the Japanese ODS steels).
+1.2.2
+                        Oxide stability
+                        The first electron irradiations at 1MeV proved that the nano-oxides were stable under irradiation [26]. However, Dubuisson suspected a possible dissolution of the oxide particles induced by neutron irradiation [31]. Actually, the phenomenon was recently confirmed by Yamashita for the smaller oxides in an 11Cr ODS steel up to 21dpa (but was judged sufficiently limited) [2] and more convincingly by Monnet [24] in a 13Cr ODS steels up to 81dpa. In order to better understand the dissolution mechanisms and to elaborate predictive models, Monnet studied the stability of different other oxides (MgAl2O4, MgO and Al2O3) under irradiation by neutrons, electron and ions [24]. She clearly showed that the dissolution occurs for all the oxide types and for all the irradiation particles (even for the Y2O3 by electron irradiation at 1.2MeV), and that the less unstable oxides are Y2O3 and MgAl2O4.
+
+Swelling and toughness:
+The 12–13Cr ODS ferritic/martensitic steels were proved to be very resistant to the swelling produced irradiation by ions [25], electrons [26], or neutrons [2,27]. However, it should be noticed that the dislocation density plays a key role in the swelling resistance, and Saito showed that recrystallized ODS steels could have higher void swelling than conventional ferritic/martensitic steels under electron irradiation at 698K.
+The results about the toughness of the 11–13Cr ODS steels after neutron irradiations are not easily comparable. Yoshitake has reported no remarkable embrittlement after irradiation at 450–600°C (by burst tests at 600°C) [28] whereas Kuwabara has reported a loss of toughness after irradiation at temperatures higher than 520°C (by impact Charpy tests) [29]. Sagardze showed an embrittlement of the 13Cr ODS steels irradiated at 410°C (by tensile tests), but comparable with the one observed in the BCC steels [30]. These differences between authors are probably due to the difference between the mechanical tests and between the microstructures (absence of α′ and χ phase in the Japanese ODS steels).
+
+Oxide stability:
+The first electron irradiations at 1MeV proved that the nano-oxides were stable under irradiation [26]. However, Dubuisson suspected a possible dissolution of the oxide particles induced by neutron irradiation [31]. Actually, the phenomenon was recently confirmed by Yamashita for the smaller oxides in an 11Cr ODS steel up to 21dpa (but was judged sufficiently limited) [2] and more convincingly by Monnet [24] in a 13Cr ODS steels up to 81dpa. In order to better understand the dissolution mechanisms and to elaborate predictive models, Monnet studied the stability of different other oxides (MgAl2O4, MgO and Al2O3) under irradiation by neutrons, electron and ions [24]. She clearly showed that the dissolution occurs for all the oxide types and for all the irradiation particles (even for the Y2O3 by electron irradiation at 1.2MeV), and that the less unstable oxides are Y2O3 and MgAl2O4.
+
+Elaboration processes:
+1.3.1
+                        Hot working
+                        The commercial ODS steels and those developed in Japan imply all the consolidation of the milled powders by hot extrusion and hot and/or cold working. These processes create materials with bamboo-like grain structure and therefore anisotropic mechanical properties. Moreover, the grains are often very small, which is not appropriate for the formability of the work pieces (high strength) and their application at high temperatures (low creep resistance by grain boundary sliding).
+                        A solution to increase the grain size was to apply a recrystallization after the thermomechanical treatment [13,32,33]. However, such method is very tricky; the recrystallization temperature is very high and strongly dependent on the oxide reinforcement content. The high recrystallization temperature might come from a pinning effect of the nano-oxides [13] (many other explanations exist, such as pinning by the nano-grain junctions [33], or carbon dissolution yielding to an increase in pressing strains [34]).
+                        A solution to improve the isotropy proposed by Ukai was to use the γ→α′ transformations [12,14]. However, the cooling rate of the transformation in the ODS steel (few hundred K/h) is far higher than the one for the conventional martensitic steel (around 20K/h) [15]. This loss of quenchability was attributed to the very fine size of the prior austenitic grains [35–37]. Thus, such process could be confronted to technical problems to obtain such a rapid cooling rate on large parts.
+                        A solution to solve both the anisotropy and the grain size problem proposed by Lambard [23] was to use the γ→α transformation. Indeed, a slow cooling during the γ→α transformation allows obtaining ferrite grains larger than the prior austenitic grains that could further be transformed into austenite and then martensite. Optimized ODS steel with both isotropy and large prior austenitic grains (10μm) could be elaborated [23]. Similar study performed by Ukai confirms the potentiality of the method [15].
+1.3.2
+                        Hot isostatic pressing
+                        Another solution to avoid any formability or anisotropy problems is the hot isostatic pressing (HIP) [39]. This technique has the main advantage of allowing the manufacture of large net shape or near-net shape parts, with the possibility at the same time to join different parts by diffusion welding. Recently, two Y2O3 EUROFER ODS steels elaborated by Plansee following this method have been mechanically and structurally characterized by Lindau [40] and Schäublin [41]. The tensile and creep properties of the ODS are confirmed to be better than the base steel, but the impact toughness is very low, with a ductile-brittle transition temperature (DBTT) of around 100°C in comparison with the −100°C of the EUROFER steel. A possible residual porosity is claimed to be the cause of the low impact toughness properties of the ODS steel elaborated by HIP [19]. Such porosity has actually been observed on one of the two ODS steel studied by Lindau, but not in the one that has been impact tested. Anyway, great attention to the porosity must be paid during the elaboration by HIP.
+                        Our laboratory elaborates ODS steels directly by HIP since 1993 [38,39]. Two kinds of ODS steels with the most irradiation resistant oxides Y2O3 and MgAl2O4 are developed. As previously mentioned, the martensitic transformation in the Y2O3 ODS steels requires very high cooling rates. Martensite is however preferred to polygonal ferrite for its better impact properties (martensite forms a stronger barrier for crack propagation) and better irradiation resistance [42], Therefore, efforts have been made to obtain martensitic ODS steels. Since all steps of the process imply complex microstructural changes, the present work will report the evolution of the microstructure at each step in the aim to further optimize the materials by choosing the most appropriate elaboration parameters. In this study the basic mechanical properties of the Y2O3 and MgAl2O4 HIPped ODS steels will also be reported and linked to the microstructure. The advantages and drawbacks of each oxide will be discussed.
+
+Hot working:
+The commercial ODS steels and those developed in Japan imply all the consolidation of the milled powders by hot extrusion and hot and/or cold working. These processes create materials with bamboo-like grain structure and therefore anisotropic mechanical properties. Moreover, the grains are often very small, which is not appropriate for the formability of the work pieces (high strength) and their application at high temperatures (low creep resistance by grain boundary sliding).
+A solution to increase the grain size was to apply a recrystallization after the thermomechanical treatment [13,32,33]. However, such method is very tricky; the recrystallization temperature is very high and strongly dependent on the oxide reinforcement content. The high recrystallization temperature might come from a pinning effect of the nano-oxides [13] (many other explanations exist, such as pinning by the nano-grain junctions [33], or carbon dissolution yielding to an increase in pressing strains [34]).
+A solution to improve the isotropy proposed by Ukai was to use the γ→α′ transformations [12,14]. However, the cooling rate of the transformation in the ODS steel (few hundred K/h) is far higher than the one for the conventional martensitic steel (around 20K/h) [15]. This loss of quenchability was attributed to the very fine size of the prior austenitic grains [35–37]. Thus, such process could be confronted to technical problems to obtain such a rapid cooling rate on large parts.
+A solution to solve both the anisotropy and the grain size problem proposed by Lambard [23] was to use the γ→α transformation. Indeed, a slow cooling during the γ→α transformation allows obtaining ferrite grains larger than the prior austenitic grains that could further be transformed into austenite and then martensite. Optimized ODS steel with both isotropy and large prior austenitic grains (10μm) could be elaborated [23]. Similar study performed by Ukai confirms the potentiality of the method [15].
+
+Hot isostatic pressing:
+Another solution to avoid any formability or anisotropy problems is the hot isostatic pressing (HIP) [39]. This technique has the main advantage of allowing the manufacture of large net shape or near-net shape parts, with the possibility at the same time to join different parts by diffusion welding. Recently, two Y2O3 EUROFER ODS steels elaborated by Plansee following this method have been mechanically and structurally characterized by Lindau [40] and Schäublin [41]. The tensile and creep properties of the ODS are confirmed to be better than the base steel, but the impact toughness is very low, with a ductile-brittle transition temperature (DBTT) of around 100°C in comparison with the −100°C of the EUROFER steel. A possible residual porosity is claimed to be the cause of the low impact toughness properties of the ODS steel elaborated by HIP [19]. Such porosity has actually been observed on one of the two ODS steel studied by Lindau, but not in the one that has been impact tested. Anyway, great attention to the porosity must be paid during the elaboration by HIP.
+Our laboratory elaborates ODS steels directly by HIP since 1993 [38,39]. Two kinds of ODS steels with the most irradiation resistant oxides Y2O3 and MgAl2O4 are developed. As previously mentioned, the martensitic transformation in the Y2O3 ODS steels requires very high cooling rates. Martensite is however preferred to polygonal ferrite for its better impact properties (martensite forms a stronger barrier for crack propagation) and better irradiation resistance [42], Therefore, efforts have been made to obtain martensitic ODS steels. Since all steps of the process imply complex microstructural changes, the present work will report the evolution of the microstructure at each step in the aim to further optimize the materials by choosing the most appropriate elaboration parameters. In this study the basic mechanical properties of the Y2O3 and MgAl2O4 HIPped ODS steels will also be reported and linked to the microstructure. The advantages and drawbacks of each oxide will be discussed.
+
+Elaboration of the ODS steels by MM and HIP:
+A forged bar of a European RAFM steel heat named EUROFER 97 supplied by Böhler (E83699) has been atomized under argon by Osprey. The chemical composition of the steel powder is mainly the same that the heat one: 8.9 wt% Cr, 1.1 wt% W, 0.1 wt% C (the complete composition is reported in [39]). The powder has a homogeneous and spherical morphology. (Fig. 1
+                     ). The grain size of the powder particles can be estimated to 5–10μm with a fully martensitic microstructure. In order to get better homogeneity during the mechanical alloying, the powder was sieved and only particles having a size less than 45 μm have been used for the elaboration of the ODS EUROFER steels. The oxygen content depends on the powder size. It is 0.0013 wt% in the heat and higher in the atomized powder. It is 0.02-wt% for powder between 45 and 250μm and 0.043 wt% for powder lower than 45μm, which corresponds to an oxide layer of 35 and 15nm respectively (supposing that the oxide is Cr2O3). The Y2O3 and MgAl2O4 oxide powders are constituted of small crystallites with sizes ranging from 10 to 100nm, as shown in the TEM images of the initial powders in Figs. 2
+                      and 3
+                     .
+Four materials have been elaborated by milling the EUROFER powders with 0.2% Y2O3, 1% Y2O3, 1% MgAl2O4 or without any reinforcement (further named 0% ODS steel). Two kinds of mills have been used:
+                     
+                        
+                           •
+                           A drum mill with a 5kg capacity per batch. The milling lasts 80h, at a speed v
+                              =47rpm with a drum diameter of 730mm and a ball to powder mass ratio of M
+                              ball/M
+                              powder
+                              =20, under argon atmosphere (Fig. 4
+                              ). The drum mill has been used to prepare the unreinforced and Y2O3 ODS steel powders.
+                        
+                        
+                           •
+                           An attritor mill with a 0.4kg capacity. The milling lasts 80h, at a speed v
+                              =300rpm, with ball to powder mass ratio of M
+                              ball/M
+                              powder
+                              =20, under argon atmosphere (Fig. 5
+                              ). The attritor mill has been used to prepare the MgAl2O4 steel powders, because smaller quantities of powder were required for a first assessment of this ODS steel.
+All the milling have been realized under the same optimized conditions, which ensure a rate of milled particles over 99% and a low contamination of oxygen and carbon.
+The milled powders were placed in 304L steel containers, which were then outgassed, sealed and consolidated by HIP at 1020°C/2h/1000bar under argon followed by a furnace cooling. Post-heat treatments have also been performed on some of the ODS steels. The specifications for classical (i.e. non-ODS) EUROFER alloys request after manufacturing process a normalization treatment at 950°C followed by water quenching (WQ) and tempering treatment at 750°C in order to obtain a tempered martensitic structure. Nevertheless, as previously mentioned, martensitic transformation is difficult to obtain in the Y2O3 ODS EUROFER steels due to the small γ grain size. By consequence, to increase the γ grain size, the austenitizing temperature of the heat treatment has been increased to 1300°C. Due to the possible γ→δ transformation at such high temperature (T
+                     γ→δ
+                     =1260°C in the F82H and JLF1 steels), the stage at 1300°C has been followed by a stage at 1150°C for a re-austenitization before a furnace cooling (FC). The new heat treatment is then: 1300°C/3h+1150°C/1h+FC. It has been realized under argon on all the ODS EUROFER steels.
+
+Experimental techniques:
+The materials have been tensile tested at a strain rate of 4×10−4
+                     s−1 at room temperature with specimens having gauge dimensions of ∅4×20mm and at 550°C with specimens having gauge dimensions of ∅6×30mm. Two specimens were used for each material. The materials have been impact tested at room temperature with Charpy KCV specimens (length of 55mm, section of 10×10mm2 section, with a V-notch of 2mm).
+Dilatometric measurements have been performed on a SETARAM DHT 2050K dilatometer. All the cycles have been performed under a pressure of 1bar of argon.
+The materials have been observed in a Jeol 2000 FX transmission electron microscope (TEM) equipped with an X ray energy dispersive spectrometer (EDS) for the chemical analyses. The TEM samples of the milled powders have been prepared by ultramicrotomy, and those of the consolidated steels by mechanical grinding and electropolishing.
+
+Mechanical properties:
+The tensile properties of the materials at room temperature and at 550°C are reported in Tables 1
+                      and 2
+                     , respectively. Those of wrought EUROFER have been added for comparison. The as-HIPped 1% Y2O3 ODS EUROFER steels show very high yield stress and ultimate tensile stress (1170MPa), far beyond the specifications required for EUROFER steels; but have insufficient elongation (2%) and no improvement could been obtained after a heat treatment at 950°C+WQ. The heat treatment at higher temperature 1300°C+1150°C+FC allows a slight improvement of ductility while keeping high tensile strength. Reducing the oxide content to 0.2% Y2O3 improves the elongation to rupture while keeping good strength (1060MPa, 12%). The as-HIPped 1% MgAl2O4 ODS steel is found to correspond to the best compromise (930MPa, 22%). For these last two ODS steels, the high temperature heat treatment does not lead to further improvement.
+The results of the room temperature Charpy impact tests with KCV specimens are presented in Table 3
+                     . The impact properties of the MgAl2O4 ODS steels, although less than half of those reported for the EUROFER, are far better than those of Y2O3 ODS steels.
+The mechanical properties will be discussed and linked to the microstructure in Section 6.1.
+
+Microstructural evolution during the elaboration:
+5.1
+                     After the mechanical milling
+                     The MM process was only used to mix the oxide reinforcement powders to the EUROFER powders. Nevertheless, it completely modifies the microstructure as shown as follows:
+                     The SEM observations on the as-milled powders (Fig. 6
+                        ) show that the drum-milled powders have a globular-plate shape, as represented in Fig. 6(a), (c), and (d). The mean size (determined by laser scattering) is clearly affected by the reinforcement content: it is 100μm without reinforcement, 90μm with 0.2% Y2O3, and 40μm with 1% Y2O3. Such phenomenon can be explained by the progressive ODS hardening of the reinforced powder particles during the milling process, which makes the mixed EUROFER+oxides powders more brittle than the unreinforced EUROFER powders. The attritor milled powders reinforced with MgAl2O4 are larger and flatter (Fig. 6(b)). The mean particle size is 75μm. For comparison, the mean size of a 1% Y2O3 EUROFER powder milled with the attritor mill is smaller (40μm). Let us recall here that 1 wt%=1.55 vol.% for Y2O3 and 2.18 vol.% for MgAl2O4. This proves that it is the oxide nature (and not its content nor the mill type) that plays a key role on the refinement of the powder during the milling.
+                     The TEM observations on the as-milled powders (Fig. 7
+                        ) show that with or without reinforcement, the martensitic laths of the EUROFER powders have been suppressed and replaced by an isotropic structure of nano-sized grains (50nm). Since no carbide could be detected, we supposed that the carbon was kept in solution. It could be noticed that the mean grain size depends on the oxide nature and contents: it is 40–60nm for the 0% ODS steels, and 10–30nm for the 1% MgAl2O4, 10–20 nm for the 0.2% Y2O3 ODS steel, and 5–20nm for the 1% Y2O3 ODS steel. This confirms that oxides have a direct effect on the hardness of the steel powders in which they incorporate. The MgAl2O4 could be observed by classical bright field TEM or Scanning TEM observations (Fig. 8
+                        ), but not the Y2O3 oxides. We conclude that the MgAl2O4 spinels are not affected by the MM, whereas the Y2O3 oxides dissolve during the milling process. This point will be discussed in Section 6.2.
+                     The direct influence of the Y2O3 particles on the final grain size can be explained by their progressive size reduction and dissolution during the milling. It seems that they have hardened more the steel powder during the milling in their lower size form than in their initial oxide form. This point is confirmed by the lower influence of the MgAl2O4 spinels on the grain size and on the powder size. Let us recall that the MgAl2O4 ODS steel powders were milled with an attritor mill whereas the 0% and Y2O3 ODS steel powders were milled with a drum mill; however, as it will be discussed in Section 5.3, we will make the assumption that the microstructural changes are mainly due to the oxide nature rather than to the mill type.
+5.2
+                     After the HIP consolidation
+                     Micrographies and hardness of the EUROFER and ODS EUROFER steels after their HIP consolidation are reported in Fig. 9
+                        . Determining from the images whether the microstructure is martensitic or ferritic is difficult. Only the few unmilled particles are clearly martensitic as shown by their inside lath morphology. However, the low hardness values of the 0% and 1% MgAl2O4 ODS steels seem to indicate a ferritic structure. The higher hardness values of the Y2O3 ODS steels cannot be directly interpreted as the presence of martensite due to a possible grain size effect [23]. Actually, the large black particles visible in the metallographies are carbides, which therefore means that the structure is ferritic.
+                     TEM observations were performed in order to avoid any ambiguity. The absence of martensite in all the as-HIPped materials was confirmed (Fig. 10
+                        ). Moreover, the grain structures are different according to the reinforcement nature and content:
+                        
+                           
+                              •
+                              In the 0% and 1% MgAl2O4 EUROFER steels (drum and attritor milled respectively) the grains are equiaxed with a micrometric size (∼3μm) as shown in Fig. 10(a) and (b), respectively.
+                           
+                           
+                              •
+                              In the 0.2% and 1% Y2O3 EUROFER steels (drum milled), the grains exhibit a bimodal structure with micrometric grains (∼3μm) surrounded by nano-metric grains (∼200nm) as shown in Fig. 10(c) and (d) respectively. The proportion of the grains with a nano-metric size depends on the reinforcement content: it is 40% with 0.2% Y2O3 and 70% with 1% Y2O3.
+                           
+                        
+                        
+                     
+                     In the 0% ODS steel, particles of ∼100nm identified by EDS as Cr carbides and tantalum oxides are not always aligned along the existing ferrite grain boundaries, but they follow the shape of prior grain boundaries Fig. 7(a). Since, prior austenitic grains are completely broken after the MM, the particles cannot correspond to the classical prior particle boundaries of the EUROFER powder. They could actually be the product of the transformation of the C supersaturated ferritic nano-grains in the milled particles to larger ferrite grains formed during the HIP heating, and not completely dissolved during the austenitization at the HIP step of 1020°C.
+                     The oxide reinforcements are clearly observable in TEM. The EDS measurements prove that chemistry of the MgAl2O4 spinels did not changed during the HIP treatment. Their distribution (Fig. 11
+                        (a)) is in accordance to the initial spinel powder (compare to Fig. 3). The ‘Y2O3’ oxides are now also clearly visible (Fig. 11(b)), with a finer size distribution than the one of the initial powder (compare to Fig. 2). Due to the very small size of these particles, no chemical analyses could be performed. However, as mentioned in introduction, these nano-oxides correspond to the precipitation of the O and Y atoms in solid solution released from the dissolution of the initial Y2O3 during MM. Their chemistry has probably changed, but we will henceforth call them nano-Y2O3. Further details will be given in Section 6.3.
+                     The nano-sized ferritic grains in the as-HIPped Y2O3 ODS steels (Fig. 10(c) and (d)) correspond to those observed in milled powder (Fig. 7(c) and (d)). Their growth during the HIP heating has been drastically slowed down by the pinning of the nano-Y2O3 precipitates, and, as it will be discussed in Section 6.3, they did probably not transform into austenite during the HIP austenitization. The absence of nano-sized ferritic grains in the 0% and 1% MgAl2O4 is due to the absence of nano-oxides.
+5.3
+                     Influence of the mill type on the ODS microstructure?
+                     One could notice that the attritor speed is relatively low (for historical reasons) and that the milling conditions with attritor are therefore probably softer than with the drum mill. In order to determine if the Y2O3 dissolution is due to the type of mill (attritor instead of drum mill), a 1% Y2O3 ODS steel was elaborated from EUROFER+Y2O3 powders mixed by attritor milling and HIPped in the same conditions than the 1% MgAl2O4 ODS steel. As shown in Fig. 12
+                        , the structure is close to the Y2O3 ODS steel elaborated by drum mill: it is also ferritic and bimodal with large elongated grains ∼5μm, nano-sized grains ∼ 200 nm (but with a lower proportion than by drum mill), and the oxides are also nano-metric (but mainly distributed along alignments). The presence of the nano-Y2O3 proves the existence of a dissolution process of the Y2O3 during the MM by attritor milling. Therefore, the absence of dissolution by attritor milling of the MgAl2O4 spinels in the EUROFER powders comes from their chemical nature.
+                     The difference of behavior of the two oxides Y2O3 and MgAl2O4 has been proved with this comparison of the two materials elaborated by attritor milling. To be complete, a comparison should also be performed with the two materials elaborated by drum mill. One percent MgAl2O4 ODS steel could be elaborated by drum milling to check if the dissolution of MgAl2O4 occurs or not in the drum mill.
+5.4
+                     After heat treatments
+                     The classical treatment 950°C+WQ has been applied only to the 1% Y2O3 ODS EUROFER. The metallography of this material is very similar to the same grade in the as-HIPed state (Fig. 9(d)). The hardness is 540in. the as-treated state and 422 after the tempering at 750°C/2h. These results prove that the classical heat treatment is not sufficient to obtain a martensitic structure for the 1% Y2O3 ODS steel even after WQ. The heat treatment at 1300°C/3h+1150°C/1h+FC has been applied to all the ODS steel. The metallographies (only the one corresponding to the 0.2% Y2O3 ODS steel is presented here in Fig. 13
+                        ) show a very fine structure constituted of laths without the carbides observed in Fig. 9. The hardness has been measured in the as heat-treated state and after tempering at 750°C 2h: it is 451/300, 459/300, 462/334 for the 1% MgAl2O4, 0.2% Y2O3 and 1% Y2O3 ODS steels. It can be concluded that the heat treatment at 1300°C is more appropriate (even after air cooling): it seems to permit a complete martensitic transformation in the 1% MgAl2O4 and 0.2% Y2O3 ODS steels and a nearly complete one in the 1% Y2O3 ODS steel.
+                     It can also be noticed that the hardness of the 1% Y2O3 ODS EUROFER is higher after the 950°C heat treatment+tempering than after the 1300°C heat treatment+tempering, despite an expected lower content of martensite. This probably comes from a competition between the grain size and the martensite effect on the hardness.
+                     The steels have been studied in TEM in order to unambiguously determine the grain size and the possible presence of martensite. The observations confirm the martensitic structure of the 1% MgAl2O4 and 0.2% Y2O3 ODS steel (Fig. 14
+                        (a) and (b)). However, surprisingly, no martensite lath could be detected in the 1% Y2O3 ODS steel; its structure is constituted of micrometric grains ∼2μm and few nano-metric grains (Fig. 14(c)). The difference between the metallographies and the TEM results could come from the difference in the localization of the observed samples (closer to the surface for the metallography samples than for the TEM samples, and therefore exposed to a higher cooling rate during the furnace cooling).
+5.5
+                     Dilatometric study
+                     Dilatometric measurements have been performed with the as-HIPped ODS EUROFER steels in order to better determine the proportion of martensite formed during the cooling, and more generally better understand the microstructural evolution during the post heat treatments. Five cycles have been defined:
+                        
+                           
+                              •
+                              D0: heating +17°C/min, 1020°C/30min, cooling −3°C/min.
+                           
+                           
+                              •
+                              D1: heating +17°C/min, 1020°C/30min, cooling −15°C/min.
+                           
+                           
+                              •
+                              D2: heating +8°C/min, 950°C/15min, cooling −100°C/min.
+                           
+                           
+                              •
+                              D3: heating +8°C/min, 1150°C/1h, cooling −100°C/min.
+                           
+                           
+                              •
+                              D4: heating +8°C/min, 1300°C/1h, cooling −100°C/min (only to the 1% Y2O3 steel).
+                           
+                        
+                        
+                     
+                     An example of a dilatometric curve is reported in Fig. 15
+                        . The fact that for all the samples the curves at the beginning of heating is parallel to the one at the end of cooling means that there is no residual austenite. The tangent method allows to determine the phase transformation temperatures, and to evaluate the volume fraction of each phase formed during the transformation (for example the ferrite proportion formed during the cooling is given by a/b). Hereafter, we will also use the dilatation corresponding to the α→γ transformation during heating and noted c.
+                     During heating, the α→γ transformation temperatures, and the corresponding dilatometric jump have been reported in Fig. 16
+                        (a) and (b), respectively. The main feature is the increase of the austenite finish temperature (A
+                        f) associated to a decrease of the dilatation amplitude at the transformation Δα→γ following this order: 0%, 1% MgAl2O4, 0.2% Y2O3, 1% Y2O3. Actually it is so low for the 1% Y2O3 ODS steel that the finish temperature is very difficult to determine. The reduced Δα→γ means that some ferritic grains do not transform into austenite (probably the nano-metric grains). As an example, for the cycle D3, it can be deduced from Fig. 16(b) that the proportion of grains not transformed into austenite during the austenitization is 40% and 70%±10% for the 0.2% and 1% Y2O3 ODS steels, respectively. Such figures could also be deduced from the dilatation coefficient at the end of heating (roughly 19.5×106 and 17×106
+                        K−1 for the 0.2% and 1% Y2O3 ODS steels, respectively) compared to those found for ferrite (14.5×106
+                        K−1) and austenite (21×106
+                        K−1). One could already notice that these proportions roughly correspond to those of nano-metric grains observed in the as-HIPped ODS materials. During the heating at 1300°C of the 1% Y2O3 ODS steel (D4 cycle), no dilatation amplitude could be observed during the α→γ and γ→δ transformations, which seems to indicate that the α ferrite grains transform directly into δ ferrite grains without transforming into austenite. This point will be discussed in Section 6.
+                     During cooling, the γ→α and γ→α′ transformation temperatures, and the ferrite volume fraction formed have been reported in Fig. 17
+                        (a) and (b), respectively. The D1 cycle (cooling −15°C/min) shows that in conditions close to the HIP cycle, the Y2O3 ODS EUROFER steels are 100% ferritic, in agreement with the metallographic observations of Fig. 7(d). Following this cycle, the 0% and 1% MgAl2O4 ODS EUROFER steels appear 78% and 55% martensitic respectively. Following the D0 cycle (cooling −3°C/min), both steels appear 100% ferritic. Since the metallography and hardness measurements have clearly shown that the structure of these materials in the as-HIPped part was ferritic, it can be concluded that the real cooling rate of the pieces in the HIP furnace ranges between −15 and −3°C/min (thermal inertia of the block).
+                     The D2 and D3 cycles show that austenitizing at 1150°C followed by a rapid cooling is enough to obtain a 100% martensitic structure for the MgAl2O4 EUROFER steel, nearly sufficient for the unreinforced and 0.2% Y2O3 ODS steel and absolutely not enough for the 1% Y2O3 ODS steel which structure remains completely ferritic. The results obtained in the D4 cycle prove that the martensitic transformation could not be obtained, even after a treatment at 1300°C followed by a rapid quenching, confirming the microstructural observations on the 1%Y2O3 ODS steel treated at 1300°C (Section 5.4). Let us recall that the critical rate R
+                        m is only 1°C/min for conventional F82H steels, and that EUROFER steels and unmilled EUROFER HIPed powders also always exhibit a martensitic structure, even after slow furnace cooling [4]. This study confirms the loss of quenchability of the Y2O3 ODS steels, already mentioned in introduction, and shows that this problem cannot be solved if the oxide content is too high (>1%).
+                     Therefore, these dilatometric measurements show that:
+                        
+                           
+                              •
+                              Increasing the ‘austenitization’ temperature favors the quenchability of the ODS steels.
+                           
+                           
+                              •
+                              The MgAl2O4 has nearly no effect on the austenitization temperatures and quenchability of its ODS steels.
+                           
+                           
+                              •
+                              The Y2O3 reinforcement makes the austenitization finish temperature drastically increase (to such a point that the austenitization appears unfinished) and makes the quenchability of such ODS steels decrease.
+                           
+                           
+                              •
+                              At 1% of Y2O3, the austenitization remains incomplete even by heating up to 1300°C and no martensite could be obtained even by cooling the sample at 100°C/min from 1300°C.
+
+After the mechanical milling:
+The MM process was only used to mix the oxide reinforcement powders to the EUROFER powders. Nevertheless, it completely modifies the microstructure as shown as follows:
+The SEM observations on the as-milled powders (Fig. 6
+                        ) show that the drum-milled powders have a globular-plate shape, as represented in Fig. 6(a), (c), and (d). The mean size (determined by laser scattering) is clearly affected by the reinforcement content: it is 100μm without reinforcement, 90μm with 0.2% Y2O3, and 40μm with 1% Y2O3. Such phenomenon can be explained by the progressive ODS hardening of the reinforced powder particles during the milling process, which makes the mixed EUROFER+oxides powders more brittle than the unreinforced EUROFER powders. The attritor milled powders reinforced with MgAl2O4 are larger and flatter (Fig. 6(b)). The mean particle size is 75μm. For comparison, the mean size of a 1% Y2O3 EUROFER powder milled with the attritor mill is smaller (40μm). Let us recall here that 1 wt%=1.55 vol.% for Y2O3 and 2.18 vol.% for MgAl2O4. This proves that it is the oxide nature (and not its content nor the mill type) that plays a key role on the refinement of the powder during the milling.
+The TEM observations on the as-milled powders (Fig. 7
+                        ) show that with or without reinforcement, the martensitic laths of the EUROFER powders have been suppressed and replaced by an isotropic structure of nano-sized grains (50nm). Since no carbide could be detected, we supposed that the carbon was kept in solution. It could be noticed that the mean grain size depends on the oxide nature and contents: it is 40–60nm for the 0% ODS steels, and 10–30nm for the 1% MgAl2O4, 10–20 nm for the 0.2% Y2O3 ODS steel, and 5–20nm for the 1% Y2O3 ODS steel. This confirms that oxides have a direct effect on the hardness of the steel powders in which they incorporate. The MgAl2O4 could be observed by classical bright field TEM or Scanning TEM observations (Fig. 8
+                        ), but not the Y2O3 oxides. We conclude that the MgAl2O4 spinels are not affected by the MM, whereas the Y2O3 oxides dissolve during the milling process. This point will be discussed in Section 6.2.
+The direct influence of the Y2O3 particles on the final grain size can be explained by their progressive size reduction and dissolution during the milling. It seems that they have hardened more the steel powder during the milling in their lower size form than in their initial oxide form. This point is confirmed by the lower influence of the MgAl2O4 spinels on the grain size and on the powder size. Let us recall that the MgAl2O4 ODS steel powders were milled with an attritor mill whereas the 0% and Y2O3 ODS steel powders were milled with a drum mill; however, as it will be discussed in Section 5.3, we will make the assumption that the microstructural changes are mainly due to the oxide nature rather than to the mill type.
+
+After the HIP consolidation:
+Micrographies and hardness of the EUROFER and ODS EUROFER steels after their HIP consolidation are reported in Fig. 9
+                        . Determining from the images whether the microstructure is martensitic or ferritic is difficult. Only the few unmilled particles are clearly martensitic as shown by their inside lath morphology. However, the low hardness values of the 0% and 1% MgAl2O4 ODS steels seem to indicate a ferritic structure. The higher hardness values of the Y2O3 ODS steels cannot be directly interpreted as the presence of martensite due to a possible grain size effect [23]. Actually, the large black particles visible in the metallographies are carbides, which therefore means that the structure is ferritic.
+TEM observations were performed in order to avoid any ambiguity. The absence of martensite in all the as-HIPped materials was confirmed (Fig. 10
+                        ). Moreover, the grain structures are different according to the reinforcement nature and content:
+                        
+                           
+                              •
+                              In the 0% and 1% MgAl2O4 EUROFER steels (drum and attritor milled respectively) the grains are equiaxed with a micrometric size (∼3μm) as shown in Fig. 10(a) and (b), respectively.
+                           
+                           
+                              •
+                              In the 0.2% and 1% Y2O3 EUROFER steels (drum milled), the grains exhibit a bimodal structure with micrometric grains (∼3μm) surrounded by nano-metric grains (∼200nm) as shown in Fig. 10(c) and (d) respectively. The proportion of the grains with a nano-metric size depends on the reinforcement content: it is 40% with 0.2% Y2O3 and 70% with 1% Y2O3.
+In the 0% ODS steel, particles of ∼100nm identified by EDS as Cr carbides and tantalum oxides are not always aligned along the existing ferrite grain boundaries, but they follow the shape of prior grain boundaries Fig. 7(a). Since, prior austenitic grains are completely broken after the MM, the particles cannot correspond to the classical prior particle boundaries of the EUROFER powder. They could actually be the product of the transformation of the C supersaturated ferritic nano-grains in the milled particles to larger ferrite grains formed during the HIP heating, and not completely dissolved during the austenitization at the HIP step of 1020°C.
+The oxide reinforcements are clearly observable in TEM. The EDS measurements prove that chemistry of the MgAl2O4 spinels did not changed during the HIP treatment. Their distribution (Fig. 11
+                        (a)) is in accordance to the initial spinel powder (compare to Fig. 3). The ‘Y2O3’ oxides are now also clearly visible (Fig. 11(b)), with a finer size distribution than the one of the initial powder (compare to Fig. 2). Due to the very small size of these particles, no chemical analyses could be performed. However, as mentioned in introduction, these nano-oxides correspond to the precipitation of the O and Y atoms in solid solution released from the dissolution of the initial Y2O3 during MM. Their chemistry has probably changed, but we will henceforth call them nano-Y2O3. Further details will be given in Section 6.3.
+The nano-sized ferritic grains in the as-HIPped Y2O3 ODS steels (Fig. 10(c) and (d)) correspond to those observed in milled powder (Fig. 7(c) and (d)). Their growth during the HIP heating has been drastically slowed down by the pinning of the nano-Y2O3 precipitates, and, as it will be discussed in Section 6.3, they did probably not transform into austenite during the HIP austenitization. The absence of nano-sized ferritic grains in the 0% and 1% MgAl2O4 is due to the absence of nano-oxides.
+
+Influence of the mill type on the ODS microstructure?:
+One could notice that the attritor speed is relatively low (for historical reasons) and that the milling conditions with attritor are therefore probably softer than with the drum mill. In order to determine if the Y2O3 dissolution is due to the type of mill (attritor instead of drum mill), a 1% Y2O3 ODS steel was elaborated from EUROFER+Y2O3 powders mixed by attritor milling and HIPped in the same conditions than the 1% MgAl2O4 ODS steel. As shown in Fig. 12
+                        , the structure is close to the Y2O3 ODS steel elaborated by drum mill: it is also ferritic and bimodal with large elongated grains ∼5μm, nano-sized grains ∼ 200 nm (but with a lower proportion than by drum mill), and the oxides are also nano-metric (but mainly distributed along alignments). The presence of the nano-Y2O3 proves the existence of a dissolution process of the Y2O3 during the MM by attritor milling. Therefore, the absence of dissolution by attritor milling of the MgAl2O4 spinels in the EUROFER powders comes from their chemical nature.
+The difference of behavior of the two oxides Y2O3 and MgAl2O4 has been proved with this comparison of the two materials elaborated by attritor milling. To be complete, a comparison should also be performed with the two materials elaborated by drum mill. One percent MgAl2O4 ODS steel could be elaborated by drum milling to check if the dissolution of MgAl2O4 occurs or not in the drum mill.
+
+After heat treatments:
+The classical treatment 950°C+WQ has been applied only to the 1% Y2O3 ODS EUROFER. The metallography of this material is very similar to the same grade in the as-HIPed state (Fig. 9(d)). The hardness is 540in. the as-treated state and 422 after the tempering at 750°C/2h. These results prove that the classical heat treatment is not sufficient to obtain a martensitic structure for the 1% Y2O3 ODS steel even after WQ. The heat treatment at 1300°C/3h+1150°C/1h+FC has been applied to all the ODS steel. The metallographies (only the one corresponding to the 0.2% Y2O3 ODS steel is presented here in Fig. 13
+                        ) show a very fine structure constituted of laths without the carbides observed in Fig. 9. The hardness has been measured in the as heat-treated state and after tempering at 750°C 2h: it is 451/300, 459/300, 462/334 for the 1% MgAl2O4, 0.2% Y2O3 and 1% Y2O3 ODS steels. It can be concluded that the heat treatment at 1300°C is more appropriate (even after air cooling): it seems to permit a complete martensitic transformation in the 1% MgAl2O4 and 0.2% Y2O3 ODS steels and a nearly complete one in the 1% Y2O3 ODS steel.
+It can also be noticed that the hardness of the 1% Y2O3 ODS EUROFER is higher after the 950°C heat treatment+tempering than after the 1300°C heat treatment+tempering, despite an expected lower content of martensite. This probably comes from a competition between the grain size and the martensite effect on the hardness.
+The steels have been studied in TEM in order to unambiguously determine the grain size and the possible presence of martensite. The observations confirm the martensitic structure of the 1% MgAl2O4 and 0.2% Y2O3 ODS steel (Fig. 14
+                        (a) and (b)). However, surprisingly, no martensite lath could be detected in the 1% Y2O3 ODS steel; its structure is constituted of micrometric grains ∼2μm and few nano-metric grains (Fig. 14(c)). The difference between the metallographies and the TEM results could come from the difference in the localization of the observed samples (closer to the surface for the metallography samples than for the TEM samples, and therefore exposed to a higher cooling rate during the furnace cooling).
+
+Dilatometric study:
+Dilatometric measurements have been performed with the as-HIPped ODS EUROFER steels in order to better determine the proportion of martensite formed during the cooling, and more generally better understand the microstructural evolution during the post heat treatments. Five cycles have been defined:
+                        
+                           
+                              •
+                              D0: heating +17°C/min, 1020°C/30min, cooling −3°C/min.
+                           
+                           
+                              •
+                              D1: heating +17°C/min, 1020°C/30min, cooling −15°C/min.
+                           
+                           
+                              •
+                              D2: heating +8°C/min, 950°C/15min, cooling −100°C/min.
+                           
+                           
+                              •
+                              D3: heating +8°C/min, 1150°C/1h, cooling −100°C/min.
+                           
+                           
+                              •
+                              D4: heating +8°C/min, 1300°C/1h, cooling −100°C/min (only to the 1% Y2O3 steel).
+An example of a dilatometric curve is reported in Fig. 15
+                        . The fact that for all the samples the curves at the beginning of heating is parallel to the one at the end of cooling means that there is no residual austenite. The tangent method allows to determine the phase transformation temperatures, and to evaluate the volume fraction of each phase formed during the transformation (for example the ferrite proportion formed during the cooling is given by a/b). Hereafter, we will also use the dilatation corresponding to the α→γ transformation during heating and noted c.
+During heating, the α→γ transformation temperatures, and the corresponding dilatometric jump have been reported in Fig. 16
+                        (a) and (b), respectively. The main feature is the increase of the austenite finish temperature (A
+                        f) associated to a decrease of the dilatation amplitude at the transformation Δα→γ following this order: 0%, 1% MgAl2O4, 0.2% Y2O3, 1% Y2O3. Actually it is so low for the 1% Y2O3 ODS steel that the finish temperature is very difficult to determine. The reduced Δα→γ means that some ferritic grains do not transform into austenite (probably the nano-metric grains). As an example, for the cycle D3, it can be deduced from Fig. 16(b) that the proportion of grains not transformed into austenite during the austenitization is 40% and 70%±10% for the 0.2% and 1% Y2O3 ODS steels, respectively. Such figures could also be deduced from the dilatation coefficient at the end of heating (roughly 19.5×106 and 17×106
+                        K−1 for the 0.2% and 1% Y2O3 ODS steels, respectively) compared to those found for ferrite (14.5×106
+                        K−1) and austenite (21×106
+                        K−1). One could already notice that these proportions roughly correspond to those of nano-metric grains observed in the as-HIPped ODS materials. During the heating at 1300°C of the 1% Y2O3 ODS steel (D4 cycle), no dilatation amplitude could be observed during the α→γ and γ→δ transformations, which seems to indicate that the α ferrite grains transform directly into δ ferrite grains without transforming into austenite. This point will be discussed in Section 6.
+During cooling, the γ→α and γ→α′ transformation temperatures, and the ferrite volume fraction formed have been reported in Fig. 17
+                        (a) and (b), respectively. The D1 cycle (cooling −15°C/min) shows that in conditions close to the HIP cycle, the Y2O3 ODS EUROFER steels are 100% ferritic, in agreement with the metallographic observations of Fig. 7(d). Following this cycle, the 0% and 1% MgAl2O4 ODS EUROFER steels appear 78% and 55% martensitic respectively. Following the D0 cycle (cooling −3°C/min), both steels appear 100% ferritic. Since the metallography and hardness measurements have clearly shown that the structure of these materials in the as-HIPped part was ferritic, it can be concluded that the real cooling rate of the pieces in the HIP furnace ranges between −15 and −3°C/min (thermal inertia of the block).
+The D2 and D3 cycles show that austenitizing at 1150°C followed by a rapid cooling is enough to obtain a 100% martensitic structure for the MgAl2O4 EUROFER steel, nearly sufficient for the unreinforced and 0.2% Y2O3 ODS steel and absolutely not enough for the 1% Y2O3 ODS steel which structure remains completely ferritic. The results obtained in the D4 cycle prove that the martensitic transformation could not be obtained, even after a treatment at 1300°C followed by a rapid quenching, confirming the microstructural observations on the 1%Y2O3 ODS steel treated at 1300°C (Section 5.4). Let us recall that the critical rate R
+                        m is only 1°C/min for conventional F82H steels, and that EUROFER steels and unmilled EUROFER HIPed powders also always exhibit a martensitic structure, even after slow furnace cooling [4]. This study confirms the loss of quenchability of the Y2O3 ODS steels, already mentioned in introduction, and shows that this problem cannot be solved if the oxide content is too high (>1%).
+Therefore, these dilatometric measurements show that:
+                        
+                           
+                              •
+                              Increasing the ‘austenitization’ temperature favors the quenchability of the ODS steels.
+                           
+                           
+                              •
+                              The MgAl2O4 has nearly no effect on the austenitization temperatures and quenchability of its ODS steels.
+                           
+                           
+                              •
+                              The Y2O3 reinforcement makes the austenitization finish temperature drastically increase (to such a point that the austenitization appears unfinished) and makes the quenchability of such ODS steels decrease.
+                           
+                           
+                              •
+                              At 1% of Y2O3, the austenitization remains incomplete even by heating up to 1300°C and no martensite could be obtained even by cooling the sample at 100°C/min from 1300°C.
+
+Discussion:
+The results obtained during this study prove that the evolution of the microstructure of the ODS steels is very complex. They show that the milling is the main important step of the process and that the nature of the reinforcements (MgAl2O4 or Y2O3) plays a key role during all the further steps of the process. Let us discuss more deeply all these steps in the aim to draw a coherent sequence and to determine its most important factors.
+6.1
+                     Questions about the low impact toughness of the ODS steels
+                     The hardness values and the tensile properties obtained in Table 1 are qualitatively in agreement with the microstructure. As reported in [23], the most important factor on the yield stress is not the content of oxides but the proportion of the nano-ferritic grains.
+                     More interesting is the understanding of the low impact properties of the ODS steels. The impact toughness of the 0% and 1% MgAl2O4 ODS steels are close to 50J/cm2. This is coherent with the similar microstructure of the two materials (Fig. 10(a) and (b)). The value falls below 5J/cm2 for the HIPped Y2O3 ODS steels. Such low values and the associated high DBTT have been reported on similar HIPped ODS steels in [7], and, to a less extent, on the commercial MA957 ODS steel [43]. In the latter case, the weak toughness was attributed to the presence of a large volume fraction of alumina stringers. Better impact properties were obtained on hot extruded ODS steels on the Japanese ODS materials [12,29], but the results are not directly comparable due to the very small size of the specimens (and actually the values obtained in [29] expressed in J/cm2 are not higher than 40J/cm2). Previous studies in our laboratory have shown that thermomechanical treatment improves the impact toughness of HIPped Y2O3 ODS steels up to 50J/cm2 but this value seems to be the highest that can be obtained with ODS steels elaborated through a MM step. Recent impact results obtained by JM Gentzbittel and Rath [44] on unreinforced HIPped steels allows us to better understand the origin of the problem. It was shown that if the EUROFER powders are HIPped without mechanical milling, the impact properties are as good as the ones for the wrought EUROFER (220J/cm2), but if the powders are milled before being HIPped (such as for the 0% ODS steel), the impact properties collapse to 50J/cm2. Therefore, it appears that an important factor at the origin of the collapse of the impact properties is the MM step. Moreover, the low impact properties cannot be related to the refinement of the structure (and the presence of nano-metric grains), because usually the lower the grain sizes, the better the impact properties [45]. Actually, the slight oxidation during the MM could be an explanation; a deeper metallurgical study of the oxygen distribution is in preparation to check this point.
+6.2
+                     Effect of the mechanical alloying on the microstructure
+                     We have concluded that the Y2O3 oxides dissolve during the MM process. This point was first treated by Rühle and Steffens [46], who showed that (i) pure Y2O3 powder gets smaller and amorphous during a MM process (deep X-ray observations could allow him to calculate the proportion of each effect), and (ii) that the size of the Y2O3 oxides in nickel-based superalloy powders decreases during MM process. By comparing the two phenomena he concluded that the Y2O3 oxides in the superalloy powder get also amorphous. Nevertheless, these results could also be coherent with a progressive dissolution of the Y2O3 oxides during the MM as mentioned in the introduction. Actually, Okuda has proved by small angle X-ray scattering that, in a 3% 13Cr–3Ti–3Y2O3 ODS steel, the Y2O3 oxides get smaller and disappear after 48h of attrition milling [21]. He also proved that Ti promotes the dissolving process.
+                     Most surprising is the absence of dissolution of the MgAl2O4. The observations in Section 5.3 allowed us to conclude that the MgAl2O4 have a better stability to attritor milling than the Y2O3. It is interesting to notice that mechanical milling and irradiation, although the two processes are completely different, can be described by the same physical laws, as proved by Martin [47,48]: the atoms are randomly displaced due to the irradiation flux or to the ball impacts (ballistic effect on the concentration gradients) and simultaneously diffuse under chemical potential gradient. Depending on whether the displacements or the diffusion dominate, the alloy is far or close to the equilibrium. The Y2O3 is reported more stable under irradiation than MgAl2O4 because of the high displacement energy threshold of Yttrium, but Monnet has shown a better stability of the MgAl2O4 than Y2O3 to irradiation with 1.2MeV Krypton ions at 45dpa [24]. She noticed that at the same dose received by the oxide (and not by iron), MgAl2O4 actually is the most stable due to its high stochiometry that makes difficult the migration of the punctual defects. Such an explanation could also constitute the reason of the good stability of MgAl2O4 under MM. Extensive studies could be performed to confirm this point and to determine in which extent the Martin’s approach constitutes a good physical base to describe the dissolution process of the oxides during MM.
+                     It has been shown in Section 5.1 that, with or without reinforcement, the martensitic laths of the EUROFER powder have been suppressed and replaced by an isotropic structure of nano-sized grains (<70nm). The absence of carbide makes us suppose that the carbon was kept in solution. Further studies should be performed to determine (i) if the structure is ferritic i.e. the carbon is in solid solution and the crystal is cubic or (ii) if the structure is martensitic i.e. the carbon is in special position in the lattice and the crystal is orthorhombic. Nevertheless, by considering that MM breaks the atomic bonds and mix the structures at atomic scale, the equiaxed grains should correspond to carbon supersaturated ferrite. This point is also supported by Umemoto [49], who showed that, in Fe–C steels with different carbon contents (from 0.03% to 0.89%), the initial microstructure (pearlite, ferrite and martensite) is changed by a nano-crystalline ferrite and that the initial cementite (when existing) is dissolved after MM.
+                     It was also shown that the mean grain size depends on the oxide nature and contents. The Y2O3 oxides have a direct effect on the hardness of the steel powders in which they incorporate, which can be explained by their size reduction and dissolution during milling. It seems that they harden more the steel powder in solid solution (or in form of sub-nano-metric clusters) than in their initial oxide form. The grain size evolution during milling has been described by Tian and Atzmon [50,51] by modeling the grain refinement produced by the impacts and the grain growth (accelerated by the increased of diffusion due to the impacts).
+                     They showed that the grain size d follows:
+                           
+                              
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       ss
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 +
+                                 (
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       0
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 -
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       ss
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 )
+                                 exp
+                                 (
+                                 -
+                                 2
+                                 
+                                    
+                                       C
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 t
+                                 )
+                                 ,
+                              
+                           
+                        where d
+                        0 is the grain size at time t
+                        =0, and d
+                        ss is the steady state grain size. The C
+                        1 factor and d
+                        ss where shown to be linked to the amplitude of ball vibration A by C
+                        1
+                        ∝
+                        A
+                        1/2 and d
+                        ss
+                        ∝
+                        A
+                        −1/2. The exponents were further refined by interpolation of experimental data. It could be interesting to determine these factors for the ODS steels in view to establish a future quantitative model of their microstructural evolution during the elaboration.
+6.3
+                     Effect of the HIP and post-heat treatments on the microstructure
+                     The chemical composition of the ‘nano-Y2O3’ particles is probably no more Y2O3 and additional work is required in order to determine it. Indeed, Okuda identified similar nano-oxides as complex Y2Ti2O7 and Y2TiO5 oxides [21], and the chemical composition was confirmed by Larson on the same ODS steel with 3D Atom-Probe measurements [22]. Lambard found similar results on a 9Cr–1Mo–0.25Ti ODS steel by EDS analyses on carbon replica [23]. Actually, the chemical composition of the precipitates depends of the other elements of the steel. Lambard [23] and Monnet [24] have shown that if the steel contains Si or Mn, these elements are incorporated inside the precipitates. The contents of Ti and Si being very low in EUROFER, whereas Mn is present at 0.4%, the nano-Y2O3 precipitates likely contain Mn.
+                     Their crystallographic structure or the orientation relationship with the steel could not be identified for the moment. Lambard showed by conventional TEM that crystallographic structure of the precipitates (FCC a
+                        =0.526nm) is different from the initial structure (BCC a
+                        =1.06nm), but her work was not confirmed by the recent results of Klimiankou [52] who found no change by high resolution TEM. Moreover, the author showed a strong orientation relationship between the oxide and the ferritic grains. If we consider that the ferritic grains nucleate during cooling from the austenitic grains in random orientation relationship, Klimiankou’s observations would prove that the oxides precipitate during cooling of the ODS steel. This point is in contradiction with Okuda’s work who showed that the oxides form during heating. One explanation, coherent with our observations, is to consider that all the oxides form during heating and that the oxides observed by Klimiankou in orientation relationship with the matrix are those formed in the nano-metric ferrite grains which do not transform into austenite during the ‘austenitization’, and therefore remain unchanged during cooling.
+                     Monnet has shown that when Si and Mn are inside the steel, a change of the MgAl2O4 spinel chemistry could occur during the elaboration [24]. In the present study, the MgAl2O4 spinels have kept their chemistry and probably their crystallography during all the elaboration.
+                     As shown in Section 5.2, all the as-HIPped ODS steels are ferritic, with a structure finer than in classical EUROFER: polygonal grains ∼3μm in the 0% and 1% MgAl2O4, ODS steels and bimodal ferrite with polygonal grains ∼3μm surrounded by nano-grains ∼200nm in the Y2O3 ODS steels. Contrary to EUROFER, the martensitic transformation could not be obtained for the steels obtained from milled powders. From the dilatometric study and the heat treatments, it appears that the quenchability of the EUROFER follows this order: wrought≈PM>unreinforced (MM)≈1% MgAl2O4
+                        >0.2% Y2O3
+                        >1% Y2O3. Therefore different parameters play a role on the quenchability: (1) the milling, (2) the reinforcement nature and (3) the reinforcement content.
+                     The change in the quenchability after milling is in great part due to a grain size effect. Indeed, finer austenitic grains are less prone to martensitic transformation than coarser grains, and the critical cooling rates to obtain a fully martensitic structure increases with decreasing the austenitic grain sizes [36,37] due to the fact that in a structure composed of small grains the carbon diffusion is strongly enhanced by grain boundaries channeling.
+                     In addition to this grain size effect, different points have to be considered to explain the very low quenchability of the Y2O3 ODS steels. The Y–O clusters formed during the dissolution of the initial Y2O3 have a drastic effect on the proportion of austenite formed during heating (obviously only this proportion can be transformed into martensite during cooling). Therefore, the difference of quenchability can be interpreted, in first approximation, as a direct consequence of the proportion of austenite formed during heating. Moreover, the presence of nano-metric oxides precipitated around 1000°C (from [21]) can also have an influence on the quenchability (by hardening the materials and therefore blocking the lath formation) and this could explain that the small proportion of austenite formed during heating at high temperature in the 1%Y2O3 ODS steels does not transform into martensite during cooling.
+                     A scenario of the evolution of the microstructure during the HIP can be imagined to sum up the observations of the present and previous studies:
+                        
+                           
+                              (1)
+                              For the 0% and 1% MgAl2O4 reinforced milled powders, the nano-sized ferritic grains probably grow from 750 to 870–910°C before transforming into austenite grains that continue to grow from 910 to 1020°C. Then, the ferrite grains form during cooling by nucleating on the austenite grain boundaries from 790 to 730°C. The spinels don’t seem to interact with the grain nucleation or growth.
+                           
+                           
+                              (2)
+                              For the Y2O3 reinforced milled powders, the scenario is more complicated. During heating, it seems reasonable to imagine that many nano-metric ferritic grains do not grow due to the pinning of their grain boundaries on the Y–O clusters resulting from the dissolution of the initial Y2O3 powder during the MM; the other nano-metric grains can grow from 750 to 870°C (from in situ TEM experiments, not presented here) by an abnormal grain recrystallization process. These larger ferritic grains transform into austenite at 870–980°C whereas the smaller nano-metric ferrite grains do not. Some of the Y–O clusters precipitate at 1000°C, allowing the austenite grains to grow. During the furnace cooling, some ferrite grains nucleate at the boundaries of the large austenite, and the smaller ferritic grains that did not transform during heating remain unchanged during cooling. The Y2O3 precipitated during heating in the austenitic grains appear incoherent whereas those precipitated in the nano-metric ferritic grains that did not austenitized appear coherent with them.
+6.4
+                     Advantages and drawbacks of the Y2O3 and MgAl2O4
+                     
+                     The dissolution/precipitation mechanisms of the Y2O3 oxides during the ODS steel elaboration (if necessary promoted by Ti addition) was claimed to be effective for improving the mechanical properties of the ODS steels at high temperatures [17,18,23]. Nevertheless, at least two points appear negative: (1) the complete austenitization is difficult to obtain and the martensite critical cooling rate become unreasonable and (2) the good thermal creep behavior of the Y2O3 ODS steels should be proved by testing the materials in situ during irradiation experiments. Indeed, for the moment, the very good thermal creep properties of these ODS steels has been proved only in their unirradiated state [12] and their post-irradiation states [30]. However, Monnet has shown that the Y2O3 oxides dissolved during irradiation could precipitate after the irradiation to form halo rings of nano-precipitates (depending on the temperature) [24]. Therefore, it is not sure that the structure that has been tested after irradiations in [30] is relevant of a structure under irradiations.
+                     The as-HIPed 1% MgAl2O4 ODS steels do not suffer these drawbacks. The MgAl2O4 spinels are more stable under MM. They keep their initial distribution size (5–100nm) during the elaboration, do not impede the austenitization and allow a martensitic transformation at acceptable cooling rates. They present a good compromise between strength and ductility and their impact toughness is far better than the one of the Y2O3 ODS steels, even if lower than that of EUROFER. Some points should however be studied before their possible use as structural material in fusion reactors:
+                        
+                           
+                              •
+                              As previously discussed, the MgAl2O4 are very stable under both MM and ion irradiations, but experimental studies have to be done to check their stability under neutron irradiation.
+                           
+                           
+                              •
+                              The presence of Al – an activable element – in the spinels seems redhibitory. However, a solution could be to separate the MgAl2O4 spinels from the steel at the end of the material life, by melting the steel and letting the oxides rise at the surface driven by their density difference with iron. This requires that the MgAl2O4 are completely stable under irradiation because, if they were not, Al would diffuse easily in steel and would definitively activate it.
+                           
+                           
+                              •
+                              The creep properties are expected to be low due to the size of the spinels (larger than the nano-Y2O3). Indeed, according to the creep theories of ODS materials [53], these ones are probably lower than the ones with the Y2O3 ODS steels (without irradiation) due to the larger mean size of the reinforcement distribution (∼20nm for MgAl2O4 and few nm for Y2O3). However, since the MgAl2O4 volumic content can also be far higher than the one with the Y2O3 without losing too much ductility, it could be possible to find a compromise between size and content to optimize the creep behavior.
+
+Questions about the low impact toughness of the ODS steels:
+The hardness values and the tensile properties obtained in Table 1 are qualitatively in agreement with the microstructure. As reported in [23], the most important factor on the yield stress is not the content of oxides but the proportion of the nano-ferritic grains.
+More interesting is the understanding of the low impact properties of the ODS steels. The impact toughness of the 0% and 1% MgAl2O4 ODS steels are close to 50J/cm2. This is coherent with the similar microstructure of the two materials (Fig. 10(a) and (b)). The value falls below 5J/cm2 for the HIPped Y2O3 ODS steels. Such low values and the associated high DBTT have been reported on similar HIPped ODS steels in [7], and, to a less extent, on the commercial MA957 ODS steel [43]. In the latter case, the weak toughness was attributed to the presence of a large volume fraction of alumina stringers. Better impact properties were obtained on hot extruded ODS steels on the Japanese ODS materials [12,29], but the results are not directly comparable due to the very small size of the specimens (and actually the values obtained in [29] expressed in J/cm2 are not higher than 40J/cm2). Previous studies in our laboratory have shown that thermomechanical treatment improves the impact toughness of HIPped Y2O3 ODS steels up to 50J/cm2 but this value seems to be the highest that can be obtained with ODS steels elaborated through a MM step. Recent impact results obtained by JM Gentzbittel and Rath [44] on unreinforced HIPped steels allows us to better understand the origin of the problem. It was shown that if the EUROFER powders are HIPped without mechanical milling, the impact properties are as good as the ones for the wrought EUROFER (220J/cm2), but if the powders are milled before being HIPped (such as for the 0% ODS steel), the impact properties collapse to 50J/cm2. Therefore, it appears that an important factor at the origin of the collapse of the impact properties is the MM step. Moreover, the low impact properties cannot be related to the refinement of the structure (and the presence of nano-metric grains), because usually the lower the grain sizes, the better the impact properties [45]. Actually, the slight oxidation during the MM could be an explanation; a deeper metallurgical study of the oxygen distribution is in preparation to check this point.
+
+Effect of the mechanical alloying on the microstructure:
+We have concluded that the Y2O3 oxides dissolve during the MM process. This point was first treated by Rühle and Steffens [46], who showed that (i) pure Y2O3 powder gets smaller and amorphous during a MM process (deep X-ray observations could allow him to calculate the proportion of each effect), and (ii) that the size of the Y2O3 oxides in nickel-based superalloy powders decreases during MM process. By comparing the two phenomena he concluded that the Y2O3 oxides in the superalloy powder get also amorphous. Nevertheless, these results could also be coherent with a progressive dissolution of the Y2O3 oxides during the MM as mentioned in the introduction. Actually, Okuda has proved by small angle X-ray scattering that, in a 3% 13Cr–3Ti–3Y2O3 ODS steel, the Y2O3 oxides get smaller and disappear after 48h of attrition milling [21]. He also proved that Ti promotes the dissolving process.
+Most surprising is the absence of dissolution of the MgAl2O4. The observations in Section 5.3 allowed us to conclude that the MgAl2O4 have a better stability to attritor milling than the Y2O3. It is interesting to notice that mechanical milling and irradiation, although the two processes are completely different, can be described by the same physical laws, as proved by Martin [47,48]: the atoms are randomly displaced due to the irradiation flux or to the ball impacts (ballistic effect on the concentration gradients) and simultaneously diffuse under chemical potential gradient. Depending on whether the displacements or the diffusion dominate, the alloy is far or close to the equilibrium. The Y2O3 is reported more stable under irradiation than MgAl2O4 because of the high displacement energy threshold of Yttrium, but Monnet has shown a better stability of the MgAl2O4 than Y2O3 to irradiation with 1.2MeV Krypton ions at 45dpa [24]. She noticed that at the same dose received by the oxide (and not by iron), MgAl2O4 actually is the most stable due to its high stochiometry that makes difficult the migration of the punctual defects. Such an explanation could also constitute the reason of the good stability of MgAl2O4 under MM. Extensive studies could be performed to confirm this point and to determine in which extent the Martin’s approach constitutes a good physical base to describe the dissolution process of the oxides during MM.
+It has been shown in Section 5.1 that, with or without reinforcement, the martensitic laths of the EUROFER powder have been suppressed and replaced by an isotropic structure of nano-sized grains (<70nm). The absence of carbide makes us suppose that the carbon was kept in solution. Further studies should be performed to determine (i) if the structure is ferritic i.e. the carbon is in solid solution and the crystal is cubic or (ii) if the structure is martensitic i.e. the carbon is in special position in the lattice and the crystal is orthorhombic. Nevertheless, by considering that MM breaks the atomic bonds and mix the structures at atomic scale, the equiaxed grains should correspond to carbon supersaturated ferrite. This point is also supported by Umemoto [49], who showed that, in Fe–C steels with different carbon contents (from 0.03% to 0.89%), the initial microstructure (pearlite, ferrite and martensite) is changed by a nano-crystalline ferrite and that the initial cementite (when existing) is dissolved after MM.
+It was also shown that the mean grain size depends on the oxide nature and contents. The Y2O3 oxides have a direct effect on the hardness of the steel powders in which they incorporate, which can be explained by their size reduction and dissolution during milling. It seems that they harden more the steel powder in solid solution (or in form of sub-nano-metric clusters) than in their initial oxide form. The grain size evolution during milling has been described by Tian and Atzmon [50,51] by modeling the grain refinement produced by the impacts and the grain growth (accelerated by the increased of diffusion due to the impacts).
+They showed that the grain size d follows:
+                           
+                              
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       ss
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 +
+                                 (
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       0
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 -
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       ss
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 )
+                                 exp
+                                 (
+                                 -
+                                 2
+                                 
+                                    
+                                       C
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 t
+                                 )
+                                 ,
+                              
+                           
+                        where d
+                        0 is the grain size at time t
+                        =0, and d
+                        ss is the steady state grain size. The C
+                        1 factor and d
+                        ss where shown to be linked to the amplitude of ball vibration A by C
+                        1
+                        ∝
+                        A
+                        1/2 and d
+                        ss
+                        ∝
+                        A
+                        −1/2. The exponents were further refined by interpolation of experimental data. It could be interesting to determine these factors for the ODS steels in view to establish a future quantitative model of their microstructural evolution during the elaboration.
+
+Effect of the HIP and post-heat treatments on the microstructure:
+The chemical composition of the ‘nano-Y2O3’ particles is probably no more Y2O3 and additional work is required in order to determine it. Indeed, Okuda identified similar nano-oxides as complex Y2Ti2O7 and Y2TiO5 oxides [21], and the chemical composition was confirmed by Larson on the same ODS steel with 3D Atom-Probe measurements [22]. Lambard found similar results on a 9Cr–1Mo–0.25Ti ODS steel by EDS analyses on carbon replica [23]. Actually, the chemical composition of the precipitates depends of the other elements of the steel. Lambard [23] and Monnet [24] have shown that if the steel contains Si or Mn, these elements are incorporated inside the precipitates. The contents of Ti and Si being very low in EUROFER, whereas Mn is present at 0.4%, the nano-Y2O3 precipitates likely contain Mn.
+Their crystallographic structure or the orientation relationship with the steel could not be identified for the moment. Lambard showed by conventional TEM that crystallographic structure of the precipitates (FCC a
+                        =0.526nm) is different from the initial structure (BCC a
+                        =1.06nm), but her work was not confirmed by the recent results of Klimiankou [52] who found no change by high resolution TEM. Moreover, the author showed a strong orientation relationship between the oxide and the ferritic grains. If we consider that the ferritic grains nucleate during cooling from the austenitic grains in random orientation relationship, Klimiankou’s observations would prove that the oxides precipitate during cooling of the ODS steel. This point is in contradiction with Okuda’s work who showed that the oxides form during heating. One explanation, coherent with our observations, is to consider that all the oxides form during heating and that the oxides observed by Klimiankou in orientation relationship with the matrix are those formed in the nano-metric ferrite grains which do not transform into austenite during the ‘austenitization’, and therefore remain unchanged during cooling.
+Monnet has shown that when Si and Mn are inside the steel, a change of the MgAl2O4 spinel chemistry could occur during the elaboration [24]. In the present study, the MgAl2O4 spinels have kept their chemistry and probably their crystallography during all the elaboration.
+As shown in Section 5.2, all the as-HIPped ODS steels are ferritic, with a structure finer than in classical EUROFER: polygonal grains ∼3μm in the 0% and 1% MgAl2O4, ODS steels and bimodal ferrite with polygonal grains ∼3μm surrounded by nano-grains ∼200nm in the Y2O3 ODS steels. Contrary to EUROFER, the martensitic transformation could not be obtained for the steels obtained from milled powders. From the dilatometric study and the heat treatments, it appears that the quenchability of the EUROFER follows this order: wrought≈PM>unreinforced (MM)≈1% MgAl2O4
+                        >0.2% Y2O3
+                        >1% Y2O3. Therefore different parameters play a role on the quenchability: (1) the milling, (2) the reinforcement nature and (3) the reinforcement content.
+The change in the quenchability after milling is in great part due to a grain size effect. Indeed, finer austenitic grains are less prone to martensitic transformation than coarser grains, and the critical cooling rates to obtain a fully martensitic structure increases with decreasing the austenitic grain sizes [36,37] due to the fact that in a structure composed of small grains the carbon diffusion is strongly enhanced by grain boundaries channeling.
+In addition to this grain size effect, different points have to be considered to explain the very low quenchability of the Y2O3 ODS steels. The Y–O clusters formed during the dissolution of the initial Y2O3 have a drastic effect on the proportion of austenite formed during heating (obviously only this proportion can be transformed into martensite during cooling). Therefore, the difference of quenchability can be interpreted, in first approximation, as a direct consequence of the proportion of austenite formed during heating. Moreover, the presence of nano-metric oxides precipitated around 1000°C (from [21]) can also have an influence on the quenchability (by hardening the materials and therefore blocking the lath formation) and this could explain that the small proportion of austenite formed during heating at high temperature in the 1%Y2O3 ODS steels does not transform into martensite during cooling.
+A scenario of the evolution of the microstructure during the HIP can be imagined to sum up the observations of the present and previous studies:
+                        
+                           
+                              (1)
+                              For the 0% and 1% MgAl2O4 reinforced milled powders, the nano-sized ferritic grains probably grow from 750 to 870–910°C before transforming into austenite grains that continue to grow from 910 to 1020°C. Then, the ferrite grains form during cooling by nucleating on the austenite grain boundaries from 790 to 730°C. The spinels don’t seem to interact with the grain nucleation or growth.
+                           
+                           
+                              (2)
+                              For the Y2O3 reinforced milled powders, the scenario is more complicated. During heating, it seems reasonable to imagine that many nano-metric ferritic grains do not grow due to the pinning of their grain boundaries on the Y–O clusters resulting from the dissolution of the initial Y2O3 powder during the MM; the other nano-metric grains can grow from 750 to 870°C (from in situ TEM experiments, not presented here) by an abnormal grain recrystallization process. These larger ferritic grains transform into austenite at 870–980°C whereas the smaller nano-metric ferrite grains do not. Some of the Y–O clusters precipitate at 1000°C, allowing the austenite grains to grow. During the furnace cooling, some ferrite grains nucleate at the boundaries of the large austenite, and the smaller ferritic grains that did not transform during heating remain unchanged during cooling. The Y2O3 precipitated during heating in the austenitic grains appear incoherent whereas those precipitated in the nano-metric ferritic grains that did not austenitized appear coherent with them.
+
+Advantages and drawbacks of the Y2O3 and MgAl2O4:
+The dissolution/precipitation mechanisms of the Y2O3 oxides during the ODS steel elaboration (if necessary promoted by Ti addition) was claimed to be effective for improving the mechanical properties of the ODS steels at high temperatures [17,18,23]. Nevertheless, at least two points appear negative: (1) the complete austenitization is difficult to obtain and the martensite critical cooling rate become unreasonable and (2) the good thermal creep behavior of the Y2O3 ODS steels should be proved by testing the materials in situ during irradiation experiments. Indeed, for the moment, the very good thermal creep properties of these ODS steels has been proved only in their unirradiated state [12] and their post-irradiation states [30]. However, Monnet has shown that the Y2O3 oxides dissolved during irradiation could precipitate after the irradiation to form halo rings of nano-precipitates (depending on the temperature) [24]. Therefore, it is not sure that the structure that has been tested after irradiations in [30] is relevant of a structure under irradiations.
+The as-HIPed 1% MgAl2O4 ODS steels do not suffer these drawbacks. The MgAl2O4 spinels are more stable under MM. They keep their initial distribution size (5–100nm) during the elaboration, do not impede the austenitization and allow a martensitic transformation at acceptable cooling rates. They present a good compromise between strength and ductility and their impact toughness is far better than the one of the Y2O3 ODS steels, even if lower than that of EUROFER. Some points should however be studied before their possible use as structural material in fusion reactors:
+                        
+                           
+                              •
+                              As previously discussed, the MgAl2O4 are very stable under both MM and ion irradiations, but experimental studies have to be done to check their stability under neutron irradiation.
+                           
+                           
+                              •
+                              The presence of Al – an activable element – in the spinels seems redhibitory. However, a solution could be to separate the MgAl2O4 spinels from the steel at the end of the material life, by melting the steel and letting the oxides rise at the surface driven by their density difference with iron. This requires that the MgAl2O4 are completely stable under irradiation because, if they were not, Al would diffuse easily in steel and would definitively activate it.
+                           
+                           
+                              •
+                              The creep properties are expected to be low due to the size of the spinels (larger than the nano-Y2O3). Indeed, according to the creep theories of ODS materials [53], these ones are probably lower than the ones with the Y2O3 ODS steels (without irradiation) due to the larger mean size of the reinforcement distribution (∼20nm for MgAl2O4 and few nm for Y2O3). However, since the MgAl2O4 volumic content can also be far higher than the one with the Y2O3 without losing too much ductility, it could be possible to find a compromise between size and content to optimize the creep behavior.
+
+Conclusion:
+Different ODS EUROFER steels have been elaborated: 0%, 0.2% and 1% Y2O3, and 1% MgAl2O4 steels. The oxide and steel powders were mixed by mechanical milling (MM): with a drum mill for the three former materials, and with an attritor mill for the latter. All the powders were consolidated by hot isostatic pressing (HIP) at 1020°C in the same conditions.
+The ODS steels have been mechanically tested. The 0.2% Y2O3 and 1% MgAl2O4 ODS steels constitute a good compromise between strength and ductility at room temperature. The 1% MgAl2O4 ODS steel has a far better impact toughness than the Y2O3 ODS steels (>20 and >5J/cm2, respectively). The present study did not permit to explain low impact properties.
+The ODS steels have been structurally characterized by SEM, TEM and dilatometry at different steps of their elaboration process.
+The Y2O3 oxides dissolve during the MM, but the MgAl2O4 spinels do not. This difference seems to come from the nature of the oxide rather than the mill type used to mix the powders. The milled powders are constituted of C supersaturated ferritic nano-grains. Their size is ∼50nm for the 0% ODS steel, and <20 nm for the 1% Y2O3. The smaller size when the powder is reinforced probably comes from the hardening of the matrix during the progressive refinement of the Y2O3.
+After the HIP and a furnace cooling, all the ODS steels are ferritic. They are constituted of micrometric grains for the 0% and 1% MgAl2O4 ODS steels and of micrometric surrounded by nano-metric grains for the 0.2% and 1% Y2O3 ODS steels. In the latter, the Y2O3 oxides are re-precipitated under a fine distribution of nano-Y2O3 particles. Their chemistry has probably changed. The dilatometric measurements show that the austenitization is not complete in the Y2O3 steels. This makes us conclude that the nano-metric grains in these materials correspond to those present after the MM that were not austenitized during the HIP due to pinning effect of the nano-Y2O3. No martensite could be detected. Actually, the quenchability of the EUROFER ODS steels is modified by (1) the milling process, (2) the oxide nature and (3) the oxide content. It can be ordered in the following way: wrought EUROFER>0% ODS>1%Mg Al2O4
+                     >0.2% Y2O3
+                     >1% Y2O3. The decrease can be explained by an austenite grain size effect, and, for the Y2O3 ODS steels, by a non-complete austenitization and by a direct effect of the nano-oxides. The whole of the microstructural evolution is summed up in Fig. 18
+                     .
+The MgAl2O4 ODS steels have many advantages over the Y2O3 ODS steels (better ductility, impact toughness, and quenchability), but some points remain to check for a possible use as structural materials for nuclear application such as their creep properties and the stability of the spinels under neutron irradiations.
+
+Acknowledgments:
+This work has been sponsored in great part by the European Fusion Development Agreement (EFDA). The authors wish to thank J.M. Hennequin for the milling process, P. Bucci and J.M. Leibold for the HIP process, and J.M. Gentzbittel for the useful discussions.
+
+Body:
+Reduced activation ferritic/martensitic (RAFM) steels are promising structural materials for the first wall of future fusion reactors DEMO [1]. These steels have proven to be a good alternative to austenitic steels for their better thermal conductivity, their higher swelling resistance and lower accumulation damage [2]. Their development has been promoted in order to simplify special waste storage of highly radioactive structures of fusion reactor after service; some alloying elements present in the commercial martensitic steels have been substituted by other ones that exhibit faster decay of induced radioactivity. In many RAFM steels, the Cr content has been limited to 9%, which is sufficient for corrosion resistance and corresponds to the lowest DBTT during impact tests [3]: higher Cr content (>12%) leads to the formation of δ ferrite and of Cr rich phase α′ under irradiation at low temperature [4] that both lower the impact toughness. Different 8–9Cr RAFM steels based on OPTIFER type have been developed and widely studied such as JLF, F82H (see [5] for an overview), OPTIMAX [6] and more recently EUROFER 97 [7,8]. However, RAFM steels are limited to temperatures lower than about 650°C, whereas higher temperatures are required to improve the reactor’s efficiency.
+
+The use of oxide dispersion to strengthen (ODS) alloys in order to increase the working temperature of materials dates from the 1950’s and was widely developed in the 1960’s, especially for aerospace industry [9]. One of the most spread ways to elaborate ODS alloys is to mix the oxide powders with the alloy ones by mechanical milling (MM). The oxide reinforcement that has been the most largely used is Y2O3, and many Y2O3 ODS steels are commercially available (named MA956 and MA957 [10]). The benefits of the 12–13Cr ODS steels as cladding material for liquid metal fast breeder reactors were recognized in the late sixties [11] and developed in Japan for this application by Ukai [12–16]. Recently, RAFM ODS steels are assessed to evaluate their potentiality in fusion reactors at temperatures higher than 650°C and their ability to substitute the RAFM steels while keeping their inherent advantages [17–19]. Indeed, many studies proved that the tensile and creep properties of the RAFM ODS steels are improved in comparison with unreinforced steels [20] allowing them to just fulfill the tentative DEMO’s design criteria [19]. This improvement is attributed to the dislocation pinning by a dispersion of nano-oxides originated from the initial Y2O3 reinforcements. The mechanisms implied in the formation of these nano-oxides are complex. Okuda proves by an X-ray study that the Y2O3 oxides dissolve in steels during the MM and precipitate with Ti after annealing at temperature higher than 1000°C in form of very fine and complex Y2Ti2O7 and Y2TiO5 oxides [21]. Such chemical changes were also proved by 3D Atom-Probe measurements [22] or EDS analyses on carbon replica [23,24].
+
+The 12–13Cr ODS ferritic/martensitic steels were proved to be very resistant to the swelling produced irradiation by ions [25], electrons [26], or neutrons [2,27]. However, it should be noticed that the dislocation density plays a key role in the swelling resistance, and Saito showed that recrystallized ODS steels could have higher void swelling than conventional ferritic/martensitic steels under electron irradiation at 698K.
+
+The results about the toughness of the 11–13Cr ODS steels after neutron irradiations are not easily comparable. Yoshitake has reported no remarkable embrittlement after irradiation at 450–600°C (by burst tests at 600°C) [28] whereas Kuwabara has reported a loss of toughness after irradiation at temperatures higher than 520°C (by impact Charpy tests) [29]. Sagardze showed an embrittlement of the 13Cr ODS steels irradiated at 410°C (by tensile tests), but comparable with the one observed in the BCC steels [30]. These differences between authors are probably due to the difference between the mechanical tests and between the microstructures (absence of α′ and χ phase in the Japanese ODS steels).
+
+The first electron irradiations at 1MeV proved that the nano-oxides were stable under irradiation [26]. However, Dubuisson suspected a possible dissolution of the oxide particles induced by neutron irradiation [31]. Actually, the phenomenon was recently confirmed by Yamashita for the smaller oxides in an 11Cr ODS steel up to 21dpa (but was judged sufficiently limited) [2] and more convincingly by Monnet [24] in a 13Cr ODS steels up to 81dpa. In order to better understand the dissolution mechanisms and to elaborate predictive models, Monnet studied the stability of different other oxides (MgAl2O4, MgO and Al2O3) under irradiation by neutrons, electron and ions [24]. She clearly showed that the dissolution occurs for all the oxide types and for all the irradiation particles (even for the Y2O3 by electron irradiation at 1.2MeV), and that the less unstable oxides are Y2O3 and MgAl2O4.
+
+The commercial ODS steels and those developed in Japan imply all the consolidation of the milled powders by hot extrusion and hot and/or cold working. These processes create materials with bamboo-like grain structure and therefore anisotropic mechanical properties. Moreover, the grains are often very small, which is not appropriate for the formability of the work pieces (high strength) and their application at high temperatures (low creep resistance by grain boundary sliding).
+
+A solution to increase the grain size was to apply a recrystallization after the thermomechanical treatment [13,32,33]. However, such method is very tricky; the recrystallization temperature is very high and strongly dependent on the oxide reinforcement content. The high recrystallization temperature might come from a pinning effect of the nano-oxides [13] (many other explanations exist, such as pinning by the nano-grain junctions [33], or carbon dissolution yielding to an increase in pressing strains [34]).
+
+A solution to improve the isotropy proposed by Ukai was to use the γ→α′ transformations [12,14]. However, the cooling rate of the transformation in the ODS steel (few hundred K/h) is far higher than the one for the conventional martensitic steel (around 20K/h) [15]. This loss of quenchability was attributed to the very fine size of the prior austenitic grains [35–37]. Thus, such process could be confronted to technical problems to obtain such a rapid cooling rate on large parts.
+
+A solution to solve both the anisotropy and the grain size problem proposed by Lambard [23] was to use the γ→α transformation. Indeed, a slow cooling during the γ→α transformation allows obtaining ferrite grains larger than the prior austenitic grains that could further be transformed into austenite and then martensite. Optimized ODS steel with both isotropy and large prior austenitic grains (10μm) could be elaborated [23]. Similar study performed by Ukai confirms the potentiality of the method [15].
+
+Another solution to avoid any formability or anisotropy problems is the hot isostatic pressing (HIP) [39]. This technique has the main advantage of allowing the manufacture of large net shape or near-net shape parts, with the possibility at the same time to join different parts by diffusion welding. Recently, two Y2O3 EUROFER ODS steels elaborated by Plansee following this method have been mechanically and structurally characterized by Lindau [40] and Schäublin [41]. The tensile and creep properties of the ODS are confirmed to be better than the base steel, but the impact toughness is very low, with a ductile-brittle transition temperature (DBTT) of around 100°C in comparison with the −100°C of the EUROFER steel. A possible residual porosity is claimed to be the cause of the low impact toughness properties of the ODS steel elaborated by HIP [19]. Such porosity has actually been observed on one of the two ODS steel studied by Lindau, but not in the one that has been impact tested. Anyway, great attention to the porosity must be paid during the elaboration by HIP.
+
+Our laboratory elaborates ODS steels directly by HIP since 1993 [38,39]. Two kinds of ODS steels with the most irradiation resistant oxides Y2O3 and MgAl2O4 are developed. As previously mentioned, the martensitic transformation in the Y2O3 ODS steels requires very high cooling rates. Martensite is however preferred to polygonal ferrite for its better impact properties (martensite forms a stronger barrier for crack propagation) and better irradiation resistance [42], Therefore, efforts have been made to obtain martensitic ODS steels. Since all steps of the process imply complex microstructural changes, the present work will report the evolution of the microstructure at each step in the aim to further optimize the materials by choosing the most appropriate elaboration parameters. In this study the basic mechanical properties of the Y2O3 and MgAl2O4 HIPped ODS steels will also be reported and linked to the microstructure. The advantages and drawbacks of each oxide will be discussed.
+
+A forged bar of a European RAFM steel heat named EUROFER 97 supplied by Böhler (E83699) has been atomized under argon by Osprey. The chemical composition of the steel powder is mainly the same that the heat one: 8.9 wt% Cr, 1.1 wt% W, 0.1 wt% C (the complete composition is reported in [39]). The powder has a homogeneous and spherical morphology. (Fig. 1
+                     ). The grain size of the powder particles can be estimated to 5–10μm with a fully martensitic microstructure. In order to get better homogeneity during the mechanical alloying, the powder was sieved and only particles having a size less than 45 μm have been used for the elaboration of the ODS EUROFER steels. The oxygen content depends on the powder size. It is 0.0013 wt% in the heat and higher in the atomized powder. It is 0.02-wt% for powder between 45 and 250μm and 0.043 wt% for powder lower than 45μm, which corresponds to an oxide layer of 35 and 15nm respectively (supposing that the oxide is Cr2O3). The Y2O3 and MgAl2O4 oxide powders are constituted of small crystallites with sizes ranging from 10 to 100nm, as shown in the TEM images of the initial powders in Figs. 2
+                      and 3
+                     .
+
+Four materials have been elaborated by milling the EUROFER powders with 0.2% Y2O3, 1% Y2O3, 1% MgAl2O4 or without any reinforcement (further named 0% ODS steel). Two kinds of mills have been used:
+                     
+                        
+                           •
+                           A drum mill with a 5kg capacity per batch. The milling lasts 80h, at a speed v
+                              =47rpm with a drum diameter of 730mm and a ball to powder mass ratio of M
+                              ball/M
+                              powder
+                              =20, under argon atmosphere (Fig. 4
+                              ). The drum mill has been used to prepare the unreinforced and Y2O3 ODS steel powders.
+                        
+                        
+                           •
+                           An attritor mill with a 0.4kg capacity. The milling lasts 80h, at a speed v
+                              =300rpm, with ball to powder mass ratio of M
+                              ball/M
+                              powder
+                              =20, under argon atmosphere (Fig. 5
+                              ). The attritor mill has been used to prepare the MgAl2O4 steel powders, because smaller quantities of powder were required for a first assessment of this ODS steel.
+
+A drum mill with a 5kg capacity per batch. The milling lasts 80h, at a speed v
+                              =47rpm with a drum diameter of 730mm and a ball to powder mass ratio of M
+                              ball/M
+                              powder
+                              =20, under argon atmosphere (Fig. 4
+                              ). The drum mill has been used to prepare the unreinforced and Y2O3 ODS steel powders.
+
+An attritor mill with a 0.4kg capacity. The milling lasts 80h, at a speed v
+                              =300rpm, with ball to powder mass ratio of M
+                              ball/M
+                              powder
+                              =20, under argon atmosphere (Fig. 5
+                              ). The attritor mill has been used to prepare the MgAl2O4 steel powders, because smaller quantities of powder were required for a first assessment of this ODS steel.
+
+All the milling have been realized under the same optimized conditions, which ensure a rate of milled particles over 99% and a low contamination of oxygen and carbon.
+
+The milled powders were placed in 304L steel containers, which were then outgassed, sealed and consolidated by HIP at 1020°C/2h/1000bar under argon followed by a furnace cooling. Post-heat treatments have also been performed on some of the ODS steels. The specifications for classical (i.e. non-ODS) EUROFER alloys request after manufacturing process a normalization treatment at 950°C followed by water quenching (WQ) and tempering treatment at 750°C in order to obtain a tempered martensitic structure. Nevertheless, as previously mentioned, martensitic transformation is difficult to obtain in the Y2O3 ODS EUROFER steels due to the small γ grain size. By consequence, to increase the γ grain size, the austenitizing temperature of the heat treatment has been increased to 1300°C. Due to the possible γ→δ transformation at such high temperature (T
+                     γ→δ
+                     =1260°C in the F82H and JLF1 steels), the stage at 1300°C has been followed by a stage at 1150°C for a re-austenitization before a furnace cooling (FC). The new heat treatment is then: 1300°C/3h+1150°C/1h+FC. It has been realized under argon on all the ODS EUROFER steels.
+
+The materials have been tensile tested at a strain rate of 4×10−4
+                     s−1 at room temperature with specimens having gauge dimensions of ∅4×20mm and at 550°C with specimens having gauge dimensions of ∅6×30mm. Two specimens were used for each material. The materials have been impact tested at room temperature with Charpy KCV specimens (length of 55mm, section of 10×10mm2 section, with a V-notch of 2mm).
+
+Dilatometric measurements have been performed on a SETARAM DHT 2050K dilatometer. All the cycles have been performed under a pressure of 1bar of argon.
+
+The materials have been observed in a Jeol 2000 FX transmission electron microscope (TEM) equipped with an X ray energy dispersive spectrometer (EDS) for the chemical analyses. The TEM samples of the milled powders have been prepared by ultramicrotomy, and those of the consolidated steels by mechanical grinding and electropolishing.
+
+The tensile properties of the materials at room temperature and at 550°C are reported in Tables 1
+                      and 2
+                     , respectively. Those of wrought EUROFER have been added for comparison. The as-HIPped 1% Y2O3 ODS EUROFER steels show very high yield stress and ultimate tensile stress (1170MPa), far beyond the specifications required for EUROFER steels; but have insufficient elongation (2%) and no improvement could been obtained after a heat treatment at 950°C+WQ. The heat treatment at higher temperature 1300°C+1150°C+FC allows a slight improvement of ductility while keeping high tensile strength. Reducing the oxide content to 0.2% Y2O3 improves the elongation to rupture while keeping good strength (1060MPa, 12%). The as-HIPped 1% MgAl2O4 ODS steel is found to correspond to the best compromise (930MPa, 22%). For these last two ODS steels, the high temperature heat treatment does not lead to further improvement.
+
+The results of the room temperature Charpy impact tests with KCV specimens are presented in Table 3
+                     . The impact properties of the MgAl2O4 ODS steels, although less than half of those reported for the EUROFER, are far better than those of Y2O3 ODS steels.
+
+The mechanical properties will be discussed and linked to the microstructure in Section 6.1.
+
+The MM process was only used to mix the oxide reinforcement powders to the EUROFER powders. Nevertheless, it completely modifies the microstructure as shown as follows:
+
+The SEM observations on the as-milled powders (Fig. 6
+                        ) show that the drum-milled powders have a globular-plate shape, as represented in Fig. 6(a), (c), and (d). The mean size (determined by laser scattering) is clearly affected by the reinforcement content: it is 100μm without reinforcement, 90μm with 0.2% Y2O3, and 40μm with 1% Y2O3. Such phenomenon can be explained by the progressive ODS hardening of the reinforced powder particles during the milling process, which makes the mixed EUROFER+oxides powders more brittle than the unreinforced EUROFER powders. The attritor milled powders reinforced with MgAl2O4 are larger and flatter (Fig. 6(b)). The mean particle size is 75μm. For comparison, the mean size of a 1% Y2O3 EUROFER powder milled with the attritor mill is smaller (40μm). Let us recall here that 1 wt%=1.55 vol.% for Y2O3 and 2.18 vol.% for MgAl2O4. This proves that it is the oxide nature (and not its content nor the mill type) that plays a key role on the refinement of the powder during the milling.
+
+The TEM observations on the as-milled powders (Fig. 7
+                        ) show that with or without reinforcement, the martensitic laths of the EUROFER powders have been suppressed and replaced by an isotropic structure of nano-sized grains (50nm). Since no carbide could be detected, we supposed that the carbon was kept in solution. It could be noticed that the mean grain size depends on the oxide nature and contents: it is 40–60nm for the 0% ODS steels, and 10–30nm for the 1% MgAl2O4, 10–20 nm for the 0.2% Y2O3 ODS steel, and 5–20nm for the 1% Y2O3 ODS steel. This confirms that oxides have a direct effect on the hardness of the steel powders in which they incorporate. The MgAl2O4 could be observed by classical bright field TEM or Scanning TEM observations (Fig. 8
+                        ), but not the Y2O3 oxides. We conclude that the MgAl2O4 spinels are not affected by the MM, whereas the Y2O3 oxides dissolve during the milling process. This point will be discussed in Section 6.2.
+
+The direct influence of the Y2O3 particles on the final grain size can be explained by their progressive size reduction and dissolution during the milling. It seems that they have hardened more the steel powder during the milling in their lower size form than in their initial oxide form. This point is confirmed by the lower influence of the MgAl2O4 spinels on the grain size and on the powder size. Let us recall that the MgAl2O4 ODS steel powders were milled with an attritor mill whereas the 0% and Y2O3 ODS steel powders were milled with a drum mill; however, as it will be discussed in Section 5.3, we will make the assumption that the microstructural changes are mainly due to the oxide nature rather than to the mill type.
+
+Micrographies and hardness of the EUROFER and ODS EUROFER steels after their HIP consolidation are reported in Fig. 9
+                        . Determining from the images whether the microstructure is martensitic or ferritic is difficult. Only the few unmilled particles are clearly martensitic as shown by their inside lath morphology. However, the low hardness values of the 0% and 1% MgAl2O4 ODS steels seem to indicate a ferritic structure. The higher hardness values of the Y2O3 ODS steels cannot be directly interpreted as the presence of martensite due to a possible grain size effect [23]. Actually, the large black particles visible in the metallographies are carbides, which therefore means that the structure is ferritic.
+
+TEM observations were performed in order to avoid any ambiguity. The absence of martensite in all the as-HIPped materials was confirmed (Fig. 10
+                        ). Moreover, the grain structures are different according to the reinforcement nature and content:
+                        
+                           
+                              •
+                              In the 0% and 1% MgAl2O4 EUROFER steels (drum and attritor milled respectively) the grains are equiaxed with a micrometric size (∼3μm) as shown in Fig. 10(a) and (b), respectively.
+                           
+                           
+                              •
+                              In the 0.2% and 1% Y2O3 EUROFER steels (drum milled), the grains exhibit a bimodal structure with micrometric grains (∼3μm) surrounded by nano-metric grains (∼200nm) as shown in Fig. 10(c) and (d) respectively. The proportion of the grains with a nano-metric size depends on the reinforcement content: it is 40% with 0.2% Y2O3 and 70% with 1% Y2O3.
+
+In the 0% and 1% MgAl2O4 EUROFER steels (drum and attritor milled respectively) the grains are equiaxed with a micrometric size (∼3μm) as shown in Fig. 10(a) and (b), respectively.
+
+In the 0.2% and 1% Y2O3 EUROFER steels (drum milled), the grains exhibit a bimodal structure with micrometric grains (∼3μm) surrounded by nano-metric grains (∼200nm) as shown in Fig. 10(c) and (d) respectively. The proportion of the grains with a nano-metric size depends on the reinforcement content: it is 40% with 0.2% Y2O3 and 70% with 1% Y2O3.
+
+In the 0% ODS steel, particles of ∼100nm identified by EDS as Cr carbides and tantalum oxides are not always aligned along the existing ferrite grain boundaries, but they follow the shape of prior grain boundaries Fig. 7(a). Since, prior austenitic grains are completely broken after the MM, the particles cannot correspond to the classical prior particle boundaries of the EUROFER powder. They could actually be the product of the transformation of the C supersaturated ferritic nano-grains in the milled particles to larger ferrite grains formed during the HIP heating, and not completely dissolved during the austenitization at the HIP step of 1020°C.
+
+The oxide reinforcements are clearly observable in TEM. The EDS measurements prove that chemistry of the MgAl2O4 spinels did not changed during the HIP treatment. Their distribution (Fig. 11
+                        (a)) is in accordance to the initial spinel powder (compare to Fig. 3). The ‘Y2O3’ oxides are now also clearly visible (Fig. 11(b)), with a finer size distribution than the one of the initial powder (compare to Fig. 2). Due to the very small size of these particles, no chemical analyses could be performed. However, as mentioned in introduction, these nano-oxides correspond to the precipitation of the O and Y atoms in solid solution released from the dissolution of the initial Y2O3 during MM. Their chemistry has probably changed, but we will henceforth call them nano-Y2O3. Further details will be given in Section 6.3.
+
+The nano-sized ferritic grains in the as-HIPped Y2O3 ODS steels (Fig. 10(c) and (d)) correspond to those observed in milled powder (Fig. 7(c) and (d)). Their growth during the HIP heating has been drastically slowed down by the pinning of the nano-Y2O3 precipitates, and, as it will be discussed in Section 6.3, they did probably not transform into austenite during the HIP austenitization. The absence of nano-sized ferritic grains in the 0% and 1% MgAl2O4 is due to the absence of nano-oxides.
+
+One could notice that the attritor speed is relatively low (for historical reasons) and that the milling conditions with attritor are therefore probably softer than with the drum mill. In order to determine if the Y2O3 dissolution is due to the type of mill (attritor instead of drum mill), a 1% Y2O3 ODS steel was elaborated from EUROFER+Y2O3 powders mixed by attritor milling and HIPped in the same conditions than the 1% MgAl2O4 ODS steel. As shown in Fig. 12
+                        , the structure is close to the Y2O3 ODS steel elaborated by drum mill: it is also ferritic and bimodal with large elongated grains ∼5μm, nano-sized grains ∼ 200 nm (but with a lower proportion than by drum mill), and the oxides are also nano-metric (but mainly distributed along alignments). The presence of the nano-Y2O3 proves the existence of a dissolution process of the Y2O3 during the MM by attritor milling. Therefore, the absence of dissolution by attritor milling of the MgAl2O4 spinels in the EUROFER powders comes from their chemical nature.
+
+The difference of behavior of the two oxides Y2O3 and MgAl2O4 has been proved with this comparison of the two materials elaborated by attritor milling. To be complete, a comparison should also be performed with the two materials elaborated by drum mill. One percent MgAl2O4 ODS steel could be elaborated by drum milling to check if the dissolution of MgAl2O4 occurs or not in the drum mill.
+
+The classical treatment 950°C+WQ has been applied only to the 1% Y2O3 ODS EUROFER. The metallography of this material is very similar to the same grade in the as-HIPed state (Fig. 9(d)). The hardness is 540in. the as-treated state and 422 after the tempering at 750°C/2h. These results prove that the classical heat treatment is not sufficient to obtain a martensitic structure for the 1% Y2O3 ODS steel even after WQ. The heat treatment at 1300°C/3h+1150°C/1h+FC has been applied to all the ODS steel. The metallographies (only the one corresponding to the 0.2% Y2O3 ODS steel is presented here in Fig. 13
+                        ) show a very fine structure constituted of laths without the carbides observed in Fig. 9. The hardness has been measured in the as heat-treated state and after tempering at 750°C 2h: it is 451/300, 459/300, 462/334 for the 1% MgAl2O4, 0.2% Y2O3 and 1% Y2O3 ODS steels. It can be concluded that the heat treatment at 1300°C is more appropriate (even after air cooling): it seems to permit a complete martensitic transformation in the 1% MgAl2O4 and 0.2% Y2O3 ODS steels and a nearly complete one in the 1% Y2O3 ODS steel.
+
+It can also be noticed that the hardness of the 1% Y2O3 ODS EUROFER is higher after the 950°C heat treatment+tempering than after the 1300°C heat treatment+tempering, despite an expected lower content of martensite. This probably comes from a competition between the grain size and the martensite effect on the hardness.
+
+The steels have been studied in TEM in order to unambiguously determine the grain size and the possible presence of martensite. The observations confirm the martensitic structure of the 1% MgAl2O4 and 0.2% Y2O3 ODS steel (Fig. 14
+                        (a) and (b)). However, surprisingly, no martensite lath could be detected in the 1% Y2O3 ODS steel; its structure is constituted of micrometric grains ∼2μm and few nano-metric grains (Fig. 14(c)). The difference between the metallographies and the TEM results could come from the difference in the localization of the observed samples (closer to the surface for the metallography samples than for the TEM samples, and therefore exposed to a higher cooling rate during the furnace cooling).
+
+Dilatometric measurements have been performed with the as-HIPped ODS EUROFER steels in order to better determine the proportion of martensite formed during the cooling, and more generally better understand the microstructural evolution during the post heat treatments. Five cycles have been defined:
+                        
+                           
+                              •
+                              D0: heating +17°C/min, 1020°C/30min, cooling −3°C/min.
+                           
+                           
+                              •
+                              D1: heating +17°C/min, 1020°C/30min, cooling −15°C/min.
+                           
+                           
+                              •
+                              D2: heating +8°C/min, 950°C/15min, cooling −100°C/min.
+                           
+                           
+                              •
+                              D3: heating +8°C/min, 1150°C/1h, cooling −100°C/min.
+                           
+                           
+                              •
+                              D4: heating +8°C/min, 1300°C/1h, cooling −100°C/min (only to the 1% Y2O3 steel).
+
+D0: heating +17°C/min, 1020°C/30min, cooling −3°C/min.
+
+D1: heating +17°C/min, 1020°C/30min, cooling −15°C/min.
+
+D2: heating +8°C/min, 950°C/15min, cooling −100°C/min.
+
+D3: heating +8°C/min, 1150°C/1h, cooling −100°C/min.
+
+D4: heating +8°C/min, 1300°C/1h, cooling −100°C/min (only to the 1% Y2O3 steel).
+
+An example of a dilatometric curve is reported in Fig. 15
+                        . The fact that for all the samples the curves at the beginning of heating is parallel to the one at the end of cooling means that there is no residual austenite. The tangent method allows to determine the phase transformation temperatures, and to evaluate the volume fraction of each phase formed during the transformation (for example the ferrite proportion formed during the cooling is given by a/b). Hereafter, we will also use the dilatation corresponding to the α→γ transformation during heating and noted c.
+
+During heating, the α→γ transformation temperatures, and the corresponding dilatometric jump have been reported in Fig. 16
+                        (a) and (b), respectively. The main feature is the increase of the austenite finish temperature (A
+                        f) associated to a decrease of the dilatation amplitude at the transformation Δα→γ following this order: 0%, 1% MgAl2O4, 0.2% Y2O3, 1% Y2O3. Actually it is so low for the 1% Y2O3 ODS steel that the finish temperature is very difficult to determine. The reduced Δα→γ means that some ferritic grains do not transform into austenite (probably the nano-metric grains). As an example, for the cycle D3, it can be deduced from Fig. 16(b) that the proportion of grains not transformed into austenite during the austenitization is 40% and 70%±10% for the 0.2% and 1% Y2O3 ODS steels, respectively. Such figures could also be deduced from the dilatation coefficient at the end of heating (roughly 19.5×106 and 17×106
+                        K−1 for the 0.2% and 1% Y2O3 ODS steels, respectively) compared to those found for ferrite (14.5×106
+                        K−1) and austenite (21×106
+                        K−1). One could already notice that these proportions roughly correspond to those of nano-metric grains observed in the as-HIPped ODS materials. During the heating at 1300°C of the 1% Y2O3 ODS steel (D4 cycle), no dilatation amplitude could be observed during the α→γ and γ→δ transformations, which seems to indicate that the α ferrite grains transform directly into δ ferrite grains without transforming into austenite. This point will be discussed in Section 6.
+
+During cooling, the γ→α and γ→α′ transformation temperatures, and the ferrite volume fraction formed have been reported in Fig. 17
+                        (a) and (b), respectively. The D1 cycle (cooling −15°C/min) shows that in conditions close to the HIP cycle, the Y2O3 ODS EUROFER steels are 100% ferritic, in agreement with the metallographic observations of Fig. 7(d). Following this cycle, the 0% and 1% MgAl2O4 ODS EUROFER steels appear 78% and 55% martensitic respectively. Following the D0 cycle (cooling −3°C/min), both steels appear 100% ferritic. Since the metallography and hardness measurements have clearly shown that the structure of these materials in the as-HIPped part was ferritic, it can be concluded that the real cooling rate of the pieces in the HIP furnace ranges between −15 and −3°C/min (thermal inertia of the block).
+
+The D2 and D3 cycles show that austenitizing at 1150°C followed by a rapid cooling is enough to obtain a 100% martensitic structure for the MgAl2O4 EUROFER steel, nearly sufficient for the unreinforced and 0.2% Y2O3 ODS steel and absolutely not enough for the 1% Y2O3 ODS steel which structure remains completely ferritic. The results obtained in the D4 cycle prove that the martensitic transformation could not be obtained, even after a treatment at 1300°C followed by a rapid quenching, confirming the microstructural observations on the 1%Y2O3 ODS steel treated at 1300°C (Section 5.4). Let us recall that the critical rate R
+                        m is only 1°C/min for conventional F82H steels, and that EUROFER steels and unmilled EUROFER HIPed powders also always exhibit a martensitic structure, even after slow furnace cooling [4]. This study confirms the loss of quenchability of the Y2O3 ODS steels, already mentioned in introduction, and shows that this problem cannot be solved if the oxide content is too high (>1%).
+
+Therefore, these dilatometric measurements show that:
+                        
+                           
+                              •
+                              Increasing the ‘austenitization’ temperature favors the quenchability of the ODS steels.
+                           
+                           
+                              •
+                              The MgAl2O4 has nearly no effect on the austenitization temperatures and quenchability of its ODS steels.
+                           
+                           
+                              •
+                              The Y2O3 reinforcement makes the austenitization finish temperature drastically increase (to such a point that the austenitization appears unfinished) and makes the quenchability of such ODS steels decrease.
+                           
+                           
+                              •
+                              At 1% of Y2O3, the austenitization remains incomplete even by heating up to 1300°C and no martensite could be obtained even by cooling the sample at 100°C/min from 1300°C.
+
+Increasing the ‘austenitization’ temperature favors the quenchability of the ODS steels.
+
+The MgAl2O4 has nearly no effect on the austenitization temperatures and quenchability of its ODS steels.
+
+The Y2O3 reinforcement makes the austenitization finish temperature drastically increase (to such a point that the austenitization appears unfinished) and makes the quenchability of such ODS steels decrease.
+
+At 1% of Y2O3, the austenitization remains incomplete even by heating up to 1300°C and no martensite could be obtained even by cooling the sample at 100°C/min from 1300°C.
+
+The results obtained during this study prove that the evolution of the microstructure of the ODS steels is very complex. They show that the milling is the main important step of the process and that the nature of the reinforcements (MgAl2O4 or Y2O3) plays a key role during all the further steps of the process. Let us discuss more deeply all these steps in the aim to draw a coherent sequence and to determine its most important factors.
+
+The hardness values and the tensile properties obtained in Table 1 are qualitatively in agreement with the microstructure. As reported in [23], the most important factor on the yield stress is not the content of oxides but the proportion of the nano-ferritic grains.
+
+More interesting is the understanding of the low impact properties of the ODS steels. The impact toughness of the 0% and 1% MgAl2O4 ODS steels are close to 50J/cm2. This is coherent with the similar microstructure of the two materials (Fig. 10(a) and (b)). The value falls below 5J/cm2 for the HIPped Y2O3 ODS steels. Such low values and the associated high DBTT have been reported on similar HIPped ODS steels in [7], and, to a less extent, on the commercial MA957 ODS steel [43]. In the latter case, the weak toughness was attributed to the presence of a large volume fraction of alumina stringers. Better impact properties were obtained on hot extruded ODS steels on the Japanese ODS materials [12,29], but the results are not directly comparable due to the very small size of the specimens (and actually the values obtained in [29] expressed in J/cm2 are not higher than 40J/cm2). Previous studies in our laboratory have shown that thermomechanical treatment improves the impact toughness of HIPped Y2O3 ODS steels up to 50J/cm2 but this value seems to be the highest that can be obtained with ODS steels elaborated through a MM step. Recent impact results obtained by JM Gentzbittel and Rath [44] on unreinforced HIPped steels allows us to better understand the origin of the problem. It was shown that if the EUROFER powders are HIPped without mechanical milling, the impact properties are as good as the ones for the wrought EUROFER (220J/cm2), but if the powders are milled before being HIPped (such as for the 0% ODS steel), the impact properties collapse to 50J/cm2. Therefore, it appears that an important factor at the origin of the collapse of the impact properties is the MM step. Moreover, the low impact properties cannot be related to the refinement of the structure (and the presence of nano-metric grains), because usually the lower the grain sizes, the better the impact properties [45]. Actually, the slight oxidation during the MM could be an explanation; a deeper metallurgical study of the oxygen distribution is in preparation to check this point.
+
+We have concluded that the Y2O3 oxides dissolve during the MM process. This point was first treated by Rühle and Steffens [46], who showed that (i) pure Y2O3 powder gets smaller and amorphous during a MM process (deep X-ray observations could allow him to calculate the proportion of each effect), and (ii) that the size of the Y2O3 oxides in nickel-based superalloy powders decreases during MM process. By comparing the two phenomena he concluded that the Y2O3 oxides in the superalloy powder get also amorphous. Nevertheless, these results could also be coherent with a progressive dissolution of the Y2O3 oxides during the MM as mentioned in the introduction. Actually, Okuda has proved by small angle X-ray scattering that, in a 3% 13Cr–3Ti–3Y2O3 ODS steel, the Y2O3 oxides get smaller and disappear after 48h of attrition milling [21]. He also proved that Ti promotes the dissolving process.
+
+Most surprising is the absence of dissolution of the MgAl2O4. The observations in Section 5.3 allowed us to conclude that the MgAl2O4 have a better stability to attritor milling than the Y2O3. It is interesting to notice that mechanical milling and irradiation, although the two processes are completely different, can be described by the same physical laws, as proved by Martin [47,48]: the atoms are randomly displaced due to the irradiation flux or to the ball impacts (ballistic effect on the concentration gradients) and simultaneously diffuse under chemical potential gradient. Depending on whether the displacements or the diffusion dominate, the alloy is far or close to the equilibrium. The Y2O3 is reported more stable under irradiation than MgAl2O4 because of the high displacement energy threshold of Yttrium, but Monnet has shown a better stability of the MgAl2O4 than Y2O3 to irradiation with 1.2MeV Krypton ions at 45dpa [24]. She noticed that at the same dose received by the oxide (and not by iron), MgAl2O4 actually is the most stable due to its high stochiometry that makes difficult the migration of the punctual defects. Such an explanation could also constitute the reason of the good stability of MgAl2O4 under MM. Extensive studies could be performed to confirm this point and to determine in which extent the Martin’s approach constitutes a good physical base to describe the dissolution process of the oxides during MM.
+
+It has been shown in Section 5.1 that, with or without reinforcement, the martensitic laths of the EUROFER powder have been suppressed and replaced by an isotropic structure of nano-sized grains (<70nm). The absence of carbide makes us suppose that the carbon was kept in solution. Further studies should be performed to determine (i) if the structure is ferritic i.e. the carbon is in solid solution and the crystal is cubic or (ii) if the structure is martensitic i.e. the carbon is in special position in the lattice and the crystal is orthorhombic. Nevertheless, by considering that MM breaks the atomic bonds and mix the structures at atomic scale, the equiaxed grains should correspond to carbon supersaturated ferrite. This point is also supported by Umemoto [49], who showed that, in Fe–C steels with different carbon contents (from 0.03% to 0.89%), the initial microstructure (pearlite, ferrite and martensite) is changed by a nano-crystalline ferrite and that the initial cementite (when existing) is dissolved after MM.
+
+It was also shown that the mean grain size depends on the oxide nature and contents. The Y2O3 oxides have a direct effect on the hardness of the steel powders in which they incorporate, which can be explained by their size reduction and dissolution during milling. It seems that they harden more the steel powder in solid solution (or in form of sub-nano-metric clusters) than in their initial oxide form. The grain size evolution during milling has been described by Tian and Atzmon [50,51] by modeling the grain refinement produced by the impacts and the grain growth (accelerated by the increased of diffusion due to the impacts).
+
+They showed that the grain size d follows:
+                           
+                              
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       ss
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 +
+                                 (
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       0
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 -
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       ss
+                                    
+                                    
+                                       -
+                                       2
+                                    
+                                 
+                                 )
+                                 exp
+                                 (
+                                 -
+                                 2
+                                 
+                                    
+                                       C
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 t
+                                 )
+                                 ,
+                              
+                           
+                        where d
+                        0 is the grain size at time t
+                        =0, and d
+                        ss is the steady state grain size. The C
+                        1 factor and d
+                        ss where shown to be linked to the amplitude of ball vibration A by C
+                        1
+                        ∝
+                        A
+                        1/2 and d
+                        ss
+                        ∝
+                        A
+                        −1/2. The exponents were further refined by interpolation of experimental data. It could be interesting to determine these factors for the ODS steels in view to establish a future quantitative model of their microstructural evolution during the elaboration.
+
+The chemical composition of the ‘nano-Y2O3’ particles is probably no more Y2O3 and additional work is required in order to determine it. Indeed, Okuda identified similar nano-oxides as complex Y2Ti2O7 and Y2TiO5 oxides [21], and the chemical composition was confirmed by Larson on the same ODS steel with 3D Atom-Probe measurements [22]. Lambard found similar results on a 9Cr–1Mo–0.25Ti ODS steel by EDS analyses on carbon replica [23]. Actually, the chemical composition of the precipitates depends of the other elements of the steel. Lambard [23] and Monnet [24] have shown that if the steel contains Si or Mn, these elements are incorporated inside the precipitates. The contents of Ti and Si being very low in EUROFER, whereas Mn is present at 0.4%, the nano-Y2O3 precipitates likely contain Mn.
+
+Their crystallographic structure or the orientation relationship with the steel could not be identified for the moment. Lambard showed by conventional TEM that crystallographic structure of the precipitates (FCC a
+                        =0.526nm) is different from the initial structure (BCC a
+                        =1.06nm), but her work was not confirmed by the recent results of Klimiankou [52] who found no change by high resolution TEM. Moreover, the author showed a strong orientation relationship between the oxide and the ferritic grains. If we consider that the ferritic grains nucleate during cooling from the austenitic grains in random orientation relationship, Klimiankou’s observations would prove that the oxides precipitate during cooling of the ODS steel. This point is in contradiction with Okuda’s work who showed that the oxides form during heating. One explanation, coherent with our observations, is to consider that all the oxides form during heating and that the oxides observed by Klimiankou in orientation relationship with the matrix are those formed in the nano-metric ferrite grains which do not transform into austenite during the ‘austenitization’, and therefore remain unchanged during cooling.
+
+Monnet has shown that when Si and Mn are inside the steel, a change of the MgAl2O4 spinel chemistry could occur during the elaboration [24]. In the present study, the MgAl2O4 spinels have kept their chemistry and probably their crystallography during all the elaboration.
+
+As shown in Section 5.2, all the as-HIPped ODS steels are ferritic, with a structure finer than in classical EUROFER: polygonal grains ∼3μm in the 0% and 1% MgAl2O4, ODS steels and bimodal ferrite with polygonal grains ∼3μm surrounded by nano-grains ∼200nm in the Y2O3 ODS steels. Contrary to EUROFER, the martensitic transformation could not be obtained for the steels obtained from milled powders. From the dilatometric study and the heat treatments, it appears that the quenchability of the EUROFER follows this order: wrought≈PM>unreinforced (MM)≈1% MgAl2O4
+                        >0.2% Y2O3
+                        >1% Y2O3. Therefore different parameters play a role on the quenchability: (1) the milling, (2) the reinforcement nature and (3) the reinforcement content.
+
+The change in the quenchability after milling is in great part due to a grain size effect. Indeed, finer austenitic grains are less prone to martensitic transformation than coarser grains, and the critical cooling rates to obtain a fully martensitic structure increases with decreasing the austenitic grain sizes [36,37] due to the fact that in a structure composed of small grains the carbon diffusion is strongly enhanced by grain boundaries channeling.
+
+In addition to this grain size effect, different points have to be considered to explain the very low quenchability of the Y2O3 ODS steels. The Y–O clusters formed during the dissolution of the initial Y2O3 have a drastic effect on the proportion of austenite formed during heating (obviously only this proportion can be transformed into martensite during cooling). Therefore, the difference of quenchability can be interpreted, in first approximation, as a direct consequence of the proportion of austenite formed during heating. Moreover, the presence of nano-metric oxides precipitated around 1000°C (from [21]) can also have an influence on the quenchability (by hardening the materials and therefore blocking the lath formation) and this could explain that the small proportion of austenite formed during heating at high temperature in the 1%Y2O3 ODS steels does not transform into martensite during cooling.
+
+A scenario of the evolution of the microstructure during the HIP can be imagined to sum up the observations of the present and previous studies:
+                        
+                           
+                              (1)
+                              For the 0% and 1% MgAl2O4 reinforced milled powders, the nano-sized ferritic grains probably grow from 750 to 870–910°C before transforming into austenite grains that continue to grow from 910 to 1020°C. Then, the ferrite grains form during cooling by nucleating on the austenite grain boundaries from 790 to 730°C. The spinels don’t seem to interact with the grain nucleation or growth.
+                           
+                           
+                              (2)
+                              For the Y2O3 reinforced milled powders, the scenario is more complicated. During heating, it seems reasonable to imagine that many nano-metric ferritic grains do not grow due to the pinning of their grain boundaries on the Y–O clusters resulting from the dissolution of the initial Y2O3 powder during the MM; the other nano-metric grains can grow from 750 to 870°C (from in situ TEM experiments, not presented here) by an abnormal grain recrystallization process. These larger ferritic grains transform into austenite at 870–980°C whereas the smaller nano-metric ferrite grains do not. Some of the Y–O clusters precipitate at 1000°C, allowing the austenite grains to grow. During the furnace cooling, some ferrite grains nucleate at the boundaries of the large austenite, and the smaller ferritic grains that did not transform during heating remain unchanged during cooling. The Y2O3 precipitated during heating in the austenitic grains appear incoherent whereas those precipitated in the nano-metric ferritic grains that did not austenitized appear coherent with them.
+
+For the 0% and 1% MgAl2O4 reinforced milled powders, the nano-sized ferritic grains probably grow from 750 to 870–910°C before transforming into austenite grains that continue to grow from 910 to 1020°C. Then, the ferrite grains form during cooling by nucleating on the austenite grain boundaries from 790 to 730°C. The spinels don’t seem to interact with the grain nucleation or growth.
+
+For the Y2O3 reinforced milled powders, the scenario is more complicated. During heating, it seems reasonable to imagine that many nano-metric ferritic grains do not grow due to the pinning of their grain boundaries on the Y–O clusters resulting from the dissolution of the initial Y2O3 powder during the MM; the other nano-metric grains can grow from 750 to 870°C (from in situ TEM experiments, not presented here) by an abnormal grain recrystallization process. These larger ferritic grains transform into austenite at 870–980°C whereas the smaller nano-metric ferrite grains do not. Some of the Y–O clusters precipitate at 1000°C, allowing the austenite grains to grow. During the furnace cooling, some ferrite grains nucleate at the boundaries of the large austenite, and the smaller ferritic grains that did not transform during heating remain unchanged during cooling. The Y2O3 precipitated during heating in the austenitic grains appear incoherent whereas those precipitated in the nano-metric ferritic grains that did not austenitized appear coherent with them.
+
+The dissolution/precipitation mechanisms of the Y2O3 oxides during the ODS steel elaboration (if necessary promoted by Ti addition) was claimed to be effective for improving the mechanical properties of the ODS steels at high temperatures [17,18,23]. Nevertheless, at least two points appear negative: (1) the complete austenitization is difficult to obtain and the martensite critical cooling rate become unreasonable and (2) the good thermal creep behavior of the Y2O3 ODS steels should be proved by testing the materials in situ during irradiation experiments. Indeed, for the moment, the very good thermal creep properties of these ODS steels has been proved only in their unirradiated state [12] and their post-irradiation states [30]. However, Monnet has shown that the Y2O3 oxides dissolved during irradiation could precipitate after the irradiation to form halo rings of nano-precipitates (depending on the temperature) [24]. Therefore, it is not sure that the structure that has been tested after irradiations in [30] is relevant of a structure under irradiations.
+
+The as-HIPed 1% MgAl2O4 ODS steels do not suffer these drawbacks. The MgAl2O4 spinels are more stable under MM. They keep their initial distribution size (5–100nm) during the elaboration, do not impede the austenitization and allow a martensitic transformation at acceptable cooling rates. They present a good compromise between strength and ductility and their impact toughness is far better than the one of the Y2O3 ODS steels, even if lower than that of EUROFER. Some points should however be studied before their possible use as structural material in fusion reactors:
+                        
+                           
+                              •
+                              As previously discussed, the MgAl2O4 are very stable under both MM and ion irradiations, but experimental studies have to be done to check their stability under neutron irradiation.
+                           
+                           
+                              •
+                              The presence of Al – an activable element – in the spinels seems redhibitory. However, a solution could be to separate the MgAl2O4 spinels from the steel at the end of the material life, by melting the steel and letting the oxides rise at the surface driven by their density difference with iron. This requires that the MgAl2O4 are completely stable under irradiation because, if they were not, Al would diffuse easily in steel and would definitively activate it.
+                           
+                           
+                              •
+                              The creep properties are expected to be low due to the size of the spinels (larger than the nano-Y2O3). Indeed, according to the creep theories of ODS materials [53], these ones are probably lower than the ones with the Y2O3 ODS steels (without irradiation) due to the larger mean size of the reinforcement distribution (∼20nm for MgAl2O4 and few nm for Y2O3). However, since the MgAl2O4 volumic content can also be far higher than the one with the Y2O3 without losing too much ductility, it could be possible to find a compromise between size and content to optimize the creep behavior.
+
+As previously discussed, the MgAl2O4 are very stable under both MM and ion irradiations, but experimental studies have to be done to check their stability under neutron irradiation.
+
+The presence of Al – an activable element – in the spinels seems redhibitory. However, a solution could be to separate the MgAl2O4 spinels from the steel at the end of the material life, by melting the steel and letting the oxides rise at the surface driven by their density difference with iron. This requires that the MgAl2O4 are completely stable under irradiation because, if they were not, Al would diffuse easily in steel and would definitively activate it.
+
+The creep properties are expected to be low due to the size of the spinels (larger than the nano-Y2O3). Indeed, according to the creep theories of ODS materials [53], these ones are probably lower than the ones with the Y2O3 ODS steels (without irradiation) due to the larger mean size of the reinforcement distribution (∼20nm for MgAl2O4 and few nm for Y2O3). However, since the MgAl2O4 volumic content can also be far higher than the one with the Y2O3 without losing too much ductility, it could be possible to find a compromise between size and content to optimize the creep behavior.
+
+Different ODS EUROFER steels have been elaborated: 0%, 0.2% and 1% Y2O3, and 1% MgAl2O4 steels. The oxide and steel powders were mixed by mechanical milling (MM): with a drum mill for the three former materials, and with an attritor mill for the latter. All the powders were consolidated by hot isostatic pressing (HIP) at 1020°C in the same conditions.
+
+The ODS steels have been mechanically tested. The 0.2% Y2O3 and 1% MgAl2O4 ODS steels constitute a good compromise between strength and ductility at room temperature. The 1% MgAl2O4 ODS steel has a far better impact toughness than the Y2O3 ODS steels (>20 and >5J/cm2, respectively). The present study did not permit to explain low impact properties.
+
+The ODS steels have been structurally characterized by SEM, TEM and dilatometry at different steps of their elaboration process.
+
+The Y2O3 oxides dissolve during the MM, but the MgAl2O4 spinels do not. This difference seems to come from the nature of the oxide rather than the mill type used to mix the powders. The milled powders are constituted of C supersaturated ferritic nano-grains. Their size is ∼50nm for the 0% ODS steel, and <20 nm for the 1% Y2O3. The smaller size when the powder is reinforced probably comes from the hardening of the matrix during the progressive refinement of the Y2O3.
+
+After the HIP and a furnace cooling, all the ODS steels are ferritic. They are constituted of micrometric grains for the 0% and 1% MgAl2O4 ODS steels and of micrometric surrounded by nano-metric grains for the 0.2% and 1% Y2O3 ODS steels. In the latter, the Y2O3 oxides are re-precipitated under a fine distribution of nano-Y2O3 particles. Their chemistry has probably changed. The dilatometric measurements show that the austenitization is not complete in the Y2O3 steels. This makes us conclude that the nano-metric grains in these materials correspond to those present after the MM that were not austenitized during the HIP due to pinning effect of the nano-Y2O3. No martensite could be detected. Actually, the quenchability of the EUROFER ODS steels is modified by (1) the milling process, (2) the oxide nature and (3) the oxide content. It can be ordered in the following way: wrought EUROFER>0% ODS>1%Mg Al2O4
+                     >0.2% Y2O3
+                     >1% Y2O3. The decrease can be explained by an austenite grain size effect, and, for the Y2O3 ODS steels, by a non-complete austenitization and by a direct effect of the nano-oxides. The whole of the microstructural evolution is summed up in Fig. 18
+                     .
+
+The MgAl2O4 ODS steels have many advantages over the Y2O3 ODS steels (better ductility, impact toughness, and quenchability), but some points remain to check for a possible use as structural materials for nuclear application such as their creep properties and the stability of the spinels under neutron irradiations.
+
+This work has been sponsored in great part by the European Fusion Development Agreement (EFDA). The authors wish to thank J.M. Hennequin for the milling process, P. Bucci and J.M. Leibold for the HIP process, and J.M. Gentzbittel for the useful discussions.

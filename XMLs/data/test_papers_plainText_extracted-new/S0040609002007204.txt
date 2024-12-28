@@ -1,0 +1,537 @@
+Title:
+Infrared characterisation of evaporated SiO thin films
+
+Abstract:
+Thin films of SiO deposited on Si substrates by thermal evaporation have been characterised by the analysis of infrared absorption bands and optical constants determination. The structure of the films has been studied in terms of the RBM (Random Bonding Model) and a deviation from the pure RBM structure has been found in the relative concentration of the different tetrahedra SiO
+                        y
+                     Si4–y
+                      (y=1–4) and in the presence of an additional contribution of SiO4 tetrahedra confirmed by the optical properties. Comparative study of films deposited under different conditions and with different thickness suggests that the local arrangement of Si and O atoms, the oxygen content of the films and morphological changes in the films must be considered to account for all the effects observed.
+
+Keywords:
+Silicon oxide
+Optical properties
+Structural properties
+Infrared spectroscopy
+
+Acknowledgements:
+Thanks are due to all the members of the Optical Coatings group of CIDA and to R. Almazán for their help in the experimental work.
+
+Introduction:
+SiO thin films have been widely used as protective layers in metallic mirrors, as antireflection coatings and as low index layers in multilayer coatings for the mid-IR range. In semiconductor technology, SiO
+                        x
+                      films have been used as pasivating layers and more recently it has been proposed as the optimal AR coating for travelling-wave InGaAsP laser amplifiers [1–3]. In spite of its technological importance, the optical properties of evaporated SiO
+                        x
+                      (x≈1) have been scarcely studied. In fact, since the pioneering work by Hass and Salzberg [4], the number of studies on its optical parameters is rather scarce [5–7].
+In regard of the structure of SiO
+                        x
+                      films (x≈1), a controversy between two models, i.e. the mixture model (MM) and the random bonding model (RBM) has been present since Philipp proposed the latter in 1971 [8,9]. The more recent studies [10–14] seem to support the RBM although no definite argument has been found to eliminate the MM. Whereas the MM considers the SiO
+                        x
+                      films as constituted by SiSi4 and SiO4 structural units, the RBM predicts the presence of several tetrahedral units defined by SiO
+                        y
+                     Si4–y
+                     , where y runs from 0 to 4. These tetrahedrons are characterised by a specific SiOSi bond angle and their relative concentrations follow a simple statistics [8,9]. In fact, the model has been widely used to interpret the intense and broad absorption bands, found for SiO
+                        x
+                      films with x<2 at frequencies between 1080 and 450 cm−1, as due to different stretching and bending modes. Changes in both the frequency and the shape of the absorption bands have then been associated with structural and compositional changes as well as with densification of the film or variations in the bond strain [4,11,15–28]. In some recent studies [13,14,29,30] the SiO bond-stretching band at approximately 1000 cm−1 has been successfully analysed in terms of the tetrahedral units mentioned above and this analysis has enabled a detailed structural characterisation of different films.
+The aim of this paper is to perform a structural and optical characterisation of SiO
+                        x
+                      films with x≈1, deposited by vacuum evaporation on silicon substrates, as a function of the deposition parameters. The structural information is obtained from the analysis of the absorption band associated with the SiO bond-stretching mode, whereas the optical parameters are determined from the quantitative analysis of the interference effects in transmission spectra.
+
+Experimental:
+Thin SiO
+                        x
+                      (x≈1) films have been deposited on polished Si substrates by thermal evaporation of SiO from a Mo boat in a high vacuum system (base pressure=2 10−6 mbar) at different substrate temperatures and deposition rates. The Si substrates were rotated at 19 rpm during the deposition process. The substrate temperature was maintained constant at T
+                     
+                        s
+                      during at least 2 h prior to start the deposition. The deposition rate was controlled by a quartz crystal monitor, which automatically finished the deposition process when the programmed nominal thickness (d
+                     nom) was reached. The deposition parameters have been summarised in Table 1
+                     .
+IR transmission spectra at normal incidence were measured with an FTIR spectrophotometer (Perkin–Elmer Spectrum GX Optica), with an optimised optical system to assure accuracy of the corresponding photometric magnitude. Two spectra were measured for each sample, one in the wavenumber range from 8000 to 1600 cm−1 (wavelength from 1.25 to 6.25 μm) for the determination of optical constants and the other in the range from 1600 to 400 cm−1, where the characteristic absorption bands of Si and SiO
+                        x
+                      were measured. In order to define the absorption bands associated with the SiO
+                        x
+                      film, a previously collected spectrum of the uncoated substrate was subtracted from the raw experimental data. A comparison between absorption spectra from different samples was performed after subtraction of a straight baseline from the band of interest at approximately 1000 cm−1 and its normalisation to the maximum intensity.
+
+Results and discussion:
+The optical constants, n and k, and the thickness of the different films were determined by the common procedure of analysis of interference effects in the transparent region of the transmission spectra. We have used the well-known method introduced by Swanepoel [31] to estimate the thickness and refractive index from the extrema observed in the transmission spectrum. An iterative process is then used to search for the n(λ), k(λ) and thickness that better simulate the experimental data, assuming a Sellmeier behaviour for n(λ) and an exponential dependence for k(λ) [32,33]:
+                        
+                           (1)
+                           n
+                                 λ
+                              =
+                                 1+
+                                       
+                                          A
+                                       
+                                       1+
+                                             
+                                                B
+                                             
+                                             λ2
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                              
+                              and
+                              k=C∗e
+                                 
+                                    −
+                                          λ−D
+                                          
+                                       
+                                    
+                                    
+                                       E
+                                    
+                                 
+                              
+                           
+                        
+                     where A, B, C, D and E are constants. A typical comparison between an experimental and a simulated transmittance curve is shown in Fig. 1
+                      for sample 5. The agreement between the two curves is excellent in the wavelength range up to 4.3 μm, but for higher wavelengths the fitting of the experimental curve is poorer. It is also observed that the transmittance of the interference minimum at λ≈5.7 μm is clearly lower than the transmittance of the uncoated substrate, indicating the presence of absorption in the film.
+Fig. 2
+                      shows the refractive index n and the absorption coefficient k of three representative SiO samples as a function of the wavelength in the 1.25–6 μm range. The absorption coefficient at wavelengths lower than 4.3 μm is below 10−3 for all the samples, but increases rapidly at higher wavelengths to account for the decrease in the transmittance (cf. Fig. 1). This enhancement of k is obviously not expected in stoichiometric SiO, for which the absorption should be very low in the whole range of variation of the wavelength. In fact, this behaviour corresponds rather well with that expected for amorphous SiO2 
+                     [6]. Therefore, it clearly indicates the presence of some SiO2 in the films. The increase in k(λ) should be related to a decrease in the refractive index for λ>4.3 μm that is not observed in Fig. 2 due to the Sellmeier dependence assumed for n(λ) (see Eq. (1)). The inaccuracy in the determination of the refractive index using this spectral dependence beyond the transparency region must be responsible for the poorer fitting of the experimental % T(λ) at high wavelengths observed in Fig. 1. Nevertheless, for λ≤4.3 μm reliable results are obtained for the optical constants of the films. The experimental thickness (d
+                     exp) as well as the n values at λ=4 μm have been collected in Table 1 together with the deposition parameters. The refractive indices obtained in this study range between 1.82 and 1.89, depending on the deposition conditions and are in good agreement with those reported by other authors for SiO films [6,7].
+Fig. 3
+                      shows the main absorption band of the respective SiO films as a function of the temperature (a), the thickness (b) and the deposition rate (c). The bands extend between 1250 and 840 cm−1, in fair agreement with other bands previously reported for evaporated SiO
+                        x
+                      (x<2) films [4,5,11,20,26], but much broader than those measured in films obtained by reactive sputtering or chemical vapour deposition (CVD) [13,14,21]. It is interesting to observe that both the shape and the maximum of the band depend slightly on the deposition parameters. In fact, the inset in every figure (cf. Fig. 3a,b,c), where the wavenumber corresponding to the maximum of the band has been depicted as a function of the respective deposition parameters, indicates a clear shift of the maximum toward higher wavenumbers in the case of increasing the temperature or the film thickness (cf. Fig. 3a,b), but the shift appears to be negligible when the deposition rate is changed (cf. Fig. 3c). The position (ν
+                        m
+                     ) of the maximum absorption is well known to depend on the stoichiometry of the films [11,18,19,21,22,26]. Nakamura et al. [11] found for evaporated SiO
+                        x
+                      films ν
+                        m
+                      values which vary between 980 and 1010 cm−1 for changes in the stoichiometry (x) between 1 and 1.15, while Rinnert et al. [26] found a value of ν
+                        m
+                     =995 cm−1 for x=0.95 in films prepared by coevaporation of Si and SiO. In our case, the measured ν
+                        m
+                      ranges between 994 and 1018 cm−1 and confirm that the composition of all our films remains close to x≈1.
+In order to get a quantitative insight into the structure of our SiO films we have performed an analysis of the experimental absorption bands depicted in Fig. 3 in terms of several gaussian components using the procedure outlined by Kucherov and Kochubei [34]. The number and position of these components were estimated from a preliminary analysis of the second derivative of the band. The final number of components as well as their respective positions and widths were obtained by an iterative fitting procedure, where a good fitting of the band profile and its second derivative as well as a coherent analysis of all the samples were required. Fig. 4
+                      shows typical analysis of some selected bands. In addition, the second derivative of the experimental absorption bands has been included in an inset for a better estimation of the changes induced by the corresponding parameter. The best results for all the samples with the minimum number of components were obtained considering five gaussians, whose positions (ν
+                        i
+                     ) and full widths at half maximum (w
+                     
+                        i
+                     ) have been collected in Table 2
+                     . Both parameters remained almost constant for all the samples as it is clearly indicated by the fact that the deviations from the average value are rather small, i.e. ≤6 cm−1 for ν
+                        i
+                      and ≤14 cm−1 for w
+                     
+                        i
+                     . The rms deviation of the summed components from the experimental spectrum was in all the cases lower than 5×10−3.
+The structural information contained in the absorption bands can be studied in terms of the random bonding model (RBM) proposed by Philipp [8,9] and widely accepted to describe the structure of SiO
+                        x
+                      with x<2. In fact, although our experimental absorption bands appear to be composed of five components, four of them can be interpreted in terms of the RBM as due to different SiO
+                        y
+                     Si4–y
+                      tetrahedrons, with 1≤y≤4. The model also predicts that the probability of finding the corresponding tetrahedron for a certain stoichiometry x, is given by [21]:
+                        
+                           (2)
+                           Py
+                              
+                                 x
+                              =
+                                 y
+                                 2x
+                              
+                              
+                                 
+                                 
+                                    
+                                       4
+                                    
+                                    
+                                       y
+                                    
+                                 
+                                 
+                              
+                              
+                                 
+                                 
+                                    x
+                                    2
+                                 
+                                 
+                              
+                              y
+                              
+                                 1−
+                                    x
+                                    2
+                                 
+                                 
+                              
+                              4−y
+The frequency of maximum absorption associated with the stretching mode of the oxygen for a SiO
+                        x
+                      film is then given by the corresponding average [21]:
+                        
+                           (3)
+                           νc
+                              
+                                 x
+                              =
+                                 ∑
+                                 y=1
+                                 4
+                              Py
+                              
+                                 x
+                              νy
+                           
+                        
+                     where ν
+                        y
+                      is the vibration frequency associated to the stretching mode of oxygen in the respective tetrahedron SiO
+                        y
+                     Si4–y
+                     .
+As mentioned above, we interpret the four components at lower wavenumbers as due to the four tetrahedrons (i.e. 1≤y≤4) predicted by the RBM. The fifth component at ν5=1150 cm−1 has been reported in the literature [18,19,35–37] as due to the asymmetrical stretching mode in amorphous SiO2, with adjacent oxygen atoms moving out-of-phase. This contribution is known to be associated with a more intense absorption peak centered at 1075–1090 cm−1 corresponding to the in-phase motion of oxygen atoms that must be included into the fourth component in Table 2. It is interesting to note that due to the presence of these extra components the experimental frequencies of maximum absorption (cf. ν
+                        m
+                      in Fig. 3) are clearly affected and do not correspond to those predicted by the RBM model.
+The SiOSi angles, θ
+                        i
+                     , in the different tetrahedrons can also be estimated in terms of the frequencies ν
+                        y
+                     , according to the RBM, by [21]:
+                        
+                           (4)
+                           νy=
+                                 1
+                                 2πc
+                              
+                              
+                                 
+                                    
+                                       2
+                                       m
+                                    
+                                    
+                                       α
+                                          
+                                          sen
+                                          
+                                             θy
+                                             
+                                             2
+                                          
+                                          
+                                       
+                                       2+β
+                                          
+                                          cos
+                                          
+                                             θy
+                                             
+                                             2
+                                          
+                                          
+                                       
+                                       2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     where θ
+                        y
+                      is the mean value of the SiOSi bond angle in every tetrahedron, c is the speed of light in vacuum, m is the atomic mass of oxygen and α and β are the respective central and non-central force constants for the SiO bond. According to Lehmann et al. [21], the values of α=600 N/m and β=100 N/m given in the literature for SiO2 may be used for the SiO bond in SiO
+                        x
+                      (x<2) to obtain bond angles from Eq. (4). The estimated θ
+                        y
+                      values are collected in Table 2 for 1≤y≤4 and are in general in good agreement with those theoretically predicted by the RBM. The fifth component corresponds to the same structural unit as the fourth component with a different motion of oxygen atoms.
+Table 3
+                      shows the relative area of each component for different samples as compared with the values expected from the RBM for two different stoichiometries, i.e. x=1 and x=1.5. Interestingly, we can observe a fair agreement for the area of the two components at lower frequency when we compare with x=1, while the agreement is not so good for the other two components. In fact, we observe in our films a higher concentration of the SiO4 component (θ4=148°) than that expected from the pure RB model. As indicated above this enhancement of the most oxidised component must be related to the in-phase asymmetrical stretching in SiO4 tetrahedra in the amorphous SiO2 structure. The enhancement of the fourth component and the presence of the fifth one, typical for a-SiO2, account for the high frequency side of the experimental absorption band and for the measured increase of the absorption coefficient, k, at wavelengths between 4 and 6 μm (cf. Fig. 2). In fact, SIMS depth profiling of the films indicates rather clearly the presence of SiO2 in a layer adjacent to the film–substrate interface.
+Lisovskii et al. [14] have performed a similar analysis of the absorption band of SiO
+                        x
+                      films deposited by CVD. These authors make the analysis of their experimental absorption bands in terms of only four components centered at 1000, 1038, 1066 and 1092 cm−1, which when compared with the bands measured in this work, appear not only at slightly higher frequencies (cf. Table 2) but also much narrower [14], probably because of the different method of synthesis of the films. As it is well-known, the structure of films grown by chemical vapour deposition techniques, and subsequently their IR spectra, is affected by the presence of impurities from the precursor gases [24,27,28].
+In summary, the previous analysis and discussion allows to conclude that the structure of the SiO films studied here is formed by the tetrahedral units SiO
+                        y
+                     Si4–y
+                      (y=1–4) proposed by the random bonding model with bond angles of 107, 120, 133 and 148°, respectively. Nevertheless, a proper analysis of the experimental absorption bands requires additional contributions of SiO4 tetrahedra which appear to be at the interface with the Si substrate.
+The influence of the deposition parameters and thickness on the structure of the SiO films may be studied in terms of this structural model. Increasing the deposition temperature causes a decrease in the contribution from SiOSi3 tetrahedra and an enhancement of the SiO4 tetrahedra, i.e. the most oxidised components. The rest of the structural units remain basically constant. This behaviour, associated with the shift of the band to higher frequencies observed in Fig. 3a, must be due to an increase of the oxygen content in the films (i.e. oxidation) as the temperature of the substrate is raised. The effect is also indicated by a decrease in the refractive index from 1.88 at room temperature to 1.84 at T
+                     
+                        s
+                     =300 °C, in films deposited at 9 Å/s and with a nominal thickness of 1800 nm (cf. Table 1). Increasing the temperature to 370 °C leads to a rapid increase of the refractive index, which is apparently not due to changes in the distribution of the tetrahedron units but to an increase in the density of the film. This abrupt increase in n has also been observed by López and Bernabeu [7], in SiO films (d=2.5–3 μm) deposited on sapphire at temperatures between 250 and 300 °C. These authors explain the effect as due to a structural change from densely packed fibrous grains to a dense columnar structure, according to the Thornton structural model [38].
+Fig. 4b and Table 3 show the effect of the layer thickness on the absorption band of the films. The contribution of the SiO4 tetrahedra is observed to increase as the film thickness increases and the general effect is a gradual shift of the absorption band to higher frequencies for higher film thickness. This behaviour is consistent with the results reported by other authors and is attributed to optical effects rather than to changes in the optical properties of the film [15,37,39,40]. The effect of layer thickness on the optical constants is a higher refractive index in layers with higher thickness. We must note that the optical characterization of films of low thickness is less reliable due to the lack of interference extrema in their transmission spectra from which this information is obtained. Nevertheless, differences in the density of the films, with denser films for higher thickness, may take account for the behaviour observed in refractive index.
+Finally, the negligible variation of the absorption band and its components with the deposition rate of the films at 200 °C, cannot account for the clear decrease in refractive index observed as the rate is decreased. Again other effects, as the density of the films, must be considered to explain the behaviour of the optical constants.
+
+Conclusions:
+A detailed characterisation of SiO films thermally evaporated on silicon substrates based on the analysis of the IR absorption band related to oxygen stretching mode of SiO bond and on optical constants determination has been presented. The structure deduced for the SiO films is formed by the tetrahedral units SiO
+                        y
+                     Si4–y
+                      (y=1–4) proposed by the random bonding model but a deviation from the pure RBM structure is found in the relative concentration of the different tetrahedra and in the presence of an additional contribution of SiO4 tetrahedra, confirmed by the optical properties.
+Comparative study of the absorption bands and refractive indices of films deposited at different substrate temperatures and deposition rates and with different thickness has been presented. The results suggest that the local arrangement of Si and O atoms, and the oxygen content of the films may account for some of the behaviours observed, but morphological changes in the films must also be considered to account for all the effects.
+
+Body:
+SiO thin films have been widely used as protective layers in metallic mirrors, as antireflection coatings and as low index layers in multilayer coatings for the mid-IR range. In semiconductor technology, SiO
+                        x
+                      films have been used as pasivating layers and more recently it has been proposed as the optimal AR coating for travelling-wave InGaAsP laser amplifiers [1–3]. In spite of its technological importance, the optical properties of evaporated SiO
+                        x
+                      (x≈1) have been scarcely studied. In fact, since the pioneering work by Hass and Salzberg [4], the number of studies on its optical parameters is rather scarce [5–7].
+
+In regard of the structure of SiO
+                        x
+                      films (x≈1), a controversy between two models, i.e. the mixture model (MM) and the random bonding model (RBM) has been present since Philipp proposed the latter in 1971 [8,9]. The more recent studies [10–14] seem to support the RBM although no definite argument has been found to eliminate the MM. Whereas the MM considers the SiO
+                        x
+                      films as constituted by SiSi4 and SiO4 structural units, the RBM predicts the presence of several tetrahedral units defined by SiO
+                        y
+                     Si4–y
+                     , where y runs from 0 to 4. These tetrahedrons are characterised by a specific SiOSi bond angle and their relative concentrations follow a simple statistics [8,9]. In fact, the model has been widely used to interpret the intense and broad absorption bands, found for SiO
+                        x
+                      films with x<2 at frequencies between 1080 and 450 cm−1, as due to different stretching and bending modes. Changes in both the frequency and the shape of the absorption bands have then been associated with structural and compositional changes as well as with densification of the film or variations in the bond strain [4,11,15–28]. In some recent studies [13,14,29,30] the SiO bond-stretching band at approximately 1000 cm−1 has been successfully analysed in terms of the tetrahedral units mentioned above and this analysis has enabled a detailed structural characterisation of different films.
+
+The aim of this paper is to perform a structural and optical characterisation of SiO
+                        x
+                      films with x≈1, deposited by vacuum evaporation on silicon substrates, as a function of the deposition parameters. The structural information is obtained from the analysis of the absorption band associated with the SiO bond-stretching mode, whereas the optical parameters are determined from the quantitative analysis of the interference effects in transmission spectra.
+
+Thin SiO
+                        x
+                      (x≈1) films have been deposited on polished Si substrates by thermal evaporation of SiO from a Mo boat in a high vacuum system (base pressure=2 10−6 mbar) at different substrate temperatures and deposition rates. The Si substrates were rotated at 19 rpm during the deposition process. The substrate temperature was maintained constant at T
+                     
+                        s
+                      during at least 2 h prior to start the deposition. The deposition rate was controlled by a quartz crystal monitor, which automatically finished the deposition process when the programmed nominal thickness (d
+                     nom) was reached. The deposition parameters have been summarised in Table 1
+                     .
+
+IR transmission spectra at normal incidence were measured with an FTIR spectrophotometer (Perkin–Elmer Spectrum GX Optica), with an optimised optical system to assure accuracy of the corresponding photometric magnitude. Two spectra were measured for each sample, one in the wavenumber range from 8000 to 1600 cm−1 (wavelength from 1.25 to 6.25 μm) for the determination of optical constants and the other in the range from 1600 to 400 cm−1, where the characteristic absorption bands of Si and SiO
+                        x
+                      were measured. In order to define the absorption bands associated with the SiO
+                        x
+                      film, a previously collected spectrum of the uncoated substrate was subtracted from the raw experimental data. A comparison between absorption spectra from different samples was performed after subtraction of a straight baseline from the band of interest at approximately 1000 cm−1 and its normalisation to the maximum intensity.
+
+The optical constants, n and k, and the thickness of the different films were determined by the common procedure of analysis of interference effects in the transparent region of the transmission spectra. We have used the well-known method introduced by Swanepoel [31] to estimate the thickness and refractive index from the extrema observed in the transmission spectrum. An iterative process is then used to search for the n(λ), k(λ) and thickness that better simulate the experimental data, assuming a Sellmeier behaviour for n(λ) and an exponential dependence for k(λ) [32,33]:
+                        
+                           (1)
+                           n
+                                 λ
+                              =
+                                 1+
+                                       
+                                          A
+                                       
+                                       1+
+                                             
+                                                B
+                                             
+                                             λ2
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                              
+                              and
+                              k=C∗e
+                                 
+                                    −
+                                          λ−D
+                                          
+                                       
+                                    
+                                    
+                                       E
+                                    
+                                 
+                              
+                           
+                        
+                     where A, B, C, D and E are constants. A typical comparison between an experimental and a simulated transmittance curve is shown in Fig. 1
+                      for sample 5. The agreement between the two curves is excellent in the wavelength range up to 4.3 μm, but for higher wavelengths the fitting of the experimental curve is poorer. It is also observed that the transmittance of the interference minimum at λ≈5.7 μm is clearly lower than the transmittance of the uncoated substrate, indicating the presence of absorption in the film.
+
+Fig. 2
+                      shows the refractive index n and the absorption coefficient k of three representative SiO samples as a function of the wavelength in the 1.25–6 μm range. The absorption coefficient at wavelengths lower than 4.3 μm is below 10−3 for all the samples, but increases rapidly at higher wavelengths to account for the decrease in the transmittance (cf. Fig. 1). This enhancement of k is obviously not expected in stoichiometric SiO, for which the absorption should be very low in the whole range of variation of the wavelength. In fact, this behaviour corresponds rather well with that expected for amorphous SiO2 
+                     [6]. Therefore, it clearly indicates the presence of some SiO2 in the films. The increase in k(λ) should be related to a decrease in the refractive index for λ>4.3 μm that is not observed in Fig. 2 due to the Sellmeier dependence assumed for n(λ) (see Eq. (1)). The inaccuracy in the determination of the refractive index using this spectral dependence beyond the transparency region must be responsible for the poorer fitting of the experimental % T(λ) at high wavelengths observed in Fig. 1. Nevertheless, for λ≤4.3 μm reliable results are obtained for the optical constants of the films. The experimental thickness (d
+                     exp) as well as the n values at λ=4 μm have been collected in Table 1 together with the deposition parameters. The refractive indices obtained in this study range between 1.82 and 1.89, depending on the deposition conditions and are in good agreement with those reported by other authors for SiO films [6,7].
+
+Fig. 3
+                      shows the main absorption band of the respective SiO films as a function of the temperature (a), the thickness (b) and the deposition rate (c). The bands extend between 1250 and 840 cm−1, in fair agreement with other bands previously reported for evaporated SiO
+                        x
+                      (x<2) films [4,5,11,20,26], but much broader than those measured in films obtained by reactive sputtering or chemical vapour deposition (CVD) [13,14,21]. It is interesting to observe that both the shape and the maximum of the band depend slightly on the deposition parameters. In fact, the inset in every figure (cf. Fig. 3a,b,c), where the wavenumber corresponding to the maximum of the band has been depicted as a function of the respective deposition parameters, indicates a clear shift of the maximum toward higher wavenumbers in the case of increasing the temperature or the film thickness (cf. Fig. 3a,b), but the shift appears to be negligible when the deposition rate is changed (cf. Fig. 3c). The position (ν
+                        m
+                     ) of the maximum absorption is well known to depend on the stoichiometry of the films [11,18,19,21,22,26]. Nakamura et al. [11] found for evaporated SiO
+                        x
+                      films ν
+                        m
+                      values which vary between 980 and 1010 cm−1 for changes in the stoichiometry (x) between 1 and 1.15, while Rinnert et al. [26] found a value of ν
+                        m
+                     =995 cm−1 for x=0.95 in films prepared by coevaporation of Si and SiO. In our case, the measured ν
+                        m
+                      ranges between 994 and 1018 cm−1 and confirm that the composition of all our films remains close to x≈1.
+
+In order to get a quantitative insight into the structure of our SiO films we have performed an analysis of the experimental absorption bands depicted in Fig. 3 in terms of several gaussian components using the procedure outlined by Kucherov and Kochubei [34]. The number and position of these components were estimated from a preliminary analysis of the second derivative of the band. The final number of components as well as their respective positions and widths were obtained by an iterative fitting procedure, where a good fitting of the band profile and its second derivative as well as a coherent analysis of all the samples were required. Fig. 4
+                      shows typical analysis of some selected bands. In addition, the second derivative of the experimental absorption bands has been included in an inset for a better estimation of the changes induced by the corresponding parameter. The best results for all the samples with the minimum number of components were obtained considering five gaussians, whose positions (ν
+                        i
+                     ) and full widths at half maximum (w
+                     
+                        i
+                     ) have been collected in Table 2
+                     . Both parameters remained almost constant for all the samples as it is clearly indicated by the fact that the deviations from the average value are rather small, i.e. ≤6 cm−1 for ν
+                        i
+                      and ≤14 cm−1 for w
+                     
+                        i
+                     . The rms deviation of the summed components from the experimental spectrum was in all the cases lower than 5×10−3.
+
+The structural information contained in the absorption bands can be studied in terms of the random bonding model (RBM) proposed by Philipp [8,9] and widely accepted to describe the structure of SiO
+                        x
+                      with x<2. In fact, although our experimental absorption bands appear to be composed of five components, four of them can be interpreted in terms of the RBM as due to different SiO
+                        y
+                     Si4–y
+                      tetrahedrons, with 1≤y≤4. The model also predicts that the probability of finding the corresponding tetrahedron for a certain stoichiometry x, is given by [21]:
+                        
+                           (2)
+                           Py
+                              
+                                 x
+                              =
+                                 y
+                                 2x
+                              
+                              
+                                 
+                                 
+                                    
+                                       4
+                                    
+                                    
+                                       y
+                                    
+                                 
+                                 
+                              
+                              
+                                 
+                                 
+                                    x
+                                    2
+                                 
+                                 
+                              
+                              y
+                              
+                                 1−
+                                    x
+                                    2
+                                 
+                                 
+                              
+                              4−y
+
+The frequency of maximum absorption associated with the stretching mode of the oxygen for a SiO
+                        x
+                      film is then given by the corresponding average [21]:
+                        
+                           (3)
+                           νc
+                              
+                                 x
+                              =
+                                 ∑
+                                 y=1
+                                 4
+                              Py
+                              
+                                 x
+                              νy
+                           
+                        
+                     where ν
+                        y
+                      is the vibration frequency associated to the stretching mode of oxygen in the respective tetrahedron SiO
+                        y
+                     Si4–y
+                     .
+
+As mentioned above, we interpret the four components at lower wavenumbers as due to the four tetrahedrons (i.e. 1≤y≤4) predicted by the RBM. The fifth component at ν5=1150 cm−1 has been reported in the literature [18,19,35–37] as due to the asymmetrical stretching mode in amorphous SiO2, with adjacent oxygen atoms moving out-of-phase. This contribution is known to be associated with a more intense absorption peak centered at 1075–1090 cm−1 corresponding to the in-phase motion of oxygen atoms that must be included into the fourth component in Table 2. It is interesting to note that due to the presence of these extra components the experimental frequencies of maximum absorption (cf. ν
+                        m
+                      in Fig. 3) are clearly affected and do not correspond to those predicted by the RBM model.
+
+The SiOSi angles, θ
+                        i
+                     , in the different tetrahedrons can also be estimated in terms of the frequencies ν
+                        y
+                     , according to the RBM, by [21]:
+                        
+                           (4)
+                           νy=
+                                 1
+                                 2πc
+                              
+                              
+                                 
+                                    
+                                       2
+                                       m
+                                    
+                                    
+                                       α
+                                          
+                                          sen
+                                          
+                                             θy
+                                             
+                                             2
+                                          
+                                          
+                                       
+                                       2+β
+                                          
+                                          cos
+                                          
+                                             θy
+                                             
+                                             2
+                                          
+                                          
+                                       
+                                       2
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     where θ
+                        y
+                      is the mean value of the SiOSi bond angle in every tetrahedron, c is the speed of light in vacuum, m is the atomic mass of oxygen and α and β are the respective central and non-central force constants for the SiO bond. According to Lehmann et al. [21], the values of α=600 N/m and β=100 N/m given in the literature for SiO2 may be used for the SiO bond in SiO
+                        x
+                      (x<2) to obtain bond angles from Eq. (4). The estimated θ
+                        y
+                      values are collected in Table 2 for 1≤y≤4 and are in general in good agreement with those theoretically predicted by the RBM. The fifth component corresponds to the same structural unit as the fourth component with a different motion of oxygen atoms.
+
+Table 3
+                      shows the relative area of each component for different samples as compared with the values expected from the RBM for two different stoichiometries, i.e. x=1 and x=1.5. Interestingly, we can observe a fair agreement for the area of the two components at lower frequency when we compare with x=1, while the agreement is not so good for the other two components. In fact, we observe in our films a higher concentration of the SiO4 component (θ4=148°) than that expected from the pure RB model. As indicated above this enhancement of the most oxidised component must be related to the in-phase asymmetrical stretching in SiO4 tetrahedra in the amorphous SiO2 structure. The enhancement of the fourth component and the presence of the fifth one, typical for a-SiO2, account for the high frequency side of the experimental absorption band and for the measured increase of the absorption coefficient, k, at wavelengths between 4 and 6 μm (cf. Fig. 2). In fact, SIMS depth profiling of the films indicates rather clearly the presence of SiO2 in a layer adjacent to the film–substrate interface.
+
+Lisovskii et al. [14] have performed a similar analysis of the absorption band of SiO
+                        x
+                      films deposited by CVD. These authors make the analysis of their experimental absorption bands in terms of only four components centered at 1000, 1038, 1066 and 1092 cm−1, which when compared with the bands measured in this work, appear not only at slightly higher frequencies (cf. Table 2) but also much narrower [14], probably because of the different method of synthesis of the films. As it is well-known, the structure of films grown by chemical vapour deposition techniques, and subsequently their IR spectra, is affected by the presence of impurities from the precursor gases [24,27,28].
+
+In summary, the previous analysis and discussion allows to conclude that the structure of the SiO films studied here is formed by the tetrahedral units SiO
+                        y
+                     Si4–y
+                      (y=1–4) proposed by the random bonding model with bond angles of 107, 120, 133 and 148°, respectively. Nevertheless, a proper analysis of the experimental absorption bands requires additional contributions of SiO4 tetrahedra which appear to be at the interface with the Si substrate.
+
+The influence of the deposition parameters and thickness on the structure of the SiO films may be studied in terms of this structural model. Increasing the deposition temperature causes a decrease in the contribution from SiOSi3 tetrahedra and an enhancement of the SiO4 tetrahedra, i.e. the most oxidised components. The rest of the structural units remain basically constant. This behaviour, associated with the shift of the band to higher frequencies observed in Fig. 3a, must be due to an increase of the oxygen content in the films (i.e. oxidation) as the temperature of the substrate is raised. The effect is also indicated by a decrease in the refractive index from 1.88 at room temperature to 1.84 at T
+                     
+                        s
+                     =300 °C, in films deposited at 9 Å/s and with a nominal thickness of 1800 nm (cf. Table 1). Increasing the temperature to 370 °C leads to a rapid increase of the refractive index, which is apparently not due to changes in the distribution of the tetrahedron units but to an increase in the density of the film. This abrupt increase in n has also been observed by López and Bernabeu [7], in SiO films (d=2.5–3 μm) deposited on sapphire at temperatures between 250 and 300 °C. These authors explain the effect as due to a structural change from densely packed fibrous grains to a dense columnar structure, according to the Thornton structural model [38].
+
+Fig. 4b and Table 3 show the effect of the layer thickness on the absorption band of the films. The contribution of the SiO4 tetrahedra is observed to increase as the film thickness increases and the general effect is a gradual shift of the absorption band to higher frequencies for higher film thickness. This behaviour is consistent with the results reported by other authors and is attributed to optical effects rather than to changes in the optical properties of the film [15,37,39,40]. The effect of layer thickness on the optical constants is a higher refractive index in layers with higher thickness. We must note that the optical characterization of films of low thickness is less reliable due to the lack of interference extrema in their transmission spectra from which this information is obtained. Nevertheless, differences in the density of the films, with denser films for higher thickness, may take account for the behaviour observed in refractive index.
+
+Finally, the negligible variation of the absorption band and its components with the deposition rate of the films at 200 °C, cannot account for the clear decrease in refractive index observed as the rate is decreased. Again other effects, as the density of the films, must be considered to explain the behaviour of the optical constants.
+
+A detailed characterisation of SiO films thermally evaporated on silicon substrates based on the analysis of the IR absorption band related to oxygen stretching mode of SiO bond and on optical constants determination has been presented. The structure deduced for the SiO films is formed by the tetrahedral units SiO
+                        y
+                     Si4–y
+                      (y=1–4) proposed by the random bonding model but a deviation from the pure RBM structure is found in the relative concentration of the different tetrahedra and in the presence of an additional contribution of SiO4 tetrahedra, confirmed by the optical properties.
+
+Comparative study of the absorption bands and refractive indices of films deposited at different substrate temperatures and deposition rates and with different thickness has been presented. The results suggest that the local arrangement of Si and O atoms, and the oxygen content of the films may account for some of the behaviours observed, but morphological changes in the films must also be considered to account for all the effects.
+
+Thanks are due to all the members of the Optical Coatings group of CIDA and to R. Almazán for their help in the experimental work.

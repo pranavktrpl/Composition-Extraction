@@ -1,0 +1,2098 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0022459603005711</prism:url><dc:identifier>doi:10.1016/j.jssc.2003.10.009</dc:identifier><eid>1-s2.0-S0022459603005711</eid><prism:doi>10.1016/j.jssc.2003.10.009</prism:doi><pii>S0022-4596(03)00571-1</pii><dc:title>Hydrothermal synthesis and crystal structure of a novel two-dimensional organic–inorganic hybrid copper molybdate with mixed organodiamine and dicarboxyl ligands </dc:title><prism:publicationName>Journal of Solid State Chemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>00224596</prism:issn><prism:volume>177</prism:volume><prism:issueIdentifier>4-5</prism:issueIdentifier><prism:startingPage>1771</prism:startingPage><prism:endingPage>1775</prism:endingPage><prism:pageRange>1771-1775</prism:pageRange><prism:number>4-5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2004-05-31</prism:coverDate><prism:coverDisplayDate>April–May 2004</prism:coverDisplayDate><prism:copyright>Copyright © 2003 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Lü, Jian</dc:creator><dc:creator>Li, Yangguang</dc:creator><dc:creator>Shen, Enhong</dc:creator><dc:creator>Yuan, Mei</dc:creator><dc:creator>Wang, Enbo</dc:creator><dc:creator>Hu, Changwen</dc:creator><dc:creator>Xu, Lin</dc:creator><dc:description>
+                  An unusual compound, [{Cu(2,2′–bpy)}2(tp)Mo4O13] (tp=terephthalate) 1, has been hydrothermally synthesized and structurally characterized by the elemental analyses, IR spectrum, X-ray photoelectron spectrum, TG analyses and the single crystal X-ray diffraction. The structure of 1 exhibits a layered network built up from bimetallic one-dimensional ribbons bridged by dicarboxylate ligands. Compound 1 represents the first hybrid molybdates composed of mixed organodiamine and dicarboxylate ligands. Crystal data for compound 1: triclinic, space group P
+                           1
+                           ̄
+                        
+                     , a=7.3748(15)Å, b=9.9692(2)Å, c=12.0692(2)Å, α=69.223(3)°, β=76.123(3)°, γ=76.623(3)°; V=794.83(3)Å3; Z=1, R (final)=0.0688. The data were collected on a Rigaku R-AXIS RAPID IP diffractometer at 293K using graphite-monochromated MoKα radiation (λ=0.71073Å) and oscillation scans technique in the range 1.83°&lt;θ&lt;27.48°.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Hydrothermal synthesis</dcterms:subject><dcterms:subject>Crystal structure</dcterms:subject><dcterms:subject>Organic–inorganic hybrid</dcterms:subject><dcterms:subject>Bimetallic</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0022459603005711" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0022459603005711" rel="scidir"/></coredata><objects><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="21" height="15" size="179">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="11" height="15" size="122">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-si1.gif?httpAccept=%2A%2F%2A</object><object ref="mmc10" category="standard" type="APPLICATION" multimediatype="Plain text file" mimetype="text/plain" size="14372">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc10.txt?httpAccept=%2A%2F%2A</object><object ref="mmc5" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="18944">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc5.doc?httpAccept=%2A%2F%2A</object><object ref="mmc6" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="25600">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc6.doc?httpAccept=%2A%2F%2A</object><object ref="mmc7" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="27136">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc7.doc?httpAccept=%2A%2F%2A</object><object ref="mmc8" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="31232">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc8.doc?httpAccept=%2A%2F%2A</object><object ref="mmc9" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="21504">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc9.doc?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="IMAGE-NONCAP" multimediatype="JPEG image file" mimetype="image/jpeg" width="2820" height="1728" size="353025">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc1.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc2" category="standard" type="IMAGE-NONCAP" multimediatype="JPEG image file" mimetype="image/jpeg" width="3405" height="2220" size="2597779">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc2.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc3" category="standard" type="IMAGE-NONCAP" multimediatype="TIFF image file" mimetype="image/tiff" width="3693" height="5440" size="48040">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc3.tif?httpAccept=%2A%2F%2A</object><object ref="mmc4" category="standard" type="IMAGE-NONCAP" multimediatype="TIFF image file" mimetype="image/tiff" width="3692" height="2488" size="11738">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-mmc4.tif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="71" size="1859">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="372" height="212" size="10068">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="74" height="93" size="1983">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="372" height="467" size="52663">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="66" size="2092">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="372" height="196" size="10721">https://api.elsevier.com/content/object/eid/1-s2.0-S0022459603005711-gr3.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>1642635131</scopus-id><scopus-eid>2-s2.0-1642635131</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/1642635131" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272605</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291746</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Solid State Chemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALSOLIDSTATECHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20040211">2004-02-11</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20040211">2004-02-11</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-04-19T00:09:54</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0022459603005711</xocs:eid>
+      <xocs:pii-formatted>S0022-4596(03)00571-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0022459603005711</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jssc.2003.10.009</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0022459600X03921</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T01:37:38.9836-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20040401</xocs:date-search-begin>
+      <xocs:date-search-end>20040531</xocs:date-search-end>
+      <xocs:year-nav>2004</xocs:year-nav>
+      <xocs:indexeddate epoch="1076457600">2004-02-11T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table e-component body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast footnotes primabst pubtype ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0022-4596</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00224596</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>177</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>177</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:iss-last>5</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 177, Issues 4–5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>94</xocs:sort-order>
+      <xocs:first-fp>1771</xocs:first-fp>
+      <xocs:last-lp>1775</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1771</xocs:first-page>
+         <xocs:last-page>1775</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200404</xocs:start-date>
+         <xocs:end-date>200405</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April–May 2004</xocs:cover-date-text>
+      <xocs:cover-date-start>2004-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2004-05-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2004</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2003 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>HYDROTHERMALSYNTHESISCRYSTALSTRUCTUREANOVELTWODIMENSIONALORGANICINORGANICHYBRIDCOPPERMOLYBDATEMIXEDORGANODIAMINEDICARBOXYLLIGANDS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental section</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>General procedures</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Synthesis of [{Cu(2,2′-bpy)}]<ce:inf loc="post">2</ce:inf>(tp)Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">13</ce:inf>
+               </xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>X-ray crystallography</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>BAKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8789</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>HILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>407</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4"/>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>HAGRMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2638</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1599</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7"/>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3836</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>YUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3670</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>HAGRMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>212</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4135</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12"/>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>KWEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14"/>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>SPANDL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4129</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17"/>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3371</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19"/>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>HAGRMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5218</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>GUILLOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2277</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22"/>
+         <xocs:ref-info refid="BIB23"/>
+         <xocs:ref-info refid="BIB24"/>
+         <xocs:ref-info refid="BIB25"/>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>BEYER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>NEFEDOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>65</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>GRIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1014</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LUX2004X1771</xocs:refkey3>
+         <xocs:refkey4lp>LUX2004X1771X1775</xocs:refkey4lp>
+         <xocs:refkey4ai>LUX2004X1771XJ</xocs:refkey4ai>
+         <xocs:refkey5>LUX2004X1771X1775XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0022-4596(03)00571-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0022459603005711</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0022459603005711</xocs:eid>
+         <xocs:doi>10.1016/j.jssc.2003.10.009</xocs:doi>
+         <xocs:cid>272605</xocs:cid>
+         <xocs:timestamp>2010-10-07T17:51:19.908721-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2004-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2004-05-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/MAIN/application/pdf/96204b74b77a6bc5e3cf0383739ac58f/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/MAIN/application/pdf/96204b74b77a6bc5e3cf0383739ac58f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>318088</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0022459603005711-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/PREVIEW/image/png/ff381c718fccb940a2eb54f62d90a4f8/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/PREVIEW/image/png/ff381c718fccb940a2eb54f62d90a4f8/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>72146</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/STRIPIN/image/gif/1b8875c2ab9de5956f5069692eb862cb/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/STRIPIN/image/gif/1b8875c2ab9de5956f5069692eb862cb/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>179</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>21</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/STRIPIN/image/gif/19746603d19d03d952f3f13a67d5b8e5/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/STRIPIN/image/gif/19746603d19d03d952f3f13a67d5b8e5/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>122</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>11</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc10.txt</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/applic10/MAIN/text/plain/ff9060e5901013325b8b11b5e72ca9c3/mmc10.txt</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/applic10/MAIN/text/plain/ff9060e5901013325b8b11b5e72ca9c3/mmc10.txt</xocs:ucs-locator>
+               <xocs:file-basename>mmc10</xocs:file-basename>
+               <xocs:filename>mmc10.txt</xocs:filename>
+               <xocs:extension>txt</xocs:extension>
+               <xocs:filesize>14372</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc5.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/applic5/MAIN/application/msword/cd748c16531f13bfd092aae04fc9c731/mmc5.doc</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/applic5/MAIN/application/msword/cd748c16531f13bfd092aae04fc9c731/mmc5.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc5</xocs:file-basename>
+               <xocs:filename>mmc5.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>18944</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc6.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/applic6/MAIN/application/msword/530a676b00df5dc61b17011c4635fd5b/mmc6.doc</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/applic6/MAIN/application/msword/530a676b00df5dc61b17011c4635fd5b/mmc6.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc6</xocs:file-basename>
+               <xocs:filename>mmc6.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>25600</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc7.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/applic7/MAIN/application/msword/51d4a88f10a4e7342230254813513803/mmc7.doc</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/applic7/MAIN/application/msword/51d4a88f10a4e7342230254813513803/mmc7.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc7</xocs:file-basename>
+               <xocs:filename>mmc7.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>27136</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc8.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/applic8/MAIN/application/msword/5d2caab56d723a6debbb5a1315fe0e41/mmc8.doc</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/applic8/MAIN/application/msword/5d2caab56d723a6debbb5a1315fe0e41/mmc8.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc8</xocs:file-basename>
+               <xocs:filename>mmc8.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>31232</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc9.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/applic9/MAIN/application/msword/12a8c6f83a41aa11098f3fce6f5bea0e/mmc9.doc</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/applic9/MAIN/application/msword/12a8c6f83a41aa11098f3fce6f5bea0e/mmc9.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc9</xocs:file-basename>
+               <xocs:filename>mmc9.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>21504</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/image1/AUTH-ORG/image/jpeg/803c4564063ca7de337908dc5e038ce7/mmc1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/image1/AUTH-ORG/image/jpeg/803c4564063ca7de337908dc5e038ce7/mmc1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>353025</xocs:filesize>
+               <xocs:pixel-height>1728</xocs:pixel-height>
+               <xocs:pixel-width>2820</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-NONCAP</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/image2/AUTH-ORG/image/jpeg/0499154681dc16ecdf7dcf6a8accedb8/mmc2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/image2/AUTH-ORG/image/jpeg/0499154681dc16ecdf7dcf6a8accedb8/mmc2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>mmc2</xocs:file-basename>
+               <xocs:filename>mmc2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>2597779</xocs:filesize>
+               <xocs:pixel-height>2220</xocs:pixel-height>
+               <xocs:pixel-width>3405</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-NONCAP</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc3.tif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/image3/AUTH-ORG/image/tiff/f61998b9596d146f54960e5417c198cc/mmc3.tif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/image3/AUTH-ORG/image/tiff/f61998b9596d146f54960e5417c198cc/mmc3.tif</xocs:ucs-locator>
+               <xocs:file-basename>mmc3</xocs:file-basename>
+               <xocs:filename>mmc3.tif</xocs:filename>
+               <xocs:extension>tif</xocs:extension>
+               <xocs:filesize>48040</xocs:filesize>
+               <xocs:pixel-height>5440</xocs:pixel-height>
+               <xocs:pixel-width>3693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-NONCAP</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-mmc4.tif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/image4/AUTH-ORG/image/tiff/c3f9c2321fa756a8f4c19618e4de1851/mmc4.tif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/image4/AUTH-ORG/image/tiff/c3f9c2321fa756a8f4c19618e4de1851/mmc4.tif</xocs:ucs-locator>
+               <xocs:file-basename>mmc4</xocs:file-basename>
+               <xocs:filename>mmc4.tif</xocs:filename>
+               <xocs:extension>tif</xocs:extension>
+               <xocs:filesize>11738</xocs:filesize>
+               <xocs:pixel-height>2488</xocs:pixel-height>
+               <xocs:pixel-width>3692</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-NONCAP</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/gr1/THUMBNAIL/image/gif/fe09053e5a6e11c4de147af8bb5e2096/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/gr1/THUMBNAIL/image/gif/fe09053e5a6e11c4de147af8bb5e2096/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1859</xocs:filesize>
+               <xocs:pixel-height>71</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/gr1/DOWNSAMPLED/image/gif/65c8c5f56e80a6237876b605ed67accc/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/gr1/DOWNSAMPLED/image/gif/65c8c5f56e80a6237876b605ed67accc/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>10068</xocs:filesize>
+               <xocs:pixel-height>212</xocs:pixel-height>
+               <xocs:pixel-width>372</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/gr2/THUMBNAIL/image/gif/88b681ffe0e4f37fae395124ac12a94f/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/gr2/THUMBNAIL/image/gif/88b681ffe0e4f37fae395124ac12a94f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1983</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>74</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/gr2/DOWNSAMPLED/image/jpeg/2f45cdbac05d773e87a5115c9b0f88b7/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/gr2/DOWNSAMPLED/image/jpeg/2f45cdbac05d773e87a5115c9b0f88b7/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52663</xocs:filesize>
+               <xocs:pixel-height>467</xocs:pixel-height>
+               <xocs:pixel-width>372</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/gr3/THUMBNAIL/image/gif/cf53ebbdd1e98e8e175f33fb8eaa96c2/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/gr3/THUMBNAIL/image/gif/cf53ebbdd1e98e8e175f33fb8eaa96c2/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2092</xocs:filesize>
+               <xocs:pixel-height>66</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022459603005711-gr3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022459603005711/gr3/DOWNSAMPLED/image/gif/c162ac51840d8f5f014bfcd5caf599ff/gr3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022459603005711/gr3/DOWNSAMPLED/image/gif/c162ac51840d8f5f014bfcd5caf599ff/gr3.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>10721</xocs:filesize>
+               <xocs:pixel-height>196</xocs:pixel-height>
+               <xocs:pixel-width>372</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="sco" xml:lang="en">
+         <item-info>
+            <jid>YJSSC</jid>
+            <aid>10199</aid>
+            <ce:pii>S0022-4596(03)00571-1</ce:pii>
+            <ce:doi>10.1016/j.jssc.2003.10.009</ce:doi>
+            <ce:copyright type="full-transfer" year="2003">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">ORTEP drawing of <ce:bold>1</ce:bold> showing the coordination environment around Cu and Mo with thermal ellipsoids at 50% probability.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">(a) The polyhedral representation of individual 1-D ribbon in <ce:bold>1</ce:bold>. (b) Polyhedral representation of the 2-D network of compound <ce:bold>1</ce:bold>. For the sake of clarity, all the hydrogen atoms and the carbon atoms from the 2,2′-bpy ligands are omitted.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The 3-D framework of <ce:bold>1</ce:bold>, exhibiting the linkage of hydrogen bonds and JI−JI interactions.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Crystal data and structure refinement for compound <ce:bold>1</ce:bold>
+                  </ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Empirical formula</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C<inf loc="post">28</inf>H<inf loc="post">20</inf>Cu<inf loc="post">2</inf>Mo<inf loc="post">4</inf>N<inf loc="post">4</inf>O<inf loc="post">17</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Formula weight</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1195.32</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Temperature (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">293(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Wavelength (Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.71073</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crystal system</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Triclinic</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Space group</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>P<math xmlns="http://www.elsevier.com/xml/ja/dtd" altimg="si1.gif">
+                                 <a valign="u">
+                                    <ac>1</ac>
+                                    <ac>̄</ac>
+                                 </a>
+                              </math>
+                           </italic>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>a</italic> (Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.3748(15)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>b</italic> (Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.969(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>c</italic> (Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12.069(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>α</italic> (deg)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">69.22(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>β</italic> (deg)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">76.12(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>γ</italic> (deg)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">76.62(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Volume (Å<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">794.8(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>Z</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>ρ</italic>
+                           <inf loc="post">calc</inf> (g<hsp sp="0.16"/>cm<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.497</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Absorption coefficient (mm<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.935</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>F</italic>(000)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">578</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crystal size (mm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.480×0.274×0.173</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>θ</italic> Range for data collection (deg)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.83–27.48</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Limiting indices</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−9⩽<italic>h</italic>⩽9, −12⩽<italic>k</italic>⩽12, −15⩽<italic>l</italic>⩽15</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Reflections collected</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3076</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Independent reflections</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2475 (<italic>R</italic>
+                           <inf loc="post">int</inf>=0.0688)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Data/restraints/parameters</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2475/0/250</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Goodness-of-fit on <italic>F</italic>
+                           <sup loc="post">2</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.025</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Final <italic>R</italic> indices [<italic>I</italic>&gt;2<italic>σ</italic>(<italic>I</italic>)]</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>R</italic>1<cross-ref refid="TBLFN1A">
+                              <sup loc="post">a</sup>
+                           </cross-ref>=0.0688, w<italic>R</italic>
+                           <inf loc="post">2</inf>
+                           <cross-ref refid="TBLFN1B">
+                              <sup loc="post">b</sup>
+                           </cross-ref>=0.1869</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Indices (all data)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>R</italic>1<cross-ref refid="TBLFN1A">
+                              <sup loc="post">a</sup>
+                           </cross-ref>=0.0852, w<italic>R</italic>
+                           <inf loc="post">2</inf>
+                           <cross-ref refid="TBLFN1B">
+                              <sup loc="post">b</sup>
+                           </cross-ref>=0.1999</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="TBLFN1A">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>
+                     <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">1</ce:inf>=∑||<ce:italic>F</ce:italic>
+                     <ce:inf loc="post">o</ce:inf>|–|<ce:italic>F</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>||/∑|<ce:italic>F</ce:italic>
+                     <ce:inf loc="post">o</ce:inf>|.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="TBLFN1B">
+                  <ce:label>b</ce:label>
+                  <ce:note-para>w<ce:italic>R</ce:italic>
+                     <ce:inf loc="post">2</ce:inf>={∑[w(<ce:italic>F</ce:italic>
+                     <ce:inf loc="post">o</ce:inf>
+                     <ce:sup loc="post">2</ce:sup>–<ce:italic>F</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>
+                     <ce:sup loc="post">2</ce:sup>)<ce:sup loc="post">2</ce:sup>]/∑[<ce:italic>w</ce:italic>(<ce:italic>F</ce:italic>
+                     <ce:inf loc="post">o</ce:inf>
+                     <ce:sup loc="post">2</ce:sup>)<ce:sup loc="post">2</ce:sup>]}<ce:sup loc="post">1/2</ce:sup>.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL2" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Atomic coordinates (×10<ce:sup loc="post">4</ce:sup>) and equivalent isotropic displacement parameters (Å<ce:sup loc="post">2</ce:sup>×10<ce:sup loc="post">3</ce:sup>) for <ce:bold>1</ce:bold>. <ce:italic>U</ce:italic>(eq) is defined as one third of the trace of the orthogonalized <ce:italic>U</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>ij</ce:italic>
+                     </ce:inf> tensor</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>y</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>z</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>U</italic>(eq)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">191(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9592(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1405(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">23(1)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−4172(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10129(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1321(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">22(1)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cu(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−6116(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7025(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2948(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26(1)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1604(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9414(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−135(6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">23(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−2240(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9819(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2321(6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−4397(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6524(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1594(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">34(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−5595(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9003(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2495(6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">29(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−5187(13)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11828(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1316(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">35(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">N(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−7449(14)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7077(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4592(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">28(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−2237(12)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7921(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1258(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">33(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1159(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10859(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1591(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">33(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1195(12)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7893(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2281(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">36(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">N(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−6452(15)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4924(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3722(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">32(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−5000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">31(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(12)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−1331(16)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5905(12)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">542(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−7922(19)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8278(14)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4947(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">37(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−7990(16)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5818(15)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5352(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">34(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(14)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−2776(16)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6879(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1161(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(13)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−1882(18)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4888(12)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">204(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">32(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−7560(20)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3154(15)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5548(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">39(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−7322(16)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4549(13)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4889(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">29(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">530(18)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6023(13)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">331(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">35(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−9079(18)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5711(14)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6491(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">35(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−5980(20)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2418(14)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3850(12)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">43(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−5784(19)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3864(14)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3216(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">39(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−6900(20)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2070(15)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5026(11)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">46(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−8970(20)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8207(16)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6085(12)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">48(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−9548(19)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6950(14)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6848(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">38(3)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL3" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Selected bond lengths (Å) and angles (°) for compound <ce:bold>1</ce:bold>
+                     <ce:cross-ref refid="TBLFN3A">
+                        <ce:sup loc="post">a</ce:sup>
+                     </ce:cross-ref>
+                  </ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(1)–O(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.689(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(1)–O(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.946(6)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(1)–O(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.749(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(1)–O(9)#1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.091(7)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(1)–O(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.878(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(1)–Mo(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.1578(15)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(2)–O(5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.685(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(2)–O(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.985(7)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(2)–O(6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.753(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(2)–O(9)#1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.116(7)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(2)–O(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.8918(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo(2)–O(4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.344(8)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cu(3)–O(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.954(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cu(3)–N(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.015(10)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cu(3)–O(6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.955(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cu(3)–O(2)#2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.192(9)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cu(3)–N(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.005(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(9)–Mo(1)#1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.091(7)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(3)–Mo(1)–O(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">107.3(4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(8)–Mo(1)–O(9)#1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">75.3(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(3)–Mo(1)–O(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">102.9(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(2)–Mo(1)–Mo(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">118.3(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(8)–Mo(1)–O(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">144.6(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(9)–Mo(1)–Mo(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">108.4(2)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(5)–Mo(2)–O(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">101.5(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(6)–Mo(2)–O(9)#1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">153.8(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(6)–Mo(2)–O(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">99.0(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(1)–Mo(2)–O(9)#1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">86.57(19)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(6)–Mo(2)–O(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">93.1(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(5)–Mo(2)–O(4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">169.5(4)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(1)–Mo(2)–O(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">153.3(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(6)–Mo(2)–O(4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">83.7(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(9)#1–Mo(2)–O(4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">71.5(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(1)–Mo(2)–Mo(1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">120.42(5)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(7)–Cu(3)–O(6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">96.6(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(6)–Cu(3)–N(2)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">91.6(3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O(7)–Cu(3)–O(2)#2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">103.2(3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">N(1)–Cu(3)–O(2)#2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">98.8(4)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="TBLFN3A">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>Symmetry transformations used to generate equivalent atoms: #1−<ce:italic>x</ce:italic>,−<ce:italic>y</ce:italic>+2,−<ce:italic>z</ce:italic> #2 <ce:italic>x</ce:italic>−1,<ce:italic>y</ce:italic>,<ce:italic>z</ce:italic>.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:e-component id="MMC10">
+               <ce:label>Compound 1</ce:label>
+               <ce:link locator="mmc10"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">Compound 1</ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+            <ce:e-component id="MMC5">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Crystal data and structure refinement for compound <ce:bold>1</ce:bold>
+                  </ce:simple-para>
+               </ce:caption>
+               <ce:link locator="mmc5"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">Crystal data and structure refinement for compound <ce:bold>1</ce:bold>
+                     </ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+            <ce:e-component id="MMC6">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Atomic coordinates (×10<ce:sup loc="post">4</ce:sup>) and equivalent isotropic displacement parameters (Å<ce:sup loc="post">2</ce:sup>×10<ce:sup loc="post">3</ce:sup>) for <ce:bold>1</ce:bold>. U(eq) is defined as one third of the trace of the orthogonalized U<ce:inf loc="post">ij</ce:inf> tensor</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="mmc6"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">Atomic coordinates (×10<ce:sup loc="post">4</ce:sup>) and equivalent isotropic displacement parameters (Å<ce:sup loc="post">2</ce:sup>×10<ce:sup loc="post">3</ce:sup>) for <ce:bold>1</ce:bold>. U(eq) is defined as one third of the trace of the orthogonalized U<ce:inf loc="post">ij</ce:inf> tensor</ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+            <ce:e-component id="MMC7">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Bond lengths [Å] and angles [°] for <ce:bold>1</ce:bold>
+                  </ce:simple-para>
+               </ce:caption>
+               <ce:link locator="mmc7"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">Bond lengths [Å] and angles [°] for <ce:bold>1</ce:bold>
+                     </ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+            <ce:e-component id="MMC8">
+               <ce:label>Table 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Anisotropic displacement parameters (Å<ce:sup loc="post">2</ce:sup>×10<ce:sup loc="post">3</ce:sup>) for <ce:bold>1</ce:bold>. The anisotropic displacement factor exponent takes the form: −2π<ce:sup loc="post">2</ce:sup> [(ha<ce:sup loc="post">*</ce:sup>)<ce:sup loc="post">2</ce:sup>U<ce:inf loc="post">11</ce:inf>+…+2hka<ce:sup loc="post">*</ce:sup>b<ce:sup loc="post">*</ce:sup>U<ce:inf loc="post">12</ce:inf>]</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="mmc8"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">Anisotropic displacement parameters (Å<ce:sup loc="post">2</ce:sup>×10<ce:sup loc="post">3</ce:sup>) for <ce:bold>1</ce:bold>. The anisotropic displacement factor exponent takes the form: −2π<ce:sup loc="post">2</ce:sup> [(ha<ce:sup loc="post">*</ce:sup>)<ce:sup loc="post">2</ce:sup>U<ce:inf loc="post">11</ce:inf>+…+2hka<ce:sup loc="post">*</ce:sup>b<ce:sup loc="post">*</ce:sup>U<ce:inf loc="post">12</ce:inf>]</ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+            <ce:e-component id="MMC9">
+               <ce:label>Table 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Hydrogen coordinates (×10<ce:sup loc="post">4</ce:sup>) and isotropic displacement parameters (Å<ce:sup loc="post">2</ce:sup>×10<ce:sup loc="post">3</ce:sup>) for <ce:bold>1</ce:bold>
+                  </ce:simple-para>
+               </ce:caption>
+               <ce:link locator="mmc9"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">Hydrogen coordinates (×10<ce:sup loc="post">4</ce:sup>) and isotropic displacement parameters (Å<ce:sup loc="post">2</ce:sup>×10<ce:sup loc="post">3</ce:sup>) for <ce:bold>1</ce:bold>
+                     </ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+            <ce:e-component id="MMC1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The infrared spectrum of compound <ce:bold>1</ce:bold>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="mmc1"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">The infrared spectrum of compound <ce:bold>1</ce:bold>.</ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+            <ce:e-component id="MMC2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The ball and stick representation of compound <ce:bold>1</ce:bold>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="mmc2"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">The ball and stick representation of compound <ce:bold>1</ce:bold>.</ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+            <ce:e-component id="MMC3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">XPS spectrum for compound <ce:bold>1</ce:bold>, showing the signal of Mo<ce:sup loc="post">6+</ce:sup> and Cu<ce:sup loc="post">2+</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="mmc3"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">XPS spectrum for compound <ce:bold>1</ce:bold>, showing the signal of Mo<ce:sup loc="post">6+</ce:sup> and Cu<ce:sup loc="post">2+</ce:sup>.</ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+            <ce:e-component id="MMC4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">TG spectra for compound <ce:bold>1</ce:bold>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="mmc4"/>
+               <ce:alt-e-component>
+                  <ce:caption>
+                     <ce:simple-para view="all">TG spectra for compound <ce:bold>1</ce:bold>.</ce:simple-para>
+                  </ce:caption>
+               </ce:alt-e-component>
+            </ce:e-component>
+         </ce:floats>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>Supplementary data associated with this article can be found, in the online version, at doi=10.1016/j.jssc.2003.10.009</ce:note-para>
+            </ce:article-footnote>
+            <ce:dochead>
+               <ce:textfn>Rapid communication</ce:textfn>
+            </ce:dochead>
+            <ce:title>Hydrothermal synthesis and crystal structure of a novel two-dimensional organic–inorganic hybrid copper molybdate with mixed organodiamine and dicarboxyl ligands</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:indexed-name>Lu</ce:indexed-name>
+                  <ce:given-name>Jian</ce:given-name>
+                  <ce:surname>Lü</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Yangguang</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Enhong</ce:given-name>
+                  <ce:surname>Shen</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Mei</ce:given-name>
+                  <ce:surname>Yuan</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Enbo</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref refid="CORAST">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Changwen</ce:given-name>
+                  <ce:surname>Hu</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Lin</ce:given-name>
+                  <ce:surname>Xu</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Institute of Polyoxometalate Chemistry, Department of Chemistry, Northeast Normal University, Changchun, Jilin 130024, People's Republic of China</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="CORAST">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author. Fax: +86-431-5684009</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="18" month="8" year="2003"/>
+            <ce:date-revised day="9" month="10" year="2003"/>
+            <ce:date-accepted day="13" month="10" year="2003"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">An unusual compound, [{Cu(2,2′–bpy)}<ce:inf loc="post">2</ce:inf>(tp)Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">13</ce:inf>] (tp=terephthalate) <ce:bold>1</ce:bold>, has been hydrothermally synthesized and structurally characterized by the elemental analyses, IR spectrum, X-ray photoelectron spectrum, TG analyses and the single crystal X-ray diffraction. The structure of <ce:bold>1</ce:bold> exhibits a layered network built up from bimetallic one-dimensional ribbons bridged by dicarboxylate ligands. Compound <ce:bold>1</ce:bold> represents the first hybrid molybdates composed of mixed organodiamine and dicarboxylate ligands. Crystal data for compound <ce:bold>1</ce:bold>: triclinic, space group <math altimg="si2.gif">P<a valign="u">
+                           <ac>1</ac>
+                           <ac>̄</ac>
+                        </a>
+                     </math>, <ce:italic>a</ce:italic>=7.3748(15)<ce:hsp sp="0.16"/>Å, <ce:italic>b</ce:italic>=9.9692(2)<ce:hsp sp="0.16"/>Å, <ce:italic>c</ce:italic>=12.0692(2)<ce:hsp sp="0.16"/>Å, <ce:italic>α</ce:italic>=69.223(3)°, <ce:italic>β</ce:italic>=76.123(3)°, <ce:italic>γ</ce:italic>=76.623(3)°; <ce:italic>V</ce:italic>=794.83(3)<ce:hsp sp="0.16"/>Å<ce:sup loc="post">3</ce:sup>; <ce:italic>Z</ce:italic>=1, <ce:italic>R</ce:italic> (final)=0.0688. The data were collected on a Rigaku R-AXIS RAPID IP diffractometer at 293<ce:hsp sp="0.16"/>K using graphite-monochromated Mo<ce:italic>K</ce:italic>α radiation (<ce:italic>λ</ce:italic>=0.71073<ce:hsp sp="0.16"/>Å) and oscillation scans technique in the range 1.83°&lt;<ce:italic>θ</ce:italic>&lt;27.48°.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Hydrothermal synthesis</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Crystal structure</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Organic–inorganic hybrid</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Bimetallic</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">The widespread contemporary interest in organic–inorganic hybrid compounds, which are expected to be endowed with enhanced or combined functionalization of both organic and inorganic substructures <ce:cross-refs refid="BIB1 BIB2">[1,2]</ce:cross-refs>, has been focused on the richness of their structures and special properties in the fields of catalysis and materials science as well as in biology, magnetism, nonlinear optics and medicine <ce:cross-refs refid="BIB3 BIB4">[3,4]</ce:cross-refs>. Integration metal-organic complexes and molybdenum oxide moieties into a single structure characterized one fruitful subclass of organic–inorganic hybrid materials. Typically, the organic components may be introduced into the solid phases: (i) as a charge-compensating and space-filling constituent; (ii) as a ligand coordinated covalently to the molybdenum oxide scaffolding; and (iii) as a ligand bound directly to a secondary metal center <ce:cross-ref refid="BIB5">[5]</ce:cross-ref>. More recently, the rational design of organic–inorganic molybdenum oxide phases is achievable in defining their structures contributed to the increasing understanding of the methods to control the synergistic interaction between organic and inorganic chemical compositions <ce:cross-ref refid="BIB5">[5]</ce:cross-ref>. During the studies of such kinds of solid materials, an astonishing variety of novel phases with discrete or polymeric structures have been isolated hydrothermally <ce:cross-refs refid="BIB6 BIB7 BIB8 BIB9 BIB10 BIB11 BIB12 BIB13 BIB14 BIB15 BIB16 BIB17 BIB18 BIB19 BIB20 BIB21 BIB22 BIB23">[6–23]</ce:cross-refs>. Till now, the polyanions in these solids are limited to {Mo<ce:inf loc="post">6</ce:inf>O<ce:inf loc="post">19</ce:inf>} <ce:cross-refs refid="BIB10 BIB11 BIB12">[10–12]</ce:cross-refs> (or {Mo<ce:inf loc="post">6</ce:inf>O<ce:inf loc="post">
+                        <ce:italic>n</ce:italic>
+                     </ce:inf>N<ce:inf loc="post">19−<ce:italic>n</ce:italic>
+                     </ce:inf>} <ce:cross-refs refid="BIB13 BIB14 BIB15 BIB16">[13–16]</ce:cross-refs>) and {Mo<ce:inf loc="post">8</ce:inf>O<ce:inf loc="post">26</ce:inf>} <ce:cross-refs refid="BIB10 BIB12 BIB17 BIB18 BIB19">[10,12,17–19]</ce:cross-refs> clusters. Hybrid solid-state materials based on tetramolybdate are rare <ce:cross-refs refid="BIB7 BIB20 BIB21">[7,20,21]</ce:cross-refs>. Moreover, the organic molecules introduced into the reaction systems are mostly restricted to the organonitrogen ligands. Organic–inorganic hybrid molybdate containing carboxyl ligands are rarely reported. The possible reason is that the carboxyl-containing ligands possess more negative charges, and make it difficult to meet the charge balance with the polyanions <ce:cross-refs refid="BIB9 BIB22">[9,22]</ce:cross-refs>. Therefore, it remains a great challenge to incorporate carboxyl-containing ligands into the molybdate scaffolding. Furthermore, one promising goal to the design and synthesis of organic–inorganic hybrid materials is to introduce more than one type of organic molecule with distinctive linking manners and coordination preferences into the inorganic substructures in constructing organic–inorganic hybrid solids with remarkable structural features and attractive properties <ce:cross-refs refid="BIB22 BIB23">[22,23]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">On the basis of the aforementioned points, a novel organic–inorganic hybrid compound, [{Cu(2,2′–bpy)}<ce:inf loc="post">2</ce:inf>(tp)Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">13</ce:inf>] (tp=terephthalate) <ce:bold>1</ce:bold>, has been successfully isolated by the introduction of mixed nitrogen and oxygen donor ligands via hydrothermal technology. To the best of our knowledge, compound <ce:bold>1</ce:bold> represents the first hybrid molybdenum oxide skeleton combined with mixed organodiamine and dicarboxylate ligands into one phase.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental section</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>General procedures</ce:section-title>
+                     <ce:para view="all">All chemicals purchased were of reagent grade and used without further purification. The hydrothermal reactions were performed in 20<ce:hsp sp="0.16"/>mL Teflon-lined stainless-steel vessels under autogenous pressure with a filling capacity approximately 60%. Water used in the reactions is distilled water. Elemental analyses (C, H and N) were performed on a Perkin-Elmer 2400 CHN Elemental Analyzer. Mo and Cu were determined by a Leaman inductively coupled plasma (ICP) spectrometer. IR spectrum was recorded in the range 400–4000<ce:hsp sp="0.16"/>cm<ce:sup loc="post">−1</ce:sup> on an Alpha Centaurt FT/IR spectrophotometer using KBr pellets. X-ray photoelectron spectrum (XPS) analysis was performed on a VG ESCALAB MK II spectrometer with an Mg<ce:italic>K</ce:italic>α (1253.6<ce:hsp sp="0.16"/>eV) achromatic X-ray source. The vacuum inside the analysis chamber was maintained at 6.2×10<ce:sup loc="post">−6</ce:sup>
+                        <ce:hsp sp="0.16"/>Pa during analysis. TG analysis was performed on a Perkin-Elmer TGA7 instrument in flowing N<ce:inf loc="post">2</ce:inf> with a heating rate of 10°C<ce:hsp sp="0.16"/>min<ce:sup loc="post">−1</ce:sup>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Synthesis of [{Cu(2,2′-bpy)}]<ce:inf loc="post">2</ce:inf>(tp)Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">13</ce:inf>
+                     </ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="MMC10">Compound 1</ce:cross-ref>
+                        <ce:float-anchor refid="MMC10"/> was isolated as green blocks from the reaction of (NH<ce:inf loc="post">4</ce:inf>)<ce:inf loc="post">6</ce:inf>Mo<ce:inf loc="post">7</ce:inf>O<ce:inf loc="post">24</ce:inf>·4H<ce:inf loc="post">2</ce:inf>O, CuCl<ce:inf loc="post">2</ce:inf>, terephthalic acid, 2,2′-pyridine, HCl and H<ce:inf loc="post">2</ce:inf>O in a molar ratio of 1:5:3:2:1:555 under autogenous pressure at 140°C for four days. After slow cooling to room temperature, the resulting crystals of <ce:bold>1</ce:bold> were collected as a major phase (60% yield on Mo) from the pale-yellow slurry, and then filtered off, washed with distilled water, and dried at ambient temperature. The green blocks were manually selected for structural determination and further characterization. Anal. Calc. for <ce:bold>2</ce:bold>: C, 28.14; H, 1.69; N, 4.69; Cu, 10.63; Mo, 32.11 (%). Found: C, 28.67; H, 1.61; N, 4.83; Cu, 10.92; Mo, 31.43 (%).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>X-ray crystallography</ce:section-title>
+                     <ce:para view="all">The data were collected on a Rigaku R-AXIS RAPID IP diffractometer at 293<ce:hsp sp="0.16"/>K using graphite-monochromated Mo<ce:italic>K</ce:italic>α radiation (<ce:italic>λ</ce:italic>=0.71073<ce:hsp sp="0.16"/>Å) and oscillation scans technique in the range 1.83°&lt;<ce:italic>θ</ce:italic>&lt;27.48°. Empirical absorption correction was applied. A total of 3076 (2475 unique, <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">int</ce:inf>=0.0688) reflections were measured. The structure was solved by direct methods using the program SHELXS-97 <ce:cross-ref refid="BIB24">[24]</ce:cross-ref> and refined by full-matrix least-squares methods on <ce:italic>F</ce:italic>
+                        <ce:sup loc="post">2</ce:sup> using the SHELXL-97 <ce:cross-ref refid="BIB25">[25]</ce:cross-ref> program package. All of the non-hydrogen atoms were refined anisotropically. Positions of the hydrogen atoms attached to carbon atoms were fixed at their ideal positions. Structure solution and refinement based on 2475 independent reflections with [<ce:italic>I</ce:italic>&gt;2<ce:italic>σ</ce:italic>(<ce:italic>I</ce:italic>)] on 0 restraint and 250 parameters gave <ce:italic>R</ce:italic>1 (w<ce:italic>R</ce:italic>
+                        <ce:inf loc="post">2</ce:inf>)=0.0688 (0.1869). A summary of the crystallographic data and structural determination for compound <ce:bold>1</ce:bold> is provided in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="TBL1"/> (<ce:cross-ref refid="MMC5">Table S1</ce:cross-ref>
+                        <ce:float-anchor refid="MMC5"/>). Selected bond lengths and angles are listed in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="TBL2"/> (<ce:cross-ref refid="MMC6">Table S2</ce:cross-ref>
+                        <ce:float-anchor refid="MMC6"/>).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">The X-ray diffraction analysis<ce:cross-ref refid="FN1">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref>
+                     <ce:footnote id="FN1">
+                        <ce:label>1</ce:label>
+                        <ce:note-para>Crystallographic data for the structural analysis have been deposited with the Cambridge Crystallographic Data Center, CCDC reference number 215191. These data can be obtained free of charge at <ce:inter-ref xlink:href="http://www.ccdc.cam.ac.uk/conts/retrieving.html" xlink:type="simple">www.ccdc.cam.ac.uk/conts/retrieving.html</ce:inter-ref> (or from the Cambridge Crystallographic Data Centre, 12, Union Road, Cambridge CB2 1EZ, UK; fax: +44-1223/336-033; E-mail: deposit@ccdc.cam.ac.uk).</ce:note-para>
+                     </ce:footnote> revealed that the structure of <ce:bold>1</ce:bold> features a layered network constructed from bimetallic [{Cu(2,2′–bpy)}<ce:inf loc="post">2</ce:inf>Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">13</ce:inf>]<ce:inf loc="post">
+                        <ce:italic>n</ce:italic>
+                     </ce:inf>
+                     <ce:sup loc="post">2<ce:italic>n</ce:italic>+</ce:sup> ribbon connected by tp ligands. The basic building block of <ce:bold>1</ce:bold> is shown in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="FIG1"/>. There is one crystallographically independent Cu atom and two Mo atoms in the asymmetric unit. The square–pyramidal coordination environment about Mo(1) atom is defined by a terminal oxygen atom and four bridging oxygen atoms with Mo–O bond lengths in the range 1.689–2.091<ce:hsp sp="0.16"/>Å (<ce:cross-ref refid="MMC7">Table S3</ce:cross-ref>
+                     <ce:float-anchor refid="MMC7"/>). Mo(2) atom is coordinated by four bridging oxygen atoms with Mo–O bond length vary from 1.685 to 2.344<ce:hsp sp="0.16"/>Å, three of there are linked with Mo atoms and the other linked with Cu, one terminal oxygen atom, and one carboxyl oxygen atom from the tp ligand to finish its octahedral coordination geometry. Cu(3) atom, residing in a distorted square–pyramidal coordination environment, is coordinated by two nitrogen atoms from a 2,2′-bpy with Cu–N distances of 2.005 and 2.015<ce:hsp sp="0.16"/>Å, two bridging oxygen atoms from the molybdate cluster and a carboxyl oxygen atom with a longer Cu–O distance of 2.192<ce:hsp sp="0.16"/>Å and two shorter Cu–O distances of 1.954 and 1.955<ce:hsp sp="0.16"/>Å.</ce:para>
+                  <ce:para view="all">The extension of the structure can be described as follows: two {MoO<ce:inf loc="post">5</ce:inf>} square–pyramids and two {MoO<ce:inf loc="post">6</ce:inf>} octahedra assemble together in a corner- or/and edge-sharing arrangement generating a tetranuclear molybdate cluster. The tetramolybdate clusters link to each other by sharing the terminal octahedral O atoms to form an infinite molybdenum oxide chain, which is engrafted by the square–pyramidal {Cu(2,2′–bpy)}<ce:sup loc="post">2+</ce:sup> complexes via the terminal O atoms of {MoO<ce:inf loc="post">6</ce:inf>} octahedra and {MoO<ce:inf loc="post">5</ce:inf>} square pyramids (<ce:cross-ref refid="FIG2">Fig. 2a</ce:cross-ref>
+                     <ce:float-anchor refid="FIG2"/>). The tp ligands functioning in a bis-bidented mode coordinated covalently to the Cu sites and octahedral Mo sites extending into a 2-D network (<ce:cross-ref refid="FIG2">Fig. 2b</ce:cross-ref>). It is also striking that there are extensive hydrogen-bond contacts (the average hydrogen-bonding distance is about 2.55<ce:hsp sp="0.16"/>Å) and strong JI–JI interactions (the nearest distance of two parallel pyridine rings is about 3.50<ce:hsp sp="0.16"/>Å) in the interlamellar regions of solid <ce:bold>1</ce:bold>, playing an important role in the stabilization of the structure (see <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="FIG3"/>) (<ce:cross-refs refid="MMC8 MMC9">Tables S4 and S5</ce:cross-refs>
+                     <ce:float-anchor refid="MMC8"/>
+                     <ce:float-anchor refid="MMC9"/>).</ce:para>
+                  <ce:para view="all">The {Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">18</ce:inf>} clusters in <ce:bold>1</ce:bold> are quite distinct from the reported precursors: (i) the tetranuclear molybdenum cluster in [{Ni(3,3′-bpy)<ce:inf loc="post">2</ce:inf>}<ce:inf loc="post">2</ce:inf>Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">14</ce:inf>] consists of two {MoO<ce:inf loc="post">6</ce:inf>} octahedra and two {MoO<ce:inf loc="post">5</ce:inf>} distorted trigonal bipyramids in an edge-sharing arrangement <ce:cross-ref refid="BIB7">[7]</ce:cross-ref>; (ii) the {Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">14</ce:inf>}<ce:sup loc="post">4−</ce:sup> cluster in [Cu(terpy)Mo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf>] is constructed from four edge- and corner-sharing {MoO<ce:inf loc="post">5</ce:inf>} distorted square pyramids <ce:cross-ref refid="BIB20">[20]</ce:cross-ref>; and (iii) in the compound (C<ce:inf loc="post">2</ce:inf>H<ce:inf loc="post">10</ce:inf>N<ce:inf loc="post">2</ce:inf>)[Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">12</ce:inf>], the {Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">16</ce:inf>} unit is composed of two Mo<ce:sup loc="post">VI</ce:sup> and two Mo<ce:sup loc="post">V</ce:sup> edge-sharing molybdenum octahedral <ce:cross-ref refid="BIB21">[21]</ce:cross-ref>. This is mostly because the carboxyl-containing ligands introduced into the reaction systems coordinated directly to the Mo centers afforded additional oxygen donors leading to the formation of two types of unprecedented tetranuclear molybdate clusters. It can be proved that the tetranuclear oxide cluster is the same, if the carboxyl O atoms were removed, as the {Mo<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">14</ce:inf>} cluster in [Cu(terpy)Mo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf>] <ce:cross-ref refid="BIB20">[20]</ce:cross-ref>. It is also believed that the organic molecules, especially the carboxyl-containing components, play a critical role in the construction of this unusual compound. The coordination environment around Cu to the connectivity of the molybdate cluster in <ce:bold>1</ce:bold> is similar to [Cu(terpy)Mo<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">7</ce:inf>]. However, the distinctive feature of this compound is that the dicarboxylate ligands coordinated covalently to the bimetallic ribbon extending the structure into higher dimension via an infrequent linking mode.</ce:para>
+                  <ce:para view="all">In the IR spectra of compound <ce:bold>1</ce:bold>, the vibration modes for <ce:italic>ν</ce:italic>(Mo=O) and <ce:italic>ν</ce:italic>(Mo–O–Mo) are observed at 965, 950, 889, 856, 836, 772, and 714<ce:hsp sp="0.16"/>cm<ce:sup loc="post">−1</ce:sup>. The characteristic absorption bands of organic ligands occur in the range 1600–1380<ce:hsp sp="0.16"/>cm<ce:sup loc="post">−1</ce:sup> (<ce:cross-ref refid="MMC1">Fig. S1</ce:cross-ref>
+                     <ce:float-anchor refid="MMC1"/>). The XPS measurements of compound <ce:bold>1</ce:bold> in the energy regions of Cu2<ce:italic>p</ce:italic>
+                     <ce:inf loc="post">1/2</ce:inf> and Cu2<ce:italic>p</ce:italic>
+                     <ce:inf loc="post">3/2</ce:inf> show one peak at 934.3<ce:hsp sp="0.16"/>eV, attributable to Cu<ce:sup loc="post">2+</ce:sup> 
+                     <ce:cross-refs refid="BIB26 BIB27">[26,27]</ce:cross-refs>, in the energy region of Mo3<ce:italic>d</ce:italic>
+                     <ce:inf loc="post">3/2</ce:inf> and Mo3<ce:italic>d</ce:italic>
+                     <ce:inf loc="post">5/2</ce:inf> give two peaks (the higher is at 232.0<ce:hsp sp="0.16"/>eV), attributed to Mo<ce:sup loc="post">6+</ce:sup> 
+                     <ce:cross-ref refid="BIB28">[28]</ce:cross-ref> (see <ce:cross-refs refid="MMC2 MMC3">Figs. S2 and S3</ce:cross-refs>
+                     <ce:float-anchor refid="MMC2"/>
+                     <ce:float-anchor refid="MMC3"/>). The results are in good accordance with the valence sum calculations for Mo<ce:sup loc="post">6+</ce:sup> and Cu<ce:sup loc="post">2+</ce:sup> and also confirm the structure analysis (<ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>
+                     <ce:float-anchor refid="TBL3"/>).</ce:para>
+                  <ce:para view="all">The TG curve of compound <ce:bold>1</ce:bold> exhibits two steps of weight losses, as shown in <ce:cross-ref refid="MMC4">Fig. S4</ce:cross-ref>
+                     <ce:float-anchor refid="MMC4"/>. The first weight loss is 8.75% from 320°C to 370°C, which is assigned to the loss of tp ligands (calculated value 8.38%); the second is 25.66% from 380°C to 580°C, attributable to the loss of 2,2′bpy ligands (calculated value 26.13%). The whole weight loss in the temperature range 300–600°C is 34.41%, which is in good agreement with the calculated value 34.51%.</ce:para>
+                  <ce:para view="all">In this work, a new inorganic–organic hybrid copper molybdate with organodiamine and dicarboxyl ligands has been reported. The compound displays a unique 2-D network constructed from bimetallic ribbons covalently bonded with 2,2′-bpy and tp ligands. The successful preparation of <ce:bold>1</ce:bold> indicates the introduction of mixed organic ligands is an optional route for the preparation of novel high-dimensional inorganic–organic hybrid polyoxometalates with unique structures and remarkable properties. Future research may focus on the attempting to explore the effects of transition metal-organic fragments on the reaction systems.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">The authors thank the National Natural Science Foundation of China (20171010) for financial support.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.C.W.</ce:given-name>
+                                 <ce:surname>Baker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Glick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.-Y.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-X.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8789</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Hill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Prosser-McCartha</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Coord. Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>143</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>407</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>C.L. Hill (guest ed.), Special issue on Polyoxometalates: Chem. Rev. 1 (1998) and references therein.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Hagrman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hagrman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zubieta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2638</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.K.</ce:given-name>
+                                 <ce:surname>Goh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1599</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R. L. LaDuca Jr., M. Desciak, M. Laskoski, R.S. Rarig Jr., J. Zubieta, J. Chem. Soc., Dolton Trans. (2000) 2255.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Z.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>124</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3836</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.H.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Q.</ce:given-name>
+                                 <ce:surname>Jia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3670</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hagrman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hagrman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zubieta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>300–302</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>212</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.H.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4135</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>D. Hagrman, P.J. Zapf, J. Zubieta, Chem. Commun. (1998) 1283.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kwen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Young</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Maatta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A.R. Moore, H. Kwen, A.M. Beatty, E.A. Maatta, Chem. Commun. (2002) 1793.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Spandl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Daniel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Brüdgam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hartl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Powell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Angew. Chem. Int. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4129</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J.Q. Xu, R.Z. Wang, G.Y. Wang, Y.H. Xing, D.M. Li, M.H. Bu, L. Ye, Y.G. Fan, Y. Xing, Y.H. Lin, H.Q. Jia, Chem. Commun. (1999) 983.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.N.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polyhedron</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3371</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>P.J. Zapf, C.J. Warren, R.C. Haushalter, J. Zubieta. Chem. Commun. (1997) 1543.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Hagrman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zubieta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5218</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Guillou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ferey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Whittingham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Matter. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2277</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J. Tao, X.M. Zhang, M.L. Tong, X.M. Chen, J. Chem. Soc., Dalton Trans. (2001) 770.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>C.M. Liu, D.Q. Zhang, M. Xiong, D.B. Zhu, Chem. Commun. (2002) 1416.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>G.M. Sheldrick, SHELXTL 97, Program for Crystal Structure Solution, University of Göttingen, 1997.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>G.M. Sheldrick, SHELXTL 97, Program for Crystal Structure Refinement, University of Göttingen, 1997.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Beyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kimse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Szargan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Hoyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Anorg. Allg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>476</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.I.</ce:given-name>
+                                 <ce:surname>Nefedov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Firsov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.S.</ce:given-name>
+                                 <ce:surname>Shaplygin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron Spectrosc. Relat. Phenom.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>65</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.O.</ce:given-name>
+                                 <ce:surname>Grim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Matienzo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1014</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

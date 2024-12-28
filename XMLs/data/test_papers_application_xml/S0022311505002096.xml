@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0022311505002096</prism:url><dc:identifier>doi:10.1016/j.jnucmat.2005.04.026</dc:identifier><eid>1-s2.0-S0022311505002096</eid><prism:doi>10.1016/j.jnucmat.2005.04.026</prism:doi><pii>S0022-3115(05)00209-6</pii><dc:title>X-ray diffraction and molecular dynamics simulation studies of molten uranium chloride </dc:title><prism:publicationName>Journal of Nuclear Materials</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00223115</prism:issn><prism:volume>344</prism:volume><prism:issueIdentifier>1-3</prism:issueIdentifier><prism:startingPage>109</prism:startingPage><prism:endingPage>114</prism:endingPage><prism:pageRange>109-114</prism:pageRange><prism:number>1-3</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2005-09-01</prism:coverDate><prism:coverDisplayDate>1 September 2005</prism:coverDisplayDate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>Proceedings of the 11th International Symposium on Thermodynamics of Nuclear Materials</prism:issueName><dc:creator>Okamoto, Y.</dc:creator><dc:creator>Madden, P.A.</dc:creator><dc:creator>Minato, K.</dc:creator><dc:description>
+                  The structure of molten UCl3 at 1200K was studied by high-temperature X-ray diffraction and molecular dynamics simulation. The XRD data was reproduced by the simulation with a polarizable ionic model. The nearest U3+–Cl− distance was 2.85Å with coordination number 8.0, implying that the 8-fold structure (UCl8)5− is predominant in the melt – in contradiction to earlier suggestions of octahedral coordination. The potential model, which had been optimized by comparison with the structural data, was also found to reproduce the experimental information on transport properties like the diffusion coefficient, electrical conductivity and shear viscosity.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0022311505002096" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0022311505002096" rel="scidir"/></coredata><objects><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="92" height="34" size="462">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="20" height="22" size="271">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="20" height="21" size="269">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="309" height="44" size="1590">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="20" height="22" size="271">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="20" height="21" size="269">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="280" height="215" size="18655">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="121" height="93" size="2895">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="296" height="210" size="15714">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="89" size="2565">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="311" height="372" size="34369">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="78" height="93" size="2226">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="279" height="298" size="23576">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="87" height="93" size="2497">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="259" height="402" size="25661">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="60" height="93" size="2018">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="255" height="400" size="27891">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="59" height="93" size="2098">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="489" height="317" size="39694">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="81" size="2847">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311505002096-gr3.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>23644451799</scopus-id><scopus-eid>2-s2.0-23644451799</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/23644451799" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271598</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291702</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291829</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Nuclear Materials</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALNUCLEARMATERIALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20050613">2005-06-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20050613">2005-06-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-14T01:57:56</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0022311505002096</xocs:eid>
+      <xocs:pii-formatted>S0022-3115(05)00209-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0022311505002096</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jnucmat.2005.04.026</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0022311505X06109</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T01:25:24.219903-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20050901</xocs:date-search-begin>
+      <xocs:year-nav>2005</xocs:year-nav>
+      <xocs:indexeddate epoch="1118620800">2005-06-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confabbr confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings vol vol volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authlast otherkwds primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0022-3115</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00223115</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>344</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>344</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>3</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 344, Issues 1–3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>26</xocs:sort-order>
+      <xocs:first-fp>109</xocs:first-fp>
+      <xocs:last-lp>114</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>109</xocs:first-page>
+         <xocs:last-page>114</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20050901</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 September 2005</xocs:cover-date-text>
+      <xocs:cover-date-start>2005-09-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2005</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Proceedings of the 11th International Symposium on Thermodynamics of Nuclear Materials</ce:title>
+            <xocs:conference-info>
+               <xocs:full-name>Proceedings of the 11th International Symposium on Thermodynamics of Nuclear Materials</xocs:full-name>
+               <xocs:abbr-name>STNM-11</xocs:abbr-name>
+               <xocs:venue>Karlsruhe, Germany</xocs:venue>
+               <xocs:conference-date-text>6–9 September 2004</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20040906</xocs:start-date>
+                  <xocs:end-date>20040909</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>R.J.M.</ce:given-name>
+                     <ce:surname>Konings</ce:surname>
+                  </ce:author>
+                  <ce:affiliation>
+                     <ce:textfn>European Commission, Joint Research Centre, Institute for Transuranium Elements, Karlsruhe, Germany</ce:textfn>
+                  </ce:affiliation>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>XRAYDIFFRACTIONMOLECULARDYNAMICSSIMULATIONSTUDIESMOLTENURANIUMCHLORIDE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>OKAMOTO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>XRD and MD</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>XRD data analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>MD simulations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>XRD result</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>MD simulation of structure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Simulations of transport properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>HAYASHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>624</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>SHIRAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>685</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>OKAMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>355</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>HUTCHINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>811</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>OKAMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>448</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>OKAMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1569</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>MADDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6609</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>DESYATNIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>765</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>JANZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>159</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>ADYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGS12THINTERNATIONALSYMPOSIUMMOLTENSALTSHONOLULUUSA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>PAPATHEODOROU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>483</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>XRAYDIFFRACTIONANALYSISIONICLIQUIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>MORGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1402</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>OKAMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>139</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>BYSTRAJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>513</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>OKAMOTOX2005X109</xocs:refkey3>
+         <xocs:refkey4lp>OKAMOTOX2005X109X114</xocs:refkey4lp>
+         <xocs:refkey4ai>OKAMOTOX2005X109XY</xocs:refkey4ai>
+         <xocs:refkey5>OKAMOTOX2005X109X114XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0022-3115(05)00209-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0022311505002096</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0022311505002096</xocs:eid>
+         <xocs:doi>10.1016/j.jnucmat.2005.04.026</xocs:doi>
+         <xocs:cid>271598</xocs:cid>
+         <xocs:timestamp>2010-12-24T05:59:08.787136-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2005-09-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/MAIN/application/pdf/a5ca212e8040ce70da7de9b5bc19022a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/MAIN/application/pdf/a5ca212e8040ce70da7de9b5bc19022a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>203506</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0022311505002096-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/PREVIEW/image/png/9fce96ba0a3e6187a9cd3571ba321bd9/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/PREVIEW/image/png/9fce96ba0a3e6187a9cd3571ba321bd9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>53505</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/STRIPIN/image/gif/83f6498ced8466591b7e65b4a4acb4ed/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/STRIPIN/image/gif/83f6498ced8466591b7e65b4a4acb4ed/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>462</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>92</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/STRIPIN/image/gif/ff1b43ba9ecb8db2c5441085c86519b2/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/STRIPIN/image/gif/ff1b43ba9ecb8db2c5441085c86519b2/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>271</xocs:filesize>
+               <xocs:pixel-height>22</xocs:pixel-height>
+               <xocs:pixel-width>20</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/STRIPIN/image/gif/2f17261c71ec3fcc0609c42cdb6224fb/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/STRIPIN/image/gif/2f17261c71ec3fcc0609c42cdb6224fb/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>269</xocs:filesize>
+               <xocs:pixel-height>21</xocs:pixel-height>
+               <xocs:pixel-width>20</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/STRIPIN/image/gif/d922e9aeef476eca2d3c622f83901836/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/STRIPIN/image/gif/d922e9aeef476eca2d3c622f83901836/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1590</xocs:filesize>
+               <xocs:pixel-height>44</xocs:pixel-height>
+               <xocs:pixel-width>309</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/STRIPIN/image/gif/ff1b43ba9ecb8db2c5441085c86519b2/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/STRIPIN/image/gif/ff1b43ba9ecb8db2c5441085c86519b2/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>271</xocs:filesize>
+               <xocs:pixel-height>22</xocs:pixel-height>
+               <xocs:pixel-width>20</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/STRIPIN/image/gif/2f17261c71ec3fcc0609c42cdb6224fb/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/STRIPIN/image/gif/2f17261c71ec3fcc0609c42cdb6224fb/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>269</xocs:filesize>
+               <xocs:pixel-height>21</xocs:pixel-height>
+               <xocs:pixel-width>20</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr6/DOWNSAMPLED/image/jpeg/22cabc918ad4bb566c409e5a7387a2cc/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr6/DOWNSAMPLED/image/jpeg/22cabc918ad4bb566c409e5a7387a2cc/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18655</xocs:filesize>
+               <xocs:pixel-height>215</xocs:pixel-height>
+               <xocs:pixel-width>280</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr6/THUMBNAIL/image/gif/de0f42799029165291bb690f99be3624/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr6/THUMBNAIL/image/gif/de0f42799029165291bb690f99be3624/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2895</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>121</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr5/DOWNSAMPLED/image/jpeg/e49e541fd8abba137694239e003732ab/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr5/DOWNSAMPLED/image/jpeg/e49e541fd8abba137694239e003732ab/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15714</xocs:filesize>
+               <xocs:pixel-height>210</xocs:pixel-height>
+               <xocs:pixel-width>296</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr5/THUMBNAIL/image/gif/9bb27c86a9d452224493967826001fe7/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr5/THUMBNAIL/image/gif/9bb27c86a9d452224493967826001fe7/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2565</xocs:filesize>
+               <xocs:pixel-height>89</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr4/DOWNSAMPLED/image/jpeg/461d1d30a10bb01a1bcb524519f8cd09/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr4/DOWNSAMPLED/image/jpeg/461d1d30a10bb01a1bcb524519f8cd09/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34369</xocs:filesize>
+               <xocs:pixel-height>372</xocs:pixel-height>
+               <xocs:pixel-width>311</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr4/THUMBNAIL/image/gif/d7e88931036a350a2fab55ddf8abf47f/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr4/THUMBNAIL/image/gif/d7e88931036a350a2fab55ddf8abf47f/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2226</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>78</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr7/DOWNSAMPLED/image/jpeg/b100a466d2eb6b37a571945d8eb73368/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr7/DOWNSAMPLED/image/jpeg/b100a466d2eb6b37a571945d8eb73368/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23576</xocs:filesize>
+               <xocs:pixel-height>298</xocs:pixel-height>
+               <xocs:pixel-width>279</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr7/THUMBNAIL/image/gif/1f562d648f22b1d67bf2eef5c97f84f1/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr7/THUMBNAIL/image/gif/1f562d648f22b1d67bf2eef5c97f84f1/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2497</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>87</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr1/DOWNSAMPLED/image/jpeg/a4a26e7ae9454bd68febec65969282cb/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr1/DOWNSAMPLED/image/jpeg/a4a26e7ae9454bd68febec65969282cb/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25661</xocs:filesize>
+               <xocs:pixel-height>402</xocs:pixel-height>
+               <xocs:pixel-width>259</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr1/THUMBNAIL/image/gif/86944eaa0a08c6ac781592997ff8583f/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr1/THUMBNAIL/image/gif/86944eaa0a08c6ac781592997ff8583f/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2018</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>60</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr2/DOWNSAMPLED/image/jpeg/9a81893c4dba37e3b3ea8d20ee96aad8/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr2/DOWNSAMPLED/image/jpeg/9a81893c4dba37e3b3ea8d20ee96aad8/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27891</xocs:filesize>
+               <xocs:pixel-height>400</xocs:pixel-height>
+               <xocs:pixel-width>255</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr2/THUMBNAIL/image/gif/2eb4c18ba968d08e6dabc670d701578c/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr2/THUMBNAIL/image/gif/2eb4c18ba968d08e6dabc670d701578c/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2098</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>59</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr3/DOWNSAMPLED/image/jpeg/212cbf33dac5102c7df26118ad9de0bb/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr3/DOWNSAMPLED/image/jpeg/212cbf33dac5102c7df26118ad9de0bb/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39694</xocs:filesize>
+               <xocs:pixel-height>317</xocs:pixel-height>
+               <xocs:pixel-width>489</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311505002096-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311505002096/gr3/THUMBNAIL/image/gif/01350fb763dd67abded12bd1c70015b2/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311505002096/gr3/THUMBNAIL/image/gif/01350fb763dd67abded12bd1c70015b2/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2847</xocs:filesize>
+               <xocs:pixel-height>81</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.0">
+         <item-info>
+            <jid>NUMA</jid>
+            <aid>41768</aid>
+            <ce:pii>S0022-3115(05)00209-6</ce:pii>
+            <ce:doi>10.1016/j.jnucmat.2005.04.026</ce:doi>
+            <ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Experimental X-ray reduced intensity functions <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>) and correlation functions <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) of molten UCl<ce:inf loc="post">3</ce:inf>. Oscillation in the <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>) and height of the 1st peak in the <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) were reduced by using the damping factor <ce:cross-ref refid="bib3">[3]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Simulated X-ray reduced intensity functions <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>) and correlation functions <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) of molten UCl<ce:inf loc="post">3</ce:inf> obtained from the RIM and the PIM simulations.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Total correlation function <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) and partial correlation functions <ce:italic>G</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>ij</ce:italic>
+                     </ce:inf>(<ce:italic>r</ce:italic>) obtained from (a) the RIM and (b) the PIM simulations.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Molecular graphic snapshots of the local coordination structure in the (a) RIM and (b) PIM simulations of molten UCl<ce:inf loc="post">3</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Running coordination number of U–Cl pair from the PIM simulation of molten UCl<ce:inf loc="post">3</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Diffusion coefficients of U<ce:sup loc="post">3+</ce:sup> and Cl<ce:sup loc="post">−</ce:sup> ions in the RIM and the PIM simulations of molten UCl<ce:sup loc="post">3</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Electrical conductivities and shear viscosities of molten UCl<ce:inf loc="post">3</ce:inf> obtained from mean-square displacements of charge densities in the RIM and the PIM simulations.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="tbl1" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Potential parameters for UCl<ce:inf loc="post">3</ce:inf> system</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ion pair</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>a</italic>
+                           <inf loc="post">
+                              <italic>ij</italic>
+                           </inf>/a.u.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>B</italic>
+                           <inf loc="post">
+                              <italic>ij</italic>
+                           </inf>/a.u.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msubsup>
+                                    <mml:mrow>
+                                       <mml:mi>C</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>6</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">ij</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msubsup>
+                              </mml:mrow>
+                           </mml:math>/a.u.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <mml:math altimg="si2.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msubsup>
+                                    <mml:mrow>
+                                       <mml:mi>C</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>8</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">ij</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msubsup>
+                              </mml:mrow>
+                           </mml:math>/a.u.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>b</italic>/a.u.</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">U<sup loc="post">3+</sup>–U<sup loc="post">3+</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">47.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">U<sup loc="post">3+</sup>–Cl<sup loc="post">−</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">400.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">97.22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">600.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.258</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cl<sup loc="post">−</sup>–Cl<sup loc="post">−</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">222.26</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7455.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="tbl2" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Cubic cell size at each calculated temperature</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="char" char="."/>
+                  <colspec colname="col3" align="char" char="."/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>T</italic> (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Density (g/cm<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cell length (Å)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1123</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.4337</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">39.7401</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.5481</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">40.0789</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1300</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.3958</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">40.5363</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1400</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.2436</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">41.0153</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>X-ray diffraction and molecular dynamics simulation studies of molten uranium chloride</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Y.</ce:given-name>
+                  <ce:surname>Okamoto</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P.A.</ce:given-name>
+                  <ce:surname>Madden</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>K.</ce:given-name>
+                  <ce:surname>Minato</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Materials Science, Japan Atomic Energy Research Institute, Tokai-mura, Naka-gun, Ibaraki 319-1195, Japan</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Physical and Theoretical Chemistry Laboratory, Oxford University, South Parks Road, Oxford OX1 3QZ, UK</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +81 29 282 5858; fax: +81 29 282 5922.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author" xml:lang="en"><ce:abstract-sec>
+                  <ce:simple-para view="all">The structure of molten UCl<ce:inf loc="post">3</ce:inf> at 1200<ce:hsp sp="0.25"/>K was studied by high-temperature X-ray diffraction and molecular dynamics simulation. The XRD data was reproduced by the simulation with a polarizable ionic model. The nearest U<ce:sup loc="post">3+</ce:sup>–Cl<ce:sup loc="post">−</ce:sup> distance was 2.85<ce:hsp sp="0.25"/>Å with coordination number 8.0, implying that the 8-fold structure (UCl<ce:inf loc="post">8</ce:inf>)<ce:sup loc="post">5−</ce:sup> is predominant in the melt – in contradiction to earlier suggestions of octahedral coordination. The potential model, which had been optimized by comparison with the structural data, was also found to reproduce the experimental information on transport properties like the diffusion coefficient, electrical conductivity and shear viscosity.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="idt">
+               <ce:section-title>IDT</ce:section-title>
+               <ce:keyword>
+                  <ce:text>M0200</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>U0200</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>X0100</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords class="pacs">
+               <ce:section-title>PACS</ce:section-title>
+               <ce:keyword>
+                  <ce:text>61.20.Q</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>61.20.J</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Molten uranium trichloride UCl<ce:inf loc="post">3</ce:inf> plays an important role in the pyrochemical reprocessing of spent nuclear fuels <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. In the electrorefining process, uranium in the spent fuel is usually in the chemical form of trichloride: UCl<ce:inf loc="post">3</ce:inf>. We have speculated that the structures and physical properties of molten actinide trichlorides like UCl<ce:inf loc="post">3</ce:inf> are similar to those of rare earth trichlorides. In particular, molten LaCl<ce:inf loc="post">3</ce:inf> has been thought to be a surrogate material for molten UCl<ce:inf loc="post">3</ce:inf>, since the size of the trivalent La<ce:sup loc="post">3+</ce:sup> ion is almost the same as that of the U<ce:sup loc="post">3+</ce:sup> ion. We have previously reported that the similarity of the X-ray diffraction of molten LaCl<ce:inf loc="post">3</ce:inf> and UCl<ce:inf loc="post">3</ce:inf> suggests that the structural parameters of molten UCl<ce:inf loc="post">3</ce:inf> are very close to those of molten LaCl<ce:inf loc="post">3</ce:inf> 
+                     <ce:cross-ref refid="bib3">[3]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Recently, we successfully simulated the XRD data of molten LaCl<ce:inf loc="post">3</ce:inf> by introducing polarization effect of Cl<ce:sup loc="post">−</ce:sup> ion <ce:cross-refs refid="bib4 bib5">[4,5]</ce:cross-refs>. This simulation model had previously been shown to reproduce the neutron diffraction data on LaCl<ce:inf loc="post">3</ce:inf> 
+                     <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. In the present work, the structure of molten UCl<ce:inf loc="post">3</ce:inf> was studied by reanalysis of the XRD data and compared with a molecular dynamics (MD) simulation with a polarizable ionic interaction model (PIM) derived from that used in the LaCl<ce:inf loc="post">3</ce:inf> work by a small change in the cation size.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>XRD and MD</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>XRD data analysis</ce:section-title>
+                     <ce:para view="all">The raw XRD data <ce:cross-ref refid="bib3">[3]</ce:cross-ref> of molten UCl<ce:inf loc="post">3</ce:inf> was analyzed again in the present work. The XRD measurement and data analysis procedure were described in Refs. <ce:cross-refs refid="bib3 bib6">[3,6]</ce:cross-refs>. In the previous study, a damping factor of exponential function exp(−<ce:italic>bQ</ce:italic>
+                        <ce:sup loc="post">2</ce:sup>) was used in the Fourier transformation of X-ray reduced intensity function <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>). The damping factor has been frequently used in many diffraction data analyses, since it is useful to remove spurious oscillations in real-space functions like the correlation function and radial distribution function, which are obtained from the reduced intensity function by Fourier transformation. In most XRD experiments, except for those carried out at synchrotron radiation facilities, the maximum <ce:italic>Q</ce:italic> value is not very large. For example, typical <ce:italic>Q</ce:italic>
+                        <ce:inf loc="post">max</ce:inf> using Mo<ce:hsp sp="0.12"/>Kα radiation is usually around 15.0<ce:hsp sp="0.25"/>Å<ce:sup loc="post">−1</ce:sup>, while that from pulse neutron diffraction it is frequently over 30<ce:hsp sp="0.25"/>Å<ce:sup loc="post">−1</ce:sup>. The damping factor is used to reduce a truncation effect of the small <ce:italic>Q</ce:italic>
+                        <ce:inf loc="post">max</ce:inf> in the Fourier transformation process to obtain the real-space structural information. In the earlier study of LaCl<ce:inf loc="post">3</ce:inf>, we found that the introduction of the damping factor was responsible for an inconsistency between structural information derived from the neutron and X-ray studies; in particular, different coordination numbers were found from the two sources and this was traced to the deformation of the radial distribution functions caused by the damping. In the present work, we compare the simulation results with the experimental data without the use of damping factors. Other analytical procedures are almost the same as those in the previous analysis.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>MD simulations</ce:section-title>
+                     <ce:para view="all">Molecular dynamics simulations were performed by using two models. In the rigid ionic model (RIM) simulation, all ions are rigid and unpolarizable. On the other hand, the effects of the induced dipoles caused by polarization of the Cl<ce:sup loc="post">−</ce:sup> ions are considered <ce:cross-ref refid="bib4">[4]</ce:cross-ref> in the PIM simulation. At first, potential parameter was fixed to reproduce the experimental XRD data. In this process, the relationship between the structures of UCl<ce:inf loc="post">3</ce:inf> and LaCl<ce:inf loc="post">3</ce:inf> is clarified. In the next step, some further physical properties were calculated by the MD simulations and compared with other experimental information.</ce:para>
+                     <ce:para view="all">The interionic interaction used in the simulation was based on the Born–Mayer type potential<ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si3.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>ϕ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">ij</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:mi>r</mml:mi>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>Z</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>i</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>Z</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>j</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>r</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi>e</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>B</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">ij</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mi mathvariant="normal">exp</mml:mi>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>α</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">ij</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mi>r</mml:mi>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mi>a</mml:mi>
+                                 <mml:munder>
+                                    <mml:mrow>
+                                       <mml:mo>∑</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>n</mml:mi>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mn>6</mml:mn>
+                                       <mml:mtext>,</mml:mtext>
+                                       <mml:mn>8</mml:mn>
+                                    </mml:mrow>
+                                 </mml:munder>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msubsup>
+                                          <mml:mrow>
+                                             <mml:mi>C</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="italic">ij</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>n</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msubsup>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msup>
+                                          <mml:mrow>
+                                             <mml:mi>r</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>n</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msup>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mi>r</mml:mi>
+                                 <mml:mtext>,</mml:mtext>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>Z</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>i</ce:italic>
+                        </ce:inf> is the formal charge of ion <ce:italic>i</ce:italic>. The terms in <mml:math altimg="si4.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msubsup>
+                                 <mml:mrow>
+                                    <mml:mi>C</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mn>6</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="italic">ij</mml:mi>
+                                 </mml:mrow>
+                              </mml:msubsup>
+                           </mml:mrow>
+                        </mml:math>and <mml:math altimg="si5.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msubsup>
+                                 <mml:mrow>
+                                    <mml:mi>C</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mn>8</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="italic">ij</mml:mi>
+                                 </mml:mrow>
+                              </mml:msubsup>
+                           </mml:mrow>
+                        </mml:math> show dispersion effects between ions <ce:italic>i</ce:italic> and <ce:italic>j</ce:italic>. This potential is supplemented by an account of anion polarization effects, as described in Ref. <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. In the present work, almost the same potential parameters as for molten LaCl<ce:inf loc="post">3</ce:inf> 
+                        <ce:cross-refs refid="bib5 bib7">[5,7]</ce:cross-refs> were used, since we confirmed the XRD data of molten UCl<ce:inf loc="post">3</ce:inf> was close to that of molten LaCl<ce:inf loc="post">3</ce:inf> 
+                        <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Only the <ce:italic>B</ce:italic>
+                        <ce:inf loc="post">U–Cl</ce:inf> parameter, which gives the amplitude of the short-range repulsion between cation and anion, was modified to reproduce the XRD data of molten UCl<ce:inf loc="post">3</ce:inf>. This change corresponds to a small difference of the ionic size of La and U. The anion polarization is determined by the Cl<ce:sup loc="post">−</ce:sup> ion polarizability <ce:italic>σ</ce:italic>
+                        <ce:inf loc="post">−</ce:inf> and the induction damping parameter <ce:italic>b</ce:italic>
+                        <ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si6.gif" overflow="scroll">
+                                 <mml:mi>b</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>c</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>σ</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mo>+</mml:mo>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>+</mml:mo>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>σ</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mo>-</mml:mo>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mtext>,</mml:mtext>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where the constant <ce:italic>c</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7.42 is as used in MCl<ce:inf loc="post">2</ce:inf> systems <ce:cross-ref refid="bib4">[4]</ce:cross-ref> and <ce:italic>σ</ce:italic>
+                        <ce:inf loc="post">+</ce:inf> and <ce:italic>σ</ce:italic>
+                        <ce:inf loc="post">−</ce:inf> are the ionic radii. The polarizabilities <ce:italic>α</ce:italic>
+                        <ce:inf loc="post">+</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10 a.u. and <ce:italic>α</ce:italic>
+                        <ce:inf loc="post">−</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>20 a.u. were as used in the simulation of molten LaCl<ce:inf loc="post">3</ce:inf> 
+                        <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. All parameters of the pair potential and the polarization model are listed in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>.</ce:para>
+                     <ce:para view="all">The MD simulations were carried out by using 2048 ions (512 U<ce:sup loc="post">3+</ce:sup> and 1536 Cl<ce:sup loc="post">−</ce:sup> ions) system with the density data of Desyatnik et al. <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. The calculated temperature and cell size in the simulations are listed in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>. The density at higher temperature was calculated by applying the corresponding states law <ce:cross-ref refid="bib9">[9]</ce:cross-ref> to the experimental density data. The system was initially annealed for 10<ce:sup loc="post">5</ce:sup> MD steps at 3000<ce:hsp sp="0.25"/>K and cooled to the prescribed temperature using more than 2<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">5</ce:sup> MD steps. Then we collected positional data for 10<ce:sup loc="post">6</ce:sup> MD steps to obtain structural data. The X-ray reduced intensity function <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>) was calculated by a reciprocal Fourier transform of partial <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) functions. Dynamical properties like diffusion coefficient, electrical conductivity and shear viscosity were calculated from more than 5<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">6</ce:sup> MD steps accumulations.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>XRD result</ce:section-title>
+                     <ce:para view="all">The X-ray reduced intensity function <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>) and correlation function <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) analyzed without damping factors are shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>(a) and (b), together with the previous ones with the damping factor. There is no significant signal at higher <ce:italic>Q</ce:italic> region in the old (damped) <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>) function, while oscillation remains at <ce:italic>Q</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>15<ce:hsp sp="0.25"/>Å<ce:sup loc="post">−1</ce:sup> in the present <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>) function. Therefore the <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) function in the present work is slightly noisy as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(b). The 1st main peak at <ce:italic>r</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.85<ce:hsp sp="0.25"/>Å in the <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) function is assigned to the nearest U<ce:sup loc="post">3+</ce:sup>–Cl<ce:sup loc="post">−</ce:sup> correlation. The coordination number N<ce:inf loc="post">U–Cl</ce:inf> with the cut-off distance <ce:italic>r</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3.5<ce:hsp sp="0.25"/>Å is 8.0. This value may be slightly overestimated, since it contains small contribution from Cl<ce:sup loc="post">−</ce:sup>–Cl<ce:sup loc="post">−</ce:sup> correlation. However, the contribution from Cl<ce:sup loc="post">−</ce:sup>–Cl<ce:sup loc="post">−</ce:sup>pair is much less than the U<ce:sup loc="post">3+</ce:sup>–Cl<ce:sup loc="post">−</ce:sup> contribution. We can conclude the coordination number is clearly larger than the previously reported result N<ce:inf loc="post">U–Cl</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>6 <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Adya et al. <ce:cross-ref refid="bib10">[10]</ce:cross-ref> also reported by the neutron diffraction study that the coordination number was 7.05 for the nearest U<ce:sup loc="post">3+</ce:sup>–Cl<ce:sup loc="post">−</ce:sup> pair. It can be seen that the local structure of molten UCl<ce:inf loc="post">3</ce:inf> is not necessarily the 6-fold octahedral structure (MCl<ce:inf loc="post">6</ce:inf>)<ce:sup loc="post">3−</ce:sup> which has been proposed from the Raman spectroscopy <ce:cross-ref refid="bib11">[11]</ce:cross-ref> and the earlier XRD <ce:cross-ref refid="bib12">[12]</ce:cross-ref> investigations of molten lanthanide chlorides. The broad 2nd peak at <ce:italic>r</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>4.5–5.5<ce:hsp sp="0.25"/>Å is mainly assigned to the first U<ce:sup loc="post">3+</ce:sup>–U<ce:sup loc="post">3+</ce:sup> and the second U<ce:sup loc="post">3+</ce:sup>–Cl<ce:sup loc="post">−</ce:sup> correlations.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>MD simulation of structure</ce:section-title>
+                     <ce:para view="all">The X-ray reduced intensity function <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>) and the correlation function <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) calculated from the RIM and PIM simulations are shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>. The RIM simulation shows significant disagreements at lower <ce:italic>Q</ce:italic> region in the <ce:italic>Qi</ce:italic>(<ce:italic>Q</ce:italic>) function and at the second peak in the <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) function. The partial correlation functions <ce:italic>G</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>ij</ce:italic>
+                        </ce:inf>(<ce:italic>r</ce:italic>) calculated from the RIM and the PIM simulations are plotted in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>(a) and (b), respectively. The disagreement in the RIM simulation is mainly due to overestimation of the first U<ce:sup loc="post">3+</ce:sup>–U<ce:sup loc="post">3+</ce:sup> correlation. In addition, the second peak position in the RIM simulation is clearly longer than the experimental result. Typical snapshots of molten UCl<ce:inf loc="post">3</ce:inf> local structure in the simulations are shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>(a) and (b). In the RIM simulation, bending of Cl–U–Cl bridge is not so large because of strong repulsion between trivalent U<ce:sup loc="post">3+</ce:sup> ions. On the other hand, the repulsion is screened by induced dipole of polarized Cl<ce:sup loc="post">−</ce:sup> ions in the PIM simulation. Therefore, bending of the bridge is relatively large as shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(b). It results in the shorter U<ce:sup loc="post">3+</ce:sup>–U<ce:sup loc="post">3+</ce:sup> distance and broadening of the first peak suggesting weaker correlation.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/> shows the partial correlation function and running coordination number (RCN) of a U<ce:sup loc="post">3+</ce:sup>–Cl<ce:sup loc="post">−</ce:sup> pair in the PIM simulation. The first minimum of the <ce:italic>G</ce:italic>
+                        <ce:inf loc="post">U–Cl</ce:inf>(<ce:italic>r</ce:italic>) function after the first main peak occurs at about 3.85<ce:hsp sp="0.25"/>Å. The RCN shows 8.1 at 3.85<ce:hsp sp="0.25"/>Å. This is almost the same as that obtained in the XRD analysis. If the coordination number is 6, the corresponding cut-off distance would have to be set at <ce:italic>r</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3.1<ce:hsp sp="0.25"/>Å. It is an unnatural cut-off distance, because the value of the <ce:italic>G</ce:italic>(<ce:italic>r</ce:italic>) function at <ce:italic>r</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3.1<ce:hsp sp="0.25"/>Å is 2.7. It is concluded that the local structure of molten UCl<ce:inf loc="post">3</ce:inf> is 8-fold coordination (UCl<ce:inf loc="post">8</ce:inf>)<ce:sup loc="post">5−</ce:sup>. It is close to that of molten lanthanide trichloride having a big cation like La<ce:sup loc="post">3+</ce:sup>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Simulations of transport properties</ce:section-title>
+                     <ce:para view="all">In the next step, some transport properties of molten UCl<ce:inf loc="post">3</ce:inf> were calculated by using the structurally optimized PIM simulation. Calculations using the RIM were also performed for comparison. The diffusion coefficient was calculated by the Einstein formula from root mean-square displacement of ionic positions <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. The electrical conductivity was obtained from the mean-square displacement of the charge density <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. The shear viscosity was calculated by the Green–Kubo formula from the off-diagonal element of the stress tensor correlation function <ce:cross-ref refid="bib14">[14]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">Diffusion coefficients of U<ce:sup loc="post">3+</ce:sup> and Cl<ce:sup loc="post">−</ce:sup> ions in molten UCl<ce:inf loc="post">3</ce:inf> are plotted in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/>. The PIM simulation shows much larger values than the RIM simulation. The diffusion coefficient of U<ce:sup loc="post">3+</ce:sup> ion at 1123<ce:hsp sp="0.25"/>K in the RIM simulation was 5.36<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−7</ce:sup>
+                        <ce:hsp sp="0.25"/>cm<ce:sup loc="post">2</ce:sup>/s, while that in the PIM simulation was 7.70<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−6</ce:sup>
+                        <ce:hsp sp="0.25"/>cm<ce:sup loc="post">2</ce:sup>/s. Ions in the PIM have higher mobility. Electrical conductivities of molten UCl<ce:inf loc="post">3</ce:inf> derived from the root-means displacement of the charge density are shown in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/>, together with the experimental value by Bystraj et al. <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. The PIM simulation result is in excellent agreement with the experimental information, though the comparison is limited to lower temperatures. The shear viscosity of molten UCl<ce:inf loc="post">3</ce:inf> are plotted in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>. The dashed line in the figure is an extrapolation based on the corresponding-states law <ce:cross-ref refid="bib9">[9]</ce:cross-ref> of the experimental data <ce:cross-ref refid="bib8">[8]</ce:cross-ref>. At lower temperature, the simulated value is slightly larger than the experimental reference. On the other hand, the extrapolated experimental line is nicely reproduced by the simulation. Therefore we can conclude the simulated transport properties in the PIM simulation are in good agreement with the reference values, despite the fact that no dynamical information was used in the potential parameterization.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">The structure of molten UCl<ce:inf loc="post">3</ce:inf> was studied by analyzing the XRD data using the MD simulations. The XRD result was nicely reproduced by the MD simulation with a polarizable ionic model, derived in a physically transparent way from similar models used for the lanthanide chlorides. Some transport properties of molten UCl<ce:inf loc="post">3</ce:inf> were calculated by using the structurally optimized MD simulation. The electrical conductivity and shear viscosity obtained in the simulations are in good agreement with the experimental data. It would seem that this model could be used to examine other properties of UCl<ce:inf loc="post">3</ce:inf> not accessible by experiment.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">Authors gratefully acknowledge the interest and encouragement of Dr Z. Yoshida and H. Ikezoe in JAERI. The MD calculations were performed by Fujitsu supercomputer VPP5000/64 system at the Japan Atomic Energy Research Institute. Authors also thank the Center for promotion of Computational Science and Engineering (CCSE) for close cooperation in calculations using the supercomputer.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Kobayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Minato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:issue-nr>Suppl. 3</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>624</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Shirai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Iwai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sakamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tanaka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>271–273</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>685</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Okamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Kobayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ogawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>271–273</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>355</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hutchinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>811</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Okamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Sol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>448</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Okamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ogawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1569</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hutchinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6609</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.N.</ce:given-name>
+                                 <ce:surname>Desyatnik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Katyshev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Raspopin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yu.F.</ce:given-name>
+                                 <ce:surname>Chervinskii</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Zhur. Prikl. Khim.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>765</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Janz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Hasen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Thermophys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>159</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Adya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Matsuura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Takagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Rycerz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gaune-Escard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>P.C.</ce:given-name>
+                                    <ce:surname>Trulove</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>H.C.</ce:given-name>
+                                    <ce:surname>De Long</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>G.R.</ce:given-name>
+                                    <ce:surname>Stafford</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Deki</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of the 12th International Symposium on Molten Salts, Honolulu, USA</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>The Electrochemical Society</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.N.</ce:given-name>
+                                 <ce:surname>Papatheodorou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Inorg. Nucl. Chem. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>483</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Ohno</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>K.</ce:given-name>
+                                    <ce:surname>Igarashi</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>N.</ce:given-name>
+                                    <ce:surname>Umesaki</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>K.</ce:given-name>
+                                    <ce:surname>Furukawa</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>X-Ray Diffraction Analysis of Ionic Liquids</sb:maintitle>
+                              </sb:title>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Molten Salt Forum</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>vol. 3</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1994</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Trans Tech Publications</sb:name>
+                                 <sb:location>Switzerland</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Morgan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1402</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Okamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ogawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>205–207</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>139</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Bystraj</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.N.</ce:given-name>
+                                 <ce:surname>Desyatnik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.M.</ce:given-name>
+                                 <ce:surname>Opletaev</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Atom. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>513</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

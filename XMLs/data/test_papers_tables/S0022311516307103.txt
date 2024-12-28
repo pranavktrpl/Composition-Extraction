@@ -1,0 +1,127 @@
+Table 1:
+DOI: 10.1016/j.jnucmat.2017.01.002
+Caption: Equilibrium properties of 
+
+F
+
+
+4
+-
+
+
+3
+m
+
+-PuOH. The lattice parameter 
+
+
+a
+0
+
+
+, volume 
+
+
+V
+0
+
+
+, bulk modulus B, and pressure derivative of the bulk modulus 
+
+B
+'
+
+, band gap 
+D
+, and magnetic moment of Pu atom 
+
+
+m
+
+mag
+
+
+
+ are reported for LDA, GGA, LDA+U, and GGA+U. The experimental values and previous theoretical results are also shown for comparison.
+Footer: {}
+Table Data:
+Properties	LDA	GGA	LDA+U	GGA+U	Exp.																																																																																																																																																																																																																																																																																																																																																																																																										
+a 0    (A)	a 0	a 0	a 0	a	0	5.259	5.377	5.409	5.531	5.401 [26]	[26]																																																																																																																																																																																																																																																																																																																																																																																																				
+a 0    (A) [32,33]	a 0	a 0	a 0	a	0	[32,33]	5.24	5.39																																																																																																																																																																																																																																																																																																																																																																																																							
+V 0    (A3)	V 0	V 0	V 0	V	0	3	36.35	38.85	39.57	42.31	39.39																																																																																																																																																																																																																																																																																																																																																																																																				
+B 0    (GPa)	B 0	B 0	B 0	B	0	150	123	131	111																																																																																																																																																																																																																																																																																																																																																																																																						
+B 0    (GPa) [32,33]	B 0	B 0	B 0	B	0	[32,33]	122	99																																																																																																																																																																																																																																																																																																																																																																																																							
+B '	B '	B '	B	'	4.4	4.4	4.1	4.1																																																																																																																																																																																																																																																																																																																																																																																																							
+D  (eV)	D	D	0.0	0.0	1.298	1.683																																																																																																																																																																																																																																																																																																																																																																																																									
+m  mag     (   m B   )	m  mag	m  mag	m  mag	m	mag	mag	m B	m B	m B	m	B	4.901	4.948	4.984	5.027																																																																																																																																																																																																																																																																																																																																																																																																
+
+Table 2:
+DOI: 10.1016/j.jnucmat.2017.01.002
+Caption: Mechanical properties of 
+
+F
+
+
+4
+-
+
+
+3
+m
+
+-PuOH. The elastic constants (
+
+
+c
+
+11
+
+
+
+, 
+
+
+c
+
+12
+
+
+
+, and 
+
+
+c
+
+44
+
+
+
+), bulk modulus (B), Shear modulus (G), Young's modulus (E), Possion's ratio (n), Debye's temperature (
+
+
+th
+D
+
+
+) are reported for LDA, GGA, LDA+U, and GGA+U.
+Footer: {}
+Table Data:
+Method	c  11     (GPa)	c  11	c  11	c  11	c	11	11		c  12     (GPa)	c  12	c  12	c  12	c	12	12		c  44     (GPa)	c  44	c  44	c  44	c	44	44		B (GPa)	B		G (GPa)	G		E (GPa)	E		n (GPa)	n		th D    (K)	th D	th D	th D	th	D																																																																																																																																																																																																																																																																																																																																																																					
+LDA	221	115	79	150	67	176	0.31	344																																																																																																																																																																																																																																																																																																																																																																																																							
+GGA	194	88	72	123	64	163	0.28	337																																																																																																																																																																																																																																																																																																																																																																																																							
+LDA+U	198	96	77	130	65	168	0.28	343																																																																																																																																																																																																																																																																																																																																																																																																							
+GGA+U	182	73	64	109	60	152	0.27	332																																																																																																																																																																																																																																																																																																																																																																																																							
+
+Table 3:
+DOI: 10.1016/j.jnucmat.2017.01.002
+Caption: Formation energies of PuOH and reaction energies for the oxidation of PuOH and PuOH+Pu for LDA/GGA and LDA/GGA+U. The experimental values and previous theoretical results are also shown for comparison. All the energies are in units of eV per PuOH formula unit.
+Footer: {}
+Table Data:
+	LDA	GGA	LDA+U	GGA+U	Exp. [29]	[29]																																																																																																																																																																																																																																																																																																																																																																																																									
+E f  PuOH	E f  PuOH	E f  PuOH	E f  PuOH	E	f	PuOH	PuOH	-6.71	-6.30	-7.04	-6.34	-6.55																																																																																																																																																																																																																																																																																																																																																																																																			
+E f  PuOH     [32,33]	E f  PuOH	E f  PuOH	E f  PuOH	E	f	PuOH	PuOH	[32,33]	-7.59	-6.15																																																																																																																																																																																																																																																																																																																																																																																																					
+E r  PuOH -   Pu  2   O 3	E r  PuOH -   Pu  2   O 3	E r  PuOH -   Pu  2   O 3	E r  PuOH -   Pu  2   O 3	E	r	PuOH -   Pu  2   O 3	PuOH	-	Pu  2	Pu	Pu	2	O 3	O	3	-1.92	-1.89	-2.01	-1.97	-2.04																																																																																																																																																																																																																																																																																																																																																																																											
+E r  PuOH -   PuO  2	E r  PuOH -   PuO  2	E r  PuOH -   PuO  2	E r  PuOH -   PuO  2	E	r	PuOH -   PuO  2	PuOH	-	PuO  2	PuO	PuO	2	-5.79	-5.05	-5.69	-4.90	-5.46																																																																																																																																																																																																																																																																																																																																																																																														
+E r  PuOH + Pu -   Pu  2   O 3	E r  PuOH + Pu -   Pu  2   O 3	E r  PuOH + Pu -   Pu  2   O 3	E r  PuOH + Pu -   Pu  2   O 3	E	r	PuOH + Pu -   Pu  2   O 3	PuOH	+	Pu	-	Pu  2	Pu	Pu	2	O 3	O	3	-2.68	-2.54	-2.82	-2.53	-2.69																																																																																																																																																																																																																																																																																																																																																																																									
+E r  PuOH + Pu -   PuO  2	E r  PuOH + Pu -   PuO  2	E r  PuOH + Pu -   PuO  2	E r  PuOH + Pu -   PuO  2	E	r	PuOH + Pu -   PuO  2	PuOH	+	Pu	-	PuO  2	PuO	PuO	2	-5.10	-4.44	-5.06	-4.20	-4.81																																																																																																																																																																																																																																																																																																																																																																																												
+

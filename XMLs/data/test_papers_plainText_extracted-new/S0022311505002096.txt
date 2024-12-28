@@ -1,0 +1,737 @@
+Title:
+Proceedings of the 11th International Symposium on Thermodynamics of Nuclear Materials
+
+Abstract:
+The structure of molten UCl3 at 1200K was studied by high-temperature X-ray diffraction and molecular dynamics simulation. The XRD data was reproduced by the simulation with a polarizable ionic model. The nearest U3+–Cl− distance was 2.85Å with coordination number 8.0, implying that the 8-fold structure (UCl8)5− is predominant in the melt – in contradiction to earlier suggestions of octahedral coordination. The potential model, which had been optimized by comparison with the structural data, was also found to reproduce the experimental information on transport properties like the diffusion coefficient, electrical conductivity and shear viscosity.
+
+Keywords:
+M0200, U0200, X0100, 61.20.Q, 61.20.J
+
+Acknowledgements:
+Authors gratefully acknowledge the interest and encouragement of Dr Z. Yoshida and H. Ikezoe in JAERI. The MD calculations were performed by Fujitsu supercomputer VPP5000/64 system at the Japan Atomic Energy Research Institute. Authors also thank the Center for promotion of Computational Science and Engineering (CCSE) for close cooperation in calculations using the supercomputer.
+
+IDT:
+M0200
+U0200
+X0100
+
+PACS:
+61.20.Q
+61.20.J
+
+Introduction:
+Molten uranium trichloride UCl3 plays an important role in the pyrochemical reprocessing of spent nuclear fuels [1,2]. In the electrorefining process, uranium in the spent fuel is usually in the chemical form of trichloride: UCl3. We have speculated that the structures and physical properties of molten actinide trichlorides like UCl3 are similar to those of rare earth trichlorides. In particular, molten LaCl3 has been thought to be a surrogate material for molten UCl3, since the size of the trivalent La3+ ion is almost the same as that of the U3+ ion. We have previously reported that the similarity of the X-ray diffraction of molten LaCl3 and UCl3 suggests that the structural parameters of molten UCl3 are very close to those of molten LaCl3 
+                     [3].
+Recently, we successfully simulated the XRD data of molten LaCl3 by introducing polarization effect of Cl− ion [4,5]. This simulation model had previously been shown to reproduce the neutron diffraction data on LaCl3 
+                     [5]. In the present work, the structure of molten UCl3 was studied by reanalysis of the XRD data and compared with a molecular dynamics (MD) simulation with a polarizable ionic interaction model (PIM) derived from that used in the LaCl3 work by a small change in the cation size.
+
+XRD and MD:
+2.1
+                     XRD data analysis
+                     The raw XRD data [3] of molten UCl3 was analyzed again in the present work. The XRD measurement and data analysis procedure were described in Refs. [3,6]. In the previous study, a damping factor of exponential function exp(−bQ
+                        2) was used in the Fourier transformation of X-ray reduced intensity function Qi(Q). The damping factor has been frequently used in many diffraction data analyses, since it is useful to remove spurious oscillations in real-space functions like the correlation function and radial distribution function, which are obtained from the reduced intensity function by Fourier transformation. In most XRD experiments, except for those carried out at synchrotron radiation facilities, the maximum Q value is not very large. For example, typical Q
+                        max using MoKα radiation is usually around 15.0Å−1, while that from pulse neutron diffraction it is frequently over 30Å−1. The damping factor is used to reduce a truncation effect of the small Q
+                        max in the Fourier transformation process to obtain the real-space structural information. In the earlier study of LaCl3, we found that the introduction of the damping factor was responsible for an inconsistency between structural information derived from the neutron and X-ray studies; in particular, different coordination numbers were found from the two sources and this was traced to the deformation of the radial distribution functions caused by the damping. In the present work, we compare the simulation results with the experimental data without the use of damping factors. Other analytical procedures are almost the same as those in the previous analysis.
+2.2
+                     MD simulations
+                     Molecular dynamics simulations were performed by using two models. In the rigid ionic model (RIM) simulation, all ions are rigid and unpolarizable. On the other hand, the effects of the induced dipoles caused by polarization of the Cl− ions are considered [4] in the PIM simulation. At first, potential parameter was fixed to reproduce the experimental XRD data. In this process, the relationship between the structures of UCl3 and LaCl3 is clarified. In the next step, some further physical properties were calculated by the MD simulations and compared with other experimental information.
+                     The interionic interaction used in the simulation was based on the Born–Mayer type potential
+                           
+                              
+                                 
+                                    
+                                       ϕ
+                                    
+                                    
+                                       ij
+                                    
+                                 
+                                 (
+                                 r
+                                 )
+                                 =
+                                 
+                                    
+                                       
+                                          
+                                             Z
+                                          
+                                          
+                                             i
+                                          
+                                       
+                                       
+                                          
+                                             Z
+                                          
+                                          
+                                             j
+                                          
+                                       
+                                    
+                                    
+                                       r
+                                    
+                                 
+                                 
+                                    
+                                       e
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 +
+                                 
+                                    
+                                       B
+                                    
+                                    
+                                       ij
+                                    
+                                 
+                                 exp
+                                 (
+                                 -
+                                 
+                                    
+                                       α
+                                    
+                                    
+                                       ij
+                                    
+                                 
+                                 r
+                                 )
+                                 -
+                                 a
+                                 
+                                    
+                                       ∑
+                                    
+                                    
+                                       n
+                                       =
+                                       6
+                                       ,
+                                       8
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          
+                                             C
+                                          
+                                          
+                                             ij
+                                          
+                                          
+                                             n
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             r
+                                          
+                                          
+                                             n
+                                          
+                                       
+                                    
+                                 
+                                 r
+                                 ,
+                              
+                           
+                        where Z
+                        
+                           i
+                         is the formal charge of ion i. The terms in 
+                           
+                              
+                                 
+                                    C
+                                 
+                                 
+                                    6
+                                 
+                                 
+                                    ij
+                                 
+                              
+                           
+                        and 
+                           
+                              
+                                 
+                                    C
+                                 
+                                 
+                                    8
+                                 
+                                 
+                                    ij
+                                 
+                              
+                           
+                         show dispersion effects between ions i and j. This potential is supplemented by an account of anion polarization effects, as described in Ref. [4]. In the present work, almost the same potential parameters as for molten LaCl3 
+                        [5,7] were used, since we confirmed the XRD data of molten UCl3 was close to that of molten LaCl3 
+                        [3]. Only the B
+                        U–Cl parameter, which gives the amplitude of the short-range repulsion between cation and anion, was modified to reproduce the XRD data of molten UCl3. This change corresponds to a small difference of the ionic size of La and U. The anion polarization is determined by the Cl− ion polarizability σ
+                        − and the induction damping parameter b
+                        
+                           
+                              
+                                 b
+                                 =
+                                 
+                                    
+                                       c
+                                    
+                                    
+                                       
+                                          
+                                             σ
+                                          
+                                          
+                                             +
+                                          
+                                       
+                                       +
+                                       
+                                          
+                                             σ
+                                          
+                                          
+                                             -
+                                          
+                                       
+                                    
+                                 
+                                 ,
+                              
+                           
+                        where the constant c
+                        =7.42 is as used in MCl2 systems [4] and σ
+                        + and σ
+                        − are the ionic radii. The polarizabilities α
+                        +
+                        =10 a.u. and α
+                        −
+                        =20 a.u. were as used in the simulation of molten LaCl3 
+                        [7]. All parameters of the pair potential and the polarization model are listed in Table 1
+                        .
+                     The MD simulations were carried out by using 2048 ions (512 U3+ and 1536 Cl− ions) system with the density data of Desyatnik et al. [8]. The calculated temperature and cell size in the simulations are listed in Table 2
+                        . The density at higher temperature was calculated by applying the corresponding states law [9] to the experimental density data. The system was initially annealed for 105 MD steps at 3000K and cooled to the prescribed temperature using more than 2×105 MD steps. Then we collected positional data for 106 MD steps to obtain structural data. The X-ray reduced intensity function Qi(Q) was calculated by a reciprocal Fourier transform of partial G(r) functions. Dynamical properties like diffusion coefficient, electrical conductivity and shear viscosity were calculated from more than 5×106 MD steps accumulations.
+
+XRD data analysis:
+The raw XRD data [3] of molten UCl3 was analyzed again in the present work. The XRD measurement and data analysis procedure were described in Refs. [3,6]. In the previous study, a damping factor of exponential function exp(−bQ
+                        2) was used in the Fourier transformation of X-ray reduced intensity function Qi(Q). The damping factor has been frequently used in many diffraction data analyses, since it is useful to remove spurious oscillations in real-space functions like the correlation function and radial distribution function, which are obtained from the reduced intensity function by Fourier transformation. In most XRD experiments, except for those carried out at synchrotron radiation facilities, the maximum Q value is not very large. For example, typical Q
+                        max using MoKα radiation is usually around 15.0Å−1, while that from pulse neutron diffraction it is frequently over 30Å−1. The damping factor is used to reduce a truncation effect of the small Q
+                        max in the Fourier transformation process to obtain the real-space structural information. In the earlier study of LaCl3, we found that the introduction of the damping factor was responsible for an inconsistency between structural information derived from the neutron and X-ray studies; in particular, different coordination numbers were found from the two sources and this was traced to the deformation of the radial distribution functions caused by the damping. In the present work, we compare the simulation results with the experimental data without the use of damping factors. Other analytical procedures are almost the same as those in the previous analysis.
+
+MD simulations:
+Molecular dynamics simulations were performed by using two models. In the rigid ionic model (RIM) simulation, all ions are rigid and unpolarizable. On the other hand, the effects of the induced dipoles caused by polarization of the Cl− ions are considered [4] in the PIM simulation. At first, potential parameter was fixed to reproduce the experimental XRD data. In this process, the relationship between the structures of UCl3 and LaCl3 is clarified. In the next step, some further physical properties were calculated by the MD simulations and compared with other experimental information.
+The interionic interaction used in the simulation was based on the Born–Mayer type potential
+                           
+                              
+                                 
+                                    
+                                       ϕ
+                                    
+                                    
+                                       ij
+                                    
+                                 
+                                 (
+                                 r
+                                 )
+                                 =
+                                 
+                                    
+                                       
+                                          
+                                             Z
+                                          
+                                          
+                                             i
+                                          
+                                       
+                                       
+                                          
+                                             Z
+                                          
+                                          
+                                             j
+                                          
+                                       
+                                    
+                                    
+                                       r
+                                    
+                                 
+                                 
+                                    
+                                       e
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 +
+                                 
+                                    
+                                       B
+                                    
+                                    
+                                       ij
+                                    
+                                 
+                                 exp
+                                 (
+                                 -
+                                 
+                                    
+                                       α
+                                    
+                                    
+                                       ij
+                                    
+                                 
+                                 r
+                                 )
+                                 -
+                                 a
+                                 
+                                    
+                                       ∑
+                                    
+                                    
+                                       n
+                                       =
+                                       6
+                                       ,
+                                       8
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          
+                                             C
+                                          
+                                          
+                                             ij
+                                          
+                                          
+                                             n
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             r
+                                          
+                                          
+                                             n
+                                          
+                                       
+                                    
+                                 
+                                 r
+                                 ,
+                              
+                           
+                        where Z
+                        
+                           i
+                         is the formal charge of ion i. The terms in 
+                           
+                              
+                                 
+                                    C
+                                 
+                                 
+                                    6
+                                 
+                                 
+                                    ij
+                                 
+                              
+                           
+                        and 
+                           
+                              
+                                 
+                                    C
+                                 
+                                 
+                                    8
+                                 
+                                 
+                                    ij
+                                 
+                              
+                           
+                         show dispersion effects between ions i and j. This potential is supplemented by an account of anion polarization effects, as described in Ref. [4]. In the present work, almost the same potential parameters as for molten LaCl3 
+                        [5,7] were used, since we confirmed the XRD data of molten UCl3 was close to that of molten LaCl3 
+                        [3]. Only the B
+                        U–Cl parameter, which gives the amplitude of the short-range repulsion between cation and anion, was modified to reproduce the XRD data of molten UCl3. This change corresponds to a small difference of the ionic size of La and U. The anion polarization is determined by the Cl− ion polarizability σ
+                        − and the induction damping parameter b
+                        
+                           
+                              
+                                 b
+                                 =
+                                 
+                                    
+                                       c
+                                    
+                                    
+                                       
+                                          
+                                             σ
+                                          
+                                          
+                                             +
+                                          
+                                       
+                                       +
+                                       
+                                          
+                                             σ
+                                          
+                                          
+                                             -
+                                          
+                                       
+                                    
+                                 
+                                 ,
+                              
+                           
+                        where the constant c
+                        =7.42 is as used in MCl2 systems [4] and σ
+                        + and σ
+                        − are the ionic radii. The polarizabilities α
+                        +
+                        =10 a.u. and α
+                        −
+                        =20 a.u. were as used in the simulation of molten LaCl3 
+                        [7]. All parameters of the pair potential and the polarization model are listed in Table 1
+                        .
+The MD simulations were carried out by using 2048 ions (512 U3+ and 1536 Cl− ions) system with the density data of Desyatnik et al. [8]. The calculated temperature and cell size in the simulations are listed in Table 2
+                        . The density at higher temperature was calculated by applying the corresponding states law [9] to the experimental density data. The system was initially annealed for 105 MD steps at 3000K and cooled to the prescribed temperature using more than 2×105 MD steps. Then we collected positional data for 106 MD steps to obtain structural data. The X-ray reduced intensity function Qi(Q) was calculated by a reciprocal Fourier transform of partial G(r) functions. Dynamical properties like diffusion coefficient, electrical conductivity and shear viscosity were calculated from more than 5×106 MD steps accumulations.
+
+Results and discussion:
+3.1
+                     XRD result
+                     The X-ray reduced intensity function Qi(Q) and correlation function G(r) analyzed without damping factors are shown in Fig. 1
+                        (a) and (b), together with the previous ones with the damping factor. There is no significant signal at higher Q region in the old (damped) Qi(Q) function, while oscillation remains at Q
+                        =15Å−1 in the present Qi(Q) function. Therefore the G(r) function in the present work is slightly noisy as shown in Fig. 1(b). The 1st main peak at r
+                        =2.85Å in the G(r) function is assigned to the nearest U3+–Cl− correlation. The coordination number NU–Cl with the cut-off distance r
+                        =3.5Å is 8.0. This value may be slightly overestimated, since it contains small contribution from Cl−–Cl− correlation. However, the contribution from Cl−–Cl−pair is much less than the U3+–Cl− contribution. We can conclude the coordination number is clearly larger than the previously reported result NU–Cl
+                        =6 [3]. Adya et al. [10] also reported by the neutron diffraction study that the coordination number was 7.05 for the nearest U3+–Cl− pair. It can be seen that the local structure of molten UCl3 is not necessarily the 6-fold octahedral structure (MCl6)3− which has been proposed from the Raman spectroscopy [11] and the earlier XRD [12] investigations of molten lanthanide chlorides. The broad 2nd peak at r
+                        =4.5–5.5Å is mainly assigned to the first U3+–U3+ and the second U3+–Cl− correlations.
+3.2
+                     MD simulation of structure
+                     The X-ray reduced intensity function Qi(Q) and the correlation function G(r) calculated from the RIM and PIM simulations are shown in Fig. 2
+                        . The RIM simulation shows significant disagreements at lower Q region in the Qi(Q) function and at the second peak in the G(r) function. The partial correlation functions G
+                        
+                           ij
+                        (r) calculated from the RIM and the PIM simulations are plotted in Fig. 3
+                        (a) and (b), respectively. The disagreement in the RIM simulation is mainly due to overestimation of the first U3+–U3+ correlation. In addition, the second peak position in the RIM simulation is clearly longer than the experimental result. Typical snapshots of molten UCl3 local structure in the simulations are shown in Fig. 4
+                        (a) and (b). In the RIM simulation, bending of Cl–U–Cl bridge is not so large because of strong repulsion between trivalent U3+ ions. On the other hand, the repulsion is screened by induced dipole of polarized Cl− ions in the PIM simulation. Therefore, bending of the bridge is relatively large as shown in Fig. 4(b). It results in the shorter U3+–U3+ distance and broadening of the first peak suggesting weaker correlation.
+                     
+                        Fig. 5
+                         shows the partial correlation function and running coordination number (RCN) of a U3+–Cl− pair in the PIM simulation. The first minimum of the G
+                        U–Cl(r) function after the first main peak occurs at about 3.85Å. The RCN shows 8.1 at 3.85Å. This is almost the same as that obtained in the XRD analysis. If the coordination number is 6, the corresponding cut-off distance would have to be set at r
+                        =3.1Å. It is an unnatural cut-off distance, because the value of the G(r) function at r
+                        =3.1Å is 2.7. It is concluded that the local structure of molten UCl3 is 8-fold coordination (UCl8)5−. It is close to that of molten lanthanide trichloride having a big cation like La3+.
+3.3
+                     Simulations of transport properties
+                     In the next step, some transport properties of molten UCl3 were calculated by using the structurally optimized PIM simulation. Calculations using the RIM were also performed for comparison. The diffusion coefficient was calculated by the Einstein formula from root mean-square displacement of ionic positions [13]. The electrical conductivity was obtained from the mean-square displacement of the charge density [13]. The shear viscosity was calculated by the Green–Kubo formula from the off-diagonal element of the stress tensor correlation function [14].
+                     Diffusion coefficients of U3+ and Cl− ions in molten UCl3 are plotted in Fig. 6
+                        . The PIM simulation shows much larger values than the RIM simulation. The diffusion coefficient of U3+ ion at 1123K in the RIM simulation was 5.36×10−7
+                        cm2/s, while that in the PIM simulation was 7.70×10−6
+                        cm2/s. Ions in the PIM have higher mobility. Electrical conductivities of molten UCl3 derived from the root-means displacement of the charge density are shown in Fig. 7
+                        , together with the experimental value by Bystraj et al. [15]. The PIM simulation result is in excellent agreement with the experimental information, though the comparison is limited to lower temperatures. The shear viscosity of molten UCl3 are plotted in Fig. 7. The dashed line in the figure is an extrapolation based on the corresponding-states law [9] of the experimental data [8]. At lower temperature, the simulated value is slightly larger than the experimental reference. On the other hand, the extrapolated experimental line is nicely reproduced by the simulation. Therefore we can conclude the simulated transport properties in the PIM simulation are in good agreement with the reference values, despite the fact that no dynamical information was used in the potential parameterization.
+
+XRD result:
+The X-ray reduced intensity function Qi(Q) and correlation function G(r) analyzed without damping factors are shown in Fig. 1
+                        (a) and (b), together with the previous ones with the damping factor. There is no significant signal at higher Q region in the old (damped) Qi(Q) function, while oscillation remains at Q
+                        =15Å−1 in the present Qi(Q) function. Therefore the G(r) function in the present work is slightly noisy as shown in Fig. 1(b). The 1st main peak at r
+                        =2.85Å in the G(r) function is assigned to the nearest U3+–Cl− correlation. The coordination number NU–Cl with the cut-off distance r
+                        =3.5Å is 8.0. This value may be slightly overestimated, since it contains small contribution from Cl−–Cl− correlation. However, the contribution from Cl−–Cl−pair is much less than the U3+–Cl− contribution. We can conclude the coordination number is clearly larger than the previously reported result NU–Cl
+                        =6 [3]. Adya et al. [10] also reported by the neutron diffraction study that the coordination number was 7.05 for the nearest U3+–Cl− pair. It can be seen that the local structure of molten UCl3 is not necessarily the 6-fold octahedral structure (MCl6)3− which has been proposed from the Raman spectroscopy [11] and the earlier XRD [12] investigations of molten lanthanide chlorides. The broad 2nd peak at r
+                        =4.5–5.5Å is mainly assigned to the first U3+–U3+ and the second U3+–Cl− correlations.
+
+MD simulation of structure:
+The X-ray reduced intensity function Qi(Q) and the correlation function G(r) calculated from the RIM and PIM simulations are shown in Fig. 2
+                        . The RIM simulation shows significant disagreements at lower Q region in the Qi(Q) function and at the second peak in the G(r) function. The partial correlation functions G
+                        
+                           ij
+                        (r) calculated from the RIM and the PIM simulations are plotted in Fig. 3
+                        (a) and (b), respectively. The disagreement in the RIM simulation is mainly due to overestimation of the first U3+–U3+ correlation. In addition, the second peak position in the RIM simulation is clearly longer than the experimental result. Typical snapshots of molten UCl3 local structure in the simulations are shown in Fig. 4
+                        (a) and (b). In the RIM simulation, bending of Cl–U–Cl bridge is not so large because of strong repulsion between trivalent U3+ ions. On the other hand, the repulsion is screened by induced dipole of polarized Cl− ions in the PIM simulation. Therefore, bending of the bridge is relatively large as shown in Fig. 4(b). It results in the shorter U3+–U3+ distance and broadening of the first peak suggesting weaker correlation.
+Fig. 5
+                         shows the partial correlation function and running coordination number (RCN) of a U3+–Cl− pair in the PIM simulation. The first minimum of the G
+                        U–Cl(r) function after the first main peak occurs at about 3.85Å. The RCN shows 8.1 at 3.85Å. This is almost the same as that obtained in the XRD analysis. If the coordination number is 6, the corresponding cut-off distance would have to be set at r
+                        =3.1Å. It is an unnatural cut-off distance, because the value of the G(r) function at r
+                        =3.1Å is 2.7. It is concluded that the local structure of molten UCl3 is 8-fold coordination (UCl8)5−. It is close to that of molten lanthanide trichloride having a big cation like La3+.
+
+Simulations of transport properties:
+In the next step, some transport properties of molten UCl3 were calculated by using the structurally optimized PIM simulation. Calculations using the RIM were also performed for comparison. The diffusion coefficient was calculated by the Einstein formula from root mean-square displacement of ionic positions [13]. The electrical conductivity was obtained from the mean-square displacement of the charge density [13]. The shear viscosity was calculated by the Green–Kubo formula from the off-diagonal element of the stress tensor correlation function [14].
+Diffusion coefficients of U3+ and Cl− ions in molten UCl3 are plotted in Fig. 6
+                        . The PIM simulation shows much larger values than the RIM simulation. The diffusion coefficient of U3+ ion at 1123K in the RIM simulation was 5.36×10−7
+                        cm2/s, while that in the PIM simulation was 7.70×10−6
+                        cm2/s. Ions in the PIM have higher mobility. Electrical conductivities of molten UCl3 derived from the root-means displacement of the charge density are shown in Fig. 7
+                        , together with the experimental value by Bystraj et al. [15]. The PIM simulation result is in excellent agreement with the experimental information, though the comparison is limited to lower temperatures. The shear viscosity of molten UCl3 are plotted in Fig. 7. The dashed line in the figure is an extrapolation based on the corresponding-states law [9] of the experimental data [8]. At lower temperature, the simulated value is slightly larger than the experimental reference. On the other hand, the extrapolated experimental line is nicely reproduced by the simulation. Therefore we can conclude the simulated transport properties in the PIM simulation are in good agreement with the reference values, despite the fact that no dynamical information was used in the potential parameterization.
+
+Conclusions:
+The structure of molten UCl3 was studied by analyzing the XRD data using the MD simulations. The XRD result was nicely reproduced by the MD simulation with a polarizable ionic model, derived in a physically transparent way from similar models used for the lanthanide chlorides. Some transport properties of molten UCl3 were calculated by using the structurally optimized MD simulation. The electrical conductivity and shear viscosity obtained in the simulations are in good agreement with the experimental data. It would seem that this model could be used to examine other properties of UCl3 not accessible by experiment.
+
+Body:
+Molten uranium trichloride UCl3 plays an important role in the pyrochemical reprocessing of spent nuclear fuels [1,2]. In the electrorefining process, uranium in the spent fuel is usually in the chemical form of trichloride: UCl3. We have speculated that the structures and physical properties of molten actinide trichlorides like UCl3 are similar to those of rare earth trichlorides. In particular, molten LaCl3 has been thought to be a surrogate material for molten UCl3, since the size of the trivalent La3+ ion is almost the same as that of the U3+ ion. We have previously reported that the similarity of the X-ray diffraction of molten LaCl3 and UCl3 suggests that the structural parameters of molten UCl3 are very close to those of molten LaCl3 
+                     [3].
+
+Recently, we successfully simulated the XRD data of molten LaCl3 by introducing polarization effect of Cl− ion [4,5]. This simulation model had previously been shown to reproduce the neutron diffraction data on LaCl3 
+                     [5]. In the present work, the structure of molten UCl3 was studied by reanalysis of the XRD data and compared with a molecular dynamics (MD) simulation with a polarizable ionic interaction model (PIM) derived from that used in the LaCl3 work by a small change in the cation size.
+
+The raw XRD data [3] of molten UCl3 was analyzed again in the present work. The XRD measurement and data analysis procedure were described in Refs. [3,6]. In the previous study, a damping factor of exponential function exp(−bQ
+                        2) was used in the Fourier transformation of X-ray reduced intensity function Qi(Q). The damping factor has been frequently used in many diffraction data analyses, since it is useful to remove spurious oscillations in real-space functions like the correlation function and radial distribution function, which are obtained from the reduced intensity function by Fourier transformation. In most XRD experiments, except for those carried out at synchrotron radiation facilities, the maximum Q value is not very large. For example, typical Q
+                        max using MoKα radiation is usually around 15.0Å−1, while that from pulse neutron diffraction it is frequently over 30Å−1. The damping factor is used to reduce a truncation effect of the small Q
+                        max in the Fourier transformation process to obtain the real-space structural information. In the earlier study of LaCl3, we found that the introduction of the damping factor was responsible for an inconsistency between structural information derived from the neutron and X-ray studies; in particular, different coordination numbers were found from the two sources and this was traced to the deformation of the radial distribution functions caused by the damping. In the present work, we compare the simulation results with the experimental data without the use of damping factors. Other analytical procedures are almost the same as those in the previous analysis.
+
+Molecular dynamics simulations were performed by using two models. In the rigid ionic model (RIM) simulation, all ions are rigid and unpolarizable. On the other hand, the effects of the induced dipoles caused by polarization of the Cl− ions are considered [4] in the PIM simulation. At first, potential parameter was fixed to reproduce the experimental XRD data. In this process, the relationship between the structures of UCl3 and LaCl3 is clarified. In the next step, some further physical properties were calculated by the MD simulations and compared with other experimental information.
+
+The interionic interaction used in the simulation was based on the Born–Mayer type potential
+                           
+                              
+                                 
+                                    
+                                       ϕ
+                                    
+                                    
+                                       ij
+                                    
+                                 
+                                 (
+                                 r
+                                 )
+                                 =
+                                 
+                                    
+                                       
+                                          
+                                             Z
+                                          
+                                          
+                                             i
+                                          
+                                       
+                                       
+                                          
+                                             Z
+                                          
+                                          
+                                             j
+                                          
+                                       
+                                    
+                                    
+                                       r
+                                    
+                                 
+                                 
+                                    
+                                       e
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 +
+                                 
+                                    
+                                       B
+                                    
+                                    
+                                       ij
+                                    
+                                 
+                                 exp
+                                 (
+                                 -
+                                 
+                                    
+                                       α
+                                    
+                                    
+                                       ij
+                                    
+                                 
+                                 r
+                                 )
+                                 -
+                                 a
+                                 
+                                    
+                                       ∑
+                                    
+                                    
+                                       n
+                                       =
+                                       6
+                                       ,
+                                       8
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          
+                                             C
+                                          
+                                          
+                                             ij
+                                          
+                                          
+                                             n
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             r
+                                          
+                                          
+                                             n
+                                          
+                                       
+                                    
+                                 
+                                 r
+                                 ,
+                              
+                           
+                        where Z
+                        
+                           i
+                         is the formal charge of ion i. The terms in 
+                           
+                              
+                                 
+                                    C
+                                 
+                                 
+                                    6
+                                 
+                                 
+                                    ij
+                                 
+                              
+                           
+                        and 
+                           
+                              
+                                 
+                                    C
+                                 
+                                 
+                                    8
+                                 
+                                 
+                                    ij
+                                 
+                              
+                           
+                         show dispersion effects between ions i and j. This potential is supplemented by an account of anion polarization effects, as described in Ref. [4]. In the present work, almost the same potential parameters as for molten LaCl3 
+                        [5,7] were used, since we confirmed the XRD data of molten UCl3 was close to that of molten LaCl3 
+                        [3]. Only the B
+                        U–Cl parameter, which gives the amplitude of the short-range repulsion between cation and anion, was modified to reproduce the XRD data of molten UCl3. This change corresponds to a small difference of the ionic size of La and U. The anion polarization is determined by the Cl− ion polarizability σ
+                        − and the induction damping parameter b
+                        
+                           
+                              
+                                 b
+                                 =
+                                 
+                                    
+                                       c
+                                    
+                                    
+                                       
+                                          
+                                             σ
+                                          
+                                          
+                                             +
+                                          
+                                       
+                                       +
+                                       
+                                          
+                                             σ
+                                          
+                                          
+                                             -
+                                          
+                                       
+                                    
+                                 
+                                 ,
+                              
+                           
+                        where the constant c
+                        =7.42 is as used in MCl2 systems [4] and σ
+                        + and σ
+                        − are the ionic radii. The polarizabilities α
+                        +
+                        =10 a.u. and α
+                        −
+                        =20 a.u. were as used in the simulation of molten LaCl3 
+                        [7]. All parameters of the pair potential and the polarization model are listed in Table 1
+                        .
+
+The MD simulations were carried out by using 2048 ions (512 U3+ and 1536 Cl− ions) system with the density data of Desyatnik et al. [8]. The calculated temperature and cell size in the simulations are listed in Table 2
+                        . The density at higher temperature was calculated by applying the corresponding states law [9] to the experimental density data. The system was initially annealed for 105 MD steps at 3000K and cooled to the prescribed temperature using more than 2×105 MD steps. Then we collected positional data for 106 MD steps to obtain structural data. The X-ray reduced intensity function Qi(Q) was calculated by a reciprocal Fourier transform of partial G(r) functions. Dynamical properties like diffusion coefficient, electrical conductivity and shear viscosity were calculated from more than 5×106 MD steps accumulations.
+
+The X-ray reduced intensity function Qi(Q) and correlation function G(r) analyzed without damping factors are shown in Fig. 1
+                        (a) and (b), together with the previous ones with the damping factor. There is no significant signal at higher Q region in the old (damped) Qi(Q) function, while oscillation remains at Q
+                        =15Å−1 in the present Qi(Q) function. Therefore the G(r) function in the present work is slightly noisy as shown in Fig. 1(b). The 1st main peak at r
+                        =2.85Å in the G(r) function is assigned to the nearest U3+–Cl− correlation. The coordination number NU–Cl with the cut-off distance r
+                        =3.5Å is 8.0. This value may be slightly overestimated, since it contains small contribution from Cl−–Cl− correlation. However, the contribution from Cl−–Cl−pair is much less than the U3+–Cl− contribution. We can conclude the coordination number is clearly larger than the previously reported result NU–Cl
+                        =6 [3]. Adya et al. [10] also reported by the neutron diffraction study that the coordination number was 7.05 for the nearest U3+–Cl− pair. It can be seen that the local structure of molten UCl3 is not necessarily the 6-fold octahedral structure (MCl6)3− which has been proposed from the Raman spectroscopy [11] and the earlier XRD [12] investigations of molten lanthanide chlorides. The broad 2nd peak at r
+                        =4.5–5.5Å is mainly assigned to the first U3+–U3+ and the second U3+–Cl− correlations.
+
+The X-ray reduced intensity function Qi(Q) and the correlation function G(r) calculated from the RIM and PIM simulations are shown in Fig. 2
+                        . The RIM simulation shows significant disagreements at lower Q region in the Qi(Q) function and at the second peak in the G(r) function. The partial correlation functions G
+                        
+                           ij
+                        (r) calculated from the RIM and the PIM simulations are plotted in Fig. 3
+                        (a) and (b), respectively. The disagreement in the RIM simulation is mainly due to overestimation of the first U3+–U3+ correlation. In addition, the second peak position in the RIM simulation is clearly longer than the experimental result. Typical snapshots of molten UCl3 local structure in the simulations are shown in Fig. 4
+                        (a) and (b). In the RIM simulation, bending of Cl–U–Cl bridge is not so large because of strong repulsion between trivalent U3+ ions. On the other hand, the repulsion is screened by induced dipole of polarized Cl− ions in the PIM simulation. Therefore, bending of the bridge is relatively large as shown in Fig. 4(b). It results in the shorter U3+–U3+ distance and broadening of the first peak suggesting weaker correlation.
+
+Fig. 5
+                         shows the partial correlation function and running coordination number (RCN) of a U3+–Cl− pair in the PIM simulation. The first minimum of the G
+                        U–Cl(r) function after the first main peak occurs at about 3.85Å. The RCN shows 8.1 at 3.85Å. This is almost the same as that obtained in the XRD analysis. If the coordination number is 6, the corresponding cut-off distance would have to be set at r
+                        =3.1Å. It is an unnatural cut-off distance, because the value of the G(r) function at r
+                        =3.1Å is 2.7. It is concluded that the local structure of molten UCl3 is 8-fold coordination (UCl8)5−. It is close to that of molten lanthanide trichloride having a big cation like La3+.
+
+In the next step, some transport properties of molten UCl3 were calculated by using the structurally optimized PIM simulation. Calculations using the RIM were also performed for comparison. The diffusion coefficient was calculated by the Einstein formula from root mean-square displacement of ionic positions [13]. The electrical conductivity was obtained from the mean-square displacement of the charge density [13]. The shear viscosity was calculated by the Green–Kubo formula from the off-diagonal element of the stress tensor correlation function [14].
+
+Diffusion coefficients of U3+ and Cl− ions in molten UCl3 are plotted in Fig. 6
+                        . The PIM simulation shows much larger values than the RIM simulation. The diffusion coefficient of U3+ ion at 1123K in the RIM simulation was 5.36×10−7
+                        cm2/s, while that in the PIM simulation was 7.70×10−6
+                        cm2/s. Ions in the PIM have higher mobility. Electrical conductivities of molten UCl3 derived from the root-means displacement of the charge density are shown in Fig. 7
+                        , together with the experimental value by Bystraj et al. [15]. The PIM simulation result is in excellent agreement with the experimental information, though the comparison is limited to lower temperatures. The shear viscosity of molten UCl3 are plotted in Fig. 7. The dashed line in the figure is an extrapolation based on the corresponding-states law [9] of the experimental data [8]. At lower temperature, the simulated value is slightly larger than the experimental reference. On the other hand, the extrapolated experimental line is nicely reproduced by the simulation. Therefore we can conclude the simulated transport properties in the PIM simulation are in good agreement with the reference values, despite the fact that no dynamical information was used in the potential parameterization.
+
+The structure of molten UCl3 was studied by analyzing the XRD data using the MD simulations. The XRD result was nicely reproduced by the MD simulation with a polarizable ionic model, derived in a physically transparent way from similar models used for the lanthanide chlorides. Some transport properties of molten UCl3 were calculated by using the structurally optimized MD simulation. The electrical conductivity and shear viscosity obtained in the simulations are in good agreement with the experimental data. It would seem that this model could be used to examine other properties of UCl3 not accessible by experiment.
+
+Authors gratefully acknowledge the interest and encouragement of Dr Z. Yoshida and H. Ikezoe in JAERI. The MD calculations were performed by Fujitsu supercomputer VPP5000/64 system at the Japan Atomic Energy Research Institute. Authors also thank the Center for promotion of Computational Science and Engineering (CCSE) for close cooperation in calculations using the supercomputer.

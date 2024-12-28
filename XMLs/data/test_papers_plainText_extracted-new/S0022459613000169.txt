@@ -1,0 +1,2042 @@
+Title:
+Effect of
+
+Abstract:
+Significant effects of p–d hybridization, structural distortion and cation-electro-negativity are found on band gap in ZnSnX
+                     2 (X=P, As, Sb). Our study suggests these compounds to be direct band gap semiconductors with band gaps of 1.23, 0.68 and 0.19eV respectively. Lattice constants, tetragonal distortion 
+                        (
+                        η
+                        )
+                     , anion displacement, bond lengths and bulk moduli are calculated by Density Functional Theory based on Tight binding Linear Muffin-Tin orbital method. Our result of structural properties is in good agreement with the available experimental and other theoretical results. Calculated band gaps also agree well with the experimental works within LDA limitation. Unlike other semiconductors in the group II–IV–V2, there is a reduction in the band gap of 0.22, 0.20 and 0.24eV respectively in ZnSnX
+                     2 (X=P, As, Sb) due to p–d hybridization. Structural distortion decreases band gap by 0.20, 0.12 and 0.10eV respectively. We find that cation electronegativity effect is responsible for increasing the band gap relative to their binary analogs 
+                        
+                           
+                              GaInP
+                           
+                           
+                              2
+                           
+                        
+                     , 
+                        
+                           
+                              InGaAs
+                           
+                           
+                              2
+                           
+                        
+                      and 
+                        
+                           
+                              GaInSb
+                           
+                           
+                              2
+                           
+                        
+                      respectively and increment are 0.13, 0.04 and 0.13eV respectively.
+
+Keywords:
+A. Chalcopyrite
+A. Semiconductors
+E. Density Functional Theory
+E. TB-LMTO
+
+Acknowledgements:
+Acknowledgments:
+Acknowledgments
+               This work was supported by Department of Science and Technology, India, under the grant no. SR/S2/CMP-26/2007. We would like to thank Prof. O.K. Andersen, Max Planck Institute, Stuttgart, Germany, for kind permission to use the TB-LMTO code developed by his group.
+
+Graphical abstract:
+One unit cell of ZnSnX
+                     2 (X=P, As, Sb) chalcopyrite semiconductor. Semiconductors ZnSnX
+                     2 (X=P, As, Sb) are found to be direct band gap semiconductors with band gaps 1.23, 0.68 and 0.19eV respectively. The quantitative estimate of effects of p–d hybridization, structural distortion and cation electronegativity shows band gaps change significantly due to these effects.
+
+Highlights:
+► ZnSnX
+                     2 (X=P, As, Sb) are direct band gap semiconductors. ► These have band gaps of 1.23eV, 0.68eV and 0.19eV respectively. ► The band gap reduction due to p–d hybridization is 13.41%, 18.51% and 40% respectively. ► Band gap reduction due to structural distortion is 12.12%, 11.11% and 16.66% respectively. ► Band gap increases 8.38%, 3.70% and 21.31% respectively due to cation electronegativity.
+
+Introduction:
+Chalcopyrite semiconductors are ternary compounds with the chemical formula 
+                        
+                           
+                              A
+                           
+                           
+                              I
+                           
+                        
+                        
+                           
+                              B
+                           
+                           
+                              III
+                           
+                        
+                        
+                           
+                              C
+                           
+                           
+                              2
+                           
+                           
+                              VI
+                           
+                        
+                      and 
+                        
+                           
+                              A
+                           
+                           
+                              II
+                           
+                        
+                        
+                           
+                              B
+                           
+                           
+                              IV
+                           
+                        
+                        
+                           
+                              C
+                           
+                           
+                              2
+                           
+                           
+                              V
+                           
+                        
+                      such as CuAlS2, AgAlS2, CdSiP2, and ZnSnP2. They are derived from their binary analog zinc blende II–VI and III–V semiconductors respectively [1]. The band gaps of the chalcopyrite compounds are significantly smaller than those of their corresponding binary analogs [1]. Unlike binary analogs, two different groups of cations are tetrahedrally bonded with each anion in chalcopyrite semiconductors which leads to reduction in symmetry. These interesting structural, electronic and hence optical properties provide wide range of applications in electro-optic, optoelectronic and nonlinear optical devices [2–5]. A detailed qualitative study on the structural and electronic anomaly of both group I–III–VI2 and II–IV–V2 chalcopyrite semiconductors has been carried out by Jaffe et al. [1,6,7]. They have shown that the band gap anomaly in chalcopyrite semiconductors can be analyzed on the basis of the effect of p–d hybridization, cation electronegativity and structural distortion where p–d hybridization is the dominant factor in group I–III–VI2 chalcopyrites and cation-electronegativity effect is dominant in group II–IV–V2 chalcopyrites [1,7]. In our earlier work [8] we have made a quantitative estimate of the effect of p–d hybridization and structural distortion on electronic properties of 
+                        AgAl
+                        
+                           
+                              M
+                           
+                           
+                              2
+                           
+                        
+                        (
+                        M
+                        =
+                        S
+                        ,
+                        
+                        Se
+                        ,
+                        
+                        Te
+                        )
+                      and 
+                        A
+                        
+                           
+                              Al
+                           
+                           
+                              2
+                           
+                        
+                        
+                           
+                              Se
+                           
+                           
+                              4
+                           
+                        
+                        
+                        (
+                        A
+                        =
+                        Ag
+                        ,
+                        
+                        Cu
+                        ,
+                        
+                        Cd
+                        ,
+                        
+                        Zn
+                        )
+                      chalcopyrite semiconductors. There are no such type of study carried out for group II–IV–V2 chalcopyrites.
+Several works are reported to study the structural and electronic properties of ZnSnX
+                     2 (X=P, As, Sb) chalcopyrite semiconductors. But most of the studies are reported for ZnSnP2 chalcopyrite. St-Jean et al. [9] have studied the band gap of chalcopyrite phases of epitaxial 
+                        
+                           
+                              ZnSnP
+                           
+                           
+                              2
+                           
+                        
+                     . Electronic properties and pinning of the Fermi level in irradiated II–IV–V2 semiconductors including ZnSnX
+                     2 have been studied recently [10]. Jaffe et al. [7] have studied the electronic band structure and charge density distribution of ZnSnP2. They have used the potential-variational-mixed-basis (PVMB) ab initio method for the calculation where the experimental crystal structure data of the compound has been taken as the input. In other theoretical works, Poplavnoi et al. [11] and Asokamani [12] have studied the band structure of ZnSnX
+                     2, where X=P and As. Poplavnoi and his group [11] have used pseudopotential method for calculation of band structure. They have basically given a good comparison of their calculated band structure results with the experimental data. Asokamani et al. [12] have studied the band structure of ZnSnP2 and ZnSnAs2 at ambient and high pressure. They have basically discussed the bulk modulus, hardness, microhardness and melting point of a series of II–IV–V2 pnictides using the TB-LMTO method. Recently Sahin et al. [13] have studied the elastic, electronic and optical properties of ZnSnP2 semiconductor. No detailed band structure calculations for ZnSnX
+                     2 (X=As, Sb) are reported in the literature. Unlike other II–IV–V2 group compounds, no tetragonal distortion occurs in the case of ZnSnX
+                     2 
+                     [1,7]. That is why these systems are not only important for different applications but also important from chemistry and physics point of view.
+In the present study, we have carried out a detailed band structure calculation for ZnSnX
+                     2 (X=P, As, Sb) using localized Tight Binding Linear Muffin-Tin Orbital (TB-LMTO) method [14,15]. The ab initio calculation is based on Density Functional Theory (DFT) [16,17]. We have calculated the total energy to find the equilibrium lattice constants, tetragonal distortion 
+                        (
+                        η
+                        )
+                     , anion displacement parameter (u) and bond lengths. Bulk modulus are calculated by the extended form of Cohen's formula [18]. All the calculated parameters are in good agreement with the available experimental and theoretical results. We have made a quantitative calculation of the effect of p–d hybridization, cation-electronegativity and structural distortion on band gap. We have shown that in the case of ZnSnX
+                     2 (X=P, As, Sb), all the three factors have significant effects on band gap unlike in the case of other group I–III–VI2 and II–IV–V2 chalcopyrite semiconductors.
+In the TB-LMTO method, the basis functions are localized. Therefore, very few basis functions are required to represent the highly localized d-orbitals. Hence the calculation is not only cost effective but it also gives good results. TB-LMTO calculations are very fast and the computational effort involved is also less compared to the other calculation technique such as FP-LMTO.
+
+Methodology:
+The ab initio method is based on Density Functional Theory of Kohn–Sham [16,17]. The total electronic energy is a function of electron density which is calculated using variational principle. This requires self-consistent calculations. In practice the Kohn–Sham orbitals 
+                        
+                           
+                              ψ
+                           
+                           
+                              i
+                           
+                        
+                        (
+                        r
+                        )
+                      are usually expanded in terms of some chosen basis function. We have used the well-established TB-LMTO method, discussed in detail elsewhere [14,15] for the choice of the basis function. Electron correlations are taken within LDA of DFT [16,17]. We have used the von Barth–Hedin exchange [19] with 512 k-points in the irreducible part of the Brillouin zone. The basis of the TB-LMTO starts from the minimal set of muffin-tin orbitals of a KKR formalism and then linearizes it by expanding around a ‘nodal’ energy point represented by EKAP in band structure figures. The wave-function is then expanded in this basis.
+Chalcopyrite semiconductors are loosely packed crystals (low packing fraction). Therefore, conventional LMTO-ASA method is not suitable for such systems. To overcome such unfavorable physical situation, it is necessary to introduce empty spheres at appropriate chosen interstitial sites for self-consistent calculation. This technique is incorporated in the advanced TB-LMTO-ASA method. We ensure proper overlap of muffin tin spheres for self-consistency and the percentage of overlap is found so that unit cell volume is completely filled with atomic spheres. We obtain the ground state equilibrium values of lattice parameters, anion positions (u) and bond lengths by minimizing the total energy using the above first principle procedure.
+The equilibrium atomic radii and positions including the empty sphere are given in Tables 1–3
+                     
+                     
+                      for all the three compounds.
+
+Result and discussion:
+3.1
+                     Structural properties
+                     The structure of ZnSnX
+                        2 (X=P, As, Sb) chalcopyrite semiconductors is tetragonal. The positions of the various atoms in the tetragonal unit cell are (in the Wyckoff notation): Zn atom at 4a: 000; Sn atom at 4c: 0.00.00.5 and P/As/Sb atom at 8d: u
+                        0.250.125, where u is the anion displacement parameter. u refers only the x-coordinate of anions for these systems, whereas y- and z-component remain equal to 0.250 and 0.125 respectively as in the case of an ideal structure. In an ideal zinc-blende structure of binary compound like GaAs each anion has four similar cations as nearest neighbor. So all the four bond lengths are equal and the charge distribution is identical around each bond. Therefore in a binary compound, having zinc blende structure, u is 0.25 and 
+                           η
+                           (
+                           c
+                           /
+                           2
+                           a
+                           )
+                           =
+                           1
+                        . We refer this as an ideal case. In ZnSnX
+                        2 chalcopyrite systems each anion has two Zn and two Sn cations as nearest neighbors as shown in Fig. 1
+                        . Fig. 1 shows one unit cell of ZnSnX
+                        2 (X=P, As, Sb) chalcopyrite lattice. Due to dissimilar atoms as neighbors the anion acquires an equilibrium position closer to one pair of cation than to other. This new position of anion is called anion displacement which is the main cause for bond alternation 
+                           (
+                           
+                              
+                                 R
+                              
+                              
+                                 AB
+                              
+                           
+                           ≠
+                           
+                              
+                                 R
+                              
+                              
+                                 BC
+                              
+                           
+                           )
+                        . We refer to this case as a non-ideal case 
+                           (
+                           u
+                           ≠
+                           0.25
+                         and 
+                           η
+                           ≠
+                           1
+                           )
+                        . The quantity 
+                           u
+                           −
+                           
+                              
+                                 1
+                              
+                              
+                                 4
+                              
+                           
+                           =
+                           (
+                           
+                              
+                                 R
+                              
+                              
+                                 AC
+                              
+                              
+                                 2
+                              
+                           
+                           −
+                           
+                              
+                                 R
+                              
+                              
+                                 BC
+                              
+                              
+                                 2
+                              
+                           
+                           )
+                           /
+                           
+                              
+                                 a
+                              
+                              
+                                 2
+                              
+                           
+                         measures the extent to which the bond alters in a system. Thus the two near-neighbor distances 
+                           A
+                           –
+                           C
+                         and 
+                           B
+                           −
+                           C
+                         can be calculated by Eqs. (1) and (2)
+                           
+                              (1)
+                              
+                                 
+                                    
+                                       R
+                                    
+                                    
+                                       AC
+                                    
+                                 
+                                 =
+                                 a
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   u
+                                                
+                                                
+                                                   2
+                                                
+                                             
+                                             +
+                                             
+                                                
+                                                   (
+                                                   1
+                                                   +
+                                                   
+                                                      
+                                                         η
+                                                      
+                                                      
+                                                         2
+                                                      
+                                                   
+                                                   )
+                                                
+                                                
+                                                   16
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       1
+                                       /
+                                       2
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    
+                                       R
+                                    
+                                    
+                                       BC
+                                    
+                                 
+                                 =
+                                 a
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   
+                                                      
+                                                         u
+                                                         −
+                                                         
+                                                            
+                                                               1
+                                                            
+                                                            
+                                                               2
+                                                            
+                                                         
+                                                      
+                                                   
+                                                
+                                                
+                                                   2
+                                                
+                                             
+                                             +
+                                             
+                                                
+                                                   (
+                                                   1
+                                                   +
+                                                   
+                                                      
+                                                         η
+                                                      
+                                                      
+                                                         2
+                                                      
+                                                   
+                                                   )
+                                                
+                                                
+                                                   16
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       1
+                                       /
+                                       2
+                                    
+                                 
+                              
+                           
+                        The bond alternation gives rise to structure anomalies relative to the ideal zinc blend structure and it has a significant effect on band gap.
+                     
+                        Table 4
+                         shows the structural parameters including bond lengths of the systems under study. Obtained lattice parameters are in good agreement with the experimental results [20] as well as other computational work [1]. Jaffe and Zunger [1] have calculated ‘u’ and bond lengths using the experimental values of the lattice parameters obtained by Hahn [20] and conservation of tetrahedral bonds (CTB). In CTB, the difference in bond lengths 
+                           (
+                           
+                              
+                                 R
+                              
+                              
+                                 AC
+                              
+                           
+                           −
+                           
+                              
+                                 R
+                              
+                              
+                                 BC
+                              
+                           
+                           )
+                         is minimized to find the new values of lattice parameters and u. Our result shows that u decreases from the ideal value in the case of ZnSnX
+                        2 (X=P, As, Sb). A similar result we have found in our study of CuInSe2 
+                        [23]. But in our study of 
+                           AgAl
+                           
+                              
+                                 M
+                              
+                              
+                                 2
+                              
+                           
+                           
+                           (
+                           M
+                           =
+                           S
+                           ,
+                           Se
+                           ,
+                           Te
+                           )
+                         
+                        [8] we have found an increment of ‘u’ from its ideal value. Jaffe et al. [1,24] have shown that the anion shift is the consequence of the atomic sizes, i.e. the tetrahedral covalent radii. On the basis of this argument, Zn–X bonds are shorter compared to Sn–X bonds. This is because atomic radii of Zn are smaller than Sn. Our calculated bond lengths for ZnSnX
+                        2 (X=P, As, Sb) support this consequence.
+                     We calculate the bulk modulus ‘B’ by the slightly modified form of Cohen's formula given in Eq. (4). Jiang et al. [18] have used the same formula to calculate bulk modulus of defect chalcopyrite semiconductors. The original Cohen's empirical formula [25]
+                        
+                           
+                              (3)
+                              
+                                 B
+                                 =
+                                 (
+                                 1971
+                                 −
+                                 220
+                                 λ
+                                 )
+                                 /
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       3.5
+                                    
+                                 
+                              
+                           
+                        is appropriate for zinc blende solids. Due to different ionicities and covalencies, 
+                           λ
+                         is chosen to be 0, 1 and 2 for group IV, III–V and II–VI semiconductors respectively. This is because there is an increase of ionicity and loss of covalency from the group IV to III–V and II–VI semiconductors. Here ‘d’ is the bond length (Å). In the modified Cohen formula we have considered the average of Bulk modulus corresponding to different tetrahedral bonds. Therefore, it can be written as
+                           
+                              (4)
+                              
+                                 B
+                                 =
+                                 
+                                    
+                                       1971
+                                       −
+                                       220
+                                       λ
+                                    
+                                    
+                                       4
+                                    
+                                 
+                                 
+                                    
+                                       ∑
+                                    
+                                    
+                                       i
+                                       =
+                                       1
+                                       ,
+                                       2
+                                       ,
+                                       3
+                                       ,
+                                       4
+                                    
+                                 
+                                 
+                                    
+                                       1
+                                    
+                                    
+                                       
+                                          
+                                             d
+                                          
+                                          
+                                             i
+                                          
+                                          
+                                             3.5
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        where B is given in GPa and the nearest-neighbor distances d
+                        
+                           i
+                         in Å. The coefficient 
+                           λ
+                         is chosen as equal to 1 and 2 for group II–IV–V2 and I–III–VI2 respectively. This is because the group III–V and II–VI semiconductors are the binary analogs of group II–IV–V2 and I–III–VI2 chalcopyrite semiconductors respectively.
+                     The calculated result shows an inverse proportionality relation between bulk modulus and lattice constant a. This result agrees with the similar study carried out for II–VI type semiconductors [26]. Table 5
+                         shows the calculated bulk modulus of the pure chalcopyrite semiconductors. We do not find any experimental results for bulk modulus of these systems. Other theoretically calculated bulk moduli are given in Table 5 for those systems which are available for comparison. Our result of bulk moduli shows good agreement with the other results. We have also verified the result obtained by using the above empirical method by calculating Bulk modulus of ZnSnP2 using the Murnaghan equation of state. The input data for this equation of state is the obtained total energies verses cell volumes, as shown in Fig. 2
+                        , during the minimization procedure. The bulk modulus found to be 79.2GPa is very close to the empirical value 77.04GPa.
+3.2
+                     Electronic properties
+                     
+                        Band structure and density of states (DOS): Band structure, total density of states (TDOS) and partial density of states (PDOS) are plotted to study the detailed electronic properties of ZnSnX
+                        2 (X=P, As, Sb) chalcopyrite semiconductors. The Fermi level is set at zero energy in band structure and total DOS plot and is marked by a dashed horizontal line. In band structure diagram E and E1 represent empty spheres of different radii which are introduced at appropriately chosen interstitial sites. Fig. 3
+                         (band structure and TDOS) shows that ZnSnP2 has four main subvalence bands between valence band maxima (E
+                        
+                           VBM
+                        ) and −12.2eV. Fig. 4
+                         (TDOS) shows that ZnSnX
+                        2 (X=As and Sb) have four main subvalence bands in the region E
+                        
+                           VBM
+                         and −13.0eV and E
+                        
+                           VBM
+                         and −11.57eV respectively. The bandwidth of the upper most valence band for the three systems ZnSnX
+                        2 (P, As, Sb) are respectively 5.5, 5.35 and 5.35eV. Fig. 5
+                         (PDOS) for ZnSnP2 and Fig. 6
+                         (PDOS) for other two systems show that the upper most subband is formed mainly due to the contribution of the admixture of group V anion p states (P p, As p and Sb p respectively), Zn s, Zn p and Sn p states in all the three systems. It is separated by a heteropolar gap from the subband that lies below it. This heteropolar band gap for all these three systems are 0.17, 0.52 and 0.70eV respectively.
+                     The second subvalence band consists of mainly anion p and Sn s states. This gives rise to a strong overlap of the Sn s orbitals with the P p or Sb p orbitals in the case of ZnSnP2 and ZnSnSb2 respectively. As a result the 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band (bonding state) is formed. But in the case of ZnSnAs2, As s state also admixed with As p and Sn s states to form the same band. The third subband is the narrow Zn 3d states which touches the bottom of 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band. These bands have total bandwidth 2.53 and 2.10eV respectively in the case of ZnSnP2 and ZnSnSb2. But in the case of ZnSnAs2, Zn 3d states overlap slightly with 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band having bandwidth 2.1eV. The lowest subband is formed by anion s states (P s, As s, Sb s respectively). It is separated from the above subband by heteropolar gap also of 2.1, 2.8 and 1.4eV for ZnSnX
+                        2 (X=P, As, Sb) respectively. The bandwidth are 2.27, 1.76 and 1.92eV respectively.
+                     
+                        Figs. 5 (PDOS) and 6 (PDOS) show that the main contribution to the lower conduction band comes from the admixture of anion (P, As, Sb) 
+                           s
+                           ,
+                           p
+                         states and little Sn s states. Our band structure result for ZnSnP2 agrees well with Jaffe et al. [7]. But in our case, as we have discussed earlier, Zn 3d band touches with 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band, whereas Jaffe et al. [7] found a gap between these two bands. There are no result available for the other two systems for comparison.
+                     In all the three cases ZnSnX
+                        2 (X=P, As, Sb), the valence band maximum and conduction band minimum are located at the center of Brillouin zone denoted as “G” (
+                           Γ
+                         point). This indicates that they are all direct band gap semiconductors. Table 6
+                         shows the band gaps of these systems. It is well known that LDA underestimates the band gap by 30–50% [33]. Within this LDA limitations, our results are in good agreement with the available experimental results (Table 6). Other theoretical results for band gap are available for comparison. Pasemann et al. [30] calculated the band gaps of ZnSnP2 and ZnSnAs2. But their calculated band gap overestimates the experimental band gap value in the case of ZnSnP2 and ZnSnAs2.
+3.3
+                     Effect of p–d hybridization on band gap
+                     According to Jaffe et al. [1] 
+                        p–d hybridization does not play a significant role on band gap anomaly in the case of II–IV–V2 chalcopyrite. Here band gap anomaly means difference between the ternary band gap and its analogous binary band gap [1]. They have shown that cation-electronegativity is the dominant factor for band gap anomaly. But our explicit calculation (Table 7
+                        ) shows that there is indeed a p–d hybridization effect on band gap reduction in the present systems which are II–IV–V2 chalcopyrites. This is because these are massive compounds synthesized among all II–IV–V2 semiconductors [10]. They are massive because they are composed of heavy and large atoms. Among them ZnSnSb2 is the most massive compound [10]. Due to large size of atoms the ionicity of the two cations—anion bonds tend to equalize [7]. Therefore, these bonds are more covalent. Covalency increases from ZnSnP2 to ZnSnSb2 in this series of compound [34]. Therefore, the band gap reduction is more in ZnSnSb2 due to covalent nature of bonding in comparison to the other two Zn based chalcopyrites. So p–d hybridization effect cannot be neglected in all three cases.
+                     In our study we have made an attempt to see the quantitative effect of p–d hybridization in chalcopyrite systems. To carry out such quantitative study we freeze d orbitals of Zn and treat these orbitals as core orbitals like in binary semiconductors. Then we compare the band gap of these d frozen ZnSnX
+                        2 systems with the actual d orbital participated chalcopyrite systems. Since there is also an effect of structural distortion, therefore, to see the effect of p–d hybridization alone we consider ideal structure for both the cases. Partial density of states are plotted to study the orbital character and the nature of hybridization. We summarize the band gaps with and without contribution of d electrons of Zn cation in Table 7. The calculated result shows that there is a significant reduction of band gaps due to p–d hybridization. p–d hybridization not only has strong effect on band gap reduction, it also strongly affects the electronic structure in general. Fig. 7
+                         shows the TDOS for ZnSnX
+                        2 (X=P, As, Sb) with Zn d orbitals freezed, similar to the study we had carried out for AgAlM2 (M=S, Se, Te) [8] and CuInSe2 
+                        [23] in our previous work. Since LDA calculation underestimates band gap by 30–50%, it is expected that the result so obtained using LDA exchange correlation for band gap reduction due to p–d hybridization may not be accurate. But the way we have obtained our result, it should not depend much on the kind of exchange correlation used. The reason is that we are calculating the effect by the difference in band gaps obtained for Zn with the contribution of d electrons and that without its contribution. We expect almost equal underestimation would arise due to LDA in both the cases. Therefore, when we take the difference, the under estimation would be either neutralized or minimized. To prove our point, we have calculated this effect for CuInSe2 using hybrid functional of Giannozzi et al. [37] incorporated in Quantum Espresso code which uses the plane wave method. The code that we have used for other calculations using TB-LMTO method does not support for functionals beyond LDA and GGA. This hybrid calculation requires non-conserving atomic pseudopotentials. The required such pseudopotential is neither available for Zn atom nor we could generate. Therefore, we prefer to take CuInSe2 
+                        [38] as an example for the comparison with our result as computed within TB-LMTO method using LDA functional [23]. We find the band gaps to be 4.19eV (without hybridization) and 2.64eV (with hybridization) using hybrid functional. Though this calculation overestimate the gap by almost 2.5 times with respect to the experimental result (1.04eV), but the reduction, 1.55eV, is very near to what we had calculated using LDA functional by TB-LMTO method, i.e. 1.40eV [23]. Therefore, we believe that even if the gap is calculated very accurately, the difference will not change much.
+                     The p–d hybridization can be interpreted on the basis of simple molecular orbital considerations [1]. The p-orbitals that possess the 
+                           
+                              
+                                 Γ
+                              
+                              
+                                 15
+                              
+                           
+                         symmetry hybridize with those of the d-orbitals that possess the same symmetry. This hybridization forms a lower bonding state and an upper antibonding state. The antibonding state that constitutes the top of the valence band is predominantly formed by higher energy anion p-states and bonding state is constituted by the lower energy cation d-states. Perturbation theory [35] suggests that the two states 
+                           
+                              
+                                 Γ
+                              
+                              
+                                 15
+                              
+                           
+                           (
+                           p
+                           )
+                         and 
+                           
+                              
+                                 Γ
+                              
+                              
+                                 15
+                              
+                           
+                           (
+                           d
+                           )
+                         will repel each other by an amount inversely proportional to the energy difference between p and d states. So, this rising of the upper most state causes a gap reduction.
+3.4
+                     Effect of structural distortion
+                     In our study we observe that the structural distortion like bond alternation and tetragonal distortion are important factors which control the band gap. The structural contribution to the band gap is mainly controlled by bond alternation and has only a small contribution from tetragonal distortion [1]. There is no tetragonal distortion 
+                           (
+                           η
+                           =
+                           1
+                           )
+                         but there is only anion displacement in these three compounds. Table 8
+                         shows that there is a decrement in band gaps in the case of ZnSnX
+                        2 (X=P, As, Sb) due to structural distortion. In our earlier work on AgAlM2 (M=S, Se, Te) [8], we observed the opposite trend, i.e. band gap increases due to structural distortion. We find that the decrement in band gap due to structural distortion is maximum in the case of ZnSnP2 because the anion displacement is maximum (u=0.230). As u decreases, 
+                           (
+                           u
+                           <
+                           1
+                           /
+                           4
+                           )
+                        , excess charge is placed on the bond which is shorter, i.e. on the Zn–X bond and charge is depleted from the bond which is elongated, i.e. on the Sn–X bond. Due to this the upper valence band, which contains a majority of Zn–X mixed states, stabilizes by moving up in energy. The lower conduction band which mainly contains Sn–X mixed states is destabilized by moving down in energy. Thus there is a decrement in band gap due to structural distortion in these three cases. We have found similar result for CuInSe2 in our earlier work [23]. Our study shows that structural distortion not only affects the band gap but also the overall electronic structure significantly. A close comparison of TDOS for ideal (Fig. 8
+                        ) and non-ideal (Figs. 3 and 4) shows distinct differences in the structure in DOS. For example sharp peaks at 
+                           ≃
+                           7.0
+                         and 16.0eV appear in the non-ideal ZnSnP2 case as distortion disappears in the ideal case. The conduction bandwidth also increases due to structural distortion in the case of ZnSnP2. The conduction bandwidth decreases in both ideal ZnSnX
+                        2 (X=As, Sb) cases compared to their non-ideal cases. We find sharp structures in both upper valence band and conduction bands of non-ideal ZnSnSb2. But these types of structures are absent in the ideal case of this compound. The effect of distortion on valence and conduction bands indicates that distortion is also responsible for significant change in optical properties of such semiconductors.
+3.5
+                     Effect of cation-electronegativity
+                     It is known that electro-negativity decreases the covalent nature of bonding. Therefore, this should also have effect on band gap. Jaffe et al. [1] have shown that the cation-electronegativity contribution to the band gap anomaly is nearly equal to 0.1–0.2eV in ternary chalcopyrites. This is very small effect. But this small effect of cation-electronegativity is significant in the case of II–IV–V2 compounds in comparison to the effect of p–d hybridization because the effect of p–d hybridization is also small in these systems.
+                     We study the cation-electronegativity effect of ZnSnX
+                        2 compounds in comparison to their binary analogs (III–III–V2 compounds). ZnSnX
+                        2 (X=P, As, Sb) are the crossed analogs of GaInP2, InGaAs2 and GaInSb2 respectively [10]. A clear definition of a crossed analog is given by Jaffe et al. [1] and Brudnyi [10]. So the cation-electronegativity (CE) contribution to the band gap anomaly of ZnSnP2 is the difference in band gaps of GaInP2 (with chalcopyrite space group) and ZnSnP2. Similar study has been carried out by Martins et al. [36] for MgSiP2 with its binary analogs AlP. To estimate the quantitative effect of CE in ZnSnX
+                        2, we freeze the d orbitals of Ga in GaInP2 and GaInSb2 and d orbitals of In in InGaAs2. To exclude the structural effect on band gap, we use the lattice parameters of GaInP2, InGaAs2 and GaInSb2 for ZnSnX
+                        2 (X=P, As, Sb) respectively. The whole calculation is carried out considering the ideal structure of ZnSnX
+                        2. From Table 9
+                         we observe that the CE effect is responsible for increasing the band gap of ZnSnX
+                        2 relative to their binary analogs.
+
+Structural properties:
+The structure of ZnSnX
+                        2 (X=P, As, Sb) chalcopyrite semiconductors is tetragonal. The positions of the various atoms in the tetragonal unit cell are (in the Wyckoff notation): Zn atom at 4a: 000; Sn atom at 4c: 0.00.00.5 and P/As/Sb atom at 8d: u
+                        0.250.125, where u is the anion displacement parameter. u refers only the x-coordinate of anions for these systems, whereas y- and z-component remain equal to 0.250 and 0.125 respectively as in the case of an ideal structure. In an ideal zinc-blende structure of binary compound like GaAs each anion has four similar cations as nearest neighbor. So all the four bond lengths are equal and the charge distribution is identical around each bond. Therefore in a binary compound, having zinc blende structure, u is 0.25 and 
+                           η
+                           (
+                           c
+                           /
+                           2
+                           a
+                           )
+                           =
+                           1
+                        . We refer this as an ideal case. In ZnSnX
+                        2 chalcopyrite systems each anion has two Zn and two Sn cations as nearest neighbors as shown in Fig. 1
+                        . Fig. 1 shows one unit cell of ZnSnX
+                        2 (X=P, As, Sb) chalcopyrite lattice. Due to dissimilar atoms as neighbors the anion acquires an equilibrium position closer to one pair of cation than to other. This new position of anion is called anion displacement which is the main cause for bond alternation 
+                           (
+                           
+                              
+                                 R
+                              
+                              
+                                 AB
+                              
+                           
+                           ≠
+                           
+                              
+                                 R
+                              
+                              
+                                 BC
+                              
+                           
+                           )
+                        . We refer to this case as a non-ideal case 
+                           (
+                           u
+                           ≠
+                           0.25
+                         and 
+                           η
+                           ≠
+                           1
+                           )
+                        . The quantity 
+                           u
+                           −
+                           
+                              
+                                 1
+                              
+                              
+                                 4
+                              
+                           
+                           =
+                           (
+                           
+                              
+                                 R
+                              
+                              
+                                 AC
+                              
+                              
+                                 2
+                              
+                           
+                           −
+                           
+                              
+                                 R
+                              
+                              
+                                 BC
+                              
+                              
+                                 2
+                              
+                           
+                           )
+                           /
+                           
+                              
+                                 a
+                              
+                              
+                                 2
+                              
+                           
+                         measures the extent to which the bond alters in a system. Thus the two near-neighbor distances 
+                           A
+                           –
+                           C
+                         and 
+                           B
+                           −
+                           C
+                         can be calculated by Eqs. (1) and (2)
+                           
+                              (1)
+                              
+                                 
+                                    
+                                       R
+                                    
+                                    
+                                       AC
+                                    
+                                 
+                                 =
+                                 a
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   u
+                                                
+                                                
+                                                   2
+                                                
+                                             
+                                             +
+                                             
+                                                
+                                                   (
+                                                   1
+                                                   +
+                                                   
+                                                      
+                                                         η
+                                                      
+                                                      
+                                                         2
+                                                      
+                                                   
+                                                   )
+                                                
+                                                
+                                                   16
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       1
+                                       /
+                                       2
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    
+                                       R
+                                    
+                                    
+                                       BC
+                                    
+                                 
+                                 =
+                                 a
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   
+                                                      
+                                                         u
+                                                         −
+                                                         
+                                                            
+                                                               1
+                                                            
+                                                            
+                                                               2
+                                                            
+                                                         
+                                                      
+                                                   
+                                                
+                                                
+                                                   2
+                                                
+                                             
+                                             +
+                                             
+                                                
+                                                   (
+                                                   1
+                                                   +
+                                                   
+                                                      
+                                                         η
+                                                      
+                                                      
+                                                         2
+                                                      
+                                                   
+                                                   )
+                                                
+                                                
+                                                   16
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       1
+                                       /
+                                       2
+                                    
+                                 
+                              
+                           
+                        The bond alternation gives rise to structure anomalies relative to the ideal zinc blend structure and it has a significant effect on band gap.
+Table 4
+                         shows the structural parameters including bond lengths of the systems under study. Obtained lattice parameters are in good agreement with the experimental results [20] as well as other computational work [1]. Jaffe and Zunger [1] have calculated ‘u’ and bond lengths using the experimental values of the lattice parameters obtained by Hahn [20] and conservation of tetrahedral bonds (CTB). In CTB, the difference in bond lengths 
+                           (
+                           
+                              
+                                 R
+                              
+                              
+                                 AC
+                              
+                           
+                           −
+                           
+                              
+                                 R
+                              
+                              
+                                 BC
+                              
+                           
+                           )
+                         is minimized to find the new values of lattice parameters and u. Our result shows that u decreases from the ideal value in the case of ZnSnX
+                        2 (X=P, As, Sb). A similar result we have found in our study of CuInSe2 
+                        [23]. But in our study of 
+                           AgAl
+                           
+                              
+                                 M
+                              
+                              
+                                 2
+                              
+                           
+                           
+                           (
+                           M
+                           =
+                           S
+                           ,
+                           Se
+                           ,
+                           Te
+                           )
+                         
+                        [8] we have found an increment of ‘u’ from its ideal value. Jaffe et al. [1,24] have shown that the anion shift is the consequence of the atomic sizes, i.e. the tetrahedral covalent radii. On the basis of this argument, Zn–X bonds are shorter compared to Sn–X bonds. This is because atomic radii of Zn are smaller than Sn. Our calculated bond lengths for ZnSnX
+                        2 (X=P, As, Sb) support this consequence.
+We calculate the bulk modulus ‘B’ by the slightly modified form of Cohen's formula given in Eq. (4). Jiang et al. [18] have used the same formula to calculate bulk modulus of defect chalcopyrite semiconductors. The original Cohen's empirical formula [25]
+                        
+                           
+                              (3)
+                              
+                                 B
+                                 =
+                                 (
+                                 1971
+                                 −
+                                 220
+                                 λ
+                                 )
+                                 /
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       3.5
+                                    
+                                 
+                              
+                           
+                        is appropriate for zinc blende solids. Due to different ionicities and covalencies, 
+                           λ
+                         is chosen to be 0, 1 and 2 for group IV, III–V and II–VI semiconductors respectively. This is because there is an increase of ionicity and loss of covalency from the group IV to III–V and II–VI semiconductors. Here ‘d’ is the bond length (Å). In the modified Cohen formula we have considered the average of Bulk modulus corresponding to different tetrahedral bonds. Therefore, it can be written as
+                           
+                              (4)
+                              
+                                 B
+                                 =
+                                 
+                                    
+                                       1971
+                                       −
+                                       220
+                                       λ
+                                    
+                                    
+                                       4
+                                    
+                                 
+                                 
+                                    
+                                       ∑
+                                    
+                                    
+                                       i
+                                       =
+                                       1
+                                       ,
+                                       2
+                                       ,
+                                       3
+                                       ,
+                                       4
+                                    
+                                 
+                                 
+                                    
+                                       1
+                                    
+                                    
+                                       
+                                          
+                                             d
+                                          
+                                          
+                                             i
+                                          
+                                          
+                                             3.5
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        where B is given in GPa and the nearest-neighbor distances d
+                        
+                           i
+                         in Å. The coefficient 
+                           λ
+                         is chosen as equal to 1 and 2 for group II–IV–V2 and I–III–VI2 respectively. This is because the group III–V and II–VI semiconductors are the binary analogs of group II–IV–V2 and I–III–VI2 chalcopyrite semiconductors respectively.
+The calculated result shows an inverse proportionality relation between bulk modulus and lattice constant a. This result agrees with the similar study carried out for II–VI type semiconductors [26]. Table 5
+                         shows the calculated bulk modulus of the pure chalcopyrite semiconductors. We do not find any experimental results for bulk modulus of these systems. Other theoretically calculated bulk moduli are given in Table 5 for those systems which are available for comparison. Our result of bulk moduli shows good agreement with the other results. We have also verified the result obtained by using the above empirical method by calculating Bulk modulus of ZnSnP2 using the Murnaghan equation of state. The input data for this equation of state is the obtained total energies verses cell volumes, as shown in Fig. 2
+                        , during the minimization procedure. The bulk modulus found to be 79.2GPa is very close to the empirical value 77.04GPa.
+
+Electronic properties:
+Band structure and density of states (DOS): Band structure, total density of states (TDOS) and partial density of states (PDOS) are plotted to study the detailed electronic properties of ZnSnX
+                        2 (X=P, As, Sb) chalcopyrite semiconductors. The Fermi level is set at zero energy in band structure and total DOS plot and is marked by a dashed horizontal line. In band structure diagram E and E1 represent empty spheres of different radii which are introduced at appropriately chosen interstitial sites. Fig. 3
+                         (band structure and TDOS) shows that ZnSnP2 has four main subvalence bands between valence band maxima (E
+                        
+                           VBM
+                        ) and −12.2eV. Fig. 4
+                         (TDOS) shows that ZnSnX
+                        2 (X=As and Sb) have four main subvalence bands in the region E
+                        
+                           VBM
+                         and −13.0eV and E
+                        
+                           VBM
+                         and −11.57eV respectively. The bandwidth of the upper most valence band for the three systems ZnSnX
+                        2 (P, As, Sb) are respectively 5.5, 5.35 and 5.35eV. Fig. 5
+                         (PDOS) for ZnSnP2 and Fig. 6
+                         (PDOS) for other two systems show that the upper most subband is formed mainly due to the contribution of the admixture of group V anion p states (P p, As p and Sb p respectively), Zn s, Zn p and Sn p states in all the three systems. It is separated by a heteropolar gap from the subband that lies below it. This heteropolar band gap for all these three systems are 0.17, 0.52 and 0.70eV respectively.
+The second subvalence band consists of mainly anion p and Sn s states. This gives rise to a strong overlap of the Sn s orbitals with the P p or Sb p orbitals in the case of ZnSnP2 and ZnSnSb2 respectively. As a result the 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band (bonding state) is formed. But in the case of ZnSnAs2, As s state also admixed with As p and Sn s states to form the same band. The third subband is the narrow Zn 3d states which touches the bottom of 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band. These bands have total bandwidth 2.53 and 2.10eV respectively in the case of ZnSnP2 and ZnSnSb2. But in the case of ZnSnAs2, Zn 3d states overlap slightly with 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band having bandwidth 2.1eV. The lowest subband is formed by anion s states (P s, As s, Sb s respectively). It is separated from the above subband by heteropolar gap also of 2.1, 2.8 and 1.4eV for ZnSnX
+                        2 (X=P, As, Sb) respectively. The bandwidth are 2.27, 1.76 and 1.92eV respectively.
+Figs. 5 (PDOS) and 6 (PDOS) show that the main contribution to the lower conduction band comes from the admixture of anion (P, As, Sb) 
+                           s
+                           ,
+                           p
+                         states and little Sn s states. Our band structure result for ZnSnP2 agrees well with Jaffe et al. [7]. But in our case, as we have discussed earlier, Zn 3d band touches with 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band, whereas Jaffe et al. [7] found a gap between these two bands. There are no result available for the other two systems for comparison.
+In all the three cases ZnSnX
+                        2 (X=P, As, Sb), the valence band maximum and conduction band minimum are located at the center of Brillouin zone denoted as “G” (
+                           Γ
+                         point). This indicates that they are all direct band gap semiconductors. Table 6
+                         shows the band gaps of these systems. It is well known that LDA underestimates the band gap by 30–50% [33]. Within this LDA limitations, our results are in good agreement with the available experimental results (Table 6). Other theoretical results for band gap are available for comparison. Pasemann et al. [30] calculated the band gaps of ZnSnP2 and ZnSnAs2. But their calculated band gap overestimates the experimental band gap value in the case of ZnSnP2 and ZnSnAs2.
+
+Effect of p–d hybridization on band gap:
+According to Jaffe et al. [1] 
+                        p–d hybridization does not play a significant role on band gap anomaly in the case of II–IV–V2 chalcopyrite. Here band gap anomaly means difference between the ternary band gap and its analogous binary band gap [1]. They have shown that cation-electronegativity is the dominant factor for band gap anomaly. But our explicit calculation (Table 7
+                        ) shows that there is indeed a p–d hybridization effect on band gap reduction in the present systems which are II–IV–V2 chalcopyrites. This is because these are massive compounds synthesized among all II–IV–V2 semiconductors [10]. They are massive because they are composed of heavy and large atoms. Among them ZnSnSb2 is the most massive compound [10]. Due to large size of atoms the ionicity of the two cations—anion bonds tend to equalize [7]. Therefore, these bonds are more covalent. Covalency increases from ZnSnP2 to ZnSnSb2 in this series of compound [34]. Therefore, the band gap reduction is more in ZnSnSb2 due to covalent nature of bonding in comparison to the other two Zn based chalcopyrites. So p–d hybridization effect cannot be neglected in all three cases.
+In our study we have made an attempt to see the quantitative effect of p–d hybridization in chalcopyrite systems. To carry out such quantitative study we freeze d orbitals of Zn and treat these orbitals as core orbitals like in binary semiconductors. Then we compare the band gap of these d frozen ZnSnX
+                        2 systems with the actual d orbital participated chalcopyrite systems. Since there is also an effect of structural distortion, therefore, to see the effect of p–d hybridization alone we consider ideal structure for both the cases. Partial density of states are plotted to study the orbital character and the nature of hybridization. We summarize the band gaps with and without contribution of d electrons of Zn cation in Table 7. The calculated result shows that there is a significant reduction of band gaps due to p–d hybridization. p–d hybridization not only has strong effect on band gap reduction, it also strongly affects the electronic structure in general. Fig. 7
+                         shows the TDOS for ZnSnX
+                        2 (X=P, As, Sb) with Zn d orbitals freezed, similar to the study we had carried out for AgAlM2 (M=S, Se, Te) [8] and CuInSe2 
+                        [23] in our previous work. Since LDA calculation underestimates band gap by 30–50%, it is expected that the result so obtained using LDA exchange correlation for band gap reduction due to p–d hybridization may not be accurate. But the way we have obtained our result, it should not depend much on the kind of exchange correlation used. The reason is that we are calculating the effect by the difference in band gaps obtained for Zn with the contribution of d electrons and that without its contribution. We expect almost equal underestimation would arise due to LDA in both the cases. Therefore, when we take the difference, the under estimation would be either neutralized or minimized. To prove our point, we have calculated this effect for CuInSe2 using hybrid functional of Giannozzi et al. [37] incorporated in Quantum Espresso code which uses the plane wave method. The code that we have used for other calculations using TB-LMTO method does not support for functionals beyond LDA and GGA. This hybrid calculation requires non-conserving atomic pseudopotentials. The required such pseudopotential is neither available for Zn atom nor we could generate. Therefore, we prefer to take CuInSe2 
+                        [38] as an example for the comparison with our result as computed within TB-LMTO method using LDA functional [23]. We find the band gaps to be 4.19eV (without hybridization) and 2.64eV (with hybridization) using hybrid functional. Though this calculation overestimate the gap by almost 2.5 times with respect to the experimental result (1.04eV), but the reduction, 1.55eV, is very near to what we had calculated using LDA functional by TB-LMTO method, i.e. 1.40eV [23]. Therefore, we believe that even if the gap is calculated very accurately, the difference will not change much.
+The p–d hybridization can be interpreted on the basis of simple molecular orbital considerations [1]. The p-orbitals that possess the 
+                           
+                              
+                                 Γ
+                              
+                              
+                                 15
+                              
+                           
+                         symmetry hybridize with those of the d-orbitals that possess the same symmetry. This hybridization forms a lower bonding state and an upper antibonding state. The antibonding state that constitutes the top of the valence band is predominantly formed by higher energy anion p-states and bonding state is constituted by the lower energy cation d-states. Perturbation theory [35] suggests that the two states 
+                           
+                              
+                                 Γ
+                              
+                              
+                                 15
+                              
+                           
+                           (
+                           p
+                           )
+                         and 
+                           
+                              
+                                 Γ
+                              
+                              
+                                 15
+                              
+                           
+                           (
+                           d
+                           )
+                         will repel each other by an amount inversely proportional to the energy difference between p and d states. So, this rising of the upper most state causes a gap reduction.
+
+Effect of structural distortion:
+In our study we observe that the structural distortion like bond alternation and tetragonal distortion are important factors which control the band gap. The structural contribution to the band gap is mainly controlled by bond alternation and has only a small contribution from tetragonal distortion [1]. There is no tetragonal distortion 
+                           (
+                           η
+                           =
+                           1
+                           )
+                         but there is only anion displacement in these three compounds. Table 8
+                         shows that there is a decrement in band gaps in the case of ZnSnX
+                        2 (X=P, As, Sb) due to structural distortion. In our earlier work on AgAlM2 (M=S, Se, Te) [8], we observed the opposite trend, i.e. band gap increases due to structural distortion. We find that the decrement in band gap due to structural distortion is maximum in the case of ZnSnP2 because the anion displacement is maximum (u=0.230). As u decreases, 
+                           (
+                           u
+                           <
+                           1
+                           /
+                           4
+                           )
+                        , excess charge is placed on the bond which is shorter, i.e. on the Zn–X bond and charge is depleted from the bond which is elongated, i.e. on the Sn–X bond. Due to this the upper valence band, which contains a majority of Zn–X mixed states, stabilizes by moving up in energy. The lower conduction band which mainly contains Sn–X mixed states is destabilized by moving down in energy. Thus there is a decrement in band gap due to structural distortion in these three cases. We have found similar result for CuInSe2 in our earlier work [23]. Our study shows that structural distortion not only affects the band gap but also the overall electronic structure significantly. A close comparison of TDOS for ideal (Fig. 8
+                        ) and non-ideal (Figs. 3 and 4) shows distinct differences in the structure in DOS. For example sharp peaks at 
+                           ≃
+                           7.0
+                         and 16.0eV appear in the non-ideal ZnSnP2 case as distortion disappears in the ideal case. The conduction bandwidth also increases due to structural distortion in the case of ZnSnP2. The conduction bandwidth decreases in both ideal ZnSnX
+                        2 (X=As, Sb) cases compared to their non-ideal cases. We find sharp structures in both upper valence band and conduction bands of non-ideal ZnSnSb2. But these types of structures are absent in the ideal case of this compound. The effect of distortion on valence and conduction bands indicates that distortion is also responsible for significant change in optical properties of such semiconductors.
+
+Effect of cation-electronegativity:
+It is known that electro-negativity decreases the covalent nature of bonding. Therefore, this should also have effect on band gap. Jaffe et al. [1] have shown that the cation-electronegativity contribution to the band gap anomaly is nearly equal to 0.1–0.2eV in ternary chalcopyrites. This is very small effect. But this small effect of cation-electronegativity is significant in the case of II–IV–V2 compounds in comparison to the effect of p–d hybridization because the effect of p–d hybridization is also small in these systems.
+We study the cation-electronegativity effect of ZnSnX
+                        2 compounds in comparison to their binary analogs (III–III–V2 compounds). ZnSnX
+                        2 (X=P, As, Sb) are the crossed analogs of GaInP2, InGaAs2 and GaInSb2 respectively [10]. A clear definition of a crossed analog is given by Jaffe et al. [1] and Brudnyi [10]. So the cation-electronegativity (CE) contribution to the band gap anomaly of ZnSnP2 is the difference in band gaps of GaInP2 (with chalcopyrite space group) and ZnSnP2. Similar study has been carried out by Martins et al. [36] for MgSiP2 with its binary analogs AlP. To estimate the quantitative effect of CE in ZnSnX
+                        2, we freeze the d orbitals of Ga in GaInP2 and GaInSb2 and d orbitals of In in InGaAs2. To exclude the structural effect on band gap, we use the lattice parameters of GaInP2, InGaAs2 and GaInSb2 for ZnSnX
+                        2 (X=P, As, Sb) respectively. The whole calculation is carried out considering the ideal structure of ZnSnX
+                        2. From Table 9
+                         we observe that the CE effect is responsible for increasing the band gap of ZnSnX
+                        2 relative to their binary analogs.
+
+Conclusion:
+Calculations and study of ZnSnX
+                     2 (X=P, As, Sb) suggest that these compounds are direct band gap semiconductors with band gaps of 1.23eV, 0.68eV and 0.19eV respectively. Our result of structural properties agrees well with the experimental values. Our study further shows that unlike other II–III–V2 group chalcopyrites, electronic properties of ZnSnX
+                     2 semiconductors significantly depend on the p–d hybridization, structural distortion and cation electronegativity. The calculation is carried out using the DFT based TB-LMTO method. We have used LDA for our exchange co-relation functional. A detailed study of TDOS and PDOS shows that there is a reduction in band gap by 0.22 (13.41%), 0.20 (18.51%) and 0.24eV (40.0%) respectively for X=P, As and Sb due to the p–d hybridization. Our calculation of the effect of p–d hybridization in CuInSe2 using hybrid functional by plane wave method as incorporated in Quantum Espresso code shows that the reduction is not much affected by under or over estimation of band gaps due to different functionals used. The band gap decreases also due to anion displacement in these systems. The gap decrement due to anion distortion is 0.20 (12.12%), 0.12 (11.11%) and 0.10eV (16.66%) respectively. Calculated TDOS further shows that there is significant effect on the electronic properties due to structural distortion and the presence of p–d hybridization. The quantitative effect of cation electronegativity (CE) on band gap is calculated for these three systems. We have observed that the CE effect is responsible for increasing the band gap of ZnSnX
+                     2 (X=P, As, Sb) relative to their binary analogs GaInP2, InGaAs2 and GaInSb2 respectively. The band gap increment is 0.13 (8.38%), 0.04 (3.70%) and 0.13eV (21.31%) respectively.
+
+Acknowledgments:
+This work was supported by Department of Science and Technology, India, under the grant no. SR/S2/CMP-26/2007. We would like to thank Prof. O.K. Andersen, Max Planck Institute, Stuttgart, Germany, for kind permission to use the TB-LMTO code developed by his group.
+
+Body:
+Chalcopyrite semiconductors are ternary compounds with the chemical formula 
+                        
+                           
+                              A
+                           
+                           
+                              I
+                           
+                        
+                        
+                           
+                              B
+                           
+                           
+                              III
+                           
+                        
+                        
+                           
+                              C
+                           
+                           
+                              2
+                           
+                           
+                              VI
+                           
+                        
+                      and 
+                        
+                           
+                              A
+                           
+                           
+                              II
+                           
+                        
+                        
+                           
+                              B
+                           
+                           
+                              IV
+                           
+                        
+                        
+                           
+                              C
+                           
+                           
+                              2
+                           
+                           
+                              V
+                           
+                        
+                      such as CuAlS2, AgAlS2, CdSiP2, and ZnSnP2. They are derived from their binary analog zinc blende II–VI and III–V semiconductors respectively [1]. The band gaps of the chalcopyrite compounds are significantly smaller than those of their corresponding binary analogs [1]. Unlike binary analogs, two different groups of cations are tetrahedrally bonded with each anion in chalcopyrite semiconductors which leads to reduction in symmetry. These interesting structural, electronic and hence optical properties provide wide range of applications in electro-optic, optoelectronic and nonlinear optical devices [2–5]. A detailed qualitative study on the structural and electronic anomaly of both group I–III–VI2 and II–IV–V2 chalcopyrite semiconductors has been carried out by Jaffe et al. [1,6,7]. They have shown that the band gap anomaly in chalcopyrite semiconductors can be analyzed on the basis of the effect of p–d hybridization, cation electronegativity and structural distortion where p–d hybridization is the dominant factor in group I–III–VI2 chalcopyrites and cation-electronegativity effect is dominant in group II–IV–V2 chalcopyrites [1,7]. In our earlier work [8] we have made a quantitative estimate of the effect of p–d hybridization and structural distortion on electronic properties of 
+                        AgAl
+                        
+                           
+                              M
+                           
+                           
+                              2
+                           
+                        
+                        (
+                        M
+                        =
+                        S
+                        ,
+                        
+                        Se
+                        ,
+                        
+                        Te
+                        )
+                      and 
+                        A
+                        
+                           
+                              Al
+                           
+                           
+                              2
+                           
+                        
+                        
+                           
+                              Se
+                           
+                           
+                              4
+                           
+                        
+                        
+                        (
+                        A
+                        =
+                        Ag
+                        ,
+                        
+                        Cu
+                        ,
+                        
+                        Cd
+                        ,
+                        
+                        Zn
+                        )
+                      chalcopyrite semiconductors. There are no such type of study carried out for group II–IV–V2 chalcopyrites.
+
+Several works are reported to study the structural and electronic properties of ZnSnX
+                     2 (X=P, As, Sb) chalcopyrite semiconductors. But most of the studies are reported for ZnSnP2 chalcopyrite. St-Jean et al. [9] have studied the band gap of chalcopyrite phases of epitaxial 
+                        
+                           
+                              ZnSnP
+                           
+                           
+                              2
+                           
+                        
+                     . Electronic properties and pinning of the Fermi level in irradiated II–IV–V2 semiconductors including ZnSnX
+                     2 have been studied recently [10]. Jaffe et al. [7] have studied the electronic band structure and charge density distribution of ZnSnP2. They have used the potential-variational-mixed-basis (PVMB) ab initio method for the calculation where the experimental crystal structure data of the compound has been taken as the input. In other theoretical works, Poplavnoi et al. [11] and Asokamani [12] have studied the band structure of ZnSnX
+                     2, where X=P and As. Poplavnoi and his group [11] have used pseudopotential method for calculation of band structure. They have basically given a good comparison of their calculated band structure results with the experimental data. Asokamani et al. [12] have studied the band structure of ZnSnP2 and ZnSnAs2 at ambient and high pressure. They have basically discussed the bulk modulus, hardness, microhardness and melting point of a series of II–IV–V2 pnictides using the TB-LMTO method. Recently Sahin et al. [13] have studied the elastic, electronic and optical properties of ZnSnP2 semiconductor. No detailed band structure calculations for ZnSnX
+                     2 (X=As, Sb) are reported in the literature. Unlike other II–IV–V2 group compounds, no tetragonal distortion occurs in the case of ZnSnX
+                     2 
+                     [1,7]. That is why these systems are not only important for different applications but also important from chemistry and physics point of view.
+
+In the present study, we have carried out a detailed band structure calculation for ZnSnX
+                     2 (X=P, As, Sb) using localized Tight Binding Linear Muffin-Tin Orbital (TB-LMTO) method [14,15]. The ab initio calculation is based on Density Functional Theory (DFT) [16,17]. We have calculated the total energy to find the equilibrium lattice constants, tetragonal distortion 
+                        (
+                        η
+                        )
+                     , anion displacement parameter (u) and bond lengths. Bulk modulus are calculated by the extended form of Cohen's formula [18]. All the calculated parameters are in good agreement with the available experimental and theoretical results. We have made a quantitative calculation of the effect of p–d hybridization, cation-electronegativity and structural distortion on band gap. We have shown that in the case of ZnSnX
+                     2 (X=P, As, Sb), all the three factors have significant effects on band gap unlike in the case of other group I–III–VI2 and II–IV–V2 chalcopyrite semiconductors.
+
+In the TB-LMTO method, the basis functions are localized. Therefore, very few basis functions are required to represent the highly localized d-orbitals. Hence the calculation is not only cost effective but it also gives good results. TB-LMTO calculations are very fast and the computational effort involved is also less compared to the other calculation technique such as FP-LMTO.
+
+The ab initio method is based on Density Functional Theory of Kohn–Sham [16,17]. The total electronic energy is a function of electron density which is calculated using variational principle. This requires self-consistent calculations. In practice the Kohn–Sham orbitals 
+                        
+                           
+                              ψ
+                           
+                           
+                              i
+                           
+                        
+                        (
+                        r
+                        )
+                      are usually expanded in terms of some chosen basis function. We have used the well-established TB-LMTO method, discussed in detail elsewhere [14,15] for the choice of the basis function. Electron correlations are taken within LDA of DFT [16,17]. We have used the von Barth–Hedin exchange [19] with 512 k-points in the irreducible part of the Brillouin zone. The basis of the TB-LMTO starts from the minimal set of muffin-tin orbitals of a KKR formalism and then linearizes it by expanding around a ‘nodal’ energy point represented by EKAP in band structure figures. The wave-function is then expanded in this basis.
+
+Chalcopyrite semiconductors are loosely packed crystals (low packing fraction). Therefore, conventional LMTO-ASA method is not suitable for such systems. To overcome such unfavorable physical situation, it is necessary to introduce empty spheres at appropriate chosen interstitial sites for self-consistent calculation. This technique is incorporated in the advanced TB-LMTO-ASA method. We ensure proper overlap of muffin tin spheres for self-consistency and the percentage of overlap is found so that unit cell volume is completely filled with atomic spheres. We obtain the ground state equilibrium values of lattice parameters, anion positions (u) and bond lengths by minimizing the total energy using the above first principle procedure.
+
+The equilibrium atomic radii and positions including the empty sphere are given in Tables 1–3
+                     
+                     
+                      for all the three compounds.
+
+The structure of ZnSnX
+                        2 (X=P, As, Sb) chalcopyrite semiconductors is tetragonal. The positions of the various atoms in the tetragonal unit cell are (in the Wyckoff notation): Zn atom at 4a: 000; Sn atom at 4c: 0.00.00.5 and P/As/Sb atom at 8d: u
+                        0.250.125, where u is the anion displacement parameter. u refers only the x-coordinate of anions for these systems, whereas y- and z-component remain equal to 0.250 and 0.125 respectively as in the case of an ideal structure. In an ideal zinc-blende structure of binary compound like GaAs each anion has four similar cations as nearest neighbor. So all the four bond lengths are equal and the charge distribution is identical around each bond. Therefore in a binary compound, having zinc blende structure, u is 0.25 and 
+                           η
+                           (
+                           c
+                           /
+                           2
+                           a
+                           )
+                           =
+                           1
+                        . We refer this as an ideal case. In ZnSnX
+                        2 chalcopyrite systems each anion has two Zn and two Sn cations as nearest neighbors as shown in Fig. 1
+                        . Fig. 1 shows one unit cell of ZnSnX
+                        2 (X=P, As, Sb) chalcopyrite lattice. Due to dissimilar atoms as neighbors the anion acquires an equilibrium position closer to one pair of cation than to other. This new position of anion is called anion displacement which is the main cause for bond alternation 
+                           (
+                           
+                              
+                                 R
+                              
+                              
+                                 AB
+                              
+                           
+                           ≠
+                           
+                              
+                                 R
+                              
+                              
+                                 BC
+                              
+                           
+                           )
+                        . We refer to this case as a non-ideal case 
+                           (
+                           u
+                           ≠
+                           0.25
+                         and 
+                           η
+                           ≠
+                           1
+                           )
+                        . The quantity 
+                           u
+                           −
+                           
+                              
+                                 1
+                              
+                              
+                                 4
+                              
+                           
+                           =
+                           (
+                           
+                              
+                                 R
+                              
+                              
+                                 AC
+                              
+                              
+                                 2
+                              
+                           
+                           −
+                           
+                              
+                                 R
+                              
+                              
+                                 BC
+                              
+                              
+                                 2
+                              
+                           
+                           )
+                           /
+                           
+                              
+                                 a
+                              
+                              
+                                 2
+                              
+                           
+                         measures the extent to which the bond alters in a system. Thus the two near-neighbor distances 
+                           A
+                           –
+                           C
+                         and 
+                           B
+                           −
+                           C
+                         can be calculated by Eqs. (1) and (2)
+                           
+                              (1)
+                              
+                                 
+                                    
+                                       R
+                                    
+                                    
+                                       AC
+                                    
+                                 
+                                 =
+                                 a
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   u
+                                                
+                                                
+                                                   2
+                                                
+                                             
+                                             +
+                                             
+                                                
+                                                   (
+                                                   1
+                                                   +
+                                                   
+                                                      
+                                                         η
+                                                      
+                                                      
+                                                         2
+                                                      
+                                                   
+                                                   )
+                                                
+                                                
+                                                   16
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       1
+                                       /
+                                       2
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    
+                                       R
+                                    
+                                    
+                                       BC
+                                    
+                                 
+                                 =
+                                 a
+                                 
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   
+                                                      
+                                                         u
+                                                         −
+                                                         
+                                                            
+                                                               1
+                                                            
+                                                            
+                                                               2
+                                                            
+                                                         
+                                                      
+                                                   
+                                                
+                                                
+                                                   2
+                                                
+                                             
+                                             +
+                                             
+                                                
+                                                   (
+                                                   1
+                                                   +
+                                                   
+                                                      
+                                                         η
+                                                      
+                                                      
+                                                         2
+                                                      
+                                                   
+                                                   )
+                                                
+                                                
+                                                   16
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       1
+                                       /
+                                       2
+                                    
+                                 
+                              
+                           
+                        The bond alternation gives rise to structure anomalies relative to the ideal zinc blend structure and it has a significant effect on band gap.
+
+Table 4
+                         shows the structural parameters including bond lengths of the systems under study. Obtained lattice parameters are in good agreement with the experimental results [20] as well as other computational work [1]. Jaffe and Zunger [1] have calculated ‘u’ and bond lengths using the experimental values of the lattice parameters obtained by Hahn [20] and conservation of tetrahedral bonds (CTB). In CTB, the difference in bond lengths 
+                           (
+                           
+                              
+                                 R
+                              
+                              
+                                 AC
+                              
+                           
+                           −
+                           
+                              
+                                 R
+                              
+                              
+                                 BC
+                              
+                           
+                           )
+                         is minimized to find the new values of lattice parameters and u. Our result shows that u decreases from the ideal value in the case of ZnSnX
+                        2 (X=P, As, Sb). A similar result we have found in our study of CuInSe2 
+                        [23]. But in our study of 
+                           AgAl
+                           
+                              
+                                 M
+                              
+                              
+                                 2
+                              
+                           
+                           
+                           (
+                           M
+                           =
+                           S
+                           ,
+                           Se
+                           ,
+                           Te
+                           )
+                         
+                        [8] we have found an increment of ‘u’ from its ideal value. Jaffe et al. [1,24] have shown that the anion shift is the consequence of the atomic sizes, i.e. the tetrahedral covalent radii. On the basis of this argument, Zn–X bonds are shorter compared to Sn–X bonds. This is because atomic radii of Zn are smaller than Sn. Our calculated bond lengths for ZnSnX
+                        2 (X=P, As, Sb) support this consequence.
+
+We calculate the bulk modulus ‘B’ by the slightly modified form of Cohen's formula given in Eq. (4). Jiang et al. [18] have used the same formula to calculate bulk modulus of defect chalcopyrite semiconductors. The original Cohen's empirical formula [25]
+                        
+                           
+                              (3)
+                              
+                                 B
+                                 =
+                                 (
+                                 1971
+                                 −
+                                 220
+                                 λ
+                                 )
+                                 /
+                                 
+                                    
+                                       d
+                                    
+                                    
+                                       3.5
+                                    
+                                 
+                              
+                           
+                        is appropriate for zinc blende solids. Due to different ionicities and covalencies, 
+                           λ
+                         is chosen to be 0, 1 and 2 for group IV, III–V and II–VI semiconductors respectively. This is because there is an increase of ionicity and loss of covalency from the group IV to III–V and II–VI semiconductors. Here ‘d’ is the bond length (Å). In the modified Cohen formula we have considered the average of Bulk modulus corresponding to different tetrahedral bonds. Therefore, it can be written as
+                           
+                              (4)
+                              
+                                 B
+                                 =
+                                 
+                                    
+                                       1971
+                                       −
+                                       220
+                                       λ
+                                    
+                                    
+                                       4
+                                    
+                                 
+                                 
+                                    
+                                       ∑
+                                    
+                                    
+                                       i
+                                       =
+                                       1
+                                       ,
+                                       2
+                                       ,
+                                       3
+                                       ,
+                                       4
+                                    
+                                 
+                                 
+                                    
+                                       1
+                                    
+                                    
+                                       
+                                          
+                                             d
+                                          
+                                          
+                                             i
+                                          
+                                          
+                                             3.5
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        where B is given in GPa and the nearest-neighbor distances d
+                        
+                           i
+                         in Å. The coefficient 
+                           λ
+                         is chosen as equal to 1 and 2 for group II–IV–V2 and I–III–VI2 respectively. This is because the group III–V and II–VI semiconductors are the binary analogs of group II–IV–V2 and I–III–VI2 chalcopyrite semiconductors respectively.
+
+The calculated result shows an inverse proportionality relation between bulk modulus and lattice constant a. This result agrees with the similar study carried out for II–VI type semiconductors [26]. Table 5
+                         shows the calculated bulk modulus of the pure chalcopyrite semiconductors. We do not find any experimental results for bulk modulus of these systems. Other theoretically calculated bulk moduli are given in Table 5 for those systems which are available for comparison. Our result of bulk moduli shows good agreement with the other results. We have also verified the result obtained by using the above empirical method by calculating Bulk modulus of ZnSnP2 using the Murnaghan equation of state. The input data for this equation of state is the obtained total energies verses cell volumes, as shown in Fig. 2
+                        , during the minimization procedure. The bulk modulus found to be 79.2GPa is very close to the empirical value 77.04GPa.
+
+Band structure and density of states (DOS): Band structure, total density of states (TDOS) and partial density of states (PDOS) are plotted to study the detailed electronic properties of ZnSnX
+                        2 (X=P, As, Sb) chalcopyrite semiconductors. The Fermi level is set at zero energy in band structure and total DOS plot and is marked by a dashed horizontal line. In band structure diagram E and E1 represent empty spheres of different radii which are introduced at appropriately chosen interstitial sites. Fig. 3
+                         (band structure and TDOS) shows that ZnSnP2 has four main subvalence bands between valence band maxima (E
+                        
+                           VBM
+                        ) and −12.2eV. Fig. 4
+                         (TDOS) shows that ZnSnX
+                        2 (X=As and Sb) have four main subvalence bands in the region E
+                        
+                           VBM
+                         and −13.0eV and E
+                        
+                           VBM
+                         and −11.57eV respectively. The bandwidth of the upper most valence band for the three systems ZnSnX
+                        2 (P, As, Sb) are respectively 5.5, 5.35 and 5.35eV. Fig. 5
+                         (PDOS) for ZnSnP2 and Fig. 6
+                         (PDOS) for other two systems show that the upper most subband is formed mainly due to the contribution of the admixture of group V anion p states (P p, As p and Sb p respectively), Zn s, Zn p and Sn p states in all the three systems. It is separated by a heteropolar gap from the subband that lies below it. This heteropolar band gap for all these three systems are 0.17, 0.52 and 0.70eV respectively.
+
+The second subvalence band consists of mainly anion p and Sn s states. This gives rise to a strong overlap of the Sn s orbitals with the P p or Sb p orbitals in the case of ZnSnP2 and ZnSnSb2 respectively. As a result the 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band (bonding state) is formed. But in the case of ZnSnAs2, As s state also admixed with As p and Sn s states to form the same band. The third subband is the narrow Zn 3d states which touches the bottom of 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band. These bands have total bandwidth 2.53 and 2.10eV respectively in the case of ZnSnP2 and ZnSnSb2. But in the case of ZnSnAs2, Zn 3d states overlap slightly with 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band having bandwidth 2.1eV. The lowest subband is formed by anion s states (P s, As s, Sb s respectively). It is separated from the above subband by heteropolar gap also of 2.1, 2.8 and 1.4eV for ZnSnX
+                        2 (X=P, As, Sb) respectively. The bandwidth are 2.27, 1.76 and 1.92eV respectively.
+
+Figs. 5 (PDOS) and 6 (PDOS) show that the main contribution to the lower conduction band comes from the admixture of anion (P, As, Sb) 
+                           s
+                           ,
+                           p
+                         states and little Sn s states. Our band structure result for ZnSnP2 agrees well with Jaffe et al. [7]. But in our case, as we have discussed earlier, Zn 3d band touches with 
+                           
+                              
+                                 B
+                              
+                              
+                                 IV
+                              
+                           
+                           –
+                           
+                              
+                                 C
+                              
+                              
+                                 V
+                              
+                           
+                         band, whereas Jaffe et al. [7] found a gap between these two bands. There are no result available for the other two systems for comparison.
+
+In all the three cases ZnSnX
+                        2 (X=P, As, Sb), the valence band maximum and conduction band minimum are located at the center of Brillouin zone denoted as “G” (
+                           Γ
+                         point). This indicates that they are all direct band gap semiconductors. Table 6
+                         shows the band gaps of these systems. It is well known that LDA underestimates the band gap by 30–50% [33]. Within this LDA limitations, our results are in good agreement with the available experimental results (Table 6). Other theoretical results for band gap are available for comparison. Pasemann et al. [30] calculated the band gaps of ZnSnP2 and ZnSnAs2. But their calculated band gap overestimates the experimental band gap value in the case of ZnSnP2 and ZnSnAs2.
+
+According to Jaffe et al. [1] 
+                        p–d hybridization does not play a significant role on band gap anomaly in the case of II–IV–V2 chalcopyrite. Here band gap anomaly means difference between the ternary band gap and its analogous binary band gap [1]. They have shown that cation-electronegativity is the dominant factor for band gap anomaly. But our explicit calculation (Table 7
+                        ) shows that there is indeed a p–d hybridization effect on band gap reduction in the present systems which are II–IV–V2 chalcopyrites. This is because these are massive compounds synthesized among all II–IV–V2 semiconductors [10]. They are massive because they are composed of heavy and large atoms. Among them ZnSnSb2 is the most massive compound [10]. Due to large size of atoms the ionicity of the two cations—anion bonds tend to equalize [7]. Therefore, these bonds are more covalent. Covalency increases from ZnSnP2 to ZnSnSb2 in this series of compound [34]. Therefore, the band gap reduction is more in ZnSnSb2 due to covalent nature of bonding in comparison to the other two Zn based chalcopyrites. So p–d hybridization effect cannot be neglected in all three cases.
+
+In our study we have made an attempt to see the quantitative effect of p–d hybridization in chalcopyrite systems. To carry out such quantitative study we freeze d orbitals of Zn and treat these orbitals as core orbitals like in binary semiconductors. Then we compare the band gap of these d frozen ZnSnX
+                        2 systems with the actual d orbital participated chalcopyrite systems. Since there is also an effect of structural distortion, therefore, to see the effect of p–d hybridization alone we consider ideal structure for both the cases. Partial density of states are plotted to study the orbital character and the nature of hybridization. We summarize the band gaps with and without contribution of d electrons of Zn cation in Table 7. The calculated result shows that there is a significant reduction of band gaps due to p–d hybridization. p–d hybridization not only has strong effect on band gap reduction, it also strongly affects the electronic structure in general. Fig. 7
+                         shows the TDOS for ZnSnX
+                        2 (X=P, As, Sb) with Zn d orbitals freezed, similar to the study we had carried out for AgAlM2 (M=S, Se, Te) [8] and CuInSe2 
+                        [23] in our previous work. Since LDA calculation underestimates band gap by 30–50%, it is expected that the result so obtained using LDA exchange correlation for band gap reduction due to p–d hybridization may not be accurate. But the way we have obtained our result, it should not depend much on the kind of exchange correlation used. The reason is that we are calculating the effect by the difference in band gaps obtained for Zn with the contribution of d electrons and that without its contribution. We expect almost equal underestimation would arise due to LDA in both the cases. Therefore, when we take the difference, the under estimation would be either neutralized or minimized. To prove our point, we have calculated this effect for CuInSe2 using hybrid functional of Giannozzi et al. [37] incorporated in Quantum Espresso code which uses the plane wave method. The code that we have used for other calculations using TB-LMTO method does not support for functionals beyond LDA and GGA. This hybrid calculation requires non-conserving atomic pseudopotentials. The required such pseudopotential is neither available for Zn atom nor we could generate. Therefore, we prefer to take CuInSe2 
+                        [38] as an example for the comparison with our result as computed within TB-LMTO method using LDA functional [23]. We find the band gaps to be 4.19eV (without hybridization) and 2.64eV (with hybridization) using hybrid functional. Though this calculation overestimate the gap by almost 2.5 times with respect to the experimental result (1.04eV), but the reduction, 1.55eV, is very near to what we had calculated using LDA functional by TB-LMTO method, i.e. 1.40eV [23]. Therefore, we believe that even if the gap is calculated very accurately, the difference will not change much.
+
+The p–d hybridization can be interpreted on the basis of simple molecular orbital considerations [1]. The p-orbitals that possess the 
+                           
+                              
+                                 Γ
+                              
+                              
+                                 15
+                              
+                           
+                         symmetry hybridize with those of the d-orbitals that possess the same symmetry. This hybridization forms a lower bonding state and an upper antibonding state. The antibonding state that constitutes the top of the valence band is predominantly formed by higher energy anion p-states and bonding state is constituted by the lower energy cation d-states. Perturbation theory [35] suggests that the two states 
+                           
+                              
+                                 Γ
+                              
+                              
+                                 15
+                              
+                           
+                           (
+                           p
+                           )
+                         and 
+                           
+                              
+                                 Γ
+                              
+                              
+                                 15
+                              
+                           
+                           (
+                           d
+                           )
+                         will repel each other by an amount inversely proportional to the energy difference between p and d states. So, this rising of the upper most state causes a gap reduction.
+
+In our study we observe that the structural distortion like bond alternation and tetragonal distortion are important factors which control the band gap. The structural contribution to the band gap is mainly controlled by bond alternation and has only a small contribution from tetragonal distortion [1]. There is no tetragonal distortion 
+                           (
+                           η
+                           =
+                           1
+                           )
+                         but there is only anion displacement in these three compounds. Table 8
+                         shows that there is a decrement in band gaps in the case of ZnSnX
+                        2 (X=P, As, Sb) due to structural distortion. In our earlier work on AgAlM2 (M=S, Se, Te) [8], we observed the opposite trend, i.e. band gap increases due to structural distortion. We find that the decrement in band gap due to structural distortion is maximum in the case of ZnSnP2 because the anion displacement is maximum (u=0.230). As u decreases, 
+                           (
+                           u
+                           <
+                           1
+                           /
+                           4
+                           )
+                        , excess charge is placed on the bond which is shorter, i.e. on the Zn–X bond and charge is depleted from the bond which is elongated, i.e. on the Sn–X bond. Due to this the upper valence band, which contains a majority of Zn–X mixed states, stabilizes by moving up in energy. The lower conduction band which mainly contains Sn–X mixed states is destabilized by moving down in energy. Thus there is a decrement in band gap due to structural distortion in these three cases. We have found similar result for CuInSe2 in our earlier work [23]. Our study shows that structural distortion not only affects the band gap but also the overall electronic structure significantly. A close comparison of TDOS for ideal (Fig. 8
+                        ) and non-ideal (Figs. 3 and 4) shows distinct differences in the structure in DOS. For example sharp peaks at 
+                           ≃
+                           7.0
+                         and 16.0eV appear in the non-ideal ZnSnP2 case as distortion disappears in the ideal case. The conduction bandwidth also increases due to structural distortion in the case of ZnSnP2. The conduction bandwidth decreases in both ideal ZnSnX
+                        2 (X=As, Sb) cases compared to their non-ideal cases. We find sharp structures in both upper valence band and conduction bands of non-ideal ZnSnSb2. But these types of structures are absent in the ideal case of this compound. The effect of distortion on valence and conduction bands indicates that distortion is also responsible for significant change in optical properties of such semiconductors.
+
+It is known that electro-negativity decreases the covalent nature of bonding. Therefore, this should also have effect on band gap. Jaffe et al. [1] have shown that the cation-electronegativity contribution to the band gap anomaly is nearly equal to 0.1–0.2eV in ternary chalcopyrites. This is very small effect. But this small effect of cation-electronegativity is significant in the case of II–IV–V2 compounds in comparison to the effect of p–d hybridization because the effect of p–d hybridization is also small in these systems.
+
+We study the cation-electronegativity effect of ZnSnX
+                        2 compounds in comparison to their binary analogs (III–III–V2 compounds). ZnSnX
+                        2 (X=P, As, Sb) are the crossed analogs of GaInP2, InGaAs2 and GaInSb2 respectively [10]. A clear definition of a crossed analog is given by Jaffe et al. [1] and Brudnyi [10]. So the cation-electronegativity (CE) contribution to the band gap anomaly of ZnSnP2 is the difference in band gaps of GaInP2 (with chalcopyrite space group) and ZnSnP2. Similar study has been carried out by Martins et al. [36] for MgSiP2 with its binary analogs AlP. To estimate the quantitative effect of CE in ZnSnX
+                        2, we freeze the d orbitals of Ga in GaInP2 and GaInSb2 and d orbitals of In in InGaAs2. To exclude the structural effect on band gap, we use the lattice parameters of GaInP2, InGaAs2 and GaInSb2 for ZnSnX
+                        2 (X=P, As, Sb) respectively. The whole calculation is carried out considering the ideal structure of ZnSnX
+                        2. From Table 9
+                         we observe that the CE effect is responsible for increasing the band gap of ZnSnX
+                        2 relative to their binary analogs.
+
+Calculations and study of ZnSnX
+                     2 (X=P, As, Sb) suggest that these compounds are direct band gap semiconductors with band gaps of 1.23eV, 0.68eV and 0.19eV respectively. Our result of structural properties agrees well with the experimental values. Our study further shows that unlike other II–III–V2 group chalcopyrites, electronic properties of ZnSnX
+                     2 semiconductors significantly depend on the p–d hybridization, structural distortion and cation electronegativity. The calculation is carried out using the DFT based TB-LMTO method. We have used LDA for our exchange co-relation functional. A detailed study of TDOS and PDOS shows that there is a reduction in band gap by 0.22 (13.41%), 0.20 (18.51%) and 0.24eV (40.0%) respectively for X=P, As and Sb due to the p–d hybridization. Our calculation of the effect of p–d hybridization in CuInSe2 using hybrid functional by plane wave method as incorporated in Quantum Espresso code shows that the reduction is not much affected by under or over estimation of band gaps due to different functionals used. The band gap decreases also due to anion displacement in these systems. The gap decrement due to anion distortion is 0.20 (12.12%), 0.12 (11.11%) and 0.10eV (16.66%) respectively. Calculated TDOS further shows that there is significant effect on the electronic properties due to structural distortion and the presence of p–d hybridization. The quantitative effect of cation electronegativity (CE) on band gap is calculated for these three systems. We have observed that the CE effect is responsible for increasing the band gap of ZnSnX
+                     2 (X=P, As, Sb) relative to their binary analogs GaInP2, InGaAs2 and GaInSb2 respectively. The band gap increment is 0.13 (8.38%), 0.04 (3.70%) and 0.13eV (21.31%) respectively.
+
+This work was supported by Department of Science and Technology, India, under the grant no. SR/S2/CMP-26/2007. We would like to thank Prof. O.K. Andersen, Max Planck Institute, Stuttgart, Germany, for kind permission to use the TB-LMTO code developed by his group.

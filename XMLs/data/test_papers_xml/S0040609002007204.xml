@@ -1,0 +1,2587 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0040609002007204</prism:url><dc:identifier>doi:10.1016/S0040-6090(02)00720-4</dc:identifier><eid>1-s2.0-S0040609002007204</eid><prism:doi>10.1016/S0040-6090(02)00720-4</prism:doi><pii>S0040-6090(02)00720-4</pii><dc:title>Infrared characterisation of evaporated SiO thin films </dc:title><prism:publicationName>Thin Solid Films</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00406090</prism:issn><prism:volume>416</prism:volume><prism:issueIdentifier>1-2</prism:issueIdentifier><prism:startingPage>24</prism:startingPage><prism:endingPage>30</prism:endingPage><prism:pageRange>24-30</prism:pageRange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2002-09-02</prism:coverDate><prism:coverDisplayDate>2 September 2002</prism:coverDisplayDate><prism:copyright>Copyright © 2002 Elsevier Science B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier Science B.V.</prism:publisher><dc:creator>Pérez, G.</dc:creator><dc:creator>Sanz, J.M.</dc:creator><dc:description>
+                  Thin films of SiO deposited on Si substrates by thermal evaporation have been characterised by the analysis of infrared absorption bands and optical constants determination. The structure of the films has been studied in terms of the RBM (Random Bonding Model) and a deviation from the pure RBM structure has been found in the relative concentration of the different tetrahedra SiO
+                        y
+                     Si4–y
+                      (y=1–4) and in the presence of an additional contribution of SiO4 tetrahedra confirmed by the optical properties. Comparative study of films deposited under different conditions and with different thickness suggests that the local arrangement of Si and O atoms, the oxygen content of the films and morphological changes in the films must be considered to account for all the effects observed.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Silicon oxide</dcterms:subject><dcterms:subject>Optical properties</dcterms:subject><dcterms:subject>Structural properties</dcterms:subject><dcterms:subject>Infrared spectroscopy</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0040609002007204" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0040609002007204" rel="scidir"/></coredata><objects><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="317" height="60" size="2092">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="152" height="51" size="929">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="267" height="40" size="1483">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="337" height="70" size="1750">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="108" height="93" size="1976">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="263" height="227" size="6359">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="122" height="93" size="1824">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="282" height="215" size="5396">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-gr2.gif?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="38" height="94" size="972">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="376" height="928" size="27173">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-gr3.gif?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="37" height="91" size="1231">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="376" height="928" size="38657">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609002007204-gr4.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>0037009766</scopus-id><scopus-eid>2-s2.0-0037009766</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0037009766" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271603</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Thin Solid Films</xocs:srctitle>
+      <xocs:normalized-srctitle>THINSOLIDFILMS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20021028">2002-10-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20021028">2002-10-28</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-06T04:32:26</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0040609002007204</xocs:eid>
+      <xocs:pii-formatted>S0040-6090(02)00720-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0040609002007204</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0040-6090(02)00720-4</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0040609000X07614</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T02:48:32.037377-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20020902</xocs:date-search-begin>
+      <xocs:year-nav>2002</xocs:year-nav>
+      <xocs:indexeddate epoch="1035763200">2002-10-28T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0040-6090</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00406090</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>416</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>416</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>2</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 416, Issues 1–2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>24</xocs:first-fp>
+      <xocs:last-lp>30</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>24</xocs:first-page>
+         <xocs:last-page>30</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20020902</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2 September 2002</xocs:cover-date-text>
+      <xocs:cover-date-start>2002-09-02</xocs:cover-date-start>
+      <xocs:cover-date-year>2002</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2002 Elsevier Science B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INFRAREDCHARACTERISATIONEVAPORATEDSIOTHINFILMS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PEREZ</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>HASS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1949</xocs:ref-pub-year>
+            <xocs:ref-first-fp>179</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>SAVAGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INFRAREDOPTICALMATERIALSANTIREFLECTIONCOATINGS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2398</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>HASS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1954</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>HJORTSBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1694</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>PHILIPP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HANDBOOKOPTICALCONSTANTSSOLIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LOPEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>PHILIPP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>627</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>PHILIPP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1935</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>CHING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6610</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>NAKAMURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1079</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>FINSTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>671</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>LISOVSKII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>264</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>LISOVSKII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>91</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>BOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4166</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>BOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3195</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>FITCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>153</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>PAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>689</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>67</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>PLISKIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1013</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>LEHMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>505</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>GONZALEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>TSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1795</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>92</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB25">
+            <xocs:ref-normalized-surname>BULKIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>58</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB26">
+            <xocs:ref-normalized-surname>RINNERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>484</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB27">
+            <xocs:ref-normalized-surname>BENISSAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>230</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB28">
+            <xocs:ref-normalized-surname>HINDS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>507</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB29">
+            <xocs:ref-normalized-surname>BOYD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>418</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB30">
+            <xocs:ref-normalized-surname>LISOVSKII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>164</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB31">
+            <xocs:ref-normalized-surname>SWANEPOEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1214</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB32">
+            <xocs:ref-normalized-surname>YING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2056</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB33">
+            <xocs:ref-normalized-surname>DELPOZO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>137</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB34">
+            <xocs:ref-normalized-surname>KUCHEROV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>124</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB35">
+            <xocs:ref-normalized-surname>KIRK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1255</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB36">
+            <xocs:ref-normalized-surname>LANGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3532</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB37">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB38">
+            <xocs:ref-normalized-surname>THORNTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>666</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB39">
+            <xocs:ref-normalized-surname>MARTINET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4343</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB40">
+            <xocs:ref-normalized-surname>OSSIKOVSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1797</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PEREZX2002X24</xocs:refkey3>
+         <xocs:refkey4lp>PEREZX2002X24X30</xocs:refkey4lp>
+         <xocs:refkey4ai>PEREZX2002X24XG</xocs:refkey4ai>
+         <xocs:refkey5>PEREZX2002X24X30XG</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0040-6090(02)00720-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0040609002007204</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0040609002007204</xocs:eid>
+         <xocs:doi>10.1016/S0040-6090(02)00720-4</xocs:doi>
+         <xocs:cid>271603</xocs:cid>
+         <xocs:timestamp>2010-11-03T18:52:31.665225-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2002-09-02</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/MAIN/application/pdf/6ed8061c26970cb56f6f0fc612d78fca/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/MAIN/application/pdf/6ed8061c26970cb56f6f0fc612d78fca/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>189579</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0040609002007204-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/PREVIEW/image/png/32b15eedcd5359f924db0de219c44a97/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/PREVIEW/image/png/32b15eedcd5359f924db0de219c44a97/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64299</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/STRIPIN/image/gif/809018a5771df9c3a8c4a5de4c6ccdbe/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/STRIPIN/image/gif/809018a5771df9c3a8c4a5de4c6ccdbe/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2092</xocs:filesize>
+               <xocs:pixel-height>60</xocs:pixel-height>
+               <xocs:pixel-width>317</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/STRIPIN/image/gif/6ac44e1b3b75a840bd8625dd6ab9b150/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/STRIPIN/image/gif/6ac44e1b3b75a840bd8625dd6ab9b150/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>929</xocs:filesize>
+               <xocs:pixel-height>51</xocs:pixel-height>
+               <xocs:pixel-width>152</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/STRIPIN/image/gif/9c93a900290111d3fc8b136428c4217b/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/STRIPIN/image/gif/9c93a900290111d3fc8b136428c4217b/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1483</xocs:filesize>
+               <xocs:pixel-height>40</xocs:pixel-height>
+               <xocs:pixel-width>267</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/STRIPIN/image/gif/f00b584bd5b3b366c45911fa728bdb0b/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/STRIPIN/image/gif/f00b584bd5b3b366c45911fa728bdb0b/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1750</xocs:filesize>
+               <xocs:pixel-height>70</xocs:pixel-height>
+               <xocs:pixel-width>337</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/gr1/THUMBNAIL/image/gif/7d0ce62aeeea4d4f95fc366e5f89fa1f/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/gr1/THUMBNAIL/image/gif/7d0ce62aeeea4d4f95fc366e5f89fa1f/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1976</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>108</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/gr1/DOWNSAMPLED/image/gif/9339d00f53c84fd0d05ca34dcf6653b0/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/gr1/DOWNSAMPLED/image/gif/9339d00f53c84fd0d05ca34dcf6653b0/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>6359</xocs:filesize>
+               <xocs:pixel-height>227</xocs:pixel-height>
+               <xocs:pixel-width>263</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/gr2/THUMBNAIL/image/gif/f79fe01eeac3d15714b9bd6d09eb7b3d/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/gr2/THUMBNAIL/image/gif/f79fe01eeac3d15714b9bd6d09eb7b3d/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1824</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>122</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-gr2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/gr2/DOWNSAMPLED/image/gif/52faa68f0c1fb5b65bd2262e7e3618e2/gr2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/gr2/DOWNSAMPLED/image/gif/52faa68f0c1fb5b65bd2262e7e3618e2/gr2.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5396</xocs:filesize>
+               <xocs:pixel-height>215</xocs:pixel-height>
+               <xocs:pixel-width>282</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/gr3/THUMBNAIL/image/gif/a973d707735b37097fc8894f853cd181/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/gr3/THUMBNAIL/image/gif/a973d707735b37097fc8894f853cd181/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>972</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>38</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-gr3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/gr3/DOWNSAMPLED/image/gif/2563617d0b90f63a84eae36041835c25/gr3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/gr3/DOWNSAMPLED/image/gif/2563617d0b90f63a84eae36041835c25/gr3.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>27173</xocs:filesize>
+               <xocs:pixel-height>928</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/gr4/THUMBNAIL/image/gif/80cb08880a651afeac1e8589aa23a071/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/gr4/THUMBNAIL/image/gif/80cb08880a651afeac1e8589aa23a071/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1231</xocs:filesize>
+               <xocs:pixel-height>91</xocs:pixel-height>
+               <xocs:pixel-width>37</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609002007204-gr4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609002007204/gr4/DOWNSAMPLED/image/gif/13d2e11a8ee0cd381959a33123dda4e7/gr4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609002007204/gr4/DOWNSAMPLED/image/gif/13d2e11a8ee0cd381959a33123dda4e7/gr4.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>38657</xocs:filesize>
+               <xocs:pixel-height>928</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>TSF</jid>
+            <aid>16029</aid>
+            <ce:pii>S0040-6090(02)00720-4</ce:pii>
+            <ce:doi>10.1016/S0040-6090(02)00720-4</ce:doi>
+            <ce:copyright type="full-transfer" year="2002">Elsevier Science B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Measured and calculated spectra for sample 5 and measured spectrum of the silicon substrate.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Optical constants determined for three representative SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (<ce:italic>x</ce:italic>≈1) films.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">SiO bond stretching band of SiO films evaporated under different conditions. Effect of substrate temperature (a), film thickness (b) and deposition rate (c) on the shape and the frequency of the bands.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="FIG4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Results of the analysis of the absorption bands in terms of five gaussian components. Effect of substrate temperature (a), film thickness (b) and deposition rate on the relative contribution of each component to the measured band and on the shape of its second derivative.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Deposition parameters and optical constants of the SiO samples</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>T</italic>
+                           <inf loc="post">
+                              <italic>s</italic>
+                           </inf> (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rate (Å/s)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>d</italic>
+                           <inf loc="post">nom</inf> (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>n</italic> (4 μm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>d</italic>
+                           <inf loc="post">exp</inf> (nm)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Room</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.878</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1710</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">140</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.860</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1702</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.823</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1684</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1480</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.852</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1384</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.889</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1527</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.894</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1048</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">535</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.854</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">570</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">160</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.868</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">190</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">300</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.843</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1587</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">370</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.868</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1525</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL2" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Parameters of the Gaussian components obtained from the analysis of the absorption spectra of the SiO samples</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">i</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ν<inf loc="post">
+                              <italic>i</italic>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>w</italic>
+                           <inf loc="post">
+                              <italic>i</italic>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Structural</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">θ<inf loc="post">
+                              <italic>i</italic>
+                           </inf>°</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(cm<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(cm<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">unit</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <hsp sp="0.5"/>949±6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">82±12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiOSi<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">107</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1003±4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">79±10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf>Si<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">120</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1051±5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">69±7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">3</inf>Si</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">133</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1092±4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">78±11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">4</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">148</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1150±5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">69±14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">4</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL3" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Relative intensity of the different structural units used in the analysis of the absorption bands</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C5</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiOSi<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf>Si<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">3</inf>Si</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">4</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">4</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.262</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.350</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.141</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.173</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.074</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.223</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.336</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.138</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.228</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.075</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.232</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.350</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.126</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.216</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.076</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.242</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.389</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.167</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.147</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.055</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.186</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.331</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.137</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.232</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.114</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RBM (<italic>x</italic>=1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.250</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.375</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.250</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.063</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">RBM (<italic>x</italic>=1.5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.047</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.211</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.422</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.316</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Infrared characterisation of evaporated SiO thin films</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>G.</ce:given-name>
+                  <ce:surname>Pérez</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="COR1">*</ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.M.</ce:given-name>
+                  <ce:surname>Sanz</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>CIDA, Arturo Soria 289, E-28033 Madrid, Spain</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department Fı́sica Aplicada, Universidad Autónoma de Madrid, Cantoblanco, E-28049 Madrid, Spain</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author. Tel.: +34-913-020-640; fax: +34-917-661-648</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="1" month="8" year="2001"/>
+            <ce:date-revised day="20" month="6" year="2002"/>
+            <ce:date-accepted day="24" month="6" year="2002"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Thin films of SiO deposited on Si substrates by thermal evaporation have been characterised by the analysis of infrared absorption bands and optical constants determination. The structure of the films has been studied in terms of the RBM (Random Bonding Model) and a deviation from the pure RBM structure has been found in the relative concentration of the different tetrahedra SiO<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">4–<ce:italic>y</ce:italic>
+                     </ce:inf> (<ce:italic>y</ce:italic>=1–4) and in the presence of an additional contribution of SiO<ce:inf loc="post">4</ce:inf> tetrahedra confirmed by the optical properties. Comparative study of films deposited under different conditions and with different thickness suggests that the local arrangement of Si and O atoms, the oxygen content of the films and morphological changes in the films must be considered to account for all the effects observed.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Silicon oxide</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Optical properties</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Structural properties</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Infrared spectroscopy</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">SiO thin films have been widely used as protective layers in metallic mirrors, as antireflection coatings and as low index layers in multilayer coatings for the mid-IR range. In semiconductor technology, SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> films have been used as pasivating layers and more recently it has been proposed as the optimal AR coating for travelling-wave InGaAsP laser amplifiers <ce:cross-refs refid="BIB1 BIB2 BIB3">[1–3]</ce:cross-refs>. In spite of its technological importance, the optical properties of evaporated SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (<ce:italic>x</ce:italic>≈1) have been scarcely studied. In fact, since the pioneering work by Hass and Salzberg <ce:cross-ref refid="BIB4">[4]</ce:cross-ref>, the number of studies on its optical parameters is rather scarce <ce:cross-refs refid="BIB5 BIB6 BIB7">[5–7]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">In regard of the structure of SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> films (<ce:italic>x</ce:italic>≈1), a controversy between two models, i.e. the mixture model (MM) and the random bonding model (RBM) has been present since Philipp proposed the latter in 1971 <ce:cross-refs refid="BIB8 BIB9">[8,9]</ce:cross-refs>. The more recent studies <ce:cross-refs refid="BIB10 BIB11 BIB12 BIB13 BIB14">[10–14]</ce:cross-refs> seem to support the RBM although no definite argument has been found to eliminate the MM. Whereas the MM considers the SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> films as constituted by SiSi<ce:inf loc="post">4</ce:inf> and SiO<ce:inf loc="post">4</ce:inf> structural units, the RBM predicts the presence of several tetrahedral units defined by SiO<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">4–<ce:italic>y</ce:italic>
+                     </ce:inf>, where <ce:italic>y</ce:italic> runs from 0 to 4. These tetrahedrons are characterised by a specific SiOSi bond angle and their relative concentrations follow a simple statistics <ce:cross-refs refid="BIB8 BIB9">[8,9]</ce:cross-refs>. In fact, the model has been widely used to interpret the intense and broad absorption bands, found for SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> films with <ce:italic>x</ce:italic>&lt;2 at frequencies between 1080 and 450 cm<ce:sup loc="post">−1</ce:sup>, as due to different stretching and bending modes. Changes in both the frequency and the shape of the absorption bands have then been associated with structural and compositional changes as well as with densification of the film or variations in the bond strain <ce:cross-refs refid="BIB4 BIB11 BIB15 BIB16 BIB17 BIB18 BIB19 BIB20 BIB21 BIB22 BIB23 BIB24 BIB25 BIB26 BIB27 BIB28">[4,11,15–28]</ce:cross-refs>. In some recent studies <ce:cross-refs refid="BIB13 BIB14 BIB29 BIB30">[13,14,29,30]</ce:cross-refs> the SiO bond-stretching band at approximately 1000 cm<ce:sup loc="post">−1</ce:sup> has been successfully analysed in terms of the tetrahedral units mentioned above and this analysis has enabled a detailed structural characterisation of different films.</ce:para>
+                  <ce:para view="all">The aim of this paper is to perform a structural and optical characterisation of SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> films with <ce:italic>x</ce:italic>≈1, deposited by vacuum evaporation on silicon substrates, as a function of the deposition parameters. The structural information is obtained from the analysis of the absorption band associated with the SiO bond-stretching mode, whereas the optical parameters are determined from the quantitative analysis of the interference effects in transmission spectra.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:para view="all">Thin SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (<ce:italic>x</ce:italic>≈1) films have been deposited on polished Si substrates by thermal evaporation of SiO from a Mo boat in a high vacuum system (base pressure=2 10<ce:sup loc="post">−6</ce:sup> mbar) at different substrate temperatures and deposition rates. The Si substrates were rotated at 19 rpm during the deposition process. The substrate temperature was maintained constant at <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>s</ce:italic>
+                     </ce:inf> during at least 2 h prior to start the deposition. The deposition rate was controlled by a quartz crystal monitor, which automatically finished the deposition process when the programmed nominal thickness (<ce:italic>d</ce:italic>
+                     <ce:inf loc="post">nom</ce:inf>) was reached. The deposition parameters have been summarised in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="TBL1"/>.</ce:para>
+                  <ce:para view="all">IR transmission spectra at normal incidence were measured with an FTIR spectrophotometer (Perkin–Elmer Spectrum GX Optica), with an optimised optical system to assure accuracy of the corresponding photometric magnitude. Two spectra were measured for each sample, one in the wavenumber range from 8000 to 1600 cm<ce:sup loc="post">−1</ce:sup> (wavelength from 1.25 to 6.25 μm) for the determination of optical constants and the other in the range from 1600 to 400 cm<ce:sup loc="post">−1</ce:sup>, where the characteristic absorption bands of Si and SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> were measured. In order to define the absorption bands associated with the SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> film, a previously collected spectrum of the uncoated substrate was subtracted from the raw experimental data. A comparison between absorption spectra from different samples was performed after subtraction of a straight baseline from the band of interest at approximately 1000 cm<ce:sup loc="post">−1</ce:sup> and its normalisation to the maximum intensity.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">The optical constants, <ce:italic>n</ce:italic> and <ce:italic>k</ce:italic>, and the thickness of the different films were determined by the common procedure of analysis of interference effects in the transparent region of the transmission spectra. We have used the well-known method introduced by Swanepoel <ce:cross-ref refid="BIB31">[31]</ce:cross-ref> to estimate the thickness and refractive index from the extrema observed in the transmission spectrum. An iterative process is then used to search for the <ce:italic>n</ce:italic>(λ), <ce:italic>k</ce:italic>(λ) and thickness that better simulate the experimental data, assuming a Sellmeier behaviour for <ce:italic>n</ce:italic>(λ) and an exponential dependence for <ce:italic>k</ce:italic>(λ) <ce:cross-refs refid="BIB32 BIB33">[32,33]</ce:cross-refs>:<display>
+                        <formula id="EQ1">
+                           <ce:label>(1)</ce:label>
+                           <math altimg="si1.gif">n<fen>
+                                 <cp type="lpar" style="s"/>λ<cp type="rpar" style="s"/>
+                              </fen>=<rad>
+                                 <rcd>1+<fr shape="built" align="c" style="s">
+                                       <nu>
+                                          <rm>A</rm>
+                                       </nu>
+                                       <de>1+<fr shape="built" align="c" style="s">
+                                             <nu>
+                                                <rm>B</rm>
+                                             </nu>
+                                             <de>λ<sup loc="post">2</sup>
+                                             </de>
+                                          </fr>
+                                       </de>
+                                    </fr>
+                                 </rcd>
+                              </rad>
+                              <ce:hsp sp="1"/>
+                              <rm>and</rm>
+                              <ce:hsp sp="0.5"/>k=<rm>C</rm>∗e<sup loc="post">
+                                 <fr shape="built" align="c" style="s">
+                                    <nu>−<fen>
+                                          <cp type="lpar" style="s"/>λ−<rm>D</rm>
+                                          <cp type="rpar" style="s"/>
+                                       </fen>
+                                    </nu>
+                                    <de>
+                                       <rm>E</rm>
+                                    </de>
+                                 </fr>
+                              </sup>
+                           </math>
+                        </formula>
+                     </display>where A, B, C, D and E are constants. A typical comparison between an experimental and a simulated transmittance curve is shown in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="FIG1"/> for sample 5. The agreement between the two curves is excellent in the wavelength range up to 4.3 μm, but for higher wavelengths the fitting of the experimental curve is poorer. It is also observed that the transmittance of the interference minimum at λ≈5.7 μm is clearly lower than the transmittance of the uncoated substrate, indicating the presence of absorption in the film.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="FIG2"/> shows the refractive index <ce:italic>n</ce:italic> and the absorption coefficient <ce:italic>k</ce:italic> of three representative SiO samples as a function of the wavelength in the 1.25–6 μm range. The absorption coefficient at wavelengths lower than 4.3 μm is below 10<ce:sup loc="post">−3</ce:sup> for all the samples, but increases rapidly at higher wavelengths to account for the decrease in the transmittance (cf. <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>). This enhancement of <ce:italic>k</ce:italic> is obviously not expected in stoichiometric SiO, for which the absorption should be very low in the whole range of variation of the wavelength. In fact, this behaviour corresponds rather well with that expected for amorphous SiO<ce:inf loc="post">2</ce:inf> 
+                     <ce:cross-ref refid="BIB6">[6]</ce:cross-ref>. Therefore, it clearly indicates the presence of some SiO<ce:inf loc="post">2</ce:inf> in the films. The increase in <ce:italic>k</ce:italic>(λ) should be related to a decrease in the refractive index for λ&gt;4.3 μm that is not observed in <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref> due to the Sellmeier dependence assumed for <ce:italic>n</ce:italic>(λ) (see <ce:cross-ref refid="EQ1">Eq. (1)</ce:cross-ref>). The inaccuracy in the determination of the refractive index using this spectral dependence beyond the transparency region must be responsible for the poorer fitting of the experimental % <ce:italic>T</ce:italic>(λ) at high wavelengths observed in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>. Nevertheless, for λ≤4.3 μm reliable results are obtained for the optical constants of the films. The experimental thickness (<ce:italic>d</ce:italic>
+                     <ce:inf loc="post">exp</ce:inf>) as well as the <ce:italic>n</ce:italic> values at λ=4 μm have been collected in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref> together with the deposition parameters. The refractive indices obtained in this study range between 1.82 and 1.89, depending on the deposition conditions and are in good agreement with those reported by other authors for SiO films <ce:cross-refs refid="BIB6 BIB7">[6,7]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="FIG3"/> shows the main absorption band of the respective SiO films as a function of the temperature (a), the thickness (b) and the deposition rate (c). The bands extend between 1250 and 840 cm<ce:sup loc="post">−1</ce:sup>, in fair agreement with other bands previously reported for evaporated SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (<ce:italic>x</ce:italic>&lt;2) films <ce:cross-refs refid="BIB4 BIB5 BIB11 BIB20 BIB26">[4,5,11,20,26]</ce:cross-refs>, but much broader than those measured in films obtained by reactive sputtering or chemical vapour deposition (CVD) <ce:cross-refs refid="BIB13 BIB14 BIB21">[13,14,21]</ce:cross-refs>. It is interesting to observe that both the shape and the maximum of the band depend slightly on the deposition parameters. In fact, the inset in every figure (cf. <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>a,b,c), where the wavenumber corresponding to the maximum of the band has been depicted as a function of the respective deposition parameters, indicates a clear shift of the maximum toward higher wavenumbers in the case of increasing the temperature or the film thickness (cf. <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>a,b), but the shift appears to be negligible when the deposition rate is changed (cf. <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>c). The position (ν<ce:inf loc="post">
+                        <ce:italic>m</ce:italic>
+                     </ce:inf>) of the maximum absorption is well known to depend on the stoichiometry of the films <ce:cross-refs refid="BIB11 BIB18 BIB19 BIB21 BIB22 BIB26">[11,18,19,21,22,26]</ce:cross-refs>. Nakamura et al. <ce:cross-ref refid="BIB11">[11]</ce:cross-ref> found for evaporated SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> films ν<ce:inf loc="post">
+                        <ce:italic>m</ce:italic>
+                     </ce:inf> values which vary between 980 and 1010 cm<ce:sup loc="post">−1</ce:sup> for changes in the stoichiometry (<ce:italic>x</ce:italic>) between 1 and 1.15, while Rinnert et al. <ce:cross-ref refid="BIB26">[26]</ce:cross-ref> found a value of ν<ce:inf loc="post">
+                        <ce:italic>m</ce:italic>
+                     </ce:inf>=995 cm<ce:sup loc="post">−1</ce:sup> for <ce:italic>x</ce:italic>=0.95 in films prepared by coevaporation of Si and SiO. In our case, the measured ν<ce:inf loc="post">
+                        <ce:italic>m</ce:italic>
+                     </ce:inf> ranges between 994 and 1018 cm<ce:sup loc="post">−1</ce:sup> and confirm that the composition of all our films remains close to <ce:italic>x</ce:italic>≈1.</ce:para>
+                  <ce:para view="all">In order to get a quantitative insight into the structure of our SiO films we have performed an analysis of the experimental absorption bands depicted in <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref> in terms of several gaussian components using the procedure outlined by Kucherov and Kochubei <ce:cross-ref refid="BIB34">[34]</ce:cross-ref>. The number and position of these components were estimated from a preliminary analysis of the second derivative of the band. The final number of components as well as their respective positions and widths were obtained by an iterative fitting procedure, where a good fitting of the band profile and its second derivative as well as a coherent analysis of all the samples were required. <ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="FIG4"/> shows typical analysis of some selected bands. In addition, the second derivative of the experimental absorption bands has been included in an inset for a better estimation of the changes induced by the corresponding parameter. The best results for all the samples with the minimum number of components were obtained considering five gaussians, whose positions (ν<ce:inf loc="post">
+                        <ce:italic>i</ce:italic>
+                     </ce:inf>) and full widths at half maximum (<ce:italic>w</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>i</ce:italic>
+                     </ce:inf>) have been collected in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="TBL2"/>. Both parameters remained almost constant for all the samples as it is clearly indicated by the fact that the deviations from the average value are rather small, i.e. ≤6 cm<ce:sup loc="post">−1</ce:sup> for ν<ce:inf loc="post">
+                        <ce:italic>i</ce:italic>
+                     </ce:inf> and ≤14 cm<ce:sup loc="post">−1</ce:sup> for <ce:italic>w</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>i</ce:italic>
+                     </ce:inf>. The rms deviation of the summed components from the experimental spectrum was in all the cases lower than 5×10<ce:sup loc="post">−3</ce:sup>.</ce:para>
+                  <ce:para view="all">The structural information contained in the absorption bands can be studied in terms of the random bonding model (RBM) proposed by Philipp <ce:cross-refs refid="BIB8 BIB9">[8,9]</ce:cross-refs> and widely accepted to describe the structure of SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> with <ce:italic>x</ce:italic>&lt;2. In fact, although our experimental absorption bands appear to be composed of five components, four of them can be interpreted in terms of the RBM as due to different SiO<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">4–<ce:italic>y</ce:italic>
+                     </ce:inf> tetrahedrons, with 1≤<ce:italic>y</ce:italic>≤4. The model also predicts that the probability of finding the corresponding tetrahedron for a certain stoichiometry <ce:italic>x</ce:italic>, is given by <ce:cross-ref refid="BIB21">[21]</ce:cross-ref>:<display>
+                        <formula>
+                           <ce:label>(2)</ce:label>
+                           <math altimg="si2.gif">P<inf loc="post">y</inf>
+                              <fen>
+                                 <cp type="lpar" style="s"/>x<cp type="rpar" style="s"/>
+                              </fen>=<fr shape="built" align="c" style="s">
+                                 <nu>y</nu>
+                                 <de>2x</de>
+                              </fr>
+                              <fen>
+                                 <cp type="lpar" style="s"/>
+                                 <ar>
+                                    <r>
+                                       <c cspan="1" rspan="1" ca="l" ra="t">4</c>
+                                    </r>
+                                    <r>
+                                       <c cspan="1" rspan="1" ca="l" ra="t">y</c>
+                                    </r>
+                                 </ar>
+                                 <cp type="rpar" style="s"/>
+                              </fen>
+                              <fen>
+                                 <cp type="lpar" style="s"/>
+                                 <fr shape="built" align="c" style="s">
+                                    <nu>x</nu>
+                                    <de>2</de>
+                                 </fr>
+                                 <cp type="rpar" style="s"/>
+                              </fen>
+                              <sup loc="post">y</sup>
+                              <fen>
+                                 <cp type="lpar" style="s"/>1−<fr shape="built" align="c" style="s">
+                                    <nu>x</nu>
+                                    <de>2</de>
+                                 </fr>
+                                 <cp type="rpar" style="s"/>
+                              </fen>
+                              <sup loc="post">4−y</sup>
+                           </math>
+                        </formula>
+                     </display>
+                  </ce:para>
+                  <ce:para view="all">The frequency of maximum absorption associated with the stretching mode of the oxygen for a SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> film is then given by the corresponding average <ce:cross-ref refid="BIB21">[21]</ce:cross-ref>:<display>
+                        <formula>
+                           <ce:label>(3)</ce:label>
+                           <math altimg="si3.gif">ν<inf loc="post">c</inf>
+                              <fen>
+                                 <cp type="lpar" style="s"/>x<cp type="rpar" style="s"/>
+                              </fen>=<lim>
+                                 <op>∑</op>
+                                 <ll>y=1</ll>
+                                 <ul>4</ul>
+                              </lim>P<inf loc="post">y</inf>
+                              <fen>
+                                 <cp type="lpar" style="s"/>x<cp type="rpar" style="s"/>
+                              </fen>ν<inf loc="post">y</inf>
+                           </math>
+                        </formula>
+                     </display>where ν<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf> is the vibration frequency associated to the stretching mode of oxygen in the respective tetrahedron SiO<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">4–<ce:italic>y</ce:italic>
+                     </ce:inf>.</ce:para>
+                  <ce:para view="all">As mentioned above, we interpret the four components at lower wavenumbers as due to the four tetrahedrons (i.e. 1≤<ce:italic>y</ce:italic>≤4) predicted by the RBM. The fifth component at ν<ce:inf loc="post">5</ce:inf>=1150 cm<ce:sup loc="post">−1</ce:sup> has been reported in the literature <ce:cross-refs refid="BIB18 BIB19 BIB35 BIB36 BIB37">[18,19,35–37]</ce:cross-refs> as due to the asymmetrical stretching mode in amorphous SiO<ce:inf loc="post">2</ce:inf>, with adjacent oxygen atoms moving out-of-phase. This contribution is known to be associated with a more intense absorption peak centered at 1075–1090 cm<ce:sup loc="post">−1</ce:sup> corresponding to the in-phase motion of oxygen atoms that must be included into the fourth component in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>. It is interesting to note that due to the presence of these extra components the experimental frequencies of maximum absorption (cf. ν<ce:inf loc="post">
+                        <ce:italic>m</ce:italic>
+                     </ce:inf> in <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>) are clearly affected and do not correspond to those predicted by the RBM model.</ce:para>
+                  <ce:para view="all">The SiOSi angles, θ<ce:inf loc="post">
+                        <ce:italic>i</ce:italic>
+                     </ce:inf>, in the different tetrahedrons can also be estimated in terms of the frequencies ν<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>, according to the RBM, by <ce:cross-ref refid="BIB21">[21]</ce:cross-ref>:<display>
+                        <formula id="EQ4">
+                           <ce:label>(4)</ce:label>
+                           <math altimg="si4.gif">ν<inf loc="post">y</inf>=<fr shape="built" align="c" style="s">
+                                 <nu>1</nu>
+                                 <de>2πc</de>
+                              </fr>
+                              <rad>
+                                 <rcd>
+                                    <fr shape="built" align="c" style="s">
+                                       <nu>2</nu>
+                                       <de>m</de>
+                                    </fr>
+                                    <fen>
+                                       <cp type="lsqb" style="s"/>α<fen>
+                                          <cp type="lpar" style="s"/>
+                                          <rm>sen</rm>
+                                          <fr shape="built" align="c" style="s">
+                                             <nu>θ<inf loc="post">y</inf>
+                                             </nu>
+                                             <de>2</de>
+                                          </fr>
+                                          <cp type="rpar" style="s"/>
+                                       </fen>
+                                       <sup loc="post">2</sup>+β<fen>
+                                          <cp type="lpar" style="s"/>
+                                          <rm>cos</rm>
+                                          <fr shape="built" align="c" style="s">
+                                             <nu>θ<inf loc="post">y</inf>
+                                             </nu>
+                                             <de>2</de>
+                                          </fr>
+                                          <cp type="rpar" style="s"/>
+                                       </fen>
+                                       <sup loc="post">2</sup>
+                                       <cp type="rsqb" style="s"/>
+                                    </fen>
+                                 </rcd>
+                              </rad>
+                           </math>
+                        </formula>
+                     </display>where θ<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf> is the mean value of the SiOSi bond angle in every tetrahedron, <ce:italic>c</ce:italic> is the speed of light in vacuum, <ce:italic>m</ce:italic> is the atomic mass of oxygen and α and β are the respective central and non-central force constants for the SiO bond. According to Lehmann et al. <ce:cross-ref refid="BIB21">[21]</ce:cross-ref>, the values of α=600 N/m and β=100 N/m given in the literature for SiO<ce:inf loc="post">2</ce:inf> may be used for the SiO bond in SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> (<ce:italic>x</ce:italic>&lt;2) to obtain bond angles from <ce:cross-ref refid="EQ4">Eq. (4)</ce:cross-ref>. The estimated θ<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf> values are collected in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref> for 1≤<ce:italic>y</ce:italic>≤4 and are in general in good agreement with those theoretically predicted by the RBM. The fifth component corresponds to the same structural unit as the fourth component with a different motion of oxygen atoms.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>
+                     <ce:float-anchor refid="TBL3"/> shows the relative area of each component for different samples as compared with the values expected from the RBM for two different stoichiometries, i.e. <ce:italic>x</ce:italic>=1 and <ce:italic>x</ce:italic>=1.5. Interestingly, we can observe a fair agreement for the area of the two components at lower frequency when we compare with <ce:italic>x</ce:italic>=1, while the agreement is not so good for the other two components. In fact, we observe in our films a higher concentration of the SiO<ce:inf loc="post">4</ce:inf> component (θ<ce:inf loc="post">4</ce:inf>=148°) than that expected from the pure RB model. As indicated above this enhancement of the most oxidised component must be related to the in-phase asymmetrical stretching in SiO<ce:inf loc="post">4</ce:inf> tetrahedra in the amorphous SiO<ce:inf loc="post">2</ce:inf> structure. The enhancement of the fourth component and the presence of the fifth one, typical for a-SiO<ce:inf loc="post">2</ce:inf>, account for the high frequency side of the experimental absorption band and for the measured increase of the absorption coefficient, <ce:italic>k</ce:italic>, at wavelengths between 4 and 6 μm (cf. <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>). In fact, SIMS depth profiling of the films indicates rather clearly the presence of SiO<ce:inf loc="post">2</ce:inf> in a layer adjacent to the film–substrate interface.</ce:para>
+                  <ce:para view="all">Lisovskii et al. <ce:cross-ref refid="BIB14">[14]</ce:cross-ref> have performed a similar analysis of the absorption band of SiO<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf> films deposited by CVD. These authors make the analysis of their experimental absorption bands in terms of only four components centered at 1000, 1038, 1066 and 1092 cm<ce:sup loc="post">−1</ce:sup>, which when compared with the bands measured in this work, appear not only at slightly higher frequencies (cf. <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>) but also much narrower <ce:cross-ref refid="BIB14">[14]</ce:cross-ref>, probably because of the different method of synthesis of the films. As it is well-known, the structure of films grown by chemical vapour deposition techniques, and subsequently their IR spectra, is affected by the presence of impurities from the precursor gases <ce:cross-refs refid="BIB24 BIB27 BIB28">[24,27,28]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">In summary, the previous analysis and discussion allows to conclude that the structure of the SiO films studied here is formed by the tetrahedral units SiO<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">4–<ce:italic>y</ce:italic>
+                     </ce:inf> (<ce:italic>y</ce:italic>=1–4) proposed by the random bonding model with bond angles of 107, 120, 133 and 148°, respectively. Nevertheless, a proper analysis of the experimental absorption bands requires additional contributions of SiO<ce:inf loc="post">4</ce:inf> tetrahedra which appear to be at the interface with the Si substrate.</ce:para>
+                  <ce:para view="all">The influence of the deposition parameters and thickness on the structure of the SiO films may be studied in terms of this structural model. Increasing the deposition temperature causes a decrease in the contribution from SiOSi<ce:inf loc="post">3</ce:inf> tetrahedra and an enhancement of the SiO<ce:inf loc="post">4</ce:inf> tetrahedra, i.e. the most oxidised components. The rest of the structural units remain basically constant. This behaviour, associated with the shift of the band to higher frequencies observed in <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>a, must be due to an increase of the oxygen content in the films (i.e. oxidation) as the temperature of the substrate is raised. The effect is also indicated by a decrease in the refractive index from 1.88 at room temperature to 1.84 at <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>s</ce:italic>
+                     </ce:inf>=300 °C, in films deposited at 9 Å/s and with a nominal thickness of 1800 nm (cf. <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>). Increasing the temperature to 370 °C leads to a rapid increase of the refractive index, which is apparently not due to changes in the distribution of the tetrahedron units but to an increase in the density of the film. This abrupt increase in <ce:italic>n</ce:italic> has also been observed by López and Bernabeu <ce:cross-ref refid="BIB7">[7]</ce:cross-ref>, in SiO films (<ce:italic>d</ce:italic>=2.5–3 μm) deposited on sapphire at temperatures between 250 and 300 °C. These authors explain the effect as due to a structural change from densely packed fibrous grains to a dense columnar structure, according to the Thornton structural model <ce:cross-ref refid="BIB38">[38]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>b and <ce:cross-ref refid="TBL3">Table 3</ce:cross-ref> show the effect of the layer thickness on the absorption band of the films. The contribution of the SiO<ce:inf loc="post">4</ce:inf> tetrahedra is observed to increase as the film thickness increases and the general effect is a gradual shift of the absorption band to higher frequencies for higher film thickness. This behaviour is consistent with the results reported by other authors and is attributed to optical effects rather than to changes in the optical properties of the film <ce:cross-refs refid="BIB15 BIB37 BIB39 BIB40">[15,37,39,40]</ce:cross-refs>. The effect of layer thickness on the optical constants is a higher refractive index in layers with higher thickness. We must note that the optical characterization of films of low thickness is less reliable due to the lack of interference extrema in their transmission spectra from which this information is obtained. Nevertheless, differences in the density of the films, with denser films for higher thickness, may take account for the behaviour observed in refractive index.</ce:para>
+                  <ce:para view="all">Finally, the negligible variation of the absorption band and its components with the deposition rate of the films at 200 °C, cannot account for the clear decrease in refractive index observed as the rate is decreased. Again other effects, as the density of the films, must be considered to explain the behaviour of the optical constants.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">A detailed characterisation of SiO films thermally evaporated on silicon substrates based on the analysis of the IR absorption band related to oxygen stretching mode of SiO bond and on optical constants determination has been presented. The structure deduced for the SiO films is formed by the tetrahedral units SiO<ce:inf loc="post">
+                        <ce:italic>y</ce:italic>
+                     </ce:inf>Si<ce:inf loc="post">4–<ce:italic>y</ce:italic>
+                     </ce:inf> (<ce:italic>y</ce:italic>=1–4) proposed by the random bonding model but a deviation from the pure RBM structure is found in the relative concentration of the different tetrahedra and in the presence of an additional contribution of SiO<ce:inf loc="post">4</ce:inf> tetrahedra, confirmed by the optical properties.</ce:para>
+                  <ce:para view="all">Comparative study of the absorption bands and refractive indices of films deposited at different substrate temperatures and deposition rates and with different thickness has been presented. The results suggest that the local arrangement of Si and O atoms, and the oxygen content of the films may account for some of the behaviours observed, but morphological changes in the films must also be considered to account for all the effects.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">Thanks are due to all the members of the Optical Coatings group of CIDA and to R. Almazán for their help in the experimental work.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Hass</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.W.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Opt. Soc. Am.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1949</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>179</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Savage</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Infrared Optical Materials and their Antireflection Coatings</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Adam Hilger Ltd</sb:name>
+                                 <sb:location>Bristol</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I-Fan</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Dottellis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dagenais</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Technol. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2398</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Hass</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Salzberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Opt. Soc. Am.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1954</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hjortsberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Granqvist</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Opt.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1694</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.R.</ce:given-name>
+                                 <ce:surname>Philipp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>E.D.</ce:given-name>
+                                    <ce:surname>Palik</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Handbook of Optical Constants of Solids</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>López</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bernabéu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>191</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.R.</ce:given-name>
+                                 <ce:surname>Philipp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8–10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>627</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.R.</ce:given-name>
+                                 <ce:surname>Philipp</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1935</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.Y.</ce:given-name>
+                                 <ce:surname>Ching</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6610</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nakamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mochizuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Usami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Itoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nozaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1079</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Finster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Schulze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Meisel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>162</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>671</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.P.</ce:given-name>
+                                 <ce:surname>Lisovskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Litovchenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.B.</ce:given-name>
+                                 <ce:surname>Lozinskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.P.</ce:given-name>
+                                 <ce:surname>Melnik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Frolov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>247</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>264</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.P.</ce:given-name>
+                                 <ce:surname>Lisovskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Litovchenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.B.</ce:given-name>
+                                 <ce:surname>Lozinskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Frolov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Flietner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Fussel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>187</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>91</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.W.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.I.B.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4166</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.W.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.I.B.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3195</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Fitch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lucovsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Kobeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Irene</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Technol. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>153</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Pai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Chao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Takagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lucovsky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Technol. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>689</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hasegawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>261</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>67</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.A.</ce:given-name>
+                                 <ce:surname>Pliskin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Lehman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>112</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1013</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lehmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Schumann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hübner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Stat. Sol. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>121</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>505</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>González</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Fernández</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Garcı́a</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Serra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>León</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pérez-Amor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Szörényi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.V.</ce:given-name>
+                                 <ce:surname>Tsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lucovsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.N.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1795</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sakurai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kishimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Maruta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Matsumoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kikuchi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>334</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>92</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.V.</ce:given-name>
+                                 <ce:surname>Bulkin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Swart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Lacquet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>226</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>58</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Rinnert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Vergnat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Marchal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mat. Sci. Engn. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69–70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>484</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Benissad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Aumaille</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Granier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Goullet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>384</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>230</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Hinds</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Wolfe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Hinkle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lucovsky</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>227–230</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>507</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.W.</ce:given-name>
+                                 <ce:surname>Boyd</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>418</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.P.</ce:given-name>
+                                 <ce:surname>Lisovskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Litovchenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.B.</ce:given-name>
+                                 <ce:surname>Lozinskii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.I.</ce:given-name>
+                                 <ce:surname>Steblovskii</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>213</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>164</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Swanepoel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. E</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1214</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ying</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Feldman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.N.</ce:given-name>
+                                 <ce:surname>Farabaugh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2056</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>del Pozo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Dı́az</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>209</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>137</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Kucherov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Kochubei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Spectrosc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>124</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Kirk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1255</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lange</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Schnakenberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ullerich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Schliwinski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3532</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hasegawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>384</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>195</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB38">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A</ce:given-name>
+                                 <ce:surname>Thornton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>666</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB39">
+                     <ce:label>[39]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Martinet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.B.</ce:given-name>
+                                 <ce:surname>Devine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4343</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB40">
+                     <ce:label>[40]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ossikovski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Drévillon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Firon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Opt. Soc. Am. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1797</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,281 @@
+Title:
+Calculation and experimental characterization of the defect physics in CuInSe
+
+Abstract:
+Numerical simulations of the defect distribution of CuInSe2 were carried out as a function of the stoichiometry. The simulations are based on a new calculation of the intrinsic defects in this material. The results of the calculations were compared with earlier electrical and positron lifetime measurements. This leads to the assumption, that the single defects VSe, VCu, CuIn and the defect pair (2VCu–InCu) occur in the investigated specimens in considerable concentrations.
+
+Keywords:
+CuInSe2
+Positron lifetime
+Formation energy
+Energy level
+Stoichiometry
+Intrinsic defects
+
+Introduction:
+The electrical and optical properties of many ternary ionic compounds such as CuInSe2 are dominated by the presence of intrinsic point defects. These defects are related to the stoichiometry and the thermal history of the specimens. In a ternary compound at least twelve intrinsic defects (vacancies, interstitials and antisite defects) are possible, but considering that agglomerations of these defects can occur, the number may be considerably larger. In many practical applications of these compounds, the identification of the dominant defects would enhance the understanding of the properties and allow one to have better control.
+Based on a new calculation of the formation energies of some of these defects, the defect chemistry as a function of the stoichiometry was simulated. The results of the simulations are compared with positron lifetime measurements in CuInSe2 single crystals of various compositions. The positron annihilation spectroscopy is a suitable method which allows one to study vacancy-like defects in solids. Positrons can be trapped in the open volume of the defects which increases their lifetime. Since the trapping rate is sensitive to the charge states of a vacancy in semiconductors the lifetime can yield valuable information on the type of vacancies.
+
+Numerical calculations:
+The chalcopyrite semiconductors are characterized by a mixed covalent and ionic bonding between neighboring atoms. So we can assume, that the cations Cu
+                        α+ and In
+                        β+ and the anion Se
+                        γ− carry a charge, which participates in the bonding. The native defects in an ionic compound can occur in different charge states and have either acceptor- or donor- like behavior. Assuming that the cation–anion antisite defects do not occur, one can distinguish eight acceptor and donor defects with the following charge states [1,2]
+                     
+                        
+                           V
+                                 Cu
+                              
+                              
+                                 
+                                    α−m
+                                 −, V
+                                 In
+                              
+                              
+                                 
+                                    β−m
+                                 − , Se
+                              
+                                 i
+                              
+                              
+                                 
+                                    γ−m
+                                 −, Cu
+                              
+                                 In
+                              
+                              
+                                 
+                                    β−α−m
+                                 −
+                           
+                        
+                     
+                     
+                        
+                           
+                              Cu
+                              
+                                 i
+                              
+                              
+                                 
+                                    α−m
+                                 +, In
+                              
+                                 i
+                              
+                              
+                                 
+                                    β−m
+                                 + , V
+                                 Se
+                              
+                              
+                                 
+                                    γ−m
+                                 +, In
+                              
+                                 Cu
+                              
+                              
+                                 
+                                    β−α−m
+                                 +
+                           
+                        
+                     with β>α. The charge varies between the neutral state and the maximum charge which occurs for m=0.
+In a semiconductor, the electron concentrations are generally higher and the defects may occur in different charge states. Therefore, one would rather describe the electronic properties of the defects by their energy levels, and the different charge states by the occupation of these levels. It is possible to express the concentration of each charge state by the total concentration of the defect. Assuming that the energy levels of all defects are known, the neutrality condition is only a function of the electron concentration and the total concentration of the allowed eight intrinsic defects
+                        
+                           
+                              
+                                 
+                                 e
+                                 −
+                                 
+                              +
+                                 ∑
+                                 m=0
+                                 α
+                              m
+                                 
+                                 V
+                                 
+                                    Cu
+                                 
+                                 m−
+                                 
+                              +
+                                 ∑
+                                 m=0
+                                 β
+                              m
+                                 
+                                 V
+                                 
+                                    In
+                                 
+                                 m−
+                                 
+                              +
+                                 ∑
+                                 m=0
+                                 γ
+                              m
+                                 
+                                 Se
+                                 
+                                    i
+                                 
+                                 m−
+                                 
+                              +
+                                 ∑
+                                 m=0
+                                 β−α
+                              m
+                                 Cu
+                                    In
+                                 
+                                 m−
+                                 
+                              
+                           
+                        
+                     
+                     
+                        
+                           =
+                                 h+
+                                 
+                              +
+                                 ∑
+                                 m=0
+                                 α
+                              m
+                                 
+                                 Cu
+                                 
+                                    i
+                                 
+                                 m+
+                                 
+                              +
+                                 ∑
+                                 m=0
+                                 β
+                              m
+                                 
+                                 In
+                                 
+                                    i
+                                 
+                                 m+
+                                 
+                              +
+                                 ∑
+                                 m=0
+                                 γ
+                              m
+                                 
+                                 V
+                                 
+                                    Se
+                                 
+                                 m+
+                                 
+                              +
+                                 ∑
+                                 m=0
+                                 β−α
+                              m
+                                 
+                                 In
+                                 
+                                    Cu
+                                 
+                                 m+
+Using the internal thermodynamic equilibria between the eight intrinsic defects, one obtains six equations which are not independent from each other. That allows one to express the concentration of each defect by the concentration of two defects only. The calculation requires the knowledge of the formation enthalpies and entropies. The ΔS/k
+                     B values between one and three have been obtained by investigations in metals and ionic compounds. In semiconductors theoretical estimations indicate larger values due to the higher lattice relaxations around the defects. Therefore, a value of ΔS/k
+                     B=3 will be used for the calculations, however a variation in ΔS does not change the results considerably.
+The formation energies were calculated by Zhang et al. [3] (Table 1). They showed that the formation energies vary considerably with the electronic potential and the chemical potential of the atomic species. Especially the formation energy of VCu changes to lower values compared to earlier simulations [4,5] (Table 1). Another important point is the behavior of defect pairs in CuInSe2. Zhang maintained that pairing of defects could alter the electric activity. For example, an isolated VCu acts as an acceptor, an isolated InCu as a donor, but a defect pair on (2VCu–InCu) is electrically inactive. The formation energies of those defect pairs can be very low, in some cases spontaneous formation of stable defect arrays is predicted.
+The deviations from the ideal chemical formula of CuInSe2 can be described by two parameters, the non-molecularity ΔM and the non-stoichiometry ΔS, which are defined as [6]
+                     
+                        
+                           
+                              ΔM=
+                              
+                                 
+                                    
+                                       
+                                       Cu
+                                       
+                                    
+                                    
+                                       tot
+                                    
+                                 
+                                 
+                                    
+                                       
+                                       In
+                                       
+                                    
+                                    
+                                       tot
+                                    
+                                 
+                              −
+                                 a
+                                 b
+                              
+                           
+                        
+                     
+                     
+                        
+                           
+                              ΔS=
+                              
+                                 γ
+                                       
+                                       Se
+                                       
+                                    
+                                    
+                                       tot
+                                    
+                                 
+                                 α
+                                       
+                                       Cu
+                                       
+                                    
+                                    
+                                       tot
+                                    
+                                    +β
+                                       
+                                       In
+                                       
+                                    
+                                    
+                                       tot
+                                    
+                                 
+                              −1
+The two parameters can be expressed by two independent defects only [6,7].
+From the remaining eight point defects, the four cation–anion antisites; CuSe, InSe, SeCu and SeIn were omitted in the calculations; five isolated defects (VCu, VSe, Cui, CuIn and InCu) and the one defect pair (2VCu–InCu) occur for the calculated formation energies (Fig. 1). Since the formation energies of the defects depend on the fermi level, the calculated variations of the energies were tested in the simulations. The concentrations of the defects were affected very differently: Variations of the formation energy of the VCu-vacancy lead to significant changes of the VCu concentrations, whereas the concentration of the CuIn antisite defect remains constant for variations of about 1 eV.
+The defect pair (2VCu–InCu) occurs in the whole composition range due to their low formation energy. For the simulations, the defect is assumed to be neutral, although there is a calculated (0/+) transition of the (InCu–VCu) pair at 200 meV below the conduction band. The small differences between the formation energy of the neutral and the ionized defect pairs and the insensitivity of the defect concentration to variations of the formation energy allow that assumption. The resulting p- and n-type behavior is depicted in Fig. 2
+                     . No n-type behavior is expected for ΔX>0.
+The results of these simulations lead to the assumption, that the investigated specimens include the following defects: VCu,VSe, CuIn and the defect pair (2VCu–InCu).
+
+Positron lifetime measurements:
+Positron lifetime spectroscopy is a suitable method to detect neutral or negatively charged vacancies in semiconductors. In addition, negatively charged shallow defects such as antisite defects may be detected at low temperature. Therefore, temperature dependent measurements were also carried out starting at 40 K. For the positron lifetime experiments, a pair of identically treated samples was sandwiched with the positron source consisting of radioactive 22Na (0.5 MBq). The lifetime spectra (about 5×106 counts) were analyzed after source and background correction in terms of the trapping model [8,9]. To compare the experimental data, the positron lifetimes were calculated in the perfect lattice as well as in the different defects, using the superimposed-atom model by Puska and Nieminen [10] (Table 2).
+The values in Ref. [11] were calculated for a high-frequency dielectric constant of ε=11.0, because Polity et al., found the calculated bulk lifetime for this value in the same range, in comparison to the experimental bulk lifetime. The lifetimes of the monovacancies are very close to each other, so that experimentally no distinction will be possible with a lifetime spectrometer. Suzuki et al. [12,13] calculated the positron lifetimes for ε=9.0.
+The measurements were performed for a set of four specimens (Table 3) after several annealing steps and presented in Ref. [14]. The spectra consist of only one lifetime component (about 280–290 ps) except for sample 3 (Table 4). The observed lifetime is close to the value that has been obtained for the divacancies in CuInSe2, from the theoretical calculation of the positron lifetimes (Table 2). We assume that the predicted defect pair (2VCu–InCu) produces this positron lifetime, because the complex includes two copper vacancies and the calculated lifetime for the copper divacancy is 277 ps (Table 2). The average positron lifetime for sample 3 after annealing at 600°C, increased up to 315 ps and could be decomposed into two components at 260 ps and at 340 ps. The lower value is in the same range as the calculated values for single vacancies. Due to the proposed positive charge of the selenium vacancy, that defect can not be detected by positron annihilation spectroscopy. The low copper composition of the sample and the results of the calculations point to the copper vacancy. Since no bulk lifetime could be determined for these specimens, the concentration of the detected defects was estimated to be at least 3×1018 cm−3.
+The positron lifetime measurements, as a function of temperature, were performed for all samples. It turned out, that the positron lifetime for the samples 1, 2 and 4 remained constant in the entire temperature range (20–400 K), and for the sample 3 up to 500°C. Annealing of this sample at 600°C, which changed the room temperature lifetime, also changed the temperature dependence. The average positron lifetime decreased for lower (298 ps at 20 K) and higher temperatures (300 ps at 500 K) (Fig. 3). The decrease between 300 and 20 K is consistent with a negatively charged shallow trap level [15]. This could be an antisite defect such as Cu2−
+                     In,which has been proposed for this composition.
+The predicted selenium vacancy from the calculations cannot be detected by positron lifetime spectroscopy, because of their positive charge. However, electrical measurements have shown a shallow and a deep donor level in the four specimens [14]. The shallow level may be caused by the (0/+) transition of the selenium vacancy and the deep trap by the (0/+) transition of the (InCu–VCu)+ pair or the (+/2+) transition of VSe. The increasing trap concentration for a decrease of the selenium content in the specimens points to the selenium vacancy.

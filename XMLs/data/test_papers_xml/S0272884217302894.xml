@@ -1,0 +1,1856 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0272884217302894</prism:url><dc:identifier>doi:10.1016/j.ceramint.2017.02.096</dc:identifier><eid>1-s2.0-S0272884217302894</eid><prism:doi>10.1016/j.ceramint.2017.02.096</prism:doi><pii>S0272-8842(17)30289-4</pii><dc:title>Microstructure, sinterability and properties of CaO-B2O3-SiO2 glass/Al2O3 composites for LTCC application </dc:title><prism:publicationName>Ceramics International</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02728842</prism:issn><prism:volume>43</prism:volume><prism:issueIdentifier>9</prism:issueIdentifier><prism:startingPage>6791</prism:startingPage><prism:endingPage>6795</prism:endingPage><prism:pageRange>6791-6795</prism:pageRange><prism:number>9</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2017-06-15</prism:coverDate><prism:coverDisplayDate>15 June 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd and Techna Group S.r.l.</prism:publisher><dc:creator>Luo, Xianfu</dc:creator><dc:creator>Ren, Luchao</dc:creator><dc:creator>Xia, Yunsheng</dc:creator><dc:creator>Hu, Yongkang</dc:creator><dc:creator>Gong, Wenyuan</dc:creator><dc:creator>Cai, Mengchao</dc:creator><dc:creator>Zhou, Hongqing</dc:creator><dc:description>
+                  CaO-B2O3-SiO2 glass/Al2O3 composites were developed for low temperature co-fired ceramic (LTCC) applications and the sintering behaviors, phase compositions, microstructures and properties were investigated. The low melting point glass not only efficiently promoted the sintering densification of the composites, but also significantly improved the dielectric, mechanical and thermal performances. The glass/ceramic composite with 50wt% glass sintered at 875°C for 15min exhibited bulk density of 3.12g/cm3, εr of 8.06 and tanδ of 1.2×10−3 at 7GHz, flexural strength of 204MPa, thermal expansion coefficient of 5.47ppm/°C, and thermal conductivity of 3.1W/mK. It was compatible with Ag electrodes, which made it a promising candidate for LTCC application.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>LTCC</dcterms:subject><dcterms:subject>Glass/ceramics</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><dcterms:subject>Dielectric properties</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0272884217302894" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0272884217302894" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="97" size="14326">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="207" height="164" size="17762">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="164" height="164" size="26631">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="214" height="164" size="17272">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="210" height="164" size="17187">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="206" height="164" size="19162">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="153" size="21905">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="302" size="70466">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="268" size="48724">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="678" size="134305">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="259" size="47792">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="265" size="47229">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="269" size="50338">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="238" size="35082">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="1335" size="335644">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1188" size="181606">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="3001" size="1100843">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1148" size="184991">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1172" size="180743">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1192" size="183129">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1501" height="1052" size="217644">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si0001" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="82" height="33" size="1230">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-si0001.gif?httpAccept=%2A%2F%2A</object><object ref="si0002" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="69" height="18" size="1035">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-si0002.gif?httpAccept=%2A%2F%2A</object><object ref="si0003" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="107" height="20" size="1507">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-si0003.gif?httpAccept=%2A%2F%2A</object><object ref="si0004" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="450" height="23" size="3896">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884217302894-si0004.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85014114652</scopus-id><scopus-eid>2-s2.0-85014114652</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85014114652" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271590</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ceramics International</xocs:srctitle>
+      <xocs:normalized-srctitle>CERAMICSINTERNATIONAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170222">2017-02-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170222">2017-02-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170327">2017-03-27</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170327">2017-03-27</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-01-11T15:45:15</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0272884217302894</xocs:eid>
+      <xocs:pii-formatted>S0272-8842(17)30289-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0272884217302894</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ceramint.2017.02.096</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0272884217X00060</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180111">2018-01-11T16:04:34.725024Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170615</xocs:date-search-begin>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1487785821">2017-02-22T17:50:21.355997Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0272-8842</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02728842</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>43</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>43</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>9</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>9</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 43, Issue 9</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>21</xocs:sort-order>
+      <xocs:first-fp>6791</xocs:first-fp>
+      <xocs:last-lp>6795</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>6791</xocs:first-page>
+         <xocs:last-page>6795</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20170615</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 June 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-06-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>MICROSTRUCTURESINTERABILITYPROPERTIESCAOB2O3SIO2GLASSAL2O3COMPOSITESFORLTCCAPPLICATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LUO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>TUMMALA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>895</xocs:ref-first-fp>
+            <xocs:ref-last-lp>908</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3981</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3991</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>Y</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36</xocs:ref-first-fp>
+            <xocs:ref-last-lp>42</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2553</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2558</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>SMETANA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>592</xocs:ref-first-fp>
+            <xocs:ref-last-lp>599</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>BITTNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3778</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3781</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>LUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5446</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5451</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>XIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4187</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4192</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>MANU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1210</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1216</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-last-lp>252</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>ARCARO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5269</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5274</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>RAJESH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>52</xocs:ref-first-fp>
+            <xocs:ref-last-lp>59</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>ZAWRAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123</xocs:ref-first-fp>
+            <xocs:ref-last-lp>130</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1787</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1791</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>LO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2230</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2235</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6355</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6361</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>MERGEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>667</xocs:ref-first-fp>
+            <xocs:ref-last-lp>670</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>SEBASTIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LUOX2017X6791</xocs:refkey3>
+         <xocs:refkey4lp>LUOX2017X6791X6795</xocs:refkey4lp>
+         <xocs:refkey4ai>LUOX2017X6791XX</xocs:refkey4ai>
+         <xocs:refkey5>LUOX2017X6791X6795XX</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-03-27T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0272-8842(17)30289-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0272884217302894</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0272884217302894</xocs:eid>
+         <xocs:doi>10.1016/j.ceramint.2017.02.096</xocs:doi>
+         <xocs:cid>271590</xocs:cid>
+         <xocs:timestamp>2018-01-11T16:04:34.725024Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-06-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/MAIN/application/pdf/dd658275fb3c64934e8b50e97e79f3b7/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/MAIN/application/pdf/dd658275fb3c64934e8b50e97e79f3b7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1377405</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0272884217302894-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/PREVIEW/image/png/f666c1703df29b7d015ae50d1964aea9/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/PREVIEW/image/png/f666c1703df29b7d015ae50d1964aea9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56775</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr1/THUMBNAIL/image/gif/282645d2688513cef1c55760df70d80f/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr1/THUMBNAIL/image/gif/282645d2688513cef1c55760df70d80f/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14326</xocs:filesize>
+               <xocs:pixel-height>97</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr2/THUMBNAIL/image/gif/bcbe2d2f0bf4e2824c35693595e11a24/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr2/THUMBNAIL/image/gif/bcbe2d2f0bf4e2824c35693595e11a24/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17762</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>207</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr3/THUMBNAIL/image/gif/8535500d8c948ec8526ecfb8f4fa7e1a/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr3/THUMBNAIL/image/gif/8535500d8c948ec8526ecfb8f4fa7e1a/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>26631</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>164</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr4/THUMBNAIL/image/gif/967e3f32495bca682b130a5ccd365853/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr4/THUMBNAIL/image/gif/967e3f32495bca682b130a5ccd365853/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17272</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>214</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr5/THUMBNAIL/image/gif/02acf0a39a2c459d77ab188960e51f30/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr5/THUMBNAIL/image/gif/02acf0a39a2c459d77ab188960e51f30/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17187</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>210</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr6/THUMBNAIL/image/gif/f99b8aab40cd2fdfd2d953bba2de91c7/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr6/THUMBNAIL/image/gif/f99b8aab40cd2fdfd2d953bba2de91c7/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19162</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>206</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr7/THUMBNAIL/image/gif/1415d41b31a294c341f5fdf44be39f12/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr7/THUMBNAIL/image/gif/1415d41b31a294c341f5fdf44be39f12/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>21905</xocs:filesize>
+               <xocs:pixel-height>153</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr1/DOWNSAMPLED/image/jpeg/6cdaaa964b1b8eb8267fe8f134985c3d/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr1/DOWNSAMPLED/image/jpeg/6cdaaa964b1b8eb8267fe8f134985c3d/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>70466</xocs:filesize>
+               <xocs:pixel-height>302</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr2/DOWNSAMPLED/image/jpeg/a3d0f0a85d71c6db0be3bca94a0d5eb1/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr2/DOWNSAMPLED/image/jpeg/a3d0f0a85d71c6db0be3bca94a0d5eb1/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>48724</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr3/DOWNSAMPLED/image/jpeg/79af5ee7abd3cafbdf787a946dba8a4c/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr3/DOWNSAMPLED/image/jpeg/79af5ee7abd3cafbdf787a946dba8a4c/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>134305</xocs:filesize>
+               <xocs:pixel-height>678</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr4/DOWNSAMPLED/image/jpeg/1274a90ae9410a438547935ae279cbbb/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr4/DOWNSAMPLED/image/jpeg/1274a90ae9410a438547935ae279cbbb/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47792</xocs:filesize>
+               <xocs:pixel-height>259</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr5/DOWNSAMPLED/image/jpeg/caf41253c273893ebab01766378a0bbd/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr5/DOWNSAMPLED/image/jpeg/caf41253c273893ebab01766378a0bbd/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47229</xocs:filesize>
+               <xocs:pixel-height>265</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr6/DOWNSAMPLED/image/jpeg/e59d61f5330c94f94ff73ad7d7a4d8ae/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr6/DOWNSAMPLED/image/jpeg/e59d61f5330c94f94ff73ad7d7a4d8ae/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>50338</xocs:filesize>
+               <xocs:pixel-height>269</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr7/DOWNSAMPLED/image/jpeg/aeb48ecae4b412487116ff7b66db2f79/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr7/DOWNSAMPLED/image/jpeg/aeb48ecae4b412487116ff7b66db2f79/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35082</xocs:filesize>
+               <xocs:pixel-height>238</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr1/HIGHRES/image/jpeg/83a5f999c3de0e0281aa6a306bef865b/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr1/HIGHRES/image/jpeg/83a5f999c3de0e0281aa6a306bef865b/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>335644</xocs:filesize>
+               <xocs:pixel-height>1335</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr2/HIGHRES/image/jpeg/13a3eae59836ec4642a8e561845ae4d7/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr2/HIGHRES/image/jpeg/13a3eae59836ec4642a8e561845ae4d7/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>181606</xocs:filesize>
+               <xocs:pixel-height>1188</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr3/HIGHRES/image/jpeg/47215e7f73d83925d0e1ddf11b55b26d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr3/HIGHRES/image/jpeg/47215e7f73d83925d0e1ddf11b55b26d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1100843</xocs:filesize>
+               <xocs:pixel-height>3001</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr4/HIGHRES/image/jpeg/d4c020c5639de2710584192fbd0d8c41/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr4/HIGHRES/image/jpeg/d4c020c5639de2710584192fbd0d8c41/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>184991</xocs:filesize>
+               <xocs:pixel-height>1148</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr5/HIGHRES/image/jpeg/3ca34357efe022314fb497b6905fb861/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr5/HIGHRES/image/jpeg/3ca34357efe022314fb497b6905fb861/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>180743</xocs:filesize>
+               <xocs:pixel-height>1172</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr6/HIGHRES/image/jpeg/e7869fc23e34045f73afece20ab3b0a5/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr6/HIGHRES/image/jpeg/e7869fc23e34045f73afece20ab3b0a5/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>183129</xocs:filesize>
+               <xocs:pixel-height>1192</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/gr7/HIGHRES/image/jpeg/d0c7fed2f8bb8010a639b6a4f9cfa729/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/gr7/HIGHRES/image/jpeg/d0c7fed2f8bb8010a639b6a4f9cfa729/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>217644</xocs:filesize>
+               <xocs:pixel-height>1052</xocs:pixel-height>
+               <xocs:pixel-width>1501</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-si0001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/STRIPIN/image/gif/d13432fed48a04301639886d6718b323/si0001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/STRIPIN/image/gif/d13432fed48a04301639886d6718b323/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0001</xocs:file-basename>
+               <xocs:filename>si0001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1230</xocs:filesize>
+               <xocs:pixel-height>33</xocs:pixel-height>
+               <xocs:pixel-width>82</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-si0002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/STRIPIN/image/gif/729d69e00bf788a013a7a240dc01cbc6/si0002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/STRIPIN/image/gif/729d69e00bf788a013a7a240dc01cbc6/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0002</xocs:file-basename>
+               <xocs:filename>si0002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1035</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>69</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-si0003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/STRIPIN/image/gif/c62083d05b12141d2bbf04633ab6892d/si0003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/STRIPIN/image/gif/c62083d05b12141d2bbf04633ab6892d/si0003.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0003</xocs:file-basename>
+               <xocs:filename>si0003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1507</xocs:filesize>
+               <xocs:pixel-height>20</xocs:pixel-height>
+               <xocs:pixel-width>107</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884217302894-si0004.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884217302894/STRIPIN/image/gif/fb53bc1a9ac0df66f91fc8bc62783ee4/si0004.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0272884217302894/STRIPIN/image/gif/fb53bc1a9ac0df66f91fc8bc62783ee4/si0004.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0004</xocs:file-basename>
+               <xocs:filename>si0004.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3896</xocs:filesize>
+               <xocs:pixel-height>23</xocs:pixel-height>
+               <xocs:pixel-width>450</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>CERI</jid>
+            <aid>14712</aid>
+            <ce:pii>S0272-8842(17)30289-4</ce:pii>
+            <ce:doi>10.1016/j.ceramint.2017.02.096</ce:doi>
+            <ce:copyright type="joint" year="2017">Elsevier Ltd and Techna Group S.r.l.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">XRD patterns of CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites: (a) samples containing 50<ce:hsp sp="0.25"/>wt% glass sintered at different temperatures, (b) samples containing 40–60<ce:hsp sp="0.25"/>wt% sintered at 875<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Fig. 1.</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:href="pii:S0272884217302894/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">Bulk densities of CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites containing 40–60<ce:hsp sp="0.25"/>wt% glass sintered at different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 2.</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:href="pii:S0272884217302894/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">SEM photographs of CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites containing 40–60<ce:hsp sp="0.25"/>wt% glass sintered at different temperatures: (a) samples containing 50<ce:hsp sp="0.25"/>wt% glass sintered at 825<ce:hsp sp="0.25"/>°C; (b) 50<ce:hsp sp="0.25"/>wt% glass, 875<ce:hsp sp="0.25"/>°C; (c)50<ce:hsp sp="0.25"/>wt% glass, 900<ce:hsp sp="0.25"/>°C; (d) 40<ce:hsp sp="0.25"/>wt% glass, 875<ce:hsp sp="0.25"/>°C; (e) 60<ce:hsp sp="0.25"/>wt% glass, 875<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Fig. 3.</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:href="pii:S0272884217302894/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">Dielectric constant of the 40–60<ce:hsp sp="0.25"/>wt% glass added samples sintered at different temperatures at 7<ce:hsp sp="0.25"/>GHz.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0020" role="short">Fig. 4.</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:href="pii:S0272884217302894/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">Dielectric loss of the 40–60<ce:hsp sp="0.25"/>wt% glass added samples sintered at different temperatures at 7<ce:hsp sp="0.25"/>GHz.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0025" role="short">Fig. 5.</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:href="pii:S0272884217302894/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">XRD patterns of the 50<ce:hsp sp="0.25"/>wt% glass added composites co-fired with Ag electrodes at 875 and 900<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0030" role="short">Fig. 6.</ce:alt-text>
+               <ce:link id="lk0030" locator="gr6" xlink:href="pii:S0272884217302894/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="sp0035" view="all">SEM photographs of the 50<ce:hsp sp="0.25"/>wt% glass added composites co-fired with Ag electrodes at 875<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0035" role="short">Fig. 7.</ce:alt-text>
+               <ce:link id="lk0035" locator="gr7" xlink:href="pii:S0272884217302894/gr7" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="sp0040" view="all">Key properties of CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> LTCC composites prepared with various amount of CBS glass sintered at different temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0040" role="short">Table 1.</ce:alt-text>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Glass content</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Temperature</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Bulk density</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Flexural strength</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ε<inf loc="post">r</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tan δ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CTE</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">λ</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(wt%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(g/cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(Mpa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(7<hsp sp="0.25"/>GHz)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(7<hsp sp="0.25"/>GHz)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(ppm/°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(W/mK)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">875</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">132</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0153</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">875</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">204</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0012</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">875</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.74</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">146</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0113</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">850</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">195</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.93</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0028</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.94</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">173</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0046</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.9</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="sp0045" view="all">The comparison between the typical commercial LTCC materials <ce:cross-ref id="cr0005" refid="bib18">[18]</ce:cross-ref> and the CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> in this work.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0045" role="short">Table 2.</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Properties</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">DuPond 951</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ferro A6M</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Heraeus CT700</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">This work</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Sintering temperature(°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">875</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Bulk density(g/cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&gt;2.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.12</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Dielectric constant</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.06</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Dielectric loss(×10<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.5 (1<hsp sp="0.25"/>kHz)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2 (10<hsp sp="0.25"/>MHz)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2 (1<hsp sp="0.25"/>kHz)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.2 (7<hsp sp="0.25"/>GHz)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">Flexural strength(Mpa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">320</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">130</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">240</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">204</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">CTE(ppm/°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.47</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">λ(W/mK)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.1</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Microstructure, sinterability and properties of CaO-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-SiO<ce:inf loc="post">2</ce:inf> glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites for LTCC application</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0272884217302894-b4c0f55fbd132808cd39aa773ffe412d">
+                  <ce:given-name>Xianfu</ce:given-name>
+                  <ce:surname>Luo</ce:surname>
+                  <ce:cross-ref id="cr0010" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010" author-id="S0272884217302894-17c3ef7ceb119467c782b86e0c082220">
+                  <ce:given-name>Luchao</ce:given-name>
+                  <ce:surname>Ren</ce:surname>
+                  <ce:cross-ref id="cr0020" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0025" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S0272884217302894-9854096ff4a6369a356d4c47430e57c4">
+                  <ce:given-name>Yunsheng</ce:given-name>
+                  <ce:surname>Xia</ce:surname>
+                  <ce:cross-ref id="cr0030" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0035" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S0272884217302894-7af569e3182c383ea92ffed461967856">
+                  <ce:given-name>Yongkang</ce:given-name>
+                  <ce:surname>Hu</ce:surname>
+                  <ce:cross-ref id="cr0040" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0045" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025" author-id="S0272884217302894-58d52bf0c8744f9ad011c70d525cdbda">
+                  <ce:given-name>Wenyuan</ce:given-name>
+                  <ce:surname>Gong</ce:surname>
+                  <ce:cross-ref id="cr0050" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0055" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S0272884217302894-6e35deabcadd85511e0ff1fe277b6828">
+                  <ce:given-name>Mengchao</ce:given-name>
+                  <ce:surname>Cai</ce:surname>
+                  <ce:cross-ref id="cr0060" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0065" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0035" author-id="S0272884217302894-8ab4179342bf79be0bbabd283d4a4b71">
+                  <ce:given-name>Hongqing</ce:given-name>
+                  <ce:surname>Zhou</ce:surname>
+                  <ce:cross-ref id="cr0070" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0075" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0080" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>College of Materials Science and Engineering, Nanjing Tech University, Nanjing, Jiangsu 210009, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>College of Materials Science and Engineering, Nanjing Tech University</sa:organization>
+                     <sa:city>Nanjing</sa:city>
+                     <sa:state>Jiangsu</sa:state>
+                     <sa:postal-code>210009</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Jiangsu Collaborative Innovation Center for Advanced Inorganic Function Composites, Nanjing Tech University, Nanjing, Jiangsu 210009, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Jiangsu Collaborative Innovation Center for Advanced Inorganic Function Composites, Nanjing Tech University</sa:organization>
+                     <sa:city>Nanjing</sa:city>
+                     <sa:state>Jiangsu</sa:state>
+                     <sa:postal-code>210009</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: College of Materials Science and Engineering, Nanjing Tech University, Nanjing, Jiangsu 210009, China.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="19" month="11" year="2016"/>
+            <ce:date-revised day="20" month="2" year="2017"/>
+            <ce:date-accepted day="21" month="2" year="2017"/>
+            <ce:abstract id="ab0010" class="author" view="all"><ce:abstract-sec id="abs0010" view="all">
+                  <ce:simple-para id="sp0050" view="all">CaO-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-SiO<ce:inf loc="post">2</ce:inf> glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites were developed for low temperature co-fired ceramic (LTCC) applications and the sintering behaviors, phase compositions, microstructures and properties were investigated. The low melting point glass not only efficiently promoted the sintering densification of the composites, but also significantly improved the dielectric, mechanical and thermal performances. The glass/ceramic composite with 50<ce:hsp sp="0.25"/>wt% glass sintered at 875<ce:hsp sp="0.25"/>°C for 15<ce:hsp sp="0.25"/>min exhibited bulk density of 3.12<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup>, ε<ce:inf loc="post">r</ce:inf> of 8.06 and tanδ of 1.2×10<ce:sup loc="post">−3</ce:sup> at 7<ce:hsp sp="0.25"/>GHz, flexural strength of 204<ce:hsp sp="0.25"/>MPa, thermal expansion coefficient of 5.47<ce:hsp sp="0.25"/>ppm/°C, and thermal conductivity of 3.1<ce:hsp sp="0.25"/>W/mK. It was compatible with Ag electrodes, which made it a promising candidate for LTCC application.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>LTCC</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>Glass/ceramics</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>Microstructure</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>Dielectric properties</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Low temperature co-fired ceramics (LTCC) with excellent microwave dielectric, mechanical and thermal performances, is nowadays being increasingly employed to produce multilayer microelectronic devices made from ceramic substrates <ce:cross-refs id="crs0005" refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. The obsession of the scientific and industrial field with the LTCC technology in the recent years is due primarily to the high rates of productivity in the wireless communication industries that more and more are inclined to miniaturization and integration <ce:cross-refs id="crs0010" refid="bib4 bib5">[4,5]</ce:cross-refs>. However, the sintering temperature of the LTCCs should be lower than the melting point of the highly conductive electrode such as Ag, Cu or Cu/Pt, and these metal electrodes should be chemically compatible with the LTCC composites <ce:cross-ref id="cr0085" refid="bib6">[6]</ce:cross-ref>. It is widely accepted that addition of low melting glasses is an economical and efficient way to lower the sintering temperature without considerably affecting the dielectric properties.</ce:para>
+                  <ce:para id="p0010" view="all">Glass/ceramic composites are regarded as a potential material in LTCC substrates owning to the potential prospect as a result of exceptional physical, thermal and electrical performance <ce:cross-ref id="cr0090" refid="bib7">[7]</ce:cross-ref>. The characteristics and properties of glass/ceramic composites depend primarily on the intrinsic properties and morphology of the ceramic fillers, the amorphous phase, the formed crystals and residual porosity. The glass serves as a low-temperature sintering aid benefit for densification while the ceramic fillers help in improving the physical properties <ce:cross-ref id="cr0095" refid="bib8">[8]</ce:cross-ref>. K. Manu <ce:cross-ref id="cr0100" refid="bib9">[9]</ce:cross-ref> developed a new kind of strontium copper silicate (SrCuSi<ce:inf loc="post">4</ce:inf>O<ce:inf loc="post">10</ce:inf>: SCS)/lithium magnesium borosilicate (LMZBS) glass composite for LTCC applications. The SCS ceramic with 5<ce:hsp sp="0.25"/>wt% LMZBS glass sintered at 900<ce:hsp sp="0.25"/>°C had ε<ce:inf loc="post">r</ce:inf>=5.0 and tanδ=1.9×10<ce:sup loc="post">−3</ce:sup> at 5<ce:hsp sp="0.25"/>GHz. Wang <ce:cross-ref id="cr0105" refid="bib10">[10]</ce:cross-ref> disclosed the preparation and characterization of LTCC composites based on BaO–B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–SiO<ce:inf loc="post">2</ce:inf> glass/BaTiO<ce:inf loc="post">3</ce:inf>, where the sintering temperature was about 900<ce:hsp sp="0.25"/>°C and the dielectric constant was effectively adjustable from 5 to 30 by changing the BaTiO<ce:inf loc="post">3</ce:inf> fraction from 60<ce:hsp sp="0.25"/>wt% to 90<ce:hsp sp="0.25"/>wt%. S. Arcaro <ce:cross-ref id="cr0110" refid="bib11">[11]</ce:cross-ref> synthesized Li<ce:inf loc="post">2</ce:inf>O-ZrO<ce:inf loc="post">2</ce:inf>-SiO<ce:inf loc="post">2</ce:inf> glass/α-Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites which sintered between 800<ce:hsp sp="0.25"/>°C and 900<ce:hsp sp="0.25"/>°C and showed excellent mechanical, thermal and electrical properties. Among different LTCC glass/ceramic systems, CaO-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-SiO<ce:inf loc="post">2</ce:inf> glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> has been reported as a promising material for using in microelectronic packaging owning to low firing temperature and low dielectric loss <ce:cross-ref id="cr0115" refid="bib12">[12]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0015" view="all">In this paper, we paid attention to the synthesis, microstructure, phase compositions and sintering mechanism of CaO-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-SiO<ce:inf loc="post">2</ce:inf> (CBS) glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites for LTCC application, and also made the efforts on studying the effect of CBS glass contents as well as sintering temperatures on the sintering properties, dielectric performance, flexural strength, thermal expansion and thermal conductivity of the LTCC composites. Moreover, the co-fired compatibility of CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites with Ag electrodes was also investigated.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Experimental procedure</ce:section-title>
+                  <ce:para id="p0020" view="all">Low softening point CaO-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-SiO<ce:inf loc="post">2</ce:inf> glass with the composition of 63<ce:hsp sp="0.25"/>wt% SiO<ce:inf loc="post">2</ce:inf>, 14<ce:hsp sp="0.25"/>wt% B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, 12<ce:hsp sp="0.25"/>wt% CaO, 5<ce:hsp sp="0.25"/>wt% Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, 1.8<ce:hsp sp="0.25"/>wt% MgO, 2.6<ce:hsp sp="0.25"/>wt% Na<ce:inf loc="post">2</ce:inf>O, and 1.6<ce:hsp sp="0.25"/>wt%<ce:hsp sp="0.25"/>K<ce:inf loc="post">2</ce:inf>O was designed and synthesized by melting homogeneous mixture containing appropriate amounts of reagent-grade of SiO<ce:inf loc="post">2</ce:inf>, H<ce:inf loc="post">3</ce:inf>BO<ce:inf loc="post">3</ce:inf>, CaCO<ce:inf loc="post">3</ce:inf>, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, MgCO<ce:inf loc="post">3</ce:inf>, Na<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf>, and K<ce:inf loc="post">2</ce:inf>CO<ce:inf loc="post">3</ce:inf> in a platinum crucible at 1500<ce:hsp sp="0.25"/>°C for about 1<ce:hsp sp="0.25"/>h in an electrically heated furnace. The resultant glass melt was quenched into deionized water as a preliminary step and then subjected to particle size reduction to 3–5<ce:hsp sp="0.25"/>µm by ball milling, finally mixed and blended with 40<ce:hsp sp="0.25"/>wt%−60<ce:hsp sp="0.25"/>wt% Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> powders.</ce:para>
+                  <ce:para id="p0025" view="all">The tape casting process was accomplished on a laboratory caster (BHLY-011A) with a single blade casting head. The green tapes were dried in air, cut into circular sheets of diameter 18<ce:hsp sp="0.25"/>mm, stacked to 60 layers and laminated for 1<ce:hsp sp="0.25"/>min at the pressure of 100<ce:hsp sp="0.25"/>MPa, followed by the sintering process in air at 825<ce:hsp sp="0.25"/>°C, 850<ce:hsp sp="0.25"/>°C, 875<ce:hsp sp="0.25"/>°C and 900<ce:hsp sp="0.25"/>°C for 15<ce:hsp sp="0.25"/>min, respectively.</ce:para>
+                  <ce:para id="p0030" view="all">The bulk densities of the sintered samples were evaluated by the Archimedes method using water as media with the accuracy of ±0.001<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup>. The phase identification of sintered specimens was performed by powder X-ray diffractometer with Cu/Kα radiation (XRD, ARL X/TRA) and short scanning made from 10° to 80° (2θ) at a scan rate of 5°/min. The microstructures were examined by a scanning electron microscope (SEM, JEOL JSM-5900). The thermal expansion coefficient (TEC, ppm/°C) was measured using a dilatometer (Netzsch DIL 402C) with a heating rate of 5<ce:hsp sp="0.25"/>°C/min in the temperature range of 25–300<ce:hsp sp="0.25"/>°C.<ce:display>
+                        <ce:formula id="eq0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si0001.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi mathvariant="italic">TEC</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>=</mml:mo>
+                              </mml:mrow>
+                              <mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>∆</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>L</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>∆</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>T</mml:mi>
+                                       <mml:mo>·</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mrow/>
+                                    <mml:mrow>
+                                       <mml:mi>L</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                              </mml:mfrac>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>L</ce:italic> (mm), was the original length of the sample, ∆<ce:italic>L</ce:italic> (mm) was the length changes and ∆<ce:italic>T</ce:italic> (°C) represented the changes in temperature. The flexural strength was assessed by an electronic universal material testing machine (CSS-2205). The dielectric performance in the microwave frequency range was examined by the Hakki–Coleman dielectric resonator method with a network analyzer (Agilent HP 8722ET) at the frequency of 7<ce:hsp sp="0.25"/>GHz at room temperature. The thermal diffusivity (α) was measured using a laser-flash apparatus (Netzsch LFA427) and specific heat (C<ce:inf loc="post">p</ce:inf>) was determined by a differential scanning calorimeter (Perkin–Elmer DSC-2C). The thermal conductivity (λ, W/mK) was then obtained by multiplying the thermal diffusivity (<ce:italic>α</ce:italic>, m<ce:sup loc="post">2</ce:sup>/s) with the density (<ce:italic>ρ</ce:italic>, kg/m<ce:sup loc="post">3</ce:sup>) and specific heat (C<ce:inf loc="post">p</ce:inf>, J/kg<ce:hsp sp="0.25"/>K).<ce:display>
+                        <ce:formula id="eq0010">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si0002.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">λ</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi mathvariant="normal">α</mml:mi>
+                                 <mml:mi>·</mml:mi>
+                                 <mml:mi mathvariant="normal">ρ</mml:mi>
+                              </mml:mrow>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="italic">·C</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>P</mml:mi>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="s0015" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0025">Results and discussion</ce:section-title>
+                  <ce:para id="p0035" view="all">The X-ray diffraction patterns of the samples containing 50<ce:hsp sp="0.25"/>wt% CBS glass sintered at different temperatures are shown in <ce:float-anchor refid="f0005"/>
+                     <ce:cross-ref id="cr0120" refid="f0005">Fig. 1</ce:cross-ref>(a). The pre-existing Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (JCPDS#82-1468) was the main crystalline phase demonstrated in the composites at all sintering temperatures, whereas the additional crystalline phases, anorthite (JCPDS#41-1486), made its first appearance at the temperatures above 850<ce:hsp sp="0.25"/>°C and the intensity was gradually enhanced with the increasing temperature to 900<ce:hsp sp="0.25"/>°C. The formation of anorthite phase at higher temperatures was the result of enhanced reaction between the glass and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> filler. <ce:cross-ref id="cr0125" refid="f0005">Fig. 1</ce:cross-ref> (b) illustrated the XRD patterns of composites containing 40–60<ce:hsp sp="0.25"/>wt% CBS glass sintered at 875<ce:hsp sp="0.25"/>°C. Similarly, it was revealed that the XRD patterns were mainly composed of α-Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and anorthite phase. The relative intensity of the anorthite diffraction peaks strengthened slightly as the glass content increased from 40 to 60<ce:hsp sp="0.25"/>wt%. This result indicated that increasing the content of glass was also able to enhance the reaction between the glass and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> fillers. In general, according to the reactivity between glass and ceramics, the densification of glass/ceramic composites can be divided into nonreactive, partially reactive, and completely reactive liquid phase sintering <ce:cross-ref id="cr0130" refid="bib13">[13]</ce:cross-ref>. In this study, the densification of CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites was deemed to be partially reactive liquid sintering. During sintering densification process, amorphous glass phase appeared in glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites, buried the Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles and promoted sintering densification of the composites. Generally, a higher sintering temperature as well as a higher glass content in the composites would accelerate the reaction of CBS glass and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> fillers, leading to the formation of anorthite phase.</ce:para>
+                  <ce:para id="p0040" view="all">
+                     <ce:float-anchor refid="f0010"/>
+                     <ce:cross-ref id="cr0135" refid="f0010">Fig. 2</ce:cross-ref> displayed the bulk densities of CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites with 40–60<ce:hsp sp="0.25"/>wt% glass concentrations sintered at different temperatures. The bulk densities of the sintered samples fluctuated with the sintering temperatures. More specifically, a moderate increase at first and then a slight decrease in the bulk densities for most of the compositions with increasing the sintering temperature was observed. A saturated value of 3.12<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup> was achieved for the samples with 50<ce:hsp sp="0.25"/>wt% glass contents sintered at 875<ce:hsp sp="0.25"/>°C. This result demonstrated that the sintering densification of glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites strongly depended on the sintering temperature. It was believed that the viscosity of low-melting glass would decrease with the temperature increased, which could facilitate particle rearrangement, remove the air and promote further densification by wetting of ceramic fillers. However, the glass melt exhibited excessive fluidity at an extremely high temperature and the air tended to be wrapped inside the composites forming closed pores before they were eliminated, which explained why the bulk densities declined with the continuous increase of sintering temperature to 900<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cr0140" refid="bib14">[14]</ce:cross-ref>. This phenomenon also inevitably existed in the composites with an excessive amount of glass. That is why the bulk density of samples with 55<ce:hsp sp="0.25"/>wt% and 60<ce:hsp sp="0.25"/>wt% glass contents dropped off continuously in the whole temperature range.</ce:para>
+                  <ce:para id="p0045" view="all">The results of the variations of bulk densities were closely connected with the microstructures of glass/ceramic composites. <ce:float-anchor refid="f0015"/>
+                     <ce:cross-ref id="cr0145" refid="f0015">Fig. 3</ce:cross-ref>(a) to (c) demonstrated the SEM images of 50<ce:hsp sp="0.25"/>wt% glass-added samples sintered at 825, 875 and 900<ce:hsp sp="0.25"/>°C. The glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> sample sintered at 825<ce:hsp sp="0.25"/>°C exhibited a porous microstructure, while the composites of 875<ce:hsp sp="0.25"/>°C showed up typical characteristics of LTCC, where Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles were covered by a large amount of liquid phase and formed a dense structure. However, the phenomenon of overheating occurred accompanied with the increase in pores and consequently the decrease in the relative density of the sintered samples when the sintering temperature increased to 900<ce:hsp sp="0.25"/>°C. <ce:cross-ref id="cr0150" refid="f0015">Fig. 3</ce:cross-ref>(d) and (e) demonstrated the SEM images of 40 and 60<ce:hsp sp="0.25"/>wt% glass-added samples sintered at 875<ce:hsp sp="0.25"/>°C. For 40<ce:hsp sp="0.25"/>wt% glass-added sample, the flowing liquid phase was not enough to completely wet the Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles, which gave birth to a loose and porous microstructure. On the contrary, a large amount of liquid phase accompanied with several pores appeared in the sample with 60<ce:hsp sp="0.25"/>wt% glass sintered at the same temperature. It was understandable that in this system, CBS/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites with 50<ce:hsp sp="0.25"/>wt% glass content sintered at 875<ce:hsp sp="0.25"/>°C (<ce:cross-ref id="cr0155" refid="f0015">Fig. 3</ce:cross-ref>(b)) was able to develop a typical and dense LTCC structure. Otherwise, the structure of LTCC composites was not sufficiently densified.</ce:para>
+                  <ce:para id="p0050" view="all">The dielectric constant of the CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites prepared with 40–60<ce:hsp sp="0.25"/>wt% glass sintered at different temperatures were shown in <ce:float-anchor refid="f0020"/>
+                     <ce:cross-ref id="cr0160" refid="f0020">Fig. 4</ce:cross-ref>. It was illustrated that the dielectric constant of composites with 40–50<ce:hsp sp="0.25"/>wt% glass increased incipiently, achieved the maximum value at 875<ce:hsp sp="0.25"/>°C and reduced subsequently with the increasing of temperature, while the samples of 55<ce:hsp sp="0.25"/>wt% and 60<ce:hsp sp="0.25"/>wt% showed a gradual decrease. It was also worth pointing out that the influence of glass content on the dielectric constant of the composites could not be ignored. The permittivity increased with increasing glass content from 40<ce:hsp sp="0.25"/>wt% to 50<ce:hsp sp="0.25"/>wt% and decreased as the glass content increased from 50<ce:hsp sp="0.25"/>wt% to 60<ce:hsp sp="0.25"/>wt%. On the contrary, the tendency of the dielectric loss curve was opposite. In general, it could be possible to conclude that the dielectric performance of the composites depended on the sintering bulk densities, microstructures and dielectric properties of each phase. The permittivity of composites consisting of different phases can be evaluated with the empirical logarithmic mixture equation:<ce:display>
+                        <ce:formula id="eq0015">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si0003.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>log</mml:mi>
+                                 <mml:mi mathvariant="normal">κ</mml:mi>
+                                 <mml:mspace width="0.25em"/>
+                                 <mml:mo>=</mml:mo>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>∑</mml:mo>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">ν</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">i</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>log</mml:mi>
+                                       <mml:mi mathvariant="normal">κ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">i</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where ν<ce:inf loc="post">i</ce:inf> and κ<ce:inf loc="post">i</ce:inf> denoted the volume fraction and the permittivity of each phase, respectively <ce:cross-ref id="cr0165" refid="bib15">[15]</ce:cross-ref>. The CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> LTCC composites were composed of ceramic phase, amorphous glass and pores:<ce:display>
+                        <ce:formula id="eq0020">
+                           <ce:label>(4)</ce:label>
+                           <mml:math altimg="si0004.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>log</mml:mi>
+                                       <mml:mi mathvariant="normal">κ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>composites</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mrow>
+                                    <mml:mo>=</mml:mo>
+                                 </mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">ν</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>ceramic</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>log</mml:mi>
+                                       <mml:mi mathvariant="normal">κ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>ceramic</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mrow>
+                                    <mml:mo>+</mml:mo>
+                                 </mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">ν</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>glass</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>log</mml:mi>
+                                       <mml:mi mathvariant="normal">κ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>glass</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mrow>
+                                    <mml:mo>+</mml:mo>
+                                 </mml:mrow>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">ν</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>pores</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>log</mml:mi>
+                                       <mml:mi mathvariant="normal">κ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>pores</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0055" view="all">It was reasonable for the composites of low glass content to have lower permittivity owing to poor densification and a large number of pores. As the glass content increased to 50<ce:hsp sp="0.25"/>wt% that was sufficient to wrap the Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles, the pores gradually disappeared. Resultantly the permittivity of LTCC composites went up. Similarly, composites sintered at 875<ce:hsp sp="0.25"/>°C exhibited superior dielectric characteristics attributing to their better sintering densification. However, the dielectric constant decreased with further increase in glass content to 60<ce:hsp sp="0.25"/>wt% because Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> had higher permittivity (9.8) <ce:cross-ref id="cr0170" refid="bib16">[16]</ce:cross-ref> compared with CBS glass (5.9–6.0) and anorthite (6.2) <ce:cross-ref id="cr0175" refid="bib17">[17]</ce:cross-ref>. The dielectric loss of the CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites were shown in <ce:float-anchor refid="f0025"/>
+                     <ce:cross-ref id="cr0180" refid="f0025">Fig. 5</ce:cross-ref>. The situation could be explained by the sintering densification. Porosity in the composites played a significant role in deteriorating the dielectric loss.</ce:para>
+                  <ce:para id="p0060" view="all">The results of some key properties of CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> LTCC composites prepared with various amount of CBS glass sintered at different temperatures were summarized in <ce:float-anchor refid="t0005"/>
+                     <ce:cross-ref id="cr0185" refid="t0005">Table 1</ce:cross-ref>. These data in the table reflected the fact that the performance of LTCC composites varied with the glass contents and sintering temperatures. In summary, the CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites prepared with 50<ce:hsp sp="0.25"/>wt% CBS glass and sintered at 875<ce:hsp sp="0.25"/>°C demonstrated the most excellent comprehensive properties: ε<ce:inf loc="post">r</ce:inf> of 8.06 and tanδ of 1.2×10<ce:sup loc="post">−3</ce:sup> at 7<ce:hsp sp="0.25"/>GHz, flexural strength of 204<ce:hsp sp="0.25"/>MPa, thermal expansion coefficient of 5.47<ce:hsp sp="0.25"/>ppm/°C, and thermal conductivity of 3.1<ce:hsp sp="0.25"/>W/mK. In addition, the comparison between the typical commercial LTCC materials <ce:cross-ref id="cr0190" refid="bib18">[18]</ce:cross-ref> and the CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> in this work was given in <ce:float-anchor refid="t0010"/>
+                     <ce:cross-ref id="cr0195" refid="t0010">Table 2</ce:cross-ref>. The contents of the comparison included these values of sintering temperature, bulk density, dielectric constant (ε<ce:inf loc="post">γ</ce:inf>), dielectric loss (Tanδ), flexural Strength, CTE and λ. It was worth pointing out that the dielectric loss and the thermal expansion of the CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites was lower than most of the commercial LTCC substrate materials. The LTCC composite we prepared simultaneously exhibited high flexural strength, high thermal conductivity, indicating its great potential for packaging in the microelectronic application.</ce:para>
+                  <ce:para id="p0065" view="all">To further investigate the co-firing compatibility of the LTCC composites and metal electrodes, glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites prepared with 50<ce:hsp sp="0.25"/>wt% CBS glass were chosen to co-fire with Ag electrodes at 875<ce:hsp sp="0.25"/>°C and 900<ce:hsp sp="0.25"/>°C, and the X-ray diffraction patterns of the co-fired samples was shown in <ce:float-anchor refid="f0030"/>
+                     <ce:cross-ref id="cr0200" refid="f0030">Fig. 6</ce:cross-ref>. It can be observed that there were only α-Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (JCPDS#82-1468), anorthite (JCPDS#41-1486) and Ag phase (JCPDS#04-0783), implying that no chemical reaction have taken place between the glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites and Ag electrodes. Moreover, the SEM micrograph of co-fired sample sintered at 875<ce:hsp sp="0.25"/>°C was showed in <ce:float-anchor refid="f0035"/>
+                     <ce:cross-ref id="cr0205" refid="f0035">Fig. 7</ce:cross-ref>, which indicated that the LTCC composites matched Ag electrodes well without obvious reaction between them. These results guaranteed the CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composite extremely apt for LTCC applications.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0030">Conclusions</ce:section-title>
+                  <ce:para id="p0070" view="all">In this study, CaO-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-SiO<ce:inf loc="post">2</ce:inf> (CBS) glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites for LTCC application were synthesized and the sintering behavior, phase compositions, microstructure and properties were investigated. The composites with different CBS glass contents were sintered at different temperatures. Results showed that a proper amount of low melting point glass not only efficiently promoted the sintering densification of the composites, but also significantly improved the dielectric, mechanical and thermal performances. During the sintering process, the chemical reactions between glass and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> led to the appearance of anorthite phases. The sintering behaviors and properties were sensitive to the sintering temperatures. The composites prepared with 50<ce:hsp sp="0.25"/>wt% glass sintered at 875<ce:hsp sp="0.25"/>°C for 15<ce:hsp sp="0.25"/>min showed a dense and pore-less microstructure and exhibited quite excellent performance: bulk density of 3.12<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup>, ε<ce:inf loc="post">r</ce:inf> of 8.06 and tanδ of 1.2×10<ce:sup loc="post">−3</ce:sup> at 7<ce:hsp sp="0.25"/>GHz, flexural strength of 204<ce:hsp sp="0.25"/>MPa, thermal expansion coefficient of 5.47<ce:hsp sp="0.25"/>ppm/°C, and thermal conductivity of 3.1<ce:hsp sp="0.25"/>W/mK. Besides, the composites could meet the shrinkage requirement of Ag electrodes and could hardly react with Ag electrodes. All the above findings demonstrated that the CBS glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites was a promising candidate for LTCC application.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0035">Acknowledgements</ce:section-title>
+               <ce:para id="p0075" view="all">This work was financed by the Priority Academic Program Development of Jiangsu Higher Education Institutions (<ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">PAPD</ce:grant-sponsor>), the Program for Innovative Research Team in <ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">University of Ministry of Education of China</ce:grant-sponsor> (No. <ce:grant-number refid="gs2">IRT_15R35</ce:grant-number>) and <ce:grant-sponsor id="gs3" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Research and Innovation Program for College Graduates of Jiangsu Province</ce:grant-sponsor> (<ce:grant-number refid="gs3">KYZZ16_0233</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0040">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.R.</ce:given-name>
+                                 <ce:surname>Tummala</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ceramic and glass-ceramic packaging in the 1990s</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>895</sb:first-page>
+                              <sb:last-page>908</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of composition on sinter-crystallization and properties of low temperature co-fired α-cordierite glass–ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>15</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3981</sb:first-page>
+                              <sb:last-page>3991</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Y</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.X.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis and characterization of single phase and low temperature co-fired cordierite glass-ceramics from perlite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:bold>J. Non-Cryst. Solids</ce:bold>.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>448</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36</sb:first-page>
+                              <sb:last-page>42</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Hsieh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.N.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microwave dielectric properties of glass–ceramic composites for low temperature co-firable ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2553</sb:first-page>
+                              <sb:last-page>2558</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Smetana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Balluch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stangl</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Processing procedures for the realization of fine structured channel arrays and bridging elements by LTCC-Technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Reliab.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>592</sb:first-page>
+                              <sb:last-page>599</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bittner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Seidel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Schmid</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-Frequency characterization of porous low-temperature cofired ceramics substrates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>93</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3778</sb:first-page>
+                              <sb:last-page>3781</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure, sintering and properties of CaO-Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–SiO<ce:inf loc="post">2</ce:inf>, glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites with different CaO contents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.: Mater. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5446</sb:first-page>
+                              <sb:last-page>5451</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Zhong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low temperature sintering and characteristics of K<ce:inf loc="post">2</ce:inf>O-B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>-SiO<ce:inf loc="post">2</ce:inf>-Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>, glass/ceramic composites for LTCC applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.: Mater. Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4187</sb:first-page>
+                              <sb:last-page>4192</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Manu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Sebastian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tape casting of low permittivity Wesselsite–Glass composite for LTCC based microwave applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1210</sb:first-page>
+                              <sb:last-page>1216</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation of LTCC materials with adjustable permittivity based on BaO–B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–SiO<ce:inf loc="post">2</ce:inf>/BaTiO<ce:inf loc="post">3</ce:inf> system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                              <sb:last-page>252</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Arcaro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.R.</ce:given-name>
+                                 <ce:surname>Cesconeto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Raupp-Pereira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Novaes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>de Oliveira, Synthesis and characterization of LZS/α-Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> glass-ceramic composites for applications in the LTCC technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5269</sb:first-page>
+                              <sb:last-page>5274</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rajesh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jantunen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Letz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pichler-Willhelm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low temperature sintering and dielectric properties of alumina-filled glass composites for LTCC applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Appl. Ceram. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>52</sb:first-page>
+                              <sb:last-page>59</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Zawrah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.A.</ce:given-name>
+                                 <ce:surname>Hamzawy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of cristobalite formation on sinterability, microstructure and properties of glass/ceramic composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>123</sb:first-page>
+                              <sb:last-page>130</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Miao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparison of hydroxyapatite ceramics and hydroxyapatite/borosilicate glass composites prepared by slip casting</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1787</sb:first-page>
+                              <sb:last-page>1791</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Chung-Lun</ce:given-name>
+                                 <ce:surname>Lo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Jenq-Gong</ce:given-name>
+                                 <ce:surname>Duh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low-temperature sintering and microwave dielectric properties of anorthite-based glasseceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2230</sb:first-page>
+                              <sb:last-page>2235</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.X.</ce:given-name>
+                                 <ce:surname>Bai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Densification and characterization of SiO<ce:inf loc="post">2</ce:inf>–B<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>–CaO–MgO glass/Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> composites for LTCC application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6355</sb:first-page>
+                              <sb:last-page>6361</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mergen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.Z.</ce:given-name>
+                                 <ce:surname>Aslanoǧlu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low-temperature fabrication of anorthite ceramics from kaolinite and calcium carbonate with boron oxide addition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>667</sb:first-page>
+                              <sb:last-page>670</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Sebastian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jantunen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low loss dielectric materials for LTCC applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Mater. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

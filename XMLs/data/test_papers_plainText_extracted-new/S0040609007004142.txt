@@ -1,0 +1,699 @@
+Title:
+Proceedings of Symposium R on Advances in Transparent Electronics:from materials to devices EMRS 2006 Conference  Nice  France
+
+Abstract:
+N-type transparent conducting oxides are based on ionic oxides with s-like cation conduction bands. The effect of disorder on their conduction band states is found to be small, because angular disorder has no effect on s states. Aliovalent impurities give rise to shallow states at the conduction band, which leads to an absence of a conduction band tail of localized states. This leads to a higher electron mobility than in typical p state amorphous materials like a-Si, the ability to move the Fermi level well into the conduction band and an absence of electrical instability as in a-Si:H. The band offsets are used to suggest appropriate oxide dielectrics for their thin transistors.
+
+Keywords:
+Oxides
+Tin oxide
+Zinc oxide
+Indium oxide
+Transistor
+Electronic structure
+
+Acknowledgements:
+The author is grateful to K Xiong and B Falabretti for some band calculations and to S J Clark for use of computer codes.
+
+Introduction:
+Transparent conducting oxides (TCO) such as SnO2, In2O3 and ZnO have long been used because they are transparent and can be doped to high conductivities [1,2]. Generally, their highest conductivity is achieved for the crystalline case. They are also very conductive in their amorphous state [3] and can achieve electron mobilities of 10–40 cm2/V s. These are very high mobilities compared to electron mobilities in amorphous Si, which is of order 1 cm2/V s, and they are attracting considerable interest in terms of device applications such as thin film transistors (TFTs) [4–7]. This paper discusses the nature of disorder in these amorphous materials, the limits to their doping, and the type of gate dielectric which is best for their TFTs.
+
+Disorder in amorphous semiconductors:
+Since the work of Anderson [8], it is known that disorder can cause a localization of electron states in the band structure. Further work by Mott [9,10] showed that disorder first localizes states at the band edges, and that the extended states and localized (tail) states were separated by an energy called the mobility edge. With increasing disorder, the mobility edges move further into the bands, as in Fig. 1
+                     , and eventually the whole band becomes localized. These results were worked out for s states which are spherically symmetric.
+The first amorphous semiconductors to be studied in depth experimentally were the amorphous chalcogenides, such as amorphous Se (a-Se). The chalcogenides are in fact p bonded [11], and their simplified band diagram is shown in Fig. 2(a). Disorder introduces localized band tail states.
+The next and most important amorphous semiconductors are a-Si and hydrogenated amorphous silicon (a-Si:H) [12]. Its bonds are sp3 states, but the states around its band gap are p states. Fig. 2(b) shows a schematic of its density of states. The valence band maximum consists of pure p states, whereas the conduction band minimum consists of mixed s, p states. The effect of disorder has been considered in more detail in a-Si than in most other amorphous semiconductors. The Si–Si bond length is relatively fixed in a-Si:H. On the other hand, the bond angle θ varies by 10° and the dihedral angle ϕ varies by 180°. The nearest neighbour V (ppπ) interaction equals 0.7 eV and it varies directly with ϕ (Fig. 2(b)), and therefore this is a strong source of disorder in the valence band edge [13]. This causes a strong tailing of the valence band edge, giving a characteristic tail width of at least 60 meV. The conduction band is less affected by dihedral angle disorder, but it is affected by bond angle disorder. This also gives quite strong tailing, but less than for the valence band edge [14–16]. This gives rise to density of states in the gap, as shown schematically in Fig. 3
+                     .
+a-Si:H is relatively easy to produce. However, it suffers from a further series of disadvantages. It is well known that the discovery of n- and p-type substitutional doping a-Si:H led to its use in solar cells and TFTs. However, doping in a-Si:H is not quite the same as in crystalline Si. The doping configuration always competes with the non-doping configuration. The non-doping configuration of trivalent P is denoted P3
+                     0, the subscript denoting the coordination. The substitutional doping configuration is denoted P4. It turns out the doping site is always ionized so it is P4
+                     +. It also turns out that the presence of dopants always causes auto-compensation, creating a Si dangling bond (DB) [17]. The doping electron falls down into the DB state, giving Si3
+                     −. Thus ‘doping’ is expressed by the equilibrium reaction
+                        
+                           (1)
+                           
+                              
+                                 P
+                                 3
+                                 0
+                              
+                              +
+                              
+                                 Si
+                                 4
+                                 0
+                              
+                              =
+                              
+                                 P
+                                 4
+                                 +
+                              
+                              +
+                              
+                                 Si
+                                 3
+                                 −
+This equilibrium pins the Fermi energy E
+                     F below the donor level, and thus doping in a-Si:H never moves E
+                     F above the CB mobility edge.
+In a TFT, the gate bias voltage induces a charge in the channel. In a crystalline Si FET, this would be mobile charge. In a-Si:H this charge is at first fixed charge as the Fermi level is moved through the large density of gap states towards the conduction band mobility edge [18]. In practice, the Fermi level barely enters the conduction band extended states. This is the fundamental cause of the low mobility of a-Si:H TFTs.
+The field effect mobility μ
+                     FE is given approximately by
+                        
+                           (2)
+                           
+                              
+                                 μ
+                                 FE
+                              
+                              =
+                              
+                                 n
+                                 
+                                    
+                                       n
+                                       0
+                                    
+                                 
+                              
+                              
+                                 μ
+                                 0
+                              
+                           
+                        
+                     where μ
+                     0 is the free carrier mobility in extended states, n is the free carrier concentration, and n
+                     0 is the total induced charge. The mobility comes only from those carriers induced into extended states. These arise from the decay of the Fermi function above E
+                     F at finite temperature.
+
+Disorder in oxide semiconductors:
+The (n-type) transparent conducting oxides (TCOs) consist of oxides of post-transition element metals such as Zn, In, Sn and Cd. They are less reactive than the pre-transition metals such as Mg or Al, but they have a similar electronic structure. This consists of a pronounced metal s-like conduction band minimum (Fig. 4
+                     ), and a valence band of O 2p states [3]. The conduction band has a single low effective mass minimum, strongly localised on the metal s states, with no subsidiary minima. The band structures of the main TCOs, SnO2, In2O3 and ZnO [20–23] are shown in Fig. 4. Unlike the alkaline earth metal oxides, these post-transition metal oxides can be made amorphous [3].
+The amorphous n-type TCOs are in fact the first important examples of disorder in an s band. The effect of disorder on s states is rather weak. As the conduction band minimum state is 90–95% localized on the metal s states, then its energy depends mainly on the V(ss) interaction between second neighbour metal sites, and not much on the V(sp) interaction between metal s and oxygen p states, Fig. 5
+                     . A two-centre Slater–Koster interaction V(l,m) between orbitals on atoms l and m [19] would normally depend on their distance (r), the angles θ between the orbitals and the separation vector r, and their dihedral angle (ϕ),
+                        
+                           
+                              V
+                              (
+                              l,m
+                              )
+                              =
+                              V
+                              (
+                              r
+                              ,
+                              θ
+                              ,
+                              ϕ
+                              )
+However, for an interaction between two s states, this reduces to
+                        
+                           (3)
+                           
+                              V
+                              (
+                              ss
+                              )
+                              =
+                              V
+                              (
+                              r
+                              )
+                           
+                        
+                     because of their spherical symmetry. Thus, the only source of disorder is the variation of the metal–metal distance, and any angular disorder has no effect on s states.
+The first known effect of this was on the conduction band edge on amorphous SiO2 (silica) [24]. SiO2 has a wide band gap of 9 eV, and has low screening. The conduction band minimum of SiO2 has an effective mass of 0.5 m and is formed from Si s states and O 3s states [25]. The effect of disorder theoretically is small because the O–O distance is relatively fixed due to the small disorder of the O–Si–O bond angle. Experimentally, holes form polarons in the O 2p valence band and have a very low mobility. On the other hand, free electrons are found to have a high mobility, indicating an absence of disorder effects and localized states on the conduction band.
+We note that the same effect occurs in SnO2 and related TCOs [3]. The large metal ion radius means that packing keeps the metal–metal distance rather constant, and the angular disorder has no effect, so that the effects of disorder on the s-like conduction band minimum are very small. This is the case for the pure oxide.
+Experimentally, these s-like TCOs differ very strongly from a-Si:H. The electron mobility is large, of the order 10 to 40 cm2/V s. The Fermi level can be moved far into the conduction band without any problem, creating large free carrier concentrations [3].
+It is interesting that the recent oxide-based TFTs use mixed oxides of Ga, In and Zn [4,5,26,27] to control the off current and vacancy concentration. The carrier mobility is still high. Clearly the conduction band edge is still very delocalized and it is not even affected by compositional disorder. The reason for this is that the Al, Ga or In form shallow donor states in ZnO [28,29], while ZnO forms states resonant with the conduction band in Ga or In oxide. This means that Al, Ga, In are all not deep in SnO2 
+                     [29] and Zn is not deep in Ga or In oxides [30]. (The definition of deep, shallow and resonant states follows that of Hjalmarson et al. [31].) Ga forms a shallow bound state below the ZnO CB edge, but at high concentrations, this forms a continuous band with the ZnO states in the alloy. Similarly, in SnO2, substitutional Sb gives a shallow state [2,29]. The absence of deep gap states due to aliovalent impurities means that there are no localized states at the conduction band edge, and no effects that break the delocalization of the CB states. The Hall mobility does not fall below metallic values [32], in support of this, but there may be a narrow range of weakly localised states.
+The absence of localized states due to aliovalent dopants also means that disorder does not introduce localized tail states below E
+                     C. Thus, in a TFT, the field effect mobility is given essentially by the free carrier mobility, from Eq. (2). The free carrier mobility in s states is also higher than in p states, which partly accounts for the higher FE mobility. A second factor is that the Fermi wavevector is large [33].
+
+Less instabilities in oxide semiconductors:
+a-Si:H also suffers from instability, which is called the Staebler–Wronski effect in solar cells and bias-stress instability in TFTs [34–39]. In TFTs, the presence of electrons in extended conduction band states is the equivalent of electrons occupying anti-bonding (σ⁎) states (Fig. 3). This tends to cause a reaction which breaks that bond, and creates a dangling bond. The electron is now lowered to a dangling bond state, and E
+                     F is no longer in the conduction band. The fundamental property is that if E
+                     F attempts to lie above E
+                     C in a-Si:H, it causes a Si–Si bond to break, resulting in the pinning of E
+                     F below E
+                     C. The related Staebler–Wronski effect (photo induced instability) and current induced instability is due to electron-hole recombination, and is a more complex process [39].
+In the TCOs such as SnO2, it is clear that E
+                     F can lie stably well above E
+                     C without inducing any bond rearrangement, that would try to pin E
+                     F at a lower energy. This is a very significant advantage of the TCOs. The TFTs of ZnO and SnO2 are much more stable than those of a-Si:H [40]. This effect is partly due to the denser atomic packing in the TCOs, and an absence of covalent bonds to be broken. Of course, all TFT materials will ultimately suffer from some instabilities of one form or another at large stress, due to trapped or mobile charge, bond ionization, etc. [41]. It is just a matter of how large and deleterious they are.
+The greater stability may also be due to the different behaviour of hydrogen in the oxides. Hydrogen is the key catalyst of bond breaking in a-Si:H. Whilst it is energetically favorable to break the Si–Si bond once the σ
+                     ⁎ state is occupied, it would be very slow, without the presence of hydrogen. The hydrogen allows the instability to occur even at room temperature. Hydrogen occupies mainly the Si-H bond state. But it can also exist at intermediate bond-centre sites, which catalyse the rearrangements. The hydrogen moves to satisfy one of the created dangling bonds, so that the overall creation energy is closer to 1 eV than 2.3 eV (the cost of a Si–Si bond).
+                        
+                           (4)
+                           
+                              Si
+                              +
+                              SiHHSi
+                              →
+                              Si.
+                              +
+                              Si−H
+The instabilities in a-Si:H have been proved to be due to the breaking of the Si–Si [38]. They can be described by the defect pool model. These instabilities can never really be removed in a-Si:H; their effect can be minimised by good design, or can be removed by moving to micro-crystalline Si. But it is a fundamental limitation to a-Si:H.
+Hydrogen can exist in SnO2 and the other TCOs, but it is present as ionized H+ sites. It has been found that atomic H lies next to an O2− site, forming an OH− ion, and releasing an electron [42]. The geometry of the site is shown in Fig. 6
+                     . In this configuration, H is not able to catalyse bond rearrangements.
+
+Band offsets:
+A complete TFT requires not only the channel material but also a gate dielectric. The choice of gate dielectric is critical to issues such as gate leakage current, interface charge, and process temperature. SiO2 is the dielectric of choice for Si CMOS and poly-Si TFTs. This is because it has an excellent interface with Si. Silicon nitride is the dielectric used in a-Si:H TFTs. This is because the quality of low temperature plasma deposited (PD) amorphous Si3N4 is higher than that of the equivalent SiO2.
+A key property needed of any dielectric is that the valence and conduction band offsets are over 1 eV in order that they are a sufficient barrier to the injection of carriers into the dielectric's bands [43,44]. SiO2 is such a good dielectric because its band offsets are both over 3 eV. a-Si:H TFTs are only n-type, and silicon nitride is an adequate dielectric because its conduction band offset on Si is reasonably large. However, its valence band offset is only about 1 eV and also the valence band tail of a-Si3N4 is broad. Thus it would be a poor dielectric for p-type transistors, and indeed it is not used for p-type poly-Si TFTs.
+The band offsets of possible dielectrics for oxide-based TFTs can be calculated fairly easily using the model of metal-induced gap states (MIGS). This model is covered in more detail elsewhere [43–47]. The idea is that the band offset between two semiconductors is related to the Schottky barrier height between a semiconductor and a metal, and is controlled by the charge transfer across the interface [43,45,48]. The charge transfer is between the metal and the metal-induced states lying within the band gap of the semiconductor. The charge transfer creates an interface dipole, which tends to align the band states on each side of the interface. The amount of charge transfer depends on the band gap of the wider gap semiconductor, and also on the detailed interface bonding. The MIGs model makes the approximation of ignoring the effect of the detailed interface bonding on the charge transfer. This allows a much simpler calculation. It has proved reasonably reliable for the case of many oxide dielectrics on Si and III–V semiconductors. (An alternative view of the Schottky barrier pinning is that it arises from bond polarisation of all the bonds at the interface [48]. This model actually gives a similar dependence on band gaps etc., despite its apparent differences, but its algebraic details are less evolved.)
+In detail, the Schottky barrier height is given by
+                        
+                           (5)
+                           
+                              
+                                 ϕ
+                                 n
+                              
+                              =
+                              S
+                              (
+                              
+                                 Φ
+                                 M
+                              
+                              −
+                              
+                                 Φ
+                                 S
+                              
+                              )
+                              +
+                              (
+                              
+                                 Φ
+                                 S
+                              
+                              −
+                              
+                                 χ
+                                 s
+                              
+                              )
+Here Φ
+                     M is the work function of the metal, χ
+                     s is the electron affinity of the semiconductor, Φ
+                     S is a pinning energy of the semiconductor surface measured from the vacuum level, and S is a Schottky barrier ‘pinning factor’, 0<
+                     S
+                     <1.
+We treat the interface of an oxide dielectric and an oxide semiconductor as an interface between two semiconductors a and b. Analogous to Eq. (5), the electron barrier ϕ
+                     n or conduction band (CB) offset is given by
+                        
+                           (6)
+                           
+                              
+                                 ϕ
+                                 n
+                              
+                              =
+                              (
+                              
+                                 χ
+                                 a
+                              
+                              −
+                              
+                                 Φ
+                                 S,a
+                              
+                              )
+                              −
+                              (
+                              
+                                 χ
+                                 b
+                              
+                              −
+                              
+                                 Φ
+                                 S,b
+                              
+                              )
+                              +
+                              S
+                              (
+                              
+                                 Φ
+                                 S,a
+                              
+                              −
+                              
+                                 Φ
+                                 S,b
+                              
+                              )
+                           
+                        
+                     and S depends on the ε
+                     ∞ of the wider gap material, which is the dielectric.
+It has been found that empirically S depends on the electronic part of the dielectric constant of the material according to [45]
+                     
+                        
+                           (7)
+                           
+                              S
+                              =
+                              
+                                 1
+                                 
+                                    1
+                                    +
+                                    0.1
+                                    
+                                       
+                                          (
+                                          
+                                             ɛ
+                                             ∞
+                                          
+                                          −
+                                          1
+                                          )
+                                       
+                                       2
+Thus, S ∼0 for highly screened cases and S ∼1 for unscreened cases such as SiO2.
+The CNL can be calculated from the oxide band structure as the energy at which the simple Greens function is zero;
+                        
+                           (8)
+                           
+                              G
+                              (
+                              E
+                              )
+                              =
+                              
+                                 ∫
+                                 
+                                    B
+                                    Z
+                                 
+                              
+                              
+                                 ∫
+                                 
+                                    −
+                                    ∞
+                                 
+                                 ∞
+                              
+                              
+                                 
+                                    N
+                                    (
+                                    E
+                                    ′
+                                    )
+                                    d
+                                    E
+                                    ′
+                                 
+                                 
+                                    E
+                                    −
+                                    E
+                                    ′
+                                 
+                              
+                              =
+                              0
+This applies to oxides of both channel and dielectric. This integral is replaced by a sum over special points of the zone [43]. The CNL can be calculated from the bands calculated by the local density approximation/pseudopotential method, after adjusting the band gap to the experimental value.
+The CNL normally lies near the centre of the band gap. For most ionic oxides, the CNL energy tends to vary with the metal valence, because the large number of oxygen-related valence states repels the CNL up in the gap [43]. The transparent oxides are different. The CNL is effectively the mid point of the average gap over the Brillouin zone. But the s-band oxides have a broad CB minimum, which comes well below the average CB energy. This causes the CNL to lie either close to the CB, as in ZnO, or even above the CB minimum, as in SnO2 and In2O3 (Fig. 7
+                     ). This is an unusual situation.
+The parameters are listed in Table 1
+                     . The S is calculated from the experimental values of refractive index (ε
+                     ∞
+                     =
+                     n
+                     2). The electron affinities are taken from experiment for poly-crystalline oxide films [49]; those for the dielectrics are tabulated previously [44] The work function of doped SnO2 is large, often 4.5 eV. This is partly because the surface is treated to be O-rich, to maximise the work function.
+We see that the CB offsets of all the candidate gate oxides, HfO2, ZrO2, Ga2O3, Y2O3, Al2O3 and SiO2, are shown in Table 2
+                      and Fig. 8
+                     . They are over 1 eV. The CB offset for Y2O3 is quite large, as it is for Ga2O3, and this leads to a small negative VB offset for these oxides. Normally this would be a problem. But in these semiconductor oxides, as they are only envisaged as n-type channels, the hole barrier is irrelevant. The large CB offsets arise because their CNLs lie near or above the CB minimum.
+
+Limits to doping:
+The transparent oxides are unusual in that they tend to have unipolar doping. ZnO, SnO2 and In2O3 can be doped easily n-type, but not p-type, although there is considerable effort to find p-type dopants for ZnO [3]. On the other hand, the new p-type TCOs such as CuAlO2 can only be doped p-type. There are few oxides which may be able to be doped both n-and p-type such as CuInO2 and SrCu2O2.
+Three requirements must be met to observe doping, the impurity must be soluble, it must be shallow and it must not be compensated by native defects of the opposite charge. Compensation is the most fundamental limitation.
+The limits to doping due to compensation have previously been considered in terms of the formation energy of native defects (vacancies or interstitials) as a function of the Fermi level position. The formation energy will become negative when E
+                     F exceeds two ‘pinning energies’, one for donors, one for acceptors (Fig. 9
+                     (a)). This pinning energy lies outside the gap and in the bands, then doping of that polarity can occur [50,28]. These pinning energies of a range of semiconductors can be related to the vacuum level, via band line-ups.
+An alternative idea, developed in more detail elsewhere, is that the pinning energies are also related to the charge neutrality levels. If the CNL lies close to a band edge, this doping will be easy. If it lies too far into the gap from a band edge, this doping polarity will be difficult. By aligning the various TCOs on a common band offset diagram as in Fig. 9(b), we see that the n-type TCOs will have difficult p-doping because the CNL lies so high.
+
+Body:
+Transparent conducting oxides (TCO) such as SnO2, In2O3 and ZnO have long been used because they are transparent and can be doped to high conductivities [1,2]. Generally, their highest conductivity is achieved for the crystalline case. They are also very conductive in their amorphous state [3] and can achieve electron mobilities of 10–40 cm2/V s. These are very high mobilities compared to electron mobilities in amorphous Si, which is of order 1 cm2/V s, and they are attracting considerable interest in terms of device applications such as thin film transistors (TFTs) [4–7]. This paper discusses the nature of disorder in these amorphous materials, the limits to their doping, and the type of gate dielectric which is best for their TFTs.
+
+Since the work of Anderson [8], it is known that disorder can cause a localization of electron states in the band structure. Further work by Mott [9,10] showed that disorder first localizes states at the band edges, and that the extended states and localized (tail) states were separated by an energy called the mobility edge. With increasing disorder, the mobility edges move further into the bands, as in Fig. 1
+                     , and eventually the whole band becomes localized. These results were worked out for s states which are spherically symmetric.
+
+The first amorphous semiconductors to be studied in depth experimentally were the amorphous chalcogenides, such as amorphous Se (a-Se). The chalcogenides are in fact p bonded [11], and their simplified band diagram is shown in Fig. 2(a). Disorder introduces localized band tail states.
+
+The next and most important amorphous semiconductors are a-Si and hydrogenated amorphous silicon (a-Si:H) [12]. Its bonds are sp3 states, but the states around its band gap are p states. Fig. 2(b) shows a schematic of its density of states. The valence band maximum consists of pure p states, whereas the conduction band minimum consists of mixed s, p states. The effect of disorder has been considered in more detail in a-Si than in most other amorphous semiconductors. The Si–Si bond length is relatively fixed in a-Si:H. On the other hand, the bond angle θ varies by 10° and the dihedral angle ϕ varies by 180°. The nearest neighbour V (ppπ) interaction equals 0.7 eV and it varies directly with ϕ (Fig. 2(b)), and therefore this is a strong source of disorder in the valence band edge [13]. This causes a strong tailing of the valence band edge, giving a characteristic tail width of at least 60 meV. The conduction band is less affected by dihedral angle disorder, but it is affected by bond angle disorder. This also gives quite strong tailing, but less than for the valence band edge [14–16]. This gives rise to density of states in the gap, as shown schematically in Fig. 3
+                     .
+
+a-Si:H is relatively easy to produce. However, it suffers from a further series of disadvantages. It is well known that the discovery of n- and p-type substitutional doping a-Si:H led to its use in solar cells and TFTs. However, doping in a-Si:H is not quite the same as in crystalline Si. The doping configuration always competes with the non-doping configuration. The non-doping configuration of trivalent P is denoted P3
+                     0, the subscript denoting the coordination. The substitutional doping configuration is denoted P4. It turns out the doping site is always ionized so it is P4
+                     +. It also turns out that the presence of dopants always causes auto-compensation, creating a Si dangling bond (DB) [17]. The doping electron falls down into the DB state, giving Si3
+                     −. Thus ‘doping’ is expressed by the equilibrium reaction
+                        
+                           (1)
+                           
+                              
+                                 P
+                                 3
+                                 0
+                              
+                              +
+                              
+                                 Si
+                                 4
+                                 0
+                              
+                              =
+                              
+                                 P
+                                 4
+                                 +
+                              
+                              +
+                              
+                                 Si
+                                 3
+                                 −
+
+This equilibrium pins the Fermi energy E
+                     F below the donor level, and thus doping in a-Si:H never moves E
+                     F above the CB mobility edge.
+
+In a TFT, the gate bias voltage induces a charge in the channel. In a crystalline Si FET, this would be mobile charge. In a-Si:H this charge is at first fixed charge as the Fermi level is moved through the large density of gap states towards the conduction band mobility edge [18]. In practice, the Fermi level barely enters the conduction band extended states. This is the fundamental cause of the low mobility of a-Si:H TFTs.
+
+The field effect mobility μ
+                     FE is given approximately by
+                        
+                           (2)
+                           
+                              
+                                 μ
+                                 FE
+                              
+                              =
+                              
+                                 n
+                                 
+                                    
+                                       n
+                                       0
+                                    
+                                 
+                              
+                              
+                                 μ
+                                 0
+                              
+                           
+                        
+                     where μ
+                     0 is the free carrier mobility in extended states, n is the free carrier concentration, and n
+                     0 is the total induced charge. The mobility comes only from those carriers induced into extended states. These arise from the decay of the Fermi function above E
+                     F at finite temperature.
+
+The (n-type) transparent conducting oxides (TCOs) consist of oxides of post-transition element metals such as Zn, In, Sn and Cd. They are less reactive than the pre-transition metals such as Mg or Al, but they have a similar electronic structure. This consists of a pronounced metal s-like conduction band minimum (Fig. 4
+                     ), and a valence band of O 2p states [3]. The conduction band has a single low effective mass minimum, strongly localised on the metal s states, with no subsidiary minima. The band structures of the main TCOs, SnO2, In2O3 and ZnO [20–23] are shown in Fig. 4. Unlike the alkaline earth metal oxides, these post-transition metal oxides can be made amorphous [3].
+
+The amorphous n-type TCOs are in fact the first important examples of disorder in an s band. The effect of disorder on s states is rather weak. As the conduction band minimum state is 90–95% localized on the metal s states, then its energy depends mainly on the V(ss) interaction between second neighbour metal sites, and not much on the V(sp) interaction between metal s and oxygen p states, Fig. 5
+                     . A two-centre Slater–Koster interaction V(l,m) between orbitals on atoms l and m [19] would normally depend on their distance (r), the angles θ between the orbitals and the separation vector r, and their dihedral angle (ϕ),
+                        
+                           
+                              V
+                              (
+                              l,m
+                              )
+                              =
+                              V
+                              (
+                              r
+                              ,
+                              θ
+                              ,
+                              ϕ
+                              )
+
+However, for an interaction between two s states, this reduces to
+                        
+                           (3)
+                           
+                              V
+                              (
+                              ss
+                              )
+                              =
+                              V
+                              (
+                              r
+                              )
+                           
+                        
+                     because of their spherical symmetry. Thus, the only source of disorder is the variation of the metal–metal distance, and any angular disorder has no effect on s states.
+
+The first known effect of this was on the conduction band edge on amorphous SiO2 (silica) [24]. SiO2 has a wide band gap of 9 eV, and has low screening. The conduction band minimum of SiO2 has an effective mass of 0.5 m and is formed from Si s states and O 3s states [25]. The effect of disorder theoretically is small because the O–O distance is relatively fixed due to the small disorder of the O–Si–O bond angle. Experimentally, holes form polarons in the O 2p valence band and have a very low mobility. On the other hand, free electrons are found to have a high mobility, indicating an absence of disorder effects and localized states on the conduction band.
+
+We note that the same effect occurs in SnO2 and related TCOs [3]. The large metal ion radius means that packing keeps the metal–metal distance rather constant, and the angular disorder has no effect, so that the effects of disorder on the s-like conduction band minimum are very small. This is the case for the pure oxide.
+
+Experimentally, these s-like TCOs differ very strongly from a-Si:H. The electron mobility is large, of the order 10 to 40 cm2/V s. The Fermi level can be moved far into the conduction band without any problem, creating large free carrier concentrations [3].
+
+It is interesting that the recent oxide-based TFTs use mixed oxides of Ga, In and Zn [4,5,26,27] to control the off current and vacancy concentration. The carrier mobility is still high. Clearly the conduction band edge is still very delocalized and it is not even affected by compositional disorder. The reason for this is that the Al, Ga or In form shallow donor states in ZnO [28,29], while ZnO forms states resonant with the conduction band in Ga or In oxide. This means that Al, Ga, In are all not deep in SnO2 
+                     [29] and Zn is not deep in Ga or In oxides [30]. (The definition of deep, shallow and resonant states follows that of Hjalmarson et al. [31].) Ga forms a shallow bound state below the ZnO CB edge, but at high concentrations, this forms a continuous band with the ZnO states in the alloy. Similarly, in SnO2, substitutional Sb gives a shallow state [2,29]. The absence of deep gap states due to aliovalent impurities means that there are no localized states at the conduction band edge, and no effects that break the delocalization of the CB states. The Hall mobility does not fall below metallic values [32], in support of this, but there may be a narrow range of weakly localised states.
+
+The absence of localized states due to aliovalent dopants also means that disorder does not introduce localized tail states below E
+                     C. Thus, in a TFT, the field effect mobility is given essentially by the free carrier mobility, from Eq. (2). The free carrier mobility in s states is also higher than in p states, which partly accounts for the higher FE mobility. A second factor is that the Fermi wavevector is large [33].
+
+a-Si:H also suffers from instability, which is called the Staebler–Wronski effect in solar cells and bias-stress instability in TFTs [34–39]. In TFTs, the presence of electrons in extended conduction band states is the equivalent of electrons occupying anti-bonding (σ⁎) states (Fig. 3). This tends to cause a reaction which breaks that bond, and creates a dangling bond. The electron is now lowered to a dangling bond state, and E
+                     F is no longer in the conduction band. The fundamental property is that if E
+                     F attempts to lie above E
+                     C in a-Si:H, it causes a Si–Si bond to break, resulting in the pinning of E
+                     F below E
+                     C. The related Staebler–Wronski effect (photo induced instability) and current induced instability is due to electron-hole recombination, and is a more complex process [39].
+
+In the TCOs such as SnO2, it is clear that E
+                     F can lie stably well above E
+                     C without inducing any bond rearrangement, that would try to pin E
+                     F at a lower energy. This is a very significant advantage of the TCOs. The TFTs of ZnO and SnO2 are much more stable than those of a-Si:H [40]. This effect is partly due to the denser atomic packing in the TCOs, and an absence of covalent bonds to be broken. Of course, all TFT materials will ultimately suffer from some instabilities of one form or another at large stress, due to trapped or mobile charge, bond ionization, etc. [41]. It is just a matter of how large and deleterious they are.
+
+The greater stability may also be due to the different behaviour of hydrogen in the oxides. Hydrogen is the key catalyst of bond breaking in a-Si:H. Whilst it is energetically favorable to break the Si–Si bond once the σ
+                     ⁎ state is occupied, it would be very slow, without the presence of hydrogen. The hydrogen allows the instability to occur even at room temperature. Hydrogen occupies mainly the Si-H bond state. But it can also exist at intermediate bond-centre sites, which catalyse the rearrangements. The hydrogen moves to satisfy one of the created dangling bonds, so that the overall creation energy is closer to 1 eV than 2.3 eV (the cost of a Si–Si bond).
+                        
+                           (4)
+                           
+                              Si
+                              +
+                              SiHHSi
+                              →
+                              Si.
+                              +
+                              Si−H
+
+The instabilities in a-Si:H have been proved to be due to the breaking of the Si–Si [38]. They can be described by the defect pool model. These instabilities can never really be removed in a-Si:H; their effect can be minimised by good design, or can be removed by moving to micro-crystalline Si. But it is a fundamental limitation to a-Si:H.
+
+Hydrogen can exist in SnO2 and the other TCOs, but it is present as ionized H+ sites. It has been found that atomic H lies next to an O2− site, forming an OH− ion, and releasing an electron [42]. The geometry of the site is shown in Fig. 6
+                     . In this configuration, H is not able to catalyse bond rearrangements.
+
+A complete TFT requires not only the channel material but also a gate dielectric. The choice of gate dielectric is critical to issues such as gate leakage current, interface charge, and process temperature. SiO2 is the dielectric of choice for Si CMOS and poly-Si TFTs. This is because it has an excellent interface with Si. Silicon nitride is the dielectric used in a-Si:H TFTs. This is because the quality of low temperature plasma deposited (PD) amorphous Si3N4 is higher than that of the equivalent SiO2.
+
+A key property needed of any dielectric is that the valence and conduction band offsets are over 1 eV in order that they are a sufficient barrier to the injection of carriers into the dielectric's bands [43,44]. SiO2 is such a good dielectric because its band offsets are both over 3 eV. a-Si:H TFTs are only n-type, and silicon nitride is an adequate dielectric because its conduction band offset on Si is reasonably large. However, its valence band offset is only about 1 eV and also the valence band tail of a-Si3N4 is broad. Thus it would be a poor dielectric for p-type transistors, and indeed it is not used for p-type poly-Si TFTs.
+
+The band offsets of possible dielectrics for oxide-based TFTs can be calculated fairly easily using the model of metal-induced gap states (MIGS). This model is covered in more detail elsewhere [43–47]. The idea is that the band offset between two semiconductors is related to the Schottky barrier height between a semiconductor and a metal, and is controlled by the charge transfer across the interface [43,45,48]. The charge transfer is between the metal and the metal-induced states lying within the band gap of the semiconductor. The charge transfer creates an interface dipole, which tends to align the band states on each side of the interface. The amount of charge transfer depends on the band gap of the wider gap semiconductor, and also on the detailed interface bonding. The MIGs model makes the approximation of ignoring the effect of the detailed interface bonding on the charge transfer. This allows a much simpler calculation. It has proved reasonably reliable for the case of many oxide dielectrics on Si and III–V semiconductors. (An alternative view of the Schottky barrier pinning is that it arises from bond polarisation of all the bonds at the interface [48]. This model actually gives a similar dependence on band gaps etc., despite its apparent differences, but its algebraic details are less evolved.)
+
+In detail, the Schottky barrier height is given by
+                        
+                           (5)
+                           
+                              
+                                 ϕ
+                                 n
+                              
+                              =
+                              S
+                              (
+                              
+                                 Φ
+                                 M
+                              
+                              −
+                              
+                                 Φ
+                                 S
+                              
+                              )
+                              +
+                              (
+                              
+                                 Φ
+                                 S
+                              
+                              −
+                              
+                                 χ
+                                 s
+                              
+                              )
+
+Here Φ
+                     M is the work function of the metal, χ
+                     s is the electron affinity of the semiconductor, Φ
+                     S is a pinning energy of the semiconductor surface measured from the vacuum level, and S is a Schottky barrier ‘pinning factor’, 0<
+                     S
+                     <1.
+
+We treat the interface of an oxide dielectric and an oxide semiconductor as an interface between two semiconductors a and b. Analogous to Eq. (5), the electron barrier ϕ
+                     n or conduction band (CB) offset is given by
+                        
+                           (6)
+                           
+                              
+                                 ϕ
+                                 n
+                              
+                              =
+                              (
+                              
+                                 χ
+                                 a
+                              
+                              −
+                              
+                                 Φ
+                                 S,a
+                              
+                              )
+                              −
+                              (
+                              
+                                 χ
+                                 b
+                              
+                              −
+                              
+                                 Φ
+                                 S,b
+                              
+                              )
+                              +
+                              S
+                              (
+                              
+                                 Φ
+                                 S,a
+                              
+                              −
+                              
+                                 Φ
+                                 S,b
+                              
+                              )
+                           
+                        
+                     and S depends on the ε
+                     ∞ of the wider gap material, which is the dielectric.
+
+It has been found that empirically S depends on the electronic part of the dielectric constant of the material according to [45]
+                     
+                        
+                           (7)
+                           
+                              S
+                              =
+                              
+                                 1
+                                 
+                                    1
+                                    +
+                                    0.1
+                                    
+                                       
+                                          (
+                                          
+                                             ɛ
+                                             ∞
+                                          
+                                          −
+                                          1
+                                          )
+                                       
+                                       2
+
+Thus, S ∼0 for highly screened cases and S ∼1 for unscreened cases such as SiO2.
+
+The CNL can be calculated from the oxide band structure as the energy at which the simple Greens function is zero;
+                        
+                           (8)
+                           
+                              G
+                              (
+                              E
+                              )
+                              =
+                              
+                                 ∫
+                                 
+                                    B
+                                    Z
+                                 
+                              
+                              
+                                 ∫
+                                 
+                                    −
+                                    ∞
+                                 
+                                 ∞
+                              
+                              
+                                 
+                                    N
+                                    (
+                                    E
+                                    ′
+                                    )
+                                    d
+                                    E
+                                    ′
+                                 
+                                 
+                                    E
+                                    −
+                                    E
+                                    ′
+                                 
+                              
+                              =
+                              0
+
+This applies to oxides of both channel and dielectric. This integral is replaced by a sum over special points of the zone [43]. The CNL can be calculated from the bands calculated by the local density approximation/pseudopotential method, after adjusting the band gap to the experimental value.
+
+The CNL normally lies near the centre of the band gap. For most ionic oxides, the CNL energy tends to vary with the metal valence, because the large number of oxygen-related valence states repels the CNL up in the gap [43]. The transparent oxides are different. The CNL is effectively the mid point of the average gap over the Brillouin zone. But the s-band oxides have a broad CB minimum, which comes well below the average CB energy. This causes the CNL to lie either close to the CB, as in ZnO, or even above the CB minimum, as in SnO2 and In2O3 (Fig. 7
+                     ). This is an unusual situation.
+
+The parameters are listed in Table 1
+                     . The S is calculated from the experimental values of refractive index (ε
+                     ∞
+                     =
+                     n
+                     2). The electron affinities are taken from experiment for poly-crystalline oxide films [49]; those for the dielectrics are tabulated previously [44] The work function of doped SnO2 is large, often 4.5 eV. This is partly because the surface is treated to be O-rich, to maximise the work function.
+
+We see that the CB offsets of all the candidate gate oxides, HfO2, ZrO2, Ga2O3, Y2O3, Al2O3 and SiO2, are shown in Table 2
+                      and Fig. 8
+                     . They are over 1 eV. The CB offset for Y2O3 is quite large, as it is for Ga2O3, and this leads to a small negative VB offset for these oxides. Normally this would be a problem. But in these semiconductor oxides, as they are only envisaged as n-type channels, the hole barrier is irrelevant. The large CB offsets arise because their CNLs lie near or above the CB minimum.
+
+The transparent oxides are unusual in that they tend to have unipolar doping. ZnO, SnO2 and In2O3 can be doped easily n-type, but not p-type, although there is considerable effort to find p-type dopants for ZnO [3]. On the other hand, the new p-type TCOs such as CuAlO2 can only be doped p-type. There are few oxides which may be able to be doped both n-and p-type such as CuInO2 and SrCu2O2.
+
+Three requirements must be met to observe doping, the impurity must be soluble, it must be shallow and it must not be compensated by native defects of the opposite charge. Compensation is the most fundamental limitation.
+
+The limits to doping due to compensation have previously been considered in terms of the formation energy of native defects (vacancies or interstitials) as a function of the Fermi level position. The formation energy will become negative when E
+                     F exceeds two ‘pinning energies’, one for donors, one for acceptors (Fig. 9
+                     (a)). This pinning energy lies outside the gap and in the bands, then doping of that polarity can occur [50,28]. These pinning energies of a range of semiconductors can be related to the vacuum level, via band line-ups.
+
+An alternative idea, developed in more detail elsewhere, is that the pinning energies are also related to the charge neutrality levels. If the CNL lies close to a band edge, this doping will be easy. If it lies too far into the gap from a band edge, this doping polarity will be difficult. By aligning the various TCOs on a common band offset diagram as in Fig. 9(b), we see that the n-type TCOs will have difficult p-doping because the CNL lies so high.
+
+The author is grateful to K Xiong and B Falabretti for some band calculations and to S J Clark for use of computer codes.

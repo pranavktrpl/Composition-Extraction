@@ -1,0 +1,1564 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0040609005022650</prism:url><dc:identifier>doi:10.1016/j.tsf.2005.11.055</dc:identifier><eid>1-s2.0-S0040609005022650</eid><prism:doi>10.1016/j.tsf.2005.11.055</prism:doi><pii>S0040-6090(05)02265-0</pii><dc:title>Effect of substrate rotation on structure, hardness and adhesion of magnetron sputtered TiB2 coating on high speed steel </dc:title><prism:publicationName>Thin Solid Films</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00406090</prism:issn><prism:volume>500</prism:volume><prism:issueIdentifier>1-2</prism:issueIdentifier><prism:startingPage>190</prism:startingPage><prism:endingPage>196</prism:endingPage><prism:pageRange>190-196</prism:pageRange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2006-04-03</prism:coverDate><prism:coverDisplayDate>3 April 2006</prism:coverDisplayDate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Panich, N.</dc:creator><dc:creator>Sun, Y.</dc:creator><dc:description>
+                  Titanium diboride (TiB2) coatings have been deposited on stationary and rotating high speed steel substrates by magnetron sputtering of a TiB2 target. The structure and hardness of the coatings and the coating–substrate adhesion have been investigated by X-ray diffraction, field emission scanning electron microscopy, nanoindentation and microscratch tests. The results show that substrate rotation has a significant effect on these structural and properties features. It was found that, with substrate rotation, the TiB2 coating exhibits a columnar structure with random orientation and relatively low hardness and coating–substrate adhesion. On the other hand, without substrate rotation, the TiB2 coating shows a strong (001) texture with dense, equiaxed grain structure. The hardness and coating–substrate adhesion of the coatings deposited on stationary substrates are much higher than those deposited on rotating substrates. The observed phenomena are discussed in terms of the energy of the sputtered flux, which varies with the substrate–target distance during deposition.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Adhesion</dcterms:subject><dcterms:subject>Hardness</dcterms:subject><dcterms:subject>Sputtering</dcterms:subject><dcterms:subject>Borides</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0040609005022650" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0040609005022650" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="353" height="246" size="16356">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="87" size="2330">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="352" height="222" size="24319">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="79" size="2642">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="356" height="242" size="22939">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="85" size="2579">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="266" height="410" size="75997">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="60" height="93" size="2104">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="406" size="40206">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="82" height="93" size="2561">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="358" height="211" size="20263">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="74" size="2591">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="394" size="86447">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="92" size="3165">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="512" height="368" size="79691">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="90" size="3222">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609005022650-gr7.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>31644434609</scopus-id><scopus-eid>2-s2.0-31644434609</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/31644434609" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271603</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Thin Solid Films</xocs:srctitle>
+      <xocs:normalized-srctitle>THINSOLIDFILMS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20051228">2005-12-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20051228">2005-12-28</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-06T09:34:16</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0040609005022650</xocs:eid>
+      <xocs:pii-formatted>S0040-6090(05)02265-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0040609005022650</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.tsf.2005.11.055</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0040609006X08568</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T02:48:31.994656-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20060403</xocs:date-search-begin>
+      <xocs:year-nav>2006</xocs:year-nav>
+      <xocs:indexeddate epoch="1135728000">2005-12-28T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body affil articletitle auth authfirstini authfull authkeywords authlast otherkwds primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0040-6090</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00406090</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>500</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>500</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>2</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 500, Issues 1–2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>32</xocs:sort-order>
+      <xocs:first-fp>190</xocs:first-fp>
+      <xocs:last-lp>196</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>190</xocs:first-page>
+         <xocs:last-page>196</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20060403</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>3 April 2006</xocs:cover-date-text>
+      <xocs:cover-date-start>2006-04-03</xocs:cover-date-start>
+      <xocs:cover-date-year>2006</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Mechanics and Nanomechanics of Thin Layers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTSUBSTRATEROTATIONSTRUCTUREHARDNESSADHESIONMAGNETRONSPUTTEREDTIB2COATINGHIGHSPEEDSTEEL</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PANICH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experiment details</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Deposition rate</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Structural characteristics</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Coating hardness</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Coating–substrate adhesion</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>MATSUBARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L33</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>WIEDEMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>313</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>TODOROVIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>272</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>BERGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>219</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>KELESOGLU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1483</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>BERGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>179</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>BERGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>240</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>HOLLECK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2661</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>PANICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>498</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>LOSBICHLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>297</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>720</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>PIERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>QIAOQIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>KIYOTAKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HANDBOOKSPUTTERDEPOSITIONTECHNOLOGYPRINCIPLESTECHNOLOGYAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>WADA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>367</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>591</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19"/>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>OLIVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1564</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>XIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>291</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>MITTERER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>KARNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PANICHX2006X190</xocs:refkey3>
+         <xocs:refkey4lp>PANICHX2006X190X196</xocs:refkey4lp>
+         <xocs:refkey4ai>PANICHX2006X190XN</xocs:refkey4ai>
+         <xocs:refkey5>PANICHX2006X190X196XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0040-6090(05)02265-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0040609005022650</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0040609005022650</xocs:eid>
+         <xocs:doi>10.1016/j.tsf.2005.11.055</xocs:doi>
+         <xocs:cid>271603</xocs:cid>
+         <xocs:timestamp>2010-11-08T10:47:53.442024-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2006-04-03</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/MAIN/application/pdf/b9e93cf197b7c96df776217c0b3516a4/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/MAIN/application/pdf/b9e93cf197b7c96df776217c0b3516a4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>370490</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0040609005022650-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/PREVIEW/image/png/1b7337a50e73d3d42c02a3ea1afb0aa3/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/PREVIEW/image/png/1b7337a50e73d3d42c02a3ea1afb0aa3/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>71772</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr1/DOWNSAMPLED/image/jpeg/77034fd97a851700219f35062381c05a/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr1/DOWNSAMPLED/image/jpeg/77034fd97a851700219f35062381c05a/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16356</xocs:filesize>
+               <xocs:pixel-height>246</xocs:pixel-height>
+               <xocs:pixel-width>353</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr1/THUMBNAIL/image/gif/099afefe6f0b048659dd47a9babba1ce/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr1/THUMBNAIL/image/gif/099afefe6f0b048659dd47a9babba1ce/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2330</xocs:filesize>
+               <xocs:pixel-height>87</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr3/DOWNSAMPLED/image/jpeg/d8dd56e478159498c77405d9b929562b/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr3/DOWNSAMPLED/image/jpeg/d8dd56e478159498c77405d9b929562b/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24319</xocs:filesize>
+               <xocs:pixel-height>222</xocs:pixel-height>
+               <xocs:pixel-width>352</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr3/THUMBNAIL/image/gif/75af8167ed03809ee4c6312b4b3ba15a/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr3/THUMBNAIL/image/gif/75af8167ed03809ee4c6312b4b3ba15a/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2642</xocs:filesize>
+               <xocs:pixel-height>79</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr2/DOWNSAMPLED/image/jpeg/873c5661d84ec628db43fc3875199973/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr2/DOWNSAMPLED/image/jpeg/873c5661d84ec628db43fc3875199973/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22939</xocs:filesize>
+               <xocs:pixel-height>242</xocs:pixel-height>
+               <xocs:pixel-width>356</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr2/THUMBNAIL/image/gif/9c023c2b93f3c9bf3260f5bf927f2d34/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr2/THUMBNAIL/image/gif/9c023c2b93f3c9bf3260f5bf927f2d34/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2579</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr8/DOWNSAMPLED/image/jpeg/ed4bd4ad621fac937a57052fa3643e7a/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr8/DOWNSAMPLED/image/jpeg/ed4bd4ad621fac937a57052fa3643e7a/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>75997</xocs:filesize>
+               <xocs:pixel-height>410</xocs:pixel-height>
+               <xocs:pixel-width>266</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr8/THUMBNAIL/image/gif/682dd2bc89debc408fe3df5581e39d1c/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr8/THUMBNAIL/image/gif/682dd2bc89debc408fe3df5581e39d1c/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2104</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>60</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr5/DOWNSAMPLED/image/jpeg/a3f72ad0bb23c9345704bc26910e6208/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr5/DOWNSAMPLED/image/jpeg/a3f72ad0bb23c9345704bc26910e6208/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>40206</xocs:filesize>
+               <xocs:pixel-height>406</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr5/THUMBNAIL/image/gif/969cd42549dffa38e7b991cdac3fb0bf/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr5/THUMBNAIL/image/gif/969cd42549dffa38e7b991cdac3fb0bf/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2561</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>82</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr6/DOWNSAMPLED/image/jpeg/e5547532811aa9896c5d9ec2e9015e80/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr6/DOWNSAMPLED/image/jpeg/e5547532811aa9896c5d9ec2e9015e80/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20263</xocs:filesize>
+               <xocs:pixel-height>211</xocs:pixel-height>
+               <xocs:pixel-width>358</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr6/THUMBNAIL/image/gif/831379899b4dd7e32c0032fb44a4f3aa/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr6/THUMBNAIL/image/gif/831379899b4dd7e32c0032fb44a4f3aa/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2591</xocs:filesize>
+               <xocs:pixel-height>74</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr4/DOWNSAMPLED/image/jpeg/65b2fc04bea2a5920442027c67c6457f/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr4/DOWNSAMPLED/image/jpeg/65b2fc04bea2a5920442027c67c6457f/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>86447</xocs:filesize>
+               <xocs:pixel-height>394</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr4/THUMBNAIL/image/gif/3426a08a0fc46484eb76452cabd31af3/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr4/THUMBNAIL/image/gif/3426a08a0fc46484eb76452cabd31af3/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3165</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr7/DOWNSAMPLED/image/jpeg/ed9d3af9539c51df4d7a352bcc0e954e/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr7/DOWNSAMPLED/image/jpeg/ed9d3af9539c51df4d7a352bcc0e954e/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>79691</xocs:filesize>
+               <xocs:pixel-height>368</xocs:pixel-height>
+               <xocs:pixel-width>512</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609005022650-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609005022650/gr7/THUMBNAIL/image/gif/f2c411ece66fda142bc550eb046890c9/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609005022650/gr7/THUMBNAIL/image/gif/f2c411ece66fda142bc550eb046890c9/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3222</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>TSF</jid>
+            <aid>21145</aid>
+            <ce:pii>S0040-6090(05)02265-0</ce:pii>
+            <ce:doi>10.1016/j.tsf.2005.11.055</ce:doi>
+            <ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The deposition set up in this study. The substrate holder was either stationary or rotating at 2 rpm.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Schematic of the multi-pass microscratch test, showing the before-scratch (BS) profile, the during-scratch (DS) profile, the linearly increasing load during scratch and the after-scratch (AS) profile.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">XRD patterns recorded for the coatings studied.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">FESEM images showing the surface morphology and fractured cross-sectional morphology of TiB<ce:inf loc="post">2</ce:inf> coatings.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Nanoindentation load–displacement curves extracted at the penetration depth of 50 nm for the four samples listed in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Friction force curves recorded during microscratch test for sample 3 and sample 4.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">SEM images showing the scratch tracks and the failure of the coatings at loads above the <ce:italic>L</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> values.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">SEM image and EDS elemental mapping of the damage region in the scratch track on sample 4.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Summary of the TiB<ce:inf loc="post">2</ce:inf> coatings tested and the measured properties</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">Substrate rotation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">Deposition time (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">Coating thickness (μm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">Hardness (GPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">Reduced modulus (GPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">
+                           <italic>L</italic>
+                           <inf loc="post">y</inf> (mN)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" valign="top">
+                           <italic>L</italic>
+                           <inf loc="post">c</inf> (mN)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Sample 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Rotating</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">180</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">23.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">301.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">161.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">528.3</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Sample 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Stationary</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">1.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">30.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">328.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">527.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">976.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Sample 3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Rotating</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">300</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">2.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">20.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">297.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">362.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">880.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Sample 4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">Stationary</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" valign="top">200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">2.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">42.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">368.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">859.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="." valign="top">2153.6</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Effect of substrate rotation on structure, hardness and adhesion of magnetron sputtered TiB<ce:inf loc="post">2</ce:inf> coating on high speed steel</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>N.</ce:given-name>
+                  <ce:surname>Panich</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Y.</ce:given-name>
+                  <ce:surname>Sun</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>School of Materials Science and Engineering, Nanyang Technological University, Nanyang Avenue, 639798 Singapore</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Fax: +65 6790 9081.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="3" month="2" year="2005"/>
+            <ce:date-revised day="31" month="8" year="2005"/>
+            <ce:date-accepted day="21" month="11" year="2005"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Titanium diboride (TiB<ce:inf loc="post">2</ce:inf>) coatings have been deposited on stationary and rotating high speed steel substrates by magnetron sputtering of a TiB<ce:inf loc="post">2</ce:inf> target. The structure and hardness of the coatings and the coating–substrate adhesion have been investigated by X-ray diffraction, field emission scanning electron microscopy, nanoindentation and microscratch tests. The results show that substrate rotation has a significant effect on these structural and properties features. It was found that, with substrate rotation, the TiB<ce:inf loc="post">2</ce:inf> coating exhibits a columnar structure with random orientation and relatively low hardness and coating–substrate adhesion. On the other hand, without substrate rotation, the TiB<ce:inf loc="post">2</ce:inf> coating shows a strong (001) texture with dense, equiaxed grain structure. The hardness and coating–substrate adhesion of the coatings deposited on stationary substrates are much higher than those deposited on rotating substrates. The observed phenomena are discussed in terms of the energy of the sputtered flux, which varies with the substrate–target distance during deposition.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="pacs">
+               <ce:section-title>PACS</ce:section-title>
+               <ce:keyword>
+                  <ce:text>68.55.−a</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Adhesion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Hardness</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Sputtering</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Borides</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Titanium diboride, TiB<ce:inf loc="post">2</ce:inf>, is a ceramic compound with a hexagonal crystal structure and possessing many interesting physical, mechanical and chemical properties, such as high hardness, good chemical stability and good thermal and electrical conductivity. There have been increasing interests in fabrication of this material in thin film and coating forms for many potential applications, for example to reduce wear and corrosion in engineering components and particularly in material processing tools and dies <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5">[1–5]</ce:cross-refs>. Among the many coating deposition techniques employed so far, non-reactive sputtering from a TiB<ce:inf loc="post">2</ce:inf> target is the most widely used for TiB<ce:inf loc="post">2</ce:inf> coating fabrication <ce:cross-refs refid="bib4 bib5 bib6 bib7">[4–7]</ce:cross-refs>. Although the structures and properties of sputter-deposited TiB<ce:inf loc="post">2</ce:inf> coatings have been studied by many investigators in recent years <ce:cross-refs refid="bib1 bib3 bib6 bib8">[1,3,6,8]</ce:cross-refs>, the commercialization of sputtered TiB<ce:inf loc="post">2</ce:inf> coatings has been hindered mainly due to the difficulties in producing high quality coatings with good mechanical properties suitable for industrial applications.</ce:para>
+                  <ce:para view="all">Several problems exist in the production of high quality TiB<ce:inf loc="post">2</ce:inf> coatings by sputtering. First, the reported hardness of TiB<ce:inf loc="post">2</ce:inf> coatings varies widely, from 20 GPa to 70 GPa <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>. There are sufficient evidences to suggest that the hardness of TiB<ce:inf loc="post">2</ce:inf> coatings is determined by the crystallite size, coating density and more importantly coating texture, which are affected by deposition conditions. It is known that TiB<ce:inf loc="post">2</ce:inf> coatings with the basal plane (001) parallel to the surface exhibits the highest hardness compared to TiB<ce:inf loc="post">2</ce:inf> coatings with other orientations <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. The second problem lies in the high residual stresses evolved in the sputtered coating, which deteriorate the mechanical integrity of the coating–substrate system <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Such a problem has recently been tackled by Berger et al. <ce:cross-ref refid="bib7">[7]</ce:cross-ref> by applying a positive bias during sputter deposition of TiB<ce:inf loc="post">2</ce:inf> coatings. A further major problem is that TiB<ce:inf loc="post">2</ce:inf> coatings are very brittle and usually have poor adhesion with metallic substrates, which is the main barrier for the industrial application of TiB<ce:inf loc="post">2</ce:inf> coatings. Recently, several attempts have been made to overcome these problems, for example by sputter cleaning the substrate <ce:cross-ref refid="bib12">[12]</ce:cross-ref>, applying substrate bias during deposition <ce:cross-refs refid="bib7 bib10">[7,10]</ce:cross-refs>, annealing after deposition <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs>, forming multilayer and composite coatings <ce:cross-refs refid="bib11 bib12 bib13">[11–13]</ce:cross-refs> and introducing nitrogen during deposition <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">During sputter deposition, it is a common practice that the substrates on the working table are rotating around its normal in order to achieve uniform deposition over the substrate surfaces to be coated. It is thus obvious that, with substrate rotation, the substrate–target distance is not a constant but varies from the shortest to the longest within one cycle of rotation. Substrate–target distance is known to affect not only the deposition rate, but also the energy of the adatoms arriving the substrate surface <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. Therefore, the structure and properties of the coatings are expected to be influenced by substrate rotation. Indeed, a recent study on electron beam physical vapour deposition of ZrO<ce:inf loc="post">2</ce:inf> based coatings by Wada et al. <ce:cross-ref refid="bib17">[17]</ce:cross-ref> showed that substrate rotation has a strong effect on the structural development of the coating, in terms of morphology, grain structure and coating texture. However, very few detailed studies have been conducted to investigate the effect of substrate rotation on the structures and properties of sputter deposited coatings, in particular TiB<ce:inf loc="post">2</ce:inf> coatings <ce:cross-ref refid="bib18">[18]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">The purpose of this work is to study the effect of substrate rotation on the structures and properties of sputter-deposited TiB<ce:inf loc="post">2</ce:inf> coatings. For this purpose, TiB<ce:inf loc="post">2</ce:inf> coatings were deposited onto stationary and rotating high speed steel substrates, and the structures and properties of the coatings were characterized by several analytical and experimental techniques. This paper reports and discusses the results obtained in this work.</ce:para>
+               </ce:section>
+               <ce:section id="sec1" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experiment details</ce:section-title>
+                  <ce:para view="all">High speed steel (HSS) was chosen as substrates in this study. The commercial HSS, SECO WKE45 (Sweden) in fully hardened and tempered condition was cut into 12<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>12<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>3 mm<ce:sup loc="post">3</ce:sup> pieces. The specimen's surface was manually ground and polished. The HSS substrates were then ultrasonically cleaned with acetone and ethanol before charging the deposition chamber. High-purity argon gas was then introduced into the chamber after it was evacuated to below 5<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">−<ce:hsp sp="0.10"/>4</ce:sup> Pa. The targets, i.e. TiB<ce:inf loc="post">2</ce:inf> and Ti, which were 75 mm diameter and 5 mm thickness, were located above the 200 mm diameter working table with an inclined angle of 30° with respect to the normal of the working table. The TiB<ce:inf loc="post">2</ce:inf> target was powered in the radio frequency (rf) mode and the Ti target was powered in the direct current (dc) mode. The substrates were positioned near to the edge of the working table below the TiB<ce:inf loc="post">2</ce:inf> target (see <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>). The shortest distance between the TiB<ce:inf loc="post">2</ce:inf> target and the substrate was 60 mm. Thus, as the table rotated, the substrate–target distance varied from 60 mm to about 210 mm within one cycle of substrate rotation. All the experiments were conducted at a constant working pressure of 0.65 Pa, a total gas flow rate (Ar) of 20 sccm, a constant substrate temperature of 400 °C and a constant rf sputtering power (for TiB<ce:inf loc="post">2</ce:inf> target) of 200 W. A thin (about 50 nm) pure Ti interlayer was deposited first in all cases, by sputtering the Ti target for 10 min with a dc power of 200 W. No sputter-cleaning of the substrate before deposition and no substrate biasing during deposition were used. Two sets of depositions were conducted for various times, one with the working table rotating at 2 rpm and the other without rotation of the working table, i.e. the substrates were stationary and the substrate–target distance was kept constant at 60 mm.</ce:para>
+                  <ce:para view="all">The phase composition of the resultant coatings was examined by Rigagu X-ray diffractometer with Cu-Kα radiation. Crystallographic phases were deduced by comparing the experimental diffraction patterns with the Joint Committee for Powder Diffraction Standard data <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. The morphology of surfaces and fractured cross-sections of the coatings were imaged using a field emission scanning electron microscope (FESEM), Jeol JSM 6340F. The coating thickness was measured by making a ball-crater on the coating surface using the Calotest machine manufactured by CSEM. A stainless steel ball of 25.4 mm diameter was used for cratering with a speed of 500 rpm for 240 s.</ce:para>
+                  <ce:para view="all">Nanoindentation test was performed using the NanoTest™ instrument (Micro Materials Limited, UK), with a Berkovich diamond indenter. All experiments were performed at a constant loading and unloading rate of 0.05 mN/s and to a penetration depth of 50 nm. The unloading curves were used to derive the hardness and reduced modulus values by the analytical technique developed by Oliver and Pharr <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. The reported hardness and modulus values are the average of 10 measurements.</ce:para>
+                  <ce:para view="all">The microscratch test was performed using the multipass microscratch mode available in the NanoTest™ device with a diamond indenter topped with a conical with spherical end form of 25 μm in radius. A new test method was employed in this work, as described by Xia et al. <ce:cross-ref refid="bib21">[21]</ce:cross-ref> and detailed below with reference to <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>.</ce:para>
+                  <ce:para view="all">For each test, a set of surface profiles along the track was measured. Firstly, the initial track profile before scratch (BS profile in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>) was measured by scanning across the full length of distance to be scratched with a small load of 0.25 mN. Then, the scanned length was scratched by applying a linearly increasing load at 5 mN/s after pre-scanning the initial 300 μm distance under a small initial load of 0.25 mN (from A to B in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). During scratching, the friction force on the indenter and the surface profile along the full length of the scratched track were measured continually, such that a friction force versus scratching distance (or load) curve and a during-scratch profile (DS profile in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>) were obtained. The critical load for coating failure (<ce:italic>L</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>) was determined by the sudden change in friction force, which also led to a sudden change in the DS profile as schematically shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>. After the scratch test, a third profile was measured along the full length to obtain an after-scratch profile of the track (AS profile in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). The difference between BS and DS profiles indicates the total scratch depth including elastic and plastic deformation and surface damage during the scratch process. The difference between BS and AS profiles represents the depth of the scratch groove remaining on the coating surface after the scratch test. Obviously, the difference between AS and DS profiles provides important information on elastic recovery of the coated surface after the scratch test.</ce:para>
+                  <ce:para view="all">The surface profiles obtained from the scratch test outlined above can thus be divided into several regions (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>). Firstly, the region from point A to B is the pre-scan region under a small load of 0.25 mN, where no scratch damage occurred and the three profiles (BS, DS and AS) are the same. In the region from B to Y, DS profile increases with increasing load, but there is no plastic deformation or material loss in this region because the scratch depth is fully recovered after the scratch test, as evidenced by the same BS and AS profiles in this region. After point Y, plastic deformation or material loss starts, which leads to continually increased AS profile until point C, at which the DS and AS profiles change suddenly due to the failure of the coating. The load at point Y is hence crucial because it is a maximum scratch load that the coating can sustain without plastic deformation. This critical load is called the “yield load (<ce:italic>L</ce:italic>
+                     <ce:inf loc="post">y</ce:inf>)” <ce:cross-ref refid="bib21">[21]</ce:cross-ref> and was measured for the TiB<ce:inf loc="post">2</ce:inf> coatings studied in this work, as listed in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. The critical load at point C (<ce:italic>L</ce:italic>
+                     <ce:inf loc="post">c</ce:inf>) is a measure of the coating–substrate adhesion strength, as further confirmed by microscopic examination of the scratch track, and was also measured for the coatings studied (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>).</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Deposition rate</ce:section-title>
+                     <ce:para view="all">A series of experiments were first conducted to deposit TiB<ce:inf loc="post">2</ce:inf> coatings on the rotating and stationary substrates for various times. It was found that, under the present experimental conditions, the deposition rate on stationary substrates (14 nm/min) was much higher than that on rotating substrates (8 nm/min). This is in accordance with general observations for sputter deposition that the deposition rate increases with decreasing substrate–target distance <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. In the case of stationary substrates, the substrate–target distance was the shortest and kept constant, and therefore the substrates received the largest and constant flux of adatoms from the sputtering target. On the other hand, as the substrate was rotating, the substrate–target distance varied from 60 mm to 210 mm with decreasing flux of adatoms and thus reduced deposition rate. Therefore, for the same deposition time, the thickness of the TiB<ce:inf loc="post">2</ce:inf> coatings on stationary substrates is almost double of that on the rotating substrates. To eliminate the possible influence of this thickness difference in the structural and property features of the coatings, structural and properties characterization were conducted on TiB<ce:inf loc="post">2</ce:inf> coatings with identical coating thicknesses of 1.4 μm and 2.5 μm on both stationary and rotating substrates (see <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>). Longer deposition times were required to produce these two sets of coatings on the rotating substrates than on the stationary substrates, for reasons discussed above.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Structural characteristics</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> shows the X-ray diffraction patterns recorded for the four coatings listed in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>. Each pattern reveals several broad reflection peaks corresponding to the hexagonal TiB<ce:inf loc="post">2</ce:inf> structure. The broadness of the reflection peaks indicates the nanocrystalline nature of the coating structure, as further confirmed by FESEM examination (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>). The most interesting observation that can be made from <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> is that the TiB<ce:inf loc="post">2</ce:inf> coatings deposited on rotating substrates (samples 1 and 3) did not show any preferred orientation, while the coatings on stationary substrates (samples 2 and 4) showed strong (001) orientation, with the basal plane parallel to the substrate surface. Such a (001) texture may account for the observed higher hardness of the coatings on stationary substrates, since TiB<ce:inf loc="post">2</ce:inf> coatings with (001) orientation is known to yield the highest hardness as compared with TiB<ce:inf loc="post">2</ce:inf> coatings with other orientation <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. This is discussed in more details in the following section.</ce:para>
+                     <ce:para view="all">The morphologies of the as-deposited coating surfaces and fractured cross-sections were examined under FESEM, as shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> for samples 1 and 2. No significant differences were observed in surface morphology between the coatings on rotating substrates (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>a) and those on stationary substrates (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>c). In all cases, the coating surface is populated with granular grains with typical size less than 30 nm. The grains have well-defined boundaries with the others. Some pores of less than 10 nm size could be observed at grain boundaries. The grain size distribution in the coating on the rotating substrate is not as uniform as that on the stationary substrate, as some excessively larger grains were observed in the former.</ce:para>
+                     <ce:para view="all">Although the TiB<ce:inf loc="post">2</ce:inf> coatings on both stationary and rotating substrates showed similar surface morphology, significant difference in the fractured cross sectional morphology was observed from <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>. The coatings on rotating substrates (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>b) exhibited a columnar structure typical of sputter deposition at relatively low temperatures, with low adatom energies and limited mobility. However, the coatings on the stationary substrates (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>d) exhibited a dense and nearly equiaxed grain structure, obviously arising from the higher adatom energy as a result of the shorter and constant substrate–target distance.</ce:para>
+                     <ce:para view="all">From the above structural examinations, it is clear that the TiB<ce:inf loc="post">2</ce:inf> coatings deposited on rotating substrates have a random orientation and a columnar structure, while the coatings produced under the same conditions on stationary substrates show strong (001) orientation and dense grain structure. The effect of substrate rotation on coating structural development can be considered to be three-fold. First, as the substrate rotates, the deposition rate is reduced as a result of reduced flux of adatoms. This would allow more time for the surface species to diffuse and thus would favor the formation of a denser structure and the development of the (001) texture, as observed by Lee et al. <ce:cross-ref refid="bib18">[18]</ce:cross-ref> for TiB<ce:inf loc="post">2</ce:inf>/TC multilayer coatings. However, in the present work, a denser and (001) textured TiB<ce:inf loc="post">2</ce:inf> coating was formed on the stationary substrate rather than on the expected rotating substrate. This can be explained by the second effect of substrate rotation, which lies in the energy of the sputtered species arriving the substrate surface. It is known that the energy of the sputtered species decreases with increasing substrate–target distance due to increased collisions between the sputtered species and the gas molecules in the sputtering atmosphere <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. The energy of the sputtered species arriving the stationary substrates is thus higher than that arriving the rotating substrates, and this would lead to increased adatom mobility and development of the (001) orientation and a denser structure in the coating. It is obvious that the second effect played a more crucial role than the first effect in the present case.</ce:para>
+                     <ce:para view="all">The third effect of substrate rotation lies in the influence of the different scattering probabilities of Ti and B atoms in the discharge. This was used to explain the overstoichiometry of the sputtered TiB<ce:inf loc="post">2</ce:inf> coating <ce:cross-ref refid="bib22">[22]</ce:cross-ref>. In short, generally in nonreactive sputtering process, stoichiometric deviations of the coating from the target composition attribute to interactions of the sputtered target atoms with the plasma discharge in the transport phase and at the surface of the growing film. Considering B atoms having the low particle radius and therefore low collision cross section, B atoms possess a higher mobility within the discharge compared to Ti atoms. B atoms could arrive to the substrate easily causing an excess of B in the coating (overstoichiometry).</ce:para>
+                     <ce:para view="all">Further study showed that, at a higher ratio of B/Ti, the preferred orientation of the coating changes significantly from (101) to (001) and the intensity of the (001) reflections is strongly increased, while the broadness of the XRD reflections decreases <ce:cross-ref refid="bib23">[23]</ce:cross-ref>. This is in agreement with XRD results in this study, as shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Coating hardness</ce:section-title>
+                     <ce:para view="all">In order to assess the intrinsic mechanical properties of the coatings, i.e. hardness and modulus, all specimens were tested at 50 nm penetration depth to avoid any possible effect from the substrate during the indentation process. The hardness and modulus values measured by nanoindentation of all samples are summarized in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/> shows the typical load–displacement curves recorded for all samples. The indentation responses are typical of a hard material, with significant elastic recovery. A comparison of the indentation response of the coatings with the same thickness on rotating substrates (samples 1 and 3) and stationary substrates (samples 2 and 4) revealed that elastic recovery is more significant in the coatings on stationary substrates. This is particularly so in the 2.5 μm thick coating deposited on the stationary substrate (sample 4), where nearly complete elastic recovery is observed after indentation to a depth of 50 nm.</ce:para>
+                     <ce:para view="all">From the results shown in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>, it can be seen that the randomly oriented coatings produced on rotating substrates have relatively low hardness and reduced modulus values. On the other hand, the (001)-oriented coatings produced on stationary substrates possess much higher hardness and modulus values. For example, the hardness of the (001)-oriented coating in sample 4 is more than twice that of the randomly oriented coating in sample 3, both having the same thickness of 2.5 μm. It is thus clear that substrate rotation during the deposition period has detrimental effects on the mechanical properties of the resultant TiB<ce:inf loc="post">2</ce:inf> coating. The enhanced hardness and elastic behaviour of the coatings on stationary substrates can be understood from the observed denser structure and (001) orientation of the coatings.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title>Coating–substrate adhesion</ce:section-title>
+                     <ce:para view="all">Substrate rotation also has a significant effect on the adhesion strength of the coating to the substrate. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref> summarizes the two critical loads, i.e. <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">y</ce:inf> and <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">c</ce:inf>, measured for the coatings by the microscratch test described in <ce:cross-ref refid="sec1">Section 2</ce:cross-ref>. It can be seen that, for the same coating thickness, the coatings deposited on stationary substrates not only possess higher coating–substrate adhesion (represented by the larger <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">c</ce:inf> values), but also exhibit much better resistance to plastic deformation and scratch damage as derived from the higher “yield load” (<ce:italic>L</ce:italic>
+                        <ce:inf loc="post">y</ce:inf>) values. This improved <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">y</ce:inf> load can be attributed to the enhanced coating hardness, which could provide more resistance to plastic deformation, and to abrasion by the diamond stylus during the scratching process.</ce:para>
+                     <ce:para view="all">The enhancement in coating–substrate adhesion strength by keeping the substrate stationary during deposition was further demonstrated by examining the recorded friction curves and the scratch tracks. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/> shows the typical scratch friction force curves recorded for sample 3 (with substrate rotation) and sample 4 (without substrate rotation). Each friction curve is characterized by an initial smooth region, which increases with increasing load, followed by a region with large fluctuation. The critical load at the transition between these two regions coincides with that measured by the surface profile and microscopic examination (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/>), and thus corresponds to the critical load for coating adhesive failure (<ce:italic>L</ce:italic>
+                        <ce:inf loc="post">c</ce:inf>). Clearly, the coatings on stationary substrates possess much higher critical loads than those on rotating substrates (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>).</ce:para>
+                     <ce:para view="all">Microscopic examination (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>) revealed that compressive spallation is the dominant coating failure mode in all samples. However, after the critical load (<ce:italic>L</ce:italic>
+                        <ce:inf loc="post">c</ce:inf>) for each coating, the damaged area is larger on the coatings deposited on rotating substrates than those on stationary substrates, because some parts of the coating on stationary substrates still remain at the side of the scratch track, as can be clearly seen in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>b and d. In order to further confirm the failure mode of the coatings, EDS elemental mapping of the scratch tracks was acquired. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig8"/> shows the mapping images for sample 4. It can be deduced that coating failure is of the adhesive type and occurred at the interface between the titanium interlayer and the HSS substrate since no titanium was detected within the track after failure of the coating.</ce:para>
+                     <ce:para view="all">The higher adhesion strength found for the coatings on stationary substrates could again be explained by the higher adatom energy as a result of the shorter substrate–target distance. This would enhance adatom mobility in the growing coating and lead to improved coating–substrate interaction during the deposition process. The improved coating density and hardness also help to increase the critical load for coating failure during the scratch test. It is noted that, since no substrate pretreatment was used, the microscratch test evaluates mainly the substrate adhesion and the coating structure plays only a minor role. In order to evaluate the real structural influence, it is necessary to use a state-of-the-art substrate pretreatment in further study.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">From the experimental results, it can be concluded that under the present deposition conditions, substrate rotation has a significant effect on the structure, orientation, hardness and adhesion strength of non-reactive magnetron sputtered TiB<ce:inf loc="post">2</ce:inf> coatings. The TiB<ce:inf loc="post">2</ce:inf> coatings deposited on rotating substrates are characterized by random orientation, columnar growth, relatively low hardness and adhesion strength. On the other hand, without substrate rotation, the resultant coatings exhibit the beneficial (001) orientation, dense and equiaxed grain structure, and enhanced hardness and adhesion strength. These structural and properties difference could be explained by the variation of adatom energy with substrate–target distance.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Barnard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng., A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>191</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Matsubara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Waseda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Takeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Taga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>186</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L33</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wiedemann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Oettel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jerenz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>313</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Todorovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jokic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Rakocevic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Markovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Gakovic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nanadovic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>300</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>272</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Berger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>219</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Kelesoglu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Mitterer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1483</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Berger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Karlsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Larsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hogmark</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>401</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>179</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Berger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Coronel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Olsson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>185</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>240</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Holleck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vac</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2661</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Panich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>198</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Miyake</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Setsuhara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Shimizu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Numata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Saito</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>249</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>498</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Losbichler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Mitterer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Gibson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gissler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hofer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Warbichler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94–95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>297</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Rie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>174–175</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>720</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Pierson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tomasella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ph.</ce:given-name>
+                                 <ce:surname>Bauer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>408</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qiaoqin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lihua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lijun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Haiqing</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci. Let.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Kiyotaka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Handbook of Sputter Deposition Technology: Principles, Technology, and Applications</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1992</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Noyes Publications</sb:name>
+                                 <sb:location>Park Ridge, N.J., U.S.A</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Yamaguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Matsubara</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>191</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>367</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.W.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Keer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177–178</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>591</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Powder Diffraction File, Joint Committee on Powder Diffraction Standards, ASTM, 1967, Card 350741.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Pharr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1564</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>291</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Mitterer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid State Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>133</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Karner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Laimer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Stori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Rodhammer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39/40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,2707 @@
+Title:
+Effects of the high-pressure annealing process on the reflow phenomenon of copper interconnections for large scale integrated circuits
+
+Abstract:
+The embedding effect of physical vapour deposited and electrochemical deposited copper films due to a high-pressure annealing process at 400 °C and 150 MPa was investigated in order to apply this high-pressure annealing process to dual-damascene fabrication technology for copper interconnections. The experimental results support a thermal elasticity and plasticity analysis using a finite-element method which predicts that additional external pressure acts to push copper films to the via holes. This analytical result agrees well with the hole filling performance under the high-pressure annealing of test element group specimens on which via holes of 0.28 μm in diameter and 1.2 μm in depth were previously formed. The residual stress left after lowering the temperature and pressure has no dependence on the additional external pressure and therefore does not reduce the reliability of the copper interconnections. However, the additional external pressure reduces the incremental creep strain of copper during the heating and holding step and reduces the stress transition point during the cooling step. This indicates that the additional external pressure on annealing at approximately 400 °C is effective for the perfect filling of copper into via holes without minute voids and in suppressing the siphoning phenomenon in copper from via holes.
+
+Keywords:
+Copper interconnection
+Creep
+High-pressure annealing
+Large scale integration
+
+Introduction:
+As ULSI devices shrink in size and improve in performance, Cu has been predicted to replace Al alloys for ULSI interconnections due to its lower resistivity [1–3]. The dual-damascene fabrication process is presently recognized as the standard Cu interconnection technique. In this technique, metallic barrier layers and Cu seed layers are deposited in successive order on the inside walls of via holes or trenches using a sputtering method (physical vapour deposition; PVD). The Cu interconnections are then embedded into via holes or trenches using an electrochemical deposition (ECD) technique. In the case of the dual-damascene fabrication process, the filling performance of the Cu interconnections depends mainly on the surface profile of the Cu seed layer and the ECD embedding ability. As the diameter of the via holes becomes smaller and smaller, the relative embedding performance tends to decline. If the Cu interconnections are to be embedded in extremely minute via holes, or in trenches with a high aspect-ratio, the final condition of the embedded Cu interconnections can be subject to flaws or contamination, i.e. pores and/or inclusions might occur inside the Cu interconnections [4].
+We have carried out a detailed study of the relevant process techniques by using high-pressure annealing in order to embed Cu interconnections flawlessly into via holes or trenches. There are already reported cases of the application of high-pressure annealing to the embedding of plugs in Al interconnections [5,6]. In the present study, Cu interconnections were subjected to heat treatment in a high-pressure argon gas atmosphere with the prospect that such a process might lead to optimised conditions for creating embedded Cu interconnections by preventing the occurrence of minute voids, thereby increasing the reliability of Cu interconnections and consequently improving the yield [7–9]. This paper describes the filling performance and the resulting stress distribution of Cu interconnections after the high-pressure annealing treatment from the standpoint of the reliability of electrical circuits.
+
+Experimental procedure:
+2.1
+                     Specimen preparation
+                     Cu films were deposited on Si wafers or test element group (TEG) by PVD or ECD. Wafer level devices on which a number of via holes and trenches were previously formed were used as in this study. The Cu films were deposited on TaN barrier layers formed by PVD with a thickness of 50 nm using the conditions shown in Table 1
+                        .
+                     These specimens were subjected to both normal- and high-pressure annealing. Fig. 1
+                         shows a cross-sectional sketch of the pressure vessel used for the high-pressure annealing process in this study. This equipment is of a stand-alone type and is able to process automatically successive Si wafer specimens. The maximum pressure is 175 MPa and the maximum temperature 450 °C.
+2.2
+                     Stress evaluation
+                     The stress in these films was determined using the laser beam reflection method by measuring the change in substrate curvature during heating and cooling [10]. The films elastic constants were subsequently calculated based on the stress data. The thermal elasticity and plasticity characteristics of these Cu films were analysed based on these elastic constants, especially around the via portion. In performing the analysis, the general-purpose finite-element method (FEM) software ‘abaqus version 5.8’ was used and various stress- and strain-related values were calculated using the FEM.
+2.3
+                     Filling performance
+                     Parts of the TEG specimens were also examined by cross-sectional secondary ion micrograph (SIM) in order to estimate the filling level of Cu.
+
+Specimen preparation:
+Cu films were deposited on Si wafers or test element group (TEG) by PVD or ECD. Wafer level devices on which a number of via holes and trenches were previously formed were used as in this study. The Cu films were deposited on TaN barrier layers formed by PVD with a thickness of 50 nm using the conditions shown in Table 1
+                        .
+These specimens were subjected to both normal- and high-pressure annealing. Fig. 1
+                         shows a cross-sectional sketch of the pressure vessel used for the high-pressure annealing process in this study. This equipment is of a stand-alone type and is able to process automatically successive Si wafer specimens. The maximum pressure is 175 MPa and the maximum temperature 450 °C.
+
+Stress evaluation:
+The stress in these films was determined using the laser beam reflection method by measuring the change in substrate curvature during heating and cooling [10]. The films elastic constants were subsequently calculated based on the stress data. The thermal elasticity and plasticity characteristics of these Cu films were analysed based on these elastic constants, especially around the via portion. In performing the analysis, the general-purpose finite-element method (FEM) software ‘abaqus version 5.8’ was used and various stress- and strain-related values were calculated using the FEM.
+
+Filling performance:
+Parts of the TEG specimens were also examined by cross-sectional secondary ion micrograph (SIM) in order to estimate the filling level of Cu.
+
+Results and discussion:
+3.1
+                     Deformation mechanism of Cu films
+                     
+                        Fig. 2
+                         shows the stress changes during the ECD–Cu film heating and cooling process. The result is a typical stress–temperature curve for pure Cu films. During the heating process, the film stress changes linearly from tensile to compressive at temperatures up to 150 °C. Cu films deform elastically in this temperature zone. When the temperature was increased above 150 °C, the Cu film reached a yield stress point and the stress remained constant at temperatures higher than 150 °C. On further heating, the film stress began to decrease from approximately 300 °C. This result shows that the pure Cu films deform plastically at above 150 °C.
+                     
+                        Fig. 2 also shows the deformation mechanism map for the Cu films that we have prepared according to the mechanism for bulk Cu, as proposed by Frost and Ashby [11]. In preparing this map, we used the method developed by Thouless et al. [12], taking into consideration the microstructure in the film state. Fig. 2 shows the results of calculations made on the assumption that the average diameter of the crystal grains is 1 μm. This figure represents the most dominant mechanism that occurs to cause plastic deformation of an ECD–Cu film under specified temperature and stress conditions. If a stress of 150 MPa is applied to an ECD–Cu film heated to 300 °C, the ECD–Cu film deforms in the direction where it is pushed into the inside of the via holes due to the core diffusion creep mechanism. By decreasing the stress and temperature from this point, void-free Cu films can be obtained.
+                     This deformation mechanism map was prepared by choosing the most dominant plastic deformation mechanism and exhibiting these areas in Fig. 2 under the fixed temperature and pressure conditions. In preparing this map, we calculated the strain rate by using the following equations, chose the maximum creep rate and the mechanism, and drew the most dominant creep area. We have chosen to examine five kinds of creep deformation mechanisms:
+                           
+                              1
+                              Coble creep
+                           
+                           
+                              2
+                              Nabarro-Herring creep
+                           
+                           
+                              3
+                              dislocation glide
+                           
+                           
+                              4
+                              high temperature creep (lattice diffusion creep)
+                           
+                           
+                              5
+                              low temperature creep (core diffusion creep)
+                           
+                        
+                     
+                     We have calculated the strain rate of each of these mechanisms 
+                           
+                              
+                              
+                                 ε1
+                                 
+                                 ·
+                              −
+                                 ε5
+                                 
+                                 ·
+                              
+                              
+                           
+                         by using the following Eqs. (1)–(6), through substitution of the physical constants of bulk Cu in the following Eqs. (1)–(6) 
+                        [12].
+                           
+                              (1)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 1=
+                                    
+                                    
+                                       1.282×10−8
+                                       
+                                       Td
+                                    
+                                    
+                                 σexp
+                                 
+                                    
+                                    
+                                       −1.251×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 2=
+                                    
+                                    
+                                       5.130×10−5
+                                       
+                                       Td
+                                    
+                                    
+                                 σexp
+                                 
+                                    
+                                    
+                                       −2.369×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (3)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 3=
+                                    5.774×105
+                                    
+                                 
+                                 exp
+                                 
+                                    
+                                    
+                                       
+                                       
+                                          −2.559×104
+                                          
+                                          T
+                                       
+                                       
+                                    
+                                    
+                                       1−2.177×10−9σ
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (4)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 4=46.19
+                                    
+                                    
+                                       μ
+                                       T
+                                    
+                                    
+                                 
+                                 
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          458.6σ
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 4.8
+                                 exp
+                                 
+                                    
+                                    
+                                       −2.369×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 5=117.5
+                                    
+                                    
+                                       σ2
+                                       
+                                       μT
+                                    
+                                    
+                                 
+                                 
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          458.4σ
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 4.8
+                                 exp
+                                 
+                                    
+                                    
+                                       −1.407×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              μ=4.713×1010
+                                 
+                                    1−3.557×10−4T
+                                 
+                              
+                           
+                        
+                     
+                     The contour map of the strain rate, as shown in Fig. 3
+                        , can be also obtained by using the same Eqs. (1)–(6) and exhibiting the maximum strain rate. We can find the strain rate quantitatively under fixed temperature and stress conditions by using Fig. 3. For instance, if Cu films are annealed up to 300 °C, the strain rate at atmospheric pressure is 10−4 s−1, whereas the strain rate at the high-pressure of 150 MPa is 100 s−1. This might increase the strain rate of Cu films by a factor of 104. From this result, the high-pressure annealing process seems to accelerate the plastic deformation of Cu films quite efficiently.
+3.2
+                     FEM calculation of Cu interconnections
+                     
+                        Fig. 4
+                         shows the simulation model for the FEM calculation at the via portion. The dimensions of the Cu, SiO2, and Si layers were defined as shown in Fig. 4. A two-dimensional, axial symmetric element model was used. Because the model is axially symmetric, the point of contact on an axis (x=0) was defined as U
+                        
+                           x
+                        =0 and U
+                        
+                           x
+                         was freed to allow it to become equal at all points of contact towards the perimeter in a radial direction. In making the calculations, the SiO2 and Si layers were considered to be elastic bodies and the Cu was considered to be an elasto-plastic body. The creep rate of Cu was also considered in the calculations.
+                     The values shown in Table 2
+                         were used for the physical constants of SiO2, Si and Cu films. The physical constants of Cu films were estimated from the stress–temperature curves in Fig. 2 at every 50 °C interval. The physical constants of Cu films below 50 °C or above 350 °C were taken to be the same as those at 50 or 350 °C. The physical constants of Cu films in the range of 50–350 °C were estimated by linear interpolation between the two values at the nearest temperature, and were used for the FEM calculation.
+                     The creep rate of Cu; i.e. the time dependence of the plastic deformation or the stress relaxation behaviour of Cu, was also considered in the calculations. In the FEM calculations, five kinds of strain rate: 
+                           
+                              ε
+                              ·
+                           
+                           cr−total
+                         (x=1–5) due to the different creep mechanisms discussed above were defined as in Eqs. (7)–(11), and the total strain rate, εcr-total, was defined as Eq. (12). It was tacitly assumed that the Cu film should not exhibit grain growth and that the average diameter of Cu crystal would be maintained at 1 μm.
+                           
+                              (7)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    1=
+                                       
+                                       
+                                          a
+                                          T·dia
+                                          
+                                       
+                                       
+                                    σ×exp
+                                    
+                                       
+                                       
+                                          b
+                                          T
+                                       
+                                       
+                                    
+                                    a=1.282×10−8
+                                 
+                              
+                              
+                                 b=−1.251×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    2=
+                                       
+                                       
+                                          c
+                                          T·dia
+                                          
+                                       
+                                       
+                                    σ×exp
+                                    
+                                       
+                                       
+                                          d
+                                          T
+                                       
+                                       
+                                    
+                                    c=5.130×10−5
+                                 
+                              
+                              
+                                 d=−2.369×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (9)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    3=e×exp
+                                    
+                                       
+                                       
+                                          
+                                          
+                                             f
+                                             T
+                                          
+                                          
+                                       
+                                       
+                                          1−gσ
+                                       
+                                       
+                                    
+                                    e=5.774×105
+                                 
+                              
+                              
+                                 f=−2.369×104
+                                    g=2.177×10−9
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (10)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    4=h×
+                                       μ
+                                       T
+                                    ×
+                                       
+                                       sinh
+                                       
+                                          
+                                          
+                                             i
+                                                   σ
+                                                
+                                             
+                                             μ
+                                          
+                                          
+                                       
+                                       
+                                    
+                                    4.8×exp
+                                    
+                                       
+                                       
+                                          j
+                                          T
+                                       
+                                       
+                                    
+                                 
+                              
+                              
+                                 h=46.19i=458.4j=−2.369×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (11)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    5=k×
+                                       σ2
+                                       
+                                       μ·T
+                                    ×
+                                       
+                                       sinh
+                                       
+                                          
+                                          
+                                             l
+                                                   σ
+                                                
+                                             
+                                             μ
+                                          
+                                          
+                                       
+                                       
+                                    
+                                    4.8×exp
+                                    
+                                       
+                                       
+                                          m
+                                          T
+                                       
+                                       
+                                    
+                                 
+                              
+                              
+                                 k=117.5l=458.4m=−1.407×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (12)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 
+                                    cr-total
+                                 =
+                                    
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    2+
+                                       ε
+                                       ̇
+                                    
+                                    3
+                                    
+                                 +greatest
+                                 
+                                 of
+                                 
+                                 
+                                    
+                                    
+                                       
+                                       
+                                          ε
+                                          ̇
+                                       
+                                       4+
+                                          ε
+                                          ̇
+                                       
+                                       5
+                                       
+                                    
+                                    
+                                    or
+                                    
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    1
+                                    
+                                 
+                              
+                           
+                        
+                     
+                     When Cu films are deformed by creep mechanisms, the Cu films relieve and change their residual stress. The strain rate of Cu films is influenced by this residual stress change. Therefore, the accurate estimation of the residual stress state at stage of the processing of the Cu films is required for the FEM calculations. The residual stress change and the strain rate change during each incremental time interval needs to be estimated iteratively. In order to perform the convergence procedure, we have defined the incremental creep strain: 
+                           Δ
+                           
+                              ε
+                              ·
+                           
+                           cr
+                         and the partial differential of the incremental creep strain: ∂Δ
+                           
+                              ε
+                              ·
+                           
+                           
+                              cr
+                           /∂σ as in Eqs. (13) and (14), respectively, and have carried out a geometric non-linear analysis. The incremental creep strain was calculated analytically in this study in order to eliminate the calculation error. The Cu film strain could be calculated approximately using the convergence procedure.
+                           
+                              (13)
+                              
+                                 Δ
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 
+                                    cr
+                                 =
+                                    ε
+                                    ̇
+                                 
+                                 
+                                    cr
+                                 ×Δt
+                           
+                        where Δt is a small time interval.
+                           
+                              (14)
+                              
+                                 
+                                    ∂Δ
+                                       
+                                          ε
+                                          ̇
+                                       
+                                       
+                                          cr
+                                       
+                                    
+                                    ∂σ
+                                 =
+                                    ∂
+                                          
+                                          
+                                             ε
+                                             ̇
+                                          
+                                          
+                                             cr
+                                          ×Δt
+                                       
+                                    
+                                    ∂σ
+                                 =
+                                    ∂
+                                          
+                                          
+                                             ε
+                                             ̇
+                                          
+                                          2+
+                                             ε
+                                             ̇
+                                          
+                                          3+greatest
+                                          
+                                          of
+                                          
+                                          
+                                             
+                                             
+                                                
+                                                
+                                                   ε
+                                                   ̇
+                                                
+                                                4+
+                                                   ε
+                                                   ̇
+                                                
+                                                5
+                                                
+                                             
+                                             
+                                             or
+                                             
+                                             
+                                                ε
+                                                ̇
+                                             
+                                             1
+                                             
+                                          
+                                          
+                                       
+                                    
+                                    ∂σ
+                                 
+                                 Δt
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       1
+                                    
+                                    ∂σ
+                                 =
+                                    
+                                    
+                                       a
+                                       T·dia
+                                       
+                                    
+                                    
+                                 ×exp
+                                 
+                                    
+                                    
+                                       b
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       2
+                                    
+                                    ∂σ
+                                 =
+                                    
+                                    
+                                       c
+                                       T·dia
+                                       
+                                    
+                                    
+                                 ×exp
+                                 
+                                    
+                                    
+                                       d
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       3
+                                    
+                                    ∂σ
+                                 =
+                                    −
+                                       efg
+                                       T
+                                    
+                                    
+                                 ×exp
+                                 
+                                    
+                                    
+                                       
+                                       
+                                          f
+                                          T
+                                       
+                                       
+                                    
+                                    
+                                       1−gσ
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       4
+                                    
+                                    ∂σ
+                                 =
+                                    hμ
+                                    T
+                                 ×4.8
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          i
+                                                σ
+                                             
+                                          
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 3.8×cosh
+                                 
+                                    
+                                    
+                                       i
+                                             σ
+                                          
+                                       
+                                       μ
+                                    
+                                    
+                                 ×
+                                    i
+                                    μ
+                                 ×exp
+                                 
+                                    
+                                    
+                                       j
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    
+                                       ∂
+                                             ε
+                                             ̇
+                                          
+                                          5
+                                       
+                                       ∂σ
+                                    =k×exp
+                                    
+                                       
+                                       
+                                          m
+                                          T
+                                       
+                                       
+                                    ×
+                                       f′(σ)×g(σ)+f(σ)×g′(σ)
+                                    
+                                 
+                              
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    5=k×f(σ)×g(σ)×exp
+                                    
+                                       
+                                       
+                                          m
+                                          T
+                                       
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              f(σ)=
+                                    σ2
+                                    
+                                    μ·T
+                                 
+                                 g(σ)=
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          l
+                                                σ
+                                             
+                                          
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 4.8
+                              
+                           
+                        
+                        
+                           
+                              f′(σ)=
+                                    2σ
+                                    μ·T
+                                 
+                              
+                           
+                        
+                     
+                     Prior to the FEM calculation at the via portion, we made predictions for the stress–temperature curves of Cu films deposited on Si wafers in order to verify the above mentioned stress analysis. The dimension of the Cu sheet films was defined as shown in Fig. 5
+                        . A two-dimensional, axial symmetric model was also used. The calculations were performed by assuming an initial stress-free state at 25 °C and then incrementally changing the temperature and associated strain, calculating the amount of stress relaxed during the increment of time corresponding to the chosen heating/cooling rate at 5 °Cmin−1, and then computing the new stress caused by the residual stress. As a result, it was confirmed that the calculated stresses in the planar direction agreed well with the experimentally measured stresses as shown in Fig. 6
+                        .
+                     The FEM calculation at the via portion was then performed, since the validity of the stress analysis has been confirmed. Fig. 7
+                         shows the results of calculations performed to verify the stress conditions of Cu films heated to 400 °C, as well as the results of stress analysis performed on Cu films in the axial direction. Although specimens processed under normal- and high-pressure are shown by a same gradation, the values or the distribution of stress are different in both cases. Although there is a trend whereby the compressive stress increases from the top opening to the bottom of the via holes, the values of the compressive stress are different between the specimens. The maximum stress of the specimens heated under normal-pressure is −368 MPa, while that measured for the specimens heated under high-pressure is −525 MPa. These results indicate that 147 MPa; a large portion of the additional external stress applied during high-pressure annealing, acts to push the Cu films to the bottom of the via holes.
+3.3
+                     Filling performance of Cu interconnections
+                     
+                        Fig. 8
+                         shows cross-sectional SIM images of ECD–Cu films embedded into via holes under different conditions. In the case of the as-deposited specimens, the Cu does not reach the bottom of via holes and only 60% of the Cu is embedded. By subjecting this specimen to high-pressure annealing under fixed conditions at 350 °C and 150 MPa for 15 min, the ECD–Cu films can be filled and embedded fully and completely to the bottom of the via holes. The polycrystalline structure in the field portion is different from that at the via holes, that is, the grain size in the via holes is smaller. It is considered that the Cu films are turned into an energy-stable polycrystalline structure because when the ECD–Cu films are squeezed onto the sides inside the via holes, the grain size in the region of the vias become smaller than that in the general ‘field’ positions. The (111) crystal orientation dominates, and there is no conspicuous difference in the crystal orientation between the via holes and the fields.
+                     In Table 3
+                        , PVD–Cu films and ECD–Cu films embedded by high-pressure annealing in via holes of 0.28 μm in diameter and 1.2 μm in depth are shown in relation to their process conditions and filling performance. As is apparent from Table 3, ECD–Cu films can be completely embedded if we use an appropriate combination of temperature and stress conditions, while PVD–Cu films can only be embedded under high-temperature, high-pressure conditions. This means that ECD–Cu films can be embedded easily and are superior to PVD–Cu films in terms of their suitability for reflow operations. Although the reason for this is not yet clear, hydrogen is thought to be a dominant factor in the superior reflow characteristics of the ECD–Cu films. More specifically, ECD–Cu films generate hydrogen during the deposition process, and this hydrogen causes voids in the films, which causes the Cu to soften and therefore creates a favourable condition for reflow operations. It also confirms that the suitability of PVD–Cu films for reflow operations can increase if they are deposited in an atmosphere consisting of an Ar and H2 mixture.
+3.4
+                     Stress condition of Cu interconnections
+                     If the as-deposited Cu films were reheated at normal-pressure, they can scarcely be embedded. Although approximately 60% of the Cu would initially have been embedded, a siphoning phenomenon occurs and the embedded Cu is siphoned back out. This phenomenon is thought to be due to stress migration (SM) in the Cu and is a consequence of the residual stress distribution in the Cu films at the cooling step. The driving force for the SM is the tensile stress that occurs in the Cu films during the cooling process.
+                     
+                        Fig. 9
+                         shows the results of calculations made to verify the stress distribution in the axial direction of Cu films during the cooling process (200–400 °C). There are stress gradients from the fields to the bottom of the via holes. The stress changes from compressive to tensile in the lower temperature region. In the case of normal-pressure annealing, a tensile stress is applied to the via opening at 250 °C and a stress gradient from compressive to tensile occurs in the via holes at 200 °C. Whereas in the case of high-pressure annealing, a compressive stress is applied to the via holes even at 250 °C and the stress gradient is small at 200 °C. If the Cu films are annealed at normal-pressures, a siphoning phenomenon occurs by means of the stress gradient in the via holes. On the other hand, if the Cu films are annealed at high-pressure, this siphoning does not occur because a tensile stress is not applied to via holes by the application of external pressure.
+                     From the results of the subsequent FEM calculations, it has become clear that the stress in the axial direction at upper portion of the via holes is strongly affected by the application of external pressure. The stress hysteresis at typical positions in the via holes during the process cycle was investigated. The stress hysteresis at points X and A, defined in Fig. 10
+                        , was calculated for a particular temperature-pressure recipe. Cases 1, 2 and 3 are shown in Fig. 11
+                        . The external pressure is not applied during the annealing process in the Case 1, and is applied proportionately with the heating and cooling rate during the annealing process in the Case 2. In the Case 3, whereas, the application of external pressure is continued until the annealing process is completed. Considering the result shown in Fig. 9, the temperature–pressure recipe of the Case 3 might be hopeful to suppress the siphoning phenomenon.
+                     
+                        Fig. 12
+                         shows the stress hysteresis of X in the axial direction during the process cycle. The degree of stress relaxation during the heating process is quantitatively the same in Cases 1, 2 and 3, and the residual stress after the process cycle is also same in the Cases 1, 2 and 3. The residual compressive stress is small at the beginning of the cooling process in Case 1 and the stress changes from compressive to tensile at 260 °C. Such stress changes at relatively high temperatures lead to a SM phenomenon. The residual compressive stress is large at the beginning of cooling process in Case 2 and the stress transition point (the temperature at which the stress changes from compressive to tensile) falls to 210 °C. Such stress changes at low temperature suppress the SM. The stress transition point further falls to 150 °C in Case 3. Case 3 is the most effective for the suppression of SM. From these results, the application of external pressure has the effect of controlling the residual stress and suppresses the siphoning effect in Cu interconnections.
+                     As shown in Fig. 13
+                        , the stress hysteresis of X was also calculated in the case of 1 μm grain size and in the case of a 0.1 μm grain size, respectively. For the grain size is 0.1 μm, the degree of stress relaxation during the heating and keeping step is larger as compared with the case of a 1.0 μm grain size. The corresponding creep strain increases remarkably during the keeping step. From these results, crystal grain refinement may accelerate the degree of stress relaxation of Cu films during the heating and keeping process, and this consequently increases the residual tensile stress of Cu films at the end point of the process cycle. It can be concluded that Cu interconnections with smaller grain sizes are inferior with respect to SM resistance, because the residual tensile stress of Cu films increases with decreasing grain size.
+                     
+                        Fig. 14
+                         shows the stress hysteresis of A in the axial direction during the process cycle. The equivalent incremental creep strain is also indicated in Fig. 14. The same tendency is observed with the stress hysteresis of A and that of X. High-pressure annealing (hot isostatic pressing) decreases the stress transition point during the cooling process as compared with normal-pressure annealing. In Fig. 14, the range at which the tensile stress is applied to the Cu interconnections at the cooling step and the corresponding incremental creep strain: Δεcr-eq+ are indicated by using open squares and open circles. The value of Δεcr-eq+; which is the governing factor for SM or the siphoning phenomenon, decreases in the sequence 1→2→3. Since the smaller the value Δεcr-eq+, the more the SM is suppressed, it is also confirmed that the application of external pressure, especially applying isostatic pressure until the cooling is completed in the lower temperature range, is effective for suppressing the SM.
+
+Deformation mechanism of Cu films:
+Fig. 2
+                         shows the stress changes during the ECD–Cu film heating and cooling process. The result is a typical stress–temperature curve for pure Cu films. During the heating process, the film stress changes linearly from tensile to compressive at temperatures up to 150 °C. Cu films deform elastically in this temperature zone. When the temperature was increased above 150 °C, the Cu film reached a yield stress point and the stress remained constant at temperatures higher than 150 °C. On further heating, the film stress began to decrease from approximately 300 °C. This result shows that the pure Cu films deform plastically at above 150 °C.
+Fig. 2 also shows the deformation mechanism map for the Cu films that we have prepared according to the mechanism for bulk Cu, as proposed by Frost and Ashby [11]. In preparing this map, we used the method developed by Thouless et al. [12], taking into consideration the microstructure in the film state. Fig. 2 shows the results of calculations made on the assumption that the average diameter of the crystal grains is 1 μm. This figure represents the most dominant mechanism that occurs to cause plastic deformation of an ECD–Cu film under specified temperature and stress conditions. If a stress of 150 MPa is applied to an ECD–Cu film heated to 300 °C, the ECD–Cu film deforms in the direction where it is pushed into the inside of the via holes due to the core diffusion creep mechanism. By decreasing the stress and temperature from this point, void-free Cu films can be obtained.
+This deformation mechanism map was prepared by choosing the most dominant plastic deformation mechanism and exhibiting these areas in Fig. 2 under the fixed temperature and pressure conditions. In preparing this map, we calculated the strain rate by using the following equations, chose the maximum creep rate and the mechanism, and drew the most dominant creep area. We have chosen to examine five kinds of creep deformation mechanisms:
+                           
+                              1
+                              Coble creep
+                           
+                           
+                              2
+                              Nabarro-Herring creep
+                           
+                           
+                              3
+                              dislocation glide
+                           
+                           
+                              4
+                              high temperature creep (lattice diffusion creep)
+                           
+                           
+                              5
+                              low temperature creep (core diffusion creep)
+We have calculated the strain rate of each of these mechanisms 
+                           
+                              
+                              
+                                 ε1
+                                 
+                                 ·
+                              −
+                                 ε5
+                                 
+                                 ·
+                              
+                              
+                           
+                         by using the following Eqs. (1)–(6), through substitution of the physical constants of bulk Cu in the following Eqs. (1)–(6) 
+                        [12].
+                           
+                              (1)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 1=
+                                    
+                                    
+                                       1.282×10−8
+                                       
+                                       Td
+                                    
+                                    
+                                 σexp
+                                 
+                                    
+                                    
+                                       −1.251×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 2=
+                                    
+                                    
+                                       5.130×10−5
+                                       
+                                       Td
+                                    
+                                    
+                                 σexp
+                                 
+                                    
+                                    
+                                       −2.369×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (3)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 3=
+                                    5.774×105
+                                    
+                                 
+                                 exp
+                                 
+                                    
+                                    
+                                       
+                                       
+                                          −2.559×104
+                                          
+                                          T
+                                       
+                                       
+                                    
+                                    
+                                       1−2.177×10−9σ
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (4)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 4=46.19
+                                    
+                                    
+                                       μ
+                                       T
+                                    
+                                    
+                                 
+                                 
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          458.6σ
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 4.8
+                                 exp
+                                 
+                                    
+                                    
+                                       −2.369×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 5=117.5
+                                    
+                                    
+                                       σ2
+                                       
+                                       μT
+                                    
+                                    
+                                 
+                                 
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          458.4σ
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 4.8
+                                 exp
+                                 
+                                    
+                                    
+                                       −1.407×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              μ=4.713×1010
+                                 
+                                    1−3.557×10−4T
+The contour map of the strain rate, as shown in Fig. 3
+                        , can be also obtained by using the same Eqs. (1)–(6) and exhibiting the maximum strain rate. We can find the strain rate quantitatively under fixed temperature and stress conditions by using Fig. 3. For instance, if Cu films are annealed up to 300 °C, the strain rate at atmospheric pressure is 10−4 s−1, whereas the strain rate at the high-pressure of 150 MPa is 100 s−1. This might increase the strain rate of Cu films by a factor of 104. From this result, the high-pressure annealing process seems to accelerate the plastic deformation of Cu films quite efficiently.
+
+FEM calculation of Cu interconnections:
+Fig. 4
+                         shows the simulation model for the FEM calculation at the via portion. The dimensions of the Cu, SiO2, and Si layers were defined as shown in Fig. 4. A two-dimensional, axial symmetric element model was used. Because the model is axially symmetric, the point of contact on an axis (x=0) was defined as U
+                        
+                           x
+                        =0 and U
+                        
+                           x
+                         was freed to allow it to become equal at all points of contact towards the perimeter in a radial direction. In making the calculations, the SiO2 and Si layers were considered to be elastic bodies and the Cu was considered to be an elasto-plastic body. The creep rate of Cu was also considered in the calculations.
+The values shown in Table 2
+                         were used for the physical constants of SiO2, Si and Cu films. The physical constants of Cu films were estimated from the stress–temperature curves in Fig. 2 at every 50 °C interval. The physical constants of Cu films below 50 °C or above 350 °C were taken to be the same as those at 50 or 350 °C. The physical constants of Cu films in the range of 50–350 °C were estimated by linear interpolation between the two values at the nearest temperature, and were used for the FEM calculation.
+The creep rate of Cu; i.e. the time dependence of the plastic deformation or the stress relaxation behaviour of Cu, was also considered in the calculations. In the FEM calculations, five kinds of strain rate: 
+                           
+                              ε
+                              ·
+                           
+                           cr−total
+                         (x=1–5) due to the different creep mechanisms discussed above were defined as in Eqs. (7)–(11), and the total strain rate, εcr-total, was defined as Eq. (12). It was tacitly assumed that the Cu film should not exhibit grain growth and that the average diameter of Cu crystal would be maintained at 1 μm.
+                           
+                              (7)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    1=
+                                       
+                                       
+                                          a
+                                          T·dia
+                                          
+                                       
+                                       
+                                    σ×exp
+                                    
+                                       
+                                       
+                                          b
+                                          T
+                                       
+                                       
+                                    
+                                    a=1.282×10−8
+                                 
+                              
+                              
+                                 b=−1.251×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    2=
+                                       
+                                       
+                                          c
+                                          T·dia
+                                          
+                                       
+                                       
+                                    σ×exp
+                                    
+                                       
+                                       
+                                          d
+                                          T
+                                       
+                                       
+                                    
+                                    c=5.130×10−5
+                                 
+                              
+                              
+                                 d=−2.369×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (9)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    3=e×exp
+                                    
+                                       
+                                       
+                                          
+                                          
+                                             f
+                                             T
+                                          
+                                          
+                                       
+                                       
+                                          1−gσ
+                                       
+                                       
+                                    
+                                    e=5.774×105
+                                 
+                              
+                              
+                                 f=−2.369×104
+                                    g=2.177×10−9
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (10)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    4=h×
+                                       μ
+                                       T
+                                    ×
+                                       
+                                       sinh
+                                       
+                                          
+                                          
+                                             i
+                                                   σ
+                                                
+                                             
+                                             μ
+                                          
+                                          
+                                       
+                                       
+                                    
+                                    4.8×exp
+                                    
+                                       
+                                       
+                                          j
+                                          T
+                                       
+                                       
+                                    
+                                 
+                              
+                              
+                                 h=46.19i=458.4j=−2.369×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (11)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    5=k×
+                                       σ2
+                                       
+                                       μ·T
+                                    ×
+                                       
+                                       sinh
+                                       
+                                          
+                                          
+                                             l
+                                                   σ
+                                                
+                                             
+                                             μ
+                                          
+                                          
+                                       
+                                       
+                                    
+                                    4.8×exp
+                                    
+                                       
+                                       
+                                          m
+                                          T
+                                       
+                                       
+                                    
+                                 
+                              
+                              
+                                 k=117.5l=458.4m=−1.407×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (12)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 
+                                    cr-total
+                                 =
+                                    
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    2+
+                                       ε
+                                       ̇
+                                    
+                                    3
+                                    
+                                 +greatest
+                                 
+                                 of
+                                 
+                                 
+                                    
+                                    
+                                       
+                                       
+                                          ε
+                                          ̇
+                                       
+                                       4+
+                                          ε
+                                          ̇
+                                       
+                                       5
+                                       
+                                    
+                                    
+                                    or
+                                    
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    1
+When Cu films are deformed by creep mechanisms, the Cu films relieve and change their residual stress. The strain rate of Cu films is influenced by this residual stress change. Therefore, the accurate estimation of the residual stress state at stage of the processing of the Cu films is required for the FEM calculations. The residual stress change and the strain rate change during each incremental time interval needs to be estimated iteratively. In order to perform the convergence procedure, we have defined the incremental creep strain: 
+                           Δ
+                           
+                              ε
+                              ·
+                           
+                           cr
+                         and the partial differential of the incremental creep strain: ∂Δ
+                           
+                              ε
+                              ·
+                           
+                           
+                              cr
+                           /∂σ as in Eqs. (13) and (14), respectively, and have carried out a geometric non-linear analysis. The incremental creep strain was calculated analytically in this study in order to eliminate the calculation error. The Cu film strain could be calculated approximately using the convergence procedure.
+                           
+                              (13)
+                              
+                                 Δ
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 
+                                    cr
+                                 =
+                                    ε
+                                    ̇
+                                 
+                                 
+                                    cr
+                                 ×Δt
+                           
+                        where Δt is a small time interval.
+                           
+                              (14)
+                              
+                                 
+                                    ∂Δ
+                                       
+                                          ε
+                                          ̇
+                                       
+                                       
+                                          cr
+                                       
+                                    
+                                    ∂σ
+                                 =
+                                    ∂
+                                          
+                                          
+                                             ε
+                                             ̇
+                                          
+                                          
+                                             cr
+                                          ×Δt
+                                       
+                                    
+                                    ∂σ
+                                 =
+                                    ∂
+                                          
+                                          
+                                             ε
+                                             ̇
+                                          
+                                          2+
+                                             ε
+                                             ̇
+                                          
+                                          3+greatest
+                                          
+                                          of
+                                          
+                                          
+                                             
+                                             
+                                                
+                                                
+                                                   ε
+                                                   ̇
+                                                
+                                                4+
+                                                   ε
+                                                   ̇
+                                                
+                                                5
+                                                
+                                             
+                                             
+                                             or
+                                             
+                                             
+                                                ε
+                                                ̇
+                                             
+                                             1
+                                             
+                                          
+                                          
+                                       
+                                    
+                                    ∂σ
+                                 
+                                 Δt
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       1
+                                    
+                                    ∂σ
+                                 =
+                                    
+                                    
+                                       a
+                                       T·dia
+                                       
+                                    
+                                    
+                                 ×exp
+                                 
+                                    
+                                    
+                                       b
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       2
+                                    
+                                    ∂σ
+                                 =
+                                    
+                                    
+                                       c
+                                       T·dia
+                                       
+                                    
+                                    
+                                 ×exp
+                                 
+                                    
+                                    
+                                       d
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       3
+                                    
+                                    ∂σ
+                                 =
+                                    −
+                                       efg
+                                       T
+                                    
+                                    
+                                 ×exp
+                                 
+                                    
+                                    
+                                       
+                                       
+                                          f
+                                          T
+                                       
+                                       
+                                    
+                                    
+                                       1−gσ
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       4
+                                    
+                                    ∂σ
+                                 =
+                                    hμ
+                                    T
+                                 ×4.8
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          i
+                                                σ
+                                             
+                                          
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 3.8×cosh
+                                 
+                                    
+                                    
+                                       i
+                                             σ
+                                          
+                                       
+                                       μ
+                                    
+                                    
+                                 ×
+                                    i
+                                    μ
+                                 ×exp
+                                 
+                                    
+                                    
+                                       j
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    
+                                       ∂
+                                             ε
+                                             ̇
+                                          
+                                          5
+                                       
+                                       ∂σ
+                                    =k×exp
+                                    
+                                       
+                                       
+                                          m
+                                          T
+                                       
+                                       
+                                    ×
+                                       f′(σ)×g(σ)+f(σ)×g′(σ)
+                                    
+                                 
+                              
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    5=k×f(σ)×g(σ)×exp
+                                    
+                                       
+                                       
+                                          m
+                                          T
+                                       
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              f(σ)=
+                                    σ2
+                                    
+                                    μ·T
+                                 
+                                 g(σ)=
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          l
+                                                σ
+                                             
+                                          
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 4.8
+                              
+                           
+                        
+                        
+                           
+                              f′(σ)=
+                                    2σ
+                                    μ·T
+Prior to the FEM calculation at the via portion, we made predictions for the stress–temperature curves of Cu films deposited on Si wafers in order to verify the above mentioned stress analysis. The dimension of the Cu sheet films was defined as shown in Fig. 5
+                        . A two-dimensional, axial symmetric model was also used. The calculations were performed by assuming an initial stress-free state at 25 °C and then incrementally changing the temperature and associated strain, calculating the amount of stress relaxed during the increment of time corresponding to the chosen heating/cooling rate at 5 °Cmin−1, and then computing the new stress caused by the residual stress. As a result, it was confirmed that the calculated stresses in the planar direction agreed well with the experimentally measured stresses as shown in Fig. 6
+                        .
+The FEM calculation at the via portion was then performed, since the validity of the stress analysis has been confirmed. Fig. 7
+                         shows the results of calculations performed to verify the stress conditions of Cu films heated to 400 °C, as well as the results of stress analysis performed on Cu films in the axial direction. Although specimens processed under normal- and high-pressure are shown by a same gradation, the values or the distribution of stress are different in both cases. Although there is a trend whereby the compressive stress increases from the top opening to the bottom of the via holes, the values of the compressive stress are different between the specimens. The maximum stress of the specimens heated under normal-pressure is −368 MPa, while that measured for the specimens heated under high-pressure is −525 MPa. These results indicate that 147 MPa; a large portion of the additional external stress applied during high-pressure annealing, acts to push the Cu films to the bottom of the via holes.
+
+Filling performance of Cu interconnections:
+Fig. 8
+                         shows cross-sectional SIM images of ECD–Cu films embedded into via holes under different conditions. In the case of the as-deposited specimens, the Cu does not reach the bottom of via holes and only 60% of the Cu is embedded. By subjecting this specimen to high-pressure annealing under fixed conditions at 350 °C and 150 MPa for 15 min, the ECD–Cu films can be filled and embedded fully and completely to the bottom of the via holes. The polycrystalline structure in the field portion is different from that at the via holes, that is, the grain size in the via holes is smaller. It is considered that the Cu films are turned into an energy-stable polycrystalline structure because when the ECD–Cu films are squeezed onto the sides inside the via holes, the grain size in the region of the vias become smaller than that in the general ‘field’ positions. The (111) crystal orientation dominates, and there is no conspicuous difference in the crystal orientation between the via holes and the fields.
+In Table 3
+                        , PVD–Cu films and ECD–Cu films embedded by high-pressure annealing in via holes of 0.28 μm in diameter and 1.2 μm in depth are shown in relation to their process conditions and filling performance. As is apparent from Table 3, ECD–Cu films can be completely embedded if we use an appropriate combination of temperature and stress conditions, while PVD–Cu films can only be embedded under high-temperature, high-pressure conditions. This means that ECD–Cu films can be embedded easily and are superior to PVD–Cu films in terms of their suitability for reflow operations. Although the reason for this is not yet clear, hydrogen is thought to be a dominant factor in the superior reflow characteristics of the ECD–Cu films. More specifically, ECD–Cu films generate hydrogen during the deposition process, and this hydrogen causes voids in the films, which causes the Cu to soften and therefore creates a favourable condition for reflow operations. It also confirms that the suitability of PVD–Cu films for reflow operations can increase if they are deposited in an atmosphere consisting of an Ar and H2 mixture.
+
+Stress condition of Cu interconnections:
+If the as-deposited Cu films were reheated at normal-pressure, they can scarcely be embedded. Although approximately 60% of the Cu would initially have been embedded, a siphoning phenomenon occurs and the embedded Cu is siphoned back out. This phenomenon is thought to be due to stress migration (SM) in the Cu and is a consequence of the residual stress distribution in the Cu films at the cooling step. The driving force for the SM is the tensile stress that occurs in the Cu films during the cooling process.
+Fig. 9
+                         shows the results of calculations made to verify the stress distribution in the axial direction of Cu films during the cooling process (200–400 °C). There are stress gradients from the fields to the bottom of the via holes. The stress changes from compressive to tensile in the lower temperature region. In the case of normal-pressure annealing, a tensile stress is applied to the via opening at 250 °C and a stress gradient from compressive to tensile occurs in the via holes at 200 °C. Whereas in the case of high-pressure annealing, a compressive stress is applied to the via holes even at 250 °C and the stress gradient is small at 200 °C. If the Cu films are annealed at normal-pressures, a siphoning phenomenon occurs by means of the stress gradient in the via holes. On the other hand, if the Cu films are annealed at high-pressure, this siphoning does not occur because a tensile stress is not applied to via holes by the application of external pressure.
+From the results of the subsequent FEM calculations, it has become clear that the stress in the axial direction at upper portion of the via holes is strongly affected by the application of external pressure. The stress hysteresis at typical positions in the via holes during the process cycle was investigated. The stress hysteresis at points X and A, defined in Fig. 10
+                        , was calculated for a particular temperature-pressure recipe. Cases 1, 2 and 3 are shown in Fig. 11
+                        . The external pressure is not applied during the annealing process in the Case 1, and is applied proportionately with the heating and cooling rate during the annealing process in the Case 2. In the Case 3, whereas, the application of external pressure is continued until the annealing process is completed. Considering the result shown in Fig. 9, the temperature–pressure recipe of the Case 3 might be hopeful to suppress the siphoning phenomenon.
+Fig. 12
+                         shows the stress hysteresis of X in the axial direction during the process cycle. The degree of stress relaxation during the heating process is quantitatively the same in Cases 1, 2 and 3, and the residual stress after the process cycle is also same in the Cases 1, 2 and 3. The residual compressive stress is small at the beginning of the cooling process in Case 1 and the stress changes from compressive to tensile at 260 °C. Such stress changes at relatively high temperatures lead to a SM phenomenon. The residual compressive stress is large at the beginning of cooling process in Case 2 and the stress transition point (the temperature at which the stress changes from compressive to tensile) falls to 210 °C. Such stress changes at low temperature suppress the SM. The stress transition point further falls to 150 °C in Case 3. Case 3 is the most effective for the suppression of SM. From these results, the application of external pressure has the effect of controlling the residual stress and suppresses the siphoning effect in Cu interconnections.
+As shown in Fig. 13
+                        , the stress hysteresis of X was also calculated in the case of 1 μm grain size and in the case of a 0.1 μm grain size, respectively. For the grain size is 0.1 μm, the degree of stress relaxation during the heating and keeping step is larger as compared with the case of a 1.0 μm grain size. The corresponding creep strain increases remarkably during the keeping step. From these results, crystal grain refinement may accelerate the degree of stress relaxation of Cu films during the heating and keeping process, and this consequently increases the residual tensile stress of Cu films at the end point of the process cycle. It can be concluded that Cu interconnections with smaller grain sizes are inferior with respect to SM resistance, because the residual tensile stress of Cu films increases with decreasing grain size.
+Fig. 14
+                         shows the stress hysteresis of A in the axial direction during the process cycle. The equivalent incremental creep strain is also indicated in Fig. 14. The same tendency is observed with the stress hysteresis of A and that of X. High-pressure annealing (hot isostatic pressing) decreases the stress transition point during the cooling process as compared with normal-pressure annealing. In Fig. 14, the range at which the tensile stress is applied to the Cu interconnections at the cooling step and the corresponding incremental creep strain: Δεcr-eq+ are indicated by using open squares and open circles. The value of Δεcr-eq+; which is the governing factor for SM or the siphoning phenomenon, decreases in the sequence 1→2→3. Since the smaller the value Δεcr-eq+, the more the SM is suppressed, it is also confirmed that the application of external pressure, especially applying isostatic pressure until the cooling is completed in the lower temperature range, is effective for suppressing the SM.
+
+Conclusions:
+In the present study, the filling performance and the resulting stress distribution of Cu interconnections using the high-pressure treatments were examined to verify the appropriateness for applying high-pressure annealing to the dual-damascene Cu interconnection technique. These results can be summarized as follows.
+                        
+                           1
+                           Tensile stress is applied at the via portions of Cu films by the additional external pressure formed during the heating and holding step of the annealing process. The residual stress after the process cycle has no influence on the additional external pressure.
+                        
+                        
+                           2
+                           The additional external pressure reduces the incremental creep strain of Cu, especially Δεcr-eq+, during the heating and holding step of the annealing process.
+                        
+                        
+                           3
+                           The equivalent incremental creep strain is remarkably influenced by the poly-crystalline grain size of the Cu, and is increased by decreasing the grain size of the Cu during the heating and holding step of the annealing process.
+                        
+                        
+                           4
+                           The additional external pressure reduces the stress transition point during the cooling stage following annealing.
+The high-pressure annealing treatment accelerates the embedding and reduces the residual tensile stress of Cu interconnections. From these results, it can be concluded that the high-pressure annealing treatment is effective for the perfect filling of Cu interconnections into via holes and in suppressing the siphoning phenomenon in Cu interconnections from via holes.
+
+Body:
+As ULSI devices shrink in size and improve in performance, Cu has been predicted to replace Al alloys for ULSI interconnections due to its lower resistivity [1–3]. The dual-damascene fabrication process is presently recognized as the standard Cu interconnection technique. In this technique, metallic barrier layers and Cu seed layers are deposited in successive order on the inside walls of via holes or trenches using a sputtering method (physical vapour deposition; PVD). The Cu interconnections are then embedded into via holes or trenches using an electrochemical deposition (ECD) technique. In the case of the dual-damascene fabrication process, the filling performance of the Cu interconnections depends mainly on the surface profile of the Cu seed layer and the ECD embedding ability. As the diameter of the via holes becomes smaller and smaller, the relative embedding performance tends to decline. If the Cu interconnections are to be embedded in extremely minute via holes, or in trenches with a high aspect-ratio, the final condition of the embedded Cu interconnections can be subject to flaws or contamination, i.e. pores and/or inclusions might occur inside the Cu interconnections [4].
+
+We have carried out a detailed study of the relevant process techniques by using high-pressure annealing in order to embed Cu interconnections flawlessly into via holes or trenches. There are already reported cases of the application of high-pressure annealing to the embedding of plugs in Al interconnections [5,6]. In the present study, Cu interconnections were subjected to heat treatment in a high-pressure argon gas atmosphere with the prospect that such a process might lead to optimised conditions for creating embedded Cu interconnections by preventing the occurrence of minute voids, thereby increasing the reliability of Cu interconnections and consequently improving the yield [7–9]. This paper describes the filling performance and the resulting stress distribution of Cu interconnections after the high-pressure annealing treatment from the standpoint of the reliability of electrical circuits.
+
+Cu films were deposited on Si wafers or test element group (TEG) by PVD or ECD. Wafer level devices on which a number of via holes and trenches were previously formed were used as in this study. The Cu films were deposited on TaN barrier layers formed by PVD with a thickness of 50 nm using the conditions shown in Table 1
+                        .
+
+These specimens were subjected to both normal- and high-pressure annealing. Fig. 1
+                         shows a cross-sectional sketch of the pressure vessel used for the high-pressure annealing process in this study. This equipment is of a stand-alone type and is able to process automatically successive Si wafer specimens. The maximum pressure is 175 MPa and the maximum temperature 450 °C.
+
+The stress in these films was determined using the laser beam reflection method by measuring the change in substrate curvature during heating and cooling [10]. The films elastic constants were subsequently calculated based on the stress data. The thermal elasticity and plasticity characteristics of these Cu films were analysed based on these elastic constants, especially around the via portion. In performing the analysis, the general-purpose finite-element method (FEM) software ‘abaqus version 5.8’ was used and various stress- and strain-related values were calculated using the FEM.
+
+Parts of the TEG specimens were also examined by cross-sectional secondary ion micrograph (SIM) in order to estimate the filling level of Cu.
+
+Fig. 2
+                         shows the stress changes during the ECD–Cu film heating and cooling process. The result is a typical stress–temperature curve for pure Cu films. During the heating process, the film stress changes linearly from tensile to compressive at temperatures up to 150 °C. Cu films deform elastically in this temperature zone. When the temperature was increased above 150 °C, the Cu film reached a yield stress point and the stress remained constant at temperatures higher than 150 °C. On further heating, the film stress began to decrease from approximately 300 °C. This result shows that the pure Cu films deform plastically at above 150 °C.
+
+Fig. 2 also shows the deformation mechanism map for the Cu films that we have prepared according to the mechanism for bulk Cu, as proposed by Frost and Ashby [11]. In preparing this map, we used the method developed by Thouless et al. [12], taking into consideration the microstructure in the film state. Fig. 2 shows the results of calculations made on the assumption that the average diameter of the crystal grains is 1 μm. This figure represents the most dominant mechanism that occurs to cause plastic deformation of an ECD–Cu film under specified temperature and stress conditions. If a stress of 150 MPa is applied to an ECD–Cu film heated to 300 °C, the ECD–Cu film deforms in the direction where it is pushed into the inside of the via holes due to the core diffusion creep mechanism. By decreasing the stress and temperature from this point, void-free Cu films can be obtained.
+
+This deformation mechanism map was prepared by choosing the most dominant plastic deformation mechanism and exhibiting these areas in Fig. 2 under the fixed temperature and pressure conditions. In preparing this map, we calculated the strain rate by using the following equations, chose the maximum creep rate and the mechanism, and drew the most dominant creep area. We have chosen to examine five kinds of creep deformation mechanisms:
+                           
+                              1
+                              Coble creep
+                           
+                           
+                              2
+                              Nabarro-Herring creep
+                           
+                           
+                              3
+                              dislocation glide
+                           
+                           
+                              4
+                              high temperature creep (lattice diffusion creep)
+                           
+                           
+                              5
+                              low temperature creep (core diffusion creep)
+
+Coble creep
+
+Nabarro-Herring creep
+
+dislocation glide
+
+high temperature creep (lattice diffusion creep)
+
+low temperature creep (core diffusion creep)
+
+We have calculated the strain rate of each of these mechanisms 
+                           
+                              
+                              
+                                 ε1
+                                 
+                                 ·
+                              −
+                                 ε5
+                                 
+                                 ·
+                              
+                              
+                           
+                         by using the following Eqs. (1)–(6), through substitution of the physical constants of bulk Cu in the following Eqs. (1)–(6) 
+                        [12].
+                           
+                              (1)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 1=
+                                    
+                                    
+                                       1.282×10−8
+                                       
+                                       Td
+                                    
+                                    
+                                 σexp
+                                 
+                                    
+                                    
+                                       −1.251×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 2=
+                                    
+                                    
+                                       5.130×10−5
+                                       
+                                       Td
+                                    
+                                    
+                                 σexp
+                                 
+                                    
+                                    
+                                       −2.369×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (3)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 3=
+                                    5.774×105
+                                    
+                                 
+                                 exp
+                                 
+                                    
+                                    
+                                       
+                                       
+                                          −2.559×104
+                                          
+                                          T
+                                       
+                                       
+                                    
+                                    
+                                       1−2.177×10−9σ
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (4)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 4=46.19
+                                    
+                                    
+                                       μ
+                                       T
+                                    
+                                    
+                                 
+                                 
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          458.6σ
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 4.8
+                                 exp
+                                 
+                                    
+                                    
+                                       −2.369×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 5=117.5
+                                    
+                                    
+                                       σ2
+                                       
+                                       μT
+                                    
+                                    
+                                 
+                                 
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          458.4σ
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 4.8
+                                 exp
+                                 
+                                    
+                                    
+                                       −1.407×104
+                                       
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              μ=4.713×1010
+                                 
+                                    1−3.557×10−4T
+
+The contour map of the strain rate, as shown in Fig. 3
+                        , can be also obtained by using the same Eqs. (1)–(6) and exhibiting the maximum strain rate. We can find the strain rate quantitatively under fixed temperature and stress conditions by using Fig. 3. For instance, if Cu films are annealed up to 300 °C, the strain rate at atmospheric pressure is 10−4 s−1, whereas the strain rate at the high-pressure of 150 MPa is 100 s−1. This might increase the strain rate of Cu films by a factor of 104. From this result, the high-pressure annealing process seems to accelerate the plastic deformation of Cu films quite efficiently.
+
+Fig. 4
+                         shows the simulation model for the FEM calculation at the via portion. The dimensions of the Cu, SiO2, and Si layers were defined as shown in Fig. 4. A two-dimensional, axial symmetric element model was used. Because the model is axially symmetric, the point of contact on an axis (x=0) was defined as U
+                        
+                           x
+                        =0 and U
+                        
+                           x
+                         was freed to allow it to become equal at all points of contact towards the perimeter in a radial direction. In making the calculations, the SiO2 and Si layers were considered to be elastic bodies and the Cu was considered to be an elasto-plastic body. The creep rate of Cu was also considered in the calculations.
+
+The values shown in Table 2
+                         were used for the physical constants of SiO2, Si and Cu films. The physical constants of Cu films were estimated from the stress–temperature curves in Fig. 2 at every 50 °C interval. The physical constants of Cu films below 50 °C or above 350 °C were taken to be the same as those at 50 or 350 °C. The physical constants of Cu films in the range of 50–350 °C were estimated by linear interpolation between the two values at the nearest temperature, and were used for the FEM calculation.
+
+The creep rate of Cu; i.e. the time dependence of the plastic deformation or the stress relaxation behaviour of Cu, was also considered in the calculations. In the FEM calculations, five kinds of strain rate: 
+                           
+                              ε
+                              ·
+                           
+                           cr−total
+                         (x=1–5) due to the different creep mechanisms discussed above were defined as in Eqs. (7)–(11), and the total strain rate, εcr-total, was defined as Eq. (12). It was tacitly assumed that the Cu film should not exhibit grain growth and that the average diameter of Cu crystal would be maintained at 1 μm.
+                           
+                              (7)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    1=
+                                       
+                                       
+                                          a
+                                          T·dia
+                                          
+                                       
+                                       
+                                    σ×exp
+                                    
+                                       
+                                       
+                                          b
+                                          T
+                                       
+                                       
+                                    
+                                    a=1.282×10−8
+                                 
+                              
+                              
+                                 b=−1.251×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    2=
+                                       
+                                       
+                                          c
+                                          T·dia
+                                          
+                                       
+                                       
+                                    σ×exp
+                                    
+                                       
+                                       
+                                          d
+                                          T
+                                       
+                                       
+                                    
+                                    c=5.130×10−5
+                                 
+                              
+                              
+                                 d=−2.369×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (9)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    3=e×exp
+                                    
+                                       
+                                       
+                                          
+                                          
+                                             f
+                                             T
+                                          
+                                          
+                                       
+                                       
+                                          1−gσ
+                                       
+                                       
+                                    
+                                    e=5.774×105
+                                 
+                              
+                              
+                                 f=−2.369×104
+                                    g=2.177×10−9
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (10)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    4=h×
+                                       μ
+                                       T
+                                    ×
+                                       
+                                       sinh
+                                       
+                                          
+                                          
+                                             i
+                                                   σ
+                                                
+                                             
+                                             μ
+                                          
+                                          
+                                       
+                                       
+                                    
+                                    4.8×exp
+                                    
+                                       
+                                       
+                                          j
+                                          T
+                                       
+                                       
+                                    
+                                 
+                              
+                              
+                                 h=46.19i=458.4j=−2.369×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (11)
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    5=k×
+                                       σ2
+                                       
+                                       μ·T
+                                    ×
+                                       
+                                       sinh
+                                       
+                                          
+                                          
+                                             l
+                                                   σ
+                                                
+                                             
+                                             μ
+                                          
+                                          
+                                       
+                                       
+                                    
+                                    4.8×exp
+                                    
+                                       
+                                       
+                                          m
+                                          T
+                                       
+                                       
+                                    
+                                 
+                              
+                              
+                                 k=117.5l=458.4m=−1.407×104
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (12)
+                              
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 
+                                    cr-total
+                                 =
+                                    
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    2+
+                                       ε
+                                       ̇
+                                    
+                                    3
+                                    
+                                 +greatest
+                                 
+                                 of
+                                 
+                                 
+                                    
+                                    
+                                       
+                                       
+                                          ε
+                                          ̇
+                                       
+                                       4+
+                                          ε
+                                          ̇
+                                       
+                                       5
+                                       
+                                    
+                                    
+                                    or
+                                    
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    1
+
+When Cu films are deformed by creep mechanisms, the Cu films relieve and change their residual stress. The strain rate of Cu films is influenced by this residual stress change. Therefore, the accurate estimation of the residual stress state at stage of the processing of the Cu films is required for the FEM calculations. The residual stress change and the strain rate change during each incremental time interval needs to be estimated iteratively. In order to perform the convergence procedure, we have defined the incremental creep strain: 
+                           Δ
+                           
+                              ε
+                              ·
+                           
+                           cr
+                         and the partial differential of the incremental creep strain: ∂Δ
+                           
+                              ε
+                              ·
+                           
+                           
+                              cr
+                           /∂σ as in Eqs. (13) and (14), respectively, and have carried out a geometric non-linear analysis. The incremental creep strain was calculated analytically in this study in order to eliminate the calculation error. The Cu film strain could be calculated approximately using the convergence procedure.
+                           
+                              (13)
+                              
+                                 Δ
+                                 
+                                    ε
+                                    ̇
+                                 
+                                 
+                                    cr
+                                 =
+                                    ε
+                                    ̇
+                                 
+                                 
+                                    cr
+                                 ×Δt
+                           
+                        where Δt is a small time interval.
+                           
+                              (14)
+                              
+                                 
+                                    ∂Δ
+                                       
+                                          ε
+                                          ̇
+                                       
+                                       
+                                          cr
+                                       
+                                    
+                                    ∂σ
+                                 =
+                                    ∂
+                                          
+                                          
+                                             ε
+                                             ̇
+                                          
+                                          
+                                             cr
+                                          ×Δt
+                                       
+                                    
+                                    ∂σ
+                                 =
+                                    ∂
+                                          
+                                          
+                                             ε
+                                             ̇
+                                          
+                                          2+
+                                             ε
+                                             ̇
+                                          
+                                          3+greatest
+                                          
+                                          of
+                                          
+                                          
+                                             
+                                             
+                                                
+                                                
+                                                   ε
+                                                   ̇
+                                                
+                                                4+
+                                                   ε
+                                                   ̇
+                                                
+                                                5
+                                                
+                                             
+                                             
+                                             or
+                                             
+                                             
+                                                ε
+                                                ̇
+                                             
+                                             1
+                                             
+                                          
+                                          
+                                       
+                                    
+                                    ∂σ
+                                 
+                                 Δt
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       1
+                                    
+                                    ∂σ
+                                 =
+                                    
+                                    
+                                       a
+                                       T·dia
+                                       
+                                    
+                                    
+                                 ×exp
+                                 
+                                    
+                                    
+                                       b
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       2
+                                    
+                                    ∂σ
+                                 =
+                                    
+                                    
+                                       c
+                                       T·dia
+                                       
+                                    
+                                    
+                                 ×exp
+                                 
+                                    
+                                    
+                                       d
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       3
+                                    
+                                    ∂σ
+                                 =
+                                    −
+                                       efg
+                                       T
+                                    
+                                    
+                                 ×exp
+                                 
+                                    
+                                    
+                                       
+                                       
+                                          f
+                                          T
+                                       
+                                       
+                                    
+                                    
+                                       1−gσ
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    ∂
+                                          ε
+                                          ̇
+                                       
+                                       4
+                                    
+                                    ∂σ
+                                 =
+                                    hμ
+                                    T
+                                 ×4.8
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          i
+                                                σ
+                                             
+                                          
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 3.8×cosh
+                                 
+                                    
+                                    
+                                       i
+                                             σ
+                                          
+                                       
+                                       μ
+                                    
+                                    
+                                 ×
+                                    i
+                                    μ
+                                 ×exp
+                                 
+                                    
+                                    
+                                       j
+                                       T
+                                    
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              
+                                 
+                                    
+                                       ∂
+                                             ε
+                                             ̇
+                                          
+                                          5
+                                       
+                                       ∂σ
+                                    =k×exp
+                                    
+                                       
+                                       
+                                          m
+                                          T
+                                       
+                                       
+                                    ×
+                                       f′(σ)×g(σ)+f(σ)×g′(σ)
+                                    
+                                 
+                              
+                              
+                                 
+                                    
+                                       ε
+                                       ̇
+                                    
+                                    5=k×f(σ)×g(σ)×exp
+                                    
+                                       
+                                       
+                                          m
+                                          T
+                                       
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              f(σ)=
+                                    σ2
+                                    
+                                    μ·T
+                                 
+                                 g(σ)=
+                                    
+                                    sinh
+                                    
+                                       
+                                       
+                                          l
+                                                σ
+                                             
+                                          
+                                          μ
+                                       
+                                       
+                                    
+                                    
+                                 
+                                 4.8
+                              
+                           
+                        
+                        
+                           
+                              f′(σ)=
+                                    2σ
+                                    μ·T
+
+Prior to the FEM calculation at the via portion, we made predictions for the stress–temperature curves of Cu films deposited on Si wafers in order to verify the above mentioned stress analysis. The dimension of the Cu sheet films was defined as shown in Fig. 5
+                        . A two-dimensional, axial symmetric model was also used. The calculations were performed by assuming an initial stress-free state at 25 °C and then incrementally changing the temperature and associated strain, calculating the amount of stress relaxed during the increment of time corresponding to the chosen heating/cooling rate at 5 °Cmin−1, and then computing the new stress caused by the residual stress. As a result, it was confirmed that the calculated stresses in the planar direction agreed well with the experimentally measured stresses as shown in Fig. 6
+                        .
+
+The FEM calculation at the via portion was then performed, since the validity of the stress analysis has been confirmed. Fig. 7
+                         shows the results of calculations performed to verify the stress conditions of Cu films heated to 400 °C, as well as the results of stress analysis performed on Cu films in the axial direction. Although specimens processed under normal- and high-pressure are shown by a same gradation, the values or the distribution of stress are different in both cases. Although there is a trend whereby the compressive stress increases from the top opening to the bottom of the via holes, the values of the compressive stress are different between the specimens. The maximum stress of the specimens heated under normal-pressure is −368 MPa, while that measured for the specimens heated under high-pressure is −525 MPa. These results indicate that 147 MPa; a large portion of the additional external stress applied during high-pressure annealing, acts to push the Cu films to the bottom of the via holes.
+
+Fig. 8
+                         shows cross-sectional SIM images of ECD–Cu films embedded into via holes under different conditions. In the case of the as-deposited specimens, the Cu does not reach the bottom of via holes and only 60% of the Cu is embedded. By subjecting this specimen to high-pressure annealing under fixed conditions at 350 °C and 150 MPa for 15 min, the ECD–Cu films can be filled and embedded fully and completely to the bottom of the via holes. The polycrystalline structure in the field portion is different from that at the via holes, that is, the grain size in the via holes is smaller. It is considered that the Cu films are turned into an energy-stable polycrystalline structure because when the ECD–Cu films are squeezed onto the sides inside the via holes, the grain size in the region of the vias become smaller than that in the general ‘field’ positions. The (111) crystal orientation dominates, and there is no conspicuous difference in the crystal orientation between the via holes and the fields.
+
+In Table 3
+                        , PVD–Cu films and ECD–Cu films embedded by high-pressure annealing in via holes of 0.28 μm in diameter and 1.2 μm in depth are shown in relation to their process conditions and filling performance. As is apparent from Table 3, ECD–Cu films can be completely embedded if we use an appropriate combination of temperature and stress conditions, while PVD–Cu films can only be embedded under high-temperature, high-pressure conditions. This means that ECD–Cu films can be embedded easily and are superior to PVD–Cu films in terms of their suitability for reflow operations. Although the reason for this is not yet clear, hydrogen is thought to be a dominant factor in the superior reflow characteristics of the ECD–Cu films. More specifically, ECD–Cu films generate hydrogen during the deposition process, and this hydrogen causes voids in the films, which causes the Cu to soften and therefore creates a favourable condition for reflow operations. It also confirms that the suitability of PVD–Cu films for reflow operations can increase if they are deposited in an atmosphere consisting of an Ar and H2 mixture.
+
+If the as-deposited Cu films were reheated at normal-pressure, they can scarcely be embedded. Although approximately 60% of the Cu would initially have been embedded, a siphoning phenomenon occurs and the embedded Cu is siphoned back out. This phenomenon is thought to be due to stress migration (SM) in the Cu and is a consequence of the residual stress distribution in the Cu films at the cooling step. The driving force for the SM is the tensile stress that occurs in the Cu films during the cooling process.
+
+Fig. 9
+                         shows the results of calculations made to verify the stress distribution in the axial direction of Cu films during the cooling process (200–400 °C). There are stress gradients from the fields to the bottom of the via holes. The stress changes from compressive to tensile in the lower temperature region. In the case of normal-pressure annealing, a tensile stress is applied to the via opening at 250 °C and a stress gradient from compressive to tensile occurs in the via holes at 200 °C. Whereas in the case of high-pressure annealing, a compressive stress is applied to the via holes even at 250 °C and the stress gradient is small at 200 °C. If the Cu films are annealed at normal-pressures, a siphoning phenomenon occurs by means of the stress gradient in the via holes. On the other hand, if the Cu films are annealed at high-pressure, this siphoning does not occur because a tensile stress is not applied to via holes by the application of external pressure.
+
+From the results of the subsequent FEM calculations, it has become clear that the stress in the axial direction at upper portion of the via holes is strongly affected by the application of external pressure. The stress hysteresis at typical positions in the via holes during the process cycle was investigated. The stress hysteresis at points X and A, defined in Fig. 10
+                        , was calculated for a particular temperature-pressure recipe. Cases 1, 2 and 3 are shown in Fig. 11
+                        . The external pressure is not applied during the annealing process in the Case 1, and is applied proportionately with the heating and cooling rate during the annealing process in the Case 2. In the Case 3, whereas, the application of external pressure is continued until the annealing process is completed. Considering the result shown in Fig. 9, the temperature–pressure recipe of the Case 3 might be hopeful to suppress the siphoning phenomenon.
+
+Fig. 12
+                         shows the stress hysteresis of X in the axial direction during the process cycle. The degree of stress relaxation during the heating process is quantitatively the same in Cases 1, 2 and 3, and the residual stress after the process cycle is also same in the Cases 1, 2 and 3. The residual compressive stress is small at the beginning of the cooling process in Case 1 and the stress changes from compressive to tensile at 260 °C. Such stress changes at relatively high temperatures lead to a SM phenomenon. The residual compressive stress is large at the beginning of cooling process in Case 2 and the stress transition point (the temperature at which the stress changes from compressive to tensile) falls to 210 °C. Such stress changes at low temperature suppress the SM. The stress transition point further falls to 150 °C in Case 3. Case 3 is the most effective for the suppression of SM. From these results, the application of external pressure has the effect of controlling the residual stress and suppresses the siphoning effect in Cu interconnections.
+
+As shown in Fig. 13
+                        , the stress hysteresis of X was also calculated in the case of 1 μm grain size and in the case of a 0.1 μm grain size, respectively. For the grain size is 0.1 μm, the degree of stress relaxation during the heating and keeping step is larger as compared with the case of a 1.0 μm grain size. The corresponding creep strain increases remarkably during the keeping step. From these results, crystal grain refinement may accelerate the degree of stress relaxation of Cu films during the heating and keeping process, and this consequently increases the residual tensile stress of Cu films at the end point of the process cycle. It can be concluded that Cu interconnections with smaller grain sizes are inferior with respect to SM resistance, because the residual tensile stress of Cu films increases with decreasing grain size.
+
+Fig. 14
+                         shows the stress hysteresis of A in the axial direction during the process cycle. The equivalent incremental creep strain is also indicated in Fig. 14. The same tendency is observed with the stress hysteresis of A and that of X. High-pressure annealing (hot isostatic pressing) decreases the stress transition point during the cooling process as compared with normal-pressure annealing. In Fig. 14, the range at which the tensile stress is applied to the Cu interconnections at the cooling step and the corresponding incremental creep strain: Δεcr-eq+ are indicated by using open squares and open circles. The value of Δεcr-eq+; which is the governing factor for SM or the siphoning phenomenon, decreases in the sequence 1→2→3. Since the smaller the value Δεcr-eq+, the more the SM is suppressed, it is also confirmed that the application of external pressure, especially applying isostatic pressure until the cooling is completed in the lower temperature range, is effective for suppressing the SM.
+
+In the present study, the filling performance and the resulting stress distribution of Cu interconnections using the high-pressure treatments were examined to verify the appropriateness for applying high-pressure annealing to the dual-damascene Cu interconnection technique. These results can be summarized as follows.
+                        
+                           1
+                           Tensile stress is applied at the via portions of Cu films by the additional external pressure formed during the heating and holding step of the annealing process. The residual stress after the process cycle has no influence on the additional external pressure.
+                        
+                        
+                           2
+                           The additional external pressure reduces the incremental creep strain of Cu, especially Δεcr-eq+, during the heating and holding step of the annealing process.
+                        
+                        
+                           3
+                           The equivalent incremental creep strain is remarkably influenced by the poly-crystalline grain size of the Cu, and is increased by decreasing the grain size of the Cu during the heating and holding step of the annealing process.
+                        
+                        
+                           4
+                           The additional external pressure reduces the stress transition point during the cooling stage following annealing.
+
+Tensile stress is applied at the via portions of Cu films by the additional external pressure formed during the heating and holding step of the annealing process. The residual stress after the process cycle has no influence on the additional external pressure.
+
+The additional external pressure reduces the incremental creep strain of Cu, especially Δεcr-eq+, during the heating and holding step of the annealing process.
+
+The equivalent incremental creep strain is remarkably influenced by the poly-crystalline grain size of the Cu, and is increased by decreasing the grain size of the Cu during the heating and holding step of the annealing process.
+
+The additional external pressure reduces the stress transition point during the cooling stage following annealing.
+
+The high-pressure annealing treatment accelerates the embedding and reduces the residual tensile stress of Cu interconnections. From these results, it can be concluded that the high-pressure annealing treatment is effective for the perfect filling of Cu interconnections into via holes and in suppressing the siphoning phenomenon in Cu interconnections from via holes.

@@ -1,0 +1,2615 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S027288421402029X</prism:url><dc:identifier>doi:10.1016/j.ceramint.2014.12.108</dc:identifier><eid>1-s2.0-S027288421402029X</eid><prism:doi>10.1016/j.ceramint.2014.12.108</prism:doi><pii>S0272-8842(14)02029-X</pii><dc:title>Improvement of mechanical and dielectric properties of PIP-SiCf/SiC composites by using Ti3SiC2 as inert filler </dc:title><prism:publicationName>Ceramics International</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02728842</prism:issn><prism:volume>41</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>4199</prism:startingPage><prism:endingPage>4206</prism:endingPage><prism:pageRange>4199-4206</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2015-04-30</prism:coverDate><prism:coverDisplayDate>April 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2014 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd and Techna Group S.r.l.</prism:publisher><dc:creator>Mu, Yang</dc:creator><dc:creator>Zhou, Wancheng</dc:creator><dc:creator>Hu, Yang</dc:creator><dc:creator>Qing, Yuchang</dc:creator><dc:creator>Luo, Fa</dc:creator><dc:creator>Zhu, Dongmei</dc:creator><dc:description>
+                  In order to optimize the mechanical and dielectric properties of SiCf/SiC composites, Ti3SiC2 was introduced into the composites by a modified precursor infiltration and pyrolysis (PIP) process. The results reveal that the appropriate Ti3SiC2 content in the infiltration precursor can effectively enhance the infiltration efficiency and decrease the open porosity of SiCf/SiC composites. The maximum flexural strength of the composites reaches 273MPa when the Ti3SiC2 content is 9wt%, which is 131% higher than that of the composites without filler (118MPa). This is mainly attributed to the high density and suitable interfacial bonding of the composites with the Ti3SiC2 filler. Both the ε′ and ε″ values of SiCf/SiC composites show a monotonically increasing tendency from 13.5–16.5 and i15–i19 to 27.5–32.5 and i31.5–i39 with the Ti3SiC2 content increase from 0 to 15wt%. Especially, the conductivity and complex permittivity of the composites display a relative large increasing extent for Ti3SiC2 content exceeding 9wt% owing to the percolation threshold effect.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>B. Composites</dcterms:subject><dcterms:subject>C. Dielectric properties</dcterms:subject><dcterms:subject>C. Mechanical properties</dcterms:subject><dcterms:subject>E. Functional applications</dcterms:subject><dcterms:subject>Mechanical applications</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S027288421402029X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S027288421402029X" rel="scidir"/></coredata><objects><object ref="si0004" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="99" height="16" size="482">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-si0004.gif?httpAccept=%2A%2F%2A</object><object ref="si0003" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="73" height="34" size="461">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-si0003.gif?httpAccept=%2A%2F%2A</object><object ref="si0002" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="152" height="33" size="658">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-si0002.gif?httpAccept=%2A%2F%2A</object><object ref="si0001" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="76" height="17" size="404">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-si0001.gif?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="386" height="642" size="78420">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="321" size="30725">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="641" size="61918">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="630" height="718" size="185967">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="628" height="715" size="215730">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="292" size="28464">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="298" size="28369">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="611" size="43626">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="98" height="163" size="4256">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="198" height="164" size="5265">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="99" height="164" size="3681">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="144" height="164" size="12319">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="144" height="164" size="11188">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="4172">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="213" height="164" size="5328">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="101" height="164" size="5882">https://api.elsevier.com/content/object/eid/1-s2.0-S027288421402029X-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84921888241</scopus-id><scopus-eid>2-s2.0-84921888241</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84921888241" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271590</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ceramics International</xocs:srctitle>
+      <xocs:normalized-srctitle>CERAMICSINTERNATIONAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20141229">2014-12-29</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20141229">2014-12-29</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-05-14T17:21:11</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S027288421402029X</xocs:eid>
+      <xocs:pii-formatted>S0272-8842(14)02029-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S027288421402029X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ceramint.2014.12.108</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0272884215X00022</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T16:38:18.597283-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150401</xocs:date-search-begin>
+      <xocs:date-search-end>20150430</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1419838754">2014-12-29T07:39:14.819524Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0272-8842</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02728842</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>41</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>41</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:suppl>PA</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 41, Issue 3, Part A</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>114</xocs:sort-order>
+      <xocs:first-fp>4199</xocs:first-fp>
+      <xocs:last-lp>4206</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>4199</xocs:first-page>
+         <xocs:last-page>4206</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201504</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2014 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>IMPROVEMENTMECHANICALDIELECTRICPROPERTIESPIPSICFSICCOMPOSITESBYUSINGTI3SIC2INERTFILLER</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Raw materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mechanical properties of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>NASLAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>155</xocs:ref-first-fp>
+            <xocs:ref-last-lp>170</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>NASLAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>75</xocs:ref-first-fp>
+            <xocs:ref-last-lp>84</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>YOSHIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>82</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>COLOMBO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1805</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1837</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>KOHYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>565</xocs:ref-first-fp>
+            <xocs:ref-last-lp>569</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>NECHANICKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>441</xocs:ref-first-fp>
+            <xocs:ref-last-lp>451</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>JIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>905</xocs:ref-first-fp>
+            <xocs:ref-last-lp>909</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>LUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1939</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1944</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>SREEJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>204</xocs:ref-first-fp>
+            <xocs:ref-last-lp>207</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>975</xocs:ref-first-fp>
+            <xocs:ref-last-lp>978</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>MU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>64</xocs:ref-first-fp>
+            <xocs:ref-last-lp>70</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>334</xocs:ref-first-fp>
+            <xocs:ref-last-lp>340</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>MU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10037</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10041</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>KOTANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>376</xocs:ref-first-fp>
+            <xocs:ref-last-lp>385</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19</xocs:ref-first-fp>
+            <xocs:ref-last-lp>24</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>133</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3434</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3436</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>KONOPLYUK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2342</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2346</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>LUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3570</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3572</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>FAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>98</xocs:ref-first-fp>
+            <xocs:ref-last-lp>105</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>SPENCER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1737</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1743</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>681</xocs:ref-first-fp>
+            <xocs:ref-last-lp>684</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>121</xocs:ref-first-fp>
+            <xocs:ref-last-lp>127</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>CHOLLON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>725</xocs:ref-first-fp>
+            <xocs:ref-last-lp>733</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1201</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1205</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>136</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref27">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5967</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5971</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref28">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2545</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2549</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref29">
+            <xocs:ref-normalized-surname>MU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3411</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3418</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref30">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>66</xocs:ref-first-fp>
+            <xocs:ref-last-lp>72</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref31">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-last-lp>47</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref32">
+            <xocs:ref-normalized-surname>PENN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1885</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1888</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref33">
+            <xocs:ref-normalized-surname>ZHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2173</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2180</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref34">
+            <xocs:ref-normalized-surname>CHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4867</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4873</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref35">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2166</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref36">
+            <xocs:ref-normalized-surname>WEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>124</xocs:ref-first-fp>
+            <xocs:ref-last-lp>139</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref37">
+            <xocs:ref-normalized-surname>SHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>172902-1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>172902-3</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MUX2015X4199</xocs:refkey3>
+         <xocs:refkey4lp>MUX2015X4199X4206</xocs:refkey4lp>
+         <xocs:refkey4ai>MUX2015X4199XY</xocs:refkey4ai>
+         <xocs:refkey5>MUX2015X4199X4206XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0272-8842(14)02029-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S027288421402029X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S027288421402029X</xocs:eid>
+         <xocs:doi>10.1016/j.ceramint.2014.12.108</xocs:doi>
+         <xocs:cid>271590</xocs:cid>
+         <xocs:timestamp>2015-05-14T16:38:18.597283-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/MAIN/application/pdf/5da1be5e5e83d15e9af1bb7741b87256/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/MAIN/application/pdf/5da1be5e5e83d15e9af1bb7741b87256/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>3245728</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S027288421402029X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/PREVIEW/image/png/f57d1c212b82341bedf5a7e4031fe600/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/PREVIEW/image/png/f57d1c212b82341bedf5a7e4031fe600/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>75316</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-si0004.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/STRIPIN/image/gif/55764467cbd9955a7476bc6657dc5355/si0004.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/STRIPIN/image/gif/55764467cbd9955a7476bc6657dc5355/si0004.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0004</xocs:file-basename>
+               <xocs:filename>si0004.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>482</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>99</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-si0003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/STRIPIN/image/gif/502c48d18562a91e6ef465af2e9cdbba/si0003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/STRIPIN/image/gif/502c48d18562a91e6ef465af2e9cdbba/si0003.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0003</xocs:file-basename>
+               <xocs:filename>si0003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>461</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>73</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-si0002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/STRIPIN/image/gif/1c63a9775e7621558ac23ea4bd166456/si0002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/STRIPIN/image/gif/1c63a9775e7621558ac23ea4bd166456/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0002</xocs:file-basename>
+               <xocs:filename>si0002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>658</xocs:filesize>
+               <xocs:pixel-height>33</xocs:pixel-height>
+               <xocs:pixel-width>152</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-si0001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/STRIPIN/image/gif/511271d9a9750e2eaff3fe23de631dce/si0001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/STRIPIN/image/gif/511271d9a9750e2eaff3fe23de631dce/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0001</xocs:file-basename>
+               <xocs:filename>si0001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>404</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>76</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr8/DOWNSAMPLED/image/jpeg/0693bbe1465dcb63de8a6d4518f28261/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr8/DOWNSAMPLED/image/jpeg/0693bbe1465dcb63de8a6d4518f28261/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>78420</xocs:filesize>
+               <xocs:pixel-height>642</xocs:pixel-height>
+               <xocs:pixel-width>386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr7/DOWNSAMPLED/image/jpeg/0174a50f6e8ef074e113f0659aca498f/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr7/DOWNSAMPLED/image/jpeg/0174a50f6e8ef074e113f0659aca498f/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30725</xocs:filesize>
+               <xocs:pixel-height>321</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr6/DOWNSAMPLED/image/jpeg/a4f89510df10cb7d8472e318a3eb3692/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr6/DOWNSAMPLED/image/jpeg/a4f89510df10cb7d8472e318a3eb3692/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>61918</xocs:filesize>
+               <xocs:pixel-height>641</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr5/DOWNSAMPLED/image/jpeg/571a8fcf1c3219935253509d9cb9a337/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr5/DOWNSAMPLED/image/jpeg/571a8fcf1c3219935253509d9cb9a337/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>185967</xocs:filesize>
+               <xocs:pixel-height>718</xocs:pixel-height>
+               <xocs:pixel-width>630</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr4/DOWNSAMPLED/image/jpeg/0df7cf4063056f1aea3c4acbc653095f/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr4/DOWNSAMPLED/image/jpeg/0df7cf4063056f1aea3c4acbc653095f/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>215730</xocs:filesize>
+               <xocs:pixel-height>715</xocs:pixel-height>
+               <xocs:pixel-width>628</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr3/DOWNSAMPLED/image/jpeg/36c3d6865f572d6f7f8dd294bfe12473/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr3/DOWNSAMPLED/image/jpeg/36c3d6865f572d6f7f8dd294bfe12473/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28464</xocs:filesize>
+               <xocs:pixel-height>292</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr2/DOWNSAMPLED/image/jpeg/2616c4a579fc6f0d1bf1b7b7db0baaf4/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr2/DOWNSAMPLED/image/jpeg/2616c4a579fc6f0d1bf1b7b7db0baaf4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28369</xocs:filesize>
+               <xocs:pixel-height>298</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr1/DOWNSAMPLED/image/jpeg/6c14d0e80abd4aee21e53a3d52a34728/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr1/DOWNSAMPLED/image/jpeg/6c14d0e80abd4aee21e53a3d52a34728/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43626</xocs:filesize>
+               <xocs:pixel-height>611</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr8/THUMBNAIL/image/gif/57dc9344e1fc0613e0e1d230f513226e/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr8/THUMBNAIL/image/gif/57dc9344e1fc0613e0e1d230f513226e/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4256</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>98</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr7/THUMBNAIL/image/gif/2da68e99079dee4bbe102ca0f1ff227f/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr7/THUMBNAIL/image/gif/2da68e99079dee4bbe102ca0f1ff227f/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5265</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>198</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr6/THUMBNAIL/image/gif/f00e899bc9d07408f1f372b934b0f943/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr6/THUMBNAIL/image/gif/f00e899bc9d07408f1f372b934b0f943/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3681</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>99</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr5/THUMBNAIL/image/gif/b7cc15f83887a2eeba1cc5997ef5e2b8/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr5/THUMBNAIL/image/gif/b7cc15f83887a2eeba1cc5997ef5e2b8/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12319</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>144</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr4/THUMBNAIL/image/gif/4ba9d3f577b589f487599680b3f4067f/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr4/THUMBNAIL/image/gif/4ba9d3f577b589f487599680b3f4067f/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11188</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>144</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr3/THUMBNAIL/image/gif/bad058ab7918dfba3be3e8840b8a0bfa/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr3/THUMBNAIL/image/gif/bad058ab7918dfba3be3e8840b8a0bfa/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4172</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr2/THUMBNAIL/image/gif/23baeaf0279aa853655e90cf3edddb76/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr2/THUMBNAIL/image/gif/23baeaf0279aa853655e90cf3edddb76/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5328</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S027288421402029X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S027288421402029X/gr1/THUMBNAIL/image/gif/3d9504cec378e02b229be54b9f178369/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S027288421402029X/gr1/THUMBNAIL/image/gif/3d9504cec378e02b229be54b9f178369/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5882</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>101</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.2">
+         <item-info>
+            <jid>CERI</jid>
+            <aid>9709</aid>
+            <ce:pii>S0272-8842(14)02029-X</ce:pii>
+            <ce:doi>10.1016/j.ceramint.2014.12.108</ce:doi>
+            <ce:copyright type="joint" year="2014">Elsevier Ltd and Techna Group S.r.l.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">SEM morphology and EDS analysis of the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">Weight increase vs. number of PIP cycles for SiC<ce:inf loc="post">f</ce:inf>/SiC composites with various Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content: A without filler; B 3<ce:hsp sp="0.25"/>wt%; C 6<ce:hsp sp="0.25"/>wt%; D 9<ce:hsp sp="0.25"/>wt%; E 12wt<ce:hsp sp="0.25"/>%; F 15<ce:hsp sp="0.25"/>wt%.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">Stress–displacement curves of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with various Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content: A without filler; B 3<ce:hsp sp="0.25"/>wt%; C 6<ce:hsp sp="0.25"/>wt%; D 9<ce:hsp sp="0.25"/>wt%; E 12<ce:hsp sp="0.25"/>wt%; F 15<ce:hsp sp="0.25"/>wt%.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">Fracture surface morphologies of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with various Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content: (a) without filler; (b) 3<ce:hsp sp="0.25"/>wt%; (c) 6<ce:hsp sp="0.25"/>wt%; (d) 9<ce:hsp sp="0.25"/>wt%; (e) 12<ce:hsp sp="0.25"/>wt%; (f) 15<ce:hsp sp="0.25"/>wt%.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">Typical fracture surface morphologies of the matrices and fiber bundles with different Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content: (a) and (d) without filler; (b) and (e) 9<ce:hsp sp="0.25"/>wt%; (c) and (f) 15<ce:hsp sp="0.25"/>wt%.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">(a) Real and (b) imaginary part of complex permittivity for the compositions of SiC<ce:inf loc="post">f</ce:inf>/SiC composites.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="sp0035" view="all">XRD patterns of “a” as-received Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>, “b” Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> after heat treatment at 1100<ce:hsp sp="0.25"/>°C for 2<ce:hsp sp="0.25"/>h in vacuum, “c” pyrolyzed precursor with 9<ce:hsp sp="0.25"/>wt% Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="sp0040" view="all">(a) Real and (b) imaginary part of complex permittivity for SiC<ce:inf loc="post">f</ce:inf>/SiC composites with various Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content: A without filler; B 3<ce:hsp sp="0.25"/>wt%; C 6<ce:hsp sp="0.25"/>wt%; D 9<ce:hsp sp="0.25"/>wt%; E 12<ce:hsp sp="0.25"/>wt%; F 15<ce:hsp sp="0.25"/>wt%.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="sp0045" view="all">Compositions of the infiltration precursor with various Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Number</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">Ti<inf loc="post">3</inf>SiC<inf loc="post">2</inf> ratio (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Ti<inf loc="post">3</inf>SiC<inf loc="post">2</inf>/g</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">PCS/g</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="center">Xylene/g</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="sp0050" view="all">Properties of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with various Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Composite</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">PIP cycles/N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Density/g<hsp sp="0.25"/>cm<sup loc="post">-3</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Porosity/%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Flexural strength/MPa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Failure displacement/mm</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>σ</italic>
+                           <inf loc="post">dc</inf>/(S/cm)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">118(11<cross-ref id="cr0005" refid="tbl1fna">
+                              <sup loc="post">a</sup>
+                           </cross-ref>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.14±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.05</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">183(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.18±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.06</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">234(8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.21±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.09</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">D</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">273(7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.23±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.37</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">E</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">222(9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.23±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.53</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">F</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="(">190(10)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.20±0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.89</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl1fna">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="ntp0005" view="all">Numbers in parentheses represent standard deviations for flexural strength.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Improvement of mechanical and dielectric properties of PIP-SiC<ce:inf loc="post">f</ce:inf>/SiC composites by using Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> as inert filler</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005">
+                  <ce:given-name>Yang</ce:given-name>
+                  <ce:surname>Mu</ce:surname>
+                  <ce:cross-ref id="cr0010" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010">
+                  <ce:given-name>Wancheng</ce:given-name>
+                  <ce:surname>Zhou</ce:surname>
+               </ce:author>
+               <ce:author id="au0015">
+                  <ce:given-name>Yang</ce:given-name>
+                  <ce:surname>Hu</ce:surname>
+               </ce:author>
+               <ce:author id="au0020">
+                  <ce:given-name>Yuchang</ce:given-name>
+                  <ce:surname>Qing</ce:surname>
+               </ce:author>
+               <ce:author id="au0025">
+                  <ce:given-name>Fa</ce:given-name>
+                  <ce:surname>Luo</ce:surname>
+               </ce:author>
+               <ce:author id="au0030">
+                  <ce:given-name>Dongmei</ce:given-name>
+                  <ce:surname>Zhu</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>State Key Laboratory of Solidification Processing, Northwestern Polytechnical University, Xi’an, Shaanxi 710072, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Solidification Processing, Northwestern Polytechnical University</sa:organization>
+                     <sa:city>Xi’an</sa:city>
+                     <sa:state>Shaanxi</sa:state>
+                     <sa:postal-code>710072</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel./fax: +86 29 88494574.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="20" month="11" year="2014"/>
+            <ce:date-revised day="9" month="12" year="2014"/>
+            <ce:date-accepted day="18" month="12" year="2014"/>
+            <ce:abstract id="ab0005" class="author" view="all"><ce:abstract-sec id="abs0005" view="all">
+                  <ce:simple-para id="sp0055" view="all">In order to optimize the mechanical and dielectric properties of SiC<ce:inf loc="post">f</ce:inf>/SiC composites, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> was introduced into the composites by a modified precursor infiltration and pyrolysis (PIP) process. The results reveal that the appropriate Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content in the infiltration precursor can effectively enhance the infiltration efficiency and decrease the open porosity of SiC<ce:inf loc="post">f</ce:inf>/SiC composites. The maximum flexural strength of the composites reaches 273<ce:hsp sp="0.25"/>MPa when the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content is 9<ce:hsp sp="0.25"/>wt%, which is 131% higher than that of the composites without filler (118<ce:hsp sp="0.25"/>MPa). This is mainly attributed to the high density and suitable interfacial bonding of the composites with the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler. Both the <ce:italic>ε</ce:italic>′ and <ce:italic>ε</ce:italic>″ values of SiC<ce:inf loc="post">f</ce:inf>/SiC composites show a monotonically increasing tendency from 13.5–16.5 and <ce:italic>i</ce:italic>15–<ce:italic>i</ce:italic>19 to 27.5–32.5 and <ce:italic>i</ce:italic>31.5–<ce:italic>i</ce:italic>39 with the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content increase from 0 to 15<ce:hsp sp="0.25"/>wt%. Especially, the conductivity and complex permittivity of the composites display a relative large increasing extent for Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content exceeding 9<ce:hsp sp="0.25"/>wt% owing to the percolation threshold effect.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>B. Composites</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>C. Dielectric properties</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>C. Mechanical properties</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>E. Functional applications</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0025">
+                  <ce:text>Mechanical applications</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">The increasing applications of continuous SiC fiber-reinforced SiC matrix composites (SiC<ce:inf loc="post">f</ce:inf>/SiC composites) make it extremely important to develop advanced composites with superior characteristics such as excellent mechanical property, good thermostability, low density, and special electrical and dielectric properties <ce:cross-refs id="crs0005" refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. Regarding the typical fabrication methods of SiC<ce:inf loc="post">f</ce:inf>/SiC composites, precursor infiltration and pyrolysis (PIP) process is of great importance, which has been widely employed because of its easy adaptability for large-scale components with complex shapes, controllable microstructure and low cost of fabrication <ce:cross-refs id="crs0010" refid="bib4 bib5">[4,5]</ce:cross-refs>. Polycarbosilane (PCS) is a kind of common precursor of SiC matrix for the PIP process, and multiple infiltration-curing-pyrolysis cycles are required to densify the composites. However, the gas evolution and volume shrinkage of simplex PCS precursor during the pyrolysis process can result in a low densification efficiency and high porosity of the SiC matrix, which will lead to the generation of microcracks and degradation of mechanical properties for SiC<ce:inf loc="post">f</ce:inf>/SiC composites <ce:cross-refs id="crs0015" refid="bib6 bib7">[6,7]</ce:cross-refs>. Effective consolidation to eliminate pores and cracks is a very important technical issue for making high-performance composites. Many efforts have been done to improve the density of the composites during the PIP process, including developing new precursors with high ceramic yield <ce:cross-refs id="crs0020" refid="bib8 bib9">[8,9]</ce:cross-refs>, incorporating active and inert fillers to decrease the volume shrinkage <ce:cross-refs id="crs0025" refid="bib10 bib11">[10,11]</ce:cross-refs> and combining the PIP process with other methods <ce:cross-refs id="crs0030" refid="bib12 bib13">[12,13]</ce:cross-refs>. Particularly, it is an effective and controllable way to make strong and homogeneous matrices with low porosity for SiC<ce:inf loc="post">f</ce:inf>/SiC composites by introducing inert filler into the PCS precursor <ce:cross-refs id="crs0035" refid="bib14 bib15 bib16 bib17">[14–17]</ce:cross-refs>. Titanium silicon carbide (Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>) is a spotlighted material for many engineering applications owing to its nano-laminate structure, good electrical and thermal conductivities, low specific gravity (~4.5<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup>), and excellent oxidation resistance at elevated temperatures <ce:cross-refs id="crs0040" refid="bib18 bib19">[18,19]</ce:cross-refs>. Several papers have reported the efforts to introduce Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> into the fiber-reinforced composites in recent years. Fan et al. <ce:cross-ref id="cr0015" refid="bib20">[20]</ce:cross-ref> fabricated the C/SiC–Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> composites by joint processes of slurry infiltration and liquid silicon infiltration (LSI) using TiC–C slurry. Spencer et al. <ce:cross-ref id="cr0020" refid="bib21">[21]</ce:cross-ref> prepared the SiC fiber-reinforced Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> matrix composites by the hot isostatic pressing (HIP) method. Yang et al. <ce:cross-ref id="cr0025" refid="bib22">[22]</ce:cross-ref> fabricated the C<ce:inf loc="post">f</ce:inf>/Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>–SiC composites by the PIP process using Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> as the inert filler, and the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> was introduced by in-situ reaction between Ti and polycarbosilane mixtures. However, up to now, little consideration was given on the fabrication of SiC<ce:inf loc="post">f</ce:inf>/SiC composites by the PIP method using Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> powders as inert filler.</ce:para>
+                  <ce:para id="p0010" view="all">In the present work, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> was introduced into the PCS precursor as inert filler to optimize the mechanical and dielectric properties of 2.5D SiC<ce:inf loc="post">f</ce:inf>/SiC composites. The microstructural evolutions of the matrix and composites varying with the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content were characterized. The density, mechanical property and complex permittivity of the composites were investigated.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Experimental procedure</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0025">Raw materials</ce:section-title>
+                     <ce:para id="p0015" view="all">The 2.5D KD-I SiC fabrics with a volume fraction of 40%, provided by National University of Defense Technology, China, were used as the reinforcement. General characteristics of the KD-I SiC fibers were shown in Ref. <ce:cross-ref id="cr0030" refid="bib23">[23]</ce:cross-ref>. PCS powders with an average molecular weight of 1800, provided by National University of Defense Technology, were used as the polymer precursor of SiC matrix, and xylene was used as the solvent of PCS. Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> powders were supplied by Jinghe Chemical Reagent Factory, Hebei, China, and the purity is greater than 98%. The density and electrical conductivity of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> powders were 4.5<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup> and 4.0×10<ce:sup loc="post">6</ce:sup>
+                        <ce:hsp sp="0.25"/>S/m respectively.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0030">Preparation of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler</ce:section-title>
+                     <ce:para id="p0020" view="all">Prior to the composites preparation, PCS and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> powders were firstly mixed together following the mass ratios shown in <ce:float-anchor refid="t0005"/>
+                        <ce:cross-ref id="cr0035" refid="t0005">Table 1</ce:cross-ref>, and then ball-milled for 12<ce:hsp sp="0.25"/>h. The mixture was dispersed in xylene respectively and ultrasonically stirred for 30<ce:hsp sp="0.25"/>min in order to mix sufficiently. Thus, the homogeneous slurries with different mass fractions of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> were obtained. Subsequently, the multiple fabrics were separately put into an airtight vessel and infiltrated with various slurries in vacuum. Then the samples were diverted into an autoclave and 6<ce:hsp sp="0.25"/>MPa nitrogen atmosphere was filled in, and this condition was maintained for 20<ce:hsp sp="0.25"/>min. After infiltration, the samples were dried and thermally cross-linked at 180<ce:hsp sp="0.25"/>°C for 2<ce:hsp sp="0.25"/>h in air. Eventually, these samples were heated at 1100<ce:hsp sp="0.25"/>°C and held for 2<ce:hsp sp="0.25"/>h in a vacuum sintering furnace (ZRS-150, Sante, Jinzhou, China). Each sample was subjected to several PIP cycles until the mass gains of the final composites were less than 1<ce:hsp sp="0.25"/>wt% and these fabricated composites were designated as Composite A, B, C, D, E and F, respectively.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0035">Materials characterization</ce:section-title>
+                     <ce:para id="p0025" view="all">The structures of the components of SiC<ce:inf loc="post">f</ce:inf>/SiC composites were characterized by X-ray diffraction (X׳Pert PRO MPD, PANalytical, Almelo, The Netherlands) and Raman spectroscopy (LabRAM HR800). The fracture surface morphologies of the composites and matrix after three-point bending tests were characterized by scanning electron microscope (SEM, Model SUPRA-55, Zeiss, Germany), equipped with energy dispersion spectroscopy (EDS).</ce:para>
+                     <ce:para id="p0030" view="all">The densities and open porosities of the fabricated composites were measured by the Archimedes method. The weight of the samples increases after each PIP cycle was measured by an electronic balance. The flexural strength was characterized by three-point bending tests (specimen size of 40<ce:sup loc="post">
+                           <ce:italic>l</ce:italic>
+                        </ce:sup>
+                        <ce:hsp sp="0.25"/>mm×4<ce:sup loc="post">
+                           <ce:italic>w</ce:italic>
+                        </ce:sup>
+                        <ce:hsp sp="0.25"/>mm×3<ce:sup loc="post">
+                           <ce:italic>t</ce:italic>
+                        </ce:sup>
+                        <ce:hsp sp="0.25"/>mm) with a cross-head speed of 0.5<ce:hsp sp="0.25"/>mm/min and support span length of 30<ce:hsp sp="0.25"/>mm using a universal testing machine (Haida Qualitative Analysis, HD-609B), following the general guidelines of ASTM standard C 1341. Five specimens were evaluated to eliminate the testing deviations. The DC electrical conductivity (<ce:italic>σ</ce:italic>
+                        <ce:inf loc="post">dc</ce:inf>) of the composites was measured by the two-probe direct current method <ce:cross-ref id="cr0040" refid="bib24">[24]</ce:cross-ref>, and the testing terminals of the composites were brushed with silver painting to avoid the contact resistance. The <ce:italic>σ</ce:italic>
+                        <ce:inf loc="post">dc</ce:inf> can be calculated by the following equation:<ce:display>
+                           <ce:formula id="eq0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si0001.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>σ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">dc</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>L</mml:mi>
+                                 <mml:mo>/</mml:mo>
+                                 <mml:mi>R</mml:mi>
+                                 <mml:mi>S</mml:mi>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>R</ce:italic> is the resistance paralleled to the wrap direction of the composites, <ce:italic>S</ce:italic> is the cross-sectional area of the composites, and <ce:italic>L</ce:italic> is the length of the composites.</ce:para>
+                     <ce:para id="p0035" view="all">The dielectric properties of SiC<ce:inf loc="post">f</ce:inf>/SiC composites were characterized by the real part (<ce:italic>ε</ce:italic>′) and imaginary part (<ce:italic>ε</ce:italic>″) of complex permittivity. Because of the low complex permittivity and melting point of paraffin, the samples of various powders for dielectric property measurements were prepared by mixing the produced powders with paraffin in a mass ratio of 3:1. For the measurement of SiC fabrics, melted paraffin wax was cast into the fabrics to obtain fabrics/paraffin wax composites so that the fiber bundles were fixed to facilitate the measurement of permittivity. The dimensions of the measured SiC<ce:inf loc="post">f</ce:inf>/SiC composites, SiC fabrics and powders/paraffin composites were 22.86<ce:sup loc="post">
+                           <ce:italic>l</ce:italic>
+                        </ce:sup>
+                        <ce:hsp sp="0.25"/>mm×10.16<ce:sup loc="post">
+                           <ce:italic>w</ce:italic>
+                        </ce:sup>
+                        <ce:hsp sp="0.25"/>mm×3.0<ce:sup loc="post">
+                           <ce:italic>t</ce:italic>
+                        </ce:sup>
+                        <ce:hsp sp="0.25"/>mm. The complex permittivity was measured in the frequency range of 8.2–12.4<ce:hsp sp="0.25"/>GHz by the waveguide method using a vector network analyzer (E8362B). In addition, the surfaces of the prepared composites were polished before the measurement of complex permittivity in order to remove the agglomerative Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler during the PIP process.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0040">Results and discussion</ce:section-title>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0045">Mechanical properties of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler</ce:section-title>
+                     <ce:para id="p0040" view="all">
+                        <ce:float-anchor refid="f0005"/>
+                        <ce:cross-ref id="cr0045" refid="f0005">Fig. 1</ce:cross-ref> shows the SEM morphology and EDS analysis of the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler. The Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> particles are mostly irregular laminar and granular flakes with the diameters of 0.5–2<ce:hsp sp="0.25"/>μm, and the large bodies are aggregated by those sub-micron particles. Thus, the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> and PCS powders were ball-milled to reduce the aggregations and mix sufficiently. The EDS analysis shows that the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> consists of 48.96% Ti, 16.32% Si and 34.72% C in atomic molar percentage respectively, and the elemental stoichiometric ratio is close to the nominal Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>, further illustrating the purity of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> phase.</ce:para>
+                     <ce:para id="p0045" view="all">In order to illustrate the effects of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content on the densification behavior of SiC<ce:inf loc="post">f</ce:inf>/SiC composites, the weight of these samples increases after each PIP process was monitored and is shown in <ce:float-anchor refid="f0010"/>
+                        <ce:cross-ref id="cr0050" refid="f0010">Fig. 2</ce:cross-ref>. It is observed that the PIP cycles of these composites decrease from 14 to 8 as the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content vary from 0 to 15<ce:hsp sp="0.25"/>wt%, which indicates that the incorporation of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> significantly improves the infiltration efficiency. The weight increases after the first PIP cycle show distinctive differences and rise with the increasing Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content. Owing to the increasing Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content, more pyrolyzed products adhere to the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> particles and thicker matrix layers are formed in the inter-bundle and intra-bundle areas, thus the infiltration and pyrolysis processes are enhanced.</ce:para>
+                     <ce:para id="p0050" view="all">
+                        <ce:float-anchor refid="f0015"/>
+                        <ce:cross-ref id="cr0055" refid="f0015">Fig. 3</ce:cross-ref> shows the typical stress–displacement curves of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with various Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content. As displayed in <ce:cross-ref id="cr0060" refid="f0015">Fig. 3</ce:cross-ref>, the flexural strengths of the composites increase firstly and then degrade as the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content increase from 0 to 15<ce:hsp sp="0.25"/>wt%. The results reveal that the Composite A shows a low flexural strength and brittle fracture behavior, while the composites with Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler exhibit enhanced flexural strength and failure displacement. <ce:float-anchor refid="t0010"/>
+                        <ce:cross-ref id="cr0065" refid="t0010">Table 2</ce:cross-ref> lists the properties of the fabricated SiC<ce:inf loc="post">f</ce:inf>/SiC composites. It exhibits that the maximum flexural strength reaches 273<ce:hsp sp="0.25"/>MPa when the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content is 9wt<ce:hsp sp="0.25"/>%, while the Composite A is only 118<ce:hsp sp="0.25"/>MPa. The typical fracture surface morphologies of various SiC<ce:inf loc="post">f</ce:inf>/SiC composites and matrices are illustrated and shown in <ce:float-anchor refid="f0020"/>
+                        <ce:float-anchor refid="f0025"/>
+                        <ce:cross-refs id="crs0045" refid="f0020 f0025">Figs. 4 and 5</ce:cross-refs>. As seen from <ce:cross-ref id="cr0070" refid="f0020">Fig. 4</ce:cross-ref>, when the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content are below 12<ce:hsp sp="0.25"/>wt%, the fracture surfaces of the composites are relatively plain, while the composites with 15<ce:hsp sp="0.25"/>wt% Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler exhibit long fibers pull-out. Especially, the fracture surface of the composites without filler shows obvious large pores owing to the volume shrinkage during the pyrolysis process. Moreover, as shown in <ce:cross-ref id="cr0075" refid="f0025">Fig. 5</ce:cross-ref>a, the matrix without filler is divided into plenty of discontinuous fragments and many continuous cracks generate. Thus, theses composites show a low flexural strength and catastrophic failure. For the composites with Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> particles, these inert filler can act as carriers for the growth of SiC matrix, and therefore effectively fill in the large pores and suppress the volume shrinkage effect, especially in the inter-bundle areas. Eventually, these SiC<ce:inf loc="post">f</ce:inf>/SiC composites with Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler show an obvious densification behavior, except for some discrete cracks in the matrix shown in <ce:cross-ref id="cr0080" refid="f0020">Fig. 4</ce:cross-ref>. When the filler content is 9<ce:hsp sp="0.25"/>wt%, as shown in <ce:cross-ref id="cr0085" refid="f0025">Fig. 5</ce:cross-ref>b and e, a dense and continuous matrix is formed with the filler dispersing uniformly in the SiC substrate, which helps to enhance the resistance of the matrix to external force. In addition, the inner spaces in the intra-bundle areas are mostly filled with the SiC matrix and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> particles. As a result, the high density and suitable interfacial bonding lead to a high flexural strength <ce:cross-refs id="crs0050" refid="bib25 bib26">[25,26]</ce:cross-refs>. As the filler content increase, the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> particles will aggregate and adhere together by the limited precursor, and considerable micro-pores are left in the matrix after the pyrolysis process. These closed pores cannot be further filled in the following infiltration process, and a loose matrix is formed eventually, as shown in <ce:cross-ref id="cr0090" refid="f0025">Fig. 5</ce:cross-ref>c. On the other hand, most filler are filtered out by the fiber filaments during the infiltration process and little filler and precursor get access to the intra-bundle areas, which results in a poor stuffing in the inner spaces. And these obstructed Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler can also weaken the interfacial bonding of the matrix and fibers. As a result, the flexural strength of the composites degrades as the filler content exceed 9<ce:hsp sp="0.25"/>wt%, and long fibers pull-out are observed when the filler content is 15<ce:hsp sp="0.25"/>wt%. It can be confirmed that the appropriate Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content can effectively tailor the density and interfacial bonding of SiC<ce:inf loc="post">f</ce:inf>/SiC composites during the infiltration and pyrolysis process, therefore the infiltration efficiency and flexural strength are enhanced.</ce:para>
+                     <ce:para id="p0055" view="all">3.2 Dielectric properties of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler</ce:para>
+                     <ce:para id="p0060" view="all">As is known, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> possesses an excellent electrical property, thus it can be introduced into the low dielectric-loss ceramic to tailor the dielectric property of the composites <ce:cross-refs id="crs0055" refid="bib27 bib28">[27,28]</ce:cross-refs>. First, the complex permittivity of the various components of SiC<ce:inf loc="post">f</ce:inf>/SiC composites is shown in <ce:float-anchor refid="f0030"/>
+                        <ce:cross-ref id="cr0095" refid="f0030">Fig. 6</ce:cross-ref>. As the previous study manifests that the PIP-SiC is incompletely crystalline and remains excess carbon <ce:cross-refs id="crs0060" refid="bib29 bib30">[29,30]</ce:cross-refs>, the pyrolyzed-SiC/paraffin composites show low <ce:italic>ε</ce:italic>′ (4–6) and <ce:italic>ε</ce:italic>″ (2–2.5) values. And the complex permittivity of as-received Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> varies from 9–<ce:italic>i</ce:italic>0.5 to 11.5–<ce:italic>i</ce:italic>3.1. In order to investigate the transformation of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> during the pyrolysis process, the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler was heat treated at 1100<ce:hsp sp="0.25"/>°C for 2<ce:hsp sp="0.25"/>h in vacuum. The results display that the complex permittivity of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler are almost the same before and after heat treatment, indicating the stability of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> during the heat treatment process. This can also be supported by the XRD patterns shown in <ce:float-anchor refid="f0035"/>
+                        <ce:cross-ref id="cr0100" refid="f0035">Fig. 7</ce:cross-ref>. The diffraction peaks of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> show no obvious difference before and after heat treatment, and the broad peak of PIP-SiC matrix is independent of the diffraction peaks of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> for the pyrolyzed SiC with 9<ce:hsp sp="0.25"/>wt% Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>. In addition, <ce:cross-ref id="cr0105" refid="f0030">Fig. 6</ce:cross-ref> gives the complex permittivity of as-received KD-I SiC preform, which exhibits high <ce:italic>ε</ce:italic>′ value of 13–14 and <ce:italic>ε</ce:italic>″ value of 11–17. This is mainly attributed to the nano-sized PyC surface layer around the KD-I SiC fiber <ce:cross-ref id="cr0110" refid="bib31">[31]</ce:cross-ref>, which contributes to enhancing the electrical conductivity and complex permittivity of the SiC fabrics.</ce:para>
+                     <ce:para id="p0065" view="all">
+                        <ce:float-anchor refid="f0040"/>
+                        <ce:cross-ref id="cr0115" refid="f0040">Fig. 8</ce:cross-ref> shows the complex permittivity of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with different Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content. The <ce:italic>ε</ce:italic>′ and <ce:italic>ε</ce:italic>″ values of the Composite A vary in the range of 13.5–16.5 and 15–19 respectively. The values of both <ce:italic>ε</ce:italic>′ and <ce:italic>ε</ce:italic>″ increase as the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content increase from 0 to 15<ce:hsp sp="0.25"/>wt%. Ultimately, the <ce:italic>ε</ce:italic>′ and <ce:italic>ε</ce:italic>″ values increase to 27.5–32.5 and 31.5–39 respectively for the Composite F. Moreover, the frequency response effect of <ce:italic>ε</ce:italic>′ and <ce:italic>ε</ce:italic>″ for all the composites can be obviously observed over the whole X band.</ce:para>
+                     <ce:para id="p0070" view="all">Based on the Debye theory, the <ce:italic>ε</ce:italic>′ of complex permittivity is related to polarization. For the well-distributed composites, the <ce:italic>ε</ce:italic>′ can be characterized according to the Lichtencker׳s logarithmic equation as follows <ce:cross-refs id="crs0065" refid="bib32 bib33">[32,33]</ce:cross-refs>
+                        <ce:display>
+                           <ce:formula id="eq0010">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si0002.gif" overflow="scroll">
+                                 <mml:mi>Ln</mml:mi>
+                                 <mml:mspace width=".25em"/>
+                                 <mml:mi>ε</mml:mi>
+                                 <mml:mo>′</mml:mo>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mrow>
+                                    <mml:munder>
+                                       <mml:mo>∑</mml:mo>
+                                       <mml:mi>i</mml:mi>
+                                    </mml:munder>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>V</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>i</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>×</mml:mo>
+                                       <mml:mspace width=".25em"/>
+                                       <mml:mi>Ln</mml:mi>
+                                       <mml:mspace width=".25em"/>
+                                       <mml:msubsup>
+                                          <mml:mrow>
+                                             <mml:mi>ε</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>i</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mo>′</mml:mo>
+                                          </mml:mrow>
+                                       </mml:msubsup>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>V</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>i</ce:italic>
+                        </ce:inf> is the volume fraction of each component of the composites; <ce:italic>ε</ce:italic>′<ce:inf loc="post">
+                           <ce:italic>i</ce:italic>
+                        </ce:inf> is the <ce:italic>ε</ce:italic>′ of each component of the composites. The components of SiC<ce:inf loc="post">f</ce:inf>/SiC composites with Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler are mainly composed of KD-I SiC fibers, PIP-SiC matrix, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler and the pores. In the present study, the volume fractions of SiC fibers of these composites are approximately the same, thus the distinctions of complex permittivity are mostly determined by the contents of SiC matrix, Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler and pores. On one hand, the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler with a relative high <ce:italic>ε</ce:italic>′ value contributes to enhancing the <ce:italic>ε</ce:italic>′ of SiC<ce:inf loc="post">f</ce:inf>/SiC composites progressively with the increasing Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content. On the other hand, with the incorporation of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler, a large number of interfaces are formed between the SiC matrix and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> particles. These free electrons gathered in the interfaces can form space-charge layer under the applied external electric field, which will help to enhance the <ce:italic>ε</ce:italic>′ value. The <ce:italic>ε</ce:italic>″ is usually associated with the electrical conductivity of the composites and can be expressed by the following equation:<ce:display>
+                           <ce:formula id="eq0015">
+                              <ce:label>(3)</ce:label>
+                              <mml:math altimg="si0003.gif" overflow="scroll">
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi>ε</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mo>″</mml:mo>
+                                 </mml:msup>
+                                 <mml:mo>≈</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mi>σ</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                       <mml:mi>π</mml:mi>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>ε</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mn>0</mml:mn>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mi>f</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>σ</ce:italic> is the electrical conductivity of the composites, <ce:italic>ε</ce:italic>
+                        <ce:inf loc="post">0</ce:inf> is the dielectric constant in vacuum and <ce:italic>f</ce:italic> is the frequency of the electromagnetic wave. Accordingly, the <ce:italic>ε</ce:italic>″ is appropriately proportional to the <ce:italic>σ</ce:italic>, and thus the increment of <ce:italic>σ</ce:italic> leads to a high <ce:italic>ε</ce:italic>″ value. As shown in <ce:cross-ref id="cr0120" refid="t0010">Table 2</ce:cross-ref>, the <ce:italic>σ</ce:italic> increases from 0.05<ce:hsp sp="0.25"/>S/cm to 0.89<ce:hsp sp="0.25"/>S/cm as the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content increase from 0 to 15<ce:hsp sp="0.25"/>wt%, thus giving rise to the increment of the <ce:italic>ε</ce:italic>″ value.</ce:para>
+                     <ce:para id="p0075" view="all">The experimental results in <ce:cross-ref id="cr0125" refid="f0040">Fig. 8</ce:cross-ref> and <ce:cross-ref id="cr0130" refid="t0010">Table 2</ce:cross-ref> show that the increasing Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content significantly influence the complex permittivity and conductivity of the SiC<ce:inf loc="post">f</ce:inf>/SiC composites, especially when the filler content exceed 9<ce:hsp sp="0.25"/>wt%. Accordingly, all these factors are directly related to the <ce:italic>σ</ce:italic> of the composites. And the <ce:italic>σ</ce:italic> is related to the content, geometrical characteristic and extent of agglomeration of the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> particles in the SiC matrix <ce:cross-refs id="crs0070" refid="bib34 bib35">[34,35]</ce:cross-refs>. According to the percolation theory, the <ce:italic>σ</ce:italic> can be expressed by the following relationship <ce:cross-refs id="crs0075" refid="bib36 bib37">[36,37]</ce:cross-refs>:<ce:display>
+                           <ce:formula id="eq0020">
+                              <ce:label>(4)</ce:label>
+                              <mml:math altimg="si0004.gif" overflow="scroll">
+                                 <mml:mi>σ</mml:mi>
+                                 <mml:mo>∝</mml:mo>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mi>W</mml:mi>
+                                       <mml:mo>−</mml:mo>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>W</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="normal">c</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                    </mml:mrow>
+                                    <mml:mi>α</mml:mi>
+                                 </mml:msup>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>W</ce:italic> is the content of the filler; <ce:italic>W</ce:italic>
+                        <ce:inf loc="post">c</ce:inf> is the critical content or percolation threshold of the filler and <ce:italic>α</ce:italic> is the critical electrical conductivity exponent. This relationship well illustrates the monotonically increasing dependence between the filler content and the <ce:italic>σ</ce:italic> shown in <ce:cross-ref id="cr0135" refid="t0010">Table 2</ce:cross-ref>. In addition, the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> particles disperse in a large scale and these particles are kept at a relative long distance with each other, which cannot form the effective conductive network. Thus the <ce:italic>σ</ce:italic> and <ce:italic>ε</ce:italic>″ show a rather small increasing extent when the filler content are below 9<ce:hsp sp="0.25"/>wt%. However, as the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content exceed 9<ce:hsp sp="0.25"/>wt%, these particles get closer and even aggregate together to form conductive network in the composites, leading to an apparent enhancement of the <ce:italic>σ</ce:italic> and <ce:italic>ε</ce:italic>″. Therefore, both the conductivity and complex permittivity show a relative large increasing extent for the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content exceeding 9<ce:hsp sp="0.25"/>wt%.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0050">Conclusions</ce:section-title>
+                  <ce:para id="p0080" view="all">In the present study, the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> inert filler was successfully introduced into the 2.5D KD-I SiC<ce:inf loc="post">f</ce:inf>/SiC composites by precursor infiltration and pyrolysis (PIP) process to optimize the mechanical and dielectric properties. The microstructural evolutions of the matrix and composites varying with the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content were characterized. The results indicate that the appropriate Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content in the infiltration precursor results in a high infiltration efficiency and low open porosity of SiC<ce:inf loc="post">f</ce:inf>/SiC composites. Moreover, the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> filler can compensate for volume shrinkage and help to form a dense matrix. The flexural strengths of the composites increase firstly and then degrade as the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content increase from 0 to 15<ce:hsp sp="0.25"/>wt%. Consequently, the maximum flexural strength reaches 273<ce:hsp sp="0.25"/>MPa when the filler content is 9<ce:hsp sp="0.25"/>wt%, which is 131% higher than that of the composites without filler (118<ce:hsp sp="0.25"/>MPa). Both the <ce:italic>ε</ce:italic>′ and <ce:italic>ε</ce:italic>″ values show an increasing tendency and vary from 13.5–16.5 to 27.5–32.5 and <ce:italic>i</ce:italic>15–<ce:italic>i</ce:italic>19 to <ce:italic>i</ce:italic>31.5–<ce:italic>i</ce:italic>39 respectively as the filler content increase from 0 to 15<ce:hsp sp="0.25"/>wt%. Owing to the percolation threshold effect of the filler, the conductivity and complex permittivity of SiC<ce:inf loc="post">f</ce:inf>/SiC composites show a relative large increasing extent for the Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> content exceeding 9<ce:hsp sp="0.25"/>wt%.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0055">Acknowledgments</ce:section-title>
+               <ce:para id="p0085" view="all">This work was financially supported by <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100001809" id="gs1" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">National Natural Science Foundation of China</ce:grant-sponsor> (No. <ce:grant-number refid="gs1">51402239</ce:grant-number>), <ce:grant-sponsor id="gs2" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Fundamental Research Funds for the Central Universities</ce:grant-sponsor> (No. <ce:grant-number refid="gs2">3102014JCY01002</ce:grant-number>) and <ce:grant-sponsor id="gs3" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">State Key Laboratory of Solidification Processing in NWPU, China</ce:grant-sponsor> (Grant no. <ce:grant-number refid="gs3">KP201422</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0060">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Naslain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Design, preparation and properties of non-oxide CMCs for application in engines and nuclear reactors: an overview</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Compos. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>155</sb:first-page>
+                              <sb:last-page>170</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Naslain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SiC-matrix composites: nonbrittle ceramics for thermostructural application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Appl. Ceram. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>75</sb:first-page>
+                              <sb:last-page>84</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of silicon carbide fiber-reinforced silicon carbide matrix composites with high performance based on interfacial and microstructure control</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Ceram. Soc. Jpn.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>82</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Colombo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Mera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Riedel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polymer-derived ceramics: 40 years of research and innovation in advanced ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1805</sb:first-page>
+                              <sb:last-page>1837</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kohyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kotani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-performance SiC/SiC composites by improved PIP processing with new precursor polymers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283-287</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>565</sb:first-page>
+                              <sb:last-page>569</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Nechanicky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Chew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sellinger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>α-Silicon carbide/β-silicon carbide particulate composites via polymer infiltration and pyrolysis (PIP) processing using polymethylsilane</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>441</sb:first-page>
+                              <sb:last-page>451</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Jian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.S.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of polycarbosilane infiltration processes on the microstructure and mechanical properties of 3D-C<ce:inf loc="post">f</ce:inf>/SiC composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>905</sb:first-page>
+                              <sb:last-page>909</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical properties of SiC/SiC composites fabricated by PIP process with a new precursor polymer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1939</sb:first-page>
+                              <sb:last-page>1944</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sreeja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Swaminathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Painuly</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Allylhydridopolycarbosilane (AHPCS) as matrix resin for C/SiC ceramic matrix composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>168</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>204</sb:first-page>
+                              <sb:last-page>207</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.R.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The fabrication of 2D C<ce:inf loc="post">f</ce:inf>/SiC composite by a modified PIP process using active Al powders as active filler</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Charact.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>975</sb:first-page>
+                              <sb:last-page>978</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical and dielectric properties of 2.5D SiC<ce:inf loc="post">f</ce:inf>/SiC-Al2O3 composites prepared via precursor infiltration and pyrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>596</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>64</sb:first-page>
+                              <sb:last-page>70</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation of 3D C<ce:inf loc="post">f</ce:inf>/ZrC-SiC composites by joint processes of PIP and RMI</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>607</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>334</sb:first-page>
+                              <sb:last-page>340</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical and electromagnetic shielding properties of SiC<ce:inf loc="post">f</ce:inf>/SiC composites fabricated by combined CVI and PIP process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10037</sb:first-page>
+                              <sb:last-page>10041</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kotani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Inoue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kohyama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of SiC particle dispersion on microstructure and mechanical properties of polymer-derived SiC/SiC composite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>357</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>376</sb:first-page>
+                              <sb:last-page>385</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of TaC amount on the properties of 2D C/SiC-TaC composites prepared via precursor infiltration and pyrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Des</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19</sb:first-page>
+                              <sb:last-page>24</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation and properties of 2D C/ZrB<ce:inf loc="post">2</ce:inf>-SiC ultra high temperature ceramic composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>524</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                              <sb:last-page>133</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and properties of C<ce:inf loc="post">f</ce:inf>/SiC–ZrC composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3434</sb:first-page>
+                              <sb:last-page>3436</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Konoplyuk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Abe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Uchimoto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>/TiC composites from TiH<ce:inf loc="post">2</ce:inf>/SiC/TiC powders</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2342</sb:first-page>
+                              <sb:last-page>2346</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.M.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polycarbosilane derived Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3570</sb:first-page>
+                              <sb:last-page>3572</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.W.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Processing, microstructure and ablation behavior of C/SiC–Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> composites fabricated by liquid silicon infiltration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Corros. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>98</sb:first-page>
+                              <sb:last-page>105</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Spencer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Córdoba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.H.</ce:given-name>
+                                 <ce:surname>Obando</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The reactivity of Ti<ce:inf loc="post">2</ce:inf>AlC and Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> with SiC fibers and powders up to temperatures of 1550<ce:hsp sp="0.25"/>°C</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1737</sb:first-page>
+                              <sb:last-page>1743</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fabrication and properties of C<ce:inf loc="post">f</ce:inf>/Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf>–SiC composites using Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> as inert filler</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Key Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>512–515</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>681</sb:first-page>
+                              <sb:last-page>684</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.T.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of the fiber surface characteristics on the interfacial microstructure and mechanical properties of the KD SiC fiber reinforced SiC matrix composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>525</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>121</sb:first-page>
+                              <sb:last-page>127</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chollon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pailler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Canet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Delhaes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Correlation between microstructure and electrical properties of SiC-based fibers derived from organosilicon precursors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>725</sb:first-page>
+                              <sb:last-page>733</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.R.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Manufacturing 2D carbon-fiber-reinforced SiC matrix composites by slurry infiltration and PIP process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1201</sb:first-page>
+                              <sb:last-page>1205</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>SiC/SiC composites fabricated with carbon nanotubes interface layer and a novel precursor LPVCS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fusion Eng. Des.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                              <sb:last-page>136</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dependence of the microstructure and properties of TiC/Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> composites on extra C addition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5967</sb:first-page>
+                              <sb:last-page>5971</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microwave dielectric properties of Ti3SiC2 powders synthesized by solid state reaction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2545</sb:first-page>
+                              <sb:last-page>2549</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of BN/SiC dual-layer interphase on mechanical and dielectric properties of SiC<ce:inf loc="post">f</ce:inf>/SiC composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3411</sb:first-page>
+                              <sb:last-page>3418</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.W.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.Y.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical, dielectric and microwave-absorption properties of polymer derived SiC ceramics in X band</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>565</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>66</sb:first-page>
+                              <sb:last-page>72</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dielectric and microwave absorption properties of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> powders</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>576</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                              <sb:last-page>47</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sbref32">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Penn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.M.</ce:given-name>
+                                 <ce:surname>Alford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Templeton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of porosity and grain size on the microwave dielectric properties of sintered alumina</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1885</sb:first-page>
+                              <sb:last-page>1888</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sbref33">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.W.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improved electromagnetic absorbing properties of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>–SiC/SiO<ce:inf loc="post">2</ce:inf> composite ceramics with multi-shell microstructure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2173</sb:first-page>
+                              <sb:last-page>2180</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="sbref34">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Chu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of diameter and hollow structure on the microwave absorption properties of short carbon fibers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4867</sb:first-page>
+                              <sb:last-page>4873</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="sbref35">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.T.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.F.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Chu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Absorbing properties of frequency selective surface absorbers with cross-shaped resistive patches</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Des.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2166</sb:first-page>
+                              <sb:last-page>2171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="sbref36">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Hou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Temperature dependent microwave attenuation behavior for carbon-nanotube/silica composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Carbon</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>124</sb:first-page>
+                              <sb:last-page>139</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="sbref37">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical and dielectric behaviors of Ti<ce:inf loc="post">3</ce:inf>SiC<ce:inf loc="post">2</ce:inf> Yttria-stabilized zirconia composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>172902-1</sb:first-page>
+                              <sb:last-page>172902-3</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

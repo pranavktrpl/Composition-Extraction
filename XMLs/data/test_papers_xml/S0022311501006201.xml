@@ -1,0 +1,983 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0022311501006201</prism:url><dc:identifier>doi:10.1016/S0022-3115(01)00620-1</dc:identifier><eid>1-s2.0-S0022311501006201</eid><prism:doi>10.1016/S0022-3115(01)00620-1</prism:doi><pii>S0022-3115(01)00620-1</pii><dc:title>In-depth distributions of elements in leached layers on two HLW waste glasses after burial in clay; step-scan by SIMS </dc:title><prism:publicationName>Journal of Nuclear Materials</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00223115</prism:issn><prism:volume>298</prism:volume><prism:issueIdentifier>1-2</prism:issueIdentifier><prism:startingPage>197</prism:startingPage><prism:endingPage>202</prism:endingPage><prism:pageRange>197-202</prism:pageRange><prism:number>1-2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2001-09-30</prism:coverDate><prism:coverDisplayDate>September 2001</prism:coverDisplayDate><prism:copyright>Copyright © 2001 Elsevier Science B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier Science B.V.</prism:publisher><prism:issueName>Glass in its Disposal Environment</prism:issueName><dc:creator>Lodding, A</dc:creator><dc:creator>Van Iseghem, P</dc:creator><dc:description>
+                  Two glasses developed as potential radioactive high-level waste (HLW) forms were investigated with respect to long-term corrosion resistance in geological environment. Loaded with simulated reactor waste, including fission products, the SON68 and SM513 HLW glasses were leached for 5 years, buried in Boom Clay at 85°C. The results were evaluated by quantitative secondary ion mass spectrometry (SIMS), using a step-scan technique yielding the in-depth concentration profiles of more than 20 relevant elements in successive sub-surface transformed layers to depths of the order of 500 μm. The observed elemental kinetics provided experimentally convincing evidence of a predominantly selective-substitutional leaching mode in both glasses. The rate of corrosion and element depletion in SON68 (a Cogéma type glass) was found to be by ca 20–40% slower than in SM513 (Pamela-type). In the reacted layers of both glasses, `mobile' elements (e.g., Li, Cs, B) were practically eliminated, but also Si was significantly depleted, while more `inert' elements (e.g., Al, Zr, Cr) remained essentially preserved in the residual network of the `gel'.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0022311501006201" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0022311501006201" rel="scidir"/></coredata><objects><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="69" height="17" size="301">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="69" height="17" size="301">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="50" height="8" size="184">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="50" height="8" size="184">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="59" height="11" size="218">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="59" height="11" size="218">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="41" height="92" size="1869">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="211" height="474" size="16046">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="41" height="92" size="1902">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="211" height="475" size="16838">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-gr2.gif?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="86" size="1548">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="329" height="227" size="6254">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311501006201-gr3.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>0035448922</scopus-id><scopus-eid>2-s2.0-0035448922</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0035448922" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271598</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291702</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291829</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Nuclear Materials</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALNUCLEARMATERIALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20010830">2001-08-30</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20010830">2001-08-30</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-13T15:02:40</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0022311501006201</xocs:eid>
+      <xocs:pii-formatted>S0022-3115(01)00620-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0022311501006201</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0022-3115(01)00620-1</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0022311500X01079</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T01:25:24.219903-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20010901</xocs:date-search-begin>
+      <xocs:date-search-end>20010930</xocs:date-search-end>
+      <xocs:year-nav>2001</xocs:year-nav>
+      <xocs:indexeddate epoch="999129600">2001-08-30T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confabbr confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings vol volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authlast otherkwds primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0022-3115</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00223115</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>298</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>298</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>2</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 298, Issues 1–2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>25</xocs:sort-order>
+      <xocs:first-fp>197</xocs:first-fp>
+      <xocs:last-lp>202</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>197</xocs:first-page>
+         <xocs:last-page>202</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200109</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2001</xocs:cover-date-text>
+      <xocs:cover-date-start>2001-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2001-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2001</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Glass in its Disposal Environment</ce:title>
+            <xocs:conference-info>
+               <xocs:abbr-name>Bruges</xocs:abbr-name>
+               <xocs:venue>Bruges, Belgium</xocs:venue>
+               <xocs:conference-date-text>11–14 April 2000</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20000411</xocs:start-date>
+                  <xocs:end-date>20000414</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <xocs:editors>P. Van Iseghem</xocs:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2001 Elsevier Science B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INDEPTHDISTRIBUTIONSELEMENTSINLEACHEDLAYERSTWOHLWWASTEGLASSESAFTERBURIALINCLAYSTEPSCANBYSIMS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LODDING</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Test material</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analyzing procedure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>In-depth concentration profiles; characteristic sub-surface zones</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Reacted depths and element concentrations from the SIMS profiles</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1"/>
+         <xocs:ref-info refid="BIB2"/>
+         <xocs:ref-info refid="BIB3"/>
+         <xocs:ref-info refid="BIB4"/>
+         <xocs:ref-info refid="BIB5"/>
+         <xocs:ref-info refid="BIB6"/>
+         <xocs:ref-info refid="BIB7"/>
+         <xocs:ref-info refid="BIB8"/>
+         <xocs:ref-info refid="BIB9"/>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>WICKS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>32</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LODDINGX2001X197</xocs:refkey3>
+         <xocs:refkey4lp>LODDINGX2001X197X202</xocs:refkey4lp>
+         <xocs:refkey4ai>LODDINGX2001X197XA</xocs:refkey4ai>
+         <xocs:refkey5>LODDINGX2001X197X202XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0022-3115(01)00620-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0022311501006201</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0022311501006201</xocs:eid>
+         <xocs:doi>10.1016/S0022-3115(01)00620-1</xocs:doi>
+         <xocs:cid>271598</xocs:cid>
+         <xocs:timestamp>2010-12-06T18:47:37.475005-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2001-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2001-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/MAIN/application/pdf/eafc976fc1e58bbdc9eea6b9d69f2d4e/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/MAIN/application/pdf/eafc976fc1e58bbdc9eea6b9d69f2d4e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>294905</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0022311501006201-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/PREVIEW/image/png/1259c0eb32babc9d34a68fbc16afb9f5/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/PREVIEW/image/png/1259c0eb32babc9d34a68fbc16afb9f5/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68075</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/STRIPIN/image/gif/66e6d0f117a926011439bd7cae582d07/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/STRIPIN/image/gif/66e6d0f117a926011439bd7cae582d07/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>301</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>69</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/STRIPIN/image/gif/66e6d0f117a926011439bd7cae582d07/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/STRIPIN/image/gif/66e6d0f117a926011439bd7cae582d07/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>301</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>69</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/STRIPIN/image/gif/da297c687802c6c1acd14d9fbd185095/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/STRIPIN/image/gif/da297c687802c6c1acd14d9fbd185095/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>184</xocs:filesize>
+               <xocs:pixel-height>8</xocs:pixel-height>
+               <xocs:pixel-width>50</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/STRIPIN/image/gif/da297c687802c6c1acd14d9fbd185095/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/STRIPIN/image/gif/da297c687802c6c1acd14d9fbd185095/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>184</xocs:filesize>
+               <xocs:pixel-height>8</xocs:pixel-height>
+               <xocs:pixel-width>50</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/STRIPIN/image/gif/13ec8da731e66e57ee895384d1024435/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/STRIPIN/image/gif/13ec8da731e66e57ee895384d1024435/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>218</xocs:filesize>
+               <xocs:pixel-height>11</xocs:pixel-height>
+               <xocs:pixel-width>59</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/STRIPIN/image/gif/13ec8da731e66e57ee895384d1024435/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/STRIPIN/image/gif/13ec8da731e66e57ee895384d1024435/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>218</xocs:filesize>
+               <xocs:pixel-height>11</xocs:pixel-height>
+               <xocs:pixel-width>59</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/gr1/THUMBNAIL/image/gif/d466364fdcd64bf32ab173ed1caee663/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/gr1/THUMBNAIL/image/gif/d466364fdcd64bf32ab173ed1caee663/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1869</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>41</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/gr1/DOWNSAMPLED/image/gif/b06cad59b83a96756b95c206128ed92d/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/gr1/DOWNSAMPLED/image/gif/b06cad59b83a96756b95c206128ed92d/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>16046</xocs:filesize>
+               <xocs:pixel-height>474</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/gr2/THUMBNAIL/image/gif/73e5c957e3ee74aeef519989e3a50fa9/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/gr2/THUMBNAIL/image/gif/73e5c957e3ee74aeef519989e3a50fa9/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1902</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>41</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-gr2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/gr2/DOWNSAMPLED/image/gif/b5f9e05cf09c130400d8b41996042bc6/gr2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/gr2/DOWNSAMPLED/image/gif/b5f9e05cf09c130400d8b41996042bc6/gr2.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>16838</xocs:filesize>
+               <xocs:pixel-height>475</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/gr3/THUMBNAIL/image/gif/55a38723628203876b1180b1613c1ed4/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/gr3/THUMBNAIL/image/gif/55a38723628203876b1180b1613c1ed4/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1548</xocs:filesize>
+               <xocs:pixel-height>86</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311501006201-gr3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311501006201/gr3/DOWNSAMPLED/image/gif/ff4227a5f181a12b4614130952a0d124/gr3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311501006201/gr3/DOWNSAMPLED/image/gif/ff4227a5f181a12b4614130952a0d124/gr3.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>6254</xocs:filesize>
+               <xocs:pixel-height>227</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>NUMA</jid>
+            <aid>14346</aid>
+            <ce:pii>S0022-3115(01)00620-1</ce:pii>
+            <ce:doi>10.1016/S0022-3115(01)00620-1</ce:doi>
+            <ce:copyright type="full-transfer" year="2001">Elsevier Science B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">In-depth profiles (quantitative SIMS) of element concentrations through leached layers on SON68 glass after 5 year burial in Boom Clay at 85°C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">In-depth profiles (quantitative SIMS) of element concentrations through leached layers on SM513 glass after 5 year burial in Boom Clay at 85°C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Reacted depths of two HLW glasses corroded in contact with Boom Clay, as function of exposure time. Whole drawn curves: earlier work at 90°C; computed from weight-loss measurements <ce:cross-ref refid="BIB6">[6]</ce:cross-ref>. Points at 60 months' exposure: from weight-loss work <ce:cross-ref refid="BIB8">[8]</ce:cross-ref> at 85°C, extrapolated to 90°C; (×) SON68; (▿) SM513.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Leached depths (layers β<ce:inf loc="post">0</ce:inf>+β<ce:inf loc="post">1</ce:inf>, μm) in two HLW glasses after 5 years' burial in Boom Clay at 85°C</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <tbody>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">From:</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SIMS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(EPMA<sup loc="post">8</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(Weight loss<sup loc="post">8</sup>)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SON68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">250±15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(220)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(300)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SM513</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">320±20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(350)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(400)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL2" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Concentrations of elements (mol% related to sum of cations in bulk glass) in unleached material and in major depletion layers (β<ce:inf loc="post">0</ce:inf>) of two HLW glasses after 5 years burial in Boom Clay at 85°C</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <colspec colname="col7" colsep="0"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4" rowsep="1">SON68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" namest="col5" nameend="col7" rowsep="1">SM513</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>c</italic>
+                           <inf loc="post">bulk</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>c</italic>
+                           <inf loc="post">β0</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rating</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>c</italic>
+                           <inf loc="post">bulk</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>c</italic>
+                           <inf loc="post">β0</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Rating</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Li</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Na</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">(0.04)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;&lt;</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">(0.06)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;&lt;</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cs</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mg</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">(0.01)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ca</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.165</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ba</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Zn</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.02</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Al</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <math xmlns="http://www.elsevier.com/xml/ja/dtd" altimg="si1.gif">*<hsp xmlns="http://www.elsevier.com/xml/common/dtd" sp="0.35"/>*<hsp xmlns="http://www.elsevier.com/xml/common/dtd" sp="0.35"/>*!</math>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <math xmlns="http://www.elsevier.com/xml/ja/dtd" altimg="si2.gif">*<hsp xmlns="http://www.elsevier.com/xml/common/dtd" sp="0.35"/>*<hsp xmlns="http://www.elsevier.com/xml/common/dtd" sp="0.35"/>*!</math>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">39.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">23.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→!</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">40.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→!</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">P</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">≅0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <math xmlns="http://www.elsevier.com/xml/ja/dtd" altimg="si3.gif">*<hsp xmlns="http://www.elsevier.com/xml/common/dtd" sp="0.35"/>*<hsp xmlns="http://www.elsevier.com/xml/common/dtd" sp="0.35"/>*</math>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">**</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Zr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <math xmlns="http://www.elsevier.com/xml/ja/dtd" altimg="si4.gif">*<hsp xmlns="http://www.elsevier.com/xml/common/dtd" sp="0.35"/>*<hsp xmlns="http://www.elsevier.com/xml/common/dtd" sp="0.35"/>*</math>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.305</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">**</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.345</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.165</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">**</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mn</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.353</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.015</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.98</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ni</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.285</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.265</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">**</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ce</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.050</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nd</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.075</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Th</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">U</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.095</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>Σ</italic>: 36.5%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>Σ</italic>: 25.5%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">H</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">≅1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">≅10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;&lt;</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">≅1.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">≅6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;&lt;</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">F</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→→</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">S</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.265</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.015</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">→→</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">Element ratings: `Inert' <math xmlns="http://www.elsevier.com/xml/ja/dtd" altimg="si5.gif">(*<ce:hsp sp="0.35"/>*<ce:hsp sp="0.35"/>*)</math>; `Mobile' (→→→); `Influx' (&lt;&lt;&lt;).</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>In-depth distributions of elements in leached layers on two HLW waste glasses after burial in clay; step-scan by SIMS</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A</ce:given-name>
+                  <ce:surname>Lodding</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P</ce:given-name>
+                  <ce:surname>Van Iseghem</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Chalmers University of Technology, SE-41296 Gothenburg, Sweden</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>SCK·CEN, B-2400 Mol, Belgium</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. Tel.: +46-31 134 540; fax: +46-31 134 590</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Two glasses developed as potential radioactive high-level waste (HLW) forms were investigated with respect to long-term corrosion resistance in geological environment. Loaded with simulated reactor waste, including fission products, the SON68 and SM513 HLW glasses were leached for 5 years, buried in Boom Clay at 85°C. The results were evaluated by quantitative secondary ion mass spectrometry (SIMS), using a step-scan technique yielding the in-depth concentration profiles of more than 20 relevant elements in successive sub-surface transformed layers to depths of the order of 500 μm. The observed elemental kinetics provided experimentally convincing evidence of a predominantly selective-substitutional leaching mode in both glasses. The rate of corrosion and element depletion in SON68 (a Cogéma type glass) was found to be by ca 20–40% slower than in SM513 (Pamela-type). In the reacted layers of both glasses, `mobile' elements (e.g., Li, Cs, B) were practically eliminated, but also Si was significantly depleted, while more `inert' elements (e.g., Al, Zr, Cr) remained essentially preserved in the residual network of the `gel'.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="idt">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>K01</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>C04</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>V02</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>W01</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>E06</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>S09</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Radioactive waste management in several countries is considering reprocessing of the spent reactor fuel, and the subsequent vitrification of especially the high level-waste (HLW) <ce:cross-refs refid="BIB1 BIB2">[1,2]</ce:cross-refs>. The development of optimal vitreous waste forms for long-term disposal in different geological environments requires careful study of the rates of corrosion (leach-abilities) in glasses of different compositions. Particularly, the knowledge is desired of the mobilities of different elements (vitrified waste as well as original glass network constituents) during the interaction of the waste form with the leaching environment.</ce:para>
+                  <ce:para view="all">During recent years, a convenient and rewarding method for a quantitative study of such leaching parameters has become available in secondary ion mass spectrometry (SIMS) <ce:cross-refs refid="BIB3 BIB4">[3,4]</ce:cross-refs>. The technique has been specially modified to allow the study of elements, even at very low concentrations, in insulating materials such as glasses, ceramics and biological mineralized tissues <ce:cross-ref refid="BIB5">[5]</ce:cross-ref>. In leached HLW glasses, the distribution of practically all relevant elements throughout and beneath the corrosion layers can be charted rapidly and quantitatively.</ce:para>
+                  <ce:para view="all">The chief application of SIMS to waste form dissolution is the recording of elemental in-depth concentration profiles from the surface, through interacted sub-surface layers, into the unaffected bulk <ce:cross-refs refid="BIB3 BIB5">[3,5]</ce:cross-refs>. Usually hitherto, the corroded layers after long-term leaching have extended to some 0.1–10 μm in depth; such profiles were recorded by SIMS in ca 10–60 min, employing `head-on' ion bombardment of the specimen surface, gradually sputtering off successive sub-surface layers under simultaneous elemental analysis of the emitted secondary ions. However, for HLW glasses reacted with Boom Clay (which is the candidate host rock studied in Belgium) the affected layers are often found to extend into considerably greater depths, of the order of 10<ce:sup loc="post">2</ce:sup>–10<ce:sup loc="post">3</ce:sup> μm. The recording of a `head-on' type profile in such a case would require several hours, or even days, of sputtering. Another problem typically encountered in specimens leached in Boom Clay is that the relatively thick corroded layers tend to `peel' off from their substrate, and the residual small islets of reaction products may be difficult to localize by the sputtering beam. Consequently, a `step-scan' mode of profiling <ce:cross-ref refid="BIB5">[5]</ce:cross-ref> has lately been adopted for glasses leached by long-term burial in Boom Clay. A section is cut at 30° to specimen surface through a microscopically identified residual portion of the corroded layer. The focused primary ion beam is directed to successive points on the section, at step distances of the order of 5–20 μm. At each point the dwelling time of the bombardment may be adjusted so as to yield optimal counting statistics for the secondary ions even of very dilute elements. This `step-scan' mode of profiling may therefore be considered as more sensitive than the `head-on' mode, while the depth resolution remains adequate for relatively deep corrosion layers. Another advantage of the step-scan mode is the direct and precise determination of the depth scale even throughout the leached-out, porous, layer in the glass (β-zone, see <ce:cross-ref refid="SEC1">Section 3</ce:cross-ref>). The depth scale assessment in head-on profiling requires empirical or semi-arbitrary assessment concerning the enhancement of the rate of sputter erosion due to porosity <ce:cross-refs refid="BIB3 BIB5">[3,5]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">In the present paper, the potentialities of SIMS step-scan elemental profiling are demonstrated and used to supply new, confidently based, information on the dissolution mechanisms in two types of HLW glasses leached by long-term burial in Boom clay within the CERBERUS in situ test <ce:cross-ref refid="BIB6">[6]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental details</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Test material</ce:section-title>
+                     <ce:para view="all">The HLW glasses selected for this study were SON68 (Cogéma type) and SM513 (Pamela type). For their compositions, see the `<ce:italic>c</ce:italic>
+                        <ce:inf loc="post">bulk</ce:inf>' columns in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>. Both types have been frequently discussed from different points of view as prospective matrices for waste immobilization. The present specimens for SIMS profiling has been exposed during 5 years to Boom Clay at 85°C within the Belgian CERBERUS burial project <ce:cross-refs refid="BIB6 BIB7 BIB8">[6–8]</ce:cross-refs>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Analyzing procedure</ce:section-title>
+                     <ce:para view="all">A modified version of a Cameca 3F/4F secondary ion micro-analyzer <ce:cross-refs refid="BIB5 BIB9">[5,9]</ce:cross-refs> was employed. SIMS step-scan type in-depth profiling was performed on glass sections cut at 30° angle to the leached surfaces. 20–24 elements were recorded simultaneously as selective and quantifiable mass spectra, under the following analytical conditions:<ce:list>
+                           <ce:list-item>
+                              <ce:label>•</ce:label>
+                              <ce:para view="all">
+                                 <ce:italic>Primary ions</ce:italic>: 0<ce:sup loc="post">−</ce:sup>; beam current ca 200 nA, accelerating voltage 12 kV; probe diameter 50 μm, raster 75 μm, step length 25 μm.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item>
+                              <ce:label>•</ce:label>
+                              <ce:para view="all">
+                                 <ce:italic>Secondary ions</ce:italic>: Positive. Sampling time per mass number in each spectral cycle: 1 s. Analyzed area: 30 μm diameter.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item>
+                              <ce:label>•</ce:label>
+                              <ce:para view="all">
+                                 <ce:italic>Chief assets (approximated figures)</ce:italic>: In-depth resolution ca 10 μm. Limits of quantitative detection (depending on element) ca 10<ce:sup loc="post">−2</ce:sup>–10<ce:sup loc="post">2</ce:sup> ppm.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="SEC1" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>In-depth concentration profiles; characteristic sub-surface zones</ce:section-title>
+                     <ce:para view="all">For each of the two glasses several sets of profiles were recorded. The elemental ion currents of the mass spectra were quantified to the respective mole concentrations according to an earlier described <ce:cross-refs refid="BIB4 BIB5">[4,5]</ce:cross-refs> procedure. <ce:cross-refs refid="FIG1 FIG2">Figs. 1 and 2</ce:cross-refs>
+                        <ce:float-anchor refid="FIG1"/>
+                        <ce:float-anchor refid="FIG2"/> typify the in-depth distributions of concentrations as obtained, respectively, for SON68 and SM513. For each set of profiles, normalization was made on the semi-arbitrary assumption of Al as an element nearly `inert' to leaching. The acceptability of such premises has been discussed in earlier work <ce:cross-refs refid="BIB5 BIB6">[5,6]</ce:cross-refs>.</ce:para>
+                     <ce:para view="all">The figures exhibit the characteristic features of the `selective' leaching behavior <ce:cross-refs refid="BIB4 BIB10">[4,10]</ce:cross-refs>. In the reacted glasses successive sub-surface layers may be distinguished; in recent publications <ce:cross-refs refid="BIB1 BIB5 BIB6 BIB10">[1,5,6,10]</ce:cross-refs>, these are conveniently alluded to as `precipitation zones' <ce:italic>α</ce:italic> and `depletion zones' β. The <ce:italic>α</ce:italic>
+                        <ce:inf loc="post">1</ce:inf> and <ce:italic>α</ce:italic>
+                        <ce:inf loc="post">2</ce:inf> sub-zones are usually understood <ce:cross-refs refid="BIB1 BIB4">[1,4]</ce:cross-refs> as produced by reactions between the leached-out constituents and the outside fluid. Of the three depletion sub-zones, β<ce:inf loc="post">0</ce:inf> (`main depletion layer'), β<ce:inf loc="post">1</ce:inf> (`gradient layer') and β<ce:inf loc="post">2</ce:inf> (`diffusion layer'), β<ce:inf loc="post">0</ce:inf> (sometimes also referred to as `gel') is of particular significance in the evaluation of elemental leaching kinetics. It constitutes a residue of the near-surface portion of the original specimen, selectively depleted in `mobile' elements such as boron and the alkalis. The loss of such elements, and of elements of intermediate leachability, is partially compensated by an influx of hydrogen and other abundant components of the leachant. Of the other two, more moderately depleted sub-layers, β<ce:inf loc="post">1</ce:inf> contains the main reaction front of the glass in interaction with the leachant, and β<ce:inf loc="post">2</ce:inf> is chiefly characterized by initial substitutions of mobile elements by hydrogen.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Reacted depths and element concentrations from the SIMS profiles</ce:section-title>
+                     <ce:para view="all">In <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="TBL1"/> is listed the effective thickness of the depletion layers, mean of observation from three sets of profiles for each glass. These SIMS results are compared to reacted depths in the same specimens as observed by electron probe (EPMA) imaging of the glass cross-sections <ce:cross-ref refid="BIB8">[8]</ce:cross-ref> and as calculated from parallel mass loss measurements. The density assessment for this calculation was based on the chemical composition of the gel (see <ce:italic>c</ce:italic>
+                        <ce:inf loc="post">β0</ce:inf> column in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="TBL2"/>), and could be approximated to ca 50% of the bulk density for SON68, ca 40% for SM513.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref> presents the concentrations after exposure (each a mean from three profiles) in the major depletion layer β<ce:inf loc="post">0</ce:inf>, as well as the fractional extent of the concentrations after 5 years' leaching related to those in unleached glass. All concentrations in the gel are expressed in mole percent of the sum of cations in pre-burial glass.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Discussion</ce:section-title>
+                  <ce:para view="all">From <ce:cross-refs refid="FIG1 FIG2">Figs. 1 and 2</ce:cross-refs> as well as <ce:cross-refs refid="TBL1 TBL2">Tables 1 and 2</ce:cross-refs> it may be seen that the two HLW glasses, although somewhat different in elemental compositions, exhibit essentially similar long-term leaching tendencies in interaction with Boom Clay at 85°C.</ce:para>
+                  <ce:para view="all">In regard of the depth of the corroding attack, the present results for both glasses agree satisfactorily with those computed from earlier weight loss measurements <ce:cross-refs refid="BIB6 BIB11">[6,11]</ce:cross-refs> when related to the same temperature. Corrosion is found to extend somewhat deeper (by some 25%) in SM513 than in SON68. Analogously (see <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>) the total amount of cations leached from SM513 is greater than that from SON68, and the loss of the main network element (Si) from the Pamela-type glass is correspondingly greater than from the Cogéma glass. Thus although the leachabilities of the two HLW glasses are seen to be of the same order of magnitude, SON68 shows better resistance to corrosion in Boom Clay environment than does SM513.</ce:para>
+                  <ce:para view="all">The time dependence of the extent of corrosion of HLW glasses in Boom Clay has been studied particularly by weight-loss measurements <ce:cross-refs refid="BIB6 BIB7 BIB8">[6–8]</ce:cross-refs>. Leaching was performed under laboratory conditions for exposures up to 2 years, and in geological burial between 2 and 7.5 years. The results for SON68 and SM513, with the weight-loss figures recalculated (via density of gel) to respective thickness of corroded layers (β<ce:inf loc="post">0</ce:inf>+β<ce:inf loc="post">1</ce:inf>) are illustrated in <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="FIG3"/>.</ce:para>
+                  <ce:para view="all">For SON68 the leached depth was found to grow initially about proportionally to root of exposure time (∼<ce:italic>t</ce:italic>
+                     <ce:sup loc="post">1/2</ce:sup>), which implied a diffusion-steered substitutional mode of leaching. At longer duration (beyond ca 1 year), however, an accelerated process suggested itself, the rate of attack gradually tending to a linear time dependence (∼<ce:italic>t</ce:italic>
+                     <ce:sup loc="post">1</ce:sup>), which rather indicates a congruent leaching mechanism <ce:cross-ref refid="BIB7">[7]</ce:cross-ref>. Corresponding weight-loss results for SM513 are available only from the long-term burial studies. Although the present results (including their indications of difference in performance between the two glasses) show acceptable agreement with the weight-loss data as well as with earlier SIMS data, some anomalies could be suspected in the behavior of SM513 at extended duration of burial in clay: the extent of attack appeared to increase very fast with time (about ∼<ce:italic>t</ce:italic>
+                     <ce:sup loc="post">4</ce:sup>). As an explanation it has been suggested <ce:cross-ref refid="BIB11">[11]</ce:cross-ref> that the SM513 glass in interaction with Boom Clay exhibits secondary phase formation, which might affect the interpretation of the weight loss results. SIMS and EPMA studies have tended to corroborate such a hypothesis.</ce:para>
+                  <ce:para view="all">In purely selective-substitutional mode of leaching, `mobile' elements (among which, in the Boom Clay environment, are predominantly boron and the alkali metals) are avidly removed by the leachant, while `network forming' elements, such as Si or Al, remain preserved in the residual network of the gel <ce:cross-ref refid="BIB1">[1]</ce:cross-ref>. Such behavior has been frequently observed for HLW glasses leached in other burial environments <ce:cross-refs refid="BIB4 BIB10">[4,10]</ce:cross-refs>. Here, however, it is evident that at prolonged exposure to Boom Clay not only the `mobile' elements are lost, but even the main network component of both glasses, Si, becomes clearly impoverished. This seems likely to cause a gradual transition from purely selective to a congruent mode of leaching. A long-term extrapolated prediction of the progress of corrosion should therefore probably be based on a linear proportionality to exposure time, rather than a <ce:italic>t</ce:italic>
+                     <ce:sup loc="post">1/2</ce:sup> relationship. On the other hand, the gradual cooling of the repository, and the corresponding decrease in the rate of the dissolution reaction, should also be taken into account in such a prediction.</ce:para>
+                  <ce:para view="all">When comparing the behavior of the two glasses, it appears (in qualitative agreement with earlier experience <ce:cross-refs refid="BIB2 BIB4 BIB6">[2,4,6]</ce:cross-refs>) that increasing content of Al up to a point tends to enhance resistance to leaching, whereas greater concentrations of alkalis accelerate dissolution. The qualitative difference in performance between SON68 and SM513 might conceivably also be influenced by the presence of F and S in the latter, possibly contributing to the formation of unstable surface phases.</ce:para>
+                  <ce:para view="all">As for the different elemental tendencies in leaching, <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref> shows a distinct category of mobile, fast-leaching, elements (→→→). Another easily discernible group is that of relatively `inert' elements <math altimg="si6.gif">(*<ce:hsp sp="0.35"/>*<ce:hsp sp="0.35"/>*)</math>, showing good resistance to leaching and essentially preserved in the residual gel network. Other elements may be classified as of intermediate leachabilities. Counted in the first group may be such elements which in the β<ce:inf loc="post">0</ce:inf> layer are reduced to 5% or less of their bulk concentrations. According to the Table, this includes Li, Na, Cs, B (in SM513 also Mo, Mn, F and S, not present in the other glass). The inert group, arbitrarily defined as elements preserved in the gel to 80% or more of the original concentration, includes Al, Ti, Zr, Cr and Th, probably also P. Within the group of `intermediate' elements we note Si, Fe, but also U and the rare elements Nd and Ce. This information on U and the rare earth elements may be an indication for the leaching behaviour of the four-(Np, U) and tri-(Pu, Am) valent actinides in the fully active glass when in contact with the clay.</ce:para>
+                  <ce:para view="all">A particularly significant feature in both glasses, as mentioned above, is that Si belongs to the intermediate group, in distinction to the usual behavior of most HLW glasses in other leaching environments. The sizable leach-out tendency of Si, together with the rapid growth of the corroded layer (by about an order of magnitude faster than in other geological repositories) appears to be distinctive features of glasses buried in clay <ce:cross-ref refid="BIB4">[4]</ce:cross-ref>. Nevertheless, the Boom Clay rock underneath SCK·CEN appears to be a promising host repository for the vitrified high-level waste. Among the advantages one may quote the low diffusive penetrability of clay, along with its homogeneity and plasticity.</ce:para>
+                  <ce:para view="all">It may be noted that <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref> lists nearly 30 elements, some of them in concentrations as low as in the 10<ce:sup loc="post">−3</ce:sup>% range. Thanks to the sensitivity of the step-scan SIMS mode of profiling, these minor elements could be identified and defined free of confusing analytical scatter.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">
+                     <ce:list>
+                        <ce:list-item>
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">A SIMS step-scan technique has been used to record elemental in-depth concentration profiles in corroded layers on two HLW glasses, SON68 (Cogéma type) and SM513 (Pamela type). The glasses had been subjected to 5 years' burial in Boom Clay at 85°C. The results of profiling were compatible with earlier long-term leaching studies in clay environment; however, the introduction of the step-scan mode of analysis allowed improved precision and reproducibility.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">Although in most respects the two glasses displayed qualitatively similar behavior, SON68 showed better resistance to leaching than SM513. The rate of leaching in SM513 is by about 30% faster than that in SON68. In SM513 the residual total of cations in the leached-out gel (β<ce:inf loc="post">0</ce:inf> layer) is only ca 25% of that in unleached bulk glass, compared to ca 37% in SON68. In both glasses the major network forming element, silicon, is found to be significantly impoverished in the β<ce:inf loc="post">0</ce:inf> layer, in SON68 to about 60%, in SM513 as low as about 40% of the bulk Si concentration.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>•</ce:label>
+                           <ce:para view="all">Similar to earlier experience, a `selective-substitutional' mode of leaching is manifested by nearly complete elimination of mobile elements (here particularly B, Li, Cs) from the gel layer, while relatively inert elements remain essentially preserved in the reacted glass. However, the sizable loss of the main network element (Si) suggests that in Boom Clay environment a competing `congruent' leaching mechanism also becomes operative at extended exposure times. This is corroborative to implications from weight-loss studies of the time dependence of leaching attack on glasses in clay environment.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">The expert ion probe profiling work, performed by Dr H. Odelius (CTH, SIMS laboratory), is hereby acknowledged as essential throughout this project. We are also indebted to Dr U. Södervall (CTH) and to Ms R. Vercauter (SCK·CEN) for interest and discussions.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>G.G. Wicks, in: D.E. Clark, B.K. Zoitos (Eds.), Corrosion of Glass, Ceramics and Ceramic Super-Conductors, Noyes, Park Ridge, NJ, 1992 (Chapter 7)</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>T. McMenamin (Ed.), In Situ Testing of Radioactive Waste Forms and Engineered Barriers, CEC-EUR 15629 EN, 1993</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Lodding, D.E. Clark, E.U. Engström, H. Odelius, M. Schuhmacher, B.K. Zoitos, G.G. Wicks, in: P. Vicenzini (Ed.), Ceramics Today – Tomorrow's Ceramics, Elsevier, Amsterdam, 1991, p. 3121</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Lodding, P. Van Iseghem, L. Werme, in: D.E. Clark, D.C. Folz, J.H. Simmons (Eds.), Surface-Active Processes in Materials, Ceram. Trans. 101 (2000) 123</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Lodding, in: D.E. Clark, B.K. Zoitos (Eds.), Corrosion of Glass, Ceramics and Ceramic Super-Conductors, Noyes, Park Ridge, NJ, 1992 (Chapter 4)</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Lodding, P. Van Iseghem, in: W.M. Murphy, D.A. Knecht (Eds.), Scientific Basis for Nuclear Waste Management XIX. Mater. Res. Soc. 412 (1996) 229</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>P. Van Iseghem, E. Valcke, B. Kursten, A. Lodding, in: Proceedings of the 7th International Conference on Radioactive Waste Management and Environmental Remediation (ICEM 99), September 26–30, 1999, Nagoya, Japan</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>L. Noynaert (Ed.), Heat and Radiation Effects on the Near Field of a HLW or Spent Fuel Repository in a Clay Formation (CERBERUS project), EUR 19125, 2000</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>A. Benninghoven, F.G. Rüdenauer, H.W. Werner, Secondary Ion Mass Spectrometry, Basic Concepts, Instrumental Aspects, Applications and Trends. Chemical Analysis Series, vol. 86, Wiley/Interscience, New York, 1987</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.G</ce:given-name>
+                                 <ce:surname>Wicks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Lodding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A</ce:given-name>
+                                 <ce:surname>Molecke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>XVIII-9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>32</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>P. Van Iseghem, in: GLASS-Scientific Research for High Performance Containment, CEA Valrhô Summer Session Proceedings, 1998, p. 535</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

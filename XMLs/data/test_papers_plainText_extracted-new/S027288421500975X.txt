@@ -1,0 +1,790 @@
+Title:
+Effect of codeposition parameters on the hardness and adhesion of TiVN coatings
+
+Abstract:
+A systematic study of the effect of PVD cathodic arc deposition parameters on TiVN coating performance was carried out to analyze the structure, surface morphology, chemical composition, hardness and adhesion of these coatings. The effects of four factors including operation pressure, substrate bias voltage, and the currents applied to the Ti target and to the V target were evaluated. The investigated coatings were analyzed by X-ray diffraction, scanning electron microscopy, energy dispersive spectroscopy, adhesion tests (i.e., scratch tests) and Vickers microhardness tests. The results of this study showed that the current applied to the V target was the factor having the greatest effect on TiVN coating hardness, while the bias voltage applied to the substrate had the greatest effect on adhesion strength. The obtained TiVN coatings were shown to have good hardness values near 15GPa and high adhesion critical loads near 113N.
+
+Keywords:
+C. Hardness
+Adhesion
+TiVN coating
+
+Acknowledgements:
+Acknowledgments:
+Acknowledgments
+               The authors would like to acknowledge the National Science and Technology Council of Mexico, CONACYT for supporting this research under Grant no. 38467U. And also are very grateful to M.Sc. M. Santisteban Abad for his valuable contribution to this research.
+
+Introduction:
+Ternary nitrides such as TiVN have gained attention as substitutes for the binary nitride TiN in many applications, including cutting tools, wear protection and machinery components [1]. Reports in the literature have shown that adding V to TiN leads to an improvement in mechanical and tribological properties [2–4]. The ternary TiVN system is formed due to the total miscibility of the Ti–V system [5], which creates a solid solution while preserving the crystalline structure B1 of TiN. Such miscibility can be attributed to the small difference between the atomic radii of Ti (1.36Å) and V (1.25Å) [6]. The vanadium content of the TiVN coatings influences the hardness of the coating [7] and reduces its friction coefficient [8,2]. Thus, combining B1 transition metal nitrides such as TiN and more ductile bcc metals such as V can yield increased plasticity rates while retaining hardness characteristics [9]. This behavior is associated with a pronounced electronic arrangement on the metal stacking that allows a selective response to strain and shear deformations of the crystal [9]. Such a charge distribution is induced in the crystal by the substitution of Ti with V atoms and by the effect of weaker V–N bonds. Ternary TiVN exhibits hardness values comparable to those of TiN as well as enhanced ductile characteristics [9]. These properties increase life and reduce wear [5], making these coatings attractive for industrial applications and particularly for cutting tools.
+Most studies of the effects of deposition parameters on TiVN coating properties investigate one or two parameters and kept the rest fixed. For instance, Knotek et al. [6] modified the coating composition of the TiVN magnetron-sputtered thin films, by altering the TiV target composition (Ti87V13, Ti71V29, Ti48V52), and the partial nitrogen pressure P
+                     N2/P
+                     Ar (1.5–9%), while the bias voltage was kept fixed at −60V. The results showed the highest hardness (3100HV) for the coatings at 52at% V and P
+                     N2/P
+                     Ar ~3%, and the best adhesive strength, 100N at 29at% V and P
+                     N2/P
+                     Ar 
+                     ~5%. Deeleard et al. [10] tailored the coating composition of the TiVN magnetron co-sputtered thin films altering the V sputtering current I
+                     V: 0.4,0.6,0.8 and 1.0A, keeping the Ti sputtering current (I
+                     Ti) constant at 0.6A without biasing. The results showed that the lattice parameter decreased, while the crystallite size and RMS roughness increased by increasing the V sputtering current. Ouyang et al. [2] investigated the TiVN cathodic arc ion plating thin films deposited with a Ti target and a V target alternately at fixed currents of 67 and 133A respectively and nitrogen pressures of 1–3Pa, while the bias voltage was kept fixed at −10V. The results showed that the friction coefficient varied between 0.53 and 1.08 depending on the thermal oxidation temperature. It was 0.81 at room temperature, and increased to 1.01, 1.08 and 1.06, with the increase in temperature at 200, 300 and 400°C, respectively, while, at 500, 600 and 650°C decreased to 0.68, 0.55 and 0.53 respectively. The low friction coefficient exhibited at 650°C was attributed to the formation of aV2O5 and TiO2 oxide layer on the surface. At 700°C, the friction coefficient increased to 0.61 due to the surface melting phenomenon. Yeung et al. [11] modified the grain size and roughness of the TiVN magnetron co-sputtered thin films using different partial nitrogen pressures, P
+                     N2: 0.053–0.128Pa. The results showed that by decreasing the nitrogen deposition pressure, the grain diameter of the coatings decreased, which led to higher hardness. The coatings hardness was 13.6–18.6GPa. Ichimiya et al. [7] tailored the composition of the TiVN cathodic arc ion plating thin films using targets with different V/(Ti+V) atomic ratios from 0 to 1 with a nitrogen atmosphere pressure in the range of 2–5Pa and a fixed bias voltage of −50V. The results showed that the best coating hardness was 2600HV, at around V/(Ti+V)=0.25−0.50, and the best friction coefficient was of 0.51 at 600°C. Ouyang et al. [12] modified the composition of the TiVN cathodic arc ion plating thin films adjusting the Ti target and the V target alternately with a total arc current power applied of 200A. The pressure and the bias voltage were kept fixed at 0.67Pa and −10V respectively. The results showed friction coefficients between 0.68 and 1.08 at room temperature, depending on load and frequency. The friction coefficient gradually decreased from 0.81 to 0.68, with the load increasing from 20 to 70N, and gradually increased from 0.73 to 1.08 with the frequency increasing from 6 to 50Hz. Hasegawa et al. [1] studied TiVN cathodic arc ion plating thin films deposited with Ti–V alloy cathodes at a fixed current of 100A, P
+                     N2 of 3.3Pa and bias voltage of −20V. The results showed hardness of 2400HV.
+It must be pointed out that the simultaneous variation of all variables (operation pressure, substrate bias voltage and currents applied to targets of Ti and V) has not been studied completely. These parameters as a whole modify the erosion rate of the cathodes, the mean free path of the eroded species and their kinetic energy consequently playing roles that jointly have a great effect on TiVN coatings properties. In this study, TiVN coatings were deposited on AISI D2 steel by PVD arc, and the effect of these different deposition variables, such as operating pressure (P
+                     o), bias voltage applied to the substrate (V
+                     b), current applied to the Ti target (I
+                     Ti) and that applied to the V target (I
+                     V) on the TiVN coatings structure, composition, deposition rate (V
+                     t), hardness (H
+                     f) and adhesion critical load (F
+                     c) were studied. A Taguchi orthogonal array (TOA) experimental design was proposed to perform this study because of each experiment׳s extended duration requirements.
+
+Experimental details:
+The TiVN coatings were produced using the PVD cathodic arc deposition method with two different metal targets: titanium and vanadium. The effects of four deposition parameters including operation pressure (P
+                     o), substrate bias voltage (V
+                     b), and the currents applied to the cathodes of titanium and vanadium (I
+                     Ti and I
+                     V, respectively) were studied. The parameters values were selected within an interval in which optimal conditions were reported and were recorded at three levels (e.g., 1, 2 and 3) from the lowest, middle and highest levels, respectively, as shown in 
+                     Table 1. Deposition tests were performed using the Taguchi orthogonal array (TOA) experimental design [13], which conducts balanced (i.e., orthogonal) experimental combinations, reducing experimentation time. A TOA design studies the entire parameter space with the shortest possible matrix of combinations; all parameters are varied at the same time, and their effects and performances are studied simultaneously to determine which factors have more or less influence in optimizing the results. In this study, the L934 orthogonal array with nine tests and three replicates was used to analyze the significance of the four independent factors at three different levels (e.g., 1–3), as shown in 
+                     Table 2; in this table, the columns show factor levels, and the rows identify the experiments conducted. The loss function, which is normally applied in this method [13], was transformed into a signal-to-noise ratio (S/N) and then used to measure the coatings׳ performance characteristics. These coating characteristics were evaluated with response variables (RV) such as deposition rate, vanadium and nitrogen content, grain size, RMS roughness, hardness and adhesion strength. These data were analyzed using the S/N ratio with plots of the main effects. An analysis of variance (ANOVA) was performed for the average values of the S/N ratios (η) to determine the contribution percentage of each parameter. The values of the remaining parameters involved in the process such as the deposition time (20min), the substrate temperature (450°C) and the base pressure (10−4
+                     Pa) were kept constant to elude the control of these factors and reduce the number of tests required.
+TiVN coatings were deposited onto AISI D2 steel discs substrates that were 1.58cm in diameter, 0.3cm thick and cut from an AISI D2 steel bar. These discs were polished with abrasive SiC paper grades 320, 600, 1200, 2400 and then with 1 and 3µm diamond paste to produce a mirror finish. After polishing, the samples were cleaned with acetone and ethanol in ultrasound. For the adhesive strength tests (i.e., scratch tests), tungsten carbide (WC–Co) substrates of 2.5×1.9×0.6cm3 (i.e., length, width and thickness) were used. The chemical composition of the AISI D2 steel was obtained by optical emission spectroscopy (OES) using a spark spectrometer SPECTRO model SPECTROLAB MII. The carbon and sulfur content were obtained by a LECO CS-244 elemental analyzer. The elements content of the carbide substrates were determined by an energy-dispersive X-ray analysis (EDS). These substrates were polished with a 1 and 3µm diamond paste and cleaned with acetone in ultrasound.
+The lattice parameters and crystal structures of the TiVN coatings were determined by X-ray diffraction (XRD) using a grazing incidence angle of 3° to avoid the substrate interference in the 2θ range from 10° to 80° with a scanning rate of 1.2°/min at 35kV and 40mA. A Bruker D8 Advance X-ray diffractometer was used with a CuKα radiation source (λ=1.54056Å). The crystallite size was determined from Scherrer׳s formula. The average root-mean-square (RMS) surface roughness was obtained by contact atomic force microscopy (AFM) using a Nanoscope E Veeco Digital Instruments in a scanning area of 1×1µm2. The thickness of the coatings was measured from the cross-section of the TiVN coated steel samples using a Philips XL30ESEM scanning electron microscope (SEM). The element contents of the TiVN coatings were determined by EDS on the cross section of the TiVN coated steel samples. An EDAX Genesis analyzer was coupled to SEM to perform the EDS analysis.
+The coatings׳ microhardnesses were measured by conventional micro-Vickers testing with a diamond indenter (Vickers) on a Wilson Tukon Model 300 FM microhardness tester. Indentations were performed using a range of fixed loads of 100, 50, 25, 10, 5 and 2g, to describe the hardness of the coating using the Korsunsky model [14]. Seven indentations were performed for each load distributed in the sample, where dimensions were measured from their SEM images.
+The coatings scratch adhesion testing was performed using a standard microscratch tester with a Rockwell C conical diamond indenter with an angle of 120° and a spherical tip radius of 200µm. The tests were performed using a progressively increased load up to detachment of the coating. Normal forces (F
+                     N) from 0N up to 145N were applied to the coated surface at a rate of 5N/min and at a sample displacement rate of 0.744mm/s. F
+                     N values were recorded with the tangential force (F
+                     T) to determine the critical adhesion strength. Before each test, the surface of the indenter was cleaned with ethylic alcohol. For these tests, the TiVN coatings were deposited onto WC–Co substrates to reduce the induced stresses due to substrate deformation on the critical load value associated with coating removal.
+
+Results:
+3.1
+                     Substrate chemical composition
+                     The analyzed chemical composition of AISI D2 steel substrates was 1.57wt% C, 0.286wt% Si, 0.256wt% Mn, 0.0067wt% S, 11.040wt% Cr, 0.755wt% Mo, 0.149wt% Ni, 0.710wt% V, 0.026wt% W and 85.19wt% Fe. The analyzed elemental chemical composition of carbide WC–TiC–Co (i.e., WC–Co) substrates was 64.16wt% W, 18.53wt% C, 15.64wt% Ti, and 1.67wt% Co.
+3.2
+                     Orthogonal arrangement of deposition parameters
+                     A Taguchi orthogonal arrangement (TOA) L934 design was used. For the experimental design, all four parameters (e.g., A-P
+                        o, B-V
+                        b, C-I
+                        Ti, D-I
+                        V) at their three levels (e.g., 1–3) were varied at the same time, and their effects were studied simultaneously to determine which factors have more or less influence on selected response variables. The S/N ratio was the quality indicator by which the effect of changing a particular deposition parameter on the performance of the process was evaluated. In general, a better signal was obtained when the noise was smaller; thus, a larger S/N ratio yields better results. The resulting characteristics of the coatings evaluated as response variables (RV) included the hardness (H
+                        f), the adhesion critical load (F
+                        c), the vanadium (X) and nitrogen (Y) fractions, the grain size (τ) and the RMS roughness (R). These resulting data were analyzed with main effects plots for S/N ratios, which indicated the general trend of influence of each parameter and the optimum conditions for each RV. In these plots, higher values of hardness and adhesion strength were considered to be better because a harder coating and a coating having greater adhesion are of higher quality; conversely, smaller values of RMS roughness and grain size and lower V content were considered to be better, while higher N content was considered to be better because the best hardness results (shown later) were obtained for coatings exhibiting small roughness, small grain size, low V and high N contents. An analysis of variance (ANOVA) was performed for the average values of the S/N ratios (η) to determine the contribution percentage of each operation parameter.
+3.3
+                     Coating structure
+                     
+                        
+                        Fig. 1 shows X-ray diffractograms for the investigated coatings (I1–I9). Reference lines denote the face-centered cubic (fcc) B1 structure of TiN and VN from JCPDS 87-0632 and 89-5265 cards, respectively. As shown in Fig. 1, regardless of the operating conditions, all investigated coatings showed TiN and VN fcc B1 crystalline structure reflections and exhibited a stronger (111) preferred orientation. Reflections associated with (200), (220) and (311) planes were also detected in all coatings.
+                     As shown in Fig. 1, the diffraction peak associated with the (111) plane for the I3, I5, I6, I8 and I9 coatings XRD patterns shifted to higher 2θ values, which can be attributed to the small distortion in the lattice parameter caused by V atoms due to the small difference in their atomic radii compared to Ti [15]; V atoms (radius=1.25Å) take the position of Ti atoms (radius=1.36Å) and produce a small distortion of the lattice. Nitrogen, whose atomic radius (0.74Å) is smaller, occupies the interstices. Changes in hardness [6], and in optical properties [15], as well as enhancement of wear resistance [5] and reduction of friction coefficient [4,16] can be associated with these lattice distortions. Additionally, it was found that coatings deposited at low V
+                        b level 1 (I1, I4 and I7) exhibited higher intensity (200) plane reflections regardless of the rest of the deposition parameters levels.
+                     The lattice parameter (a) values calculated for each investigated coating are listed in 
+                        Table 3. In this table, the coatings׳ a values are shown to be near to the a values of TiN (4.225Å, JCPDS 87-0632) and VN (4.140Å, JCPDS 89-5265) or even between them. Both TiN and VN nitrides have an fcc B1, NaCl type structure. Therefore, by introducing V into the TiN binary system, a ternary system (TiVN) is formed due to the complete miscibility of the Ti–V system [5], which has the prevailing characteristic structure of an NaCl type of TiN. For all V and Ti contents investigated (see Table 3), the formation of the TiVN phase is expected according to the TiVN system phase diagram [17]. However, the a values of the I1, I2 and I4 coatings (4.20–4.24Å) are near that of TiN, while those of the I3 and I8 coatings (4.11–4.13Å) are near that of VN. For the I5–I7 and I9 coatings, the a values (4.15–4.16Å) are in the range of those proposed for a TiVN solid solution (4.15–4.18Å) by other authors [10].
+                     The grain size τ, shown in Table 3, was evaluated from the TiVN coatings׳ XRD reflections and calculated by Scherrer׳s equation (τ=1.448/β cos
+                        θ), where θ is the diffraction angle of the principal peak and β is the peak width at the half height of the maximum peak intensity (FWHM). The associated reflections of the (111) plane were used for this analysis. The grain size measured for the I1–I9 coatings was 17–34nm (Table 3); the lowest value (17nm) was obtained for the I9 and I4 coatings, and the largest (34nm) for the I1 coating.
+                     The main effect plots for the S/N ratios where smaller grain size values were preferable and the ANOVA statistical analysis were obtained. The resulting contribution percentage of each factor on the grain size obtained from the ANOVA analysis is summarized in Table 5.
+                     It is worth pointing out that the full results of the statistical analysis were only shown for the hardness (H
+                        f) and adhesion critical load (F
+                        c) response variables (
+                        Table 4). For the remaining response variables including the grain size, only the resulting contribution percentage of each factor on each response variable obtained from the ANOVA analysis are presented and are summarized in 
+                        Table 5. Table 5 presents the optimum level and contribution of each studied variable on the coating characteristics. Superscript a (a) identify a parameter that has the greatest contribution, and superscript b (b) one that has the next most significant influence.
+                     As shown in Table 5 the deposition parameter that has the highest contribution to reducing grain size values is I
+                        Ti (~ 46%), followed by V
+                        b (~ 19%), then by I
+                        V (18%) and finally by P
+                        o (17%). Through the analysis of the main effect plots for S/N ratios, it was determined that the experimental levels that yield the most favorable τ values are a P
+                        o level of 2, a V
+                        b level of 3, an I
+                        Ti level of 2 and an I
+                        V level of 1.
+3.4
+                     Coating elemental composition
+                     The elemental chemical composition of the investigated coatings is given in Table 3. As shown in Table 3, the chemical analysis confirms the presence of Ti, V and N in all coatings. Vanadium (X=V/(Ti+V)) and nitrogen fractions (Y=N/(Ti+V)) were determined from the atomic percentages of these species in each coating. The lowest vanadium content (3.96at%) was presented by the I9 coating, and the highest (25.48at%) by the I4 and I7 coatings. The nitrogen content in all investigated coatings exhibited small variations: the minimum (~49 at%) was presented by the I3 coating and the maximum percentage (56at%) by the I9 coating.
+                     The main effect plots for S/N ratios and the ANOVA results for X and Y are not shown in this paper; however, the contribution percentage of each factor on these variables is presented in Table 5. Considering that the hardest coatings (e.g., I5 and I9) were those that exhibited the lowest V fractions (X≤0.38) and highest N fractions (Y≥1.20), lower V content and higher N content were considered to be better. The analysis of variance indicated that for reducing the V fraction, the variable that has the greater contribution is I
+                        V (~38%), followed by V
+                        b (~26%), then by I
+                        Ti (~19%) and finally by P
+                        o (~17%). For increasing the nitrogen content, these factors are ranked in a decreasing order: P
+                        o (~41%)>I
+                        V (~36%)>V
+                        b (~21%)>I
+                        Ti (~2%).
+                     In addition to I
+                        V, V
+                        b has also been shown to have a significant effect on the coatings׳ V content and V fraction (X). As shown in Tables 1–3, at a V
+                        b level of 1 (e.g., I4 and I7 coatings), the V content in the coatings reached their maximum (25.48at%) regardless of the deposition I
+                        V value (e.g., levels 2 and 3) and the rest of the operation variables. However, when a higher V
+                        b level of 3 was used, I
+                        V had a significant influence on the V content; for instance, when I
+                        V was increased from level 1 up to level 3, V content rose from 3.96at% in the I9 coating up to 24.61at% in the I3 coating regardless of the remaining deposition parameters. Therefore, high V
+                        b levels and low I
+                        V reduce coatings׳ V content.
+                     The nitrogen content in the coatings varied primarily with the P
+                        o level of each test. As shown in Tables 1–3, small N variations were exhibited by coatings deposited at the same P
+                        o level; for instance, the I1–I3 coatings deposited at level 1 exhibit similar nitrogen fractions (Y≈1) while the I4–I6 coatings deposited at level 2 present N fractions of Y≈1–1.2, and the I7–I9 coatings deposited at level 3 exhibit N fractions of Y≈1.1–1.4. Thus, the nitrogen fraction Y exhibited higher values and the greatest variation when coatings were deposited at the maximum level of P
+                        o. Due to the lower affinity of V for N, the increase of V content in a coating resulted in less incorporation of N atoms. For instance, for coatings with V content≤17at% (e.g., I5 and I9), higher N fractions of Y=1.20 and 1.40 are shown, respectively, than for those with V content near 25% (e.g., I3 and I4 with Y≤0.99). These results are consistent with those reported in the literature [10]. In reference to the Ti coating content, the lowest Ti content (21.65at%) was exhibited by I7 and the highest (35.93at%) by I9 coating.
+                     As shown in Table 5, the experimental parameters for reducing vanadium and increasing nitrogen fractions in the TiVN coatings are a P
+                        o level of 3, a V
+                        b level of 3, an I
+                        Ti level of 2 and an I
+                        V level of 1.
+3.5
+                     Deposition rate and thickness
+                     
+                        
+                        Fig. 2 shows a typical SEM image of a coating (in this case, I3׳s) cross section, which shows the thickness (t) of the coating. The thickness values for all I1–I9 coatings are listed in Table 3. As shown in this table, the coating thicknesses were 0.99µm (I9) to 1.93µm (I3). The coating deposition rates V
+                        t (µm/h) determined by the deposition time are also summarized in Table 3. As shown, the highest deposition rate (5.79µm/h) was presented by I3 and the lowest (2.97µm/h) by I9 coating.
+                     The main effect plots for S/N ratios resulting from the design of experiments and the ANOVA results for V
+                        t are not shown; however, calculations were performed by considering a larger V
+                        t value to be better; these results are shown in Table 5. The ANOVA results indicate that the highest contribution percentage on V
+                        t was given by I
+                        V (~ 49%), followed by P
+                        o (~24%), then by V
+                        b (~14%) and finally by I
+                        Ti (~13%). By statistical analysis, it was determined that the optimal levels of each factor to produce the largest TiVN coating deposition rate are P
+                        o at level 1, V
+                        b at level 1, I
+                        Ti at level 3 and I
+                        V at level 3.
+3.6
+                     Coating surface morphology
+                     
+                        
+                        Fig. 3(a) and (b) shows typical surface morphologies for the I2 and I7 TiVN coatings, which exhibited the lowest and highest RMS roughnesses, respectively. The RMS roughness (R) values of all investigated TiVN coatings are given in Table 3. As shown, the roughness values exhibited by the I1–I9 coatings are 2–5nm; only the I4 and I7 coatings exceed these values with a roughness near 8nm.
+                     RMS roughnesses of the I1–I9 coatings were considered as a response variable in the analysis of the design of experiments; a smaller value was considered to be better for this statistical study. The main effect plots for S/N ratios and the ANOVA resulting from the design of experiments for RMS roughness are not shown; however, the contribution percentage of each factor on this response variable is presented in Table 5. The optimal levels of each factor and their contribution percentage are summarized in Table 5. As shown in Table 5, the factor exhibiting the greatest effect on RMS roughness is V
+                        b (77.26%), followed by I
+                        V (8.43%) then by P
+                        o (8.15%) and finally by I
+                        Ti (6.16%). The appropriate levels of each factor to produce the lowest RMS roughness are P
+                        o at level 1, V
+                        b at level 2, I
+                        Ti at level 2 and I
+                        V at level 1.
+3.7
+                     Coating hardness
+                     The I1–I9 coatings׳ hardnesses H
+                        c were calculated using the Korsunsky equation, H
+                        c=H
+                        s+(H
+                        f−H
+                        s)/(1+kβ
+                        2) [14], where H
+                        f is the coating hardness, H
+                        s is the substrate hardness measured independently, and β=δ/t denotes the indentation depth δ normalized with respect to the coating thickness, t. H
+                        f and k are determined by fitting the experimentally determined variation of H
+                        c with β.
+                     
+                        
+                        Fig. 4 shows the hardness (H
+                        c) results for a typical coating (I5) as a function of the relative indenter penetration depth. The experimentally measured values are displayed as points, and the values resulting from the model are displayed as a solid line. When the indentation is performed, both the coating and substrate are affected; a greater contribution of the substrate is produced at higher loads while an increased contribution of the coating is produced at low loads. A sigmoidal profile characteristic of high hardness coatings is presented by varying the loads for all investigated coatings. Table 3 summarizes the results of the investigated TiVN coatings׳ hardness H
+                        f. As shown, most of the coatings studied have H
+                        f values higher than 12GPa. The I5 coating exhibited the highest hardness value (~15GPa), followed by I9 (14.2GPa). Conversely, the measured AISI D2 substrate hardness (H
+                        s) was 5GPa.
+                     The hardness values obtained for the experimental coatings were used as a response variable, where larger values were considered to be better in the experimental design. The main effects plot for S/N ratios of H
+                        f is shown in 
+                        Fig. 5(a); this figure shows the effects of the operating variables A (P
+                        o), B (V
+                        b), C (I
+                        Ti) and D (I
+                        v) on the coating hardness at their lowest (1), middle (2) and highest (3) levels, according to Table 1. The analysis of variance was performed for the H
+                        f average values of the S/N ratios (η), and the results are presented in Table 4. The contribution percentage of each factor on H
+                        f is summarized in Table 5. As shown in Fig. 5(a), the factor that exhibits the greatest variation in the H
+                        f 
+                        S/N ratio is I
+                        V. According to Tables 4 and 5, the factor I
+                        V has the greatest influence (68.47%) on hardness, followed by I
+                        Ti (26.96%), subsequently by P
+                        o (4.37%) and finally by V
+                        b (0.20%).
+3.8
+                     Coating adhesion strength
+                     
+                        
+                        Fig. 6 shows the adhesion results obtained by the scratch test for a typical TiVN coating (I3). Similar results are exhibited for all investigated coatings (I1–I9). Fig. 6(b) shows the graph of the tangential force (F
+                        T) as a function of the applied normal force (F
+                        N) for the coating–substrate system. From this graph, the critical force (F
+                        c) associated with adhesion of the coatings is determined by the F
+                        N value at which an abrupt slope change in the tangential force is produced that corresponds to coating detachment. Fig. 6(a) shows the acoustic emission signal emitted during the indentation of the sample; a drop in the acoustic signal is normally produced at F
+                        c. Fig. 6(c)–(e) shows optical microscopy images, and Fig. 6(f)–(h) shows SEM images of the scratch track formed on the coating surface at three different areas (i.e., (c) and (f) prior to F
+                        c, (d) and (g) in the region at which F
+                        c occurs, and (e) and (h) in the region following F
+                        c). The abrupt slope change in the tangential force produced at the F
+                        c value is due to the resistance that opposed the carbide substrate to the indenter displacement, which is different to that opposed by the investigated coating. The coating detachment produced at F
+                        c is confirmed by optical microscopy and SEM (Fig. 6(d), (e), (g) and (h)). Table 3 summarizes the average F
+                        c value of at least five adhesion scratch tests conducted for each coating. As shown, most F
+                        c values are in the range of 91–113N; the maximum F
+                        c values are obtained for the I3 and I7 samples (~113N).
+                     In the investigated TiVN coating–substrate systems, both cohesive and adhesive failures occur located at different positions on the scratch track at different applied normal loads. In the scratch tracks of all I1–I9 coatings, two types of cohesive failure prior to the F
+                        c value are detected. Initially, a cohesive failure of buckling cracks [19] characterized by the formation of arc-shape curved cracks that are irregularly spaced in the scratch direction occurs in front of the indenter tip prior to F
+                        c, as shown in Fig. 6(c). Increasing the normal load applied to the system, a second type of cohesive failure of buckling spallation type is presented that is characterized by coating crack growth and a slight detachment of some coating fragments from these cracks, resulting in a delaminating process of the coating in such fractures, as shown in Fig. 6(f). This failure mode is similar to the first, but the width of the groove left by the arc-shaped cracks due to detachment of the coating is greater. This failure occurs when the point of maximum contact stress is produced on the coating and not on the interface where the bond between the coating and substrate is relatively strong. The linear movement of the diamond tip under the applied normal force produces a complex and changing compression, tension and shear stress field in the coating. The applied stress is also combined with the residual stress in the coating. All these stresses provide a wide range of responses, including plastic deformation, bending and cracking. Finally, an adhesive failure arises, as shown in Fig. 6(e) and (h), wherein the coating is fully detached, corresponding to the value of the critical load F
+                        c. The critical failure occurs when plastic deformation occurs in the substrate–coating interface and is combined with the tensile stresses in the back of the moving indenter tip. A change of color tone identified by an arrow in Fig. 6(d) is associated with coating detachment at F
+                        c. The well-defined region observed in Fig. 6(d) after F
+                        c corresponds to the substrate and confirms the complete detachment of the coating. These values depend on the interfacial intermolecular interactions between both materials in contact, which rely on the bond strength and the interface energy between the substrate and the coating determined by the chemical bond between them.
+                     The EDS elemental chemical analysis mapping of a representative coating (I9) is presented in 
+                        Fig. 7. As shown in this figure, the scratch track regions where the cracks appear and where the coating is detached exhibit a deficiency in the elemental constituents of the coating (Ti, V and N) and an enrichment in the elements of the substrate (W and Co). This finding verifies that the clearer regions on the micrographs in Fig. 6(f)–(h) correspond to the substrate and confirms that F
+                        c corresponds to the full coating detachment.
+                     The main effect plots for S/N ratios from the statistical analysis using the F
+                        c values as a response variable while considering that a larger value is better are shown in Fig. 5(b). In this figure, the effects of the four factors A (P
+                        o), B (V
+                        b), C (I
+                        Ti) and D (I
+                        V) on F
+                        c are presented with regard to the low, middle and high (i.e., 1, 2 and 3) levels of these factors, according to Table 1. The results of the analysis of variance performed for the average values of the S/N ratios (η) of TiVN coatings adhesion critical load F
+                        c are shown in Table 4. The contribution percentage of each factor on F
+                        c is summarized in Table 5. As shown in Table 5 and Fig. 5(b), the factor that exhibits the greatest variation in F
+                        c is V
+                        b. This factor has the highest contribution percentage (40.40%) on F
+                        c, followed by I
+                        Ti (33.89%), subsequently by P
+                        o (21.73%) and finally by I
+                        V (3.98%). As shown in Table 5, the optimal level of each factor to achieve the greatest adhesion of TiVN coatings is level 3. The best condition for I
+                        V is found to be level 3 (Table 5); however, the variation of F
+                        c should be negligible at any level, given the small effect that I
+                        V has on F
+                        c (<4%).
+
+Substrate chemical composition:
+The analyzed chemical composition of AISI D2 steel substrates was 1.57wt% C, 0.286wt% Si, 0.256wt% Mn, 0.0067wt% S, 11.040wt% Cr, 0.755wt% Mo, 0.149wt% Ni, 0.710wt% V, 0.026wt% W and 85.19wt% Fe. The analyzed elemental chemical composition of carbide WC–TiC–Co (i.e., WC–Co) substrates was 64.16wt% W, 18.53wt% C, 15.64wt% Ti, and 1.67wt% Co.
+
+Orthogonal arrangement of deposition parameters:
+A Taguchi orthogonal arrangement (TOA) L934 design was used. For the experimental design, all four parameters (e.g., A-P
+                        o, B-V
+                        b, C-I
+                        Ti, D-I
+                        V) at their three levels (e.g., 1–3) were varied at the same time, and their effects were studied simultaneously to determine which factors have more or less influence on selected response variables. The S/N ratio was the quality indicator by which the effect of changing a particular deposition parameter on the performance of the process was evaluated. In general, a better signal was obtained when the noise was smaller; thus, a larger S/N ratio yields better results. The resulting characteristics of the coatings evaluated as response variables (RV) included the hardness (H
+                        f), the adhesion critical load (F
+                        c), the vanadium (X) and nitrogen (Y) fractions, the grain size (τ) and the RMS roughness (R). These resulting data were analyzed with main effects plots for S/N ratios, which indicated the general trend of influence of each parameter and the optimum conditions for each RV. In these plots, higher values of hardness and adhesion strength were considered to be better because a harder coating and a coating having greater adhesion are of higher quality; conversely, smaller values of RMS roughness and grain size and lower V content were considered to be better, while higher N content was considered to be better because the best hardness results (shown later) were obtained for coatings exhibiting small roughness, small grain size, low V and high N contents. An analysis of variance (ANOVA) was performed for the average values of the S/N ratios (η) to determine the contribution percentage of each operation parameter.
+
+Coating structure:
+Fig. 1 shows X-ray diffractograms for the investigated coatings (I1–I9). Reference lines denote the face-centered cubic (fcc) B1 structure of TiN and VN from JCPDS 87-0632 and 89-5265 cards, respectively. As shown in Fig. 1, regardless of the operating conditions, all investigated coatings showed TiN and VN fcc B1 crystalline structure reflections and exhibited a stronger (111) preferred orientation. Reflections associated with (200), (220) and (311) planes were also detected in all coatings.
+As shown in Fig. 1, the diffraction peak associated with the (111) plane for the I3, I5, I6, I8 and I9 coatings XRD patterns shifted to higher 2θ values, which can be attributed to the small distortion in the lattice parameter caused by V atoms due to the small difference in their atomic radii compared to Ti [15]; V atoms (radius=1.25Å) take the position of Ti atoms (radius=1.36Å) and produce a small distortion of the lattice. Nitrogen, whose atomic radius (0.74Å) is smaller, occupies the interstices. Changes in hardness [6], and in optical properties [15], as well as enhancement of wear resistance [5] and reduction of friction coefficient [4,16] can be associated with these lattice distortions. Additionally, it was found that coatings deposited at low V
+                        b level 1 (I1, I4 and I7) exhibited higher intensity (200) plane reflections regardless of the rest of the deposition parameters levels.
+The lattice parameter (a) values calculated for each investigated coating are listed in 
+                        Table 3. In this table, the coatings׳ a values are shown to be near to the a values of TiN (4.225Å, JCPDS 87-0632) and VN (4.140Å, JCPDS 89-5265) or even between them. Both TiN and VN nitrides have an fcc B1, NaCl type structure. Therefore, by introducing V into the TiN binary system, a ternary system (TiVN) is formed due to the complete miscibility of the Ti–V system [5], which has the prevailing characteristic structure of an NaCl type of TiN. For all V and Ti contents investigated (see Table 3), the formation of the TiVN phase is expected according to the TiVN system phase diagram [17]. However, the a values of the I1, I2 and I4 coatings (4.20–4.24Å) are near that of TiN, while those of the I3 and I8 coatings (4.11–4.13Å) are near that of VN. For the I5–I7 and I9 coatings, the a values (4.15–4.16Å) are in the range of those proposed for a TiVN solid solution (4.15–4.18Å) by other authors [10].
+The grain size τ, shown in Table 3, was evaluated from the TiVN coatings׳ XRD reflections and calculated by Scherrer׳s equation (τ=1.448/β cos
+                        θ), where θ is the diffraction angle of the principal peak and β is the peak width at the half height of the maximum peak intensity (FWHM). The associated reflections of the (111) plane were used for this analysis. The grain size measured for the I1–I9 coatings was 17–34nm (Table 3); the lowest value (17nm) was obtained for the I9 and I4 coatings, and the largest (34nm) for the I1 coating.
+The main effect plots for the S/N ratios where smaller grain size values were preferable and the ANOVA statistical analysis were obtained. The resulting contribution percentage of each factor on the grain size obtained from the ANOVA analysis is summarized in Table 5.
+It is worth pointing out that the full results of the statistical analysis were only shown for the hardness (H
+                        f) and adhesion critical load (F
+                        c) response variables (
+                        Table 4). For the remaining response variables including the grain size, only the resulting contribution percentage of each factor on each response variable obtained from the ANOVA analysis are presented and are summarized in 
+                        Table 5. Table 5 presents the optimum level and contribution of each studied variable on the coating characteristics. Superscript a (a) identify a parameter that has the greatest contribution, and superscript b (b) one that has the next most significant influence.
+As shown in Table 5 the deposition parameter that has the highest contribution to reducing grain size values is I
+                        Ti (~ 46%), followed by V
+                        b (~ 19%), then by I
+                        V (18%) and finally by P
+                        o (17%). Through the analysis of the main effect plots for S/N ratios, it was determined that the experimental levels that yield the most favorable τ values are a P
+                        o level of 2, a V
+                        b level of 3, an I
+                        Ti level of 2 and an I
+                        V level of 1.
+
+Coating elemental composition:
+The elemental chemical composition of the investigated coatings is given in Table 3. As shown in Table 3, the chemical analysis confirms the presence of Ti, V and N in all coatings. Vanadium (X=V/(Ti+V)) and nitrogen fractions (Y=N/(Ti+V)) were determined from the atomic percentages of these species in each coating. The lowest vanadium content (3.96at%) was presented by the I9 coating, and the highest (25.48at%) by the I4 and I7 coatings. The nitrogen content in all investigated coatings exhibited small variations: the minimum (~49 at%) was presented by the I3 coating and the maximum percentage (56at%) by the I9 coating.
+The main effect plots for S/N ratios and the ANOVA results for X and Y are not shown in this paper; however, the contribution percentage of each factor on these variables is presented in Table 5. Considering that the hardest coatings (e.g., I5 and I9) were those that exhibited the lowest V fractions (X≤0.38) and highest N fractions (Y≥1.20), lower V content and higher N content were considered to be better. The analysis of variance indicated that for reducing the V fraction, the variable that has the greater contribution is I
+                        V (~38%), followed by V
+                        b (~26%), then by I
+                        Ti (~19%) and finally by P
+                        o (~17%). For increasing the nitrogen content, these factors are ranked in a decreasing order: P
+                        o (~41%)>I
+                        V (~36%)>V
+                        b (~21%)>I
+                        Ti (~2%).
+In addition to I
+                        V, V
+                        b has also been shown to have a significant effect on the coatings׳ V content and V fraction (X). As shown in Tables 1–3, at a V
+                        b level of 1 (e.g., I4 and I7 coatings), the V content in the coatings reached their maximum (25.48at%) regardless of the deposition I
+                        V value (e.g., levels 2 and 3) and the rest of the operation variables. However, when a higher V
+                        b level of 3 was used, I
+                        V had a significant influence on the V content; for instance, when I
+                        V was increased from level 1 up to level 3, V content rose from 3.96at% in the I9 coating up to 24.61at% in the I3 coating regardless of the remaining deposition parameters. Therefore, high V
+                        b levels and low I
+                        V reduce coatings׳ V content.
+The nitrogen content in the coatings varied primarily with the P
+                        o level of each test. As shown in Tables 1–3, small N variations were exhibited by coatings deposited at the same P
+                        o level; for instance, the I1–I3 coatings deposited at level 1 exhibit similar nitrogen fractions (Y≈1) while the I4–I6 coatings deposited at level 2 present N fractions of Y≈1–1.2, and the I7–I9 coatings deposited at level 3 exhibit N fractions of Y≈1.1–1.4. Thus, the nitrogen fraction Y exhibited higher values and the greatest variation when coatings were deposited at the maximum level of P
+                        o. Due to the lower affinity of V for N, the increase of V content in a coating resulted in less incorporation of N atoms. For instance, for coatings with V content≤17at% (e.g., I5 and I9), higher N fractions of Y=1.20 and 1.40 are shown, respectively, than for those with V content near 25% (e.g., I3 and I4 with Y≤0.99). These results are consistent with those reported in the literature [10]. In reference to the Ti coating content, the lowest Ti content (21.65at%) was exhibited by I7 and the highest (35.93at%) by I9 coating.
+As shown in Table 5, the experimental parameters for reducing vanadium and increasing nitrogen fractions in the TiVN coatings are a P
+                        o level of 3, a V
+                        b level of 3, an I
+                        Ti level of 2 and an I
+                        V level of 1.
+
+Deposition rate and thickness:
+Fig. 2 shows a typical SEM image of a coating (in this case, I3׳s) cross section, which shows the thickness (t) of the coating. The thickness values for all I1–I9 coatings are listed in Table 3. As shown in this table, the coating thicknesses were 0.99µm (I9) to 1.93µm (I3). The coating deposition rates V
+                        t (µm/h) determined by the deposition time are also summarized in Table 3. As shown, the highest deposition rate (5.79µm/h) was presented by I3 and the lowest (2.97µm/h) by I9 coating.
+The main effect plots for S/N ratios resulting from the design of experiments and the ANOVA results for V
+                        t are not shown; however, calculations were performed by considering a larger V
+                        t value to be better; these results are shown in Table 5. The ANOVA results indicate that the highest contribution percentage on V
+                        t was given by I
+                        V (~ 49%), followed by P
+                        o (~24%), then by V
+                        b (~14%) and finally by I
+                        Ti (~13%). By statistical analysis, it was determined that the optimal levels of each factor to produce the largest TiVN coating deposition rate are P
+                        o at level 1, V
+                        b at level 1, I
+                        Ti at level 3 and I
+                        V at level 3.
+
+Coating surface morphology:
+Fig. 3(a) and (b) shows typical surface morphologies for the I2 and I7 TiVN coatings, which exhibited the lowest and highest RMS roughnesses, respectively. The RMS roughness (R) values of all investigated TiVN coatings are given in Table 3. As shown, the roughness values exhibited by the I1–I9 coatings are 2–5nm; only the I4 and I7 coatings exceed these values with a roughness near 8nm.
+RMS roughnesses of the I1–I9 coatings were considered as a response variable in the analysis of the design of experiments; a smaller value was considered to be better for this statistical study. The main effect plots for S/N ratios and the ANOVA resulting from the design of experiments for RMS roughness are not shown; however, the contribution percentage of each factor on this response variable is presented in Table 5. The optimal levels of each factor and their contribution percentage are summarized in Table 5. As shown in Table 5, the factor exhibiting the greatest effect on RMS roughness is V
+                        b (77.26%), followed by I
+                        V (8.43%) then by P
+                        o (8.15%) and finally by I
+                        Ti (6.16%). The appropriate levels of each factor to produce the lowest RMS roughness are P
+                        o at level 1, V
+                        b at level 2, I
+                        Ti at level 2 and I
+                        V at level 1.
+
+Coating hardness:
+The I1–I9 coatings׳ hardnesses H
+                        c were calculated using the Korsunsky equation, H
+                        c=H
+                        s+(H
+                        f−H
+                        s)/(1+kβ
+                        2) [14], where H
+                        f is the coating hardness, H
+                        s is the substrate hardness measured independently, and β=δ/t denotes the indentation depth δ normalized with respect to the coating thickness, t. H
+                        f and k are determined by fitting the experimentally determined variation of H
+                        c with β.
+Fig. 4 shows the hardness (H
+                        c) results for a typical coating (I5) as a function of the relative indenter penetration depth. The experimentally measured values are displayed as points, and the values resulting from the model are displayed as a solid line. When the indentation is performed, both the coating and substrate are affected; a greater contribution of the substrate is produced at higher loads while an increased contribution of the coating is produced at low loads. A sigmoidal profile characteristic of high hardness coatings is presented by varying the loads for all investigated coatings. Table 3 summarizes the results of the investigated TiVN coatings׳ hardness H
+                        f. As shown, most of the coatings studied have H
+                        f values higher than 12GPa. The I5 coating exhibited the highest hardness value (~15GPa), followed by I9 (14.2GPa). Conversely, the measured AISI D2 substrate hardness (H
+                        s) was 5GPa.
+The hardness values obtained for the experimental coatings were used as a response variable, where larger values were considered to be better in the experimental design. The main effects plot for S/N ratios of H
+                        f is shown in 
+                        Fig. 5(a); this figure shows the effects of the operating variables A (P
+                        o), B (V
+                        b), C (I
+                        Ti) and D (I
+                        v) on the coating hardness at their lowest (1), middle (2) and highest (3) levels, according to Table 1. The analysis of variance was performed for the H
+                        f average values of the S/N ratios (η), and the results are presented in Table 4. The contribution percentage of each factor on H
+                        f is summarized in Table 5. As shown in Fig. 5(a), the factor that exhibits the greatest variation in the H
+                        f 
+                        S/N ratio is I
+                        V. According to Tables 4 and 5, the factor I
+                        V has the greatest influence (68.47%) on hardness, followed by I
+                        Ti (26.96%), subsequently by P
+                        o (4.37%) and finally by V
+                        b (0.20%).
+
+Coating adhesion strength:
+Fig. 6 shows the adhesion results obtained by the scratch test for a typical TiVN coating (I3). Similar results are exhibited for all investigated coatings (I1–I9). Fig. 6(b) shows the graph of the tangential force (F
+                        T) as a function of the applied normal force (F
+                        N) for the coating–substrate system. From this graph, the critical force (F
+                        c) associated with adhesion of the coatings is determined by the F
+                        N value at which an abrupt slope change in the tangential force is produced that corresponds to coating detachment. Fig. 6(a) shows the acoustic emission signal emitted during the indentation of the sample; a drop in the acoustic signal is normally produced at F
+                        c. Fig. 6(c)–(e) shows optical microscopy images, and Fig. 6(f)–(h) shows SEM images of the scratch track formed on the coating surface at three different areas (i.e., (c) and (f) prior to F
+                        c, (d) and (g) in the region at which F
+                        c occurs, and (e) and (h) in the region following F
+                        c). The abrupt slope change in the tangential force produced at the F
+                        c value is due to the resistance that opposed the carbide substrate to the indenter displacement, which is different to that opposed by the investigated coating. The coating detachment produced at F
+                        c is confirmed by optical microscopy and SEM (Fig. 6(d), (e), (g) and (h)). Table 3 summarizes the average F
+                        c value of at least five adhesion scratch tests conducted for each coating. As shown, most F
+                        c values are in the range of 91–113N; the maximum F
+                        c values are obtained for the I3 and I7 samples (~113N).
+In the investigated TiVN coating–substrate systems, both cohesive and adhesive failures occur located at different positions on the scratch track at different applied normal loads. In the scratch tracks of all I1–I9 coatings, two types of cohesive failure prior to the F
+                        c value are detected. Initially, a cohesive failure of buckling cracks [19] characterized by the formation of arc-shape curved cracks that are irregularly spaced in the scratch direction occurs in front of the indenter tip prior to F
+                        c, as shown in Fig. 6(c). Increasing the normal load applied to the system, a second type of cohesive failure of buckling spallation type is presented that is characterized by coating crack growth and a slight detachment of some coating fragments from these cracks, resulting in a delaminating process of the coating in such fractures, as shown in Fig. 6(f). This failure mode is similar to the first, but the width of the groove left by the arc-shaped cracks due to detachment of the coating is greater. This failure occurs when the point of maximum contact stress is produced on the coating and not on the interface where the bond between the coating and substrate is relatively strong. The linear movement of the diamond tip under the applied normal force produces a complex and changing compression, tension and shear stress field in the coating. The applied stress is also combined with the residual stress in the coating. All these stresses provide a wide range of responses, including plastic deformation, bending and cracking. Finally, an adhesive failure arises, as shown in Fig. 6(e) and (h), wherein the coating is fully detached, corresponding to the value of the critical load F
+                        c. The critical failure occurs when plastic deformation occurs in the substrate–coating interface and is combined with the tensile stresses in the back of the moving indenter tip. A change of color tone identified by an arrow in Fig. 6(d) is associated with coating detachment at F
+                        c. The well-defined region observed in Fig. 6(d) after F
+                        c corresponds to the substrate and confirms the complete detachment of the coating. These values depend on the interfacial intermolecular interactions between both materials in contact, which rely on the bond strength and the interface energy between the substrate and the coating determined by the chemical bond between them.
+The EDS elemental chemical analysis mapping of a representative coating (I9) is presented in 
+                        Fig. 7. As shown in this figure, the scratch track regions where the cracks appear and where the coating is detached exhibit a deficiency in the elemental constituents of the coating (Ti, V and N) and an enrichment in the elements of the substrate (W and Co). This finding verifies that the clearer regions on the micrographs in Fig. 6(f)–(h) correspond to the substrate and confirms that F
+                        c corresponds to the full coating detachment.
+The main effect plots for S/N ratios from the statistical analysis using the F
+                        c values as a response variable while considering that a larger value is better are shown in Fig. 5(b). In this figure, the effects of the four factors A (P
+                        o), B (V
+                        b), C (I
+                        Ti) and D (I
+                        V) on F
+                        c are presented with regard to the low, middle and high (i.e., 1, 2 and 3) levels of these factors, according to Table 1. The results of the analysis of variance performed for the average values of the S/N ratios (η) of TiVN coatings adhesion critical load F
+                        c are shown in Table 4. The contribution percentage of each factor on F
+                        c is summarized in Table 5. As shown in Table 5 and Fig. 5(b), the factor that exhibits the greatest variation in F
+                        c is V
+                        b. This factor has the highest contribution percentage (40.40%) on F
+                        c, followed by I
+                        Ti (33.89%), subsequently by P
+                        o (21.73%) and finally by I
+                        V (3.98%). As shown in Table 5, the optimal level of each factor to achieve the greatest adhesion of TiVN coatings is level 3. The best condition for I
+                        V is found to be level 3 (Table 5); however, the variation of F
+                        c should be negligible at any level, given the small effect that I
+                        V has on F
+                        c (<4%).
+
+Discussion:
+The statistical analysis of the XRD results show a large effect of I
+                     V on a, which is clearly illustrated for the I1 and I3 coatings, for which a decreases from 4.22Å to 4.11Å when I
+                     V increases from level 1 to 3, respectively, regardless of the remaining operation parameters levels. Values below 4.14Å indicate that more V ions occupy Ti ions sites, and because V ions are smaller in size than those of Ti, the lattice parameter decreases. These results are consistent with those reported in the literature, which show this change in lattice parameter due to the vanadium content [6,7,15].
+The coating deposition rate results show that changes in the I
+                     V level had a significant effect on V
+                     t. For instance, at higher I
+                     V values (i.e., level 3), the coating deposition rate on AISI D2 steel is 5.6 and 5.8µmh−1 on the I4 and I3 coatings, respectively, and was shown to vary inversely with decreasing I
+                     V, falling to 2.9µmh−1 at level 1 in the I9 coating. The I
+                     Ti at level 3 also enhances V
+                     t; this is expected because of the higher erosion rates produced at higher I
+                     V and I
+                     Ti levels. Changes in the P
+                     o level also had a clear effect on the coating deposition rate. With low P
+                     o, the coating deposition rate is relatively high at 3.9–5.8µmh−1 for the I1–I3 coatings and varied inversely with increasing P
+                     o, falling to 2.9µmh−1 at level 3 in the I9 coating. This behavior with increasing P
+                     o can be attributed to target contamination by forming nitrides on their surface, establishing a barrier and preventing erosion [6]. Modifications to V
+                     b also have an effect on the coating rate. Accelerating ions through a negative bias increases their energy and their arrival rate; however, this also increases their resputter rate, thus reducing the net deposition rate (i.e., the arrival rate minus the resputter rate) of the coating. At low V
+                     b, the coating deposition rate is rather high at 5.6µmh−1 for the I4 coating and varied inversely as V
+                     b increases, falling to 3.5µmh−1 at level 2 with the I5 and I8 coatings. However, I
+                     V has a more significant effect on V
+                     t than V
+                     b (when V
+                     b is at level 3). This phenomenon explains why the highest I
+                     V level produces a V
+                     t value that is high (5.7µmh−1 for the I3 coating) even when V
+                     b is high.
+The coating hardness results show that most of the coatings studied have H
+                     f values higher than 12GPa. According to the statistical analysis, the factor I
+                     V has the greatest influence (68.47%) on hardness. The highest hardness is obtained with a level 1 I
+                     V, while the best condition for I
+                     Ti is produced at level 2, although the variation of H
+                     f should be small if level 3 were used. In addition, the highest hardness is obtained at a level 1 P
+                     o, but the difference of H
+                     f should be small if level 2 were used. Finally, higher hardness coatings are obtained with V
+                     b at level 1; however, the deviation would be negligible if levels 2 or 3 were used, given the small effect that this parameter has on H
+                     f. These results are consistent with those reported [7], which indicated that large V quantities give rise to lower hardness due to the formation of individual nitrides TiN and VN. This behavior has been reported for other ternary systems such as TiAlN [18].
+The TiVN hardness was also influenced by the film microstructure features because the hardness was measured from indentation tests, in which different factors affect the result, such as the average grain size, roughness, stoichiometry, and lattice parameter. This phenomenon is clearly seen for the I5 and I9 coatings, which showed the highest H
+                     f values near 15GPa, and which showed smaller grain sizes (≤18.9nm), lower roughness values (3.35nm), lower V content (≤17at%) and optimal lattice parameters of 4.15–4.16Å.
+The marginally lower hardness exhibited by the TiVN coatings investigated in this study (15GPa) compared with the hardness values of commercial TiN (17–21GPa) is likely due to the lower thickness 0.9–1.9µm, of the investigated experimental TiVN coatings compared with the ~4µm of commercial TiN.
+The coating adhesion strength results show that the higher values of F
+                     c were exhibited by samples I3 and I7 (~113N) and are attributed partially to their higher coating thickness (>1.46μm) because the critical adhesion strength value is strongly dependent on the coating properties and its thickness. Being the thickest, the I3 sample has more space for the stress distribution generated on the coating before reaching the coating–substrate interface increasing the F
+                     c value.
+The critical failure F
+                     c occurs when plastic deformation occurs in the substrate–coating interface and is combined with the tensile stresses in the back of the moving indenter tip. The primary contribution percentage of V
+                     b (40.40%) at the highest level on the critical adhesion load F
+                     c value can be attributed to the greater attraction of Ti and V ionic particles in multiple charge states (1+, 2+ and 3+) to the substrate due to their high degree of ionization. Indeed, the substrate bias voltage V
+                     b affects the attraction of species to the substrate, hence influencing their kinetic energy; the higher atomic weight elements with higher average charge exhibit higher kinetic energies, which increase their attraction to the polarized substrate [5]. For the investigated TiVN coatings, V has a higher charge and a higher atomic weight than Ti. Depending on the amplitude of the bias, different effects may be distinguished. At a high bias voltage, ions are accelerated at higher kinetic energies; however, if the bias voltage is high, more atoms are removed from the substrate surface than the ions and atoms that arrive on it, modifying the net deposition rate (i.e., the arrival rate minus the resputter rate), composition, structure and morphology of the coating [5]. Furthermore, the energetic condensation of ions leads to dense, well adherent films [20]. This outcome is attributed to an increase in the nucleation density [20], which results in a reduction in the mobility of the atoms on the surface to be coated; this leads to more compact coating growth, preventing holes or uncoated areas, increasing the contact area between the substrate and the coating, and thus facilitating the adhesion of TiVN coatings.
+
+Conclusions:
+TiVN coatings were deposited on AISI D2 steel substrates by PVD cathodic arc erosion at conditions in accordance with a Taguchi orthogonal design of experiments. The results showed that TiVN coatings have a cubic B1 structure over the entire range of experimental conditions. The obtained TiVN coatings were shown to have a good hardness near 15GPa, and high adhesion critical loads of 113N.
+The experimental design showed the effect of operational parameters such as reactive gas pressure (P
+                     o), bias voltage (V
+                     b), and the currents applied to the titanium (I
+                     Ti) and to the vanadium (I
+                     V) targets at low, middle and high (i.e., 1, 2 and 3) levels of these parameters with regard to coating properties. The conclusions drawn from the results of these investigations are as follows: for I
+                     V, level 1 is the most favorable, producing the hardest TiVN coatings; this parameter has the largest contribution percentage near 68%, to hardness as well as producing the smallest roughness coatings; I
+                     V at level 3 is the most favorable for the adhesion critical load F
+                     c; however, the change in the F
+                     c value is negligible if any level is used, given the small contribution that I
+                     V has on F
+                     c (<4%). With respect to P
+                     o, lower levels (1–2) are appropriate to obtain high hardness, improve the adhesion critical value, and favor the deposition rate, preventing nitride contamination of the cathode surfaces. In reference to I
+                     Ti, the highest level (3) produces the highest hardness and adhesion critical load values. In relation with V
+                     b, the highest level (3) is the most appropriate to obtain high hardness and adhesion critical loads as well as reduced roughness. This outcome occurs because the adhesion critical load increased remarkably as a result of energetic metal ion condensation, which increases nucleation density. This behavior allows more compact coating growth, preventing holes or uncoated areas and increasing the contact area between the substrate and the coating, facilitating the adhesion of TiVN coatings. The best experimental conditions at the optimum level of each studied deposition parameter to obtain TiVN coatings with high hardness and high adhesion with appropriate values for the rest of the coatings׳ properties are P
+                     o=2–3.5Pa, V
+                     b=−145V, I
+                     V=50A and I
+                     Ti=75A.
+
+Acknowledgments:
+The authors would like to acknowledge the National Science and Technology Council of Mexico, CONACYT for supporting this research under Grant no. 38467U. And also are very grateful to M.Sc. M. Santisteban Abad for his valuable contribution to this research.
+
+Body:
+Ternary nitrides such as TiVN have gained attention as substitutes for the binary nitride TiN in many applications, including cutting tools, wear protection and machinery components [1]. Reports in the literature have shown that adding V to TiN leads to an improvement in mechanical and tribological properties [2–4]. The ternary TiVN system is formed due to the total miscibility of the Ti–V system [5], which creates a solid solution while preserving the crystalline structure B1 of TiN. Such miscibility can be attributed to the small difference between the atomic radii of Ti (1.36Å) and V (1.25Å) [6]. The vanadium content of the TiVN coatings influences the hardness of the coating [7] and reduces its friction coefficient [8,2]. Thus, combining B1 transition metal nitrides such as TiN and more ductile bcc metals such as V can yield increased plasticity rates while retaining hardness characteristics [9]. This behavior is associated with a pronounced electronic arrangement on the metal stacking that allows a selective response to strain and shear deformations of the crystal [9]. Such a charge distribution is induced in the crystal by the substitution of Ti with V atoms and by the effect of weaker V–N bonds. Ternary TiVN exhibits hardness values comparable to those of TiN as well as enhanced ductile characteristics [9]. These properties increase life and reduce wear [5], making these coatings attractive for industrial applications and particularly for cutting tools.
+
+Most studies of the effects of deposition parameters on TiVN coating properties investigate one or two parameters and kept the rest fixed. For instance, Knotek et al. [6] modified the coating composition of the TiVN magnetron-sputtered thin films, by altering the TiV target composition (Ti87V13, Ti71V29, Ti48V52), and the partial nitrogen pressure P
+                     N2/P
+                     Ar (1.5–9%), while the bias voltage was kept fixed at −60V. The results showed the highest hardness (3100HV) for the coatings at 52at% V and P
+                     N2/P
+                     Ar ~3%, and the best adhesive strength, 100N at 29at% V and P
+                     N2/P
+                     Ar 
+                     ~5%. Deeleard et al. [10] tailored the coating composition of the TiVN magnetron co-sputtered thin films altering the V sputtering current I
+                     V: 0.4,0.6,0.8 and 1.0A, keeping the Ti sputtering current (I
+                     Ti) constant at 0.6A without biasing. The results showed that the lattice parameter decreased, while the crystallite size and RMS roughness increased by increasing the V sputtering current. Ouyang et al. [2] investigated the TiVN cathodic arc ion plating thin films deposited with a Ti target and a V target alternately at fixed currents of 67 and 133A respectively and nitrogen pressures of 1–3Pa, while the bias voltage was kept fixed at −10V. The results showed that the friction coefficient varied between 0.53 and 1.08 depending on the thermal oxidation temperature. It was 0.81 at room temperature, and increased to 1.01, 1.08 and 1.06, with the increase in temperature at 200, 300 and 400°C, respectively, while, at 500, 600 and 650°C decreased to 0.68, 0.55 and 0.53 respectively. The low friction coefficient exhibited at 650°C was attributed to the formation of aV2O5 and TiO2 oxide layer on the surface. At 700°C, the friction coefficient increased to 0.61 due to the surface melting phenomenon. Yeung et al. [11] modified the grain size and roughness of the TiVN magnetron co-sputtered thin films using different partial nitrogen pressures, P
+                     N2: 0.053–0.128Pa. The results showed that by decreasing the nitrogen deposition pressure, the grain diameter of the coatings decreased, which led to higher hardness. The coatings hardness was 13.6–18.6GPa. Ichimiya et al. [7] tailored the composition of the TiVN cathodic arc ion plating thin films using targets with different V/(Ti+V) atomic ratios from 0 to 1 with a nitrogen atmosphere pressure in the range of 2–5Pa and a fixed bias voltage of −50V. The results showed that the best coating hardness was 2600HV, at around V/(Ti+V)=0.25−0.50, and the best friction coefficient was of 0.51 at 600°C. Ouyang et al. [12] modified the composition of the TiVN cathodic arc ion plating thin films adjusting the Ti target and the V target alternately with a total arc current power applied of 200A. The pressure and the bias voltage were kept fixed at 0.67Pa and −10V respectively. The results showed friction coefficients between 0.68 and 1.08 at room temperature, depending on load and frequency. The friction coefficient gradually decreased from 0.81 to 0.68, with the load increasing from 20 to 70N, and gradually increased from 0.73 to 1.08 with the frequency increasing from 6 to 50Hz. Hasegawa et al. [1] studied TiVN cathodic arc ion plating thin films deposited with Ti–V alloy cathodes at a fixed current of 100A, P
+                     N2 of 3.3Pa and bias voltage of −20V. The results showed hardness of 2400HV.
+
+It must be pointed out that the simultaneous variation of all variables (operation pressure, substrate bias voltage and currents applied to targets of Ti and V) has not been studied completely. These parameters as a whole modify the erosion rate of the cathodes, the mean free path of the eroded species and their kinetic energy consequently playing roles that jointly have a great effect on TiVN coatings properties. In this study, TiVN coatings were deposited on AISI D2 steel by PVD arc, and the effect of these different deposition variables, such as operating pressure (P
+                     o), bias voltage applied to the substrate (V
+                     b), current applied to the Ti target (I
+                     Ti) and that applied to the V target (I
+                     V) on the TiVN coatings structure, composition, deposition rate (V
+                     t), hardness (H
+                     f) and adhesion critical load (F
+                     c) were studied. A Taguchi orthogonal array (TOA) experimental design was proposed to perform this study because of each experiment׳s extended duration requirements.
+
+The TiVN coatings were produced using the PVD cathodic arc deposition method with two different metal targets: titanium and vanadium. The effects of four deposition parameters including operation pressure (P
+                     o), substrate bias voltage (V
+                     b), and the currents applied to the cathodes of titanium and vanadium (I
+                     Ti and I
+                     V, respectively) were studied. The parameters values were selected within an interval in which optimal conditions were reported and were recorded at three levels (e.g., 1, 2 and 3) from the lowest, middle and highest levels, respectively, as shown in 
+                     Table 1. Deposition tests were performed using the Taguchi orthogonal array (TOA) experimental design [13], which conducts balanced (i.e., orthogonal) experimental combinations, reducing experimentation time. A TOA design studies the entire parameter space with the shortest possible matrix of combinations; all parameters are varied at the same time, and their effects and performances are studied simultaneously to determine which factors have more or less influence in optimizing the results. In this study, the L934 orthogonal array with nine tests and three replicates was used to analyze the significance of the four independent factors at three different levels (e.g., 1–3), as shown in 
+                     Table 2; in this table, the columns show factor levels, and the rows identify the experiments conducted. The loss function, which is normally applied in this method [13], was transformed into a signal-to-noise ratio (S/N) and then used to measure the coatings׳ performance characteristics. These coating characteristics were evaluated with response variables (RV) such as deposition rate, vanadium and nitrogen content, grain size, RMS roughness, hardness and adhesion strength. These data were analyzed using the S/N ratio with plots of the main effects. An analysis of variance (ANOVA) was performed for the average values of the S/N ratios (η) to determine the contribution percentage of each parameter. The values of the remaining parameters involved in the process such as the deposition time (20min), the substrate temperature (450°C) and the base pressure (10−4
+                     Pa) were kept constant to elude the control of these factors and reduce the number of tests required.
+
+TiVN coatings were deposited onto AISI D2 steel discs substrates that were 1.58cm in diameter, 0.3cm thick and cut from an AISI D2 steel bar. These discs were polished with abrasive SiC paper grades 320, 600, 1200, 2400 and then with 1 and 3µm diamond paste to produce a mirror finish. After polishing, the samples were cleaned with acetone and ethanol in ultrasound. For the adhesive strength tests (i.e., scratch tests), tungsten carbide (WC–Co) substrates of 2.5×1.9×0.6cm3 (i.e., length, width and thickness) were used. The chemical composition of the AISI D2 steel was obtained by optical emission spectroscopy (OES) using a spark spectrometer SPECTRO model SPECTROLAB MII. The carbon and sulfur content were obtained by a LECO CS-244 elemental analyzer. The elements content of the carbide substrates were determined by an energy-dispersive X-ray analysis (EDS). These substrates were polished with a 1 and 3µm diamond paste and cleaned with acetone in ultrasound.
+
+The lattice parameters and crystal structures of the TiVN coatings were determined by X-ray diffraction (XRD) using a grazing incidence angle of 3° to avoid the substrate interference in the 2θ range from 10° to 80° with a scanning rate of 1.2°/min at 35kV and 40mA. A Bruker D8 Advance X-ray diffractometer was used with a CuKα radiation source (λ=1.54056Å). The crystallite size was determined from Scherrer׳s formula. The average root-mean-square (RMS) surface roughness was obtained by contact atomic force microscopy (AFM) using a Nanoscope E Veeco Digital Instruments in a scanning area of 1×1µm2. The thickness of the coatings was measured from the cross-section of the TiVN coated steel samples using a Philips XL30ESEM scanning electron microscope (SEM). The element contents of the TiVN coatings were determined by EDS on the cross section of the TiVN coated steel samples. An EDAX Genesis analyzer was coupled to SEM to perform the EDS analysis.
+
+The coatings׳ microhardnesses were measured by conventional micro-Vickers testing with a diamond indenter (Vickers) on a Wilson Tukon Model 300 FM microhardness tester. Indentations were performed using a range of fixed loads of 100, 50, 25, 10, 5 and 2g, to describe the hardness of the coating using the Korsunsky model [14]. Seven indentations were performed for each load distributed in the sample, where dimensions were measured from their SEM images.
+
+The coatings scratch adhesion testing was performed using a standard microscratch tester with a Rockwell C conical diamond indenter with an angle of 120° and a spherical tip radius of 200µm. The tests were performed using a progressively increased load up to detachment of the coating. Normal forces (F
+                     N) from 0N up to 145N were applied to the coated surface at a rate of 5N/min and at a sample displacement rate of 0.744mm/s. F
+                     N values were recorded with the tangential force (F
+                     T) to determine the critical adhesion strength. Before each test, the surface of the indenter was cleaned with ethylic alcohol. For these tests, the TiVN coatings were deposited onto WC–Co substrates to reduce the induced stresses due to substrate deformation on the critical load value associated with coating removal.
+
+The analyzed chemical composition of AISI D2 steel substrates was 1.57wt% C, 0.286wt% Si, 0.256wt% Mn, 0.0067wt% S, 11.040wt% Cr, 0.755wt% Mo, 0.149wt% Ni, 0.710wt% V, 0.026wt% W and 85.19wt% Fe. The analyzed elemental chemical composition of carbide WC–TiC–Co (i.e., WC–Co) substrates was 64.16wt% W, 18.53wt% C, 15.64wt% Ti, and 1.67wt% Co.
+
+A Taguchi orthogonal arrangement (TOA) L934 design was used. For the experimental design, all four parameters (e.g., A-P
+                        o, B-V
+                        b, C-I
+                        Ti, D-I
+                        V) at their three levels (e.g., 1–3) were varied at the same time, and their effects were studied simultaneously to determine which factors have more or less influence on selected response variables. The S/N ratio was the quality indicator by which the effect of changing a particular deposition parameter on the performance of the process was evaluated. In general, a better signal was obtained when the noise was smaller; thus, a larger S/N ratio yields better results. The resulting characteristics of the coatings evaluated as response variables (RV) included the hardness (H
+                        f), the adhesion critical load (F
+                        c), the vanadium (X) and nitrogen (Y) fractions, the grain size (τ) and the RMS roughness (R). These resulting data were analyzed with main effects plots for S/N ratios, which indicated the general trend of influence of each parameter and the optimum conditions for each RV. In these plots, higher values of hardness and adhesion strength were considered to be better because a harder coating and a coating having greater adhesion are of higher quality; conversely, smaller values of RMS roughness and grain size and lower V content were considered to be better, while higher N content was considered to be better because the best hardness results (shown later) were obtained for coatings exhibiting small roughness, small grain size, low V and high N contents. An analysis of variance (ANOVA) was performed for the average values of the S/N ratios (η) to determine the contribution percentage of each operation parameter.
+
+Fig. 1 shows X-ray diffractograms for the investigated coatings (I1–I9). Reference lines denote the face-centered cubic (fcc) B1 structure of TiN and VN from JCPDS 87-0632 and 89-5265 cards, respectively. As shown in Fig. 1, regardless of the operating conditions, all investigated coatings showed TiN and VN fcc B1 crystalline structure reflections and exhibited a stronger (111) preferred orientation. Reflections associated with (200), (220) and (311) planes were also detected in all coatings.
+
+As shown in Fig. 1, the diffraction peak associated with the (111) plane for the I3, I5, I6, I8 and I9 coatings XRD patterns shifted to higher 2θ values, which can be attributed to the small distortion in the lattice parameter caused by V atoms due to the small difference in their atomic radii compared to Ti [15]; V atoms (radius=1.25Å) take the position of Ti atoms (radius=1.36Å) and produce a small distortion of the lattice. Nitrogen, whose atomic radius (0.74Å) is smaller, occupies the interstices. Changes in hardness [6], and in optical properties [15], as well as enhancement of wear resistance [5] and reduction of friction coefficient [4,16] can be associated with these lattice distortions. Additionally, it was found that coatings deposited at low V
+                        b level 1 (I1, I4 and I7) exhibited higher intensity (200) plane reflections regardless of the rest of the deposition parameters levels.
+
+The lattice parameter (a) values calculated for each investigated coating are listed in 
+                        Table 3. In this table, the coatings׳ a values are shown to be near to the a values of TiN (4.225Å, JCPDS 87-0632) and VN (4.140Å, JCPDS 89-5265) or even between them. Both TiN and VN nitrides have an fcc B1, NaCl type structure. Therefore, by introducing V into the TiN binary system, a ternary system (TiVN) is formed due to the complete miscibility of the Ti–V system [5], which has the prevailing characteristic structure of an NaCl type of TiN. For all V and Ti contents investigated (see Table 3), the formation of the TiVN phase is expected according to the TiVN system phase diagram [17]. However, the a values of the I1, I2 and I4 coatings (4.20–4.24Å) are near that of TiN, while those of the I3 and I8 coatings (4.11–4.13Å) are near that of VN. For the I5–I7 and I9 coatings, the a values (4.15–4.16Å) are in the range of those proposed for a TiVN solid solution (4.15–4.18Å) by other authors [10].
+
+The grain size τ, shown in Table 3, was evaluated from the TiVN coatings׳ XRD reflections and calculated by Scherrer׳s equation (τ=1.448/β cos
+                        θ), where θ is the diffraction angle of the principal peak and β is the peak width at the half height of the maximum peak intensity (FWHM). The associated reflections of the (111) plane were used for this analysis. The grain size measured for the I1–I9 coatings was 17–34nm (Table 3); the lowest value (17nm) was obtained for the I9 and I4 coatings, and the largest (34nm) for the I1 coating.
+
+The main effect plots for the S/N ratios where smaller grain size values were preferable and the ANOVA statistical analysis were obtained. The resulting contribution percentage of each factor on the grain size obtained from the ANOVA analysis is summarized in Table 5.
+
+It is worth pointing out that the full results of the statistical analysis were only shown for the hardness (H
+                        f) and adhesion critical load (F
+                        c) response variables (
+                        Table 4). For the remaining response variables including the grain size, only the resulting contribution percentage of each factor on each response variable obtained from the ANOVA analysis are presented and are summarized in 
+                        Table 5. Table 5 presents the optimum level and contribution of each studied variable on the coating characteristics. Superscript a (a) identify a parameter that has the greatest contribution, and superscript b (b) one that has the next most significant influence.
+
+As shown in Table 5 the deposition parameter that has the highest contribution to reducing grain size values is I
+                        Ti (~ 46%), followed by V
+                        b (~ 19%), then by I
+                        V (18%) and finally by P
+                        o (17%). Through the analysis of the main effect plots for S/N ratios, it was determined that the experimental levels that yield the most favorable τ values are a P
+                        o level of 2, a V
+                        b level of 3, an I
+                        Ti level of 2 and an I
+                        V level of 1.
+
+The elemental chemical composition of the investigated coatings is given in Table 3. As shown in Table 3, the chemical analysis confirms the presence of Ti, V and N in all coatings. Vanadium (X=V/(Ti+V)) and nitrogen fractions (Y=N/(Ti+V)) were determined from the atomic percentages of these species in each coating. The lowest vanadium content (3.96at%) was presented by the I9 coating, and the highest (25.48at%) by the I4 and I7 coatings. The nitrogen content in all investigated coatings exhibited small variations: the minimum (~49 at%) was presented by the I3 coating and the maximum percentage (56at%) by the I9 coating.
+
+The main effect plots for S/N ratios and the ANOVA results for X and Y are not shown in this paper; however, the contribution percentage of each factor on these variables is presented in Table 5. Considering that the hardest coatings (e.g., I5 and I9) were those that exhibited the lowest V fractions (X≤0.38) and highest N fractions (Y≥1.20), lower V content and higher N content were considered to be better. The analysis of variance indicated that for reducing the V fraction, the variable that has the greater contribution is I
+                        V (~38%), followed by V
+                        b (~26%), then by I
+                        Ti (~19%) and finally by P
+                        o (~17%). For increasing the nitrogen content, these factors are ranked in a decreasing order: P
+                        o (~41%)>I
+                        V (~36%)>V
+                        b (~21%)>I
+                        Ti (~2%).
+
+In addition to I
+                        V, V
+                        b has also been shown to have a significant effect on the coatings׳ V content and V fraction (X). As shown in Tables 1–3, at a V
+                        b level of 1 (e.g., I4 and I7 coatings), the V content in the coatings reached their maximum (25.48at%) regardless of the deposition I
+                        V value (e.g., levels 2 and 3) and the rest of the operation variables. However, when a higher V
+                        b level of 3 was used, I
+                        V had a significant influence on the V content; for instance, when I
+                        V was increased from level 1 up to level 3, V content rose from 3.96at% in the I9 coating up to 24.61at% in the I3 coating regardless of the remaining deposition parameters. Therefore, high V
+                        b levels and low I
+                        V reduce coatings׳ V content.
+
+The nitrogen content in the coatings varied primarily with the P
+                        o level of each test. As shown in Tables 1–3, small N variations were exhibited by coatings deposited at the same P
+                        o level; for instance, the I1–I3 coatings deposited at level 1 exhibit similar nitrogen fractions (Y≈1) while the I4–I6 coatings deposited at level 2 present N fractions of Y≈1–1.2, and the I7–I9 coatings deposited at level 3 exhibit N fractions of Y≈1.1–1.4. Thus, the nitrogen fraction Y exhibited higher values and the greatest variation when coatings were deposited at the maximum level of P
+                        o. Due to the lower affinity of V for N, the increase of V content in a coating resulted in less incorporation of N atoms. For instance, for coatings with V content≤17at% (e.g., I5 and I9), higher N fractions of Y=1.20 and 1.40 are shown, respectively, than for those with V content near 25% (e.g., I3 and I4 with Y≤0.99). These results are consistent with those reported in the literature [10]. In reference to the Ti coating content, the lowest Ti content (21.65at%) was exhibited by I7 and the highest (35.93at%) by I9 coating.
+
+As shown in Table 5, the experimental parameters for reducing vanadium and increasing nitrogen fractions in the TiVN coatings are a P
+                        o level of 3, a V
+                        b level of 3, an I
+                        Ti level of 2 and an I
+                        V level of 1.
+
+Fig. 2 shows a typical SEM image of a coating (in this case, I3׳s) cross section, which shows the thickness (t) of the coating. The thickness values for all I1–I9 coatings are listed in Table 3. As shown in this table, the coating thicknesses were 0.99µm (I9) to 1.93µm (I3). The coating deposition rates V
+                        t (µm/h) determined by the deposition time are also summarized in Table 3. As shown, the highest deposition rate (5.79µm/h) was presented by I3 and the lowest (2.97µm/h) by I9 coating.
+
+The main effect plots for S/N ratios resulting from the design of experiments and the ANOVA results for V
+                        t are not shown; however, calculations were performed by considering a larger V
+                        t value to be better; these results are shown in Table 5. The ANOVA results indicate that the highest contribution percentage on V
+                        t was given by I
+                        V (~ 49%), followed by P
+                        o (~24%), then by V
+                        b (~14%) and finally by I
+                        Ti (~13%). By statistical analysis, it was determined that the optimal levels of each factor to produce the largest TiVN coating deposition rate are P
+                        o at level 1, V
+                        b at level 1, I
+                        Ti at level 3 and I
+                        V at level 3.
+
+Fig. 3(a) and (b) shows typical surface morphologies for the I2 and I7 TiVN coatings, which exhibited the lowest and highest RMS roughnesses, respectively. The RMS roughness (R) values of all investigated TiVN coatings are given in Table 3. As shown, the roughness values exhibited by the I1–I9 coatings are 2–5nm; only the I4 and I7 coatings exceed these values with a roughness near 8nm.
+
+RMS roughnesses of the I1–I9 coatings were considered as a response variable in the analysis of the design of experiments; a smaller value was considered to be better for this statistical study. The main effect plots for S/N ratios and the ANOVA resulting from the design of experiments for RMS roughness are not shown; however, the contribution percentage of each factor on this response variable is presented in Table 5. The optimal levels of each factor and their contribution percentage are summarized in Table 5. As shown in Table 5, the factor exhibiting the greatest effect on RMS roughness is V
+                        b (77.26%), followed by I
+                        V (8.43%) then by P
+                        o (8.15%) and finally by I
+                        Ti (6.16%). The appropriate levels of each factor to produce the lowest RMS roughness are P
+                        o at level 1, V
+                        b at level 2, I
+                        Ti at level 2 and I
+                        V at level 1.
+
+The I1–I9 coatings׳ hardnesses H
+                        c were calculated using the Korsunsky equation, H
+                        c=H
+                        s+(H
+                        f−H
+                        s)/(1+kβ
+                        2) [14], where H
+                        f is the coating hardness, H
+                        s is the substrate hardness measured independently, and β=δ/t denotes the indentation depth δ normalized with respect to the coating thickness, t. H
+                        f and k are determined by fitting the experimentally determined variation of H
+                        c with β.
+
+Fig. 4 shows the hardness (H
+                        c) results for a typical coating (I5) as a function of the relative indenter penetration depth. The experimentally measured values are displayed as points, and the values resulting from the model are displayed as a solid line. When the indentation is performed, both the coating and substrate are affected; a greater contribution of the substrate is produced at higher loads while an increased contribution of the coating is produced at low loads. A sigmoidal profile characteristic of high hardness coatings is presented by varying the loads for all investigated coatings. Table 3 summarizes the results of the investigated TiVN coatings׳ hardness H
+                        f. As shown, most of the coatings studied have H
+                        f values higher than 12GPa. The I5 coating exhibited the highest hardness value (~15GPa), followed by I9 (14.2GPa). Conversely, the measured AISI D2 substrate hardness (H
+                        s) was 5GPa.
+
+The hardness values obtained for the experimental coatings were used as a response variable, where larger values were considered to be better in the experimental design. The main effects plot for S/N ratios of H
+                        f is shown in 
+                        Fig. 5(a); this figure shows the effects of the operating variables A (P
+                        o), B (V
+                        b), C (I
+                        Ti) and D (I
+                        v) on the coating hardness at their lowest (1), middle (2) and highest (3) levels, according to Table 1. The analysis of variance was performed for the H
+                        f average values of the S/N ratios (η), and the results are presented in Table 4. The contribution percentage of each factor on H
+                        f is summarized in Table 5. As shown in Fig. 5(a), the factor that exhibits the greatest variation in the H
+                        f 
+                        S/N ratio is I
+                        V. According to Tables 4 and 5, the factor I
+                        V has the greatest influence (68.47%) on hardness, followed by I
+                        Ti (26.96%), subsequently by P
+                        o (4.37%) and finally by V
+                        b (0.20%).
+
+Fig. 6 shows the adhesion results obtained by the scratch test for a typical TiVN coating (I3). Similar results are exhibited for all investigated coatings (I1–I9). Fig. 6(b) shows the graph of the tangential force (F
+                        T) as a function of the applied normal force (F
+                        N) for the coating–substrate system. From this graph, the critical force (F
+                        c) associated with adhesion of the coatings is determined by the F
+                        N value at which an abrupt slope change in the tangential force is produced that corresponds to coating detachment. Fig. 6(a) shows the acoustic emission signal emitted during the indentation of the sample; a drop in the acoustic signal is normally produced at F
+                        c. Fig. 6(c)–(e) shows optical microscopy images, and Fig. 6(f)–(h) shows SEM images of the scratch track formed on the coating surface at three different areas (i.e., (c) and (f) prior to F
+                        c, (d) and (g) in the region at which F
+                        c occurs, and (e) and (h) in the region following F
+                        c). The abrupt slope change in the tangential force produced at the F
+                        c value is due to the resistance that opposed the carbide substrate to the indenter displacement, which is different to that opposed by the investigated coating. The coating detachment produced at F
+                        c is confirmed by optical microscopy and SEM (Fig. 6(d), (e), (g) and (h)). Table 3 summarizes the average F
+                        c value of at least five adhesion scratch tests conducted for each coating. As shown, most F
+                        c values are in the range of 91–113N; the maximum F
+                        c values are obtained for the I3 and I7 samples (~113N).
+
+In the investigated TiVN coating–substrate systems, both cohesive and adhesive failures occur located at different positions on the scratch track at different applied normal loads. In the scratch tracks of all I1–I9 coatings, two types of cohesive failure prior to the F
+                        c value are detected. Initially, a cohesive failure of buckling cracks [19] characterized by the formation of arc-shape curved cracks that are irregularly spaced in the scratch direction occurs in front of the indenter tip prior to F
+                        c, as shown in Fig. 6(c). Increasing the normal load applied to the system, a second type of cohesive failure of buckling spallation type is presented that is characterized by coating crack growth and a slight detachment of some coating fragments from these cracks, resulting in a delaminating process of the coating in such fractures, as shown in Fig. 6(f). This failure mode is similar to the first, but the width of the groove left by the arc-shaped cracks due to detachment of the coating is greater. This failure occurs when the point of maximum contact stress is produced on the coating and not on the interface where the bond between the coating and substrate is relatively strong. The linear movement of the diamond tip under the applied normal force produces a complex and changing compression, tension and shear stress field in the coating. The applied stress is also combined with the residual stress in the coating. All these stresses provide a wide range of responses, including plastic deformation, bending and cracking. Finally, an adhesive failure arises, as shown in Fig. 6(e) and (h), wherein the coating is fully detached, corresponding to the value of the critical load F
+                        c. The critical failure occurs when plastic deformation occurs in the substrate–coating interface and is combined with the tensile stresses in the back of the moving indenter tip. A change of color tone identified by an arrow in Fig. 6(d) is associated with coating detachment at F
+                        c. The well-defined region observed in Fig. 6(d) after F
+                        c corresponds to the substrate and confirms the complete detachment of the coating. These values depend on the interfacial intermolecular interactions between both materials in contact, which rely on the bond strength and the interface energy between the substrate and the coating determined by the chemical bond between them.
+
+The EDS elemental chemical analysis mapping of a representative coating (I9) is presented in 
+                        Fig. 7. As shown in this figure, the scratch track regions where the cracks appear and where the coating is detached exhibit a deficiency in the elemental constituents of the coating (Ti, V and N) and an enrichment in the elements of the substrate (W and Co). This finding verifies that the clearer regions on the micrographs in Fig. 6(f)–(h) correspond to the substrate and confirms that F
+                        c corresponds to the full coating detachment.
+
+The main effect plots for S/N ratios from the statistical analysis using the F
+                        c values as a response variable while considering that a larger value is better are shown in Fig. 5(b). In this figure, the effects of the four factors A (P
+                        o), B (V
+                        b), C (I
+                        Ti) and D (I
+                        V) on F
+                        c are presented with regard to the low, middle and high (i.e., 1, 2 and 3) levels of these factors, according to Table 1. The results of the analysis of variance performed for the average values of the S/N ratios (η) of TiVN coatings adhesion critical load F
+                        c are shown in Table 4. The contribution percentage of each factor on F
+                        c is summarized in Table 5. As shown in Table 5 and Fig. 5(b), the factor that exhibits the greatest variation in F
+                        c is V
+                        b. This factor has the highest contribution percentage (40.40%) on F
+                        c, followed by I
+                        Ti (33.89%), subsequently by P
+                        o (21.73%) and finally by I
+                        V (3.98%). As shown in Table 5, the optimal level of each factor to achieve the greatest adhesion of TiVN coatings is level 3. The best condition for I
+                        V is found to be level 3 (Table 5); however, the variation of F
+                        c should be negligible at any level, given the small effect that I
+                        V has on F
+                        c (<4%).
+
+The statistical analysis of the XRD results show a large effect of I
+                     V on a, which is clearly illustrated for the I1 and I3 coatings, for which a decreases from 4.22Å to 4.11Å when I
+                     V increases from level 1 to 3, respectively, regardless of the remaining operation parameters levels. Values below 4.14Å indicate that more V ions occupy Ti ions sites, and because V ions are smaller in size than those of Ti, the lattice parameter decreases. These results are consistent with those reported in the literature, which show this change in lattice parameter due to the vanadium content [6,7,15].
+
+The coating deposition rate results show that changes in the I
+                     V level had a significant effect on V
+                     t. For instance, at higher I
+                     V values (i.e., level 3), the coating deposition rate on AISI D2 steel is 5.6 and 5.8µmh−1 on the I4 and I3 coatings, respectively, and was shown to vary inversely with decreasing I
+                     V, falling to 2.9µmh−1 at level 1 in the I9 coating. The I
+                     Ti at level 3 also enhances V
+                     t; this is expected because of the higher erosion rates produced at higher I
+                     V and I
+                     Ti levels. Changes in the P
+                     o level also had a clear effect on the coating deposition rate. With low P
+                     o, the coating deposition rate is relatively high at 3.9–5.8µmh−1 for the I1–I3 coatings and varied inversely with increasing P
+                     o, falling to 2.9µmh−1 at level 3 in the I9 coating. This behavior with increasing P
+                     o can be attributed to target contamination by forming nitrides on their surface, establishing a barrier and preventing erosion [6]. Modifications to V
+                     b also have an effect on the coating rate. Accelerating ions through a negative bias increases their energy and their arrival rate; however, this also increases their resputter rate, thus reducing the net deposition rate (i.e., the arrival rate minus the resputter rate) of the coating. At low V
+                     b, the coating deposition rate is rather high at 5.6µmh−1 for the I4 coating and varied inversely as V
+                     b increases, falling to 3.5µmh−1 at level 2 with the I5 and I8 coatings. However, I
+                     V has a more significant effect on V
+                     t than V
+                     b (when V
+                     b is at level 3). This phenomenon explains why the highest I
+                     V level produces a V
+                     t value that is high (5.7µmh−1 for the I3 coating) even when V
+                     b is high.
+
+The coating hardness results show that most of the coatings studied have H
+                     f values higher than 12GPa. According to the statistical analysis, the factor I
+                     V has the greatest influence (68.47%) on hardness. The highest hardness is obtained with a level 1 I
+                     V, while the best condition for I
+                     Ti is produced at level 2, although the variation of H
+                     f should be small if level 3 were used. In addition, the highest hardness is obtained at a level 1 P
+                     o, but the difference of H
+                     f should be small if level 2 were used. Finally, higher hardness coatings are obtained with V
+                     b at level 1; however, the deviation would be negligible if levels 2 or 3 were used, given the small effect that this parameter has on H
+                     f. These results are consistent with those reported [7], which indicated that large V quantities give rise to lower hardness due to the formation of individual nitrides TiN and VN. This behavior has been reported for other ternary systems such as TiAlN [18].
+
+The TiVN hardness was also influenced by the film microstructure features because the hardness was measured from indentation tests, in which different factors affect the result, such as the average grain size, roughness, stoichiometry, and lattice parameter. This phenomenon is clearly seen for the I5 and I9 coatings, which showed the highest H
+                     f values near 15GPa, and which showed smaller grain sizes (≤18.9nm), lower roughness values (3.35nm), lower V content (≤17at%) and optimal lattice parameters of 4.15–4.16Å.
+
+The marginally lower hardness exhibited by the TiVN coatings investigated in this study (15GPa) compared with the hardness values of commercial TiN (17–21GPa) is likely due to the lower thickness 0.9–1.9µm, of the investigated experimental TiVN coatings compared with the ~4µm of commercial TiN.
+
+The coating adhesion strength results show that the higher values of F
+                     c were exhibited by samples I3 and I7 (~113N) and are attributed partially to their higher coating thickness (>1.46μm) because the critical adhesion strength value is strongly dependent on the coating properties and its thickness. Being the thickest, the I3 sample has more space for the stress distribution generated on the coating before reaching the coating–substrate interface increasing the F
+                     c value.
+
+The critical failure F
+                     c occurs when plastic deformation occurs in the substrate–coating interface and is combined with the tensile stresses in the back of the moving indenter tip. The primary contribution percentage of V
+                     b (40.40%) at the highest level on the critical adhesion load F
+                     c value can be attributed to the greater attraction of Ti and V ionic particles in multiple charge states (1+, 2+ and 3+) to the substrate due to their high degree of ionization. Indeed, the substrate bias voltage V
+                     b affects the attraction of species to the substrate, hence influencing their kinetic energy; the higher atomic weight elements with higher average charge exhibit higher kinetic energies, which increase their attraction to the polarized substrate [5]. For the investigated TiVN coatings, V has a higher charge and a higher atomic weight than Ti. Depending on the amplitude of the bias, different effects may be distinguished. At a high bias voltage, ions are accelerated at higher kinetic energies; however, if the bias voltage is high, more atoms are removed from the substrate surface than the ions and atoms that arrive on it, modifying the net deposition rate (i.e., the arrival rate minus the resputter rate), composition, structure and morphology of the coating [5]. Furthermore, the energetic condensation of ions leads to dense, well adherent films [20]. This outcome is attributed to an increase in the nucleation density [20], which results in a reduction in the mobility of the atoms on the surface to be coated; this leads to more compact coating growth, preventing holes or uncoated areas, increasing the contact area between the substrate and the coating, and thus facilitating the adhesion of TiVN coatings.
+
+TiVN coatings were deposited on AISI D2 steel substrates by PVD cathodic arc erosion at conditions in accordance with a Taguchi orthogonal design of experiments. The results showed that TiVN coatings have a cubic B1 structure over the entire range of experimental conditions. The obtained TiVN coatings were shown to have a good hardness near 15GPa, and high adhesion critical loads of 113N.
+
+The experimental design showed the effect of operational parameters such as reactive gas pressure (P
+                     o), bias voltage (V
+                     b), and the currents applied to the titanium (I
+                     Ti) and to the vanadium (I
+                     V) targets at low, middle and high (i.e., 1, 2 and 3) levels of these parameters with regard to coating properties. The conclusions drawn from the results of these investigations are as follows: for I
+                     V, level 1 is the most favorable, producing the hardest TiVN coatings; this parameter has the largest contribution percentage near 68%, to hardness as well as producing the smallest roughness coatings; I
+                     V at level 3 is the most favorable for the adhesion critical load F
+                     c; however, the change in the F
+                     c value is negligible if any level is used, given the small contribution that I
+                     V has on F
+                     c (<4%). With respect to P
+                     o, lower levels (1–2) are appropriate to obtain high hardness, improve the adhesion critical value, and favor the deposition rate, preventing nitride contamination of the cathode surfaces. In reference to I
+                     Ti, the highest level (3) produces the highest hardness and adhesion critical load values. In relation with V
+                     b, the highest level (3) is the most appropriate to obtain high hardness and adhesion critical loads as well as reduced roughness. This outcome occurs because the adhesion critical load increased remarkably as a result of energetic metal ion condensation, which increases nucleation density. This behavior allows more compact coating growth, preventing holes or uncoated areas and increasing the contact area between the substrate and the coating, facilitating the adhesion of TiVN coatings. The best experimental conditions at the optimum level of each studied deposition parameter to obtain TiVN coatings with high hardness and high adhesion with appropriate values for the rest of the coatings׳ properties are P
+                     o=2–3.5Pa, V
+                     b=−145V, I
+                     V=50A and I
+                     Ti=75A.
+
+The authors would like to acknowledge the National Science and Technology Council of Mexico, CONACYT for supporting this research under Grant no. 38467U. And also are very grateful to M.Sc. M. Santisteban Abad for his valuable contribution to this research.

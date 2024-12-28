@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0040609012014320</prism:url><dc:identifier>doi:10.1016/j.tsf.2012.10.107</dc:identifier><eid>1-s2.0-S0040609012014320</eid><prism:doi>10.1016/j.tsf.2012.10.107</prism:doi><pii>S0040-6090(12)01432-0</pii><dc:title>Growth study and characterization of In–Sb–Te compounds deposited onto different substrates by metal–organic chemical vapour deposition </dc:title><prism:publicationName>Thin Solid Films</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00406090</prism:issn><prism:volume>533</prism:volume><prism:startingPage>66</prism:startingPage><prism:endingPage>69</prism:endingPage><prism:pageRange>66-69</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2013-04-30</prism:coverDate><prism:coverDisplayDate>30 April 2013</prism:coverDisplayDate><prism:copyright>Copyright © 2012 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>EMRS 2012 Symposium L</prism:issueName><dc:creator>Stoycheva, T.</dc:creator><dc:creator>Longo, M.</dc:creator><dc:creator>Fallica, R.</dc:creator><dc:creator>Volpe, F.</dc:creator><dc:creator>Wiemer, C.</dc:creator><dc:description>
+                  A systematic study of the deposition parameters for the metal–organic chemical vapour deposition growth of In–Sb–Te (IST), of interest for phase change memory applications, was performed. Samples were grown on Si/SiO2 and patterned substrates in the (220÷350)°C temperature range and working pressure from 35 to 100×102
+                     Pa, which resulted in the formation of thin films (down to 30nm) or IST crystals. The chemical composition of the IST films was mainly dependent on the deposition temperature. We have demonstrated the possibility to obtain a conformal and smooth morphology with improved surface roughness for films grown at 260°C when the substrate surface is treated with the TrisDimethylaMinoAntimony ([N(CH3)2]3Sb) precursor. The IST-based chalcogenide films exhibited different crystalline and partially amorphous phases, which may be favourable for multilevel data storage. The IST growth mechanism was analysed in terms of the structural, compositional and electrical properties.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>In–Sb–Te</dcterms:subject><dcterms:subject>MOCVD</dcterms:subject><dcterms:subject>Chalcogenides</dcterms:subject><dcterms:subject>Non-volatile memories</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0040609012014320" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0040609012014320" rel="scidir"/></coredata><objects><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1615" height="1128" size="268915">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1585" height="1154" size="293007">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1467" height="1144" size="247495">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1556" height="1149" size="236163">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3160" height="843" size="509787">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2272" height="1051" size="402040">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="364" height="254" size="37433">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="358" height="261" size="38637">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="331" height="258" size="37824">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="351" height="259" size="31618">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="714" height="190" size="60075">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="513" height="237" size="53944">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="153" size="6694">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="159" size="7702">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="210" height="164" size="6967">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="6438">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="58" size="5336">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="101" size="8254">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012014320-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84879879935</scopus-id><scopus-eid>2-s2.0-84879879935</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84879879935" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271603</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Thin Solid Films</xocs:srctitle>
+      <xocs:normalized-srctitle>THINSOLIDFILMS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20121109">2012-11-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20121109">2012-11-09</xocs:available-online-date>
+      <xocs:ew-transaction-id>2013-04-08T08:08:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0040609012014320</xocs:eid>
+      <xocs:pii-formatted>S0040-6090(12)01432-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0040609012014320</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.tsf.2012.10.107</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0040609013X00070</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T02:53:03.807595-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130430</xocs:date-search-begin>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1352419200">2012-11-09T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings suppl vol volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0040-6090</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00406090</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>533</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>533</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 533</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>15</xocs:sort-order>
+      <xocs:first-fp>66</xocs:first-fp>
+      <xocs:last-lp>69</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>66</xocs:first-page>
+         <xocs:last-page>69</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20130430</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>30 April 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-04-30</xocs:cover-date-start>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>EMRS 2012 Symposium L</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Sabina</ce:given-name>
+                     <ce:surname>Spiga</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Christophe</ce:given-name>
+                     <ce:surname>Muller</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Russell</ce:given-name>
+                     <ce:surname>Cowburn</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Heike</ce:given-name>
+                     <ce:surname>Riel</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Jan</ce:given-name>
+                     <ce:surname>Siegel</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Resistive Switching and Phase Change Memories</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2012 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>GROWTHSTUDYCHARACTERIZATIONINSBTECOMPOUNDSDEPOSITEDDIFFERENTSUBSTRATESBYMETALORGANICCHEMICALVAPOURDEPOSITION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>STOYCHEVA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experiments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>LACAITA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>24</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>KOLOBOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>703</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>KYRSTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>56</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>ABRUTIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2338</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>RESO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>D187</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3969</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>LONGO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5053</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>MAEDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1715</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>MEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>18</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>232</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>GREGORY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>265</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>DALYFLYNN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>103</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>091915</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>AHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>D353</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>AHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>472</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>AHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>189</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>SCHROTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H06</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>083531</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>MANIVANNAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>212</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSEPCOS2011CONFERENCEZURICHSWITZERLANDSEPTEMBER4TH6TH</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>SHIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>021905</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>98</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>SHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>162108</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>STOYCHEVAX2013X66</xocs:refkey3>
+         <xocs:refkey4lp>STOYCHEVAX2013X66X69</xocs:refkey4lp>
+         <xocs:refkey4ai>STOYCHEVAX2013X66XT</xocs:refkey4ai>
+         <xocs:refkey5>STOYCHEVAX2013X66X69XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0040-6090(12)01432-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0040609012014320</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0040609012014320</xocs:eid>
+         <xocs:doi>10.1016/j.tsf.2012.10.107</xocs:doi>
+         <xocs:cid>271603</xocs:cid>
+         <xocs:timestamp>2013-04-08T03:16:20.127516-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-04-30</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/MAIN/application/pdf/2a6c13acbdd18b99cc6d0662a5fada8c/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/MAIN/application/pdf/2a6c13acbdd18b99cc6d0662a5fada8c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>815107</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0040609012014320-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/PREVIEW/image/png/37da249fa68cad437688c6c68736a675/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/PREVIEW/image/png/37da249fa68cad437688c6c68736a675/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>94133</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr6/HIGHRES/image/jpeg/17a6a6f0f01ab59e9bedf969efd328ee/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr6/HIGHRES/image/jpeg/17a6a6f0f01ab59e9bedf969efd328ee/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>268915</xocs:filesize>
+               <xocs:pixel-height>1128</xocs:pixel-height>
+               <xocs:pixel-width>1615</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr5/HIGHRES/image/jpeg/60dcfc0841e0e00e09feb658bfe4bd80/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr5/HIGHRES/image/jpeg/60dcfc0841e0e00e09feb658bfe4bd80/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>293007</xocs:filesize>
+               <xocs:pixel-height>1154</xocs:pixel-height>
+               <xocs:pixel-width>1585</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr4/HIGHRES/image/jpeg/df41993a190f5c2024b5fc0ce3b15b40/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr4/HIGHRES/image/jpeg/df41993a190f5c2024b5fc0ce3b15b40/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>247495</xocs:filesize>
+               <xocs:pixel-height>1144</xocs:pixel-height>
+               <xocs:pixel-width>1467</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr3/HIGHRES/image/jpeg/fd329787b33ac4e2b29569cf302accbd/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr3/HIGHRES/image/jpeg/fd329787b33ac4e2b29569cf302accbd/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>236163</xocs:filesize>
+               <xocs:pixel-height>1149</xocs:pixel-height>
+               <xocs:pixel-width>1556</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr2/HIGHRES/image/jpeg/4033255fe1049c01b540c365ca5c174d/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr2/HIGHRES/image/jpeg/4033255fe1049c01b540c365ca5c174d/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>509787</xocs:filesize>
+               <xocs:pixel-height>843</xocs:pixel-height>
+               <xocs:pixel-width>3160</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr1/HIGHRES/image/jpeg/a85aeaf90e1a001314b0bb2ed09596af/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr1/HIGHRES/image/jpeg/a85aeaf90e1a001314b0bb2ed09596af/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>402040</xocs:filesize>
+               <xocs:pixel-height>1051</xocs:pixel-height>
+               <xocs:pixel-width>2272</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr6/DOWNSAMPLED/image/jpeg/891edc0747f581581054d1d255d33105/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr6/DOWNSAMPLED/image/jpeg/891edc0747f581581054d1d255d33105/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37433</xocs:filesize>
+               <xocs:pixel-height>254</xocs:pixel-height>
+               <xocs:pixel-width>364</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr5/DOWNSAMPLED/image/jpeg/ca1192f5ca27409eacf0d23b8c4128a5/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr5/DOWNSAMPLED/image/jpeg/ca1192f5ca27409eacf0d23b8c4128a5/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38637</xocs:filesize>
+               <xocs:pixel-height>261</xocs:pixel-height>
+               <xocs:pixel-width>358</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr4/DOWNSAMPLED/image/jpeg/bec709603c833e3892d13901606f02c4/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr4/DOWNSAMPLED/image/jpeg/bec709603c833e3892d13901606f02c4/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37824</xocs:filesize>
+               <xocs:pixel-height>258</xocs:pixel-height>
+               <xocs:pixel-width>331</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr3/DOWNSAMPLED/image/jpeg/c9be210652568ca79ef9ce15561f7080/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr3/DOWNSAMPLED/image/jpeg/c9be210652568ca79ef9ce15561f7080/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31618</xocs:filesize>
+               <xocs:pixel-height>259</xocs:pixel-height>
+               <xocs:pixel-width>351</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr2/DOWNSAMPLED/image/jpeg/3dbf550ed649dc8f69e0e5336fa9641d/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr2/DOWNSAMPLED/image/jpeg/3dbf550ed649dc8f69e0e5336fa9641d/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>60075</xocs:filesize>
+               <xocs:pixel-height>190</xocs:pixel-height>
+               <xocs:pixel-width>714</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr1/DOWNSAMPLED/image/jpeg/e69eab2d53f0ad4e04acccb81faf2679/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr1/DOWNSAMPLED/image/jpeg/e69eab2d53f0ad4e04acccb81faf2679/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>53944</xocs:filesize>
+               <xocs:pixel-height>237</xocs:pixel-height>
+               <xocs:pixel-width>513</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr6/THUMBNAIL/image/gif/bd901f62e1d927f8ee0e4ccf33677aba/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr6/THUMBNAIL/image/gif/bd901f62e1d927f8ee0e4ccf33677aba/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6694</xocs:filesize>
+               <xocs:pixel-height>153</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr5/THUMBNAIL/image/gif/e7a8ec866d7ccf7070ad31effec69e1a/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr5/THUMBNAIL/image/gif/e7a8ec866d7ccf7070ad31effec69e1a/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7702</xocs:filesize>
+               <xocs:pixel-height>159</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr4/THUMBNAIL/image/gif/e56deba1efcadb9e7d555d9ed9656773/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr4/THUMBNAIL/image/gif/e56deba1efcadb9e7d555d9ed9656773/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6967</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>210</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr3/THUMBNAIL/image/gif/4ee1e91f83ecbcc09d444993253b66e7/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr3/THUMBNAIL/image/gif/4ee1e91f83ecbcc09d444993253b66e7/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6438</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr2/THUMBNAIL/image/gif/905b0805f65aceaa51cd04943025b4c4/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr2/THUMBNAIL/image/gif/905b0805f65aceaa51cd04943025b4c4/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5336</xocs:filesize>
+               <xocs:pixel-height>58</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012014320-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012014320/gr1/THUMBNAIL/image/gif/2963f20dbd7a528cfc69d0ed24b4e45f/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012014320/gr1/THUMBNAIL/image/gif/2963f20dbd7a528cfc69d0ed24b4e45f/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8254</xocs:filesize>
+               <xocs:pixel-height>101</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>TSF</jid>
+            <aid>31219</aid>
+            <ce:pii>S0040-6090(12)01432-0</ce:pii>
+            <ce:doi>10.1016/j.tsf.2012.10.107</ce:doi>
+            <ce:copyright type="full-transfer" year="2012">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0015" view="all">(a–d) The SEM tilted view images showing the effect of the deposition temperature on the surface morphology when planar SiO<ce:inf loc="post">2</ce:inf> substrates are employed.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0020" view="all">(a–c) The SEM tilted view images showing the effect on the conformality of the layers of different pre-treatment strategies on planar SiO<ce:inf loc="post">2</ce:inf> and trenches on patterned substrates.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0025" view="all">Comparison of XRR spectra obtained from IST layer with and without TDMASb pre-treatment (red triangles and blue circles, respectively).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0030" view="all">XRD patterns obtained from IST samples deposited at different temperatures/pressures. The identified crystallization phases are: (from top to bottom): T<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>260<ce:hsp sp="0.25"/>°C, 100<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>Pa, annealed at 350<ce:hsp sp="0.25"/>°C: tetragonal In<ce:inf loc="post">4</ce:inf>Te<ce:inf loc="post">3</ce:inf> and cubic In(Sb<ce:inf loc="post">0.9</ce:inf>Te<ce:inf loc="post">0.1</ce:inf>); T<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>260<ce:hsp sp="0.25"/>°C, 100<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>Pa: In(Sb<ce:inf loc="post">0.9</ce:inf>Te<ce:inf loc="post">0.1</ce:inf>) cubic<ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>amorphous; T<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>350<ce:hsp sp="0.25"/>°C, 100<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>Pa ~<ce:hsp sp="0.10"/>90% In<ce:inf loc="post">4</ce:inf>Te<ce:inf loc="post">3</ce:inf> tetragonal and In(Sb<ce:inf loc="post">0.9</ce:inf>Te<ce:inf loc="post">0.1</ce:inf>) cubic; T<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>350<ce:hsp sp="0.25"/>°C, 50<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>Pa ~<ce:hsp sp="0.10"/>75% In<ce:inf loc="post">4</ce:inf>Te<ce:inf loc="post">3</ce:inf> tetragonal and In(Sb<ce:inf loc="post">0.9</ce:inf>Te<ce:inf loc="post">0.1</ce:inf>) cubic. The diffraction patterns of powder In(Sb<ce:inf loc="post">0.9</ce:inf>Te<ce:inf loc="post">0.1</ce:inf>) and In<ce:inf loc="post">4</ce:inf>Te<ce:inf loc="post">3</ce:inf> are also added for comparison.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0035" view="all">Chemical composition comparison of the TXRF spectra, obtained for In–Sb–Te samples deposited at temperature range from 220 to 350<ce:hsp sp="0.25"/>°C. The results are obtained for the samples deposited on the planar SiO<ce:inf loc="post">2</ce:inf> substrate.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0040" view="all">Electrical resistivity (ρ) as a function of the temperature for IST-based layers investigated in this work (line plot) and compared with known literature data (scatter plot).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0045" view="all">IST thin film thickness, surface roughness and electron density as a function of deposition parameters.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">Tg (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">Deposition time (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">t (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="left">σ (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="left">Electron density (e<sup loc="post">−</sup>/Å<sup loc="post">3</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">IST</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">260</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">44.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">4.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">1.59</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">IST<hsp sp="0.12"/>+<hsp sp="0.12"/>TDMASb pre-treatment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">260</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">44.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">2.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">1.60</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">IST<hsp sp="0.12"/>+<hsp sp="0.12"/>TMIn<hsp sp="0.12"/>+<hsp sp="0.12"/>TDMASb pre-treatment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">260</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">50.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">4.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">1.57</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">IST<hsp sp="0.12"/>+<hsp sp="0.12"/>TDMASb pre-treatment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">260</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">165</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">100.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">2.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">1.60</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">IST<hsp sp="0.12"/>+<hsp sp="0.12"/>TDMASb pre-treatment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">260</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">29.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">2.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">1.58</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Growth study and characterization of In–Sb–Te compounds deposited onto different substrates by metal–organic chemical vapour deposition</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>T.</ce:given-name>
+                  <ce:surname>Stoycheva</ce:surname>
+                  <ce:cross-ref refid="cr0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Longo</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Fallica</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>F.</ce:given-name>
+                  <ce:surname>Volpe</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>C.</ce:given-name>
+                  <ce:surname>Wiemer</ce:surname>
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:textfn>Laboratorio MDM, IMM-CNR, Unità di Agrate Brianza, Via C. Olivetti 2, 20864 Agrate Brianza, (MB), Italy</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +<ce:hsp sp="0.10"/>39 039603 2885; fax: +<ce:hsp sp="0.10"/>39 039 6881175.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="sp0005" view="all">A systematic study of the deposition parameters for the metal–organic chemical vapour deposition growth of In–Sb–Te (IST), of interest for phase change memory applications, was performed. Samples were grown on Si/SiO<ce:inf loc="post">2</ce:inf> and patterned substrates in the (220<ce:hsp sp="0.12"/>÷<ce:hsp sp="0.12"/>350)<ce:hsp sp="0.12"/>°C temperature range and working pressure from 35 to 100<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>Pa, which resulted in the formation of thin films (down to 30<ce:hsp sp="0.25"/>nm) or IST crystals. The chemical composition of the IST films was mainly dependent on the deposition temperature. We have demonstrated the possibility to obtain a conformal and smooth morphology with improved surface roughness for films grown at 260<ce:hsp sp="0.25"/>°C when the substrate surface is treated with the TrisDimethylaMinoAntimony ([N(CH<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>]<ce:inf loc="post">3</ce:inf>Sb) precursor. The IST-based chalcogenide films exhibited different crystalline and partially amorphous phases, which may be favourable for multilevel data storage. The IST growth mechanism was analysed in terms of the structural, compositional and electrical properties.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical">
+               <ce:abstract-sec>
+                  <ce:section-title>Highlights</ce:section-title>
+                  <ce:simple-para id="sp0010" view="all">► Metal–organic chemical vapour deposition growth of In–Sb–Te phase change alloys. ► Analysis of morphological, structural and compositional properties. ► Effect of substrate pre-treatment by Sb metalorganic precursor on layer roughness. ► Thickness-dependence of resistivity as a function of the In–Sb–Te layer thickness.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>In–Sb–Te</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>MOCVD</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Chalcogenides</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Non-volatile memories</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Phase-change chalcogenide compounds, such as Ge<ce:inf loc="post">2</ce:inf>Sb<ce:inf loc="post">2</ce:inf>Te<ce:inf loc="post">5</ce:inf> (GST), are promising materials for phase change memories (PCM) <ce:cross-ref refid="bb0005">[1]</ce:cross-ref> and have led to good device properties, such as speed, stability and data retention <ce:cross-ref refid="bb0010">[2]</ce:cross-ref>. Mainly, GST films have been obtained by sputtering deposition <ce:cross-ref refid="bb0015">[3]</ce:cross-ref>, chemical vapour deposition (CVD) <ce:cross-refs refid="bb0020 bb0025">[4,5]</ce:cross-refs> and atomic layer deposition techniques <ce:cross-ref refid="bb0030">[6]</ce:cross-ref>. Among them, metal–organic CVD (MOCVD) has the advantages of better step coverage/hole filling for deposition onto structured substrates, industrial transfer and higher composition control. Previously, we have reported the MOCVD growth of GST on SiO<ce:inf loc="post">2</ce:inf>/Si substrates, with potential application for PCM devices <ce:cross-ref refid="bb0035">[7]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0010" view="all">Other emerging chalcogenide materials to be used in PCM devices are In–Sb–Te (IST) alloys <ce:cross-refs refid="bb0040 bb0045 bb0050">[8–10]</ce:cross-refs>. They have a higher crystallization temperature (T<ce:inf loc="post">C</ce:inf>
+                     <ce:hsp sp="0.12"/>&gt;<ce:hsp sp="0.12"/>290<ce:hsp sp="0.25"/>°C) and a higher melting point (~<ce:hsp sp="0.10"/>626<ce:hsp sp="0.25"/>°C) <ce:cross-refs refid="bb0040 bb0055">[8,11]</ce:cross-refs> than GST, therefore they are a promising candidate for PCM devices for automotive applications, where data retention has to be granted for 10<ce:hsp sp="0.25"/>years at high temperatures. Moreover, compared to GST materials, IST shows multi-level phase transformation phenomena from amorphous to crystalline IST ternary phase, through several intermediate phases, such as InSb, SbTe and InTe, which is favourable for multi-level data storage <ce:cross-refs refid="bb0060 bb0065">[12,13]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0015" view="all">Mainly, the IST deposition is realized by industrial processes based on sputtering, which is not the technique of choice for conformal deposition inside high aspect-ratio structures <ce:cross-refs refid="bb0045 bb0050 bb0070">[9,10,14]</ce:cross-refs>. Up-to now only one group has reported on the MOCVD of IST, however the IST deposition was achieved at a significantly lower reactor pressure (6.5 to 13<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>Pa) and a deposition rate from 0.32 to 0.14<ce:hsp sp="0.25"/>nm/min <ce:cross-ref refid="bb0075">[15]</ce:cross-ref>. In this work we studied the MOCVD deposition of In–Sb–Te. In addition, the electrical resistivity of these films was investigated in view of their implementation into non-volatile memory devices.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experiments</ce:section-title>
+                  <ce:para id="p0020" view="all">Electronic-grade solution TriMethylIndium In(CH<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf> (TMIn), TrisDimethylaMinoAntimony [N(CH<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">2</ce:inf>]<ce:inf loc="post">3</ce:inf>Sb (TDMASb) and DiisoPropylTelluride (C<ce:inf loc="post">3</ce:inf>H<ce:inf loc="post">7</ce:inf>)<ce:inf loc="post">3</ce:inf>Te (DiPTe) were used as In, Sb and Te metal-organic precursors, respectively. The bubbler temperature for all the precursors was kept constant at 20<ce:hsp sp="0.25"/>°C during the depositions. The precursor vapours were transported to the reactor by the aid of N<ce:inf loc="post">2</ce:inf> carrier/process gas with a total flow of 4<ce:hsp sp="0.25"/>L/min. The reactor working pressure varied from 35 to 100<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>10<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>Pa and the deposition temperature from 220 to 350<ce:hsp sp="0.25"/>°C. The depositions were performed on planar SiO<ce:inf loc="post">2</ce:inf> and on patterned substrates, containing sub-micron trenches, formed by a combination of metals and dielectrics.</ce:para>
+                  <ce:para id="p0025" view="all">The film thicknesses and the surface morphology were observed via cross-section images using the Scanning Electron Microscopy (SEM), Zeiss Supra 40 field-effect microscopy at 15<ce:hsp sp="0.25"/>kV acceleration voltage. The crystallinity and structure of the IST films were determined by X-ray diffraction (XRD) experiments in grazing incidence configurations by means of an ItalStructures HRD3000 diffractometer, 40<ce:hsp sp="0.25"/>kV, 30<ce:hsp sp="0.25"/>mA, Cu K<ce:italic>α</ce:italic> radiation source. X-ray reflectivity (XRR) was performed with the same instrument to determine layer thickness, surface roughness and electron density. The chemical composition analysis was performed by total reflection X-ray fluorescence (TXRF). X-ray fluorescence measurements were done using an ItalStructures XRR-TXRF 3000 system, 40<ce:hsp sp="0.25"/>kV, 30<ce:hsp sp="0.25"/>mA, Mo K<ce:italic>α</ce:italic> radiation source. The resistivity of the IST layers was determined by sheet resistance vs. temperature measurements, using the <ce:italic>van der Pauw</ce:italic> 4-probe method (from room temperature to 450<ce:hsp sp="0.25"/>°C).</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para id="p0030" view="all">In order to cover the substrate with a uniform IST nanometric layer, different MOCVD deposition conditions were tested. In the case of IST thin film growth, the deposition temperature should be ideally maintained as low as possible, below the expected crystallization temperature T<ce:inf loc="post">
+                        <ce:italic>C</ce:italic>
+                     </ce:inf> (~<ce:hsp sp="0.10"/>280<ce:hsp sp="0.25"/>°C, <ce:cross-ref refid="bb0040">[8]</ce:cross-ref>), in order to obtain amorphous conformal layers. Actually, the growth of IST was even achieved at higher deposition temperatures (350<ce:hsp sp="0.25"/>°C), inducing the formation of crystalline material. As shown in <ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>, the surface morphology of the samples grown on planar SiO<ce:inf loc="post">2</ce:inf> substrate depends on the deposition temperature. Samples grown in the 220 to 250<ce:hsp sp="0.25"/>°C temperature range (<ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>a–b) exhibited grainy morphology, due to unsatisfactory precursor dissociation, thus a low deposition rate. The conformality and the continuity of the deposited films improved when growing at 260<ce:hsp sp="0.25"/>°C (<ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>c). On the other hand, samples grown at 350<ce:hsp sp="0.25"/>°C (<ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>d) showed nanostructured morphology and non-continuous layers were grown: in this case the strong tendency to form crystal grains was evident. In the work of Ahn et al. <ce:cross-ref refid="bb0080">[16]</ce:cross-ref> a similar morphology effect was observed by varying the deposition temperature.</ce:para>
+                  <ce:para id="p0035" view="all">Next, in order to improve the substrate coverage and conformality of the IST thin layers deposited at 260<ce:hsp sp="0.25"/>°C, different pre-treatment strategies were investigated. Therefore, before the IST deposition, the substrates were exposed to TDMASb or TMIn<ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>TDMASb vapours for 5<ce:hsp sp="0.25"/>min. The precursor concentrations for both the surface pre-treatment and the IST deposition were kept constant and equal. The effect of the different surface pre-treatment for the samples deposited at 260<ce:hsp sp="0.25"/>°C is shown in <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>. A comparison of XRR spectra obtained from IST layer deposited with and without TDMASb pre-treatment is shown in <ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/>, while the parameters extracted from the simulation of the XRR spectra of all the analysed samples are reported in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/>. As a general feature, in all cases the CVD character of the deposition induced good trench sidewall coverage, which is a fundamental aspect for the technological implementation of scaled PCM devices. In particular, it was found by the TDMASb pre-treatment that the roughness is dramatically lowered from ~<ce:hsp sp="0.10"/>4<ce:hsp sp="0.25"/>nm (<ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>a, no pre-treatment) to ~<ce:hsp sp="0.10"/>2<ce:hsp sp="0.25"/>nm (<ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>b, TDMASb pre-treatment), as confirmed by the smooth and uniform morphology. As a comparison, Ahn et al. reported a roughness of approximately 3.2<ce:hsp sp="0.25"/>nm for the IST layers deposited by MOCVD at 250<ce:hsp sp="0.25"/>°C <ce:cross-ref refid="bb0085">[17]</ce:cross-ref>. Differently, when the combined pre-treatment of TMIn<ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>TDMASb was used, compact grain morphology was observed, corresponding to a higher surface roughness (~<ce:hsp sp="0.10"/>4.8<ce:hsp sp="0.25"/>nm) and poorer morphology (<ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>c). Further, we achieved film thickness control from 100 to 30<ce:hsp sp="0.25"/>nm, where for the IST and TDMASb pre-treated IST films the calculated electron density remained constant, while the surface roughness improved by 50% for the same layer thickness (see <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0040" view="all">The deposition rate of the best film morphology (<ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>b), obtained with the TDMASb pre-treatment on patterned substrate, was approx. 0.40<ce:hsp sp="0.25"/>nm/min, while on a planar SiO<ce:inf loc="post">2</ce:inf> substrate it was approx. 0.58<ce:hsp sp="0.25"/>nm/min; the different values can be accounted for when considering the different materials forming the substrates. Comparing with In–Sb–Te layers studied in another work <ce:cross-ref refid="bb0080">[16]</ce:cross-ref>, the deposition rate onto patterned substrate was measured to be 2-fold lower.</ce:para>
+                  <ce:para id="p0045" view="all">A possible explanation for the TDMASb pre-treatment advantage when using patterned substrates can be attributed to a surface chemistry effect, since the tendency of the Sb and Te precursors not to readily decompose on dielectrics, but to efficiently decompose on metal surfaces (such as TiN, W) was observed in the absence of a reactive gas <ce:cross-ref refid="bb0090">[18]</ce:cross-ref>. As for the planar substrates, Kim et al. proposed Ge films that were deposited on TiAlN/SiO<ce:inf loc="post">2</ce:inf>/Si by MOCVD, through the catalyst effect of the Sb metal decomposed from the Sb(iPr)<ce:inf loc="post">3</ce:inf> precursor <ce:cross-ref refid="bb0095">[19]</ce:cross-ref> and we reported that the GST coverage on SiO<ce:inf loc="post">2</ce:inf> is improved by (TDMAGe<ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>TDMASb) pre-treatment <ce:cross-ref refid="bb0035">[7]</ce:cross-ref>. Last, it is conceivable that the contemporary presence of In and Sb precursors during the pre-treatment is less effective in improving the precursor decomposition than the TDMASb precursor alone.</ce:para>
+                  <ce:para id="p0050" view="all">The XRD patterns of the samples deposited at different temperatures and pressures are displayed in <ce:cross-ref refid="f0020">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/>. In samples deposited at temperatures below 270<ce:hsp sp="0.25"/>°C, the amorphous phase was identified together with the In(Sb<ce:inf loc="post">0.9</ce:inf>Te<ce:inf loc="post">0.1</ce:inf>) cubic phase. An increase of the crystallized fraction and the development of new phases were clearly observed in samples deposited at higher temperatures (350<ce:hsp sp="0.25"/>°C). The In<ce:inf loc="post">4</ce:inf>Te<ce:inf loc="post">3</ce:inf> tetragonal phase is identified in samples deposited at higher temperature and its fraction increased with the working pressure. After annealing at 350<ce:hsp sp="0.25"/>°C, the In<ce:inf loc="post">4</ce:inf>Te<ce:inf loc="post">3</ce:inf> structure was found also to develop in samples grown at 260<ce:hsp sp="0.25"/>°C.</ce:para>
+                  <ce:para id="p0055" view="all">The composition of the grown samples as a function of temperature in the (220<ce:hsp sp="0.12"/>÷<ce:hsp sp="0.12"/>350)<ce:hsp sp="0.12"/>°C range was analysed by TXRF, as shown in <ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="f0025"/>. The TXRF analysis demonstrated that the deposited material is formed by different In–Sb–Te alloys. Apart from background peaks due to the environment contribution (Ar, Cr, Fe, Cu), the In, Sb and Te peaks are visible, along with the Si peak, coming from the substrate. The calculated chemical composition of samples grown at 350<ce:hsp sp="0.25"/>°C deposition temperature was In<ce:inf loc="post">3</ce:inf>Sb<ce:inf loc="post">0.6</ce:inf>Te<ce:inf loc="post">1.9</ce:inf> close to the stable stoichiometric In<ce:inf loc="post">3</ce:inf>Sb<ce:inf loc="post">1</ce:inf>Te<ce:inf loc="post">2</ce:inf> ternary phase. However, when decreasing the deposition temperature below T<ce:inf loc="post">
+                        <ce:italic>C</ce:italic>
+                     </ce:inf>, the Te content decreases, while the Sb increases. Indeed, the measured chemical composition for samples deposited at 260<ce:hsp sp="0.25"/>°C was In<ce:inf loc="post">3</ce:inf>Sb<ce:inf loc="post">2.8</ce:inf>Te<ce:inf loc="post">0.8</ce:inf>. In particular, it is evident how the Te peaks show a decreasing intensity with decreasing the deposition temperature.</ce:para>
+                  <ce:para id="p0060" view="all">The resistivity value of the samples was measured by means of the 4-probe <ce:italic>van der Pauw</ce:italic> technique as a function of temperature and is closely related to their crystallinity. A comparison between our results and those reported for other In-based chalcogenides is shown in <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="f0030"/> 
+                     <ce:cross-refs refid="bb0075 bb0100 bb0105">[15,20,21]</ce:cross-refs>. As discussed previously, due to the deposition conditions, the as-grown IST layers were partially crystallized, that made not possible to detect their crystallization temperature. However, it was found that all the obtained IST compounds exhibit a semiconductor-like behaviour and the post-annealing resistivity decreases by 1/2 to 1 orders of magnitude, with respect to the as-deposited state. Note that the decrease of resistivity which occurs from RT to 400<ce:hsp sp="0.25"/>°C is too narrow to be related to a phase-change phenomenon. Indeed, it indicates the growth of the crystallite size, which triggers the crystallization of the amorphous phase in the sample grown at 260<ce:hsp sp="0.25"/>°C.</ce:para>
+                  <ce:para id="p0065" view="all">Instead, the other sharper drop occurring at ≈<ce:hsp sp="0.10"/>425<ce:hsp sp="0.25"/>°C might indicate a transition toward a different arrangement and phase formation. However, the resistivity data are not available above this temperature, due to the evaporation of the material, which starts at temperatures &gt;<ce:hsp sp="0.10"/>400<ce:hsp sp="0.25"/>°C (the measurement is carried out in a vacuum condition of 10<ce:sup loc="post">−<ce:hsp sp="0.10"/>3</ce:sup>
+                     <ce:hsp sp="0.25"/>Pa which lowers the evaporation temperature of IST). Nevertheless, the formation of the ternary IST phase occurs between 400 and 450<ce:hsp sp="0.25"/>°C, as reported in <ce:cross-ref refid="bb0110">[22]</ce:cross-ref>. Therefore, the observed drop in resistivity might be the result of the onset of this other transition and could be attributed to the formation of a different phase or phases.</ce:para>
+                  <ce:para id="p0070" view="all">The resistivity values were measured in the range from ≈<ce:hsp sp="0.10"/>1<ce:hsp sp="0.25"/>Ω<ce:hsp sp="0.25"/>cm (at RT) to some tens of mΩ<ce:hsp sp="0.25"/>cm at or above 430<ce:hsp sp="0.25"/>°C. These values are higher than those reported for the crystalline In<ce:inf loc="post">3</ce:inf>Sb<ce:inf loc="post">1</ce:inf>Te<ce:inf loc="post">2</ce:inf> phase (a few mΩ<ce:hsp sp="0.25"/>cm) <ce:cross-ref refid="bb0100">[20]</ce:cross-ref>, which might be ascribed to both the separation of the In<ce:inf loc="post">4</ce:inf>Te<ce:inf loc="post">3</ce:inf> phase and the crystallization into the InSb<ce:inf loc="post">0.9</ce:inf>Te<ce:inf loc="post">0.1</ce:inf> structure, observed in all the as-grown samples. The binary In<ce:inf loc="post">4</ce:inf>Te<ce:inf loc="post">3</ce:inf> compound is highly resistive (~<ce:hsp sp="0.10"/>1<ce:hsp sp="0.25"/>Ω<ce:hsp sp="0.25"/>cm at RT) <ce:cross-ref refid="bb0115">[23]</ce:cross-ref> and is thought to have a dominant effect on the film resistivity. Its formation was detected by XRD analysis both in the as-grown samples and in the samples thermally annealed up to 350<ce:hsp sp="0.25"/>°C, as mentioned before (see <ce:cross-ref refid="f0020">Fig. 4</ce:cross-ref>). As shown in <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>, the IST resistivity values reported in literature span over a broad range, hence suggesting a very strong effect of the deposition conditions, chemical composition and film thickness on the electrical properties of the material. In this regard, the TDMASb pre-treatment (at 260<ce:hsp sp="0.25"/>°C), despite improving the conformality, has a detrimental effect on the resistivity, which increases by a factor of three from 0.32 to 0.98<ce:hsp sp="0.25"/>Ω<ce:hsp sp="0.25"/>cm (after thermal annealing). Differently from the Ge–Sb–Te compounds, the film thickness is thought to play a role in In<ce:inf loc="post">3</ce:inf>Sb<ce:inf loc="post">1</ce:inf>Te<ce:inf loc="post">2</ce:inf> thin films, which is relevant to their implementation into PCM devices. As reported by Manivannan et al., both resistivity and crystallization temperature are inversely proportional to the film thickness <ce:cross-ref refid="bb0100">[20]</ce:cross-ref>. According to this, we considered two samples grown in the same conditions with the TDMASb pre-treatment and thickness 100 and 44<ce:hsp sp="0.25"/>nm (green and blue plot in <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>, respectively). Among all the samples investigated in this work, the thickest film exhibited the lowest resistivity, both before and after annealing. Our results agree with those reported in the literature. The thickness dependence of the electrical resistivity of In-based chalcogenides should be considered in view of their implementation in sub-20<ce:hsp sp="0.25"/>nm devices.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para id="p0075" view="all">In this work the MOCVD deposition of IST-based chalcogenide films was demonstrated at different deposition temperatures. Samples grown at 260<ce:hsp sp="0.25"/>°C exhibited compact thin layer morphology and consisted of crystalline and partially amorphous phases. On the other hand, the samples grown at 350<ce:hsp sp="0.25"/>°C showed nanostructured features and an increase of the crystallized fraction, as well as the development of In–Te related phases. The IST films grown with TDMASb pre-treatment resulted in the formation of a conformal and smoother morphology, with 50% improved surface roughness for the same layer thickness. In this regard, the TDMASb pre-treatment was found to increase the electrical conductivity of the IST film by a factor of three in comparison to the untreated film. Finally, the electrical resistivity was found to increase when the layer thickness was scaled from 100 to 44<ce:hsp sp="0.25"/>nm.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para id="p0080" view="all">The authors are grateful to the <ce:grant-sponsor id="gts0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">PRIN2008-PCM Project “Scaling limits and material engineering for phase change memories in deca-nanometer generations</ce:grant-sponsor>” (<ce:grant-number refid="gts0005">2008YM2HR5</ce:grant-number>), 2010/12 and to the <ce:grant-sponsor id="gts0010" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Fondazione Cariplo MONADS Project</ce:grant-sponsor> (code no. <ce:grant-number refid="gts0010">2009-2715</ce:grant-number>), 2010/12, for the financial support. Micron Semiconductor Italia is acknowledged for providing the patterned substrates.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bs0005">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Lacaita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>24</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Kolobov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Fons</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.I.</ce:given-name>
+                                 <ce:surname>Frenkel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Ankudinov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tominaga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Uruga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>703</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kyrsta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Cremer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Neuschutz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Laurenzis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Haring Bolivar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kurz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>179</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>56</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Abrutis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Plausinaitiene</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Skapas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wiemer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Salicio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Longo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pirovano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Siegel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gawelda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rushworth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Giesen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2338</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Reso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Silinskas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kalkofen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lisker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>Burte</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>158</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>D187</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>253</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3969</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Longo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Salicio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wiemer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Fallica</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Molle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fanciulli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Giesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Seitzinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Baumann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Heuken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rushworth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>310</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>23</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5053</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Maeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Andoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ikuta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Minemura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1715</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Men</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>18</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>402</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–2</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>232</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Gregory</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Less Common Metals</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>265</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Daly-Flynn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Strand</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42/Part 1</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>No. 2B</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rapid Res. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3/4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>103</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.I.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>091915</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-K.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-J.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-W.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-G.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>157</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>D353</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-K.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-W.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-J.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-G.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nano Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>472</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-K.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-W.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-G.</ce:given-name>
+                                 <ce:surname>Hur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-G.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nanosci. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>189</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Schrott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Breitwisch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Joseph</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Dasaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Cheek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lam</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS Proc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1251</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H06</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.-Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-G.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-G.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>083531</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Manivannan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Rausch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zalden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Volker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-Y.</ce:given-name>
+                                 <ce:surname>Raty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mazzarello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wuttig</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>proceedings of the E\PCOS2011 conference, (Zurich, Switzerland), September 4th-6th</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2011</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>212</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-S.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Benayad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.-S.</ce:given-name>
+                                 <ce:surname>Suh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.P.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Khang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>021905</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Status Solidi (RRL)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>98</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Salvador</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>16</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>162108</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

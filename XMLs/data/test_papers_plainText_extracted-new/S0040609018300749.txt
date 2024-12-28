@@ -1,0 +1,956 @@
+Title:
+Density and size effects on the thermal conductivity of atomic layer deposited TiO
+
+Abstract:
+We report on the room temperature thermal conductivity of atomic layer deposition-grown amorphous TiO2 and Al2O3 thin films as a function of film thickness and atomic density. For films thinner than 50 nm, we measure an effective thermal conductivity that is reduced with decreasing film thickness. This dependence is attributed to the increased influence of thermal boundary resistances as film thickness is reduced. In addition, we fit for a thickness-independent intrinsic thermal conductivity using a series-resistor model. For films thicker than ∼50 nm, there is no significant dependence on thickness or substrate. We observe a dependence of the thermal conductivity on density, which agrees well with a differential effective-medium approximation modified minimum limit model.
+
+Acknowledgements:
+Acknowledgments:
+Acknowledgments
+               This work was funded by the Army Research Office (Grant No. W911NF-16-1-0320). BDP acknowledges support from the Department of Defense (DoD) through the National Defense Science & Engineering Graduate Fellowship (NDSEG) Program. BFD would like to acknowledge support from the Office of Naval Research (Contract No. N00014-17-WX-01799).
+
+Introduction:
+Metal oxides have been widely studied due to the interesting coupling of electrical, magnetic, thermal, mechanical, and optical properties [1]. Their unique properties have led to relevant applications in transistor technology [2,3], photovoltaics, optical device manufacturing, and the electronics industry. For example, it has been shown that the addition of a compact TiO2 semiconducting film layer between the anode and electrolyte within a solar cell can significantly reduce the losses to charge recombination, resulting in an appreciable increase in the efficiency of the device [4]. In addition, oxides with wide band gaps and high dielectric constants, such as Al2O3, HfO2, and ZrO2, are widely used in optical devices [5]. The development of more precise deposition techniques has made it possible to fabricate high quality thin films from oxides, with thickness precision down to the nanometer and even sub-nanometer level. Common techniques for depositing amorphous oxide thin films include ion beam, RF, and DC sputtering [6–9], vacuum and reactive evaporation [7,8,10], wet chemical processes [7], and chemical vapor deposition [11–13]. While all of these deposition processes are able to produce amorphous films, their mechanical [14] and transport properties [15,16], including thermal conductivity, can vary considerably based on differences in film density, impurity level, and short-range order. Atomic layer deposition (ALD) is a chemical vapor deposition technique based on self-terminating, surface-limited gas-solid reactions [17–21]. ALD is unique among thin film deposition techniques because it can conformally coat complex three-dimensional structures, precisely control film growth rate at sub-nanometer length-scales, and systematically vary the atomic density of amorphous films through growth temperatures [22]. ALD's intricate control over growth rates and atomic density of amorphous oxide films provides an opportunity to customize the electronic, optical, and thermal properties of these materials. Here we investigate how the thermal conductivity of ALD grown amorphous TiO2 and amorphous Al2O3 films depends on atomic density and thickness.
+Furthermore, it has been shown that thermal properties of nanoscale thin films can deviate from their bulk form due to contributions from size effects of electrons and phonons [23]. Therefore it is of interest to measure the thermal properties of these materials to understand how they vary from their bulk counterparts. It is well known that the thermal conductivity of thin film crystalline solids, with thicknesses less than the length scale of their phonon mean free paths, are heavily dependent on incoherent boundary scattering of phonons ballistically moving through the film. Lesser known, however, are the mechanisms contributing to the thermal conductivity of amorphous and highly disordered solids, because a well-defined spectrum of phonons does not exist.
+ALD's ability to intricately control growth conditions and parameters of amorphous films makes this a unique platform to study the roles of scattering of the vibrational carriers and thermal resistances across the interfaces on the total thermal resistance of amorphous film on substrate systems. In a typical amorphous thin film on substrate system, vibron-vibron scattering in the film thickness contributes to the intrinsic thermal resistance of the thin film. Vibrations with larger mode diffusivities can scatter at the film substrate interface, giving rise to size effects. In general, size effects leading to changes in this intrinsic thermal resistance in amorphous films are negligible at room temperature due to the relatively short vibrational scattering length scales, on the order of the average atomic spacing. While amorphous films with larger contributions from these large mode diffusivity vibrations have exhibited size effects at room temperature [24–26], this phenomena has typically only been realized in amorphous silicon, or silicon-based amorphous composites. The intrinsic thermal resistance and vibrational scattering rates can also be impacted by the atomic properties of the amorphous film (e.g. density, impurity concentration, etc.). For example, in our previous work [27], we have shown that the thermal conductivity of Al2O3 thin films has a strong dependence on ALD-growth temperature via modification of the amorphous film's density. In this case, an approximately 15% change in density resulted in a roughly 35% change in thermal conductivity. The intrinsic thermal resistance of the film is also related to the thickness of the film and its intrinsic thermal conductivity, where this resistance decreases as the film thickness decreases. As the film thickness lessens, the thermal resistances at the film substrate interfaces can begin to become appreciable and dominate the overall thermal resistance of the ALD-grown film/substrate system. Given the importance of ALD thin films in a wide array of technologies, the interplay between atomic density and film thickness, and their effect on the thermal conductivity of ALD-grown thin films, and the impact of the thermal boundary resistances on the overall thermal resistances of the ALD thin film/substrate heterostructure must be better understood.
+ALD's precision in controlling film thickness and density also affords the opportunity to systematically test the validity of various predictive models that have been proposed for the thermal conductivity of amorphous systems. For example, many amorphous materials are proposed to follow the minimum limit model for thermal conductivity [28–31]. The minimum limit model only requires knowledge of the speeds of sound and atomic density of the solid and has demonstrated good agreement with many amorphous and other disordered systems with low thermal conductivities [32]. However, this model fails for heterogeneous materials that have undergone changes to their local atomic structure or a reduction in atomic density [27,33]. Modifications to this minimum limit model have been proposed to account for the deficiencies in the minimum limit model applied to heterogeneous materials [27,34].
+Our current work is thus motivated by these aforementioned voids in the understanding of both thermal properties of ALD-grown films and density effects on thermal conductivity in amorphous systems. In this work, we study the role of deposition conditions that vary density and film thickness on the thermal conductivity of amorphous ALD grown TiO2 and Al2O3 thin films. By varying the temperature during the ALD growth, the atomic density of the deposited film is controlled, as evident by the change in optical properties. We measure the thermal conductivities of the films with varying densities and film thicknesses with time-domain thermoreflectance (TDTR). In general, we find that the thermal conductivity of these material systems is significantly reduced by decreasing atomic density. Furthermore, we find that size effects do not significantly impact the intrinsic thermal conductivity at relatively small thicknesses, which has been shown in other amorphous thin films [27,35,36]. However, the overall resistance of the amorphous films and adjacent interfaces becomes dominated by the influence of the thermal boundary resistances as the film thickness is reduced, as expected for purely diffusive thermal transport.
+
+Experimental details:
+2.1
+                     Atomic layer deposition for thin film growth
+                     Thin films of amorphous Al2O3 and amorphous TiO2 were deposited using a homebuilt hot-wall, flow-tube ALD reactor controlled by a custom LabVIEW sequencing program [37]. We note that the use of Al2O3 and TiO2 in this paper specifically refer to amorphous variants of these films. Trimethylaluminum (TMA) and titanium tetrachloride (TiCl4) were used as-received (Strem, 99%) as the metal precursors for Al2O3 and TiO2, respectively, with deionized water as the oxidant. Ultra-high purity nitrogen (Airgas, 99.999%) was used as a carrier gas. Silicon substrates (WRS, test grade) were air plasma-cleaned before deposition.
+                     Depositions were conducted by repetitive sequencing of metal precursors (t1) and oxidant (t3) doses separated by purge steps (t2, t4) in the order t1/t2/t3/t4 (all times given in seconds). For Al2O3 depositions a 0.1/30/0.1/30 deposition sequence was used to achieve a deposition rate of approximately 0.11 nm/cycle at all process temperatures (50 and 200 °C). For TiO2, two deposition processes were used in order to calibrate the TiO2 growth rate at low temperatures. Initially, a sequence of 0.5/45/0.1/30 was used for 1000 cycles across the temperature range (38–100 °C), depositing films from 67–104 nm thick. Subsequently, films with target thicknesses of 50 nm were deposited at 38, 50, 75, and 100 °C, and films with target thicknesses of 10, 20, 30, and 40 nm were deposited at 50 and 100 °C. In this second series, different purge durations were used to maintain characteristic ALD deposition rates between 0.05 and 0.07 nm/cycle such that above 100 °C, the sequence used was 0.5/45/0.1/30 while below 100 °C the sequence used was 0.5/90/0.1/45. All film thicknesses and refractive indexes were measured with spectroscopic ellipsometry (alpha-SE, J.A. Woollam Co.) and fit using a Cauchy model. It should be noted that the films used in this study have previously been studied using raman spectroscopy and X-ray reflectometry and do not show signs of crystallization for these growth temperatures [38].
+                     Further Al2O3 depositions were performed using a commercial Kurt J. Lesker Company ALD 150-LX reactor housed within a class 100 cleanroom. TMA (Sigma-Aldrich, 97% purity) was used as the aluminum precursor with remote inductively-coupled 400 W oxygen plasma supplied with ultra-high purity oxygen as the oxidant. Ultra-high purity liquid argon (99.999%) evaporated from a cryogenic dewar was used as the carrier gas. Commercial (100)-oriented silicon substrates were used as-received. Films were deposited using a similar t1/t2/t3/t4 repetitive sequencing technique. The plasma exposure step is defined by t3 and corresponds to the time period that oxygen (3 sccm) was fed into the plasma. Definitions for t1, t2, and t4 remain unchanged. A 0.027/10/5/5 sequence was used for Al2O3 and depositions were conducted at 300 °C. Target film thicknesses were 50, 100, and 200 nm and were measured using a spectroscopic ellipsometer (M-2000, J. A. Woollam Co.) with a Cody-Lorentz model with fixed optical constants.
+2.2
+                     Time-domain thermoreflectance
+                     Time-domain thermoreflectance (TDTR) was used to measure the thermal conductivity of these films. Aluminum films of nominally 80 nm thickness were electron-beam evaporated on top of the oxide films to act as an opto-thermal transducer and temperature sensor. Details of the TDTR measurement technique and corresponding data analysis are described elsewhere [39–41]. Briefly, TDTR is a non-contact, non-destructive optical pump-probe technique that utilizes the output of an 80 MHz, 100 fs Ti:Sapphire oscillator, the output of which is energetically split into a pump and probe path. The pump and probe are focused on the sample surface with radii of 27 μm and 10 μm, respectively. The pump beam instigates a modulated heating event on the surface of the sample via an electro-optic modulator, while the probe is delayed in time using a mechanical delay stage. After being delayed in time, the probe beam arrives at the sample surface, is focused collinearly with the pump, and the reflected probe intensity is monitored with a photodiode. The resulting voltage from the photodiode is fed into a lock-in amplifier that is triggered at the frequency of the pump heating event. In this work, we modulate the pump path at either 8.8 or 10 MHz. We monitor the in-phase (V 
+                        in) and out-of-phase (V 
+                        out) voltages recorded from the lock-in amplifier as a function of pump-probe delay time, and analyze the ratio of these voltages (−V 
+                        in/V 
+                        out) to obtain a thermal decay curve, shown as the data points in Fig. 1
+                        . This curve, which is representative of the change in thermal reflectance over time due to the modulated heating event, is then compared to a model of the heat transport of our system under study (the solid line in Fig. 1) to back out the thermal conductivity of each film. Due to various optical components in our experimental layout, the pulse width of the pump and probe is stretched by the time it reaches the sample surface, yielding a cross-correlation of ∼700 fs. However, as seen in our representative TDTR data shown in Fig. 1, the thermal conductivity of the amorphous film is determined over pump-probe delay times of hundreds of picoseconds to nanoseconds and, therefore, the precise pulse widths of the sub-picosecond pulse is irrelevant.
+                     The thermal conductivities of these amorphous thin films were determined using a multi-layer thermal model fit to the ratio of the in-phase to out-of-phase voltages, as described in the literature [39,41,42]. We assume literature values [43,44] for the heat capacities of each of the layers, and then scale the heat capacities of the amorphous films proportionally to their reduced atomic densities. It should be noted that in this regime where the film thickness is less than ∼ 20 nm, the TDTR measurements become more sensitive to the thermal conductance of the film, and sensitivity is lost to the thermal mass of the film. Additionally, we assume literature values for the thermal conductivities of our substrates [45]. For our thickest films (∼50 nm), we are able to analyze our data using a three layer model and directly measure the thermal conductivity. However, the thinner films (∼ 10–30 nm for TiO2 and ∼ 2–20 nm for Al2O3) are thin enough that they are in a regime where the TDTR signal is dominated by the interfacial resistances (R
+                        Al/film and R
+                        film/substrate) of the film, and the intrinsic thermal conductivity of the films cannot be directly measured [46]. Therefore we determine an effective thermal conductivity, which contains both the intrinsic thermal conductivity of the amorphous thin film and the front side and back side boundary resistances. We assume a thickness independent thermal conductivity for these thin amorphous films, and apply a resistor model to back out their intrinsic thermal conductivity. Due to the large aspect ratio of the sampling system, where the spot size is much larger than the thermal penetration depth, the measurement has negligible sensitivity to radial heat transport, and therefore no sensitivity to the in-plane thermal conductivity. An in-depth discussion of radial heat transport in pump-probe techniques has been presented elsewhere [41,47]. As a result, the resistor model takes the form shown in Eq. (1) where the cross-plane resistances add in series and there are no terms accounting for in-plane thermal resistances. The implications of this analysis are discussed in the following section.
+                     We determine the uncertainty in our measurements by considering two different sources. First, we calculate the standard deviation among the entire set of measurements for each sample. Second, we determine the change in thermal conductivity due to perturbing the aluminum transducer thickness by ±5 nm in our analysis. From this, we construct our total measurement error by taking the square root of the sum of the squares (RMS) of each source of uncertainty. The uncertainty for the intrinsic thermal conductivity of the thin films backed out from the resistor model, as further described in the next section, is derived by taking the upper and lower bounds defined by the standard deviation of the measured boundary conductance for each film and calculating the effective thermal conductivity for both cases. We then calculate the standard deviation and calculate the RMS error.
+
+Atomic layer deposition for thin film growth:
+Thin films of amorphous Al2O3 and amorphous TiO2 were deposited using a homebuilt hot-wall, flow-tube ALD reactor controlled by a custom LabVIEW sequencing program [37]. We note that the use of Al2O3 and TiO2 in this paper specifically refer to amorphous variants of these films. Trimethylaluminum (TMA) and titanium tetrachloride (TiCl4) were used as-received (Strem, 99%) as the metal precursors for Al2O3 and TiO2, respectively, with deionized water as the oxidant. Ultra-high purity nitrogen (Airgas, 99.999%) was used as a carrier gas. Silicon substrates (WRS, test grade) were air plasma-cleaned before deposition.
+Depositions were conducted by repetitive sequencing of metal precursors (t1) and oxidant (t3) doses separated by purge steps (t2, t4) in the order t1/t2/t3/t4 (all times given in seconds). For Al2O3 depositions a 0.1/30/0.1/30 deposition sequence was used to achieve a deposition rate of approximately 0.11 nm/cycle at all process temperatures (50 and 200 °C). For TiO2, two deposition processes were used in order to calibrate the TiO2 growth rate at low temperatures. Initially, a sequence of 0.5/45/0.1/30 was used for 1000 cycles across the temperature range (38–100 °C), depositing films from 67–104 nm thick. Subsequently, films with target thicknesses of 50 nm were deposited at 38, 50, 75, and 100 °C, and films with target thicknesses of 10, 20, 30, and 40 nm were deposited at 50 and 100 °C. In this second series, different purge durations were used to maintain characteristic ALD deposition rates between 0.05 and 0.07 nm/cycle such that above 100 °C, the sequence used was 0.5/45/0.1/30 while below 100 °C the sequence used was 0.5/90/0.1/45. All film thicknesses and refractive indexes were measured with spectroscopic ellipsometry (alpha-SE, J.A. Woollam Co.) and fit using a Cauchy model. It should be noted that the films used in this study have previously been studied using raman spectroscopy and X-ray reflectometry and do not show signs of crystallization for these growth temperatures [38].
+Further Al2O3 depositions were performed using a commercial Kurt J. Lesker Company ALD 150-LX reactor housed within a class 100 cleanroom. TMA (Sigma-Aldrich, 97% purity) was used as the aluminum precursor with remote inductively-coupled 400 W oxygen plasma supplied with ultra-high purity oxygen as the oxidant. Ultra-high purity liquid argon (99.999%) evaporated from a cryogenic dewar was used as the carrier gas. Commercial (100)-oriented silicon substrates were used as-received. Films were deposited using a similar t1/t2/t3/t4 repetitive sequencing technique. The plasma exposure step is defined by t3 and corresponds to the time period that oxygen (3 sccm) was fed into the plasma. Definitions for t1, t2, and t4 remain unchanged. A 0.027/10/5/5 sequence was used for Al2O3 and depositions were conducted at 300 °C. Target film thicknesses were 50, 100, and 200 nm and were measured using a spectroscopic ellipsometer (M-2000, J. A. Woollam Co.) with a Cody-Lorentz model with fixed optical constants.
+
+Time-domain thermoreflectance:
+Time-domain thermoreflectance (TDTR) was used to measure the thermal conductivity of these films. Aluminum films of nominally 80 nm thickness were electron-beam evaporated on top of the oxide films to act as an opto-thermal transducer and temperature sensor. Details of the TDTR measurement technique and corresponding data analysis are described elsewhere [39–41]. Briefly, TDTR is a non-contact, non-destructive optical pump-probe technique that utilizes the output of an 80 MHz, 100 fs Ti:Sapphire oscillator, the output of which is energetically split into a pump and probe path. The pump and probe are focused on the sample surface with radii of 27 μm and 10 μm, respectively. The pump beam instigates a modulated heating event on the surface of the sample via an electro-optic modulator, while the probe is delayed in time using a mechanical delay stage. After being delayed in time, the probe beam arrives at the sample surface, is focused collinearly with the pump, and the reflected probe intensity is monitored with a photodiode. The resulting voltage from the photodiode is fed into a lock-in amplifier that is triggered at the frequency of the pump heating event. In this work, we modulate the pump path at either 8.8 or 10 MHz. We monitor the in-phase (V 
+                        in) and out-of-phase (V 
+                        out) voltages recorded from the lock-in amplifier as a function of pump-probe delay time, and analyze the ratio of these voltages (−V 
+                        in/V 
+                        out) to obtain a thermal decay curve, shown as the data points in Fig. 1
+                        . This curve, which is representative of the change in thermal reflectance over time due to the modulated heating event, is then compared to a model of the heat transport of our system under study (the solid line in Fig. 1) to back out the thermal conductivity of each film. Due to various optical components in our experimental layout, the pulse width of the pump and probe is stretched by the time it reaches the sample surface, yielding a cross-correlation of ∼700 fs. However, as seen in our representative TDTR data shown in Fig. 1, the thermal conductivity of the amorphous film is determined over pump-probe delay times of hundreds of picoseconds to nanoseconds and, therefore, the precise pulse widths of the sub-picosecond pulse is irrelevant.
+The thermal conductivities of these amorphous thin films were determined using a multi-layer thermal model fit to the ratio of the in-phase to out-of-phase voltages, as described in the literature [39,41,42]. We assume literature values [43,44] for the heat capacities of each of the layers, and then scale the heat capacities of the amorphous films proportionally to their reduced atomic densities. It should be noted that in this regime where the film thickness is less than ∼ 20 nm, the TDTR measurements become more sensitive to the thermal conductance of the film, and sensitivity is lost to the thermal mass of the film. Additionally, we assume literature values for the thermal conductivities of our substrates [45]. For our thickest films (∼50 nm), we are able to analyze our data using a three layer model and directly measure the thermal conductivity. However, the thinner films (∼ 10–30 nm for TiO2 and ∼ 2–20 nm for Al2O3) are thin enough that they are in a regime where the TDTR signal is dominated by the interfacial resistances (R
+                        Al/film and R
+                        film/substrate) of the film, and the intrinsic thermal conductivity of the films cannot be directly measured [46]. Therefore we determine an effective thermal conductivity, which contains both the intrinsic thermal conductivity of the amorphous thin film and the front side and back side boundary resistances. We assume a thickness independent thermal conductivity for these thin amorphous films, and apply a resistor model to back out their intrinsic thermal conductivity. Due to the large aspect ratio of the sampling system, where the spot size is much larger than the thermal penetration depth, the measurement has negligible sensitivity to radial heat transport, and therefore no sensitivity to the in-plane thermal conductivity. An in-depth discussion of radial heat transport in pump-probe techniques has been presented elsewhere [41,47]. As a result, the resistor model takes the form shown in Eq. (1) where the cross-plane resistances add in series and there are no terms accounting for in-plane thermal resistances. The implications of this analysis are discussed in the following section.
+We determine the uncertainty in our measurements by considering two different sources. First, we calculate the standard deviation among the entire set of measurements for each sample. Second, we determine the change in thermal conductivity due to perturbing the aluminum transducer thickness by ±5 nm in our analysis. From this, we construct our total measurement error by taking the square root of the sum of the squares (RMS) of each source of uncertainty. The uncertainty for the intrinsic thermal conductivity of the thin films backed out from the resistor model, as further described in the next section, is derived by taking the upper and lower bounds defined by the standard deviation of the measured boundary conductance for each film and calculating the effective thermal conductivity for both cases. We then calculate the standard deviation and calculate the RMS error.
+
+Results and discussion:
+3.1
+                     Thickness dependence
+                     The measured thermal resistances, R, and calculated effective thermal conductivities, κ
+                        eff for the Al2O3 and TiO2 films are shown in Fig. 2
+                        . The effective thermal conductivity is determined as κ
+                        eff = d/R [48], where d is the film thickness. The TiO2 films were deposited onto only silicon substrates, while the Al2O3 films were deposited onto both silicon and quartz substrates. We find that the measured thermal resistances of the Al2O3 films do not depend on the substrate. This suggests that the thermal resistance that dominates these TDTR measurements is not substrate dependent. Additionally, we observe a systematic increase in R (and hence κ
+                        eff) as a function of increased film thickness, which is consistent with previous studies on the thermal properties of amorphous thin films. This has been attributed to the increased influence of the contribution from film resistance to the overall measured thermal resistance as the film thickness increases [35,36,48-50].
+                     To gain more insight into the relative roles of the intrinsic thermal conductivity of the thin films and the influence of thermal boundary resistances on our TDTR measurements, we fit our measured data to a series-resistor model, as described previously [24,49]. Here the effective thermal conductivity is approximated by 
+                           
+                              (1)
+                              
+                                 
+                                    κ
+                                    eff
+                                 
+                                 =
+                                 
+                                    
+                                       κ
+                                       i
+                                    
+                                    
+                                       1
+                                       +
+                                       
+                                          
+                                             
+                                                R
+                                                tot
+                                             
+                                             
+                                                κ
+                                                i
+                                             
+                                          
+                                          d
+                                       
+                                    
+                                 
+                              
+                           
+                        where R
+                        tot is the total thermal boundary resistance from both interfaces (Al/film and film/substrate) and κ
+                        i is the intrinsic thermal conductivity of the amorphous film. Representative model fits of Eq. (1) to the effective thermal conductivity data are shown in Fig. 2 (b) and (d) for the TiO2 and Al2O3 films, respectively. From these fits, we determine a thickness independent thermal conductivity of the amorphous films, the results of which are presented in Tables 1 and 2
+                        
+                        . Furthermore, we estimate the thermal boundary resistances (conductances) as ∼10 m2 K GW−1 (∼ 100 ± 10 MW m−2 K−1) for Al2O3 and ∼7.5 m2 K GW−1 (∼ 132 ± 8 MW m−2 K−1) for TiO2 regardless of substrate or deposition temperature. This is reasonable given previous works that measured the thermal boundary conductance across metal/non-metal interfaces [51–53]. However, we are relatively insensitive to this boundary conductance due to the high thermal resistance from the amorphous thin films as seen by the sensitivity analysis provided in Fig. 1. This is consistent with previous studies measuring similar materials [6,49]. In addition, Fig. 2 (c) and (d) demonstrate a lack of substrate dependence (within error) on R and κ
+                        eff for the alumina films, indicating the thermal resistance is likely dominated from the metal/film interface and not from the interface between the film and the substrate.
+3.2
+                     Density effects
+                     
+                        Fig. 3
+                         shows the measured thermal conductivity of the 50 nm thick a-Al2O3 and a-TiO2 films due to the change in refractive index, which is directly correlated to atomic density. We account for this effect in our analysis by scaling the heat capacity in our thermal model proportionally to the change in refractive index. The results from this study are directly compared to Gorham et al. [27], who measured a very similar amorphous alumina system where film thicknesses were held constant at 50±5 nm to negate length scale effects. Accounting for all of these factors, we observed an increase in thermal conductivity with film density. This is reasonable given previous studies investigating the effects of reduced atomic density on the thermal conductivity of amorphous films [27,33,34,54].
+                     We then compared this reduction in thermal conductivity to the minimum limit model [29]. For several decades, this model has served as the baseline for describing the effects of atomic density on thermal conductivity in amorphous solids. The minimum limit is given by 
+                           
+                              (2)
+                              
+                                 
+                                    
+                                       κ
+                                    
+                                    
+                                       min
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          
+                                             ℏ
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       6
+                                       
+                                          
+                                             π
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                       
+                                          
+                                             k
+                                          
+                                          
+                                             B
+                                          
+                                       
+                                       
+                                          
+                                             T
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       ∑
+                                    
+                                    
+                                       j
+                                    
+                                 
+                                 
+                                    
+                                       ∫
+                                    
+                                    
+                                       0
+                                    
+                                    
+                                       
+                                          
+                                             ω
+                                          
+                                          
+                                             c
+                                             ,
+                                             j
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       τ
+                                    
+                                    
+                                       min
+                                       ,
+                                       j
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          
+                                             ω
+                                          
+                                          
+                                             4
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             v
+                                          
+                                          
+                                             j
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       exp
+                                       
+                                          
+                                             
+                                                
+                                                   ℏ
+                                                   ω
+                                                
+                                                
+                                                   
+                                                      
+                                                         k
+                                                      
+                                                      
+                                                         B
+                                                      
+                                                   
+                                                   T
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   exp
+                                                   
+                                                      
+                                                         
+                                                            
+                                                               ℏ
+                                                               ω
+                                                            
+                                                            
+                                                               
+                                                                  
+                                                                     k
+                                                                  
+                                                                  
+                                                                     B
+                                                                  
+                                                               
+                                                               T
+                                                            
+                                                         
+                                                      
+                                                   
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                 
+                                 d
+                                 ω
+                              
+                           
+                        where κ
+                        min is the minimum thermal conductivity, j is the phonon polarization index, τ
+                        min is the minimum scattering time, ω is the angular frequency, ω
+                        c,j is the cut-off frequency, and v 
+                        
+                           j
+                         is the phonon group velocity. To evaluate Eq. (2) for our amorphous films, we take the longitudinal and transverse sound speeds for Al2O3 and TiO2 from Refs. [27] and [55], respectively. Additionally, we use n = 116.6 nm−3 for the fully dense atomic density of Al2O3 and n = 97.2 nm−3 for TiO2 in calculating the cut-off frequencies, where ω
+                        c,j = v 
+                        
+                           j
+                        (6π 
+                        2 
+                        n)1/3. Our calculations of the minimum thermal conductivity for Al2O3 and TiO2 are shown in Fig. 4
+                         (a) and (b) as solid lines, and are consistent with the measured data for higher atomic densities (approaching bulk). However, the minimum limit over-predicts the thermal conductivity for lower atomic densities. Therefore, to account for density effects, we turn to a differential effective-medium (DEM) approximation [34,56], which attempts to describe thermal properties in heterogeneous materials by considering a common “effective” medium between the solid atoms and the additional “space” between the atoms. This model proposes that thermal conductivity scales with atomic density and is given by 
+                           
+                              (3)
+                              
+                                 
+                                    κ
+                                    DEM
+                                 
+                                 =
+                                 κ
+                                 
+                                    
+                                       
+                                          n
+                                          
+                                             n
+                                             bulk
+                                          
+                                       
+                                    
+                                    
+                                       3
+                                       2
+                                    
+                                 
+                              
+                           
+                        For the TiO2 films, we take κ as either 1.37 W m−1 K−1 from the maximum thermal conductivity measured in our film series or as the minimum limit calculated by Eq. (2); we assume n 
+                        bulk as 7.89 × 1028 atoms m−3, which again corresponds to our highest density TiO2 film. Based on earlier work relating the refractive index of a-TiO2 to its density [10], we determine the atomic density according to n = 3N 
+                        A(2.86
+                           ñ
+                         –3.63)/M, where 
+                           ñ
+                         is the refractive index measured at 550 nm, N 
+                        A is Avogadro's number, and M is the molecular weight. For Al2O3, we take κ as either the calculated minimum limit or as 2.13 W m−1 K−1, the maximum thermal conductivity of Al2O3 that we measure; for Al2O3 we assume n 
+                        bulk as 9.48 × 1028 atoms m−3, which corresponds to our highest density film; and n = 5N 
+                        A(7.174
+                           ñ
+                         –8.76)/M, which is consistent with previous work studying density effects in amorphous alumina thin films [27]. We choose n 
+                        bulk and κ
+                        min as the highest atomic density and thermal conductivity that we measure in each sample set to effectively normalize the data and better understand the observed trends.
+                     Both DEM-based approximations are shown in Fig. 4 (a) and (b) for TiO2 and Al2O3, respectively, taking κ as either the calculated minimum limit (dashed lines) or as the measured value of the highest density film (dotted lines). Compared to the minimum limit prediction, the DEM exhibits better agreement with the measured thermal conductivity data, and this approximation modified with the minimum limit predicts the trends in the experimental data particularly well. This approach is convenient because it only requires knowledge of sound velocity and atomic density, whereas the DEM calculation requires knowledge of the thermal conductivity of the fully dense amorphous phase of the material. Previous reports have found similar agreement using this model to study low thermal conductivity materials [27,33], suggesting that this is a promising approach for predicting the thermal properties of amorphous thin films.
+                     To further investigate the interplay between atomic density and film thickness, we examine a series of TiO2 films in which both film thickness and deposition condition are varied. The thermal conductivity of these films of varying film thickness (∼ 50–100 nm) is shown in Fig. 4 (a). The data in Table 1 indicate that for TiO2 thicker than ∼50 nm, size effects in thermal conductivity do not exist. However, in similar fashion to the Al2O3 films, Fig. 4 (a) suggests the changes in thermal conductivity are instead driven by variations in atomic density.
+
+Thickness dependence:
+The measured thermal resistances, R, and calculated effective thermal conductivities, κ
+                        eff for the Al2O3 and TiO2 films are shown in Fig. 2
+                        . The effective thermal conductivity is determined as κ
+                        eff = d/R [48], where d is the film thickness. The TiO2 films were deposited onto only silicon substrates, while the Al2O3 films were deposited onto both silicon and quartz substrates. We find that the measured thermal resistances of the Al2O3 films do not depend on the substrate. This suggests that the thermal resistance that dominates these TDTR measurements is not substrate dependent. Additionally, we observe a systematic increase in R (and hence κ
+                        eff) as a function of increased film thickness, which is consistent with previous studies on the thermal properties of amorphous thin films. This has been attributed to the increased influence of the contribution from film resistance to the overall measured thermal resistance as the film thickness increases [35,36,48-50].
+To gain more insight into the relative roles of the intrinsic thermal conductivity of the thin films and the influence of thermal boundary resistances on our TDTR measurements, we fit our measured data to a series-resistor model, as described previously [24,49]. Here the effective thermal conductivity is approximated by 
+                           
+                              (1)
+                              
+                                 
+                                    κ
+                                    eff
+                                 
+                                 =
+                                 
+                                    
+                                       κ
+                                       i
+                                    
+                                    
+                                       1
+                                       +
+                                       
+                                          
+                                             
+                                                R
+                                                tot
+                                             
+                                             
+                                                κ
+                                                i
+                                             
+                                          
+                                          d
+                                       
+                                    
+                                 
+                              
+                           
+                        where R
+                        tot is the total thermal boundary resistance from both interfaces (Al/film and film/substrate) and κ
+                        i is the intrinsic thermal conductivity of the amorphous film. Representative model fits of Eq. (1) to the effective thermal conductivity data are shown in Fig. 2 (b) and (d) for the TiO2 and Al2O3 films, respectively. From these fits, we determine a thickness independent thermal conductivity of the amorphous films, the results of which are presented in Tables 1 and 2
+                        
+                        . Furthermore, we estimate the thermal boundary resistances (conductances) as ∼10 m2 K GW−1 (∼ 100 ± 10 MW m−2 K−1) for Al2O3 and ∼7.5 m2 K GW−1 (∼ 132 ± 8 MW m−2 K−1) for TiO2 regardless of substrate or deposition temperature. This is reasonable given previous works that measured the thermal boundary conductance across metal/non-metal interfaces [51–53]. However, we are relatively insensitive to this boundary conductance due to the high thermal resistance from the amorphous thin films as seen by the sensitivity analysis provided in Fig. 1. This is consistent with previous studies measuring similar materials [6,49]. In addition, Fig. 2 (c) and (d) demonstrate a lack of substrate dependence (within error) on R and κ
+                        eff for the alumina films, indicating the thermal resistance is likely dominated from the metal/film interface and not from the interface between the film and the substrate.
+
+Density effects:
+Fig. 3
+                         shows the measured thermal conductivity of the 50 nm thick a-Al2O3 and a-TiO2 films due to the change in refractive index, which is directly correlated to atomic density. We account for this effect in our analysis by scaling the heat capacity in our thermal model proportionally to the change in refractive index. The results from this study are directly compared to Gorham et al. [27], who measured a very similar amorphous alumina system where film thicknesses were held constant at 50±5 nm to negate length scale effects. Accounting for all of these factors, we observed an increase in thermal conductivity with film density. This is reasonable given previous studies investigating the effects of reduced atomic density on the thermal conductivity of amorphous films [27,33,34,54].
+We then compared this reduction in thermal conductivity to the minimum limit model [29]. For several decades, this model has served as the baseline for describing the effects of atomic density on thermal conductivity in amorphous solids. The minimum limit is given by 
+                           
+                              (2)
+                              
+                                 
+                                    
+                                       κ
+                                    
+                                    
+                                       min
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          
+                                             ℏ
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       6
+                                       
+                                          
+                                             π
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                       
+                                          
+                                             k
+                                          
+                                          
+                                             B
+                                          
+                                       
+                                       
+                                          
+                                             T
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       ∑
+                                    
+                                    
+                                       j
+                                    
+                                 
+                                 
+                                    
+                                       ∫
+                                    
+                                    
+                                       0
+                                    
+                                    
+                                       
+                                          
+                                             ω
+                                          
+                                          
+                                             c
+                                             ,
+                                             j
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       τ
+                                    
+                                    
+                                       min
+                                       ,
+                                       j
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          
+                                             ω
+                                          
+                                          
+                                             4
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             v
+                                          
+                                          
+                                             j
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       exp
+                                       
+                                          
+                                             
+                                                
+                                                   ℏ
+                                                   ω
+                                                
+                                                
+                                                   
+                                                      
+                                                         k
+                                                      
+                                                      
+                                                         B
+                                                      
+                                                   
+                                                   T
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   exp
+                                                   
+                                                      
+                                                         
+                                                            
+                                                               ℏ
+                                                               ω
+                                                            
+                                                            
+                                                               
+                                                                  
+                                                                     k
+                                                                  
+                                                                  
+                                                                     B
+                                                                  
+                                                               
+                                                               T
+                                                            
+                                                         
+                                                      
+                                                   
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                 
+                                 d
+                                 ω
+                              
+                           
+                        where κ
+                        min is the minimum thermal conductivity, j is the phonon polarization index, τ
+                        min is the minimum scattering time, ω is the angular frequency, ω
+                        c,j is the cut-off frequency, and v 
+                        
+                           j
+                         is the phonon group velocity. To evaluate Eq. (2) for our amorphous films, we take the longitudinal and transverse sound speeds for Al2O3 and TiO2 from Refs. [27] and [55], respectively. Additionally, we use n = 116.6 nm−3 for the fully dense atomic density of Al2O3 and n = 97.2 nm−3 for TiO2 in calculating the cut-off frequencies, where ω
+                        c,j = v 
+                        
+                           j
+                        (6π 
+                        2 
+                        n)1/3. Our calculations of the minimum thermal conductivity for Al2O3 and TiO2 are shown in Fig. 4
+                         (a) and (b) as solid lines, and are consistent with the measured data for higher atomic densities (approaching bulk). However, the minimum limit over-predicts the thermal conductivity for lower atomic densities. Therefore, to account for density effects, we turn to a differential effective-medium (DEM) approximation [34,56], which attempts to describe thermal properties in heterogeneous materials by considering a common “effective” medium between the solid atoms and the additional “space” between the atoms. This model proposes that thermal conductivity scales with atomic density and is given by 
+                           
+                              (3)
+                              
+                                 
+                                    κ
+                                    DEM
+                                 
+                                 =
+                                 κ
+                                 
+                                    
+                                       
+                                          n
+                                          
+                                             n
+                                             bulk
+                                          
+                                       
+                                    
+                                    
+                                       3
+                                       2
+                                    
+                                 
+                              
+                           
+                        For the TiO2 films, we take κ as either 1.37 W m−1 K−1 from the maximum thermal conductivity measured in our film series or as the minimum limit calculated by Eq. (2); we assume n 
+                        bulk as 7.89 × 1028 atoms m−3, which again corresponds to our highest density TiO2 film. Based on earlier work relating the refractive index of a-TiO2 to its density [10], we determine the atomic density according to n = 3N 
+                        A(2.86
+                           ñ
+                         –3.63)/M, where 
+                           ñ
+                         is the refractive index measured at 550 nm, N 
+                        A is Avogadro's number, and M is the molecular weight. For Al2O3, we take κ as either the calculated minimum limit or as 2.13 W m−1 K−1, the maximum thermal conductivity of Al2O3 that we measure; for Al2O3 we assume n 
+                        bulk as 9.48 × 1028 atoms m−3, which corresponds to our highest density film; and n = 5N 
+                        A(7.174
+                           ñ
+                         –8.76)/M, which is consistent with previous work studying density effects in amorphous alumina thin films [27]. We choose n 
+                        bulk and κ
+                        min as the highest atomic density and thermal conductivity that we measure in each sample set to effectively normalize the data and better understand the observed trends.
+Both DEM-based approximations are shown in Fig. 4 (a) and (b) for TiO2 and Al2O3, respectively, taking κ as either the calculated minimum limit (dashed lines) or as the measured value of the highest density film (dotted lines). Compared to the minimum limit prediction, the DEM exhibits better agreement with the measured thermal conductivity data, and this approximation modified with the minimum limit predicts the trends in the experimental data particularly well. This approach is convenient because it only requires knowledge of sound velocity and atomic density, whereas the DEM calculation requires knowledge of the thermal conductivity of the fully dense amorphous phase of the material. Previous reports have found similar agreement using this model to study low thermal conductivity materials [27,33], suggesting that this is a promising approach for predicting the thermal properties of amorphous thin films.
+To further investigate the interplay between atomic density and film thickness, we examine a series of TiO2 films in which both film thickness and deposition condition are varied. The thermal conductivity of these films of varying film thickness (∼ 50–100 nm) is shown in Fig. 4 (a). The data in Table 1 indicate that for TiO2 thicker than ∼50 nm, size effects in thermal conductivity do not exist. However, in similar fashion to the Al2O3 films, Fig. 4 (a) suggests the changes in thermal conductivity are instead driven by variations in atomic density.
+
+Conclusions:
+We have measured the thermal conductivity of ALD-grown amorphous Al2O3 and TiO2 thin films of varying film thickness and density. For films less than ∼40 nm, we measure an effective thermal conductivity which decreases with reduced film thickness. This is attributed to the increased effect of thermal boundary resistances with decreasing film thickness. We determine a thickness- and substrate-independent intrinsic thermal conductivity using a series-resistor model and find that our fitted values agree well with the literature, as well as with the values for the thicker films in our study. For films greater than ∼40 nm, there is no significant dependence on film thickness or substrate. We measure thermal conductivity due to a reduction in atomic density and observe a proportional relation. The density dependence of thermal conductivity of these amorphous films is well described by a differential effective medium approximation that is modified by a minimum limit model. We observe similar trends in both Al2O3 and TiO2, suggesting that the dependence of thermal conductivity on atomic density is an intrinsic property of these ALD-grown amorphous thin films.
+
+Acknowledgments:
+This work was funded by the Army Research Office (Grant No. W911NF-16-1-0320). BDP acknowledges support from the Department of Defense (DoD) through the National Defense Science & Engineering Graduate Fellowship (NDSEG) Program. BFD would like to acknowledge support from the Office of Naval Research (Contract No. N00014-17-WX-01799).
+
+Body:
+Metal oxides have been widely studied due to the interesting coupling of electrical, magnetic, thermal, mechanical, and optical properties [1]. Their unique properties have led to relevant applications in transistor technology [2,3], photovoltaics, optical device manufacturing, and the electronics industry. For example, it has been shown that the addition of a compact TiO2 semiconducting film layer between the anode and electrolyte within a solar cell can significantly reduce the losses to charge recombination, resulting in an appreciable increase in the efficiency of the device [4]. In addition, oxides with wide band gaps and high dielectric constants, such as Al2O3, HfO2, and ZrO2, are widely used in optical devices [5]. The development of more precise deposition techniques has made it possible to fabricate high quality thin films from oxides, with thickness precision down to the nanometer and even sub-nanometer level. Common techniques for depositing amorphous oxide thin films include ion beam, RF, and DC sputtering [6–9], vacuum and reactive evaporation [7,8,10], wet chemical processes [7], and chemical vapor deposition [11–13]. While all of these deposition processes are able to produce amorphous films, their mechanical [14] and transport properties [15,16], including thermal conductivity, can vary considerably based on differences in film density, impurity level, and short-range order. Atomic layer deposition (ALD) is a chemical vapor deposition technique based on self-terminating, surface-limited gas-solid reactions [17–21]. ALD is unique among thin film deposition techniques because it can conformally coat complex three-dimensional structures, precisely control film growth rate at sub-nanometer length-scales, and systematically vary the atomic density of amorphous films through growth temperatures [22]. ALD's intricate control over growth rates and atomic density of amorphous oxide films provides an opportunity to customize the electronic, optical, and thermal properties of these materials. Here we investigate how the thermal conductivity of ALD grown amorphous TiO2 and amorphous Al2O3 films depends on atomic density and thickness.
+
+Furthermore, it has been shown that thermal properties of nanoscale thin films can deviate from their bulk form due to contributions from size effects of electrons and phonons [23]. Therefore it is of interest to measure the thermal properties of these materials to understand how they vary from their bulk counterparts. It is well known that the thermal conductivity of thin film crystalline solids, with thicknesses less than the length scale of their phonon mean free paths, are heavily dependent on incoherent boundary scattering of phonons ballistically moving through the film. Lesser known, however, are the mechanisms contributing to the thermal conductivity of amorphous and highly disordered solids, because a well-defined spectrum of phonons does not exist.
+
+ALD's ability to intricately control growth conditions and parameters of amorphous films makes this a unique platform to study the roles of scattering of the vibrational carriers and thermal resistances across the interfaces on the total thermal resistance of amorphous film on substrate systems. In a typical amorphous thin film on substrate system, vibron-vibron scattering in the film thickness contributes to the intrinsic thermal resistance of the thin film. Vibrations with larger mode diffusivities can scatter at the film substrate interface, giving rise to size effects. In general, size effects leading to changes in this intrinsic thermal resistance in amorphous films are negligible at room temperature due to the relatively short vibrational scattering length scales, on the order of the average atomic spacing. While amorphous films with larger contributions from these large mode diffusivity vibrations have exhibited size effects at room temperature [24–26], this phenomena has typically only been realized in amorphous silicon, or silicon-based amorphous composites. The intrinsic thermal resistance and vibrational scattering rates can also be impacted by the atomic properties of the amorphous film (e.g. density, impurity concentration, etc.). For example, in our previous work [27], we have shown that the thermal conductivity of Al2O3 thin films has a strong dependence on ALD-growth temperature via modification of the amorphous film's density. In this case, an approximately 15% change in density resulted in a roughly 35% change in thermal conductivity. The intrinsic thermal resistance of the film is also related to the thickness of the film and its intrinsic thermal conductivity, where this resistance decreases as the film thickness decreases. As the film thickness lessens, the thermal resistances at the film substrate interfaces can begin to become appreciable and dominate the overall thermal resistance of the ALD-grown film/substrate system. Given the importance of ALD thin films in a wide array of technologies, the interplay between atomic density and film thickness, and their effect on the thermal conductivity of ALD-grown thin films, and the impact of the thermal boundary resistances on the overall thermal resistances of the ALD thin film/substrate heterostructure must be better understood.
+
+ALD's precision in controlling film thickness and density also affords the opportunity to systematically test the validity of various predictive models that have been proposed for the thermal conductivity of amorphous systems. For example, many amorphous materials are proposed to follow the minimum limit model for thermal conductivity [28–31]. The minimum limit model only requires knowledge of the speeds of sound and atomic density of the solid and has demonstrated good agreement with many amorphous and other disordered systems with low thermal conductivities [32]. However, this model fails for heterogeneous materials that have undergone changes to their local atomic structure or a reduction in atomic density [27,33]. Modifications to this minimum limit model have been proposed to account for the deficiencies in the minimum limit model applied to heterogeneous materials [27,34].
+
+Our current work is thus motivated by these aforementioned voids in the understanding of both thermal properties of ALD-grown films and density effects on thermal conductivity in amorphous systems. In this work, we study the role of deposition conditions that vary density and film thickness on the thermal conductivity of amorphous ALD grown TiO2 and Al2O3 thin films. By varying the temperature during the ALD growth, the atomic density of the deposited film is controlled, as evident by the change in optical properties. We measure the thermal conductivities of the films with varying densities and film thicknesses with time-domain thermoreflectance (TDTR). In general, we find that the thermal conductivity of these material systems is significantly reduced by decreasing atomic density. Furthermore, we find that size effects do not significantly impact the intrinsic thermal conductivity at relatively small thicknesses, which has been shown in other amorphous thin films [27,35,36]. However, the overall resistance of the amorphous films and adjacent interfaces becomes dominated by the influence of the thermal boundary resistances as the film thickness is reduced, as expected for purely diffusive thermal transport.
+
+Thin films of amorphous Al2O3 and amorphous TiO2 were deposited using a homebuilt hot-wall, flow-tube ALD reactor controlled by a custom LabVIEW sequencing program [37]. We note that the use of Al2O3 and TiO2 in this paper specifically refer to amorphous variants of these films. Trimethylaluminum (TMA) and titanium tetrachloride (TiCl4) were used as-received (Strem, 99%) as the metal precursors for Al2O3 and TiO2, respectively, with deionized water as the oxidant. Ultra-high purity nitrogen (Airgas, 99.999%) was used as a carrier gas. Silicon substrates (WRS, test grade) were air plasma-cleaned before deposition.
+
+Depositions were conducted by repetitive sequencing of metal precursors (t1) and oxidant (t3) doses separated by purge steps (t2, t4) in the order t1/t2/t3/t4 (all times given in seconds). For Al2O3 depositions a 0.1/30/0.1/30 deposition sequence was used to achieve a deposition rate of approximately 0.11 nm/cycle at all process temperatures (50 and 200 °C). For TiO2, two deposition processes were used in order to calibrate the TiO2 growth rate at low temperatures. Initially, a sequence of 0.5/45/0.1/30 was used for 1000 cycles across the temperature range (38–100 °C), depositing films from 67–104 nm thick. Subsequently, films with target thicknesses of 50 nm were deposited at 38, 50, 75, and 100 °C, and films with target thicknesses of 10, 20, 30, and 40 nm were deposited at 50 and 100 °C. In this second series, different purge durations were used to maintain characteristic ALD deposition rates between 0.05 and 0.07 nm/cycle such that above 100 °C, the sequence used was 0.5/45/0.1/30 while below 100 °C the sequence used was 0.5/90/0.1/45. All film thicknesses and refractive indexes were measured with spectroscopic ellipsometry (alpha-SE, J.A. Woollam Co.) and fit using a Cauchy model. It should be noted that the films used in this study have previously been studied using raman spectroscopy and X-ray reflectometry and do not show signs of crystallization for these growth temperatures [38].
+
+Further Al2O3 depositions were performed using a commercial Kurt J. Lesker Company ALD 150-LX reactor housed within a class 100 cleanroom. TMA (Sigma-Aldrich, 97% purity) was used as the aluminum precursor with remote inductively-coupled 400 W oxygen plasma supplied with ultra-high purity oxygen as the oxidant. Ultra-high purity liquid argon (99.999%) evaporated from a cryogenic dewar was used as the carrier gas. Commercial (100)-oriented silicon substrates were used as-received. Films were deposited using a similar t1/t2/t3/t4 repetitive sequencing technique. The plasma exposure step is defined by t3 and corresponds to the time period that oxygen (3 sccm) was fed into the plasma. Definitions for t1, t2, and t4 remain unchanged. A 0.027/10/5/5 sequence was used for Al2O3 and depositions were conducted at 300 °C. Target film thicknesses were 50, 100, and 200 nm and were measured using a spectroscopic ellipsometer (M-2000, J. A. Woollam Co.) with a Cody-Lorentz model with fixed optical constants.
+
+Time-domain thermoreflectance (TDTR) was used to measure the thermal conductivity of these films. Aluminum films of nominally 80 nm thickness were electron-beam evaporated on top of the oxide films to act as an opto-thermal transducer and temperature sensor. Details of the TDTR measurement technique and corresponding data analysis are described elsewhere [39–41]. Briefly, TDTR is a non-contact, non-destructive optical pump-probe technique that utilizes the output of an 80 MHz, 100 fs Ti:Sapphire oscillator, the output of which is energetically split into a pump and probe path. The pump and probe are focused on the sample surface with radii of 27 μm and 10 μm, respectively. The pump beam instigates a modulated heating event on the surface of the sample via an electro-optic modulator, while the probe is delayed in time using a mechanical delay stage. After being delayed in time, the probe beam arrives at the sample surface, is focused collinearly with the pump, and the reflected probe intensity is monitored with a photodiode. The resulting voltage from the photodiode is fed into a lock-in amplifier that is triggered at the frequency of the pump heating event. In this work, we modulate the pump path at either 8.8 or 10 MHz. We monitor the in-phase (V 
+                        in) and out-of-phase (V 
+                        out) voltages recorded from the lock-in amplifier as a function of pump-probe delay time, and analyze the ratio of these voltages (−V 
+                        in/V 
+                        out) to obtain a thermal decay curve, shown as the data points in Fig. 1
+                        . This curve, which is representative of the change in thermal reflectance over time due to the modulated heating event, is then compared to a model of the heat transport of our system under study (the solid line in Fig. 1) to back out the thermal conductivity of each film. Due to various optical components in our experimental layout, the pulse width of the pump and probe is stretched by the time it reaches the sample surface, yielding a cross-correlation of ∼700 fs. However, as seen in our representative TDTR data shown in Fig. 1, the thermal conductivity of the amorphous film is determined over pump-probe delay times of hundreds of picoseconds to nanoseconds and, therefore, the precise pulse widths of the sub-picosecond pulse is irrelevant.
+
+The thermal conductivities of these amorphous thin films were determined using a multi-layer thermal model fit to the ratio of the in-phase to out-of-phase voltages, as described in the literature [39,41,42]. We assume literature values [43,44] for the heat capacities of each of the layers, and then scale the heat capacities of the amorphous films proportionally to their reduced atomic densities. It should be noted that in this regime where the film thickness is less than ∼ 20 nm, the TDTR measurements become more sensitive to the thermal conductance of the film, and sensitivity is lost to the thermal mass of the film. Additionally, we assume literature values for the thermal conductivities of our substrates [45]. For our thickest films (∼50 nm), we are able to analyze our data using a three layer model and directly measure the thermal conductivity. However, the thinner films (∼ 10–30 nm for TiO2 and ∼ 2–20 nm for Al2O3) are thin enough that they are in a regime where the TDTR signal is dominated by the interfacial resistances (R
+                        Al/film and R
+                        film/substrate) of the film, and the intrinsic thermal conductivity of the films cannot be directly measured [46]. Therefore we determine an effective thermal conductivity, which contains both the intrinsic thermal conductivity of the amorphous thin film and the front side and back side boundary resistances. We assume a thickness independent thermal conductivity for these thin amorphous films, and apply a resistor model to back out their intrinsic thermal conductivity. Due to the large aspect ratio of the sampling system, where the spot size is much larger than the thermal penetration depth, the measurement has negligible sensitivity to radial heat transport, and therefore no sensitivity to the in-plane thermal conductivity. An in-depth discussion of radial heat transport in pump-probe techniques has been presented elsewhere [41,47]. As a result, the resistor model takes the form shown in Eq. (1) where the cross-plane resistances add in series and there are no terms accounting for in-plane thermal resistances. The implications of this analysis are discussed in the following section.
+
+We determine the uncertainty in our measurements by considering two different sources. First, we calculate the standard deviation among the entire set of measurements for each sample. Second, we determine the change in thermal conductivity due to perturbing the aluminum transducer thickness by ±5 nm in our analysis. From this, we construct our total measurement error by taking the square root of the sum of the squares (RMS) of each source of uncertainty. The uncertainty for the intrinsic thermal conductivity of the thin films backed out from the resistor model, as further described in the next section, is derived by taking the upper and lower bounds defined by the standard deviation of the measured boundary conductance for each film and calculating the effective thermal conductivity for both cases. We then calculate the standard deviation and calculate the RMS error.
+
+The measured thermal resistances, R, and calculated effective thermal conductivities, κ
+                        eff for the Al2O3 and TiO2 films are shown in Fig. 2
+                        . The effective thermal conductivity is determined as κ
+                        eff = d/R [48], where d is the film thickness. The TiO2 films were deposited onto only silicon substrates, while the Al2O3 films were deposited onto both silicon and quartz substrates. We find that the measured thermal resistances of the Al2O3 films do not depend on the substrate. This suggests that the thermal resistance that dominates these TDTR measurements is not substrate dependent. Additionally, we observe a systematic increase in R (and hence κ
+                        eff) as a function of increased film thickness, which is consistent with previous studies on the thermal properties of amorphous thin films. This has been attributed to the increased influence of the contribution from film resistance to the overall measured thermal resistance as the film thickness increases [35,36,48-50].
+
+To gain more insight into the relative roles of the intrinsic thermal conductivity of the thin films and the influence of thermal boundary resistances on our TDTR measurements, we fit our measured data to a series-resistor model, as described previously [24,49]. Here the effective thermal conductivity is approximated by 
+                           
+                              (1)
+                              
+                                 
+                                    κ
+                                    eff
+                                 
+                                 =
+                                 
+                                    
+                                       κ
+                                       i
+                                    
+                                    
+                                       1
+                                       +
+                                       
+                                          
+                                             
+                                                R
+                                                tot
+                                             
+                                             
+                                                κ
+                                                i
+                                             
+                                          
+                                          d
+                                       
+                                    
+                                 
+                              
+                           
+                        where R
+                        tot is the total thermal boundary resistance from both interfaces (Al/film and film/substrate) and κ
+                        i is the intrinsic thermal conductivity of the amorphous film. Representative model fits of Eq. (1) to the effective thermal conductivity data are shown in Fig. 2 (b) and (d) for the TiO2 and Al2O3 films, respectively. From these fits, we determine a thickness independent thermal conductivity of the amorphous films, the results of which are presented in Tables 1 and 2
+                        
+                        . Furthermore, we estimate the thermal boundary resistances (conductances) as ∼10 m2 K GW−1 (∼ 100 ± 10 MW m−2 K−1) for Al2O3 and ∼7.5 m2 K GW−1 (∼ 132 ± 8 MW m−2 K−1) for TiO2 regardless of substrate or deposition temperature. This is reasonable given previous works that measured the thermal boundary conductance across metal/non-metal interfaces [51–53]. However, we are relatively insensitive to this boundary conductance due to the high thermal resistance from the amorphous thin films as seen by the sensitivity analysis provided in Fig. 1. This is consistent with previous studies measuring similar materials [6,49]. In addition, Fig. 2 (c) and (d) demonstrate a lack of substrate dependence (within error) on R and κ
+                        eff for the alumina films, indicating the thermal resistance is likely dominated from the metal/film interface and not from the interface between the film and the substrate.
+
+Fig. 3
+                         shows the measured thermal conductivity of the 50 nm thick a-Al2O3 and a-TiO2 films due to the change in refractive index, which is directly correlated to atomic density. We account for this effect in our analysis by scaling the heat capacity in our thermal model proportionally to the change in refractive index. The results from this study are directly compared to Gorham et al. [27], who measured a very similar amorphous alumina system where film thicknesses were held constant at 50±5 nm to negate length scale effects. Accounting for all of these factors, we observed an increase in thermal conductivity with film density. This is reasonable given previous studies investigating the effects of reduced atomic density on the thermal conductivity of amorphous films [27,33,34,54].
+
+We then compared this reduction in thermal conductivity to the minimum limit model [29]. For several decades, this model has served as the baseline for describing the effects of atomic density on thermal conductivity in amorphous solids. The minimum limit is given by 
+                           
+                              (2)
+                              
+                                 
+                                    
+                                       κ
+                                    
+                                    
+                                       min
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       
+                                          
+                                             ℏ
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       6
+                                       
+                                          
+                                             π
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                       
+                                          
+                                             k
+                                          
+                                          
+                                             B
+                                          
+                                       
+                                       
+                                          
+                                             T
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       ∑
+                                    
+                                    
+                                       j
+                                    
+                                 
+                                 
+                                    
+                                       ∫
+                                    
+                                    
+                                       0
+                                    
+                                    
+                                       
+                                          
+                                             ω
+                                          
+                                          
+                                             c
+                                             ,
+                                             j
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       τ
+                                    
+                                    
+                                       min
+                                       ,
+                                       j
+                                    
+                                 
+                                 
+                                    
+                                       
+                                          
+                                             ω
+                                          
+                                          
+                                             4
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             v
+                                          
+                                          
+                                             j
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    
+                                       exp
+                                       
+                                          
+                                             
+                                                
+                                                   ℏ
+                                                   ω
+                                                
+                                                
+                                                   
+                                                      
+                                                         k
+                                                      
+                                                      
+                                                         B
+                                                      
+                                                   
+                                                   T
+                                                
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          
+                                             
+                                                
+                                                   exp
+                                                   
+                                                      
+                                                         
+                                                            
+                                                               ℏ
+                                                               ω
+                                                            
+                                                            
+                                                               
+                                                                  
+                                                                     k
+                                                                  
+                                                                  
+                                                                     B
+                                                                  
+                                                               
+                                                               T
+                                                            
+                                                         
+                                                      
+                                                   
+                                                   −
+                                                   1
+                                                
+                                             
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                 
+                                 d
+                                 ω
+                              
+                           
+                        where κ
+                        min is the minimum thermal conductivity, j is the phonon polarization index, τ
+                        min is the minimum scattering time, ω is the angular frequency, ω
+                        c,j is the cut-off frequency, and v 
+                        
+                           j
+                         is the phonon group velocity. To evaluate Eq. (2) for our amorphous films, we take the longitudinal and transverse sound speeds for Al2O3 and TiO2 from Refs. [27] and [55], respectively. Additionally, we use n = 116.6 nm−3 for the fully dense atomic density of Al2O3 and n = 97.2 nm−3 for TiO2 in calculating the cut-off frequencies, where ω
+                        c,j = v 
+                        
+                           j
+                        (6π 
+                        2 
+                        n)1/3. Our calculations of the minimum thermal conductivity for Al2O3 and TiO2 are shown in Fig. 4
+                         (a) and (b) as solid lines, and are consistent with the measured data for higher atomic densities (approaching bulk). However, the minimum limit over-predicts the thermal conductivity for lower atomic densities. Therefore, to account for density effects, we turn to a differential effective-medium (DEM) approximation [34,56], which attempts to describe thermal properties in heterogeneous materials by considering a common “effective” medium between the solid atoms and the additional “space” between the atoms. This model proposes that thermal conductivity scales with atomic density and is given by 
+                           
+                              (3)
+                              
+                                 
+                                    κ
+                                    DEM
+                                 
+                                 =
+                                 κ
+                                 
+                                    
+                                       
+                                          n
+                                          
+                                             n
+                                             bulk
+                                          
+                                       
+                                    
+                                    
+                                       3
+                                       2
+                                    
+                                 
+                              
+                           
+                        For the TiO2 films, we take κ as either 1.37 W m−1 K−1 from the maximum thermal conductivity measured in our film series or as the minimum limit calculated by Eq. (2); we assume n 
+                        bulk as 7.89 × 1028 atoms m−3, which again corresponds to our highest density TiO2 film. Based on earlier work relating the refractive index of a-TiO2 to its density [10], we determine the atomic density according to n = 3N 
+                        A(2.86
+                           ñ
+                         –3.63)/M, where 
+                           ñ
+                         is the refractive index measured at 550 nm, N 
+                        A is Avogadro's number, and M is the molecular weight. For Al2O3, we take κ as either the calculated minimum limit or as 2.13 W m−1 K−1, the maximum thermal conductivity of Al2O3 that we measure; for Al2O3 we assume n 
+                        bulk as 9.48 × 1028 atoms m−3, which corresponds to our highest density film; and n = 5N 
+                        A(7.174
+                           ñ
+                         –8.76)/M, which is consistent with previous work studying density effects in amorphous alumina thin films [27]. We choose n 
+                        bulk and κ
+                        min as the highest atomic density and thermal conductivity that we measure in each sample set to effectively normalize the data and better understand the observed trends.
+
+Both DEM-based approximations are shown in Fig. 4 (a) and (b) for TiO2 and Al2O3, respectively, taking κ as either the calculated minimum limit (dashed lines) or as the measured value of the highest density film (dotted lines). Compared to the minimum limit prediction, the DEM exhibits better agreement with the measured thermal conductivity data, and this approximation modified with the minimum limit predicts the trends in the experimental data particularly well. This approach is convenient because it only requires knowledge of sound velocity and atomic density, whereas the DEM calculation requires knowledge of the thermal conductivity of the fully dense amorphous phase of the material. Previous reports have found similar agreement using this model to study low thermal conductivity materials [27,33], suggesting that this is a promising approach for predicting the thermal properties of amorphous thin films.
+
+To further investigate the interplay between atomic density and film thickness, we examine a series of TiO2 films in which both film thickness and deposition condition are varied. The thermal conductivity of these films of varying film thickness (∼ 50–100 nm) is shown in Fig. 4 (a). The data in Table 1 indicate that for TiO2 thicker than ∼50 nm, size effects in thermal conductivity do not exist. However, in similar fashion to the Al2O3 films, Fig. 4 (a) suggests the changes in thermal conductivity are instead driven by variations in atomic density.
+
+We have measured the thermal conductivity of ALD-grown amorphous Al2O3 and TiO2 thin films of varying film thickness and density. For films less than ∼40 nm, we measure an effective thermal conductivity which decreases with reduced film thickness. This is attributed to the increased effect of thermal boundary resistances with decreasing film thickness. We determine a thickness- and substrate-independent intrinsic thermal conductivity using a series-resistor model and find that our fitted values agree well with the literature, as well as with the values for the thicker films in our study. For films greater than ∼40 nm, there is no significant dependence on film thickness or substrate. We measure thermal conductivity due to a reduction in atomic density and observe a proportional relation. The density dependence of thermal conductivity of these amorphous films is well described by a differential effective medium approximation that is modified by a minimum limit model. We observe similar trends in both Al2O3 and TiO2, suggesting that the dependence of thermal conductivity on atomic density is an intrinsic property of these ALD-grown amorphous thin films.
+
+This work was funded by the Army Research Office (Grant No. W911NF-16-1-0320). BDP acknowledges support from the Department of Defense (DoD) through the National Defense Science & Engineering Graduate Fellowship (NDSEG) Program. BFD would like to acknowledge support from the Office of Naval Research (Contract No. N00014-17-WX-01799).

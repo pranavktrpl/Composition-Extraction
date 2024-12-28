@@ -1,0 +1,1448 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0925346716300192</prism:url><dc:identifier>doi:10.1016/j.optmat.2016.01.019</dc:identifier><eid>1-s2.0-S0925346716300192</eid><prism:doi>10.1016/j.optmat.2016.01.019</prism:doi><pii>S0925-3467(16)30019-2</pii><dc:title>Design and performance benchmark of various architectures of a piezoelectric bimetallic strip heat engine </dc:title><prism:publicationName>Optical Materials</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09253467</prism:issn><prism:volume>56</prism:volume><prism:startingPage>110</prism:startingPage><prism:endingPage>115</prism:endingPage><prism:pageRange>110-115</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-06-30</prism:coverDate><prism:coverDisplayDate>June 2016</prism:coverDisplayDate><prism:copyright>Copyright © 2016 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>Advanced Materials for Optics, Photonics, Renewable Energies and Their Recent Advances</prism:issueName><dc:creator>Boughaleb, J.</dc:creator><dc:creator>Arnaud, A.</dc:creator><dc:creator>Monfray, S.</dc:creator><dc:creator>Cottinet, P.J.</dc:creator><dc:creator>Quenard, S.</dc:creator><dc:creator>Boeuf, F.</dc:creator><dc:creator>Guyomar, D.</dc:creator><dc:creator>Skotnicki, T.</dc:creator><dc:description>
+                  This paper deals with an investigation of a thermal energy harvester based on the coupling of a piezoelectric membrane and a bimetallic strip heat engine. The general working principle of the device consists of a double conversion mechanism: the thermal energy is first converted into mechanical energy by means of a bimetallic strip, then the mechanical energy is converted into electricity with a piezoelectric membrane. This paper deals with the study and optimization of the harvester’s design. First, the piezoelectric membrane configuration is studied to find the most efficient way to convert mechanical energy into electricity. A benchmark of various piezoelectric materials is then presented to point out the most efficient materials. Finally, our study focuses on the bimetallic strip’s properties: the effect of its dimensions of its thermal hysteresis on the harvester’s performances are studied and compared. Thanks to these different steps, we were able to point out the best configuration to convert efficiently thermal heat flux into electricity.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Energy harvesting</dcterms:subject><dcterms:subject>Bimetallic strip heat engine</dcterms:subject><dcterms:subject>Piezoelectric membrane</dcterms:subject><dcterms:subject>Configurations benchmark</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0925346716300192" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0925346716300192" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="146" size="32479">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="13489">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="96" size="22910">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="121" size="12957">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="122" size="14074">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="122" height="163" size="9639">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="159" size="13221">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="153" size="15956">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="355" height="237" size="33015">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="373" height="290" size="27593">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="488" height="214" size="37100">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="377" height="208" size="24836">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="484" height="270" size="44811">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="712" size="73776">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="272" size="25202">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="377" height="263" size="33032">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1504" height="1003" size="158678">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1654" height="1285" size="124144">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1622" height="712" size="140095">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1518" height="838" size="114104">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1617" height="902" size="180421">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2362" height="3156" size="510285">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1657" height="1203" size="120242">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1670" height="1167" size="158823">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="100" height="23" size="629">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="10" height="10" size="184">https://api.elsevier.com/content/object/eid/1-s2.0-S0925346716300192-si2.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84954271028</scopus-id><scopus-eid>2-s2.0-84954271028</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84954271028" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271556</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Optical Materials</xocs:srctitle>
+      <xocs:normalized-srctitle>OPTICALMATERIALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160112">2016-01-12</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160112">2016-01-12</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160411">2016-04-11</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160411">2016-04-11</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-02-25T00:17:55</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0925346716300192</xocs:eid>
+      <xocs:pii-formatted>S0925-3467(16)30019-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0925346716300192</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.optmat.2016.01.019</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0925346716X00055</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170227">2017-02-27T02:55:14.087672-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160601</xocs:date-search-begin>
+      <xocs:date-search-end>20160630</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1452605969">2016-01-12T13:39:29.834724Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0925-3467</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09253467</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>56</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>56</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 56</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>22</xocs:sort-order>
+      <xocs:first-fp>110</xocs:first-fp>
+      <xocs:last-lp>115</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>110</xocs:first-page>
+         <xocs:last-page>115</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201606</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title id="tt005">Advanced Materials for Optics, Photonics, Renewable Energies and Their Recent Advances</ce:title>
+            <ce:editors>
+               <ce:author-group id="aa0025">
+                  <ce:author id="aa005" author-id="S0925346716X00055-b4edbe8354a5dd67c25044334dd59a18">
+                     <ce:degrees>Prof.</ce:degrees>
+                     <ce:given-name>Bouchta</ce:given-name>
+                     <ce:surname>Sahraoui</ce:surname>
+                  </ce:author>
+                  <ce:author id="aa0010" author-id="S0925346716X00055-3b04a5d97cd3dac834cff797c2c4a22b">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Abdul Kariem</ce:given-name>
+                     <ce:surname>Arof</ce:surname>
+                  </ce:author>
+                  <ce:author id="aa0015" author-id="S0925346716X00055-d8a530b2ad537a15e6f4be6b4e7e2c30">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Anna</ce:given-name>
+                     <ce:surname>Zawadzka</ce:surname>
+                  </ce:author>
+                  <ce:author id="aa0020" author-id="S0925346716X00055-db6ad629b7aaf72ee37003d1cb9d4e4c">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Abdelowahed</ce:given-name>
+                     <ce:surname>Hajjaji</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2016 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>DESIGNPERFORMANCEBENCHMARKVARIOUSARCHITECTURESAPIEZOELECTRICBIMETALLICSTRIPHEATENGINE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BOUGHALEB</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Device general working principle</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Harvester’s design optimization</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Positioning of the piezoelectric membrane</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Optimization of different piezoelectric materials properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Bimetals of different thermal hystereses and dimensions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Interpretation and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>BEEBY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>95</xocs:ref-first-fp>
+            <xocs:ref-last-lp>100</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-article-title>ENERGYHARVESTINGFORAUTONOMOUSSYSTEMS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>PRUVOST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20629</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20635</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>BAGNALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-last-lp>85</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-article-title>ENERGYHARVESTINGFORAUTONOMOUSSYSTEMS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>CAROFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-last-lp>212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-article-title>MICROETNANOSYSTEMESAUTONOMESENENERGIEDESAPPLICATIONSAUXFONCTIONSETTECHNOLOGIES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>RAVINDRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030"/>
+         <xocs:ref-info refid="h0035"/>
+         <xocs:ref-info refid="h0040"/>
+         <xocs:ref-info refid="h0045"/>
+         <xocs:ref-info refid="h0050"/>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>BOUGHALEB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>085025</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>WITTRICK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1953</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065"/>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>ARNAUD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104003</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>DANIELS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2626</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2633</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>BOUGHALEB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>BOUGHALEB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>115</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BOUGHALEBX2016X110</xocs:refkey3>
+         <xocs:refkey4lp>BOUGHALEBX2016X110X115</xocs:refkey4lp>
+         <xocs:refkey4ai>BOUGHALEBX2016X110XJ</xocs:refkey4ai>
+         <xocs:refkey5>BOUGHALEBX2016X110X115XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-04-11T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0925-3467(16)30019-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0925346716300192</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0925346716300192</xocs:eid>
+         <xocs:doi>10.1016/j.optmat.2016.01.019</xocs:doi>
+         <xocs:cid>271556</xocs:cid>
+         <xocs:timestamp>2017-02-27T02:55:14.087672-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-06-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/MAIN/application/pdf/ad624e01503ea97a443cd73e49365633/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/MAIN/application/pdf/ad624e01503ea97a443cd73e49365633/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1474162</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0925346716300192-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/PREVIEW/image/png/e817679014865fc13f75c9b80ae50b72/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/PREVIEW/image/png/e817679014865fc13f75c9b80ae50b72/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>54814</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr1/THUMBNAIL/image/gif/c934f89eb993392a37df55f697bfe4d5/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr1/THUMBNAIL/image/gif/c934f89eb993392a37df55f697bfe4d5/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>32479</xocs:filesize>
+               <xocs:pixel-height>146</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr2/THUMBNAIL/image/gif/2e51670a7ba743a175fcc1eb6d90b2c2/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr2/THUMBNAIL/image/gif/2e51670a7ba743a175fcc1eb6d90b2c2/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13489</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr3/THUMBNAIL/image/gif/ce33b2d33655d71304af5bba4a7becd1/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr3/THUMBNAIL/image/gif/ce33b2d33655d71304af5bba4a7becd1/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>22910</xocs:filesize>
+               <xocs:pixel-height>96</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr4/THUMBNAIL/image/gif/70c38aa5e693042bd02a944f94ef9364/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr4/THUMBNAIL/image/gif/70c38aa5e693042bd02a944f94ef9364/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12957</xocs:filesize>
+               <xocs:pixel-height>121</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr5/THUMBNAIL/image/gif/4e0779949227a76bbe41fa4e845d1ff5/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr5/THUMBNAIL/image/gif/4e0779949227a76bbe41fa4e845d1ff5/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14074</xocs:filesize>
+               <xocs:pixel-height>122</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr6/THUMBNAIL/image/gif/7c0cf6618d96f980e26ebde22fa97325/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr6/THUMBNAIL/image/gif/7c0cf6618d96f980e26ebde22fa97325/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9639</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>122</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr7/THUMBNAIL/image/gif/915706553f6559418e7f1ac3b95aad0f/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr7/THUMBNAIL/image/gif/915706553f6559418e7f1ac3b95aad0f/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13221</xocs:filesize>
+               <xocs:pixel-height>159</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr8/THUMBNAIL/image/gif/589e04ca940c2fe48ac03742a56e1b74/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr8/THUMBNAIL/image/gif/589e04ca940c2fe48ac03742a56e1b74/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15956</xocs:filesize>
+               <xocs:pixel-height>153</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr1/DOWNSAMPLED/image/jpeg/2ba7a14c5a40c18f4c35d551fba9501f/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr1/DOWNSAMPLED/image/jpeg/2ba7a14c5a40c18f4c35d551fba9501f/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33015</xocs:filesize>
+               <xocs:pixel-height>237</xocs:pixel-height>
+               <xocs:pixel-width>355</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr2/DOWNSAMPLED/image/jpeg/2c95ce38d40c28d475391fc2b0867615/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr2/DOWNSAMPLED/image/jpeg/2c95ce38d40c28d475391fc2b0867615/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27593</xocs:filesize>
+               <xocs:pixel-height>290</xocs:pixel-height>
+               <xocs:pixel-width>373</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr3/DOWNSAMPLED/image/jpeg/e6705d8a11392cdfcaa99e3dc6f68a2d/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr3/DOWNSAMPLED/image/jpeg/e6705d8a11392cdfcaa99e3dc6f68a2d/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37100</xocs:filesize>
+               <xocs:pixel-height>214</xocs:pixel-height>
+               <xocs:pixel-width>488</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr4/DOWNSAMPLED/image/jpeg/d9c52060d07c61a3ade4f8fa9064e38c/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr4/DOWNSAMPLED/image/jpeg/d9c52060d07c61a3ade4f8fa9064e38c/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24836</xocs:filesize>
+               <xocs:pixel-height>208</xocs:pixel-height>
+               <xocs:pixel-width>377</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr5/DOWNSAMPLED/image/jpeg/064d38e5d539c4e887c6ff03c4d4dd7d/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr5/DOWNSAMPLED/image/jpeg/064d38e5d539c4e887c6ff03c4d4dd7d/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>44811</xocs:filesize>
+               <xocs:pixel-height>270</xocs:pixel-height>
+               <xocs:pixel-width>484</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr6/DOWNSAMPLED/image/jpeg/e0f60982e06903b9e6d1d4b49a5bb005/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr6/DOWNSAMPLED/image/jpeg/e0f60982e06903b9e6d1d4b49a5bb005/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>73776</xocs:filesize>
+               <xocs:pixel-height>712</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr7/DOWNSAMPLED/image/jpeg/371bbe12b9b8f8c6020d7d6bb8a87068/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr7/DOWNSAMPLED/image/jpeg/371bbe12b9b8f8c6020d7d6bb8a87068/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25202</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr8/DOWNSAMPLED/image/jpeg/18b05edf013ee5366c68753b38df394e/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr8/DOWNSAMPLED/image/jpeg/18b05edf013ee5366c68753b38df394e/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33032</xocs:filesize>
+               <xocs:pixel-height>263</xocs:pixel-height>
+               <xocs:pixel-width>377</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr1/HIGHRES/image/jpeg/094b1f3d18b957615e7d433287edf534/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr1/HIGHRES/image/jpeg/094b1f3d18b957615e7d433287edf534/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>158678</xocs:filesize>
+               <xocs:pixel-height>1003</xocs:pixel-height>
+               <xocs:pixel-width>1504</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr2/HIGHRES/image/jpeg/a04d0a8e3bd8d94a266c404a5cc7fd15/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr2/HIGHRES/image/jpeg/a04d0a8e3bd8d94a266c404a5cc7fd15/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>124144</xocs:filesize>
+               <xocs:pixel-height>1285</xocs:pixel-height>
+               <xocs:pixel-width>1654</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr3/HIGHRES/image/jpeg/63498d6dc93d181ad0591738c1f444c8/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr3/HIGHRES/image/jpeg/63498d6dc93d181ad0591738c1f444c8/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>140095</xocs:filesize>
+               <xocs:pixel-height>712</xocs:pixel-height>
+               <xocs:pixel-width>1622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr4/HIGHRES/image/jpeg/303552db893e13623a9d5641f35b488f/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr4/HIGHRES/image/jpeg/303552db893e13623a9d5641f35b488f/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>114104</xocs:filesize>
+               <xocs:pixel-height>838</xocs:pixel-height>
+               <xocs:pixel-width>1518</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr5/HIGHRES/image/jpeg/22b42d4dd8b237797ebf8214c7c199b3/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr5/HIGHRES/image/jpeg/22b42d4dd8b237797ebf8214c7c199b3/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>180421</xocs:filesize>
+               <xocs:pixel-height>902</xocs:pixel-height>
+               <xocs:pixel-width>1617</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr6/HIGHRES/image/jpeg/2fa32d11e5c796d7840ba052d78accdd/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr6/HIGHRES/image/jpeg/2fa32d11e5c796d7840ba052d78accdd/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>510285</xocs:filesize>
+               <xocs:pixel-height>3156</xocs:pixel-height>
+               <xocs:pixel-width>2362</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr7/HIGHRES/image/jpeg/ea63873f395a3737d83114a35f7619a4/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr7/HIGHRES/image/jpeg/ea63873f395a3737d83114a35f7619a4/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>120242</xocs:filesize>
+               <xocs:pixel-height>1203</xocs:pixel-height>
+               <xocs:pixel-width>1657</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/gr8/HIGHRES/image/jpeg/2120122a2d7a92896cb7a003b086c03b/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/gr8/HIGHRES/image/jpeg/2120122a2d7a92896cb7a003b086c03b/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>158823</xocs:filesize>
+               <xocs:pixel-height>1167</xocs:pixel-height>
+               <xocs:pixel-width>1670</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/STRIPIN/image/gif/3b809ca4be30b97882105da94209cade/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/STRIPIN/image/gif/3b809ca4be30b97882105da94209cade/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>629</xocs:filesize>
+               <xocs:pixel-height>23</xocs:pixel-height>
+               <xocs:pixel-width>100</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0925346716300192-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0925346716300192/STRIPIN/image/gif/3cafe9df09b9c094d64793f303d2600a/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0925346716300192/STRIPIN/image/gif/3cafe9df09b9c094d64793f303d2600a/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>184</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>10</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>OPTMAT</jid>
+            <aid>6784</aid>
+            <ce:pii>S0925-3467(16)30019-2</ce:pii>
+            <ce:doi>10.1016/j.optmat.2016.01.019</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0015" view="all">Shape of the bimetal with its hallmark.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:href="pii:S0925346716300192/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0020" view="all">Scheme of the coupled piezoelectric–bimetal heat engine with (a) the upper and (b) lower states of the bimetal.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:href="pii:S0925346716300192/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0025" view="all">Image of thermal energy harvester (a) in a double clamped piezoelectric membrane configuration and (b) with a cantilever piezo-beam with a free end.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:href="pii:S0925346716300192/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0030" view="all">Output electrical signal obtained with the configuration in <ce:cross-ref refid="f0015" id="c0005">Fig. 3</ce:cross-ref>a with a 67–70<ce:hsp sp="0.25"/>°C bimetal and a 10<ce:hsp sp="0.25"/>MΩ probe.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:href="pii:S0925346716300192/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0035" view="all">Snapping frequency and output power evolutions of the harvester in (<ce:cross-ref refid="f0015" id="c0010">Fig. 3</ce:cross-ref>a) using a 67–70<ce:hsp sp="0.25"/>°C bimetal.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:href="pii:S0925346716300192/gr5" id="lk00025"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0040" view="all">Comparison of the devices constructed using three different piezoelectric membranes from different manufacturers, experiments done using the 73–92<ce:hsp sp="0.25"/>°C bimetal.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6" xlink:type="simple" xlink:href="pii:S0925346716300192/gr6" id="lk00030"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cn0035">
+                  <ce:simple-para id="sp0045" view="all">Bimetals measured force when snapping in function of their thermal hysteresis.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7" xlink:type="simple" xlink:href="pii:S0925346716300192/gr7" id="lk00035"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cn0040">
+                  <ce:simple-para id="sp0050" view="all">Bimetals available mechanical energy per snapping cycle in function of their thermal hysteresis.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8" xlink:type="simple" xlink:href="pii:S0925346716300192/gr8" id="lk00040"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0045">
+                  <ce:simple-para id="sp0055" view="all">Performances comparison of the two designs in <ce:cross-ref refid="f0015" id="c0015">Fig. 3</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Piezo-membrane state</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Bimetal hysteresis</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Snapping frequency at thermal equilibrium (Hz)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Energy per snap (μJ)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Electrical power (μW)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Simple clamp</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3<hsp sp="0.25"/>K, bimetal 67–70<hsp sp="0.25"/>°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">54.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Double clamp</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3<hsp sp="0.25"/>K, bimetal 67–70<hsp sp="0.25"/>°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">115</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">32</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0010" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cn0050">
+                  <ce:simple-para id="sp0060" view="all">Comparison of piezoelectric materials properties.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Material parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Properties</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Kepo PZT 5H Membrane 1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Piezo System 5A4E Membrane 2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Piezo Volture V21BL Membrane 3</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>K</italic>
+                           <inf loc="post">31</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Coupling coefficient</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.36</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">|<italic>d</italic>
+                           <inf loc="post">31</inf>|</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Piezo-coefficient (10<sup loc="post">−12</sup>
+                           <hsp sp="0.25"/>C/N)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">275</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">190</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">190</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>ε</italic>
+                           <inf loc="post">33</inf>/<italic>ε</italic>
+                           <inf loc="post">0</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Dielectric constant</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3200</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1700</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>T</italic>
+                           <inf loc="post">c</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Curie temperature (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">260</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">350</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">350</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">FOM</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Factor of merit (10<sup loc="post">−24</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">23.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">21.2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Design and performance benchmark of various architectures of a piezoelectric bimetallic strip heat engine</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S0925346716300192-8f8184e5f3eb685c2b21790cd18417c5">
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Boughaleb</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af010" id="c0025">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af015" id="c0030">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0035">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au010" author-id="S0925346716300192-acd74f32d0dcb8abb9d127b5bb2b9f71">
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Arnaud</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af020" id="c0045">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af025" id="c0050">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S0925346716300192-9d0e237e27504629e96e2b33cde437ad">
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Monfray</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0055">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S0925346716300192-704f1b6982bad9abd6a4fbf38e5e5ce9">
+                  <ce:given-name>P.J.</ce:given-name>
+                  <ce:surname>Cottinet</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0060">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au025" author-id="S0925346716300192-b43de3c9fd006d73731ce3b483352b8f">
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Quenard</ce:surname>
+                  <ce:cross-ref refid="af015" id="c0065">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au030" author-id="S0925346716300192-a3b9737a4f4e9781c39f0f3fb319459d">
+                  <ce:given-name>F.</ce:given-name>
+                  <ce:surname>Boeuf</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0070">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au035" author-id="S0925346716300192-be75bd8d2204a397fd4c258b7c9b54a7">
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>Guyomar</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0075">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au040" author-id="S0925346716300192-5e39e88e2000d79c5a044a38b5bd1e6f">
+                  <ce:given-name>T.</ce:given-name>
+                  <ce:surname>Skotnicki</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0080">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>STMicroelectronics (Crolles 2) SAS, 850 Rue Jean Monnet, 38926 Crolles Cedex, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>STMicroelectronics (Crolles 2) SAS</sa:organization>
+                     <sa:address-line>850 Rue Jean Monnet</sa:address-line>
+                     <sa:city>38926 Crolles Cedex</sa:city>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>LGEF, INSA Lyon, 8 Rue de la Physique, 69621 Villeurbanne Cedex, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>LGEF</sa:organization>
+                     <sa:organization>INSA Lyon</sa:organization>
+                     <sa:address-line>8 Rue de la Physique</sa:address-line>
+                     <sa:city>69621 Villeurbanne Cedex</sa:city>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>CEA Liten, 17 Rue des Martyrs, 38054 Grenoble Cedex 9, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CEA Liten</sa:organization>
+                     <sa:address-line>17 Rue des Martyrs</sa:address-line>
+                     <sa:city>38054 Grenoble Cedex 9</sa:city>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af020">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>G2Elab, Univ. Grenoble Alpes, F38000 Grenoble, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>G2Elab</sa:organization>
+                     <sa:organization>Univ. Grenoble Alpes</sa:organization>
+                     <sa:city>F38000 Grenoble</sa:city>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af025">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>CNRS, Univ. Grenoble Alpes, F38000 Grenoble, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CNRS</sa:organization>
+                     <sa:organization>Univ. Grenoble Alpes</sa:organization>
+                     <sa:city>F38000 Grenoble</sa:city>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: STMicroelectronics (Crolles 2) SAS, 850 Rue Jean Monnet, 38926 Crolles Cedex, France.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>STMicroelectronics (Crolles 2) SAS</sa:organization>
+                     <sa:address-line>850 Rue Jean Monnet</sa:address-line>
+                     <sa:city>38926 Crolles Cedex</sa:city>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="31" month="10" year="2015"/>
+            <ce:date-revised day="8" month="1" year="2016"/>
+            <ce:date-accepted day="9" month="1" year="2016"/>
+            
+            <ce:abstract class="author" xml:lang="en" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">This paper deals with an investigation of a thermal energy harvester based on the coupling of a piezoelectric membrane and a bimetallic strip heat engine. The general working principle of the device consists of a double conversion mechanism: the thermal energy is first converted into mechanical energy by means of a bimetallic strip, then the mechanical energy is converted into electricity with a piezoelectric membrane. This paper deals with the study and optimization of the harvester’s design. First, the piezoelectric membrane configuration is studied to find the most efficient way to convert mechanical energy into electricity. A benchmark of various piezoelectric materials is then presented to point out the most efficient materials. Finally, our study focuses on the bimetallic strip’s properties: the effect of its dimensions of its thermal hysteresis on the harvester’s performances are studied and compared. Thanks to these different steps, we were able to point out the best configuration to convert efficiently thermal heat flux into electricity.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st015">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Energy harvesting</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Bimetallic strip heat engine</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Piezoelectric membrane</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Configurations benchmark</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st020">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Wireless sensor networks have known an important development these last years thanks to the reduction in size and in the power consumptions of the CMOS circuitry. The aim of such intelligent networks is to replace long transmission distances with thousands of low cost and low power wireless devices. Intelligent environments are consequently created and allow the monitoring of numerous quantities in environments usually run on batteries. Batteries have many drawbacks related to their wiring, their short lifetime and their elevated costs which do not make them the most adapted solution for powering autonomous node networks: in fact, replacing thousands of batteries every year in areas difficult to access could sometimes be impractical. To make wireless sensor nodes become autonomous and self-sufficient all over their lifetime, many energy harvesting devices have been developed. The goal is to scavenge the available energies in the environment of the nodes and to convert it into usable electrical power. Resources like mechanical vibrations are harvested thanks to piezoelectric materials as reported in Refs. <ce:cross-refs refid="b0005 b0010" id="r0005">[1,2]</ce:cross-refs>, solar energy using photovoltaic modules as seen in Ref. <ce:cross-ref refid="b0015" id="c0085">[3]</ce:cross-ref> and heat flows using thermoelectric structures in Ref. <ce:cross-ref refid="b0020" id="c0090">[4]</ce:cross-ref> or pyroelectric materials as shown in Refs. <ce:cross-refs refid="b0025 b0030" id="r0010">[5,6]</ce:cross-refs>. In the thermal field, thermoelectric generators based on the Seebeck effect are the most used because of their efficiency. They use solid-state materials exhibiting high electrical conductivities but also high thermal conductivities in the same time. This property makes very difficult to maintain a significant temperature difference across the generator especially when the operating temperature is close to the ambient temperature. This leads to the use of heat sinks and thus raises the issue of compactness of the device as the heat sink represents the main part of the harvester as reported in Ref. <ce:cross-ref refid="b0035" id="c0095">[7]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0035" view="all">To avoid the drawbacks related to thermoelectric generators, thin and compact devices capable of harvesting heat flows each time a thermal gradient is available, including those close to ambient temperature, without any heat sink, have been developed and reported in Refs. <ce:cross-refs refid="b0040 b0045 b0050 b0055" id="r0015">[8–11]</ce:cross-refs>. They convert wasted heat into electrical energy by means of thermo-mechanically bistable bimetallic strips and piezoelectric membranes.</ce:para>
+                  <ce:para id="p0040" view="all">This paper presents an optimization work of a piezoelectric bimetallic strip heat engine in order to find the most efficient harvester’s design. The first part of this article is devoted to the explanation of the device’s working principle. In the second part, the main guidelines to find the most efficient design are exposed and experimentally tested and validated. The last part is about the interpretation and discussions of the previous experiments.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st025">Device general working principle</ce:section-title>
+                  <ce:para id="p0045" view="all">The thermal energy harvester reported in this paper is based on a double steps conversion mechanism of wasted heat flux into usable electricity. This is possible thanks to a bimetallic strip heat engine converting thermal energy into mechanical energy by exploiting the thermo-mechanical bistability of bimetal membranes made of two materials having a mismatch of their coefficients of thermal expansion.</ce:para>
+                  <ce:para id="p0050" view="all">In this article, bimetallic shells made of Invar and NC4 alloy (Invar (Fe–Ni 36%) acting as the low coefficient of thermal expansion coefficient (CTE) layer and NC4 (Fe–Ni 22%–Cr 3%) acting as the high CTE layer) are mounted in the harvester (<ce:cross-ref refid="f0005" id="c0100">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>). The antagonistic effect of the thermal mismatch of the shell’s materials and the initial curvature of the membrane are at the origin of the bistable behavior of the shell characterized by a thermal hysteresis, as reported by Wittrick in Ref. <ce:cross-ref refid="b0060" id="c0105">[12]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0055" view="all">
+                     <ce:cross-ref refid="f0010" id="c0110">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/> shows the general scheme of the harvester and shape of the bistable bimetal that snaps up or snaps down each time its temperature reaches the hysteresis temperatures called the snapping temperature <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">s</ce:inf> and the snapping back one <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">sb</ce:inf>. Arnaud et al. explained in more details the working principle of such heat engines in Refs. <ce:cross-refs refid="b0065 b0070" id="r0020">[13,14]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0060" view="all">To convert the kinetic energy released by the snapping bimetals, the bistable membrane is coupled with a piezoelectric transducer. That way, each time the bimetal snaps up, it impacts the piezoelectric membrane and the piezoelectric transducers oscillates at its resonance frequency. At the opposite, when the bimetal snaps down, it releases the piezoelectric transducer allowing it to vibrate freely. Consequently, during these two phases, the bimetal mechanical energy is converted into electricity.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st030">Harvester’s design optimization</ce:section-title>
+                  <ce:para id="p0065" view="all">The conversion mechanism of the harvester is now clarified and the fabrication of the harvester must be presented. To achieve this goal, a study of many configurations is established depending on the bimetals’ dimensions, bimetals’ thermal hysteresis, on the piezoelectric materials and transducer’s positioning. The aim of this design benchmark is to point out the best harvester’s structure that ensures an efficient conversion of heat into electricity. First of all, the harvester being a thermal energy scavenger bound to work without any heat sink, it is important to maintain an important thermal gradient across the structure. This is ensured by using a thermally insulating material. Prototypes thus are made of peek substrate with a copper cylinder at its middle to transfer efficiently the heat flux from the hot source to the bimetal at its top. This material allows taking advantage of its high glass transition temperature around 143<ce:hsp sp="0.25"/>°C, as well as its high elastic modulus (3.8<ce:hsp sp="0.25"/>GPa) that enhances the piezoceramic clamping and reduces the mechanical energy losses. For the piezoelectric material choice and the bimetallic strip, many options are possible.</ce:para>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st035">Positioning of the piezoelectric membrane</ce:section-title>
+                     <ce:para id="p0070" view="all">The piezoelectric membrane insuring the electro-mechanical conversion step is positioned over the bimetal at the top of the device. Consequently, two different configurations are possible: it can either be clamped at one end of the peek substrate as shown in <ce:cross-ref refid="f0015" id="c0115">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>b to be used as cantilever or at the opposite it can be clamped at its two ends as shown in <ce:cross-ref refid="f0015" id="c0120">Fig. 3</ce:cross-ref>a. Hereafter, these two configurations are studied to know the most powerful one. To extract the electrical power available across the piezoceramic capacitor, the output signal of the piezoelectric membrane is measured over the whole range of the operating temperatures of the device (<ce:cross-ref refid="f0020" id="c0125">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>). This study enables to extract the optimal working temperature at which the output power reaches a maximum value (<ce:cross-ref refid="f0025" id="c0130">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/>). This procedure is repeated for each harvester’s architecture to compare their performances.</ce:para>
+                     <ce:para id="p0075" view="all">
+                        <ce:cross-refs refid="f0020 f0025" id="r0025">Figs. 4 and 5</ce:cross-refs> represent the results of the harvester with a clamped–clamped piezoelectric membrane. The same work is conducted in the case of a clamped-free membrane. The values of the electrical power are compared in <ce:cross-ref refid="t0005" id="c0135">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>. This first comparison shows that the double clamped piezoelectric membrane harvests more energy than the clamped-free membrane because the membrane is more stressed in the first harvester’s configuration. The mechanical energy delivered by the bimetal is thus more efficiently converted into electrical energy if the piezoelectric beam is clamped at its two ends.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st040">Optimization of different piezoelectric materials properties</ce:section-title>
+                     <ce:para id="p0080" view="all">Another key point of our system is the choice of the piezoelectric ceramic to convert the mechanical energy released by the switching bimetal into electricity. Based on the method developed in Refs. <ce:cross-refs refid="b0075 b0080" id="r0030">[15,16]</ce:cross-refs>, a benchmark of many piezoelectric membranes from different suppliers is carried out to obtain the most adapted transducers to our use case in 3–1 mode. In fact, the study in reported in Ref. <ce:cross-ref refid="b0075" id="c0140">[15]</ce:cross-ref> first reveals that the <ce:italic>d</ce:italic>
+                        <ce:inf loc="post">31</ce:inf> (the piezoelectric coefficient) is the most relevant parameter for our harvester. Secondly, it shows that the Factor Of Merit that is a quantity used to define the performances of the different piezoelectric materials (FOM) is proportional to the output power. Consequently, the author shows that combining the FOM with the <ce:italic>d</ce:italic>
+                        <ce:inf loc="post">31</ce:inf> parameter is recommended to choose a good material for piezoelectric energy harvesting. The same strategy thus is followed to compare all the available materials in <ce:cross-ref refid="t0010" id="c0145">Tab.2</ce:cross-ref>. The expression enabling the calculation of the FOM is given by Eq. <ce:cross-ref refid="e0005" id="c0150">(1)</ce:cross-ref>:<ce:display>
+                           <ce:formula id="e0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mtext>FOM</mml:mtext>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msubsup>
+                                       <mml:mrow>
+                                          <mml:mi>d</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>31</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msubsup>
+                                    <mml:mo>/</mml:mo>
+                                    <mml:mi>ε</mml:mi>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mi>ε</mml:mi>
+                           </mml:mrow>
+                        </mml:math> is the dielectric constant. Each of the materials in <ce:cross-ref refid="t0010" id="c0155">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="t0010"/> shows interesting properties beside our needs. In fact, to harvest heat at high temperatures (40–150<ce:hsp sp="0.25"/>°C), the piezoelectric materials must have a Curie temperature as high as possible. All the ceramics used in this study seem to be good candidates.</ce:para>
+                     <ce:para id="p0085" view="all">Membrane 1 has good piezoelectric coefficients that ensure an efficient electro-mechanical transduction. However, membrane 2 and membrane 3 have other important advantages. Whereas membrane 1 has a capacitance of 60<ce:hsp sp="0.25"/>nF and membrane 3 a capacitance of 13<ce:hsp sp="0.25"/>nF, membrane 2 has a larger capacitance (232<ce:hsp sp="0.25"/>nF). Its main drawback is its thickness as it is thicker than membrane 1 and 3. This is a disadvantage from a thermal point of view as the piezoelectric transducer also plays the role of a cold surface. And a higher thermal capacitance implies a smaller snapping frequency of the bimetal. Concerning the membrane 3, it has a robust piezo packaging and it is hermetically sealed for use in harsh environments. Knowing that the harvester is based on mechanical impacts and shocks energy harvesting, this piezo seems to be the most appropriate one from a mechanical point of view as it is not sinterable material and cannot be cracked easily at the opposite of Kepo and piezosystem ceramics.</ce:para>
+                     <ce:para id="p0090" view="all">
+                        <ce:cross-ref refid="t0010" id="c0160">Table 2</ce:cross-ref> compares the piezoelectric properties of each of the piezoelectric materials. The factor of merit and the <ce:italic>d</ce:italic>
+                        <ce:inf loc="post">31</ce:inf> of each material are compared. It appears from this comparison that membrane 1 is the one presenting the most interesting piezoelectric properties.</ce:para>
+                     <ce:para id="p0095" view="all">To complete the previous piezoelectric benchmark, the three membranes are mounted on peek substrates with the same bimetal in the architecture cavity. The bimetal used for this experiment has a snap temperature of 92<ce:hsp sp="0.25"/>°C and a snap-back temperature of 73<ce:hsp sp="0.25"/>°C. Following the same procedure as in the previous part, the electrical power of the output signal of each harvester is measured as well as the electrical energy per snapping cycle and the snapping frequency. The experiments results are summed up in <ce:cross-ref refid="f0030" id="c0165">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/>.</ce:para>
+                     <ce:para id="p0100" view="all">The first observation we can make is that the switching frequency of a 19<ce:hsp sp="0.25"/>K bimetal hysteresis is much lower than the frequency of a 3<ce:hsp sp="0.25"/>K bimetal, as shown in Section <ce:cross-ref refid="s0020" id="c0170">3.1</ce:cross-ref>. This is due to the fact that a highly unstable beam needs a longer cooling time so that its temperature reaches the snap-back temperature. Concerning the piezoelectric materials, membranes 1 and 2 are the most powerful ones and the most adapted for thermal energy harvesting. However, for producing a low cost energy harvester, membrane 1 is more adapted.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st045">Bimetals of different thermal hystereses and dimensions</ce:section-title>
+                     <ce:para id="p0105" view="all">A bistable bimetallic strip is characterized by a thermal hysteresis with two specific temperatures. When put on a hot source, the bimetal is being heated up until its temperature reaches a certain snapping temperature <ce:italic>T</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>. At this point the bimetal snaps up toward the piezoelectric membrane. When it is in contact with this cooling membrane, the bimetal is cooled down until its temperature reaches the snap-back temperature <ce:italic>T</ce:italic>
+                        <ce:inf loc="post">sb</ce:inf>. At this point the bimetal snaps back, letting the piezomembrane freely vibrate. This cycle is infinitely repeated. Consequently, for our harvester, tests can be performed with various thermal hystereses. Moreover, we can perform experiments with different bimetals sizes. In fact, it is reported in Refs. <ce:cross-refs refid="b0065 b0070" id="r0035">[13,14]</ce:cross-refs> that the higher the bimetal hysteresis is, the higher the amount of mechanical energy delivered at each snap is. The same observation is made for the bimetals dimensions in this article. The remaining problem is related to the device thermal behavior more specifically to the snapping frequency as in fact, the higher the hysteresis of a bimetal is, the lower the snapping frequency will be. Consequently, tests should be carried out to find out the best compromise.</ce:para>
+                     <ce:para id="p0110" view="all">First of all, experiments on different bimetals having the dimensions 36<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>18<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>0.3<ce:hsp sp="0.25"/>mm<ce:sup loc="post">3</ce:sup> are performed using a force sensor. The goal is to measure the delivered force by the bimetal when its snaps as a function of its thermal hysteresis. Experiments thus are carried out on bimetals having thermal hystereses ranging from 3<ce:hsp sp="0.25"/>K up to 15<ce:hsp sp="0.25"/>K. The results are shown in <ce:cross-ref refid="f0035" id="c0175">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="f0035"/>. In this graph, we observe that bimetals with a larger thermal hysteresis deliver higher amounts of kinetic energy. However, there is a main drawback in using highly unstable bimetals, since the higher amounts of mechanical energy per snap for high thermal hysteresis bimetals do not balance for the decrease of the switching frequency of the bimetallic strips as it is reported in Ref. <ce:cross-ref refid="b0085" id="c0180">[17]</ce:cross-ref> and thus the higher the hysteresis is, the lower the harvested power is.</ce:para>
+                     <ce:para id="p0115" view="all">To increase the output power without increasing the thermal hysteresis, another solution is possible: increasing the bimetals size. Using the model reported in Ref. <ce:cross-ref refid="b0070" id="c0185">[14]</ce:cross-ref>, simulations are carried out to study the impact of the bimetal’s size and dimensions on the available mechanical energy per snapping cycle. The results are shown in <ce:cross-ref refid="f0040" id="c0190">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="f0040"/> where the case of 36<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>18<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>0.3<ce:hsp sp="0.25"/>mm<ce:sup loc="post">3</ce:sup> and 48<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>24<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>0.4<ce:hsp sp="0.25"/>mm<ce:sup loc="post">3</ce:sup> bimetals is studied in function of different thermal hystereses (from 3<ce:hsp sp="0.25"/>K up to 15<ce:hsp sp="0.25"/>K). For every hot source temperature, we observe that the bimetal of bigger dimensions produces higher amount of mechanical energy.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st050">Interpretation and discussion</ce:section-title>
+                  <ce:para id="p0120" view="all">This benchmarking and design optimization work allowed obtaining the best harvester’s configuration. It showed that the most interesting configuration uses a double clamped piezoelectric membrane. Moreover, a comparative study was conducted to find out the most efficient piezoelectric membrane. We found out that Kepo membranes are the most adapted ones to our use case in view of its interesting piezoelectric properties, its low cost and low thermal capacitance in comparison with the other compared membranes. Finally, guidelines are given for future improvements of the electrical performances of the harvesters. Low thermal hysteresis bimetals of 3<ce:hsp sp="0.25"/>K give a good compromise between the thermal and electrical properties and further improvements are consequently possible by increasing the bimetals’ dimensions and keeping their thermal hysteresis as low as 3<ce:hsp sp="0.25"/>K.</ce:para>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="st055">Conclusion</ce:section-title>
+                  <ce:para id="p0125" view="all">This paper established a complete benchmark of the thermal energy harvester based on the use of bimetallic strip heat engines and piezoelectric transducers. Each component of the harvester was studied separately and experimental tests were carried out on it to observe its impact and influence on the available electrical power. From this study, one configuration stood out as presenting the best compromise between the different aspects and constraints. Furthermore, future ways of improvements were presented in regards of the used bimetallic strips.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st065">Acknowledgment</ce:section-title>
+               <ce:para id="p0135" view="all">This work was funded by the Fonds Unique Interministériel (FUI), through the HEATec project.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st070">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Beeby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>White</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Energy Harvesting for Autonomous Systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Beeby</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>N.</ce:given-name>
+                                    <ce:surname>White</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Atech House</sb:name>
+                                 <sb:location>Norwood</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>95</sb:first-page>
+                              <sb:last-page>100</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>(Chapter 4)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pruvost</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Domain switching and energy harvesting capabilities in ferroelectric materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20629</sb:first-page>
+                              <sb:last-page>20635</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Bagnall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Boden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Energy Harvesting for Autonomous Systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Beeby</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>N.</ce:given-name>
+                                    <ce:surname>White</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Atech House</sb:name>
+                                 <sb:location>Norwood</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                              <sb:last-page>85</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>(Chapter 3)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Caroff</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Micro et nanosystèmes autonomes en énergie, des applications aux fonctions et technologies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Belleville</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>C.</ce:given-name>
+                                    <ce:surname>Condemine</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Lavoisier and Hermes Science</sb:name>
+                                 <sb:location>Cachan</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                              <sb:last-page>212</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>(Chapter 6)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.T.</ce:given-name>
+                                 <ce:surname>Ravindran</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A self-sustaining micro thermomechanic-pyroelectric generator</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="h0030">
+                        <ce:textref>S.K.T. Ravindran, et al<ce:italic>.</ce:italic>, A bimetallic micro heat engine for pyroelectric energy conversion, in: Proc. Eurosensors XXVI, Krakow, Poland, 9–12 September 2012.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="h0035">
+                        <ce:textref>
+                           <ce:inter-ref xlink:href="http://www.micropelt.com" xlink:type="simple" id="ir005">www.micropelt.com</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="h0040">
+                        <ce:textref>T. Skotnicki, Dispositifs de conversion d’énergie thermique en électricité, France Patent FR2951873, 2009 (A1).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="h0045">
+                        <ce:textref>J. Boughaleb, et al., Spice modeling of a coupled piezoelectric–bimetal heat engine for autonomous wireless sensor nodes power supply, in: Proc. PowerMEMS, Awaji Island, Japan, 18–21 November 2014, pp. 457–461.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref id="h0050">
+                        <ce:textref>A. Arnaud, et al., Modeling of the thermo-mechanical efficiency of the bimetalstrip heat engines, in: Proc. PowerMEMS, Awaji Island, Japan, 18–21 November 2014, pp. 85–89.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Boughaleb</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal modeling and optimization for a thermally-matched energy harvester</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Smart Mater. Struct.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>085025</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Wittrick</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stability of a bimetallic disk</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Quarter. J. Mech. Appl. Math.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1953</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="h0065">
+                        <ce:textref>A. Arnaud, et al., Reduced model for the comprehension of the operation of a thermo-mechanical energy harvester, in: New Circuits and Systems Conference, NEWCAS, Grenoble, France, 7–10 June 2015, pp. 1–4.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Arnaud</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermo-mechanical efficiency of the bimetallic strip heat engine at the macro-scale and micro-scale</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Micromech. Microeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104003</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Daniels</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of piezoelectric material properties for a higher power output from energy harvesters with insight into material selection using a coupled piezoelectric circuit-finite element method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Ultrason. Ferroelect. Freq. Cont.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2626</sb:first-page>
+                              <sb:last-page>2633</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Boughaleb</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coupling of a bimetallic strip heat engine with a piezoelectric transducer for thermal energy harvesting</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Cryst. Liq. Cryst.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>(accepted for publication)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Boughaleb</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Analysis of the thermal impact of a bimetal on the dynamic behavior of a thermal energy harvester</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sens. Actuat. A – Phys. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>236</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104</sb:first-page>
+                              <sb:last-page>115</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

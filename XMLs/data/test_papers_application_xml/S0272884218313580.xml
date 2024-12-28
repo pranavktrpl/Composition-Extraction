@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0272884218313580</prism:url><dc:identifier>doi:10.1016/j.ceramint.2018.05.209</dc:identifier><eid>1-s2.0-S0272884218313580</eid><prism:doi>10.1016/j.ceramint.2018.05.209</prism:doi><pii>S0272-8842(18)31358-0</pii><dc:title>Cutting performance and wear mechanism of TiB2-B4C ceramic cutting tools in high speed turning of Ti6Al4V alloy </dc:title><prism:publicationName>Ceramics International</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02728842</prism:issn><prism:volume>44</prism:volume><prism:issueIdentifier>13</prism:issueIdentifier><prism:startingPage>15495</prism:startingPage><prism:endingPage>15502</prism:endingPage><prism:pageRange>15495-15502</prism:pageRange><prism:number>13</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2018-09-30</prism:coverDate><prism:coverDisplayDate>September 2018</prism:coverDisplayDate><prism:copyright>© 2018 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd and Techna Group S.r.l.</prism:publisher><dc:creator>Tan, Da-Wang</dc:creator><dc:creator>Guo, Wei-Ming</dc:creator><dc:creator>Wang, Hong-Jian</dc:creator><dc:creator>Lin, Hua-Tay</dc:creator><dc:creator>Wang, Cheng-Yong</dc:creator><dc:description>
+                  TiB2–20vol%B4C (TB20) and TiB2–80vol%B4C (TB80) ceramic cutting tool materials were prepared by hot pressing, and then tested in turning of Ti6Al4V alloy with various cutting parameters. The tool life and wear mechanism of TB20 and TB80 were studied and compared with a commercial grade tungsten carbide tool (WO). The results of turning showed that effective cutting length of TB20 was about one third longer than that of TB80 and WO. Among the three tools, the increment of cutting temperature measured for TB20 was the lowest as flank wear increased from 0 to 600 µm. Analysis showed that dominant wear mechanism was adhesive wear in all of the three tools tested, while chipping was also observed in TB80 and temperature deterioration in WO. In addition, the TB20 exhibited a much better integrity of cutting edge after flank wear reaching 600 µm, due to its higher toughness than TB80 and higher thermal resistance than WO, respectively. The adhesive layers of work-piece material on the rake and flank faces of both TB20 and TB80 were much thinner than that of WO, which suggested a lower adhesive wear rate in TiB2-B4C cutting tools. The high wear resistance of TiB2-B4C cutting tools is attributed to higher thermal resistance, higher hardness, and lower chemical affinity with titanium as compared with tungsten carbides, which makes them very promising materials for high speed machining of titanium alloys.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>TiB2-B4C ceramic</dcterms:subject><dcterms:subject>High speed cutting</dcterms:subject><dcterms:subject>Tool life</dcterms:subject><dcterms:subject>Wear mechanism</dcterms:subject><dcterms:subject>Ti6Al4V</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0272884218313580" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0272884218313580" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="666" height="573" size="101917">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="666" height="468" size="51958">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="238" size="14035">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="232" size="14503">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="666" height="862" size="186712">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="666" height="571" size="96185">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="666" height="574" size="78455">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="191" height="164" size="15400">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="6106">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="4473">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="150" size="4849">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="126" height="163" size="12623">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="191" height="164" size="7896">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="190" height="164" size="7798">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2950" height="2536" size="1223382">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2950" height="2071" size="318199">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1052" size="90219">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1028" size="94549">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2950" height="3819" size="2736645">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2950" height="2528" size="1171507">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2950" height="2542" size="1078694">https://api.elsevier.com/content/object/eid/1-s2.0-S0272884218313580-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85047726917</scopus-id><scopus-eid>2-s2.0-85047726917</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85047726917" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271590</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ceramics International</xocs:srctitle>
+      <xocs:normalized-srctitle>CERAMICSINTERNATIONAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180525">2018-05-25</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180525">2018-05-25</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20180720">2018-07-20</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20180720">2018-07-20</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-01-25T14:57:40</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0272884218313580</xocs:eid>
+      <xocs:pii-formatted>S0272-8842(18)31358-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0272884218313580</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ceramint.2018.05.209</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.4</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0272884218X00108</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200125">2020-01-25T15:13:40.153305Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180901</xocs:date-search-begin>
+      <xocs:date-search-end>20180930</xocs:date-search-end>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1527215787">2018-05-25T02:36:27.200751Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid orcid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0272-8842</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02728842</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>44</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>44</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>13</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>13</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 44, Issue 13</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>73</xocs:sort-order>
+      <xocs:first-fp>15495</xocs:first-fp>
+      <xocs:last-lp>15502</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>15495</xocs:first-page>
+         <xocs:last-page>15502</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201809</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2018-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CUTTINGPERFORMANCEWEARMECHANISMTIB2B4CCERAMICCUTTINGTOOLSINHIGHSPEEDTURNINGTI6AL4VALLOY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Microstructure and mechanical properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Cutting performance</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Wear morphology and wear mechanism</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>PAWADE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4385</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4389</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>SUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2831</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2838</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>KIKUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>770</xocs:ref-first-fp>
+            <xocs:ref-last-lp>775</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>ARRAZOLA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2223</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2230</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>RAHMANRASHID</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1457</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1465</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>JIANXIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1776</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1783</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>JAFFERY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>479</xocs:ref-first-fp>
+            <xocs:ref-last-lp>493</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>CHERUKURI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-last-lp>135</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>CORDUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-last-lp>76</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>137</xocs:ref-first-fp>
+            <xocs:ref-last-lp>143</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>BASU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>352</xocs:ref-first-fp>
+            <xocs:ref-last-lp>374</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>ANSTIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>533</xocs:ref-first-fp>
+            <xocs:ref-last-lp>538</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0005"/>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1302</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1309</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>BOGOMOL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>196</xocs:ref-first-fp>
+            <xocs:ref-last-lp>204</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>RAJU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>674</xocs:ref-first-fp>
+            <xocs:ref-last-lp>677</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>DEMIRSKYI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>393</xocs:ref-first-fp>
+            <xocs:ref-last-lp>397</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>BELON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6631</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6635</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>MARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209</xocs:ref-first-fp>
+            <xocs:ref-last-lp>225</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>MILMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-last-lp>79</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>BUSS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>167</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>EMANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>172</xocs:ref-first-fp>
+            <xocs:ref-last-lp>181</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>VENUGOPAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1071</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1078</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>BORDIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>99</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref27">
+            <xocs:ref-normalized-surname>NABHANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>402</xocs:ref-first-fp>
+            <xocs:ref-last-lp>412</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref28">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>353</xocs:ref-first-fp>
+            <xocs:ref-last-lp>358</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref29">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3003</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3006</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TANX2018X15495</xocs:refkey3>
+         <xocs:refkey4lp>TANX2018X15495X15502</xocs:refkey4lp>
+         <xocs:refkey4ai>TANX2018X15495XD</xocs:refkey4ai>
+         <xocs:refkey5>TANX2018X15495X15502XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2020-07-20T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2020-07-20T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Elsevier Ltd and Techna Group S.r.l. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-04-17T13:45:04.607Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Guangdong Innovative and Entrepreneurial Research Team Program</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2013G061</xocs:funding-id>
+            <xocs:funding-agency>Guangdong Innovative and Entrepreneurial Research Team Program</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100012541</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Natural Science Foundation of China</xocs:funding-agency-matched-string>
+            <xocs:funding-id>51402055</xocs:funding-id>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was financially supported by the National Natural Science Foundation of China (No.51402055) and Guangdong Innovative and Entrepreneurial Research Team Program (No. 2013G061).</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0272-8842(18)31358-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0272884218313580</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0272884218313580</xocs:eid>
+         <xocs:doi>10.1016/j.ceramint.2018.05.209</xocs:doi>
+         <xocs:cid>271590</xocs:cid>
+         <xocs:timestamp>2020-01-25T15:13:40.153305Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2018-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/MAIN/application/pdf/3d134ef807a42b08b6ff1ee7726e759f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>3112682</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0272884218313580-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/PREVIEW/image/png/8caf33e11c2413552309030726dddf53/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>54536</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr1/DOWNSAMPLED/image/jpeg/34cb7fa2d49a9dbfcf5a1389a4d0370e/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>101917</xocs:filesize>
+               <xocs:pixel-height>573</xocs:pixel-height>
+               <xocs:pixel-width>666</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr2/DOWNSAMPLED/image/jpeg/18acb74e764b4e425ea5e05c229c9d3c/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>51958</xocs:filesize>
+               <xocs:pixel-height>468</xocs:pixel-height>
+               <xocs:pixel-width>666</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr3/DOWNSAMPLED/image/jpeg/4c99a8e5659ef081a57913e8fa0c77ae/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>14035</xocs:filesize>
+               <xocs:pixel-height>238</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr4/DOWNSAMPLED/image/jpeg/be542a5c47188f148205112df4577583/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>14503</xocs:filesize>
+               <xocs:pixel-height>232</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr5/DOWNSAMPLED/image/jpeg/8131712011e9cd856c5e1215e82dc61e/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>186712</xocs:filesize>
+               <xocs:pixel-height>862</xocs:pixel-height>
+               <xocs:pixel-width>666</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr6/DOWNSAMPLED/image/jpeg/6de4015b43eb3d3a2c3ba17bf2e40d9e/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>96185</xocs:filesize>
+               <xocs:pixel-height>571</xocs:pixel-height>
+               <xocs:pixel-width>666</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr7/DOWNSAMPLED/image/jpeg/895994e57b94c2d4a378f940287c5835/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>78455</xocs:filesize>
+               <xocs:pixel-height>574</xocs:pixel-height>
+               <xocs:pixel-width>666</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr1/THUMBNAIL/image/gif/92e70af5bac46557c0626b3cb31dc508/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15400</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>191</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr2/THUMBNAIL/image/gif/81dde3bf44784e3bcccf4102f6c8dc72/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6106</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr3/THUMBNAIL/image/gif/69cc2f3c756310d75cd9d5df4b83a9a9/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4473</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr4/THUMBNAIL/image/gif/1a4e7ea6f7c73b5fa76b6aae7c54af0a/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4849</xocs:filesize>
+               <xocs:pixel-height>150</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr5/THUMBNAIL/image/gif/932e90a90eabab1caf8ccc665aba58a2/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12623</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>126</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr6/THUMBNAIL/image/gif/0957c9c99bc417e586025aac6965678c/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7896</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>191</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr7/THUMBNAIL/image/gif/c05a7f2f191853582bf10951e639aa6a/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7798</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>190</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr1/HIGHRES/image/jpeg/057d41899bdd875914e7aff3210f3f27/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1223382</xocs:filesize>
+               <xocs:pixel-height>2536</xocs:pixel-height>
+               <xocs:pixel-width>2950</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr2/HIGHRES/image/jpeg/e4f7ac0cb162de42b5ebe6424d06fe05/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>318199</xocs:filesize>
+               <xocs:pixel-height>2071</xocs:pixel-height>
+               <xocs:pixel-width>2950</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr3/HIGHRES/image/jpeg/ce850a449bf4cb5cd397825a507cd0c0/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>90219</xocs:filesize>
+               <xocs:pixel-height>1052</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr4/HIGHRES/image/jpeg/8da0e3e53b20047b353a446476e6b7c3/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>94549</xocs:filesize>
+               <xocs:pixel-height>1028</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr5/HIGHRES/image/jpeg/98a349244e7cb6348e1bb18103001266/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>2736645</xocs:filesize>
+               <xocs:pixel-height>3819</xocs:pixel-height>
+               <xocs:pixel-width>2950</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr6/HIGHRES/image/jpeg/265abc425f7d8cdde9494aaeb79dfa3c/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1171507</xocs:filesize>
+               <xocs:pixel-height>2528</xocs:pixel-height>
+               <xocs:pixel-width>2950</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0272884218313580-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0272884218313580/gr7/HIGHRES/image/jpeg/a43f3928227a998266ad8a00efd62a6a/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1078694</xocs:filesize>
+               <xocs:pixel-height>2542</xocs:pixel-height>
+               <xocs:pixel-width>2950</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.5">
+         <item-info>
+            <jid>CERI</jid>
+            <aid>18384</aid>
+            <ce:pii>S0272-8842(18)31358-0</ce:pii>
+            <ce:doi>10.1016/j.ceramint.2018.05.209</ce:doi>
+            <ce:copyright type="joint" year="2018">Elsevier Ltd and Techna Group S.r.l.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">Microstructure of the samples (<ce:bold>a</ce:bold>, TB20; <ce:bold>b</ce:bold>, TB80; <ce:bold>c</ce:bold>, WO; <ce:bold>d</ce:bold>, EDS analysis of WO in the rectangle area of c).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218313580/gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">Progression of flank wear (<ce:italic>VB</ce:italic>) of TB20, TB80 and WO at various cutting speeds(<ce:bold>a</ce:bold>, <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> = 150 m/min; <ce:bold>b</ce:bold>, <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> = 200 m/min; <ce:bold>c</ce:bold>, <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> = 250 m/min; <ce:bold>d</ce:bold>, <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> = 300 m/min).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218313580/gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">Relationship of tool life and cutting speed.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218313580/gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">Relationship of cutting temperature and <ce:italic>VB</ce:italic> at cutting speed of 250 m/min.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0020" role="short">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218313580/gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">SEM images of wear morphology of the cutting tools (<ce:bold>a</ce:bold>, flank wear morphology of TB20; <ce:bold>b</ce:bold>, zoon in morphology on the rectangle-area of a; <ce:bold>c</ce:bold>, flank wear morphology of TB80; <ce:bold>d</ce:bold>, zoon in morphology on the rectangle-area of c; <ce:bold>e</ce:bold>, flank wear morphology of WO; <ce:bold>f</ce:bold>, zoon in morphology on the rectangle-area of e;).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0025" role="short">Fig. 5</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218313580/gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">Adhesive thickness in the rake and flank face and edge condition observed from cross-section perpendicular to cutting edge of TB20 (<ce:bold>a</ce:bold>, morphology of the cross-section; <ce:bold>b</ce:bold>, zoon in morphology on the rectangle-area of a; <ce:bold>c</ce:bold>, aluminum and boron content distribution along the arrow in b).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0030" role="short">Fig. 6</ce:alt-text>
+               <ce:link id="lk0030" locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218313580/gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="sp0035" view="all">Adhesive thickness in the rake and flank face and edge condition observed from cross-section perpendicular to cutting edge of WO (<ce:bold>a</ce:bold>, morphology of the cross-section; <ce:bold>b</ce:bold>, zoon in morphology on the rectangle-area of a; <ce:bold>c</ce:bold>, tungsten and titanium content distribution along the arrow in b).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0035" role="short">Fig. 7</ce:alt-text>
+               <ce:link id="lk0035" locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0272884218313580/gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="sp0040" view="all">Composition, relative density and mechanical properties of the samples, and some reported values on mechanical properties in literatures <ce:cross-refs id="crs0005" refid="bib16 bib17 bib18">[16–18]</ce:cross-refs>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0040" role="short">Table 1</ce:alt-text>
+               <tgroup cols="9">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <colspec colnum="8" colname="col8"/>
+                  <colspec colnum="9" colname="col9"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Sample</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>B</bold>
+                           <inf loc="post">
+                              <bold>4</bold>
+                           </inf>
+                           <bold>C /vol%</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>TiB</bold>
+                           <inf loc="post">
+                              <bold>2</bold>
+                           </inf> 
+                           <bold>/vol%</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Relative density /%</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Flexure strength /MPa</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Vickers hardness /GPa</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Fracture toughness, indentation /(Mpa m</bold>
+                           <sup loc="post">
+                              <bold>1/2</bold>
+                           </sup>
+                           <bold>)</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>Fracture toughness, SENB /(Mpa m</bold>
+                           <sup loc="post">
+                              <bold>1/2</bold>
+                           </sup>
+                           <bold>)</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <bold>References</bold>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">
+                           <bold>TB20</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">95.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">585 ± 79</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.87 ± 0.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.89 ± 0.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.09 ± 0.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">
+                           <bold>TB80</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">98.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">612 ± 129</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">27.99 ± 0.84</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.66 ± 0.55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.24 ± 0.94</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">
+                           <bold>WO</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17.69 ± 0.16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.84 ± 0.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">
+                           <bold>TiB</bold>
+                           <inf loc="post">
+                              <bold>2</bold>
+                           </inf>
+                           <bold>–20</bold> <bold>vol% B</bold>
+                           <inf loc="post">
+                              <bold>4</bold>
+                           </inf>
+                           <bold>C</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">99.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">~ 740</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">~ 26</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">~ 4.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref id="cr0005" refid="bib16">[16]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">
+                           <bold>B</bold>
+                           <inf loc="post">
+                              <bold>4</bold>
+                           </inf>
+                           <bold>C–7</bold> <bold>vol% TiB</bold>
+                           <inf loc="post">
+                              <bold>2</bold>
+                           </inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">~ 95</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">387.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">35.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref id="cr0010" refid="bib17">[17]</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead">
+                           <bold>WC-10 vol%Co</bold>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">16.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11.53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <cross-ref id="cr0015" refid="bib18">[18]</cross-ref>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Cutting performance and wear mechanism of TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C ceramic cutting tools in high speed turning of Ti6Al4V alloy</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0272884218313580-ba7c08c51127dfc5e08a97e89d04b5b7">
+                  <ce:given-name>Da-Wang</ce:given-name>
+                  <ce:surname>Tan</ce:surname>
+               </ce:author>
+               <ce:author id="au0010" author-id="S0272884218313580-629b48d8978403a3854342cadcce30cb">
+                  <ce:given-name>Wei-Ming</ce:given-name>
+                  <ce:surname>Guo</ce:surname>
+                  <ce:cross-ref id="cr0020" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0015" author-id="S0272884218313580-4af5c4a828c7aec8e14efe02f4ffc39f" orcid="0000-0002-5180-0054">
+                  <ce:given-name>Hong-Jian</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+               </ce:author>
+               <ce:author id="au0020" author-id="S0272884218313580-2c1a852f57c8b8719a8acfa8d8b8ef80">
+                  <ce:given-name>Hua-Tay</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+                  <ce:cross-ref id="cr0025" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0025" author-id="S0272884218313580-7829ee8035c02e2f965f8866b210af48">
+                  <ce:given-name>Cheng-Yong</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0272884218313580-f00b967150a8c64047905701b9c214bb">
+                  <ce:textfn>School of Electromechanical Engineering, Guangdong University of Technology, Guangzhou 510006, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Electromechanical Engineering, Guangdong University of Technology</sa:organization>
+                     <sa:city>Guangzhou</sa:city>
+                     <sa:postal-code>510006</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="23" month="4" year="2018"/>
+            <ce:date-revised day="16" month="5" year="2018"/>
+            <ce:date-accepted day="24" month="5" year="2018"/>
+            <ce:abstract id="ab0010" class="author" view="all"><ce:abstract-sec id="abs0010" view="all">
+                  <ce:simple-para id="sp0045" view="all">TiB<ce:inf loc="post">2</ce:inf>–20vol%B<ce:inf loc="post">4</ce:inf>C (TB20) and TiB<ce:inf loc="post">2</ce:inf>–80vol%B<ce:inf loc="post">4</ce:inf>C (TB80) ceramic cutting tool materials were prepared by hot pressing, and then tested in turning of Ti6Al4V alloy with various cutting parameters. The tool life and wear mechanism of TB20 and TB80 were studied and compared with a commercial grade tungsten carbide tool (WO). The results of turning showed that effective cutting length of TB20 was about one third longer than that of TB80 and WO. Among the three tools, the increment of cutting temperature measured for TB20 was the lowest as flank wear increased from 0 to 600 µm. Analysis showed that dominant wear mechanism was adhesive wear in all of the three tools tested, while chipping was also observed in TB80 and temperature deterioration in WO. In addition, the TB20 exhibited a much better integrity of cutting edge after flank wear reaching 600 µm, due to its higher toughness than TB80 and higher thermal resistance than WO, respectively. The adhesive layers of work-piece material on the rake and flank faces of both TB20 and TB80 were much thinner than that of WO, which suggested a lower adhesive wear rate in TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C cutting tools. The high wear resistance of TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C cutting tools is attributed to higher thermal resistance, higher hardness, and lower chemical affinity with titanium as compared with tungsten carbides, which makes them very promising materials for high speed machining of titanium alloys.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C ceramic</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>High speed cutting</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>Tool life</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>Wear mechanism</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0025">
+                  <ce:text>Ti6Al4V</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">High speed precision machining has been developed with several advantages such as high removal rates, low cutting forces, excellent dimensional accuracy <ce:cross-ref id="cr0030" refid="bib1">[1]</ce:cross-ref>, and surface finishing quality as well as surface integrity <ce:cross-ref id="cr0035" refid="bib2">[2]</ce:cross-ref>. Titanium alloy is one of the most difficult-to-cut materials that only allows very low cutting speed to achieve adequate dimensional tolerance and surface finish in traditional cutting process. In cutting of Ti6Al4V alloys, the cutting force decreased with the increase in cutting speed because of the occurrence of conflicting work hardening–thermal softening processes with the deformation phase of the chip segment <ce:cross-ref id="cr0040" refid="bib3">[3]</ce:cross-ref>. The cutting temperature would increase slightly as the cutting speed increased <ce:cross-ref id="cr0045" refid="bib4">[4]</ce:cross-ref>, but would increase dramatically with increasing flank wear of the cutting tools <ce:cross-ref id="cr0050" refid="bib5">[5]</ce:cross-ref>. Tungsten carbide is one of the most commonly used tools for machining titanium alloys, but with increasing cutting speed, its tool life would drop rapidly due to severely unpredicted tool wear <ce:cross-ref id="cr0055" refid="bib6">[6]</ce:cross-ref>. Wear mechanism of uncoated cemented carbides included adhesive wear, crater wear <ce:cross-ref id="cr0060" refid="bib7">[7]</ce:cross-ref>, and diffusion that would gradually become dominant as cutting speed and attrition increased <ce:cross-ref id="cr0065" refid="bib8">[8]</ce:cross-ref>. Tool life of uncoated carbides would decrease to less than 2 min when cutting speed reaches 150 m/min in cutting of Ti6Al4V <ce:cross-ref id="cr0070" refid="bib9">[9]</ce:cross-ref>. In order to increase cutting speed and efficiency, and improve surface finish quality, tungsten carbides with various coatings have been developed. One of them was boride coatings with high hardness and excellent thermal conductivity. In turning of Ti6Al4V, Cherukuri and Molian <ce:cross-ref id="cr0075" refid="bib10">[10]</ce:cross-ref> demonstrated that AlMgB<ce:inf loc="post">14</ce:inf>–20%TiB<ce:inf loc="post">2</ce:inf> coated carbide inserts exhibited two times longer lifetime in flank and nose wears than uncoated carbide inserts at cutting speed of 61 m/min. Corduan <ce:cross-ref id="cr0080" refid="bib11">[11]</ce:cross-ref> also showed that TiB<ce:inf loc="post">2</ce:inf> monolayer could be used in cutting of Ti6Al4V without problems of adhesion in relative low cutting speed. On the other hand, researchers have manufactured TiB<ce:inf loc="post">2</ce:inf>-based ceramic cutting tools for interest of its high hardness, high strength, high melting point, high fracture toughness, and high wear resistance <ce:cross-refs id="crs0010" refid="bib12 bib13">[12,13]</ce:cross-refs>. Therefore, TiB<ce:inf loc="post">2</ce:inf> based bulk cutting tools are considered to be excellent cutting tool candidate to machine high strength metals such as titanium and nickel-based alloy. However, the cutting performance of TiB<ce:inf loc="post">2</ce:inf>-based ceramic cutting tools has been rarely studied and reported, especially in titanium alloys, in open literatures.</ce:para>
+                  <ce:para id="p0010" view="all">The cutting performance of TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C ceramic cutting tools in high speed turning of Ti6Al4V alloy was evaluated in the present study. The objective of this study was to provide insight into the relationship between tool life and wear mechanisms, which could in turn offer fundamental guide lines to optimize the TiB<ce:inf loc="post">2</ce:inf>-based ceramic cutting tools for high speed machining of difficult-to-cut materials.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Experimental procedures</ce:section-title>
+                  <ce:para id="p0015" view="all">TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C composite materials were prepared from TiB<ce:inf loc="post">2</ce:inf> (99.5% in purity, mean size 5 µm) and B<ce:inf loc="post">4</ce:inf>C (99% in purity, mean size 3 µm) powders. The composites of TB20 and TB80 with 20 and 80 vol% B<ce:inf loc="post">4</ce:inf>C powders, respectively, as shown in <ce:float-anchor refid="t0005"/>
+                     <ce:cross-ref id="cr0085" refid="t0005">Table 1</ce:cross-ref>,were mixed for 24 h in a polyethylene jar using ethyl alcohol and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> balls, and dried in rotary evaporator. The dried powder mixtures were hot-pressed in graphite element resistance furnace at 2000 °C for 60 min under 30 MPa in 1 atm Ar atmosphere.</ce:para>
+                  <ce:para id="p0020" view="all">The bulk density of the sintered composites was measured using Archimedes principle in distilled water. Microstructure of the metallographic samples were examined by scanning electron microscope (SEM, Nova NanoSEM430, FEI, The Netherlands), equipped with an energy dispersive spectrometer analysis system (EDS) for compositional analysis. Vickers hardness was measured by the indentation method using a load of 24.5 N for 10 s on a polished surface. Fracture toughness was determined using both indentation method and single-edge notched beam (SENB) test. Fracture toughness measured by indentation method was using a Vickers indenter with an indentation load of 98 N according to the equation proposed by Anstis <ce:cross-ref id="cr0090" refid="bib14">[14]</ce:cross-ref>. Fracture toughness measured by SENB test was using rectangular (25 mm × 5 mm × 2.5 mm) bars with 2.5 mm notched depth and 0.2 mm notched width, with span width of 20 mm and a crosshead displacement of 0.05 mm/min. The flexural strength was measured in a four-point bending test fixture with an inter span width of 10 mm and an outer span width of 20 mm, and a crosshead displacement of 0.5 mm/min on rectangular (25 mm × 2 mm × 1.5 mm) bars at room temperature.</ce:para>
+                  <ce:para id="p0025" view="all">The prepared TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C materials were processed into standard cutting tools of ISO SNGN120408 (12.7 mm × 12.7 mm, 4.76 mm thickness, 0.8 mm nose radius) <ce:cross-ref id="cr0095" refid="bib15">[15]</ce:cross-ref>. In addition, all inserts have a chamfered edge of 0.2 mm long with a 20° normal rake. A commercially available cobalt cemented tungsten carbide (WC-Co) cutting tool, named as WO, (Zhuzhou Cemented Carbide Cutting Tools co., LTD, China) with the same geometry was also acquired for experimental comparison with TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C cutting tools.</ce:para>
+                  <ce:para id="p0030" view="all">Only hardness and indentation toughness of WO were measured because of the limited geometry size of the tool pieces. Cutting tests were carried out on a NC (Numerical Control) lathe system (ETC3650h, China) equipped with a commercial tool holder having the geometry: rake angle <ce:italic>γ</ce:italic>
+                     <ce:inf loc="post">o</ce:inf> = −6°, clearance angle <ce:italic>α</ce:italic>
+                     <ce:inf loc="post">o</ce:inf> = 6°, inclination angle <ce:italic>λ</ce:italic>
+                     <ce:inf loc="post">s</ce:inf> = −6°, side cutting edge angle <ce:italic>K</ce:italic>
+                     <ce:inf loc="post">r</ce:inf> = 45°. A 100-mm-diameter cylinder Ti6Al4V alloy in the as-forged condition were used for the cutting tool evaluation (Baoti group co., LTD). Hardness of the Ti6Al4V alloy was determined as 3.83 ± 0.03 GPa (about 40.5HRC) by indentation method with indentation load of 9.8 N for 10 s.</ce:para>
+                  <ce:para id="p0035" view="all">The tool rejection and failure criteria for the experiments were the localized flank wear (<ce:italic>VB</ce:italic>) &gt; 0.6 mm and excessive chipping, flaking and/or fracturing of the cutting edge. Cutting conditions employed in this study are: cutting speeds <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> in the range of 150–300 m/min, feed rates <ce:italic>f</ce:italic> of 0.1 mm/r, depths of cut <ce:italic>a</ce:italic>
+                     <ce:inf loc="post">p</ce:inf> of 0.5 mm. Flank wear was observed and measured using an optical microscope system linked via transducers to a digital read out. When flank wear reached 600 µm, the accumulated cutting length (<ce:italic>L</ce:italic>) was regarded as tool life. Cutting temperature was determined using an infrared thermal image system (TVS-500EX, NEC, Japan). Analysis of worn rake and flank regions on the tools and chemical analysis of the worn regions was performed using the scanning electron microscope (SEM, Nova NanoSEM430, FEI, The Netherlands).</ce:para>
+               </ce:section>
+               <ce:section id="s0015" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0025">Results and discussion</ce:section-title>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0030">Microstructure and mechanical properties</ce:section-title>
+                     <ce:para id="p0040" view="all">Microstructural analysis showed that the TB20 and TB80 composites had a homogeneous microstructure, as shown in <ce:float-anchor refid="f0005"/>
+                        <ce:cross-ref id="cr0100" refid="f0005">Fig. 1</ce:cross-ref>. The black and grey phases were identified as B<ce:inf loc="post">4</ce:inf>C and TiB<ce:inf loc="post">2</ce:inf>, respectively. More pores were observed in TB20, compared with TB80 and this was consistent with the measurements of relative densities of TB20 and TB80, which were 95.5% and 98.1%, respectively. Microstructure of commercial WO cutting tool was also shown in <ce:cross-ref id="cr0105" refid="f0005">Fig. 1</ce:cross-ref>. According to the EDS analysis in the rectangle area of <ce:cross-ref id="cr0110" refid="f0005">Fig. 1</ce:cross-ref>c, Co content of the WO cutting tool was ~ 4 wt%.</ce:para>
+                     <ce:para id="p0045" view="all">Results of flexural strength, fracture toughness, and Vickers hardness of TB20 and TB80 were presented in <ce:cross-ref id="cr0115" refid="t0005">Table 1</ce:cross-ref>. Flexure strength of TB20 was slightly lower than that of TB80 due to the relative low density, but fracture toughness was higher in TB20. Hardness of TB80 was 34% higher than that of TB20, due to the intrinsic high hardness of B<ce:inf loc="post">4</ce:inf>C phase. Vickers hardness of WO was about 15% lower than TB20, but fracture toughness of WO was about 135% higher, also seen in <ce:cross-ref id="cr0120" refid="t0005">Table 1</ce:cross-ref>. It was found that mechanical properties of TB20, TB80, and WO were comparable with reported values on mechanical properties of TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C and WC-Co materials in literatures <ce:cross-refs id="crs0015" refid="bib16 bib17 bib18">[16–18]</ce:cross-refs>, as shown in <ce:cross-ref id="cr0125" refid="t0005">Table 1</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0035">Cutting performance</ce:section-title>
+                     <ce:para id="p0050" view="all">Cutting performance of TB20, TB80 and WO were studied. In general, the cutting processes were stable without catastrophic failure of the cutting edge during the machining for all of the materials evaluated. <ce:float-anchor refid="f0010"/>
+                        <ce:cross-ref id="cr0130" refid="f0010">Fig. 2</ce:cross-ref> showed four plots of flank wear (<ce:italic>VB</ce:italic>) of the three cutting tools versus cutting length (<ce:italic>L</ce:italic>): TB20, TB80, and WO, at four different cutting speeds: 150, 200, 250, and 300 m/min. It can be seen that the wear rates of flank wear of TB20 and TB80 were high at the beginning of machining, and then become steady state with the increase in cutting length. On the other hand, the wear rate of WO was relative slow as compared to both TB20 and TB80 in the beginning of the cutting process, but increased dramatically as the cutting length increased at the later stage of machining, possibly suggestive of the end of tool life. The progressive and stable tool-wear rate was observed in both TB20 and TB80 during the cutting process, which was in sharp contrast to that of WO tool. Result of flank wear behavior suggested that the TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C ceramic cutting tools exhibited a much longer lifetime performance than the commercially available cemented tungsten carbide cutting tool.</ce:para>
+                     <ce:para id="p0055" view="all">
+                        <ce:float-anchor refid="f0015"/>
+                        <ce:cross-ref id="cr0135" refid="f0015">Fig. 3</ce:cross-ref> shows the variation in effective cutting length of the tools with varying cutting speeds. Note that the tool life defined in the present study is when the flank wear reaches 600 µm. The effective cutting length of each tool dropped dramatically with increasing cutting speed. Among three cutting tools, the TB20 had the longest tool life at each cutting speed.</ce:para>
+                     <ce:para id="p0060" view="all">The cutting temperatures corresponding to different tool flank wear were also measured. Measurements of the cutting temperature increased almost linearly with the increase of flank wear as shown in <ce:float-anchor refid="f0020"/>
+                        <ce:cross-ref id="cr0140" refid="f0020">Fig. 4</ce:cross-ref>. At the beginning of turning when cutting tool was almost intact, the cutting temperatures of TB20, TB80, and WO were about 590 °C, 630 °C and 450 °C, respectively. When <ce:italic>VB</ce:italic> was about reaching 600 µm, the cutting temperature increased to about 850 °C, 840 °C and 800 °C for TB20, TB80, and WO, respectively. The temperature increment of WO was about 120 °C higher than that of TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C cutting tools with the increase of <ce:italic>VB</ce:italic> from 0 to 600 µm. Temperature corresponding to each flank wear content was obtained in the very beginning of each feed after measurement of the flank wear, so temperature increment implied the damage degree of cutting edge condition. Presumably, cutting edge of WO would deteriorate severely as cutting continued, while TB20 and TB80 comparatively held a smooth wear rate.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0040">Wear morphology and wear mechanism</ce:section-title>
+                     <ce:para id="p0065" view="all">Observations of SEM images of the wear morphology projecting toward flank face, in dry turning of Ti6Al4V at cutting speed of 250 m/min, were shown in <ce:float-anchor refid="f0025"/>
+                        <ce:cross-ref id="cr0145" refid="f0025">Fig. 5</ce:cross-ref>. The integrity of cutting edge of TB20 (<ce:cross-ref id="cr0150" refid="f0025">Fig. 5</ce:cross-ref>a) was the best as compared with that observed in TB80 (<ce:cross-ref id="cr0155" refid="f0025">Fig. 5</ce:cross-ref>c) and WO (<ce:cross-ref id="cr0160" refid="f0025">Fig. 5</ce:cross-ref>e), which suggested that TB20 might be still in stable wear stage. The main tool wear modes were also identified in <ce:cross-ref id="cr0165" refid="f0025">Fig. 5</ce:cross-ref>. As for TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C cutting tools, several chippings with small size were observed in TB20, and work piece material build-up was developed in the chippings (<ce:cross-ref id="cr0170" refid="f0025">Fig. 5</ce:cross-ref>b). However, because of lower fracture toughness, chippings of TB80, especially in the position where in contact with work surface, were too large to be negligible. It was attributed to the work hardening of work surface of Ti6Al4V that chipping happened more severely at the boundary of the cutting edge where in contact with work surface. In the TB80, chipping mode would finally develop into notch wear (<ce:cross-ref id="cr0175" refid="f0025">Fig. 5</ce:cross-ref>c) under high speed intermittent impact of harden burr of work surface. As for TB20, due to the higher toughness, chipping size was relatively small and also very minor change occurred in the cutting edge structure, thus it was less prone to introduce burr and form notch wear.</ce:para>
+                     <ce:para id="p0070" view="all">Toughness of WO was relatively much higher, so tipping would hardly happen. Nevertheless, the high-temperature resistance and high-temperature strength of cemented carbide was usually lower than TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C ceramics, which led to high temperature deterioration of WO. As for TiB<ce:inf loc="post">2</ce:inf>-based, B<ce:inf loc="post">4</ce:inf>C-based or TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C ceramics, considerable studies have shown that bending strength can maintain room temperature strength up to 1500 °C without reduction, or even slightly increase as temperature increasing <ce:cross-refs id="crs0020" refid="bib17 bib19 bib20 bib21">[17,19–21]</ce:cross-refs>. For WC-Co composites, however, remarkable reduction in the bending strength at around 600 °C was observed, which was mainly due to the softening of the Co matrix, and further reduction at around 900 °C was predominately derived from WC softening <ce:cross-refs id="crs0025" refid="bib22 bib23 bib24 bib25">[22–25]</ce:cross-refs>. As a result, the crater wear of WO was deeper when <ce:italic>VB</ce:italic> reached 600 µm (<ce:cross-ref id="cr0180" refid="f0025">Fig. 5</ce:cross-ref>e). In addition, thermal attack in the crater from hot cutting chips gave rise to cracks and then adhesive and peel-off wear in WO (<ce:cross-ref id="cr0185" refid="f0025">Fig. 5</ce:cross-ref>f).</ce:para>
+                     <ce:para id="p0075" view="all">Adhesive wear was prevalent in the rake face and flank face of WO, while adherent workpiece was most likely to gather on the small chippings and the boundary between crater and rake face of TB20 and TB80. The build-up workpiece on chippings might easily break way, but the strongly adherent pitch-like workpiece maintained an intimate and sustained contact with the rake face (<ce:cross-ref id="cr0190" refid="f0025">Fig. 5</ce:cross-ref>b, d). In addition, adhesive layer could be identified as a very thin film on the flank face of TB20 and TB80. Therefore, it could be proposed that the main wear mechanism was adhesive wear for TB20, adhesive wear and chipping for TB80, and adhesive wear and temperature deterioration for WO.</ce:para>
+                     <ce:para id="p0080" view="all">Since adhesive wear was the dominant mechanism in these three tools, the detailed analysis of adhesive layer on the rake and flank face was conducted using SEM. <ce:float-anchor refid="f0030"/>
+                        <ce:cross-ref id="cr0195" refid="f0030">Fig. 6</ce:cross-ref> and <ce:float-anchor refid="f0035"/>
+                        <ce:cross-ref id="cr0200" refid="f0035">Fig. 7</ce:cross-ref> showed the microstructure and element distribution of cross-section perpendicular to the cutting edge of TB20 and WO after machining at cutting speed of 250 m/min, respectively. Observations of cross-section revealed the depth of wear and the extent of the damage to the tool surface. From the SEM images, the depth of flank wear of TB20 was about 50 µm (<ce:cross-ref id="cr0205" refid="f0030">Fig. 6</ce:cross-ref>a), and the depth of flank wear of WO was &gt; 100 µm (<ce:cross-ref id="cr0210" refid="f0035">Fig. 7</ce:cross-ref>a).</ce:para>
+                     <ce:para id="p0085" view="all">The white arrows in <ce:cross-ref id="cr0215" refid="f0030">Fig. 6</ce:cross-ref>b and <ce:cross-ref id="cr0220" refid="f0035">Fig. 7</ce:cross-ref>b corresponded to the EDS lines scan plot shown in <ce:cross-ref id="cr0225" refid="f0030">Fig. 6</ce:cross-ref>c and <ce:cross-ref id="cr0230" refid="f0035">Fig. 7</ce:cross-ref>c, respectively. There was a marked change in material composition from the surface of the crater of TB20 towards the tool substrate. Based on EDS data, the pitch-like adherent material with the thickness of about 30 µm came from the Ti6Al4V workpiece, <ce:cross-ref id="cr0235" refid="f0030">Fig. 6</ce:cross-ref>b. In addition, the EDS data confirmed that the adhesive layer (dark) with the thickness of about 40 µm resulting from the workpiece was also observed on the crater and the flank face of WO, <ce:cross-ref id="cr0240" refid="f0035">Fig. 7</ce:cross-ref>b. On the other hand, tool material particles carried away by the adhesive layer were found on the flank face of WO, and cracks that would led to a chunk of exfoliation from tool material were observed on the rake face, <ce:cross-ref id="cr0245" refid="f0035">Fig. 7</ce:cross-ref>a. It was generally well accepted that the dominant wear mechanism of tungsten-carbide tools during turning of titanium alloys was adhesion resulting from dissolution and diffusion process <ce:cross-ref id="cr0250" refid="bib26">[26]</ce:cross-ref>. The large forces and high temperature during cutting, combined with the high titanium chemical reactivity, would lead to diffusion and adhesion of the tool elements into the Ti6Al4V chips and at the same time for the workpiece material elements bonded onto the tool surfaces <ce:cross-ref id="cr0255" refid="bib27">[27]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0090" view="all">Observations showed that thinner adherent layer, better integrity of cutting edge, and more legible borderline between layer and tool bulk were evident in the TB20, which suggested that the diffusion of tool elements into the Ti6Al4V alloy was very minor even at the high cutting temperature. Nevertheless, when the intimate layer was detached from the chip or workpiece, the high adhesive forces were likely to result in the plunking out of hard particles from the tool causing its surface to become groove and crater as well as flank wear depth to increase. For ultra-hard cutting tool materials, the resistance to plastic deformation at elevated temperatures would be an important intrinsic material property <ce:cross-ref id="cr0260" refid="bib28">[28]</ce:cross-ref>. In compared with tungsten-carbides, TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C ceramics could achieve a longer tool life and better performance in high speed cutting of Ti6Al4V alloys due to better high temperature properties.</ce:para>
+                     <ce:para id="p0095" view="all">It was noted that the hardness of TB80 was much higher than that of TB20, but the tool life of TB80 was shorter than that of TB20. The hardness of TB20 was about 20.87 GPa, which was adequate for machining relative soft metals like titanium alloy. However, because of adhesive wear, the combination of crater and flank wear would undermine the integrity of cutting edge and those unsupported pieces would then break away <ce:cross-ref id="cr0265" refid="bib27">[27]</ce:cross-ref>. In the final stage, the fracture toughness of the cutting tool material would play a more important role in determining the lifetime performance. The hardness of TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C increased with the decrease of TiB<ce:inf loc="post">2</ce:inf> content, while the fracture toughness decreased. Chipping of the cutting edge would be the main failure mode of the cutting tools as TiB<ce:inf loc="post">2</ce:inf> content decreased. In addition, Ti could react with B<ce:inf loc="post">4</ce:inf>C in vacuum at temperature above 1100 °C by the following reaction <ce:cross-ref id="cr0270" refid="bib29">[29]</ce:cross-ref>:<ce:display>
+                           <ce:formula id="eq0005">
+                              <ce:label>(1)</ce:label>
+                              <ce:chem>
+                                 <ce:italic>3Ti + B</ce:italic>
+                                 <ce:inf loc="post">
+                                    <ce:italic>4</ce:italic>
+                                 </ce:inf>
+                                 <ce:italic>C = TiB</ce:italic>
+                                 <ce:inf loc="post">
+                                    <ce:italic>2</ce:italic>
+                                 </ce:inf> 
+                                 <ce:italic>+ TiC</ce:italic>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0100" view="all">Reaction (<ce:cross-ref id="cr0275" refid="eq0005">1</ce:cross-ref>) could be initiated at a relatively lower temperature with the incorporation of air <ce:cross-ref id="cr0280" refid="bib30">[30]</ce:cross-ref>. So, presumably, TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C ceramic cutting tools with higher TiB<ce:inf loc="post">2</ce:inf> content could have better cutting performance and longer tool life in cutting of Ti6Al4V alloys.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0045">Conclusions</ce:section-title>
+                  <ce:para id="p0105" view="all">TiB<ce:inf loc="post">2</ce:inf>–20vol%B<ce:inf loc="post">4</ce:inf>C (TB20) and TiB<ce:inf loc="post">2</ce:inf>–80vol%B<ce:inf loc="post">4</ce:inf>C (TB80) ceramic cutting tool materials were prepared by hot pressing. Vikers hardness of TB80 was about 27.99 GPa, 34% higher than that of TB20, whereas fracture toughness of TB80 was about 4.66 MPa m<ce:sup loc="post">1/2</ce:sup>, 26% lower than that of TB20. In continuous cutting of Ti6Al4V alloy, the effective cutting length of TB20 was about one third longer than that of TB80 and cemented carbide (WO). Cutting temperature increments of TB20 and TB80 from <ce:italic>VB</ce:italic> = 0 to 600 μm were much lower than that of WO. Wear mechanism was mainly adhesive wear for TB20, adhesive wear and chipping for TB80, and adhesive wear and temperature deterioration for WO. Hard particles plunk out through detaching of adhesive layer of TB20 and TB80,while diffusion through thick workpiece layer on WO gave rise to carried away of tool materials. Compared with tungsten carbides, the high wear resistance of TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C cutting tools were resulted from their higher hardness and lower chemical affinity with titanium. TiB<ce:inf loc="post">2</ce:inf>-B<ce:inf loc="post">4</ce:inf>C ceramic cutting tools with higher TiB<ce:inf loc="post">2</ce:inf> content may have better cutting performance and longer tool life in cutting of Ti6Al4V alloys, due to the increased toughness and decreased chemical affinity with titanium.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0050">Acknowledgments</ce:section-title>
+               <ce:para id="p0110" role="supporting" view="all">This work was financially supported by the <ce:grant-sponsor id="gs1" sponsor-id="http://dx.doi.org/10.13039/501100001809" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (No.<ce:grant-number refid="gs1">51402055</ce:grant-number>) and <ce:grant-sponsor id="gs2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Guangdong Innovative and Entrepreneurial Research Team Program</ce:grant-sponsor> (No. <ce:grant-number refid="gs2">2013G061</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0055">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigations of yield stress, fracture toughness, and energy distribution in high speed orthogonal cutting</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mach. Tool. Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Pawade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Joshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Brahmankar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of machining parameters and cutting edge geometry on surface integrity of high-speed turned Inconel 718</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mach. Tool. Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                              <sb:last-page>28</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A comparative study of the cutting forces in high speed machining of Ti–6Al–4V and Inconel 718 with a round cutting edge tool</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>209</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4385</sb:first-page>
+                              <sb:last-page>4389</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Sui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The influences of tool wear on Ti6Al4V cutting temperature and burn defect</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Adv. Manuf. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2831</sb:first-page>
+                              <sb:last-page>2838</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kikuchi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The use of cutting temperature to evaluate the machinability of titanium alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Biomater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>770</sb:first-page>
+                              <sb:last-page>775</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Arrazola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Garay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Iriarte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Armendia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Le Maître</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Machinability of titanium alloys (Ti6Al4V and Ti555.3)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>209</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2223</sb:first-page>
+                              <sb:last-page>2230</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Rahman Rashid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Palanisamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Dargusch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tool wear mechanisms involved in crater formation on uncoated carbide tool when machining Ti6Al4V alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Adv. Manuf. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1457</sb:first-page>
+                              <sb:last-page>1465</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Jianxin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yousheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wenlong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Diffusion wear in dry cutting of Ti–6Al–4V with WC/Co carbide tools</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>265</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1776</sb:first-page>
+                              <sb:last-page>1783</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.I.</ce:given-name>
+                                 <ce:surname>Jaffery</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.T.</ce:given-name>
+                                 <ce:surname>Mativenga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wear mechanisms analysis for turning Ti-6Al-4V—towards the development of suitable tool coatings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Adv. Manuf. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>479</sb:first-page>
+                              <sb:last-page>493</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Cherukuri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Molian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lathe turning of titanium using pulsed laser deposited, ultra‐hard boride coatings of carbide inserts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mach. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                              <sb:last-page>135</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Corduan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Himbart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Poulachon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dessoly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lambetin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Viggneau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Payoux</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wear mechanisms of new tool materials for Ti-6AI-4V high performance machining</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ann. Manuf. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                              <sb:last-page>76</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>An</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of TiC content and melt phase on microstructure and mechanical properties of ternary TiB<ce:inf loc="post">2</ce:inf>-based ceramic cutting tool materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>605</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>137</sb:first-page>
+                              <sb:last-page>143</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Basu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Raju</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Suri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Processing and properties of monolithic TiB<ce:inf loc="post">2</ce:inf>based materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Mater. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>352</sb:first-page>
+                              <sb:last-page>374</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Anstis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Chantikul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.R.</ce:given-name>
+                                 <ce:surname>Lawn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Marshall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A critical evaluation of indentation techniques for measuring fracture toughness: I, direct crack measurements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>533</sb:first-page>
+                              <sb:last-page>538</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <ce:other-ref id="othref0005">
+                        <ce:textref>ISO 1832-2012, Indexable inserts for cutting tools – designation.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Vanmeensel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.J.A.</ce:given-name>
+                                 <ce:surname>Malek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.V.D.</ce:given-name>
+                                 <ce:surname>Biest</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vleugels</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and mechanical properties of pulsed electric current sintered B<ce:inf loc="post">4</ce:inf>C–TiB<ce:inf loc="post">2</ce:inf> composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>528</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1302</sb:first-page>
+                              <sb:last-page>1309</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Bogomol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Borodianska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nishimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sakka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Loboda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Vasylkiv</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A dense and tough (B<ce:inf loc="post">4</ce:inf>C–TiB<ce:inf loc="post">2</ce:inf>)–B<ce:inf loc="post">4</ce:inf>C ‘composite within a composite’ produced by spark plasma sintering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                              <sb:last-page>20</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Friction and wear behaviors of wc/co cemented carbide tool materials with different wc grain sizes at temperatures up to 600 °C</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Refract. Met. Hard Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>196</sb:first-page>
+                              <sb:last-page>204</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Raju</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mukhopadhyay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Biswas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Basua</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Densification and high-temperature mechanical properties of hot pressed TiB<ce:inf loc="post">2</ce:inf>-(0–10wt%) MoSi<ce:inf loc="post">2</ce:inf>, composites</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>674</sb:first-page>
+                              <sb:last-page>677</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Demirskyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Borodianska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sakka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Vasylkiv</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultra-high elevated temperature strength of TiB<ce:inf loc="post">2</ce:inf>-based ceramics consolidated by spark plasma sintering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>393</sb:first-page>
+                              <sb:last-page>397</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Belon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Antou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Pradeilles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Maître</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Gosset</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical behaviour at high temperature of spark plasma sintered boron carbide ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6631</sb:first-page>
+                              <sb:last-page>6635</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bolognini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Feusier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Viatte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Benoit</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Experimental strategy to study the mechanical behaviour of hardmetals for cutting tools</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Refract. Met. Hard Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>209</sb:first-page>
+                              <sb:last-page>225</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.V.</ce:given-name>
+                                 <ce:surname>Milman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Luyckx</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Goncharuck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Northrop</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Results from bending tests on submicron and micron WC–Co grades at elevated temperatures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Refract. Met. Hard Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                              <sb:last-page>79</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Buss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Mari</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High temperature deformation mechanisms in cemented carbides and cermets studied by mechanical spectroscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>370</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                              <sb:last-page>167</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Emani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.F.C.R.D.</ce:given-name>
+                                 <ce:surname>Santos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Shaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of microstructure and mechanical properties at low and high temperatures of WC–6wt% Co</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Refract. Met. Hard Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>172</sb:first-page>
+                              <sb:last-page>181</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Venugopal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Chattopadhyay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Growth of tool wear in turning of Ti-6Al-4V alloy under cryogenic cooling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>262</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2007</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1071</sb:first-page>
+                              <sb:last-page>1078</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bordin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bruschi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ghiotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.F.</ce:given-name>
+                                 <ce:surname>Bariani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Analysis of tool wear in cryogenic machining of additive manufactured Ti6Al4V alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>328–329</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>99</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Nabhani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wear mechanisms of ultra-hard cutting tools materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>402</sb:first-page>
+                              <sb:last-page>412</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Formation of TiB2-TiC composites by reactive sintering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>353</sb:first-page>
+                              <sb:last-page>358</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.C.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal explosion reaction in the Ti–B<ce:inf loc="post">4</ce:inf>C system in air</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3003</sb:first-page>
+                              <sb:last-page>3006</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

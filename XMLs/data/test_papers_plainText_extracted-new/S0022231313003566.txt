@@ -1,0 +1,3578 @@
+Title:
+Modeling of the TL response of K
+
+Abstract:
+In this work we simulated the concentration quenching (CQ) of the thermoluminescence glow peaks of K2YF5 single crystals doped with different concentrations of Tb3+ ions, for samples irradiated with a 137Cs gamma source. A physical model used in this study, consisting of three trapping states and one kind of recombination center, has been assumed and the set of differential equations have been integrated without additional approximations. The parameters employed in the simulation have been estimated by previous glow curve deconvolution employing the general order kinetic (GOK) model. The model succeeds to predict the behavior of the areas under glow peaks as function of Tb3+ ions concentrations, confirming that the proposed model provides a good explanation of the concentration quenching phenomena.
+
+Keywords:
+Thermoluminescence
+K2YF5:Tb3+
+TL math modeling
+Concentration quenching
+Radiation dosimetry
+
+Introduction:
+Thermoluminescence (TL) is an extensive technique used for ionizing radiation dosimetry purposes, as the energy absorbed during irradiation and the TL intensity on stimulation (heating) are proportional to the radiation flux (doses). Among the best TL materials ever investigated, those based on alkali fluorides and alkaline-earth fluorides doped with rare earth ions, e.g. CaF2:Dy3+ and K2YF5:Tb3+, show very high TL output after exposure to X and gamma photon fields [1–4]. Particularly, a very interesting new TL material, the K2YF5 single crystals doped with 10.0at% Tb3+, has been demonstrated to have a linear TL signal coefficient, for gamma doses ranging from 10−5 to 10−2
+                     Gy, almost 10 times greater than that for the well known TLD-100 (LiF:Mg,Ti), irradiated at the same conditions, as reported in a previous work by Faria et al. [4]. They have shown in their paper the appearance of two TL peaks at 484K and 540K and they assumed that the presence of Tb3+ in the K2YF5:Tb3+ lattice caused the concentration quenching (CQ) phenomenon. In the material studied in this paper, Tb3+ plays the role of the recombination center. Following the increase of Tb3+ ions concentration, the TL emission intensity of the K2YF5:Tb3+ samples also increases. However, for Tb3+ concentrations higher than 10.0%, its emission is quenched. Computerized Glow Curve Deconvolution (CGCD) method is suitable for analyzing complex TL glow curves. The most attractive feature of the deconvolution technique is the simultaneous determination of kinetic parameters-activation energy (E), frequency factor (s) and order of kinetics (b) [5–9]. Taking into account the importance of new dosimetric materials, with high TL output, for applications in personal and environmental monitoring in hospitals, industries and nuclear facilities, we have performed a complementary investigation about the mechanisms behind the thermoluminescence of K2YF5:Tb3+ crystals. The aim of this paper is to present a model that, by using as guess values the parameters obtained by employing the GOK model, explain the concentration quenching effect of two TL peaks in K2YF5 single crystal, doped with various concentrations of Tb3+ ions. It is a goal point that the physical model does not need to resort to the quasi-equilibrium approximation.
+
+Experimental results:
+Samples of K2YF5 single crystals doped with different concentration of trivalent Tb3+ ions were grown by a direct temperature-gradient method; detailed experimental procedure has been reported in the previously published paper [4].
+2.1
+                     TL dose response
+                     
+                        
+                        Fig. 1(a) shows the recorded TL glow curves of 10at% K2YF5:Tb3+ exposed to different doses of a 137Cs gamma source in the range 1mGy–7mGy (β=10°C/s). For all TL glow curves there is one prominent peak at 542K and one shoulder peak at 483K. As expected, TL intensity increases with the increase of dose of gamma rays. The TL dose response curve of 10at% K2YF5:Tb3+ for the two peaks temperature (483K and 542K) is shown in Fig. 1(b). It is evident from this figure that the TL dose response curve is linear for doses ranging from 1.0mGy to7.0mGy. Actually, it has been demonstrated that this TL response is still linear down to 0.01mGy [4]. It implies that this material may be used as a gamma dosimeter in this very low dose range.
+2.2
+                     Concentration quenching effect
+                     The TL glow curves of K2YF5 doped with different concentrations of Tb3+ ion under the exposure of 1mGy of gamma rays from 137Cs source are shown in 
+                        Fig. 2. It is observed that all the curves consist of only one main TL peak at around 542K and a low intensity TL glow peak at 483K. By doping with Tb, a simpler glow curve is obtained and the TL sensitivity is enhanced. Samples with 10at% of dopant concentration showed the most efficient TL response, as well as the best maximum TL position. For further increase in concentration of Tb3+, the TL intensity decreases, which is due to the concentration quenching. Variation of TL intensity with concentration of Tb is shown in 
+                        Fig. 3. According to these data, TL emission increases with the enhancement of Tb3+ concentration from 0.0 to 10at%, reaching the maximum optimum concentration at this level, after which the TL output gradually falls off from 10 to 100at%.
+
+TL dose response:
+Fig. 1(a) shows the recorded TL glow curves of 10at% K2YF5:Tb3+ exposed to different doses of a 137Cs gamma source in the range 1mGy–7mGy (β=10°C/s). For all TL glow curves there is one prominent peak at 542K and one shoulder peak at 483K. As expected, TL intensity increases with the increase of dose of gamma rays. The TL dose response curve of 10at% K2YF5:Tb3+ for the two peaks temperature (483K and 542K) is shown in Fig. 1(b). It is evident from this figure that the TL dose response curve is linear for doses ranging from 1.0mGy to7.0mGy. Actually, it has been demonstrated that this TL response is still linear down to 0.01mGy [4]. It implies that this material may be used as a gamma dosimeter in this very low dose range.
+
+Concentration quenching effect:
+The TL glow curves of K2YF5 doped with different concentrations of Tb3+ ion under the exposure of 1mGy of gamma rays from 137Cs source are shown in 
+                        Fig. 2. It is observed that all the curves consist of only one main TL peak at around 542K and a low intensity TL glow peak at 483K. By doping with Tb, a simpler glow curve is obtained and the TL sensitivity is enhanced. Samples with 10at% of dopant concentration showed the most efficient TL response, as well as the best maximum TL position. For further increase in concentration of Tb3+, the TL intensity decreases, which is due to the concentration quenching. Variation of TL intensity with concentration of Tb is shown in 
+                        Fig. 3. According to these data, TL emission increases with the enhancement of Tb3+ concentration from 0.0 to 10at%, reaching the maximum optimum concentration at this level, after which the TL output gradually falls off from 10 to 100at%.
+
+Kinetic parameter determination:
+At first place, we calculate the kinetic parameters which will be used later at the proposed model. In order to be able to understand the nature of the traps formed in K2YF5:Tb3+ under irradiation, we have employed the analysis of Kitis et al. [10] who derived expressions for the thermoluminescence glow curve deconvolution (GCD) for first, second and general orders of kinetics using the experimentally obtained maximum peak intensity (I
+                     
+                        m
+                     ) and the maximum peak temperature (T
+                     
+                        m
+                     ).
+The free parameters to be determined through non-linear curve fitting are then the activation energy (E) and the order of kinetics (b). In their analysis, the general order kinetics is generally given by:
+                        
+                           (1)
+                           
+                              I
+                              (
+                              T
+                              )
+                              =
+                              s
+                              
+                                 
+                                    n
+                                 
+                                 
+                                    0
+                                 
+                              
+                              exp
+                              
+                                 (
+                                 
+                                    −
+                                    
+                                       E
+                                       
+                                          k
+                                          T
+                                       
+                                    
+                                 
+                                 )
+                              
+                              
+                                 
+                                    [
+                                    
+                                       1
+                                       +
+                                       (
+                                       b
+                                       −
+                                       1
+                                       )
+                                       
+                                          s
+                                          β
+                                       
+                                       
+                                          ∫
+                                          
+                                             
+                                                
+                                                   T
+                                                
+                                                
+                                                   0
+                                                
+                                             
+                                          
+                                          T
+                                       
+                                       
+                                          exp
+                                          
+                                             (
+                                             
+                                                −
+                                                
+                                                   E
+                                                   
+                                                      k
+                                                      
+                                                         T
+                                                         ′
+                                                      
+                                                   
+                                                
+                                             
+                                             )
+                                          
+                                          d
+                                          
+                                             T
+                                             ′
+                                          
+                                       
+                                    
+                                    ]
+                                 
+                                 
+                                    −
+                                    b
+                                    /
+                                    (
+                                    b
+                                    −
+                                    1
+                                    )
+                                 
+                              
+                           
+                        
+                     which when solved approximately gives:
+                        
+                           (2)
+                           
+                              I
+                              (
+                              T
+                              )
+                              =
+                              
+                                 
+                                    I
+                                 
+                                 
+                                    m
+                                 
+                              
+                              
+                                 
+                                    (
+                                    b
+                                    )
+                                 
+                                 
+                                    b
+                                    /
+                                    (
+                                    b
+                                    −
+                                    1
+                                    )
+                                 
+                              
+                              exp
+                              
+                                 (
+                                 
+                                    
+                                       E
+                                       
+                                          k
+                                          T
+                                       
+                                    
+                                    
+                                       
+                                          T
+                                          −
+                                          
+                                             
+                                                T
+                                             
+                                             
+                                                m
+                                             
+                                          
+                                       
+                                       
+                                          
+                                             
+                                                T
+                                             
+                                             
+                                                m
+                                             
+                                          
+                                       
+                                    
+                                 
+                                 )
+                              
+                              
+                                 
+                                    [
+                                    
+                                       (
+                                       b
+                                       −
+                                       1
+                                       )
+                                       (
+                                       1
+                                       −
+                                       Δ
+                                       )
+                                       
+                                          
+                                             
+                                                
+                                                   T
+                                                
+                                                2
+                                             
+                                          
+                                          
+                                             
+                                                
+                                                   T
+                                                
+                                                
+                                                   m
+                                                
+                                                
+                                                   2
+                                                
+                                             
+                                          
+                                       
+                                       exp
+                                       
+                                          (
+                                          
+                                             
+                                                E
+                                                
+                                                   k
+                                                   T
+                                                
+                                             
+                                             
+                                                
+                                                   T
+                                                   −
+                                                   
+                                                      
+                                                         T
+                                                      
+                                                      
+                                                         m
+                                                      
+                                                   
+                                                
+                                                
+                                                   
+                                                      
+                                                         T
+                                                      
+                                                      
+                                                         m
+                                                      
+                                                   
+                                                
+                                             
+                                          
+                                          )
+                                       
+                                       +
+                                       
+                                          
+                                             Z
+                                          
+                                          
+                                             m
+                                          
+                                       
+                                    
+                                    ]
+                                 
+                                 
+                                    −
+                                    b
+                                    /
+                                    (
+                                    b
+                                    −
+                                    1
+                                    )
+                                 
+                              
+                           
+                        
+                     where
+                        
+                           
+                              Δ
+                              =
+                              
+                                 
+                                    2
+                                    k
+                                    T
+                                 
+                                 E
+                              
+                              ,
+                              
+                                 
+                                    Δ
+                                 
+                                 
+                                    m
+                                 
+                              
+                              =
+                              
+                                 
+                                    2
+                                    k
+                                    
+                                       
+                                          T
+                                       
+                                       
+                                          m
+                                       
+                                    
+                                 
+                                 E
+                              
+                              ,
+                              
+                                 
+                                    Z
+                                 
+                                 
+                                    m
+                                 
+                              
+                              =
+                              1
+                              +
+                              (
+                              b
+                              −
+                              1
+                              )
+                              
+                                 
+                                    Δ
+                                 
+                                 
+                                    m
+The frequency factor s is therefore given by:
+                        
+                           (3)
+                           
+                              s
+                              =
+                              
+                                 
+                                    β
+                                    E
+                                 
+                                 
+                                    k
+                                    
+                                       
+                                          T
+                                       
+                                       
+                                          m
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                 
+                              
+                              
+                                 1
+                                 
+                                    
+                                       
+                                          Z
+                                       
+                                       
+                                          m
+                                       
+                                    
+                                 
+                              
+                              exp
+                              
+                                 (
+                                 
+                                    
+                                       E
+                                       
+                                          k
+                                          
+                                             
+                                                T
+                                             
+                                             
+                                                m
+                                             
+                                          
+                                       
+                                    
+                                 
+                                 )
+                              
+                              .
+By fitting the experimental data with Eq. (2), we obtained the kinetic parameters for each dose. Typical results of the fitting are shown in 
+                     Fig. 4 for the dose of 1mGy; note that we show only the results of the first dose, however for the other dose (2mGy, 3mGy, 5mGy and 7mGy) the results of fitting have not been presented in this paper, because they give the same objective. The calculated kinetic parameters for each of the two peaks are shown in 
+                     Table 1.
+The activation energies (or depths of trap) E of TL peaks centered at ∼484K and 540K were estimated as 1.05eV and 1.10eV, respectively. Parameter E is an essential parameter that describes the physical properties of the traps. Actually, the trap depth E is proportional to the glow-peak temperature. We remark that the kinetic order b could be taken as 2.0 for both peaks. Thus, from data on Table 1 we can conclude that there is no influence of gamma doses on the kinetic parameters of K2YF5:Tb3+ crystals.
+
+Modeling of the concentration quenching of TL in K2YF5:Tb3+:
+4.1
+                     The model
+                     
+                        
+                        Fig. 5 shows the energy level diagram of the proposed model in this paper, for simulating the concentration quenching effect (CQ) of thermoluminescence peaks K2YF5:Tb3+. This model consists of three trapping centers (ET) and one kind of recombinaison center (RC). Faria et al. [4], have shown in their paper the appearance of two TL peaks at 484K and 540K and they assumed that the presence of Tb3+ in the K2YF5:Tb3+ lattice caused the concentration quenching (CQ) phenomenon.
+                     Here, N
+                        
+                           i
+                         is the concentration of electron traps or hole centers (cm−3); s
+                        
+                           i
+                        , the frequency factor (s−1); E
+                        
+                           i
+                        , the electron trap depth below the conduction band or hole center energy levels above the valence band (eV); A
+                        
+                           i
+                        , the valence band to trap transition probability coefficient (cm3
+                        s−1) and B
+                        
+                           i
+                        , the conduction band to hole center transition probability coefficients (cm3
+                        s−1). The parameters n
+                        
+                           c
+                         and n
+                        
+                           v
+                         represent the instantaneous concentrations of electrons and holes in the conduction and valence band, respectively. M and m (cm−3) are the concentration of hole centers and trapped holes, respectively.
+4.2
+                     The rate equations
+                     Assuming that the electronic transitions from traps to the conduction band are not possible during excitation and that n
+                        
+                           i
+                         (i=1, …, 3) are the concentration of electrons in centers, the set of simultaneous differential equations governing the process during excitation is
+                           
+                              (4)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (7)
+                              
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 B
+                                 (
+                                 M
+                                 −
+                                 m
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 m
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             v
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 X
+                                 −
+                                 B
+                                 (
+                                 M
+                                 −
+                                 m
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (9)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             c
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 +
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             v
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 .
+                              
+                           
+                        
+                     
+                     The set of simultaneous differential equations governing the process during heating are
+                           
+                              (10)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       s
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 exp
+                                 (
+                                 −
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 /
+                                 k
+                                 T
+                                 )
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (11)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       s
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 exp
+                                 (
+                                 −
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 /
+                                 k
+                                 T
+                                 )
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (12)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       s
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 exp
+                                 (
+                                 −
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 /
+                                 k
+                                 T
+                                 )
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (13)
+                              
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 −
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 m
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (14)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             c
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 .
+                              
+                           
+                        
+                     
+                     As it can be seen in Fig. 5, the TL emission is associated with the recombination of free electrons with holes in centers, thus, when the heating function T(t) is known, the TL intensity can be written as
+                           
+                              (15)
+                              
+                                 I
+                                 (
+                                 T
+                                 )
+                                 =
+                                 −
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 m
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 .
+                              
+                           
+                        
+                     
+                     Note that the set of differential equations Eqs. (4)–(15), in this study had been taken from the previously published paper [11]. An important point to be mentioned with regard to the simulations reported here is that we always start the simulations with empty traps and centers. Besides, it is important to remark that the quasi-equilibrium approximation was not assumed.
+4.3
+                     Numerical results
+                     The set of simultaneous differentials equations (Eqs. (4)–(15)) have been solved numerically by using the Matlab ode23 solver. The trapping parameters used in this simulation are: N
+                        1=1×107
+                        cm−3, N
+                        2=1×107
+                        cm−3, N
+                        3=1×107
+                        cm−3, A
+                        1=2.5×10−8
+                        cm3
+                        s−1, A
+                        2=3.2×10−8
+                        cm3
+                        s−1, A
+                        3=1×10−9
+                        cm3
+                        s−1, A
+                        
+                           m
+                        =5×10−10
+                        cm3
+                        s−1, B=1×10−9
+                        cm3s−1, E
+                        1=1.05eV, E
+                        2=1.1eV, E
+                        3=2.0eV, s
+                        1=1.17×1012
+                        s−1, s
+                        2=2.11×1011
+                        s−1, s
+                        3=1×1014
+                        s−1, X=5×107
+                        cm−3
+                        s−1, β=10°Cs−1.
+                     
+                        
+                        Fig. 6(a) shows the simulated results obtained by running our proposed model, which presents the behavior of the areas under the TL glows peaks mentioned above (484K and 540K) as a function of Tb3+ concentrations. The results presented in Fig. 6(b); show the TL integrated area for each of the two TL peaks, as a function of concentration M, these results have been obtained using the analytical equations given by Chen et al. [11]. From these results we note that the experimental data shown in Fig. 3 can be described by Eqs. (19) and (24) cited in the paper of Chen et al. [11]. It is observed from these figures that the areas under both glow peaks decrease with the increasing of the Tb3+ concentration. Chen et al. [11] have developed the same model for explaining the concentration quenching effect in dolomite, and they have observed a decrease of the area under the glow curve following the critical concentration with an increase of the Mn2+ dopant. This effect can be explained by the strong non-radiative recombination in the sample. The critical quenching concentration of Tb3+ is defined as the concentration at which the emission intensity begins to decrease. From Fig. 6, it can be seen that the critical concentration of Tb3+ in K2YF5:Tb3+ single crystal is about 10at%.
+                     The simulated TL glow curves (sphere) found by using our proposed model and the experimental TL glows curves (open circle) for the K2YF5:Tb3+ sample for the dose of 7mGy (for the other doses the results are the same) are shown in 
+                        Fig. 7. The simulated TL glow curve in these figures was obtained by solving the set of differential Eqs. (4)–(15), the sets of parameters used in this simulation are mentioned above; the model succeeds to predict the behavior of the glow curve at different doses confirming that the proposed model provides a good explanation of the stimulated luminescence phenomena.
+
+The model:
+Fig. 5 shows the energy level diagram of the proposed model in this paper, for simulating the concentration quenching effect (CQ) of thermoluminescence peaks K2YF5:Tb3+. This model consists of three trapping centers (ET) and one kind of recombinaison center (RC). Faria et al. [4], have shown in their paper the appearance of two TL peaks at 484K and 540K and they assumed that the presence of Tb3+ in the K2YF5:Tb3+ lattice caused the concentration quenching (CQ) phenomenon.
+Here, N
+                        
+                           i
+                         is the concentration of electron traps or hole centers (cm−3); s
+                        
+                           i
+                        , the frequency factor (s−1); E
+                        
+                           i
+                        , the electron trap depth below the conduction band or hole center energy levels above the valence band (eV); A
+                        
+                           i
+                        , the valence band to trap transition probability coefficient (cm3
+                        s−1) and B
+                        
+                           i
+                        , the conduction band to hole center transition probability coefficients (cm3
+                        s−1). The parameters n
+                        
+                           c
+                         and n
+                        
+                           v
+                         represent the instantaneous concentrations of electrons and holes in the conduction and valence band, respectively. M and m (cm−3) are the concentration of hole centers and trapped holes, respectively.
+
+The rate equations:
+Assuming that the electronic transitions from traps to the conduction band are not possible during excitation and that n
+                        
+                           i
+                         (i=1, …, 3) are the concentration of electrons in centers, the set of simultaneous differential equations governing the process during excitation is
+                           
+                              (4)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (7)
+                              
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 B
+                                 (
+                                 M
+                                 −
+                                 m
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 m
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             v
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 X
+                                 −
+                                 B
+                                 (
+                                 M
+                                 −
+                                 m
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (9)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             c
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 +
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             v
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 .
+The set of simultaneous differential equations governing the process during heating are
+                           
+                              (10)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       s
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 exp
+                                 (
+                                 −
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 /
+                                 k
+                                 T
+                                 )
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (11)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       s
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 exp
+                                 (
+                                 −
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 /
+                                 k
+                                 T
+                                 )
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (12)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       s
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 exp
+                                 (
+                                 −
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 /
+                                 k
+                                 T
+                                 )
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (13)
+                              
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 −
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 m
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (14)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             c
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 .
+As it can be seen in Fig. 5, the TL emission is associated with the recombination of free electrons with holes in centers, thus, when the heating function T(t) is known, the TL intensity can be written as
+                           
+                              (15)
+                              
+                                 I
+                                 (
+                                 T
+                                 )
+                                 =
+                                 −
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 m
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 .
+Note that the set of differential equations Eqs. (4)–(15), in this study had been taken from the previously published paper [11]. An important point to be mentioned with regard to the simulations reported here is that we always start the simulations with empty traps and centers. Besides, it is important to remark that the quasi-equilibrium approximation was not assumed.
+
+Numerical results:
+The set of simultaneous differentials equations (Eqs. (4)–(15)) have been solved numerically by using the Matlab ode23 solver. The trapping parameters used in this simulation are: N
+                        1=1×107
+                        cm−3, N
+                        2=1×107
+                        cm−3, N
+                        3=1×107
+                        cm−3, A
+                        1=2.5×10−8
+                        cm3
+                        s−1, A
+                        2=3.2×10−8
+                        cm3
+                        s−1, A
+                        3=1×10−9
+                        cm3
+                        s−1, A
+                        
+                           m
+                        =5×10−10
+                        cm3
+                        s−1, B=1×10−9
+                        cm3s−1, E
+                        1=1.05eV, E
+                        2=1.1eV, E
+                        3=2.0eV, s
+                        1=1.17×1012
+                        s−1, s
+                        2=2.11×1011
+                        s−1, s
+                        3=1×1014
+                        s−1, X=5×107
+                        cm−3
+                        s−1, β=10°Cs−1.
+Fig. 6(a) shows the simulated results obtained by running our proposed model, which presents the behavior of the areas under the TL glows peaks mentioned above (484K and 540K) as a function of Tb3+ concentrations. The results presented in Fig. 6(b); show the TL integrated area for each of the two TL peaks, as a function of concentration M, these results have been obtained using the analytical equations given by Chen et al. [11]. From these results we note that the experimental data shown in Fig. 3 can be described by Eqs. (19) and (24) cited in the paper of Chen et al. [11]. It is observed from these figures that the areas under both glow peaks decrease with the increasing of the Tb3+ concentration. Chen et al. [11] have developed the same model for explaining the concentration quenching effect in dolomite, and they have observed a decrease of the area under the glow curve following the critical concentration with an increase of the Mn2+ dopant. This effect can be explained by the strong non-radiative recombination in the sample. The critical quenching concentration of Tb3+ is defined as the concentration at which the emission intensity begins to decrease. From Fig. 6, it can be seen that the critical concentration of Tb3+ in K2YF5:Tb3+ single crystal is about 10at%.
+The simulated TL glow curves (sphere) found by using our proposed model and the experimental TL glows curves (open circle) for the K2YF5:Tb3+ sample for the dose of 7mGy (for the other doses the results are the same) are shown in 
+                        Fig. 7. The simulated TL glow curve in these figures was obtained by solving the set of differential Eqs. (4)–(15), the sets of parameters used in this simulation are mentioned above; the model succeeds to predict the behavior of the glow curve at different doses confirming that the proposed model provides a good explanation of the stimulated luminescence phenomena.
+
+Conclusion:
+In this article the glow curve of gamma irradiated K2YF5:Tb3+ single crystal has been deconvoluted by assuming general order kinetic model. The model used to simulate the concentration quenching effect is made up of three electron traps and a single recombination center. The resulting parameters have been employed to feed a more physically meaningful model of the process, which does not resort to the quasi-equilibrium approximation. The simulated results reproduce acceptably the experimental results concerning this phenomenon (CQ) in K2YF5 single crystal doped with different concentration of Tb3+ ions. Also the optimum Tb concentration was determined to be 10at%.
+
+Body:
+Thermoluminescence (TL) is an extensive technique used for ionizing radiation dosimetry purposes, as the energy absorbed during irradiation and the TL intensity on stimulation (heating) are proportional to the radiation flux (doses). Among the best TL materials ever investigated, those based on alkali fluorides and alkaline-earth fluorides doped with rare earth ions, e.g. CaF2:Dy3+ and K2YF5:Tb3+, show very high TL output after exposure to X and gamma photon fields [1–4]. Particularly, a very interesting new TL material, the K2YF5 single crystals doped with 10.0at% Tb3+, has been demonstrated to have a linear TL signal coefficient, for gamma doses ranging from 10−5 to 10−2
+                     Gy, almost 10 times greater than that for the well known TLD-100 (LiF:Mg,Ti), irradiated at the same conditions, as reported in a previous work by Faria et al. [4]. They have shown in their paper the appearance of two TL peaks at 484K and 540K and they assumed that the presence of Tb3+ in the K2YF5:Tb3+ lattice caused the concentration quenching (CQ) phenomenon. In the material studied in this paper, Tb3+ plays the role of the recombination center. Following the increase of Tb3+ ions concentration, the TL emission intensity of the K2YF5:Tb3+ samples also increases. However, for Tb3+ concentrations higher than 10.0%, its emission is quenched. Computerized Glow Curve Deconvolution (CGCD) method is suitable for analyzing complex TL glow curves. The most attractive feature of the deconvolution technique is the simultaneous determination of kinetic parameters-activation energy (E), frequency factor (s) and order of kinetics (b) [5–9]. Taking into account the importance of new dosimetric materials, with high TL output, for applications in personal and environmental monitoring in hospitals, industries and nuclear facilities, we have performed a complementary investigation about the mechanisms behind the thermoluminescence of K2YF5:Tb3+ crystals. The aim of this paper is to present a model that, by using as guess values the parameters obtained by employing the GOK model, explain the concentration quenching effect of two TL peaks in K2YF5 single crystal, doped with various concentrations of Tb3+ ions. It is a goal point that the physical model does not need to resort to the quasi-equilibrium approximation.
+
+Samples of K2YF5 single crystals doped with different concentration of trivalent Tb3+ ions were grown by a direct temperature-gradient method; detailed experimental procedure has been reported in the previously published paper [4].
+
+Fig. 1(a) shows the recorded TL glow curves of 10at% K2YF5:Tb3+ exposed to different doses of a 137Cs gamma source in the range 1mGy–7mGy (β=10°C/s). For all TL glow curves there is one prominent peak at 542K and one shoulder peak at 483K. As expected, TL intensity increases with the increase of dose of gamma rays. The TL dose response curve of 10at% K2YF5:Tb3+ for the two peaks temperature (483K and 542K) is shown in Fig. 1(b). It is evident from this figure that the TL dose response curve is linear for doses ranging from 1.0mGy to7.0mGy. Actually, it has been demonstrated that this TL response is still linear down to 0.01mGy [4]. It implies that this material may be used as a gamma dosimeter in this very low dose range.
+
+The TL glow curves of K2YF5 doped with different concentrations of Tb3+ ion under the exposure of 1mGy of gamma rays from 137Cs source are shown in 
+                        Fig. 2. It is observed that all the curves consist of only one main TL peak at around 542K and a low intensity TL glow peak at 483K. By doping with Tb, a simpler glow curve is obtained and the TL sensitivity is enhanced. Samples with 10at% of dopant concentration showed the most efficient TL response, as well as the best maximum TL position. For further increase in concentration of Tb3+, the TL intensity decreases, which is due to the concentration quenching. Variation of TL intensity with concentration of Tb is shown in 
+                        Fig. 3. According to these data, TL emission increases with the enhancement of Tb3+ concentration from 0.0 to 10at%, reaching the maximum optimum concentration at this level, after which the TL output gradually falls off from 10 to 100at%.
+
+At first place, we calculate the kinetic parameters which will be used later at the proposed model. In order to be able to understand the nature of the traps formed in K2YF5:Tb3+ under irradiation, we have employed the analysis of Kitis et al. [10] who derived expressions for the thermoluminescence glow curve deconvolution (GCD) for first, second and general orders of kinetics using the experimentally obtained maximum peak intensity (I
+                     
+                        m
+                     ) and the maximum peak temperature (T
+                     
+                        m
+                     ).
+
+The free parameters to be determined through non-linear curve fitting are then the activation energy (E) and the order of kinetics (b). In their analysis, the general order kinetics is generally given by:
+                        
+                           (1)
+                           
+                              I
+                              (
+                              T
+                              )
+                              =
+                              s
+                              
+                                 
+                                    n
+                                 
+                                 
+                                    0
+                                 
+                              
+                              exp
+                              
+                                 (
+                                 
+                                    −
+                                    
+                                       E
+                                       
+                                          k
+                                          T
+                                       
+                                    
+                                 
+                                 )
+                              
+                              
+                                 
+                                    [
+                                    
+                                       1
+                                       +
+                                       (
+                                       b
+                                       −
+                                       1
+                                       )
+                                       
+                                          s
+                                          β
+                                       
+                                       
+                                          ∫
+                                          
+                                             
+                                                
+                                                   T
+                                                
+                                                
+                                                   0
+                                                
+                                             
+                                          
+                                          T
+                                       
+                                       
+                                          exp
+                                          
+                                             (
+                                             
+                                                −
+                                                
+                                                   E
+                                                   
+                                                      k
+                                                      
+                                                         T
+                                                         ′
+                                                      
+                                                   
+                                                
+                                             
+                                             )
+                                          
+                                          d
+                                          
+                                             T
+                                             ′
+                                          
+                                       
+                                    
+                                    ]
+                                 
+                                 
+                                    −
+                                    b
+                                    /
+                                    (
+                                    b
+                                    −
+                                    1
+                                    )
+                                 
+                              
+                           
+                        
+                     which when solved approximately gives:
+                        
+                           (2)
+                           
+                              I
+                              (
+                              T
+                              )
+                              =
+                              
+                                 
+                                    I
+                                 
+                                 
+                                    m
+                                 
+                              
+                              
+                                 
+                                    (
+                                    b
+                                    )
+                                 
+                                 
+                                    b
+                                    /
+                                    (
+                                    b
+                                    −
+                                    1
+                                    )
+                                 
+                              
+                              exp
+                              
+                                 (
+                                 
+                                    
+                                       E
+                                       
+                                          k
+                                          T
+                                       
+                                    
+                                    
+                                       
+                                          T
+                                          −
+                                          
+                                             
+                                                T
+                                             
+                                             
+                                                m
+                                             
+                                          
+                                       
+                                       
+                                          
+                                             
+                                                T
+                                             
+                                             
+                                                m
+                                             
+                                          
+                                       
+                                    
+                                 
+                                 )
+                              
+                              
+                                 
+                                    [
+                                    
+                                       (
+                                       b
+                                       −
+                                       1
+                                       )
+                                       (
+                                       1
+                                       −
+                                       Δ
+                                       )
+                                       
+                                          
+                                             
+                                                
+                                                   T
+                                                
+                                                2
+                                             
+                                          
+                                          
+                                             
+                                                
+                                                   T
+                                                
+                                                
+                                                   m
+                                                
+                                                
+                                                   2
+                                                
+                                             
+                                          
+                                       
+                                       exp
+                                       
+                                          (
+                                          
+                                             
+                                                E
+                                                
+                                                   k
+                                                   T
+                                                
+                                             
+                                             
+                                                
+                                                   T
+                                                   −
+                                                   
+                                                      
+                                                         T
+                                                      
+                                                      
+                                                         m
+                                                      
+                                                   
+                                                
+                                                
+                                                   
+                                                      
+                                                         T
+                                                      
+                                                      
+                                                         m
+                                                      
+                                                   
+                                                
+                                             
+                                          
+                                          )
+                                       
+                                       +
+                                       
+                                          
+                                             Z
+                                          
+                                          
+                                             m
+                                          
+                                       
+                                    
+                                    ]
+                                 
+                                 
+                                    −
+                                    b
+                                    /
+                                    (
+                                    b
+                                    −
+                                    1
+                                    )
+                                 
+                              
+                           
+                        
+                     where
+                        
+                           
+                              Δ
+                              =
+                              
+                                 
+                                    2
+                                    k
+                                    T
+                                 
+                                 E
+                              
+                              ,
+                              
+                                 
+                                    Δ
+                                 
+                                 
+                                    m
+                                 
+                              
+                              =
+                              
+                                 
+                                    2
+                                    k
+                                    
+                                       
+                                          T
+                                       
+                                       
+                                          m
+                                       
+                                    
+                                 
+                                 E
+                              
+                              ,
+                              
+                                 
+                                    Z
+                                 
+                                 
+                                    m
+                                 
+                              
+                              =
+                              1
+                              +
+                              (
+                              b
+                              −
+                              1
+                              )
+                              
+                                 
+                                    Δ
+                                 
+                                 
+                                    m
+
+The frequency factor s is therefore given by:
+                        
+                           (3)
+                           
+                              s
+                              =
+                              
+                                 
+                                    β
+                                    E
+                                 
+                                 
+                                    k
+                                    
+                                       
+                                          T
+                                       
+                                       
+                                          m
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                 
+                              
+                              
+                                 1
+                                 
+                                    
+                                       
+                                          Z
+                                       
+                                       
+                                          m
+                                       
+                                    
+                                 
+                              
+                              exp
+                              
+                                 (
+                                 
+                                    
+                                       E
+                                       
+                                          k
+                                          
+                                             
+                                                T
+                                             
+                                             
+                                                m
+                                             
+                                          
+                                       
+                                    
+                                 
+                                 )
+                              
+                              .
+
+By fitting the experimental data with Eq. (2), we obtained the kinetic parameters for each dose. Typical results of the fitting are shown in 
+                     Fig. 4 for the dose of 1mGy; note that we show only the results of the first dose, however for the other dose (2mGy, 3mGy, 5mGy and 7mGy) the results of fitting have not been presented in this paper, because they give the same objective. The calculated kinetic parameters for each of the two peaks are shown in 
+                     Table 1.
+
+The activation energies (or depths of trap) E of TL peaks centered at ∼484K and 540K were estimated as 1.05eV and 1.10eV, respectively. Parameter E is an essential parameter that describes the physical properties of the traps. Actually, the trap depth E is proportional to the glow-peak temperature. We remark that the kinetic order b could be taken as 2.0 for both peaks. Thus, from data on Table 1 we can conclude that there is no influence of gamma doses on the kinetic parameters of K2YF5:Tb3+ crystals.
+
+Fig. 5 shows the energy level diagram of the proposed model in this paper, for simulating the concentration quenching effect (CQ) of thermoluminescence peaks K2YF5:Tb3+. This model consists of three trapping centers (ET) and one kind of recombinaison center (RC). Faria et al. [4], have shown in their paper the appearance of two TL peaks at 484K and 540K and they assumed that the presence of Tb3+ in the K2YF5:Tb3+ lattice caused the concentration quenching (CQ) phenomenon.
+
+Here, N
+                        
+                           i
+                         is the concentration of electron traps or hole centers (cm−3); s
+                        
+                           i
+                        , the frequency factor (s−1); E
+                        
+                           i
+                        , the electron trap depth below the conduction band or hole center energy levels above the valence band (eV); A
+                        
+                           i
+                        , the valence band to trap transition probability coefficient (cm3
+                        s−1) and B
+                        
+                           i
+                        , the conduction band to hole center transition probability coefficients (cm3
+                        s−1). The parameters n
+                        
+                           c
+                         and n
+                        
+                           v
+                         represent the instantaneous concentrations of electrons and holes in the conduction and valence band, respectively. M and m (cm−3) are the concentration of hole centers and trapped holes, respectively.
+
+Assuming that the electronic transitions from traps to the conduction band are not possible during excitation and that n
+                        
+                           i
+                         (i=1, …, 3) are the concentration of electrons in centers, the set of simultaneous differential equations governing the process during excitation is
+                           
+                              (4)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (5)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (6)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (7)
+                              
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 B
+                                 (
+                                 M
+                                 −
+                                 m
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 m
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (8)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             v
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 X
+                                 −
+                                 B
+                                 (
+                                 M
+                                 −
+                                 m
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       v
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (9)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             c
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 +
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             v
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 .
+
+The set of simultaneous differential equations governing the process during heating are
+                           
+                              (10)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       s
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 exp
+                                 (
+                                 −
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       1
+                                    
+                                 
+                                 /
+                                 k
+                                 T
+                                 )
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (11)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       s
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 exp
+                                 (
+                                 −
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       2
+                                    
+                                 
+                                 /
+                                 k
+                                 T
+                                 )
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (12)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 (
+                                 
+                                    
+                                       N
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 )
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       s
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 exp
+                                 (
+                                 −
+                                 
+                                    
+                                       E
+                                    
+                                    
+                                       3
+                                    
+                                 
+                                 /
+                                 k
+                                 T
+                                 )
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (13)
+                              
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 −
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 m
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 ,
+                              
+                           
+                        
+                        
+                           
+                              (14)
+                              
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             c
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             1
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             2
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 −
+                                 
+                                    
+                                       d
+                                       
+                                          
+                                             n
+                                          
+                                          
+                                             3
+                                          
+                                       
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 .
+
+As it can be seen in Fig. 5, the TL emission is associated with the recombination of free electrons with holes in centers, thus, when the heating function T(t) is known, the TL intensity can be written as
+                           
+                              (15)
+                              
+                                 I
+                                 (
+                                 T
+                                 )
+                                 =
+                                 −
+                                 
+                                    
+                                       d
+                                       m
+                                    
+                                    
+                                       d
+                                       t
+                                    
+                                 
+                                 =
+                                 
+                                    
+                                       A
+                                    
+                                    
+                                       m
+                                    
+                                 
+                                 m
+                                 
+                                    
+                                       n
+                                    
+                                    
+                                       c
+                                    
+                                 
+                                 .
+
+Note that the set of differential equations Eqs. (4)–(15), in this study had been taken from the previously published paper [11]. An important point to be mentioned with regard to the simulations reported here is that we always start the simulations with empty traps and centers. Besides, it is important to remark that the quasi-equilibrium approximation was not assumed.
+
+The set of simultaneous differentials equations (Eqs. (4)–(15)) have been solved numerically by using the Matlab ode23 solver. The trapping parameters used in this simulation are: N
+                        1=1×107
+                        cm−3, N
+                        2=1×107
+                        cm−3, N
+                        3=1×107
+                        cm−3, A
+                        1=2.5×10−8
+                        cm3
+                        s−1, A
+                        2=3.2×10−8
+                        cm3
+                        s−1, A
+                        3=1×10−9
+                        cm3
+                        s−1, A
+                        
+                           m
+                        =5×10−10
+                        cm3
+                        s−1, B=1×10−9
+                        cm3s−1, E
+                        1=1.05eV, E
+                        2=1.1eV, E
+                        3=2.0eV, s
+                        1=1.17×1012
+                        s−1, s
+                        2=2.11×1011
+                        s−1, s
+                        3=1×1014
+                        s−1, X=5×107
+                        cm−3
+                        s−1, β=10°Cs−1.
+
+Fig. 6(a) shows the simulated results obtained by running our proposed model, which presents the behavior of the areas under the TL glows peaks mentioned above (484K and 540K) as a function of Tb3+ concentrations. The results presented in Fig. 6(b); show the TL integrated area for each of the two TL peaks, as a function of concentration M, these results have been obtained using the analytical equations given by Chen et al. [11]. From these results we note that the experimental data shown in Fig. 3 can be described by Eqs. (19) and (24) cited in the paper of Chen et al. [11]. It is observed from these figures that the areas under both glow peaks decrease with the increasing of the Tb3+ concentration. Chen et al. [11] have developed the same model for explaining the concentration quenching effect in dolomite, and they have observed a decrease of the area under the glow curve following the critical concentration with an increase of the Mn2+ dopant. This effect can be explained by the strong non-radiative recombination in the sample. The critical quenching concentration of Tb3+ is defined as the concentration at which the emission intensity begins to decrease. From Fig. 6, it can be seen that the critical concentration of Tb3+ in K2YF5:Tb3+ single crystal is about 10at%.
+
+The simulated TL glow curves (sphere) found by using our proposed model and the experimental TL glows curves (open circle) for the K2YF5:Tb3+ sample for the dose of 7mGy (for the other doses the results are the same) are shown in 
+                        Fig. 7. The simulated TL glow curve in these figures was obtained by solving the set of differential Eqs. (4)–(15), the sets of parameters used in this simulation are mentioned above; the model succeeds to predict the behavior of the glow curve at different doses confirming that the proposed model provides a good explanation of the stimulated luminescence phenomena.
+
+In this article the glow curve of gamma irradiated K2YF5:Tb3+ single crystal has been deconvoluted by assuming general order kinetic model. The model used to simulate the concentration quenching effect is made up of three electron traps and a single recombination center. The resulting parameters have been employed to feed a more physically meaningful model of the process, which does not resort to the quasi-equilibrium approximation. The simulated results reproduce acceptably the experimental results concerning this phenomenon (CQ) in K2YF5 single crystal doped with different concentration of Tb3+ ions. Also the optimum Tb concentration was determined to be 10at%.

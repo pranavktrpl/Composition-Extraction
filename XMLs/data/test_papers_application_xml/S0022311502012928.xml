@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0022311502012928</prism:url><dc:identifier>doi:10.1016/S0022-3115(02)01292-8</dc:identifier><eid>1-s2.0-S0022311502012928</eid><prism:doi>10.1016/S0022-3115(02)01292-8</prism:doi><pii>S0022-3115(02)01292-8</pii><dc:title>Experimental investigation of radioactivity induced in the fusion power plant structural material in Eurofer and in other steels by D–T neutrons </dc:title><prism:publicationName>Journal of Nuclear Materials</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00223115</prism:issn><prism:volume>307</prism:volume><prism:startingPage>1037</prism:startingPage><prism:endingPage>1041</prism:endingPage><prism:pageRange>1037-1041</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2002-12-31</prism:coverDate><prism:coverDisplayDate>December 2002</prism:coverDisplayDate><prism:copyright>Copyright © 2002 Elsevier Science B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier Science B.V.</prism:publisher><dc:creator>Seidel, K.</dc:creator><dc:creator>Forrest, R.A.</dc:creator><dc:creator>Freiesleben, H.</dc:creator><dc:creator>Kovalchuk, V.D.</dc:creator><dc:creator>Markovskij, D.V.</dc:creator><dc:creator>Maximov, D.V.</dc:creator><dc:creator>Unholzer, S.</dc:creator><dc:description>
+                  The low-activation steel Eurofer was irradiated with D–T fusion neutrons. The radioactivity following irradiation was determined several times during decay by γ-spectroscopy. The results were analysed with the European Activation System (EASY-99). Ratios of calculated-to-experimental values for individual activities and for their sums are discussed in connection with the expected low-activation behaviour of the material in fusion power plant conditions.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0022311502012928" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0022311502012928" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="329" height="310" size="10232">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311502012928-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="174" height="164" size="4042">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311502012928-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="329" height="309" size="16934">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311502012928-gr2.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="174" height="163" size="6334">https://api.elsevier.com/content/object/eid/1-s2.0-S0022311502012928-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>0036956922</scopus-id><scopus-eid>2-s2.0-0036956922</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0036956922" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271598</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291702</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291829</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Nuclear Materials</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALNUCLEARMATERIALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20021207">2002-12-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20021207">2002-12-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-14T04:09:28</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0022311502012928</xocs:eid>
+      <xocs:pii-formatted>S0022-3115(02)01292-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0022311502012928</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0022-3115(02)01292-8</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0022311500X05594</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20220621">2022-06-21T06:48:18.053864Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20021201</xocs:date-search-begin>
+      <xocs:date-search-end>20021231</xocs:date-search-end>
+      <xocs:year-nav>2002</xocs:year-nav>
+      <xocs:indexeddate epoch="1039219200">2002-12-07T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings suppl volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authlast otherkwds primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0022-3115</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00223115</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>307</xocs:vol-first>
+      <xocs:vol-last>311</xocs:vol-last>
+      <xocs:volume-list>
+         <xocs:volume>307</xocs:volume>
+         <xocs:volume>308</xocs:volume>
+         <xocs:volume>309</xocs:volume>
+         <xocs:volume>310</xocs:volume>
+         <xocs:volume>311</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>P2</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volumes 307–311, Part 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>37</xocs:sort-order>
+      <xocs:first-fp>1037</xocs:first-fp>
+      <xocs:last-lp>1041</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1037</xocs:first-page>
+         <xocs:last-page>1041</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200212</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 2002</xocs:cover-date-text>
+      <xocs:cover-date-start>2002-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2002-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2002</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2002 Elsevier Science B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EXPERIMENTALINVESTIGATIONRADIOACTIVITYINDUCEDINFUSIONPOWERPLANTSTRUCTURALMATERIALINEUROFERINOTHERSTEELSBYDTNEUTRONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SEIDEL</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>K</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experiment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Concluding remarks</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>MARBACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>243</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>721</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3"/>
+         <xocs:ref-info refid="BIB4"/>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>RICHTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1434</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SEIDELX2002X1037</xocs:refkey3>
+         <xocs:refkey4lp>SEIDELX2002X1037X1041</xocs:refkey4lp>
+         <xocs:refkey4ai>SEIDELX2002X1037XK</xocs:refkey4ai>
+         <xocs:refkey5>SEIDELX2002X1037X1041XK</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-06-10T16:41:43.739Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Federal Ministry of Education, Science, Research and Technology</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ministry of Higher Education, Research and Culture of the Free State of Saxony</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>European Fusion Technology Programme</xocs:funding-agency-matched-string>
+            <xocs:funding-id>RUS-540-96</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding-text>The work was supported by the European Fusion Technology Programme, by grant no. RUS-540-96 of the German Federal Ministry of Education, Science, Research and Technology and by the Ministry of Higher Education, Research and Culture of the Free State of Saxony. The authors would like to thank Drs U. von Möllendorff, C. Adelhelm, M. Pillon and B. van der Schaaf for supplying or analysing samples.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0022-3115(02)01292-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0022311502012928</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0022311502012928</xocs:eid>
+         <xocs:doi>10.1016/S0022-3115(02)01292-8</xocs:doi>
+         <xocs:cid>271598</xocs:cid>
+         <xocs:timestamp>2010-12-08T20:14:38.431317-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2002-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2002-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0022311502012928-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311502012928/MAIN/application/pdf/dad243d361cb2e3442fca9eb8e067780/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311502012928/MAIN/application/pdf/dad243d361cb2e3442fca9eb8e067780/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>124498</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0022311502012928-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311502012928/PREVIEW/image/png/78ad740ffa5f03a346f1f5d69f5030be/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311502012928/PREVIEW/image/png/78ad740ffa5f03a346f1f5d69f5030be/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63013</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311502012928-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311502012928/gr1/DOWNSAMPLED/image/gif/f4262227f66402eae6c9dbf4ec276a74/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311502012928/gr1/DOWNSAMPLED/image/gif/f4262227f66402eae6c9dbf4ec276a74/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>10232</xocs:filesize>
+               <xocs:pixel-height>310</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311502012928-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311502012928/gr1/THUMBNAIL/image/gif/371f0ad94d7a037d35b5b16fcce3c230/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311502012928/gr1/THUMBNAIL/image/gif/371f0ad94d7a037d35b5b16fcce3c230/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4042</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>174</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311502012928-gr2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311502012928/gr2/DOWNSAMPLED/image/gif/757af8afa89e40e5ffb74d32a8aa7dde/gr2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311502012928/gr2/DOWNSAMPLED/image/gif/757af8afa89e40e5ffb74d32a8aa7dde/gr2.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>16934</xocs:filesize>
+               <xocs:pixel-height>309</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0022311502012928-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0022311502012928/gr2/THUMBNAIL/image/gif/cb16148f8608d1fc6b4a301563ad14a9/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0022311502012928/gr2/THUMBNAIL/image/gif/cb16148f8608d1fc6b4a301563ad14a9/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6334</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>174</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>NUMA</jid>
+            <aid>15305</aid>
+            <ce:pii>S0022-3115(02)01292-8</ce:pii>
+            <ce:doi>10.1016/S0022-3115(02)01292-8</ce:doi>
+            <ce:copyright type="full-transfer" year="2002">Elsevier Science B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Contact dose rates of the ITER steel 316 and of the low-activation steels F82H and Eurofer after irradiation with 14 MeV neutrons of 1.0 MW/m<ce:sup loc="post">2</ce:sup> power for 1 year as a function of the decay time. Recycling limits of the materials by remote handling and hands-on limit are as recommended by ICRP <ce:cross-ref refid="BIB4">[4]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Contribution of the radionuclides indicated to the total contact dose rate of Eurofer irradiated with 14 MeV neutrons of 1.0 MW/m<ce:sup loc="post">2</ce:sup> power for 1 year as a function of the decay time. The decay times <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">1</ce:inf>,…,<ce:italic>t</ce:italic>
+                     <ce:inf loc="post">4</ce:inf>, when the γ-radioactivity of irradiated samples was measured, are inserted by dashed lines.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Elemental composition of steels in wt%, as determined by the X-ray fluorescence method</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SS316 (AISI 316 LN ITER grade)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">F82H</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Eurofer</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0025<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.0025</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.01</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.031<hsp sp="0.12"/>±<hsp sp="0.12"/>0.005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.089<hsp sp="0.12"/>±<hsp sp="0.12"/>0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.104<hsp sp="0.12"/>±<hsp sp="0.12"/>0.005</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">N</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0043<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0234<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0005</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0125<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0007</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.001</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Al</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0022<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0051</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Si</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.39<hsp sp="0.12"/>±<hsp sp="0.12"/>0.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.043<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0005</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">P</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.023<hsp sp="0.12"/>±<hsp sp="0.12"/>0.005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.04</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">S</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.002<hsp sp="0.12"/>±<hsp sp="0.12"/>0.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.004<hsp sp="0.12"/>±<hsp sp="0.12"/>0.001</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0008<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.004</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">V</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.09<hsp sp="0.12"/>±<hsp sp="0.12"/>0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.159<hsp sp="0.12"/>±<hsp sp="0.12"/>0.008</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.204<hsp sp="0.12"/>±<hsp sp="0.12"/>0.004</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">17.7<hsp sp="0.12"/>±<hsp sp="0.12"/>0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.68<hsp sp="0.12"/>±<hsp sp="0.12"/>0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.21<hsp sp="0.12"/>±<hsp sp="0.12"/>0.12</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mn</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.77<hsp sp="0.12"/>±<hsp sp="0.12"/>0.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.159<hsp sp="0.12"/>±<hsp sp="0.12"/>0.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.502<hsp sp="0.12"/>±<hsp sp="0.12"/>0.012</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&gt;65.3585</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&gt;89.6727</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&gt;88.5229</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Co</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.09<hsp sp="0.12"/>±<hsp sp="0.12"/>0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0026<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0067<hsp sp="0.12"/>±<hsp sp="0.12"/>0.00005</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ni</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12.1<hsp sp="0.12"/>±<hsp sp="0.12"/>0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0191<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0008</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0214<hsp sp="0.12"/>±<hsp sp="0.12"/>0.002</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cu</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.09<hsp sp="0.12"/>±<hsp sp="0.12"/>0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0054<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0035<hsp sp="0.12"/>±<hsp sp="0.12"/>0.00005</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0003<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0012<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0003</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.29<hsp sp="0.12"/>±<hsp sp="0.12"/>0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.0046<hsp sp="0.12"/>±<hsp sp="0.12"/>0.0017</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">&lt;0.0008</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ta</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.014<hsp sp="0.12"/>±<hsp sp="0.12"/>0.002</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.145<hsp sp="0.12"/>±<hsp sp="0.12"/>0.005</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">W</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.17<hsp sp="0.12"/>±<hsp sp="0.12"/>0.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.148<hsp sp="0.12"/>±<hsp sp="0.12"/>0.028</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Pb</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.003<hsp sp="0.12"/>±<hsp sp="0.12"/>0.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL2" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Irradiation of Eurofer samples (1×1 cm<ce:sup loc="post">2</ce:sup>) with D–T neutrons</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Number</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample mass (g)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Neutron energy (MeV)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Irradiation time</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Neutron fluence (cm<sup loc="post">−2</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.192</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.93<hsp sp="0.12"/>±<hsp sp="0.12"/>0.27</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.0 min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.36<hsp sp="0.12"/>×<hsp sp="0.12"/>10<sup loc="post">11</sup>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.183</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.93<hsp sp="0.12"/>±<hsp sp="0.12"/>0.27</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.93 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.4<hsp sp="0.12"/>×<hsp sp="0.12"/>10<sup loc="post">14</sup>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.190</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.37<hsp sp="0.12"/>±<hsp sp="0.12"/>0.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.93 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.8<hsp sp="0.12"/>×<hsp sp="0.12"/>10<sup loc="post">13</sup>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL3" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Radionuclides investigated in experiment 1, their half-life, the γ-rays used to measure the activity, the producing nuclear reactions with their contribution to the activity (EASY-99 calculation), and the ratios of calculated-to-experimental activity (C/E)</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1">Radionuclide</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1">Half-life</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1">
+                           <italic>E</italic>
+                           <inf loc="post">γ</inf> (keV)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col4" nameend="col5" rowsep="1">Reaction contribution (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" rowsep="1">C/E</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">28</sup>Al</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.24 min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1778</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">28</sup>Si(n,p)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">99.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.00<hsp sp="0.12"/>±<hsp sp="0.12"/>0.32</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">51</sup>Ti</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.8 min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">320</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">51</sup>V(n,p)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">68.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.91<hsp sp="0.12"/>±<hsp sp="0.12"/>0.20</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">54</sup>Cr(n,α)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">31.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">52</sup>V</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.75 min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1434</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">52</sup>Cr(n,p)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">94.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.74<hsp sp="0.12"/>±<hsp sp="0.12"/>0.06</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">53</sup>Cr(n,d)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">55</sup>Mn(n,α)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">53</sup>V</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.62 min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1006</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">53</sup>Cr(n,p)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">97.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.82<hsp sp="0.12"/>±<hsp sp="0.12"/>0.10</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">54</sup>Cr(n,d)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">56</sup>Mn</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.58 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">846</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">56</sup>Fe(n,p)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">99.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.94<hsp sp="0.12"/>±<hsp sp="0.12"/>0.04</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1810</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">57</sup>Fe(n,d)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2113</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">57</sup>Mn</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.6 min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">122</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">57</sup>Fe(n,p)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">97.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.11<hsp sp="0.12"/>±<hsp sp="0.12"/>0.16</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">58</sup>Fe(n,d)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">53</sup>Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.51 min</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">378</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">54</sup>Fe(n,2n)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.33<hsp sp="0.12"/>±<hsp sp="0.12"/>0.56</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL4" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Results obtained for the radionuclides measured in experiments 2 and 3 (explanation as <ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>)</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <colspec colname="col7" colsep="0"/>
+                  <colspec colname="col8" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" rowsep="1">Radionuclide</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" rowsep="1">Half-life</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" rowsep="1">
+                           <italic>E</italic>
+                           <inf loc="post">γ</inf> (keV)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Reaction</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col5" nameend="col6" rowsep="1">〈<italic>E</italic>
+                           <inf loc="post">n</inf>〉=14.93 MeV</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" namest="col7" nameend="col8" rowsep="1">〈<italic>E</italic>
+                           <inf loc="post">n</inf>〉=14.37 MeV</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" rowsep="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1">Contribution (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1">C/E</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1">Contribution (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1">C/E</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">24</sup>Na</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">14.97 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1369</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">27Al(n,α)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">69.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.80<hsp sp="0.12"/>±<hsp sp="0.12"/>0.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">69.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.16<hsp sp="0.12"/>±<hsp sp="0.12"/>0.29</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">27</sup>Al(n,α)IT</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">48</sup>Sc</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.82 days</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">984</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">48</sup>Ti(n,p)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.02<hsp sp="0.12"/>±<hsp sp="0.12"/>0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.01<hsp sp="0.12"/>±<hsp sp="0.12"/>0.12</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1038</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">51</sup>V(n,α)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">94.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">94.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1312</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">51</sup>Cr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">27.7 days</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">320</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">52</sup>Cr(n,2n)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">88.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.08<hsp sp="0.12"/>±<hsp sp="0.12"/>0.07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">86.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.83<hsp sp="0.12"/>±<hsp sp="0.12"/>0.06</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">54</sup>Fe(n,α)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">54</sup>Mn</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">312 days</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">835</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">55</sup>Mn(n,2n)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">22.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.80<hsp sp="0.12"/>±<hsp sp="0.12"/>0.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">19.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.66<hsp sp="0.12"/>±<hsp sp="0.12"/>0.04</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">54</sup>Fe(n,p)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">76.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">80.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">56</sup>Fe(n,t)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">56</sup>Mn</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.58 h</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">846</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">56</sup>Fe(n,p)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">99.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.92<hsp sp="0.12"/>±<hsp sp="0.12"/>0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">99.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.96<hsp sp="0.12"/>±<hsp sp="0.12"/>0.07</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1810</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <sup loc="pre">57</sup>Fe(n,d)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2113</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL5" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Comparison of experimental and calculated results for the sums of the radioactivity</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experiment 1 (decay time 68 s)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experiment 2 (decay time 30.3 h)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experiment 3 (decay time 30.7 h)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <italic>Total activity (Bq)</italic>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Calculation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(1.08±0.05)×10<sup loc="post">5</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(3.65±0.13)×10<sup loc="post">4</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(4.84±0.16)×10<sup loc="post">3</sup>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experiment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(1.27±0.10)×10<sup loc="post">5</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(3.46±0.17)×10<sup loc="post">4</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(5.85±0.29)×10<sup loc="post">3</sup>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(C/E)<inf loc="post">A</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.85±10.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.06±0.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.83±0.04</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <vsp sp="0.5"/>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <italic>Total dose rate (mSv/h)</italic>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Calculation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">32.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.193</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experiment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">39.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.222</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(C/E)<inf loc="post">D</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.81</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.87</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Experimental investigation of radioactivity induced in the fusion power plant structural material in Eurofer and in other steels by D–T neutrons</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>K.</ce:given-name>
+                  <ce:surname>Seidel</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.A.</ce:given-name>
+                  <ce:surname>Forrest</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>H.</ce:given-name>
+                  <ce:surname>Freiesleben</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>V.D.</ce:given-name>
+                  <ce:surname>Kovalchuk</ce:surname>
+                  <ce:cross-ref refid="AFF3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.V.</ce:given-name>
+                  <ce:surname>Markovskij</ce:surname>
+                  <ce:cross-ref refid="AFF4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.V.</ce:given-name>
+                  <ce:surname>Maximov</ce:surname>
+                  <ce:cross-ref refid="AFF3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Unholzer</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Institut für Kern- und Teilchenphysik, Technische Universität Dresden, 01062 Dresden, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>EURATOM/UKAEA Fusion Association, Culham Science Centre, Abingdon OX14 3DB, UK</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Coordination Centre ‘Atomsafety’, 141300 Sergiev Posad, Moscow Region, Russia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF4">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Russian Research Centre ‘Kurchatov Institute’, 123182 Moscow, Russia</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. Address: Institut für Kern- und Teilchenphysik, Technische Universität Dresden, Pratzschwitzer Str. 15, Pirna 01796, Germany. Tel.: +49-3501 530040; fax: +49-3501 530011</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The low-activation steel Eurofer was irradiated with D–T fusion neutrons. The radioactivity following irradiation was determined several times during decay by γ-spectroscopy. The results were analysed with the European Activation System (EASY-99). Ratios of calculated-to-experimental values for individual activities and for their sums are discussed in connection with the expected low-activation behaviour of the material in fusion power plant conditions.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="idt">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>N0100</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>N0500</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>S0600</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>S1000</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">The radioactivity induced by neutrons in the materials of a fusion device represents a central topic of safety-related investigations <ce:cross-ref refid="BIB1">[1]</ce:cross-ref>. Radionuclides with a broad range of half-lives have to be included in the corresponding analyses. The short-term radioactivity (half-life ranging from the order of magnitude of minutes to weeks) is mainly of interest with respect to heat production and shut-down dose rates, whereas long-term radioactivity (half-life of the order of 10–100 years or more) determines the waste management <ce:cross-ref refid="BIB2">[2]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">The spectrum of the neutron flux in a fusion device consists of two parts, a D–T fusion peak at 14 MeV and a continuum ranging down to thermal energies. The radioactivity is mainly produced at 14 MeV neutron energy, where the number of open reaction channels is a maximum, and at thermal neutron energy, where cross-section values are large. In the present work, the radioactivity induced by 14 MeV neutrons in Eurofer was investigated.</ce:para>
+                  <ce:para view="all">The elemental composition of Eurofer-97 is presented in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="TBL1"/>. In a calculation with the European Activation System (EASY-99) <ce:cross-ref refid="BIB3">[3]</ce:cross-ref>, this material was taken to be irradiated with 14 MeV neutrons of a flux density corresponding to the power of 1.0 MW/m<ce:sup loc="post">2</ce:sup>, for a period of 1 year. The results obtained for the contact dose rate as a function of decay time after irradiation are shown in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="FIG1"/>. The same calculations, corresponding to fusion power plant conditions, were carried out for the ITER stainless steel 316 and for the low-activation steel F82H, and the results are presented in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">For Eurofer and for F82H the dose rates are close together due to similar elemental composition (<ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>). Compared to SS316, the dose rate is expected to be significantly lower for the broad range of decay times from hours up to 10<ce:sup loc="post">4</ce:sup> years. At about 200 years the hands-on limit is achieved. The long-term radioactivity of SS316, dominated by <ce:sup loc="pre">94</ce:sup>Nb and <ce:sup loc="pre">91</ce:sup>Nb, that are produced by several reactions on Mo isotopes, is about 100 times higher than those of Eurofer, where <ce:sup loc="pre">26</ce:sup>Al from <ce:sup loc="pre">27</ce:sup>Al (n,2n) contributes to 70%. Reactions on Ni isotopes lead to <ce:sup loc="pre">58</ce:sup>Co and <ce:sup loc="pre">60</ce:sup>Co that determine the higher dose rates of SS316 compared to Eurofer for decay times between ≃1 day and 50 years.</ce:para>
+                  <ce:para view="all">A comparison of experimental and calculated radioactivity induced by 14 MeV neutrons in SS316 and F82H was presented at ICFRM-9 <ce:cross-ref refid="BIB5">[5]</ce:cross-ref> for decay times between 30 h and 200 d. Agreement was found for the total activities within ±30%. Investigating Eurofer, the range of decay time was extended, especially to the short-term radioactivity.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experiment</ce:section-title>
+                  <ce:para view="all">The contribution of the different radionuclides to the total dose rate, as shown in <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="FIG2"/>, suggested carrying out at least two irradiations, a very short one to determine the radioactivity of nuclides with half-life of the order of minutes and a second one to investigate the activity of nuclides in the middle part of the figure.</ce:para>
+                  <ce:para view="all">The irradiations were performed at the high-intensity D–T neutron generator SNEG-13 <ce:cross-ref refid="BIB6">[6]</ce:cross-ref> at Sergiev Posad. The 14 MeV neutron peak had at the sample position a mean energy of 〈<ce:italic>E</ce:italic>
+                     <ce:inf loc="post">n</ce:inf>〉=14.93 MeV and a spread of Δ<ce:italic>E</ce:italic>
+                     <ce:inf loc="post">n</ce:inf>=±0.27 MeV. The incidence energy was shifted in a third experiment to (14.37±0.12) MeV to check the influence of threshold reactions on the γ-radioactivity. The parameters of the three irradiations are given in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="TBL2"/>. The applied neutron fluences were determined via activation measurement of niobium foils by the reaction <ce:sup loc="pre">93</ce:sup>Nb(n,2n)<ce:sup loc="pre">92m</ce:sup>Nb. The cross-section of this reaction was considered constant in the energy range 14–15 MeV and is equal to 464 mb with an uncertainty of 4.2%. A possible background component of thermal neutrons was checked by <ce:sup loc="pre">197</ce:sup>Au(n,γ) and by <ce:sup loc="pre">115</ce:sup>In(n,γ) activation using thin foils. No statistically significant count rate was found for the decay of <ce:sup loc="pre">198</ce:sup>Au. The very large integral capture cross-section of <ce:sup loc="pre">115</ce:sup>In resulted in count rates, which showed that the flux of low-energy neutrons at the sample position is 10<ce:sup loc="post">−5</ce:sup> of the total. The samples had dimensions of 10×10 mm and a thickness of the order of 1 mm. The γ-ray spectra were taken from the irradiated samples at the decay time <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">1</ce:inf> (<ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>) in the case of experiment no. 1 and at <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">2</ce:inf>, <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">3</ce:inf> and <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">4</ce:inf> in the experiments 2 and 3. The detection efficiency of the Ge(Li)-spectrometer used had an uncertainty of 2.5–3.0% in the energy range of measurements (60 keV–3 MeV). The γ-activities identified by energy and half-life were used to determine nuclide activities with γ-yield data from EASY.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results</ce:section-title>
+                  <ce:para view="all">The activities of <ce:sup loc="pre">28</ce:sup>Al, <ce:sup loc="pre">51</ce:sup>Ti, <ce:sup loc="pre">52</ce:sup>V, <ce:sup loc="pre">53</ce:sup>V, <ce:sup loc="pre">56</ce:sup>Mn, <ce:sup loc="pre">57</ce:sup>Mn and <ce:sup loc="pre">53</ce:sup>Fe were measured in experiment 1. They are compared in <ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>
+                     <ce:float-anchor refid="TBL3"/> with the results of EASY-99 calculations. The uncertainties of the ratios of calculated-to-experimental values (C/E) include both total experimental and calculation (cross-section as well as half-life) errors. Deviations from C/E=1.0 larger than the uncertainty range are observed in three cases only.</ce:para>
+                  <ce:para view="all">The activities of <ce:sup loc="pre">24</ce:sup>Na, <ce:sup loc="pre">48</ce:sup>Sc, <ce:sup loc="pre">51</ce:sup>Cr, <ce:sup loc="pre">54</ce:sup>Mn and <ce:sup loc="pre">56</ce:sup>Mn were investigated in the experiments 2 and 3. The results are presented in <ce:cross-ref refid="TBL4">Table 4</ce:cross-ref>
+                     <ce:float-anchor refid="TBL4"/>. A significant underestimation was found for <ce:sup loc="pre">54</ce:sup>Mn. Some energy dependence of the C/E can be stated for <ce:sup loc="pre">51</ce:sup>Cr as in previous experiments with steels <ce:cross-ref refid="BIB5">[5]</ce:cross-ref>. For the other activities, C and E agree within their uncertainties.</ce:para>
+                  <ce:para view="all">As the contributions of the several nuclides to the radioactivity of the materials are very different, the sum of the measured activities are compared for the three experiments in <ce:cross-ref refid="TBL5">Table 5</ce:cross-ref>
+                     <ce:float-anchor refid="TBL5"/> with the corresponding calculated values. The (C/E)<ce:inf loc="post">A</ce:inf> ratios for the activity deviate less than 20% from unity. Furthermore, the C/E obtained for the individual activities were applied to the dose rates calculated for these nuclides, resulting in a value for the sum of the dose rates, which represents an experimental result, but with exclusion of testing the γ-yield and absorption data. Also the (C/E)<ce:inf loc="post">D</ce:inf> for the dose rates are satisfactory.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Concluding remarks</ce:section-title>
+                  <ce:para view="all">The activities of radionuclides, which determine the short-term radioactivity produced in Eurofer by 14 MeV neutrons in fusion power plant conditions (<ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>), were measured in the irradiation experiment 1 at SNEG-13 and compared with EASY-99 calculations. The sum of the measured activities and of the dose rate, which comprises 97% of the total one expected, is underestimated by less than 20%. In a realistic power plant it is expected that nuclides with C/E values closer to unity will contribute more, meaning that this value may be considered as upper limit.</ce:para>
+                  <ce:para view="all">The activities of six radionuclides, which are dominant for the dose rate in power plant conditions up to about 10 years (<ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>), were measured in the experiments 2 and 3. The sum of the activities and of the dose rate agrees also within 20% with the results of EASY-99 calculations. Together with the C/E obtained in previous measurements <ce:cross-ref refid="BIB5">[5]</ce:cross-ref> for the activities of Co isotopes, the radioactivity calculated for reactor neutron fluxes can be validated at this level.</ce:para>
+                  <ce:para view="all">
+                     <ce:sup loc="pre">26</ce:sup>Al and <ce:sup loc="pre">53</ce:sup>Mn are dominant in <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref> in the range of the long-term radioactivity. The small Al content of the Eurofer sample was confirmed by the C/E obtained for the <ce:sup loc="pre">24</ce:sup>Na activities (<ce:cross-ref refid="TBL4">Table 4</ce:cross-ref>). Cross-section and half-life uncertainties for <ce:sup loc="pre">27</ce:sup>Al(n,2n) <ce:sup loc="pre">26</ce:sup>Al, the channel with 99.9% contribution, result in 30% uncertainty of the calculated value. <ce:sup loc="pre">53</ce:sup>Mn is produced to 98% by <ce:sup loc="pre">54</ce:sup>Fe(n,d). The uncertainty of the calculated dose rate for this channel was estimated by EASY-99 to be at 60%. Summarising it may be stated, that the low-activation behaviour of Eurofer as predicted in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref> is satisfactorily confirmed by the irradiation experiments.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">The work was supported by the European Fusion Technology Programme, by grant no. RUS-540-96 of the German Federal Ministry of Education, Science, Research and Technology and by the Ministry of Higher Education, Research and Culture of the Free State of Saxony. The authors would like to thank Drs U. von Möllendorff, C. Adelhelm, M. Pillon and B. van der Schaaf for supplying or analysing samples.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Marbach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fusion Eng. Des.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>243</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.T.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fusion Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>721</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R.A. Forrest, J.-Ch. Sublet, Culham Science Centre Reports, UKAEA FUS 407 and UKAEA FUS 409 (1998)</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>ICRP recommendations, Annals of the IRRP 21 (1990) 1</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Richter</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283–287</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1434</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>V.D. Kovalchuk et al., Russian Research Centre, Kurchatov Institute, Moscow, Report IAE-5589/8 (1992)</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
