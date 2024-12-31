@@ -8,7 +8,7 @@ import litellm
 import requests
 from litellm import completion
 from pydantic import BaseModel, Field, create_model
-from os import load_dotenv
+from dotenv import load_dotenv
 
 load_dotenv()
 
