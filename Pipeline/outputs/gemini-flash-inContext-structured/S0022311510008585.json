@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 12540,
+        "candidatesTokenCount": 95,
+        "totalTokenCount": 12635
+    },
+    "processing-time": 3.796360969543457,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "EH Ne"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "EH N2"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "AT Ne"
+            }
+        ]
+    }
+}

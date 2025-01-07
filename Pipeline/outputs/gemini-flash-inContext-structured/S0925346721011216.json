@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "promptTokenCount": 19042,
+        "candidatesTokenCount": 376,
+        "totalTokenCount": 19418
+    },
+    "processing-time": 5.848657131195068,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "CdO (200)"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "CdO (111)"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "CdO (220)"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "CAO2 (200)"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "CAO1 (111)"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "CAO2 (220)"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "CdO (200)"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "CdO (111)"
+            },
+            {
+                "placeholder": "<blank_9>",
+                "composition": "CdO (220)"
+            },
+            {
+                "placeholder": "<blank_10>",
+                "composition": "CAO2 (200)"
+            },
+            {
+                "placeholder": "<blank_11>",
+                "composition": "CAO1 (111)"
+            },
+            {
+                "placeholder": "<blank_12>",
+                "composition": "CAO3 (220)"
+            }
+        ]
+    }
+}

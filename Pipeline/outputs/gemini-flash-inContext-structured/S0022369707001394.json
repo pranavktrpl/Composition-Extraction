@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "promptTokenCount": 14763,
+        "candidatesTokenCount": 174,
+        "totalTokenCount": 14937
+    },
+    "processing-time": 7.570785999298096,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "4 x 5 nm TiSiN as-deposited"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "4 x 5 nm TiSiN after RTA 715 ∘C in N2"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "4 x 5 nm TiSiN after 800 ∘C annealing in vacuum"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "3 x 5 nm TiSiN after SiO2 deposition"
+            }
+        ]
+    }
+}

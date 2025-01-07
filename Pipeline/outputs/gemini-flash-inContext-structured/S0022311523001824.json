@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 26976,
+        "candidatesTokenCount": 122,
+        "totalTokenCount": 27098
+    },
+    "processing-time": 4.212212800979614,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Zr-2.5%Nb alloy (axial direction)"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Zr-2.5%Nb alloy (circumferential direction)"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Zr-2.5%Nb alloy (radial direction)"
+            }
+        ]
+    }
+}

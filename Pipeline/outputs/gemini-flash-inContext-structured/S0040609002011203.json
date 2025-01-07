@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "promptTokenCount": 22153,
+        "candidatesTokenCount": 147,
+        "totalTokenCount": 22300
+    },
+    "processing-time": 4.032989978790283,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "ECD-Cu at 120 MPa"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "ECD-Cu at 120 MPa"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "ECD-Cu at 120 MPa"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "ECD-Cu at 120 MPa"
+            }
+        ]
+    }
+}

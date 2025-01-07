@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 29997,
+        "candidatesTokenCount": 188,
+        "totalTokenCount": 30185
+    },
+    "processing-time": 4.623865842819214,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "PuOH (LDA)"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "PuOH (GGA)"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "PuOH (LDA+U)"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "PuOH (GGA+U)"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "PuOH (LDA)"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "PuOH (GGA)"
+            }
+        ]
+    }
+}

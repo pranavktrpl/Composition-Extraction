@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "promptTokenCount": 18076,
+        "candidatesTokenCount": 143,
+        "totalTokenCount": 18219
+    },
+    "processing-time": 3.8987648487091064,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "TiB2 coating deposited on rotating substrates"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "TiB2 coating deposited on stationary substrates"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "TiB2 coating deposited on rotating substrates"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "TiB2 coating deposited on stationary substrates"
+            }
+        ]
+    }
+}

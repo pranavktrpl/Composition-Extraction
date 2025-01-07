@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "promptTokenCount": 24790,
+        "candidatesTokenCount": 135,
+        "totalTokenCount": 24925
+    },
+    "processing-time": 3.388676881790161,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "PEO"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "PEO + 6%RFS"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "PEO16"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "PEO16 + 6%RFS"
+            }
+        ]
+    }
+}

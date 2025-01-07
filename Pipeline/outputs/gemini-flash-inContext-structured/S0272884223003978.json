@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 22035,
+        "candidatesTokenCount": 103,
+        "totalTokenCount": 22138
+    },
+    "processing-time": 3.697317123413086,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "SiC-1 h"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "SiC-3 hrs"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "SiC-5 hrs"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "promptTokenCount": 16642,
+        "candidatesTokenCount": 294,
+        "totalTokenCount": 16936
+    },
+    "processing-time": 5.034393072128296,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "MoO3 thin film at room temperature"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "MoO3 thin film at 50 °C"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "MoO3 thin film at 100 °C"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "MoO3 thin film at 150 °C"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "MoO3 thin film at 200 °C"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "MoO3 thin film at 250 °C"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "MoO3 thin film at 300 °C"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "MoO3 thin film at 350 °C"
+            }
+        ]
+    }
+}

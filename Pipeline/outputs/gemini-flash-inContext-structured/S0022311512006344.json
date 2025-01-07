@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "promptTokenCount": 23338,
+        "candidatesTokenCount": 420,
+        "totalTokenCount": 23758
+    },
+    "processing-time": 5.127403020858765,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "TP"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "TM 0.10"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "TM 0.25"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "TM 0.50"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "TC 0.10"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "TC 0.25"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "TC 0.50"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "TP"
+            },
+            {
+                "placeholder": "<blank_9>",
+                "composition": "TM 0.10"
+            },
+            {
+                "placeholder": "<blank_10>",
+                "composition": "TM 0.25"
+            },
+            {
+                "placeholder": "<blank_11>",
+                "composition": "TM 0.50"
+            },
+            {
+                "placeholder": "<blank_12>",
+                "composition": "TC 0.10"
+            },
+            {
+                "placeholder": "<blank_13>",
+                "composition": "TC 0.25"
+            },
+            {
+                "placeholder": "<blank_14>",
+                "composition": "TC 0.50"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "promptTokenCount": 25833,
+        "candidatesTokenCount": 132,
+        "totalTokenCount": 25965
+    },
+    "processing-time": 4.272114038467407,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "1.0 M LiClO4 in PC"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "PEO-WPU(PTMG) composite electrolyte with 50% (w/o) 1 M LiClO4 in PC-EC-DEC ternary solvent (x1=0.3, x2=0.5, x3=0.2)"
+            }
+        ]
+    }
+}

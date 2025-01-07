@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "promptTokenCount": 16517,
+        "candidatesTokenCount": 338,
+        "totalTokenCount": 16855
+    },
+    "processing-time": 5.051954030990601,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "SiO at 140°C"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "SiO at 200°C, 3 Å/s"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "SiO at 200°C, 9 Å/s"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "SiO at 200°C, 30 Å/s"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "SiO at 200°C, 30 Å/s"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "SiO at 200°C, 30 Å/s"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "SiO at 200°C, 30 Å/s"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "SiO at 300°C"
+            },
+            {
+                "placeholder": "<blank_9>",
+                "composition": "SiO at 370°C"
+            }
+        ]
+    }
+}

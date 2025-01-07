@@ -26,7 +26,7 @@ class CompletionRequest(BaseModel):
     model: str
     messages: List[Message]
     temperature: Optional[float] = 0.0
-    max_tokens: Optional[int] = 10000
+    max_tokens: Optional[int] = 100000
 
 
 class StructuredRequest(BaseModel):
@@ -35,8 +35,42 @@ class StructuredRequest(BaseModel):
     model: str
     text: str
     temperature: Optional[float] = 0.0
-    max_tokens: Optional[int] = 10000
+    max_tokens: Optional[int] = 100000
     schema: Dict[str, Any]  # JSON Schema for output validation
+
+
+def gemini_pro_completion(text: str) -> str:
+    """Make a direct API call to Gemini Pro."""
+    api_key = os.getenv("GEMINI_API_KEY") 
+    
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key={api_key}"
+    payload = {"contents": [{"parts": [{"text": text}]}]}
+
+    max_retries = 3
+    base_delay = 2
+
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(url, json=payload)
+            response.raise_for_status()
+            data = response.json()
+
+            # Extract text from Gemini response
+            try:
+                # return data
+                return data["candidates"][0]["content"]["parts"][0]["text"]
+            except (KeyError, IndexError) as e:
+                raise f"Error_500_INTERNAL_SERVER_ERROR; detail=Unexpected Gemini response format: {str(e)}"
+
+        except requests.RequestException as e:
+            if "429" in str(e).lower():
+                if attempt == max_retries - 1:
+                    raise "Error_429_TOO_MANY_REQUESTS"
+                delay = base_delay * (2**attempt)
+                sleep(delay)
+                continue
+
+            raise f"Error_500_INTERNAL_SERVER_ERROR; detail=Gemini API error: {str(e)}"
 
 
 def gemini_flash_completion(text: str) -> str:
@@ -57,7 +91,8 @@ def gemini_flash_completion(text: str) -> str:
 
             # Extract text from Gemini response
             try:
-                return data["candidates"][0]["content"]["parts"][0]["text"]
+                # return data
+                return data["candidates"][0]["content"]["parts"][0]["text"], data.get("usageMetadata")
             except (KeyError, IndexError) as e:
                 raise f"Error_500_INTERNAL_SERVER_ERROR; detail=Unexpected Gemini response format: {str(e)}"
 
@@ -87,15 +122,21 @@ def text_completion(in_request: CompletionRequest) -> str:
                     f"{msg.role}: {msg.content}" for msg in in_request.messages
                 )
                 return gemini_flash_completion(text)
-
-            # Use LiteLLM for other models
-            response = completion(
-                model=in_request.model,
-                messages=[msg.dict() for msg in in_request.messages],
-                temperature=in_request.temperature,
-                max_tokens=in_request.max_tokens,
-            )
-            return response.choices[0].message.content
+            elif in_request.model == "custom/gemini-pro":
+                # Combine messages into a single text
+                text = "\n".join(
+                    f"{msg.role}: {msg.content}" for msg in in_request.messages
+                )
+                return gemini_pro_completion(text)
+            else:
+                # Use LiteLLM for other models
+                response = completion(
+                    model=in_request.model,
+                    messages=[msg.dict() for msg in in_request.messages],
+                    temperature=in_request.temperature,
+                    max_tokens=in_request.max_tokens,
+                )
+                return response.choices[0].message.content
 
         except Exception as e:
             if "rate limit" in str(e).lower():
@@ -134,7 +175,14 @@ def structured_completion(in_request: StructuredRequest):
             if in_request.model == "custom/gemini-flash":
                 # Combine messages into a single text with clear JSON requirement
                 text = f"{system_msg['content']}\n\nUser request: {in_request.text}\n\nRespond with valid JSON only:"
-                response_text = gemini_flash_completion(text)
+                response_text, usageMetadata = gemini_flash_completion(text)
+                response_text = response_text.strip('```json\n')
+                response_text = response_text.strip('```')
+                
+            elif in_request.model == "custom/gemini-pro":
+                # Combine messages into a single text with clear JSON requirement
+                text = f"{system_msg['content']}\n\nUser request: {in_request.text}\n\nRespond with valid JSON only:"
+                response_text = gemini_pro_completion(text)
             else:
                 # Use LiteLLM for other models
                 response = completion(
@@ -148,7 +196,8 @@ def structured_completion(in_request: StructuredRequest):
 
             try:
                 result = json.loads(response_text)
-                return result
+                # metadata = json.loads(usageMetadata)
+                return result, usageMetadata
             except json.JSONDecodeError:
                 raise "ERROR_422_UNPROCESSABLE_ENTITY, detail=LLM response was not valid JSON"
 

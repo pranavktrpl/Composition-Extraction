@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 17736,
+        "candidatesTokenCount": 168,
+        "totalTokenCount": 17904
+    },
+    "processing-time": 4.135149240493774,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "80 Sb2O3 – 10 CdCl2 – 10 SrCl2 at 633 nm"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "80 Sb2O3 – 10 CdCl2 – 10 SrCl2 at 1311 nm"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "80 Sb2O3 – 10 CdCl2 – 10 SrCl2 at 1551 nm"
+            }
+        ]
+    }
+}

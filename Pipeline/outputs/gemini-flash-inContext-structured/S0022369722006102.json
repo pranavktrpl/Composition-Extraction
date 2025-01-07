@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 25012,
+        "candidatesTokenCount": 278,
+        "totalTokenCount": 25290
+    },
+    "processing-time": 5.231878757476807,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "ThNb2H12 Cm(8) at 0 GPa"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "ThNb2H12 P6/mmm(191) at 15 GPa"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "ThNb2H12 P6/mmm(191) at 25 GPa"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "ThNb2H12 P6/mmm(191) at 50 GPa"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "ThNb2H12 P6/m(175) at 75 GPa"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "ThNb2H12 P6/m(175) at 100 GPa"
+            }
+        ]
+    }
+}

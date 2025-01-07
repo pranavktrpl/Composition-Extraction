@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "promptTokenCount": 20297,
+        "candidatesTokenCount": 301,
+        "totalTokenCount": 20598
+    },
+    "processing-time": 5.227030992507935,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Flake graphite at 5 K/min"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Flake graphite at 10 K/min"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Flake graphite at 15 K/min"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Flake graphite at 20 K/min"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "Cr3C2/C composite powders at 5 K/min"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "Cr3C2/C composite powders at 10 K/min"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "Cr3C2/C composite powders at 15 K/min"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "Cr3C2/C composite powders at 20 K/min"
+            }
+        ]
+    }
+}

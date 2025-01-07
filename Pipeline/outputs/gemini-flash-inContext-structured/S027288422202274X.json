@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "promptTokenCount": 17444,
+        "candidatesTokenCount": 219,
+        "totalTokenCount": 17663
+    },
+    "processing-time": 4.476851940155029,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Ba12SbNb9O36 at 1200 °C"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Ba12SbNb9O36 at 1225 °C"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Ba12SbNb9O36 at 1250 °C"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Ba12SbNb9O36 at 1275 °C"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "Ba12SbNb9O36 at 1300 °C"
+            }
+        ]
+    }
+}

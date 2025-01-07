@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "promptTokenCount": 20397,
+        "candidatesTokenCount": 228,
+        "totalTokenCount": 20625
+    },
+    "processing-time": 4.68972110748291,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Co0.7Zn0.3Fe2O4"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Co0.7Zn0.3Ho0.025Fe1.975O4"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Co0.7Zn0.3Ho0.05Fe1.95O4"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Co0.7Zn0.3Ho0.075Fe1.925O4"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "Co0.7Zn0.3Ho0.1Fe1.9O4"
+            }
+        ]
+    }
+}

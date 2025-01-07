@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "promptTokenCount": 22579,
+        "candidatesTokenCount": 269,
+        "totalTokenCount": 22848
+    },
+    "processing-time": 5.069282054901123,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Amorphous Al2O3 at 50°C"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Amorphous Al2O3 at 50°C"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Amorphous Al2O3 at 200°C"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Amorphous Al2O3 at 200°C"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "Amorphous Al2O3 at 300°C"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "Amorphous Al2O3 at 300°C"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "Amorphous Al2O3 at 300°C"
+            }
+        ]
+    }
+}

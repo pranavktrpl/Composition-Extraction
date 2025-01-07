@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 44433,
+        "candidatesTokenCount": 122,
+        "totalTokenCount": 44555
+    },
+    "processing-time": 5.441857099533081,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "EUROFER"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "1% MgAl2O4 1300degC/2h+FC+T"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "as-HIPped 1% Y2O3"
+            }
+        ]
+    }
+}

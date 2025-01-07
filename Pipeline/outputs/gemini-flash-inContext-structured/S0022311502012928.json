@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 13564,
+        "candidatesTokenCount": 108,
+        "totalTokenCount": 13672
+    },
+    "processing-time": 3.5932750701904297,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "SS316 (AISI 316 LN ITER grade)"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "F82H"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Eurofer"
+            }
+        ]
+    }
+}

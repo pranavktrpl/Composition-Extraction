@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "promptTokenCount": 36053,
+        "candidatesTokenCount": 354,
+        "totalTokenCount": 36407
+    },
+    "processing-time": 7.690288782119751,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "BaThO3 at 0 GPa"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "BaThO3 at 20 GPa"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "BaThO3 at 40 GPa"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "BaThO3 at 60 GPa"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "BaThO3 at 80 GPa"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "BaThO3 at 100 GPa"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "BaThO3 at 110 GPa"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "BaThO3 at 112 GPa"
+            },
+            {
+                "placeholder": "<blank_9>",
+                "composition": "BaThO3 at 113 GPa"
+            },
+            {
+                "placeholder": "<blank_10>",
+                "composition": "BaThO3 at 113 GPa"
+            }
+        ]
+    }
+}

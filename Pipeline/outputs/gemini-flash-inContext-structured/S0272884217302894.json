@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "promptTokenCount": 15050,
+        "candidatesTokenCount": 281,
+        "totalTokenCount": 15331
+    },
+    "processing-time": 4.921206951141357,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "DuPont 951"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Ferro A6M"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Heraeus CT700"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "CaO-B2O3-SiO2 glass/Al2O3 (50wt% glass)"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "DuPont 951"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "Ferro A6M"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "Heraeus CT700"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "CaO-B2O3-SiO2 glass/Al2O3 (50wt% glass)"
+            }
+        ]
+    }
+}

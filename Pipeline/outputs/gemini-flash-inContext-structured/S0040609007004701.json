@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "promptTokenCount": 15438,
+        "candidatesTokenCount": 244,
+        "totalTokenCount": 15682
+    },
+    "processing-time": 4.505236864089966,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "ITO layers at 100 °C"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "ITO layers at 150 °C"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "ITO layers at 300 °C"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "ITO layers at 450 °C"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "ITO layers at 550 °C"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "ITO layers at 750 °C"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "ITO layers at 1000 °C"
+            }
+        ]
+    }
+}

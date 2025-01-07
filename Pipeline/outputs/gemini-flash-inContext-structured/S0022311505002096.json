@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "promptTokenCount": 14473,
+        "candidatesTokenCount": 159,
+        "totalTokenCount": 14632
+    },
+    "processing-time": 3.893500804901123,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Molten UCl3 at 1123 K"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Molten UCl3 at 1200 K"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Molten UCl3 at 1300 K"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Molten UCl3 at 1400 K"
+            }
+        ]
+    }
+}
