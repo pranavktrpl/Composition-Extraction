@@ -14,7 +14,7 @@ def process_json_files(input_dir):
                 data = json.load(file)
 
                 # Extract relevant fields
-                total_token_count = data.get("metadata", {}).get("totalTokenCount", 0)
+                total_token_count = data.get("metadata", {}).get("promptTokenCount", 0)
                 processing_time = data.get("processing-time", 0)
 
                 total_token_counts.append(total_token_count)
