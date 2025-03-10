@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "promptTokenCount": 103873,
+        "candidatesTokenCount": 135,
+        "totalTokenCount": 104008
+    },
+    "processing-time": 33.15962076187134,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "CaCu3Ti4.1O12"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "CaCu3Zn0.05Ti4.1O12"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "CaCu3Ti4.1O12"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "CaCu3Zn0.05Ti4.1O12"
+            }
+        ]
+    }
+}

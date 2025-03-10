@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 77517,
+        "candidatesTokenCount": 223,
+        "totalTokenCount": 77740
+    },
+    "processing-time": 5.013480186462402,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "S, Br, C6H5OMe (p)"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "S, OMe, C6H4Br(p)"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "S, Cl, C6H4Br(p)"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "O, Cl, C6H4NO2(p)"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "O, Me, C6H4Cl(p)"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "O, Me, a-Naphtyl"
+            }
+        ]
+    }
+}

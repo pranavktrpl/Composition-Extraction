@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "promptTokenCount": 67783,
+        "candidatesTokenCount": 135,
+        "totalTokenCount": 67918
+    },
+    "processing-time": 18.18826723098755,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Ba0.67Sr0.33TiO3"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Ba0.67Sr0.33TiO3"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Ba0.67Sr0.33TiO3"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Ba0.67Sr0.33TiO3"
+            }
+        ]
+    }
+}

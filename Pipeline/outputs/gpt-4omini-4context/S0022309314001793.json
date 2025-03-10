@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 84019,
+        "candidatesTokenCount": 311,
+        "totalTokenCount": 84330
+    },
+    "processing-time": 12.20678973197937,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "20Li2O–20PbO–45B2O3–15P2O5: 0Cr2O3"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "20Li2O–20PbO–45B2O3–14.9P2O5: 0.1Cr2O3"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "20Li2O–20PbO–45B2O3–14.7P2O5: 0.3Cr2O3"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "20Li2O–20PbO–45B2O3–14.5P2O5: 0.5Cr2O3"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "20Li2O–20PbO–45B2O3–14.2P2O5: 0.8Cr2O3"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "20Li2O–20PbO–45B2O3–14.0P2O5: 1.0Cr2O3"
+            }
+        ]
+    }
+}

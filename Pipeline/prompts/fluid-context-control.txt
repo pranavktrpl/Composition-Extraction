@@ -1,0 +1,61 @@
+You are a material scientist assisting researchers in extracting and structuring scientific data from research papers. 
+
+Given:
+1. A research paper text (within `<context> ... </context>`).
+2. An incomplete table (within `<incomplete_table> ... </incomplete_table>`) containing placeholders such as `<blank_1>`, `<blank_2>`, etc. for the missing compositions.
+
+Your Task:
+1. Read the research paper carefully and identify the relevant "scientific chemical formulas" that correspond to each placeholder in the incomplete table.
+2. Fill each placeholder (`<blank_1>`, `<blank_2>`, etc.) with the "exact" formula from the paper, "preferring scientific notation" (e.g., `"TiB2–20vol%B4C"`, `"80 Sb2O3–10 SrCl2–10 CdCl2"`), and "avoiding" any common/trivial names (e.g., “tungsten carbide” should appear in chemical form if possible).
+3. "Ensure" that the composition you provide is complete, accurate, and found explicitly in the paper:
+  - Do not guess or supply partial/incomplete data.
+  - If the paper does not contain direct information for a placeholder, return NULL.
+4. Do NOT use external knowledge beyond the content of the paper.
+
+Output Requirements:
+1. Return your answer as a valid JSON object containing a single key "Compositions" whose value is an array of objects.
+2. Each object in the array must have two keys: "placeholder" (e.g., "<blank_1>") and "composition" (the corresponding scientific chemical formula).
+3. No additional commentary should appear outside the JSON. Output only the JSON object with the “Compositions” array.
+4. "Output Structure" the final answer as follows:
+'''
+{
+      "Compositions": [
+         {
+            "placeholder": "<blank_1>",
+            "composition": "..."
+         },
+         {
+            "placeholder": "<blank_2>",
+            "composition": "..."
+         },
+         ...
+      ]
+}
+'''
+
+Detailed Instructions:
+1. Match Placeholders to Paper: For each placeholder in the incomplete table, look for sample names, IDs, or context from the paper that aligns with the placeholder’s row.
+2. Preserve Scientific Formula: Write each formula in standard chemical or stoichiometric form (e.g., TiB2–20vol%B4C, 80 Sb2O3–10 SrCl2–10 CdCl2). Avoid using the compound’s trivial or trade names.
+3. No Guesses: Do not fabricate or infer data not in the text. If the paper does not clearly give a composition, you may omit or label it as "composition": "not found".
+4. Output Only JSON: The final output must be the JSON object with the “Compositions” array. Do not add text outside it.
+
+Instructions Recap:
+1. Read the research paper enclosed by <context> ... </context>.
+2. Examine the incomplete table enclosed by <incomplete_table> ... </incomplete_table>.
+3. Extract the exact scientific chemical formulas for each placeholder as they appear in the paper.
+4. Return the results strictly in the JSON format shown above.
+
+Example Processing:
+<examples>
+{{incontextExamples}}
+</examples>
+
+Here is the Research Paper for context:
+<context>
+{{Research Paper}}
+</context>
+
+Here is the incomplete table
+<incomplete_table>
+{{Table}}
+</incomplete_table>

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "promptTokenCount": 71925,
+        "candidatesTokenCount": 183,
+        "totalTokenCount": 72108
+    },
+    "processing-time": 7.333560228347778,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Ti:N:Si=0.9:1.1:0.14"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Ti:N:Si=0.9:1.1:0.14"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Ti:N:Si=0.9:1.1:0.14"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Ti:N:Si=0.9:1.1:0.14"
+            }
+        ]
+    }
+}

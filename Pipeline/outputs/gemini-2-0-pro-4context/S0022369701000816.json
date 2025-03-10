@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "promptTokenCount": 86323,
+        "candidatesTokenCount": 154,
+        "totalTokenCount": 86477
+    },
+    "processing-time": 4.708127021789551,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "[(CH3)4P]2CoCl4"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "[(CH3)4Sb]2CuCl4"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "[(CH3)4Sb]2ZnBr4"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "[(CH3)4P]2CoCl4"
+            }
+        ]
+    }
+}

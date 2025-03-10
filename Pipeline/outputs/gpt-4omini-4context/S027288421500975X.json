@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "promptTokenCount": 87952,
+        "candidatesTokenCount": 222,
+        "totalTokenCount": 88174
+    },
+    "processing-time": 17.571099758148193,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Ti01-1"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Ti01-2"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Zn05-1"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Zn05-2"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "Zn10-1"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "Zn10-2"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "Zn05-1"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "Zn10-2"
+            },
+            {
+                "placeholder": "<blank_9>",
+                "composition": "Zn10-1"
+            }
+        ]
+    }
+}

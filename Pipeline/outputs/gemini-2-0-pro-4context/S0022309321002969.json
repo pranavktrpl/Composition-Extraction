@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "promptTokenCount": 93257,
+        "candidatesTokenCount": 825,
+        "totalTokenCount": 94082
+    },
+    "processing-time": 6.706228971481323,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "10 SrO + 9.9Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 0.1 Er2O3"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "10 SrO + 9.5Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 0.5 Er2O3"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "10 SrO + 9.0Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 1.0 Er2O3"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "10 SrO + 8.5Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 1.5 Er2O3"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "10 SrO + 8.0Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 2.0 Er2O3"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "10 SrO + 7.5Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 2.5 Er2O3"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "10 SrO + 9.9Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 0.1 Er2O3"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "10 SrO + 9.5Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 0.5 Er2O3"
+            },
+            {
+                "placeholder": "<blank_9>",
+                "composition": "10 SrO + 9.0Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 1.0 Er2O3"
+            },
+            {
+                "placeholder": "<blank_10>",
+                "composition": "10 SrO + 8.5Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 1.5 Er2O3"
+            },
+            {
+                "placeholder": "<blank_11>",
+                "composition": "10 SrO + 8.0Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 2.0 Er2O3"
+            },
+            {
+                "placeholder": "<blank_12>",
+                "composition": "10 SrO + 7.5Al2O3 + 60 B2O3 + 10 BaCl2 + 10 TeO2 + 2.5 Er2O3"
+            }
+        ]
+    }
+}

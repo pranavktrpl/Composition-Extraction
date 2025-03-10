@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "promptTokenCount": 92346,
+        "candidatesTokenCount": 332,
+        "totalTokenCount": 92678
+    },
+    "processing-time": 5.526355743408203,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "50TeO2–50V2O5"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "50TeO2–45V2O5–5K2O"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "50TeO2–40V2O5–10K2O"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "50TeO2–35V2O5–15K2O"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "50TeO2–50V2O5"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "50TeO2–45V2O5–5K2O"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "50TeO2–40V2O5–10K2O"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "50TeO2–35V2O5–15K2O"
+            }
+        ]
+    }
+}

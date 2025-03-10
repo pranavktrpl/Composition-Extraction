@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 65928,
+        "candidatesTokenCount": 198,
+        "totalTokenCount": 66126
+    },
+    "processing-time": 7.637869119644165,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "MWNT-15wt%C"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "MWNT-20wt%C"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "MWNT-30wt%C"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "MWNT-20wt%C"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "MWNT-25wt%C"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "C"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 76880,
+        "candidatesTokenCount": 234,
+        "totalTokenCount": 77114
+    },
+    "processing-time": 7.151960849761963,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "SiCf/SiC"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "SiCf/SiC-3wt%Ti3SiC2"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "SiCf/SiC-6wt%Ti3SiC2"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "SiCf/SiC-9wt%Ti3SiC2"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "SiCf/SiC-12wt%Ti3SiC2"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "SiCf/SiC-15wt%Ti3SiC2"
+            }
+        ]
+    }
+}

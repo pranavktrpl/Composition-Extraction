@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "promptTokenCount": 68922,
+        "candidatesTokenCount": 177,
+        "totalTokenCount": 69099
+    },
+    "processing-time": 12.969743251800537,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Fe"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "β-Sn"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Se"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Cu"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "Co"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "Au"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "Ar"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "Pb"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+You are a material scientist assisting researchers in extracting and structuring scientific data from research papers. I have extracted some properties from the tables in the research paper, but unable to extract the corresponding compositions. Your task is to read the provided research paper and use it to extract the missing compositions and complete the table. 
+
+Instructions:
+1. Input Format: You will receive:
+   - A research paper text.
+   - An incomplete table with placeholders like `<blank_1>`, `<blank_2>`, etc. for the missing compositions.
+2. Task: Identify and extract the relevant compositions from the research paper to fill in the placeholders in the table. Ensure that:
+   - The extracted information is precise and relevant to the placeholders in the table.
+   - The table is filled based on the context provided in the research paper and the incomplete table.
+3. Output Format: Return the list of blanks and their corresponding compositions.
+
+Example Input:
+Research Paper:
+```
+Research Paper provided for context
+```
+
+Incomplete Table:
+```
+      Article PII Table No. ID                Proxy_ID Composition                        Property      Journal_Name
+S0167577X12003023       [1]    S0167577X12003023_0_R_2   <blank_1> ('Poisson ratio', 0.2438, None) Materials_Letters
+S0167577X12003023       [1]    S0167577X12003023_0_R_3   <blank_2> ('Poisson ratio', 0.2604, None) Materials_Letters
+```
+
+Example Output:
+```
+<blank_1> = CA/PVP-Amoxi/CA at pH 7.2
+<blank_2> = CA/PVP-Amoxi/CA at pH 3.0
+```
+
+Here is the Research Paper for context:
+<context>
+{{Research Paper}}
+</context>
+
+Here is the incomplete table
+<incomplete_table>
+{{Table}}
+</incomplete_table>

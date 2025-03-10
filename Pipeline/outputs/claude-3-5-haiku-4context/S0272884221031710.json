@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 94047,
+        "candidatesTokenCount": 263,
+        "totalTokenCount": 94310
+    },
+    "processing-time": 17.33053493499756,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "1Y6Ce–ZrO2 (NaCl system)"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "1Y6Ce–ZrO2 (NaCl + KCl system)"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "1Y6Ce–ZrO2 (NaCl system)"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "1Y6Ce–ZrO2 (NaCl + KCl system)"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "1Y6Ce–ZrO2 (NaCl system)"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "1Y6Ce–ZrO2 (NaCl + KCl system)"
+            }
+        ]
+    }
+}

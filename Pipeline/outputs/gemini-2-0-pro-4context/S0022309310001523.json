@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "promptTokenCount": 75552,
+        "candidatesTokenCount": 147,
+        "totalTokenCount": 75699
+    },
+    "processing-time": 4.501004219055176,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Sb"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Sb"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Sb2O4"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "Sb2O4"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "Sb2O4"
+            }
+        ]
+    }
+}

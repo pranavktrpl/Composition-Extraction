@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 87299,
+        "candidatesTokenCount": 119,
+        "totalTokenCount": 87418
+    },
+    "processing-time": 15.860769033432007,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "SiC (1h ball-milled)"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "SiC (3h ball-milled)"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "SiC (5h ball-milled)"
+            }
+        ]
+    }
+}

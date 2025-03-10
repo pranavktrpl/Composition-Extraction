@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 101595,
+        "candidatesTokenCount": 102,
+        "totalTokenCount": 101697
+    },
+    "processing-time": 3.7214090824127197,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "EUROFER"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "1% MgAl2O4"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "1% Y2O3"
+            }
+        ]
+    }
+}

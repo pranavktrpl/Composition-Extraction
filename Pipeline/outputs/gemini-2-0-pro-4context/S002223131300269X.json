@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "promptTokenCount": 80047,
+        "candidatesTokenCount": 214,
+        "totalTokenCount": 80261
+    },
+    "processing-time": 4.743124961853027,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "ZnO"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "MgO"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "ZnO"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "MgO"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "ZnO"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "MgO"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "ZnO"
+            },
+            {
+                "placeholder": "<blank_8>",
+                "composition": "MgO"
+            }
+        ]
+    }
+}

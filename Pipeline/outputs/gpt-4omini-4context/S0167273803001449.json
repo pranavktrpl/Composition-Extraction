@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 87626,
+        "candidatesTokenCount": 226,
+        "totalTokenCount": 87852
+    },
+    "processing-time": 27.403156995773315,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "8 mol% Y2O3 stabilized ZrO2"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "2 mol% TiO2-doped Y2O3 stabilized ZrO2"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "4 mol% TiO2-doped Y2O3 stabilized ZrO2"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "6 mol% TiO2-doped Y2O3 stabilized ZrO2"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "8 mol% TiO2-doped Y2O3 stabilized ZrO2"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "10 mol% TiO2-doped Y2O3 stabilized ZrO2"
+            }
+        ]
+    }
+}

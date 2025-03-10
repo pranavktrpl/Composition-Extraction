@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 70767,
+        "candidatesTokenCount": 91,
+        "totalTokenCount": 70858
+    },
+    "processing-time": 6.493600845336914,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "W"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Ni"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Co"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 74301,
+        "candidatesTokenCount": 225,
+        "totalTokenCount": 74526
+    },
+    "processing-time": 7.736505746841431,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "SiCf/SiC composites with 0wt% Ti3SiC2"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "SiCf/SiC composites with 3wt% Ti3SiC2"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "SiCf/SiC composites with 6wt% Ti3SiC2"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "SiCf/SiC composites with 9wt% Ti3SiC2"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "SiCf/SiC composites with 12wt% Ti3SiC2"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "SiCf/SiC composites with 15wt% Ti3SiC2"
+            }
+        ]
+    }
+}

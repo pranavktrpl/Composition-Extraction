@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 72429,
+        "candidatesTokenCount": 168,
+        "totalTokenCount": 72597
+    },
+    "processing-time": 4.498694896697998,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "PET"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "PES"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "AryLite(tm)"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "PET"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "PES"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "AryLite(tm)"
+            }
+        ]
+    }
+}

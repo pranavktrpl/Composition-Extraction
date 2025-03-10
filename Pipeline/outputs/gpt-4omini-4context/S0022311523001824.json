@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "promptTokenCount": 81893,
+        "candidatesTokenCount": 81,
+        "totalTokenCount": 81974
+    },
+    "processing-time": 11.841280937194824,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Beta-Zr"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Beta-Zr"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "Alpha-Zr"
+            }
+        ]
+    }
+}

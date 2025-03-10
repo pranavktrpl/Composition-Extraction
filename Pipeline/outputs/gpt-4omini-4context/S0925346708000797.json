@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 73660,
+        "candidatesTokenCount": 174,
+        "totalTokenCount": 73834
+    },
+    "processing-time": 21.9388108253479,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "3%Yb:Lu2O3"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "25%Yb:Lu2O3"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "19%Yb:Lu2O3"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "10%Yb:LSB"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "8%Yb:LSB"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "Yb:YAG"
+            }
+        ]
+    }
+}

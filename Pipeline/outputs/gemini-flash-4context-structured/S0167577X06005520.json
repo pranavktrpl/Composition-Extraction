@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "promptTokenCount": 74332,
+        "candidatesTokenCount": 91,
+        "totalTokenCount": 74423
+    },
+    "processing-time": 6.62231969833374,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "Ca0.08Gd0.92VO4"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "Nd:Ca0.08Gd0.92VO4"
+            }
+        ]
+    }
+}

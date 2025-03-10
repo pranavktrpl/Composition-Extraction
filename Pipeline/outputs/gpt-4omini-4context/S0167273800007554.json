@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "promptTokenCount": 79923,
+        "candidatesTokenCount": 73,
+        "totalTokenCount": 79996
+    },
+    "processing-time": 18.26612615585327,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "1.0 M LiClO4–PC"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "1.0 M LiClO4–EC"
+            }
+        ]
+    }
+}

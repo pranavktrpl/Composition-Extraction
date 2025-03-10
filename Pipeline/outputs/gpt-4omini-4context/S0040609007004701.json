@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "promptTokenCount": 70044,
+        "candidatesTokenCount": 170,
+        "totalTokenCount": 70214
+    },
+    "processing-time": 17.567532062530518,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "100 °C"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "150 °C"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "300 °C"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "450 °C"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "550 °C"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "750 °C"
+            },
+            {
+                "placeholder": "<blank_7>",
+                "composition": "1000 °C"
+            }
+        ]
+    }
+}

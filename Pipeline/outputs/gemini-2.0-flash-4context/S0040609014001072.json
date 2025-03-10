@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "promptTokenCount": 77517,
+        "candidatesTokenCount": 169,
+        "totalTokenCount": 77686
+    },
+    "processing-time": 7.342170238494873,
+    "response": {
+        "Compositions": [
+            {
+                "placeholder": "<blank_1>",
+                "composition": "L1"
+            },
+            {
+                "placeholder": "<blank_2>",
+                "composition": "L2"
+            },
+            {
+                "placeholder": "<blank_3>",
+                "composition": "L3"
+            },
+            {
+                "placeholder": "<blank_4>",
+                "composition": "L4"
+            },
+            {
+                "placeholder": "<blank_5>",
+                "composition": "L5"
+            },
+            {
+                "placeholder": "<blank_6>",
+                "composition": "L6"
+            }
+        ]
+    }
+}
