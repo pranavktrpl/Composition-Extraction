@@ -1,18 +1,18 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "W"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "Ni"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "Co"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('W', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('Ni', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('Co', 1.0, 'at')]"
+      }
+    ]
+  }
 }

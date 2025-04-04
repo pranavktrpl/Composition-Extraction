@@ -1,62 +1,62 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "TiB2\u201320vol%B4C"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "TiB2\u201380vol%B4C"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "WC-Co"
-            },
-            {
-                "placeholder": "<blank_4>",
-                "composition": "TiB2\u201320vol%B4C"
-            },
-            {
-                "placeholder": "<blank_5>",
-                "composition": "B4C\u20137vol%TiB2"
-            },
-            {
-                "placeholder": "<blank_6>",
-                "composition": "WC-10vol%Co"
-            },
-            {
-                "placeholder": "<blank_7>",
-                "composition": "TiB2\u201320vol%B4C"
-            },
-            {
-                "placeholder": "<blank_8>",
-                "composition": "TiB2\u201380vol%B4C"
-            },
-            {
-                "placeholder": "<blank_9>",
-                "composition": "WC-Co"
-            },
-            {
-                "placeholder": "<blank_10>",
-                "composition": "TiB2\u201320vol%B4C"
-            },
-            {
-                "placeholder": "<blank_11>",
-                "composition": "B4C\u20137vol%TiB2"
-            },
-            {
-                "placeholder": "<blank_12>",
-                "composition": "WC-10vol%Co"
-            },
-            {
-                "placeholder": "<blank_13>",
-                "composition": "TiB2\u201320vol%B4C"
-            },
-            {
-                "placeholder": "<blank_14>",
-                "composition": "TiB2\u201380vol%B4C"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('TiB2', 0.8, 'vol'), ('B4C', 0.2, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('TiB2', 0.2, 'vol'), ('B4C', 0.8, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('WC', , 'vol'), ('Co', 0.8, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('TiB2', 0.8, 'vol'), ('B4C', 0.2, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_5>",
+        "composition": "[('B4C', 0.93, 'vol'), ('TiB2', 0.07, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_6>",
+        "composition": "[('WC', 0.9, 'vol'), ('Co', 0.1, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_7>",
+        "composition": "[('TiB2', 0.8, 'vol'), ('B4C', 0.2, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_8>",
+        "composition": "[('TiB2', 0.2, 'vol'), ('B4C', 0.8, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_9>",
+        "composition": "[('WC', , 'vol'), ('Co', 0.8, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_10>",
+        "composition": "[('TiB2', 0.8, 'vol'), ('B4C', 0.2, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_11>",
+        "composition": "[('B4C', 0.93, 'vol'), ('TiB2', 0.07, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_12>",
+        "composition": "[('WC', 0.9, 'vol'), ('Co', 0.1, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_13>",
+        "composition": "[('TiB2', 0.8, 'vol'), ('B4C', 0.2, 'vol')]"
+      },
+      {
+        "placeholder": "<blank_14>",
+        "composition": "[('TiB2', 0.2, 'vol'), ('B4C', 0.8, 'vol')]"
+      }
+    ]
+  }
 }

@@ -178,7 +178,7 @@ def simple_prompt(model: str, temperature: float, prompt: str):
         model=model,
         messages=[{"role": "user", "content": prompt}],
         temperature=temperature,
-        max_tokens=4096
+        max_tokens=10000
     ))
 
 

@@ -1,0 +1,30 @@
+{
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('Yb', 0.03, 'frac'), ('Lu2O3', 0.97, 'frac')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('Yb', 0.25, 'frac'), ('Lu2O3', 0.75, 'frac')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('Yb', 0.19, 'frac'), ('Lu2O3', 0.81, 'frac')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('Yb', 0.1, 'frac'), ('LSB', 0.9, 'frac')]"
+      },
+      {
+        "placeholder": "<blank_5>",
+        "composition": "[('Yb', 0.08, 'frac'), ('LSB', 0.92, 'frac')]"
+      },
+      {
+        "placeholder": "<blank_6>",
+        "composition": "[('Yb', 1.0, 'frac'), ('YAG', 0.0, 'frac')]"
+      }
+    ]
+  }
+}

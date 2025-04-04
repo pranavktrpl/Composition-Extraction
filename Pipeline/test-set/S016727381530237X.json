@@ -3,87 +3,87 @@
         "Compositions": [
             {
                 "placeholder": "<blank_1>",
-                "composition": "Li1.5Al0.5Ge1.5(PO4)3"
+                "composition": "[('Li1.5Al0.5Ge1.5(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_2>",
-                "composition": "Li1.5Al0.4Cr0.1Ge1.5(PO4)3"
+                "composition": "[('Li1.5Al0.4Cr0.1Ge1.5(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_3>",
-                "composition": "Li1.4Cr0.4Ge1.6(PO4)3"
+                "composition": "[('Li1.4Cr0.4Ge1.6(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_4>",
-                "composition": "Li1.3Cr0.3Ge1.7(PO4)3"
+                "composition": "[('Li1.3Cr0.3Ge1.7(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_5>",
-                "composition": "Li1.5Al0.5Ge1.5(PO4)3"
+                "composition": "[('Li1.5Al0.5Ge1.5(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_6>",
-                "composition": "Li1.5Al0.5Ge1.5(PO4)3+0.05wt%B2O3"
+                "composition": "[('Li1.5Al0.5Ge1.5(PO4)3', 0.9995, 'wt'), ('B2O3', 0.0005, 'wt')]"
             },
             {
                 "placeholder": "<blank_7>",
-                "composition": "Li1.4Cr0.4Ti1.6(PO4)3"
+                "composition": "[('Li1.4Cr0.4Ti1.6(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_8>",
-                "composition": "Li1.4Al0.3Cr0.1Ti1.6(PO4)3"
+                "composition": "[('Li1.4Al0.3Cr0.1Ti1.6(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_9>",
-                "composition": "Li1.4Al0.4Ti1.6(PO4)3"
+                "composition": "[('Li1.4Al0.4Ti1.6(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_10>",
-                "composition": "LiTi2(PO4)3+5mol%SiO2"
+                "composition": "[('LiTi2(PO4)3', 0.95, 'mol'), ('SiO2', 0.05, 'mol')]"
             },
             {
                 "placeholder": "<blank_11>",
-                "composition": "100partLi1.5Cr0.5Ti1.5(PO4)3+5partSiO2"
+                "composition": "[('Li1.5Cr0.5Ti1.5(PO4)3', 0.9524, 'wt'), ('SiO2', 0.0476, 'wt')]"
             },
             {
                 "placeholder": "<blank_12>",
-                "composition": "2[Li1.8Al0.4Ti1.6Si0.4P2.6O12]AlPO4"
+                "composition": "[('2[Li1.8Al0.4Ti1.6Si0.4P2.6O12]AlPO4', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_13>",
-                "composition": "Li1.5Al0.5Ge1.5(PO4)3"
+                "composition": "[('Li1.5Al0.5Ge1.5(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_14>",
-                "composition": "Li1.5Al0.4Cr0.1Ge1.5(PO4)3"
+                "composition": "[('Li1.5Al0.4Cr0.1Ge1.5(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_15>",
-                "composition": "Li1.4Cr0.4Ge1.6(PO4)3"
+                "composition": "[('Li1.4Cr0.4Ge1.6(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_16>",
-                "composition": "Li1.3Cr0.3Ge1.7(PO4)3"
+                "composition": "[('Li1.3Cr0.3Ge1.7(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_17>",
-                "composition": "Li1.5Al0.5Ge1.5(PO4)3"
+                "composition": "[('Li1.5Al0.5Ge1.5(PO4)3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_18>",
-                "composition": "Li1.5Al0.5Ge1.5(PO4)3+0.05wt%B2O3"
+                "composition": "[('Li1.5Al0.5Ge1.5(PO4)3', 0.9995, 'wt'), ('B2O3', 0.0005, 'wt')]"
             },
             {
                 "placeholder": "<blank_19>",
-                "composition": "LiTi2(PO4)3+5mol%SiO2"
+                "composition": "[('LiTi2(PO4)3', 0.95, 'mol'), ('SiO2', 0.05, 'mol')]"
             },
             {
                 "placeholder": "<blank_20>",
-                "composition": "100partLi1.5Cr0.5Ti1.5(PO4)3+5partSiO2"
+                "composition": "[('Li1.5Cr0.5Ti1.5(PO4)3', 0.9524, 'wt'), ('SiO2', 0.0476, 'wt')]"
             },
             {
                 "placeholder": "<blank_21>",
-                "composition": "2[Li1.8Al0.4Ti1.6Si0.4P2.6O12]AlPO4"
+                "composition": "[('2[Li1.8Al0.4Ti1.6Si0.4P2.6O12]AlPO4', 1.0, 'mol')]"
             }
         ]
     }

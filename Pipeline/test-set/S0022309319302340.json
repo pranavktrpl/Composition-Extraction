@@ -3,23 +3,23 @@
         "Compositions": [
             {
                 "placeholder": "<blank_1>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.9Sm2O3\u20130.1B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.549, 'mol'), ('B2O3', 0.001, 'mol')]"
             },
             {
                 "placeholder": "<blank_2>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.7Sm2O3\u20130.3B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.547, 'mol'), ('B2O3', 0.003, 'mol')]"
             },
             {
                 "placeholder": "<blank_3>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.5Sm2O3\u20130.5B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.545, 'mol'), ('B2O3', 0.005, 'mol')]"
             },
             {
                 "placeholder": "<blank_4>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.3Sm2O3\u20130.7B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.543, 'mol'), ('B2O3', 0.007, 'mol')]"
             },
             {
                 "placeholder": "<blank_5>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201353.9Sm2O3\u20131.1B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.539, 'mol'), ('B2O3', 0.011, 'mol')]"
             },
             {
                 "placeholder": "<blank_6>",
@@ -27,74 +27,26 @@
             },
             {
                 "placeholder": "<blank_7>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.9Sm2O3\u20130.1B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.549, 'mol'), ('B2O3', 0.001, 'mol')]"
             },
             {
                 "placeholder": "<blank_8>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.7Sm2O3\u20130.3B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.547, 'mol'), ('B2O3', 0.003, 'mol')]"
             },
             {
                 "placeholder": "<blank_9>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.5Sm2O3\u20130.5B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.545, 'mol'), ('B2O3', 0.005, 'mol')]"
             },
             {
                 "placeholder": "<blank_10>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.3Sm2O3\u20130.7B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.543, 'mol'), ('B2O3', 0.007, 'mol')]"
             },
             {
                 "placeholder": "<blank_11>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201353.9Sm2O3\u20131.1B2O3"
+                "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.539, 'mol'), ('B2O3', 0.011, 'mol')]"
             },
             {
                 "placeholder": "<blank_12>",
-                "composition": "NULL"
-            },
-            {
-                "placeholder": "<blank_13>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.9Sm2O3\u20130.1B2O3"
-            },
-            {
-                "placeholder": "<blank_14>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.7Sm2O3\u20130.3B2O3"
-            },
-            {
-                "placeholder": "<blank_15>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.5Sm2O3\u20130.5B2O3"
-            },
-            {
-                "placeholder": "<blank_16>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.3Sm2O3\u20130.7B2O3"
-            },
-            {
-                "placeholder": "<blank_17>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201353.9Sm2O3\u20131.1B2O3"
-            },
-            {
-                "placeholder": "<blank_18>",
-                "composition": "NULL"
-            },
-            {
-                "placeholder": "<blank_19>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.9Sm2O3\u20130.1B2O3"
-            },
-            {
-                "placeholder": "<blank_20>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.7Sm2O3\u20130.3B2O3"
-            },
-            {
-                "placeholder": "<blank_21>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.5Sm2O3\u20130.5B2O3"
-            },
-            {
-                "placeholder": "<blank_22>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201354.3Sm2O3\u20130.7B2O3"
-            },
-            {
-                "placeholder": "<blank_23>",
-                "composition": "15ZnF2\u201312Li2CO3\u201310BaO\u20138Al2O3\u201353.9Sm2O3\u20131.1B2O3"
-            },
-            {
-                "placeholder": "<blank_24>",
                 "composition": "NULL"
             }
         ]

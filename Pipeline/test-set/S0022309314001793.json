@@ -3,27 +3,27 @@
         "Compositions": [
             {
                 "placeholder": "<blank_1>",
-                "composition": "20Li2O\u201320PbO\u201345B2O3\u201315P2O5"
+                "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.15, 'mol')]"
             },
             {
                 "placeholder": "<blank_2>",
-                "composition": "20Li2O\u201320PbO\u201345B2O3\u201314.9P2O5: 0.1Cr2O3"
+                "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.1998, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.149, 'mol'), ('Cr2O3', 0.001, 'mol')]"
             },
             {
                 "placeholder": "<blank_3>",
-                "composition": "20Li2O\u201320PbO\u201345B2O3\u201314.7P2O5: 0.3Cr2O3"
+                "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.147, 'mol'), ('Cr2O3', 0.003, 'mol')]"
             },
             {
                 "placeholder": "<blank_4>",
-                "composition": "20Li2O\u201320PbO\u201345B2O3\u201314.5P2O5: 0.5Cr2O3"
+                "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.145, 'mol'), ('Cr2O3', 0.005, 'mol')]"
             },
             {
                 "placeholder": "<blank_5>",
-                "composition": "20Li2O\u201320PbO\u201345B2O3\u201314.2P2O5: 0.8Cr2O3"
+                "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.142, 'mol'), ('Cr2O3', 0.008, 'mol')]"
             },
             {
                 "placeholder": "<blank_6>",
-                "composition": "20Li2O\u201320PbO\u201345B2O3\u201314.0P2O5: 1.0Cr2O3"
+                "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.14, 'mol'), ('Cr2O3', 0.01, 'mol')]"
             }
         ]
     }

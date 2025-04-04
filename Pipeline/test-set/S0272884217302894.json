@@ -1,38 +1,38 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "DuPond 951"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "Ferro A6M"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "Heraeus CT700"
-            },
-            {
-                "placeholder": "<blank_4>",
-                "composition": "50wt% CaO-B2O3-SiO2 glass-Al2O3"
-            },
-            {
-                "placeholder": "<blank_5>",
-                "composition": "DuPond 951"
-            },
-            {
-                "placeholder": "<blank_6>",
-                "composition": "Ferro A6M"
-            },
-            {
-                "placeholder": "<blank_7>",
-                "composition": "Heraeus CT700"
-            },
-            {
-                "placeholder": "<blank_8>",
-                "composition": "50wt% CaO-B2O3-SiO2 glass-Al2O3"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('DuPond 951', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('Ferro A6M', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('Heraeus CT700', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('SiO2', 0.315, 'wt'), ('B2O3', 0.070, 'wt'), ('CaO', 0.060, 'wt'), ('MgO', 0.009, 'wt'), ('Na2O', 0.013, 'wt'), ('K2O', 0.008, 'wt'), ('Al2O3', 0.525, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_5>",
+        "composition": "[('DuPond 951', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_6>",
+        "composition": "[('Ferro A6M', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_7>",
+        "composition": "[('Heraeus CT700', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_8>",
+        "composition": "[('SiO2', 0.315, 'wt'), ('B2O3', 0.070, 'wt'), ('CaO', 0.060, 'wt'), ('MgO', 0.009, 'wt'), ('Na2O', 0.013, 'wt'), ('K2O', 0.008, 'wt'), ('Al2O3', 0.525, 'wt')]"
+      }
+    ]
+  }
 }

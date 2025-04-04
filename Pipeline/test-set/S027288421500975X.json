@@ -1,42 +1,42 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "21.39at.%V:26.73at.%Ti:49.51at.%N"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "23.04at.%V:24.72at.%Ti:49.41at.%N"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "24.61at.%V:25.64at.%Ti:48.84at.%N"
-            },
-            {
-                "placeholder": "<blank_4>",
-                "composition": "25.48at.%V:24.15at.%Ti:49.35at.%N"
-            },
-            {
-                "placeholder": "<blank_5>",
-                "composition": "17.01at.%V:27.25at.%Ti:53.33at.%N"
-            },
-            {
-                "placeholder": "<blank_6>",
-                "composition": "19.93at.%V:25.23at.%Ti:53.07at.%N"
-            },
-            {
-                "placeholder": "<blank_7>",
-                "composition": "25.48at.%V:21.65at.%Ti:51.40at.%N"
-            },
-            {
-                "placeholder": "<blank_8>",
-                "composition": "22.47at.%V:23.33at.%Ti:51.25at.%N"
-            },
-            {
-                "placeholder": "<blank_9>",
-                "composition": "3.96at.%V:35.93at.%Ti:55.91at.%N"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('V', 0.2139, 'at%'), ('Ti', 0.2673, 'at%'), ('N', 0.4951, 'at%')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('V', 0.2304, 'at%'), ('Ti', 0.2472, 'at%'), ('N', 0.4941, 'at%')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('V', 0.2461, 'at%'), ('Ti', 0.2564, 'at%'), ('N', 0.4884, 'at%')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('V', 0.2548, 'at%'), ('Ti', 0.2415, 'at%'), ('N', 0.4935, 'at%')]"
+      },
+      {
+        "placeholder": "<blank_5>",
+        "composition": "[('V', 0.1701, 'at%'), ('Ti', 0.2725, 'at%'), ('N', 0.5333, 'at%')]"
+      },
+      {
+        "placeholder": "<blank_6>",
+        "composition": "[('V', 0.1993, 'at%'), ('Ti', 0.2523, 'at%'), ('N', 0.5307, 'at%')]"
+      },
+      {
+        "placeholder": "<blank_7>",
+        "composition": "[('V', 0.2548, 'at%'), ('Ti', 0.2165, 'at%'), ('N', 0.514, 'at%')]"
+      },
+      {
+        "placeholder": "<blank_8>",
+        "composition": "[('V', 0.2247, 'at%'), ('Ti', 0.2333, 'at%'), ('N', 0.5125, 'at%')]"
+      },
+      {
+        "placeholder": "<blank_9>",
+        "composition": "[('V', 0.0396, 'at%'), ('Ti', 0.3593, 'at%'), ('N', 0.5591, 'at%')]"
+      }
+    ]
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "Ba0.67Sr0.33TiO3:0.5mol.%Mn:1.0mol.%Y"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "Ba0.67Sr0.33TiO3:0.5mol.%Mn:1.0mol.%Y"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "Ba0.67Sr0.33TiO3:0.5mol.%Mn:1.0mol.%Y"
-            },
-            {
-                "placeholder": "<blank_4>",
-                "composition": "Ba0.67Sr0.33TiO3:0.5mol.%Mn:1.0mol.%Y"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('Ba0.67Sr0.33TiO3', 0.985, 'mol'), ('Mn', 0.005, 'mol%'), ('Y', 0.01, 'mol%')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('Ba0.67Sr0.33TiO3', 0.985, 'mol'), ('Mn', 0.005, 'mol%'), ('Y', 0.01, 'mol%')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('Ba0.67Sr0.33TiO3', 0.985, 'mol'), ('Mn', 0.005, 'mol%'), ('Y', 0.01, 'mol%')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('Ba0.67Sr0.33TiO3', 0.985, 'mol'), ('Mn', 0.005, 'mol%'), ('Y', 0.01, 'mol%')]"
+      }
+    ]
+  }
 }

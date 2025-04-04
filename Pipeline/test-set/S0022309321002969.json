@@ -3,51 +3,51 @@
         "Compositions": [
             {
                 "placeholder": "<blank_1>",
-                "composition": "10SrO-9.9Al2O3-60B2O3-10BaCl2-10TeO2-0.1Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.099, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.001, 'mol')]"
             },
             {
                 "placeholder": "<blank_2>",
-                "composition": "10SrO-9.5Al2O3-60B2O3-10BaCl2-10TeO2-0.5Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.095, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.005, 'mol')]"
             },
             {
                 "placeholder": "<blank_3>",
-                "composition": "10SrO-9.0Al2O3-60B2O3-10BaCl2-10TeO2-1.0Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.090, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.010, 'mol')]"
             },
             {
                 "placeholder": "<blank_4>",
-                "composition": "10SrO-8.5Al2O3-60B2O3-10BaCl2-10TeO2-1.5Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.085, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.015, 'mol')]"
             },
             {
                 "placeholder": "<blank_5>",
-                "composition": "10SrO-8.0Al2O3-60B2O3-10BaCl2-10TeO2-2.0Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.080, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.020, 'mol')]"
             },
             {
                 "placeholder": "<blank_6>",
-                "composition": "10SrO-7.5Al2O3-60B2O3-10BaCl2-10TeO2-2.5Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.075, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.025, 'mol')]"
             },
             {
                 "placeholder": "<blank_7>",
-                "composition": "10SrO-9.9Al2O3-60B2O3-10BaCl2-10TeO2-0.1Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.099, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.001, 'mol')]"
             },
             {
                 "placeholder": "<blank_8>",
-                "composition": "10SrO-9.5Al2O3-60B2O3-10BaCl2-10TeO2-0.5Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.095, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.005, 'mol')]"
             },
             {
                 "placeholder": "<blank_9>",
-                "composition": "10SrO-9.0Al2O3-60B2O3-10BaCl2-10TeO2-1.0Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.090, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.010, 'mol')]"
             },
             {
                 "placeholder": "<blank_10>",
-                "composition": "10SrO-8.5Al2O3-60B2O3-10BaCl2-10TeO2-1.5Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.085, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.015, 'mol')]"
             },
             {
                 "placeholder": "<blank_11>",
-                "composition": "10SrO-8.0Al2O3-60B2O3-10BaCl2-10TeO2-2.0Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.080, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.020, 'mol')]"
             },
             {
                 "placeholder": "<blank_12>",
-                "composition": "10SrO-7.5Al2O3-60B2O3-10BaCl2-10TeO2-2.5Er2O3"
+                "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.075, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.025, 'mol')]"
             }
         ]
     }

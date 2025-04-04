@@ -3,15 +3,15 @@
         "Compositions": [
             {
                 "placeholder": "<blank_1>",
-                "composition": "Zr-2.5wt.%Nb"
+                "composition": "[('Zr', 0.975, 'wt'), ('Nb', 0.025, 'wt')]"
             },
             {
                 "placeholder": "<blank_2>",
-                "composition": "Zr-2.5wt.%Nb"
+                "composition": "[('Zr', 0.975, 'wt'), ('Nb', 0.025, 'wt')]"
             },
             {
                 "placeholder": "<blank_3>",
-                "composition": "Zr-2.5wt.%Nb"
+                "composition": "[('Zr', 0.975, 'wt'), ('Nb', 0.025, 'wt')]"
             }
         ]
     }

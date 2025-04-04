@@ -3,35 +3,35 @@
         "Compositions": [
             {
                 "placeholder": "<blank_1>",
-                "composition": "50TeO2\u201350V2O5"
+                "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.5, 'mol')]"
             },
             {
                 "placeholder": "<blank_2>",
-                "composition": "50TeO2\u201347.5V2O5\u20132.5K2O"
+                "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.475, 'mol'), ('K2O', 0.025, 'mol')]"
             },
             {
                 "placeholder": "<blank_3>",
-                "composition": "50TeO2\u201342.5V2O5\u20137.5K2O"
+                "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.425, 'mol'), ('K2O', 0.075, 'mol')]"
             },
             {
                 "placeholder": "<blank_4>",
-                "composition": "50TeO2\u201335V2O5\u201315K2O"
+                "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.35, 'mol'), ('K2O', 0.15, 'mol')]"
             },
             {
                 "placeholder": "<blank_5>",
-                "composition": "50TeO2\u201350V2O5"
+                "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.5, 'mol')]"
             },
             {
                 "placeholder": "<blank_6>",
-                "composition": "50TeO2\u201347.5V2O5\u20132.5K2O"
+                "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.475, 'mol'), ('K2O', 0.025, 'mol')]"
             },
             {
                 "placeholder": "<blank_7>",
-                "composition": "50TeO2\u201342.5V2O5\u20137.5K2O"
+                "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.425, 'mol'), ('K2O', 0.075, 'mol')]"
             },
             {
                 "placeholder": "<blank_8>",
-                "composition": "50TeO2\u201335V2O5\u201315K2O"
+                "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.35, 'mol'), ('K2O', 0.15, 'mol')]"
             }
         ]
     }

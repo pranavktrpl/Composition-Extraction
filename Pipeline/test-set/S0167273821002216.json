@@ -1,22 +1,22 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "Polyethylene Oxide"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "Polyethylene Oxide + 6%RFS"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "Polyethylene Oxide-LiClO4"
-            },
-            {
-                "placeholder": "<blank_4>",
-                "composition": "Polyethylene Oxide-LiClO4 + 6%RFS"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('Polyethylene Oxide', 1.0, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('Polyethylene Oxide', 0.94, 'wt'), ('RFS', 0.06, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('Polyethylene Oxide-LiClO4', 1.0, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('Polyethylene Oxide-LiClO4', 0.94, 'wt'), ('RFS', 0.06, 'wt')]"
+      }
+    ]
+  }
 }

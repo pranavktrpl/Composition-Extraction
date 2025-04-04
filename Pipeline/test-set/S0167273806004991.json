@@ -1,14 +1,14 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "Ca2Fe2O5"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "Ca2Fe2O5"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('Ca2Fe2O5', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('Ca2Fe2O5', 1.0, 'mol')]"
+      }
+    ]
+  }
 }

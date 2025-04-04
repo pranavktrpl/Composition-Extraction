@@ -3,27 +3,27 @@
         "Compositions": [
             {
                 "placeholder": "<blank_1>",
-                "composition": "15wt%MWNT-C"
+                "composition": "[('MWCNT', 0.15, 'wt'), ('C', 0.85, 'wt')]"
             },
             {
                 "placeholder": "<blank_2>",
-                "composition": "20wt%MWNT-C"
+                "composition": "[('MWCNT', 0.2, 'wt'), ('C', 0.8, 'wt')]"
             },
             {
                 "placeholder": "<blank_3>",
-                "composition": "30wt%MWNT-C"
+                "composition": "[('MWCNT', 0.3, 'wt'), ('C', 0.7, 'wt')]"
             },
             {
                 "placeholder": "<blank_4>",
-                "composition": "20wt%MWNT-C"
+                "composition": "[('MWCNT', 0.2, 'wt'), ('C', 0.8, 'wt')]"
             },
             {
                 "placeholder": "<blank_5>",
-                "composition": "25wt%MWNT-C"
+                "composition": "[('MWCNT', 0.25, 'wt'), ('C', 0.75, 'wt')]"
             },
             {
                 "placeholder": "<blank_6>",
-                "composition": "C"
+                "composition": "[('C', 1.0, 'wt')]"
             }
         ]
     }

@@ -1,30 +1,30 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "8mol.%Y2O3:ZrO2"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "2mol.%Ti:8mol.%Y2O3:ZrO2"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "4mol.%Ti:8mol.%Y2O3:ZrO2"
-            },
-            {
-                "placeholder": "<blank_4>",
-                "composition": "6mol.%Ti:8mol.%Y2O3:ZrO2"
-            },
-            {
-                "placeholder": "<blank_5>",
-                "composition": "8mol.%Ti:8mol.%Y2O3:ZrO2"
-            },
-            {
-                "placeholder": "<blank_6>",
-                "composition": "10mol.%Ti:8mol.%Y2O3:ZrO2"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.92, 'mol%')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('Ti', 0.02, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.9, 'mol%')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('Ti', 0.04, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.88, 'mol%')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('Ti', 0.06, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.86, 'mol%')]"
+      },
+      {
+        "placeholder": "<blank_5>",
+        "composition": "[('Ti', 0.08, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.84, 'mol%')]"
+      },
+      {
+        "placeholder": "<blank_6>",
+        "composition": "[('Ti', 0.1, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.82, 'mol%')]"
+      }
+    ]
+  }
 }

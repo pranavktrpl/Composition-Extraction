@@ -1,106 +1,106 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "60wt.%High-Carbon Ferrochromium Slag:40wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "37.5wt.%High-Carbon Ferrochromium Slag:62.5wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "37.5wt.%High-Carbon Ferrochromium Slag:62.5wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_4>",
-                "composition": "37.5wt.%High-Carbon Ferrochromium Slag:62.5wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_5>",
-                "composition": "37.5wt.%High-Carbon Ferrochromium Slag:62.5wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_6>",
-                "composition": "43.75wt.%High-Carbon Ferrochromium Slag:56.25wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_7>",
-                "composition": "43.75wt.%High-Carbon Ferrochromium Slag:56.25wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_8>",
-                "composition": "43.75wt.%High-Carbon Ferrochromium Slag:56.25wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_9>",
-                "composition": "43.75wt.%High-Carbon Ferrochromium Slag:56.25wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_10>",
-                "composition": "43.75wt.%High-Carbon Ferrochromium Slag:56.25wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_11>",
-                "composition": "50wt.%High-Carbon Ferrochromium Slag:50wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_12>",
-                "composition": "50wt.%High-Carbon Ferrochromium Slag:50wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_13>",
-                "composition": "50wt.%High-Carbon Ferrochromium Slag:50wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_14>",
-                "composition": "50wt.%High-Carbon Ferrochromium Slag:50wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_15>",
-                "composition": "50wt.%High-Carbon Ferrochromium Slag:50wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_16>",
-                "composition": "56.25wt.%High-Carbon Ferrochromium Slag:43.75wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_17>",
-                "composition": "56.25wt.%High-Carbon Ferrochromium Slag:43.75wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_18>",
-                "composition": "56.25wt.%High-Carbon Ferrochromium Slag:43.75wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_19>",
-                "composition": "56.25wt.%High-Carbon Ferrochromium Slag:43.75wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_20>",
-                "composition": "56.25wt.%High-Carbon Ferrochromium Slag:43.75wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_21>",
-                "composition": "62.5wt.%High-Carbon Ferrochromium Slag:37.5wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_22>",
-                "composition": "62.5wt.%High-Carbon Ferrochromium Slag:37.5wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_23>",
-                "composition": "62.5wt.%High-Carbon Ferrochromium Slag:37.5wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_24>",
-                "composition": "62.5wt.%High-Carbon Ferrochromium Slag:37.5wt.%Waste Glass"
-            },
-            {
-                "placeholder": "<blank_25>",
-                "composition": "62.5wt.%High-Carbon Ferrochromium Slag:37.5wt.%Waste Glass"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.6, 'wt'), ('Waste Glass', 0.4, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.375, 'wt'), ('Waste Glass', 0.625, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.375, 'wt'), ('Waste Glass', 0.625, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.375, 'wt'), ('Waste Glass', 0.625, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_5>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.375, 'wt'), ('Waste Glass', 0.625, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_6>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.4375, 'wt'), ('Waste Glass', 0.5625, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_7>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.4375, 'wt'), ('Waste Glass', 0.5625, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_8>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.4375, 'wt'), ('Waste Glass', 0.5625, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_9>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.4375, 'wt'), ('Waste Glass', 0.5625, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_10>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.4375, 'wt'), ('Waste Glass', 0.5625, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_11>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5, 'wt'), ('Waste Glass', 0.5, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_12>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5, 'wt'), ('Waste Glass', 0.5, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_13>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5, 'wt'), ('Waste Glass', 0.5, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_14>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5, 'wt'), ('Waste Glass', 0.5, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_15>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5, 'wt'), ('Waste Glass', 0.5, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_16>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5625, 'wt'), ('Waste Glass', 0.4375, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_17>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5625, 'wt'), ('Waste Glass', 0.4375, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_18>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5625, 'wt'), ('Waste Glass', 0.4375, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_19>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5625, 'wt'), ('Waste Glass', 0.4375, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_20>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.5625, 'wt'), ('Waste Glass', 0.4375, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_21>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.625, 'wt'), ('Waste Glass', 0.375, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_22>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.625, 'wt'), ('Waste Glass', 0.375, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_23>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.625, 'wt'), ('Waste Glass', 0.375, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_24>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.625, 'wt'), ('Waste Glass', 0.375, 'wt')]"
+      },
+      {
+        "placeholder": "<blank_25>",
+        "composition": "[('High-Carbon Ferrochromium Slag', 0.625, 'wt'), ('Waste Glass', 0.375, 'wt')]"
+      }
+    ]
+  }
 }

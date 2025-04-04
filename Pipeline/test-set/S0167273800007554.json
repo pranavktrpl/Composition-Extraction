@@ -1,14 +1,14 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "Propylene Carbonate"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "NULL"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "NULL"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "NULL"
+      }
+    ]
+  }
 }

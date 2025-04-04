@@ -3,11 +3,11 @@
         "Compositions": [
             {
                 "placeholder": "<blank_1>",
-                "composition": "Sr2CoWO6"
+                "composition": "[('Sr2CoWO6', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_2>",
-                "composition": "Sr2NiWO6"
+                "composition": "[('Sr2NiWO6', 1.0, 'mol')]"
             }
         ]
     }

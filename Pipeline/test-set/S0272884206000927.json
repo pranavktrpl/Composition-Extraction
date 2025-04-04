@@ -1,10 +1,10 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "[Pb0.9Ca0.1]TiO3"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('[Pb0.9Ca0.1]TiO3', 1.0, 'mol')]"
+      }
+    ]
+  }
 }

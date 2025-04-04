@@ -3,23 +3,23 @@
         "Compositions": [
             {
                 "placeholder": "<blank_1>",
-                "composition": "LiNbO3"
+                "composition": "[('LiNbO3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_2>",
-                "composition": "LiNb0.19Ta0.81O3"
+                "composition": "[('LiNb0.19Ta0.81O3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_3>",
-                "composition": "LiNb0.08Ta0.92O3"
+                "composition": "[('LiNb0.08Ta0.92O3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_4>",
-                "composition": "LiNb0.03Ta0.97O3"
+                "composition": "[('LiNb0.03Ta0.97O3', 1.0, 'mol')]"
             },
             {
                 "placeholder": "<blank_5>",
-                "composition": "LiTaO3"
+                "composition": "[('LiTaO3', 1.0, 'mol')]"
             }
         ]
     }

@@ -1,46 +1,46 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "BaThO3"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "BaThO3"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "BaThO3"
-            },
-            {
-                "placeholder": "<blank_4>",
-                "composition": "BaThO3"
-            },
-            {
-                "placeholder": "<blank_5>",
-                "composition": "BaThO3"
-            },
-            {
-                "placeholder": "<blank_6>",
-                "composition": "BaThO3"
-            },
-            {
-                "placeholder": "<blank_7>",
-                "composition": "BaThO3"
-            },
-            {
-                "placeholder": "<blank_8>",
-                "composition": "BaThO3"
-            },
-            {
-                "placeholder": "<blank_9>",
-                "composition": "BaThO3"
-            },
-            {
-                "placeholder": "<blank_10>",
-                "composition": "BaThO3"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_5>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_6>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_7>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_8>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_9>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      },
+      {
+        "placeholder": "<blank_10>",
+        "composition": "[('BaThO3', 1.0, 'mol')]"
+      }
+    ]
+  }
 }

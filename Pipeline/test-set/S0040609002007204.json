@@ -1,42 +1,42 @@
 {
-    "response": {
-        "Compositions": [
-            {
-                "placeholder": "<blank_1>",
-                "composition": "SiO"
-            },
-            {
-                "placeholder": "<blank_2>",
-                "composition": "SiO"
-            },
-            {
-                "placeholder": "<blank_3>",
-                "composition": "SiO"
-            },
-            {
-                "placeholder": "<blank_4>",
-                "composition": "SiO"
-            },
-            {
-                "placeholder": "<blank_5>",
-                "composition": "SiO"
-            },
-            {
-                "placeholder": "<blank_6>",
-                "composition": "SiO"
-            },
-            {
-                "placeholder": "<blank_7>",
-                "composition": "SiO"
-            },
-            {
-                "placeholder": "<blank_8>",
-                "composition": "SiO"
-            },
-            {
-                "placeholder": "<blank_9>",
-                "composition": "SiO"
-            }
-        ]
-    }
+  "response": {
+    "Compositions": [
+      {
+        "placeholder": "<blank_1>",
+        "composition": "[('SiO', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_2>",
+        "composition": "[('SiO', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_3>",
+        "composition": "[('SiO', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_4>",
+        "composition": "[('SiO', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_5>",
+        "composition": "[('SiO', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_6>",
+        "composition": "[('SiO', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_7>",
+        "composition": "[('SiO', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_8>",
+        "composition": "[('SiO', 1.0, 'at')]"
+      },
+      {
+        "placeholder": "<blank_9>",
+        "composition": "[('SiO', 1.0, 'at')]"
+      }
+    ]
+  }
 }
