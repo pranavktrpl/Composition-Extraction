@@ -1,0 +1,1760 @@
+
+
+=== Sentence 1 ===
+Input: Title:
+Optical characterization of MoO
+Output: [[('MoO', 66.67), ('NiO'
+
+
+=== Sentence 2 ===
+Input: Abstract:
+MoO3 thin films were prepared, in this work, evaporating the material with a CO2 laser set up in continuous wave mode.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 3 ===
+Input: The films were deposited on glass substrates at different substrate temperatures and high vacuum.
+Output: [[('Fl', 50.0), ('O', 50.0)]
+
+
+=== Sentence 4 ===
+Input: Additionally, other samples were prepared at different oxygen pressures in the chamber.
+Output: [[('O', 67.0), ('Ti', 33.0)
+
+
+=== Sentence 5 ===
+Input: The samples were characterized by X-ray photoelectron spectroscopy (XPS) and optical transmittance measurements in the visible range.
+Output: [[('Al', 50.0), ('Te', 50.0)
+
+
+=== Sentence 6 ===
+Input: The XPS analyses showed evidence of thin film formation with two composition mix: MoO3 and MoO2; this result appeared in all fabricated samples.
+Output: [[('MoO3', 100.0)], [('MoO
+
+
+=== Sentence 7 ===
+Input: The transmittance spectra were reproduced theoretically and from the simulation were calculated the index of refraction, the absorption coefficient of the material, the forbidden energy gap and sample thickness.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 8 ===
+Input: Samples prepared at high substrate temperature presented, in the red region, an absorption band of about 2.5×104 cm−1.
+Output: [[('Al', 40.0), ('Ti', 60.0)
+
+
+=== Sentence 9 ===
+Input: This band kept its wavelength position when oxygen was injected in the chamber but its height decreased by one order of magnitude, indicating it is associated to oxygen vacancies in the sample.
+Output: [[('O', 60.0), ('Te', 40.0)]
+
+
+=== Sentence 10 ===
+Input: Keywords:
+Deposition process
+Optical properties
+Laser irradiation
+X-ray photoelectron spectroscopy
+Molybdenum oxide
+
+Acknowledgements:
+Output: [[('Molybdenum', 66.67), ('O
+
+
+=== Sentence 11 ===
+Input: The authors wish to thank the International Programme in the Physical Sciences (IPPS), Uppsala University, and the Research Division of the Universidad Nacional de Colombia (DIB) for their economic support to this work.
+Output: [[('Ps', 50.0), ('Dib', 50.0
+
+
+=== Sentence 12 ===
+Input: Pacs:
+78.66.-W
+78.55.Hx
+
+Introduction:
+MoO3 is a very attractive material due to its multiple technological applications [1–3].
+Output: [[('MoO3', 78.0), ('W', 16.0
+
+
+=== Sentence 13 ===
+Input: MoO3 thin films have been produced by thermal evaporation, sputtering and electrochemical deposition [4,5].
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 14 ===
+Input: One of the most interesting applications of MoO3 is known as smart window in which the device must regulate the amount of light going through it [6].
+Output: [[('MoO3', 66.67), ('SiO
+
+
+=== Sentence 15 ===
+Input: To optimize the devices, its behavior is modeled in computer, for which it is important to know the optical properties of the materials forming it.
+Output: [[('Al', 40.0), ('Co', 60.0)]
+
+
+=== Sentence 16 ===
+Input: Determining the optical constants of MoO3 is quite difficult due to the presence of absorption in the visible region of the spectrum, which hinders the use of traditional calculation methods.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 17 ===
+Input: Nonetheless, some authors have developed alternative methods to obtain the constants for these materials [7].
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 18 ===
+Input: This work describes the synthesis of MoO3 thin films, prepared in high vacuum by evaporating a MoO3 target with a CO2 laser operating in continuous wave mode.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 19 ===
+Input: Additionally, a method is proposed to calculate the optical constants of the material, using the theoretical simulation of experimental transmittance spectra in the visible and near infrared region.
+Output: [[('Al', 60.0), ('Ti', 40.0)
+
+
+=== Sentence 20 ===
+Input: This simulation yields the spectral variations of the refraction index and absorption coefficient, the energy gap and the material's thickness.
+Output: [[('Absorption', 20.0), ('Refraction', 80.0
+
+
+=== Sentence 21 ===
+Input: It also points at the influence of the substrate temperature and oxygen pressure in the chamber, on the optical properties of the material.
+Output: [[('S', 67.0), ('O', 33.0)]
+
+
+=== Sentence 22 ===
+Input: Experimental Details:
+2.1 Production of the films The MoO3 thin films were deposited using the laser thermal evaporation technique Fig.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 23 ===
+Input: 1 .
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 24 ===
+Input: A light beam coming from a CO2 laser is shined on a target made up of MoO3 powder (99.9%).
+Output: [[('MoO3', 99.9), ('CO2',
+
+
+=== Sentence 25 ===
+Input: The beam has a wavelength of 10.6 μm and an intensity of 0.73 W/mm2.
+Output: [[('W', 33.0), ('B', 67.0)]
+
+
+=== Sentence 26 ===
+Input: The beam is introduced into the vacuum chamber through a GaAs lens and focused, with a Copper mirror, on the target.
+Output: [[('As', 33.33), ('Ga', 33.
+
+
+=== Sentence 27 ===
+Input: The MoO3 powder is hand pressed to avoid its dispersion toward the substrates by the application of the beam.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 28 ===
+Input: The heat produced by the laser sublimates the material and it is deposited on common glass substrates (15 mm long and 10 mm wide) placed 10 cm above the powder.
+Output: [[('Al', 50.0), ('S', 50.0)]
+
+
+=== Sentence 29 ===
+Input: The MoO3 target is rotated at about 20 rpm to avoid the formation of an irregular hole at the incidence point, which produces inhomogeneities on the sample thickness and modifies the deposition rate of the material.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 30 ===
+Input: Samples were prepared in vacuum and under different oxygen pressures.
+Output: [[('O', 60.0), ('B', 40.0)]]
+
+
+=== Sentence 31 ===
+Input: The optical constants were obtained in two series of samples.
+Output: [[('Al', 40.0), ('Te', 60.0)
+
+
+=== Sentence 32 ===
+Input: The first series was prepared in vacuum at different substrate temperatures ranging from room temperature to 350 °C, chamber pressure of 6×10−4 Pa, deposition time of 1 min and laser intensity of 0.73 W/mm2.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 33 ===
+Input: The second series was carried out with constant substrate temperature of 300 °C, deposition time of 1 min, laser intensity of 0.23 W/mm2 and different oxygen pressures in the chamber.
+Output: [[('O', 60.0), ('Ti', 30.0)]
+
+
+=== Sentence 34 ===
+Input: In this series, the vacuum chamber was taken to an initial pressure of 6×10−4 Pa.
+2.2 Characterization of the samples Diffraction oxidations states of both MoO3 powder and prepared samples were determined by X-ray photoelectron spectroscopy (XPS), using a VG-ESCA LAB 250 spectrometer with an energy resolution of 0.4 eV. Al Kα (1486.6 eV) radiation was used as the excitation source.
+Output: [[('MoO3', 66.67), ('P',
+
+
+=== Sentence 35 ===
+Input: The spectra were recorded in fixed analyzer transmission mode, the pass energy being 50 eV. The scanning of the spectra was done at pressures of 5×10−7 Pa.
+Output: [[('P', 50.0), ('Al', 50.0)]
+
+
+=== Sentence 36 ===
+Input: Binding energies were measured for O (1s) and Mo (3p).
+Output: [[('Mo', 33.33), ('O', 33.33
+
+
+=== Sentence 37 ===
+Input: Peaks were fitted using a combination of Gaussian and Lorentzian functions.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 38 ===
+Input: This deconvolution was used to quantify the sensitive factors.
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 39 ===
+Input: The films were also characterized through transmittance measurements in the visible and near infrared regions, using a double beam PERKIN ELMER lambda 2 spectrophotometer, operating at normal incidence on the sample surface.
+Output: [[('Fe', 33.0), ('O', 67.0)
+
+
+=== Sentence 40 ===
+Input: Production Of The Films:
+The MoO3 thin films were deposited using the laser thermal evaporation technique Fig.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 41 ===
+Input: 1 .
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 42 ===
+Input: A light beam coming from a CO2 laser is shined on a target made up of MoO3 powder (99.9%).
+Output: [[('MoO3', 99.9), ('CO2',
+
+
+=== Sentence 43 ===
+Input: The beam has a wavelength of 10.6 μm and an intensity of 0.73 W/mm2.
+Output: [[('W', 33.0), ('B', 67.0)]
+
+
+=== Sentence 44 ===
+Input: The beam is introduced into the vacuum chamber through a GaAs lens and focused, with a Copper mirror, on the target.
+Output: [[('As', 33.33), ('Ga', 33.
+
+
+=== Sentence 45 ===
+Input: The MoO3 powder is hand pressed to avoid its dispersion toward the substrates by the application of the beam.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 46 ===
+Input: The heat produced by the laser sublimates the material and it is deposited on common glass substrates (15 mm long and 10 mm wide) placed 10 cm above the powder.
+Output: [[('Al', 50.0), ('S', 50.0)]
+
+
+=== Sentence 47 ===
+Input: The MoO3 target is rotated at about 20 rpm to avoid the formation of an irregular hole at the incidence point, which produces inhomogeneities on the sample thickness and modifies the deposition rate of the material.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 48 ===
+Input: Samples were prepared in vacuum and under different oxygen pressures.
+Output: [[('O', 60.0), ('B', 40.0)]]
+
+
+=== Sentence 49 ===
+Input: The optical constants were obtained in two series of samples.
+Output: [[('Al', 40.0), ('Te', 60.0)
+
+
+=== Sentence 50 ===
+Input: The first series was prepared in vacuum at different substrate temperatures ranging from room temperature to 350 °C, chamber pressure of 6×10−4 Pa, deposition time of 1 min and laser intensity of 0.73 W/mm2.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 51 ===
+Input: The second series was carried out with constant substrate temperature of 300 °C, deposition time of 1 min, laser intensity of 0.23 W/mm2 and different oxygen pressures in the chamber.
+Output: [[('O', 60.0), ('Ti', 30.0)]
+
+
+=== Sentence 52 ===
+Input: In this series, the vacuum chamber was taken to an initial pressure of 6×10−4 Pa.
+
+Characterization Of The Samples:
+Diffraction oxidations states of both MoO3 powder and prepared samples were determined by X-ray photoelectron spectroscopy (XPS), using a VG-ESCA LAB 250 spectrometer with an energy resolution of 0.4 eV. Al Kα (1486.6 eV) radiation was used as the excitation source.
+Output: [[('MoO3', 66.67), ('P',
+
+
+=== Sentence 53 ===
+Input: The spectra were recorded in fixed analyzer transmission mode, the pass energy being 50 eV. The scanning of the spectra was done at pressures of 5×10−7 Pa.
+Output: [[('P', 50.0), ('Al', 50.0)]
+
+
+=== Sentence 54 ===
+Input: Binding energies were measured for O (1s) and Mo (3p).
+Output: [[('Mo', 33.33), ('O', 33.33
+
+
+=== Sentence 55 ===
+Input: Peaks were fitted using a combination of Gaussian and Lorentzian functions.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 56 ===
+Input: This deconvolution was used to quantify the sensitive factors.
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 57 ===
+Input: The films were also characterized through transmittance measurements in the visible and near infrared regions, using a double beam PERKIN ELMER lambda 2 spectrophotometer, operating at normal incidence on the sample surface.
+Output: [[('Fe', 33.0), ('O', 67.0)
+
+
+=== Sentence 58 ===
+Input: Results And Discussion:
+3.1 XPS measurements In order to examine the nature of surface species formed on the films, the MoO3 powder and the samples were investigated using the XPS technique.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 59 ===
+Input: For the purpose of better comparison, the photoelectron peaks of Mo 3p and O 1s pertaining to MoO3 powder and films are presented, together in Figs.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 60 ===
+Input: 2 and 3 , respectively.
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 61 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 62 ===
+Input: 2 shows the XPS spectra characteristic of the MoO3 powder (continuum line), together with spectra of films fabricated at substrate temperatures of 200 °C (dotted line) and 100 °C (dashed line) at oxygen pressure of 6.7×10−1 Pa. Fig.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 63 ===
+Input: 2 shows the binding energies of Mo 3p photoelectron peaks at 398.4±0.1 and 415.8±0.1 eV for Mo 3p3/2 and Mo 3p1/2 lines, respectively.
+Output: [[('Mo', 75.0), ('P', 25.0)],
+
+
+=== Sentence 64 ===
+Input: The spectra shows a principal peak at 398.4±0.1 eV which agrees well with the oxidation state Mo6+, suggesting the presence of MoO3 in the departure material and in the samples.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 65 ===
+Input: In Fig. 3 are shown the photoelectron peaks of O 1s, obtained in the MoO3 powder and the same samples described in Fig.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 66 ===
+Input: 2. The O's 1s profiles are complicated due to the oxygen overlapping contribution from other species.
+Output: [[('O', 33.33), ('O', 33.33),
+
+
+=== Sentence 67 ===
+Input: In sample prepared at substrate temperature of 200 °C, the quantification process reveals evidence of the presence of three species of O; one at 530.2±0.1 eV related with molybdenum–oxygen bonds.
+Output: [[('O', 53.0), ('Mo', 15.0)
+
+
+=== Sentence 68 ===
+Input: Another at 531.8±0.1 eV in a spectral area corresponding to the presence of OH groups and the last one at 533.0±0.1 eV, associated with water adsorbed at the sample's surface.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 69 ===
+Input: The spectrum of a sample, prepared at a substrate temperature of 100 °C, suggests the presence of two oxygen species: one at 530.1±0.1 eV associated with Mo–O bonds; the other is located at 532.4±0.1 eV, corresponding to water.
+Output: [[('Mo', 50.0), ('O', 50.0)],
+
+
+=== Sentence 70 ===
+Input: No cleaning procedure was performed on the samples before the XPS analysis; the water and OH bonds are probably appearing due to the samples air exposition after the evaporation procedure.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 71 ===
+Input: The quantification process also yields evidence of the presence of the phase MoO2 in the samples.
+Output: [[('MoO2', 100.0)]]
+
+
+=== Sentence 72 ===
+Input: This phase appears in all the prepared samples, inclusive in those deposited in oxygen atmosphere.
+Output: [[('O', 60.0), ('Te', 40.0)]
+
+
+=== Sentence 73 ===
+Input: 3.2 Method employed to calculate the optical constants of the films The transmittance is calculated using the optical system of a thin film deposited on a semi-infinitely thick substrate [8], which could or could not be absorbent (Fig. 4 ).
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 74 ===
+Input: The film has a refraction index n 1, an extinction coefficient k 1 and thickness d 1.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 75 ===
+Input: To the substrate are assigned: refraction index n 2, extinction coefficient k 2 and semi-infinite thickness; n 1, d 1 and k 1 are unknown in our case; n
+Output: [[('n', 33.33), ('d', 33.33),
+
+
+=== Sentence 76 ===
+Input: 2=1.52 and k 2=0 in the analyzed spectral region; n 0=1 is the air's refraction index.
+Output: [[('K', 66.67), ('Ti', 33.3
+
+
+=== Sentence 77 ===
+Input: The theoretical expression for the transmittance of the film-substrate system is given as a function of λ, the wavelength, and α 1, the absorption coefficient of the thin film.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 78 ===
+Input: (1) T=n 2 n 0 [ ( 1 + g 1 ) 2 + h 1 2 ] [ ( 1 + g 2 ) 2 + h 2 2 ] e 2 α 1 + ( g 1 2 + h 1 2 ) ( g 2 2 + h 2 2 ) e − 2 α 1 + C cos 2 γ 1 + D sin 2 γ 1 (2) g 1=n 0 2 − n 1 2 − k 1 2 ( n 0 + n 1 ) 2 + k 1 2 (3) h 1=2 n 0 k 1 ( n 0 + n 1 ) 2 + k 1 2 (4) g 2=n 1 2 − n 2 2 + k 1 2 − k 2 2 ( n 1 + n 2 ) 2 + ( k 1 + k 2 ) 2 (5)
+Output: [[('n', 66.67), ('g', 33.33)
+
+
+=== Sentence 79 ===
+Input: h 2=2 ( n 1 k 2 − n 2 k 1 ) ( n 1 + n 2 ) 2 + ( k 1 + k 2 ) 2 (6) α 1=2 ⁢ π
+Output: [[('n', 33.33), ('k', 33.33),
+
+
+=== Sentence 80 ===
+Input: k 1 d 1 λ (7) γ 1=2 ⁢ π n 1 d 1 λ (8) C=2 ( g 1 g 2 − h 1 h 2 ) (9) D=2 ( g 1 h 2 + h 1 g 2 )
+3.3 Calculation procedure In the problem, n 1 and k 1 depend on the wavelength and are unknown; the sample thickness is also unknown.
+Output: [[('d', 33.33), ('g', 33.33),
+
+
+=== Sentence 81 ===
+Input: These constants are obtained through the theoretical simulation of the experimental transmittance spectra, using the following relation: (10) T Theo − T exp < 0.001 Where T Theo is the theoretical transmittance value obtained with Eq.
+Output: [[('Te', 33.33), ('Exp', 33.33
+
+
+=== Sentence 82 ===
+Input: (1) and T exp is the experimental value.
+Output: [[('T', 33.33), ('E', 33.33),
+
+
+=== Sentence 83 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 84 ===
+Input: 5 shows a characteristic transmittance spectrum for a MoO3 thin film.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 85 ===
+Input: The spectrum presents a high absorption zone for wavelengths shorter than 450 nm and a semitransparent zone from 450 through 1000 nm.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 86 ===
+Input: The semitransparent zone presents quite useful interference maxima and minima because, from their spectral positions, we can calculate initial values for the refraction index and the sample thickness
+Output: [[('Se', 60.0), ('Al', 40.0)
+
+
+=== Sentence 87 ===
+Input: [9].
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 88 ===
+Input: Carefully observing the spectrum, we notice that around 850 nm, the transmittance values decrease.
+Output: [[('Al', 85.0), ('B', 25.0)]
+
+
+=== Sentence 89 ===
+Input: This is associated to the presence in the material of a wide absorption band.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 90 ===
+Input: This absorption band interferes with the spectrum diminishing the amplitudes of maxima and minima and modifying their wavelength positions, causing a dispersion in the calculated value of d.
+Output: [[('Absorption', 50.0), ('Se', 50.0
+
+
+=== Sentence 91 ===
+Input: It is observed, in theoretical simulations, that the wavelength shifts for maxima and minima are opposite, compensating in this way for the value of d.
+Output: [[('d', 33.33), ('e', 33.33),
+
+
+=== Sentence 92 ===
+Input: The calculation can be summarized in the following steps: We assume initially the film to be totally transparent between 450 and 1000 nm to calculate approximate values for the optical path n 1
+Output: [[('F', 45.0), ('O', 65.0)]]
+
+
+=== Sentence 93 ===
+Input: d 1 inside the material: the sample thickness is calculated using the relation: (11)
+Output: [[('d', 80.0), ('material', 20.0)]]
+
+
+=== Sentence 94 ===
+Input: d
+Output: [[('D', 50.0), ('A', 50.0)]]
+
+
+=== Sentence 95 ===
+Input: 1
+Output: [[('Al', 67.0), ('B', 33.0)
+
+
+=== Sentence 96 ===
+Input: =λ 1 λ 2 2 ( λ 1 n 12 − λ 2 n 11 )
+Output: [[('n', 33.33), ('o', 33.33),
+
+
+=== Sentence 97 ===
+Input: where n 11 and n 12 are the MoO3's refraction indexes associated to two consecutive maxima (or minima) located at the respective wavelengths λ 1 and λ 2. n 11 and n 12 are obtained using the W–D model of the simple harmonic oscillator proposed by Wemple and DiDomenico
+Output: [[('MoO3', 83.33), ('W',
+
+
+=== Sentence 98 ===
+Input: [10]: (12) n 1 2 − 1=E d E o E o 2 − ℏ 2 ω 2 Where ℏω is the energy of the photon, E 0 the energy of the oscillator and
+Output: [[('E', 33.33), ('O', 33.33),
+
+
+=== Sentence 99 ===
+Input: E d the dispersion energy.
+Output: [[('E', 33.33), ('D', 33.33),
+
+
+=== Sentence 100 ===
+Input: The value of the refraction index is found through the numerical calculation of the values for E 0 and E d.
+Output: [[('E', 33.0), ('D', 67.0)]
+
+
+=== Sentence 101 ===
+Input: The criterion used in this initial part of the process is to seek that the wavelength positions for maxima and minima of the theoretical spectrum be very close to the experimental ones.
+Output: [[('Te', 33.33), ('P', 66.
+
+
+=== Sentence 102 ===
+Input: The d 1 values obtained from the different couples of maxima and/or minima are averaged out to get an acceptable final value.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 103 ===
+Input: Once obtained the values for the optical path inside the material, the absorption in the low absorption zone (from 450 through 1000 nm) is included to recalculate the optical path using Eq. (10).
+Output: [[('Al', 40.0), ('Mg', 60.0)
+
+
+=== Sentence 104 ===
+Input: This translates into an improvement on the previous values for thickness and refraction index.
+Output: [[('Ti', 60.0), ('Fe', 40.0)
+
+
+=== Sentence 105 ===
+Input: The refraction index for the high absorption region is calculated with Eq.
+Output: [[('Absorption', 50.0), ('Se', 50.0
+
+
+=== Sentence 106 ===
+Input: (12) and, finally, the absorption corresponding to the strong absorption zone is found using Eq.
+Output: [[('Absorption', 33.33), ('Se', 33
+
+
+=== Sentence 107 ===
+Input: (10).
+Output: [[('Se', 60.0), ('Ge', 40.0)
+
+
+=== Sentence 108 ===
+Input: 3.4 Samples prepared in vacuum at different substrate temperatures Fig.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 109 ===
+Input: 6 shows experimental transmittance spectra obtained in the films of the first series of samples.
+Output: [[('Al', 40.0), ('T', 60.0)]
+
+
+=== Sentence 110 ===
+Input: The same figure depicts the respective theoretical spectra.
+Output: [[('Al', 40.0), ('Ti', 60.0)
+
+
+=== Sentence 111 ===
+Input: The samples of this figure present absorption throughout the entire spectrum which hinders the calculations.
+Output: [[('Absorption', 40.0), ('Se', 60.0
+
+
+=== Sentence 112 ===
+Input: It is worth pointing out here that the calculation method is not feasible if the samples do not present interference maxima and minima.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 113 ===
+Input: The refractive index spectra obtained from the calculation are shown in Fig.
+Output: [[('Fe', 33.0), ('O', 67.0)
+
+
+=== Sentence 114 ===
+Input: 7 .
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 115 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 116 ===
+Input: 8 presents the spectral curves for the calculated absorption coefficients of the samples.
+Output: [[('Al', 33.0), ('B', 67.0)
+
+
+=== Sentence 117 ===
+Input: The absorption band described in the transmittance spectrum appears around 850 nm (1.4 eV); it is a very intense and wide band with values around 2.5×104 cm−1.
+Output: [[('Al', 50.0), ('Ti', 50.0)
+
+
+=== Sentence 118 ===
+Input: No noticeable wavelength shifts for the peak are observed when the substrate temperature is changed.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 119 ===
+Input: It is good to point out that other authors report, for this band, absorption values of the order of 104 cm−1
+Output: [[('Ab', 33.0), ('S', 67.0)
+
+
+=== Sentence 120 ===
+Input: [7].
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 121 ===
+Input: It is also observed in Fig.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 122 ===
+Input: 8 that the energy gap of the material changes with the substrate temperature, shifting toward low energy regions as the temperature increases.
+Output: [[('S', 75.0), ('E', 25.0)]]
+
+
+=== Sentence 123 ===
+Input: Table 1 shows the calculated thickness values, refraction index for 600 nm and gap of the material, for the samples of series 1.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 124 ===
+Input: The gap was calculated by extrapolating the curve (αhν)2 with the energy axis.
+Output: [[('H', 33.0), ('O', 67.0)]
+
+
+=== Sentence 125 ===
+Input: It is observed, in the table, a refraction index of about 1.8 for samples prepared at substrate temperatures under 250 °C; the latter tends to rise for substrate temperatures over 250 °C.
+Output: [[('S', 67.0), ('T', 33.0)],
+
+
+=== Sentence 126 ===
+Input: These values agree with results obtained by other authors [7].
+Output: [[('Alternative', 40.0), ('Se', 6
+
+
+=== Sentence 127 ===
+Input: 3.5 Samples prepared within different oxygen atmospheres Fig.
+Output: [[('O', 60.0), ('A', 40.0)]]
+
+
+=== Sentence 128 ===
+Input: 9 shows transmittance spectra obtained for the samples of the second series.
+Output: [[('Al', 40.0), ('Ti', 60.0)
+
+
+=== Sentence 129 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 130 ===
+Input: 10 presents the spectra for the refraction index and Fig.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 131 ===
+Input: 11 depicts the absorption coefficients.
+Output: [[('Absorption', 33.33), ('Se', 
+
+
+=== Sentence 132 ===
+Input: The absorption curves show a reduction on the value of the red absorption band peak of almost one order of magnitude.
+Output: [[('Al', 33.0), ('B', 67.0)
+
+
+=== Sentence 133 ===
+Input: On the other hand, a clear shift toward high-energy regions is observed for the gap of the material when the oxygen pressure in the chamber is increased.
+Output: [[('O', 60.0), ('B', 40.0)]]
+
+
+=== Sentence 134 ===
+Input: The influence of oxygen on the optical properties of the material is outstanding; the samples prepared in oxygen atmosphere present a shift of the gap toward high energies as well as a reduction of the red absorption band when their oxygen content in the chamber is raised.
+Output: [[('O', 60.0), ('Ag', 40.0)]
+
+
+=== Sentence 135 ===
+Input: This band is associated to oxygen vacancies which increase when the substrate temperature is raised [11].
+Output: [[('O', 60.0), ('T', 40.0)]]
+
+
+=== Sentence 136 ===
+Input: The samples prepared in vacuum and high substrate temperatures presented oxygen deficiency because the red absorption band was increased and the gap of the material was shifted toward low-energy regions.
+Output: [[('O', 60.0), ('T', 40.0)]]
+
+
+=== Sentence 137 ===
+Input: Xps Measurements:
+Output: [[('S', 75.0), ('G', 25.0)]]
+
+
+=== Sentence 138 ===
+Input: In order to examine the nature of surface species formed on the films, the MoO3 powder and the samples were investigated using the XPS technique.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 139 ===
+Input: For the purpose of better comparison, the photoelectron peaks of Mo 3p and O 1s pertaining to MoO3 powder and films are presented, together in Figs.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 140 ===
+Input: 2 and 3 , respectively.
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 141 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 142 ===
+Input: 2 shows the XPS spectra characteristic of the MoO3 powder (continuum line), together with spectra of films fabricated at substrate temperatures of 200 °C (dotted line) and 100 °C (dashed line) at oxygen pressure of 6.7×10−1 Pa. Fig.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 143 ===
+Input: 2 shows the binding energies of Mo 3p photoelectron peaks at 398.4±0.1 and 415.8±0.1 eV for Mo 3p3/2 and Mo 3p1/2 lines, respectively.
+Output: [[('Mo', 75.0), ('P', 25.0)],
+
+
+=== Sentence 144 ===
+Input: The spectra shows a principal peak at 398.4±0.1 eV which agrees well with the oxidation state Mo6+, suggesting the presence of MoO3 in the departure material and in the samples.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 145 ===
+Input: In Fig. 3 are shown the photoelectron peaks of O 1s, obtained in the MoO3 powder and the same samples described in Fig.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 146 ===
+Input: 2. The O's 1s profiles are complicated due to the oxygen overlapping contribution from other species.
+Output: [[('O', 33.33), ('O', 33.33),
+
+
+=== Sentence 147 ===
+Input: In sample prepared at substrate temperature of 200 °C, the quantification process reveals evidence of the presence of three species of O; one at 530.2±0.1 eV related with molybdenum–oxygen bonds.
+Output: [[('O', 53.0), ('Mo', 15.0)
+
+
+=== Sentence 148 ===
+Input: Another at 531.8±0.1 eV in a spectral area corresponding to the presence of OH groups and the last one at 533.0±0.1 eV, associated with water adsorbed at the sample's surface.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 149 ===
+Input: The spectrum of a sample, prepared at a substrate temperature of 100 °C, suggests the presence of two oxygen species: one at 530.1±0.1 eV associated with Mo–O bonds; the other is located at 532.4±0.1 eV, corresponding to water.
+Output: [[('Mo', 50.0), ('O', 50.0)],
+
+
+=== Sentence 150 ===
+Input: No cleaning procedure was performed on the samples before the XPS analysis; the water and OH bonds are probably appearing due to the samples air exposition after the evaporation procedure.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 151 ===
+Input: The quantification process also yields evidence of the presence of the phase MoO2 in the samples.
+Output: [[('MoO2', 100.0)]]
+
+
+=== Sentence 152 ===
+Input: This phase appears in all the prepared samples, inclusive in those deposited in oxygen atmosphere.
+Output: [[('O', 60.0), ('Te', 40.0)]
+
+
+=== Sentence 153 ===
+Input: Method Employed To Calculate The Optical Constants Of The Films:
+The transmittance is calculated using the optical system of a thin film deposited on a semi-infinitely thick substrate
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 154 ===
+Input: [8], which could or could not be absorbent (Fig. 4 ).
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 155 ===
+Input: The film has a refraction index n 1, an extinction coefficient k 1 and thickness d 1.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 156 ===
+Input: To the substrate are assigned: refraction index n 2, extinction coefficient k 2 and semi-infinite thickness; n 1, d 1 and k 1 are unknown in our case; n
+Output: [[('n', 33.33), ('d', 33.33),
+
+
+=== Sentence 157 ===
+Input: 2=1.52 and k 2=0 in the analyzed spectral region; n 0=1 is the air's refraction index.
+Output: [[('K', 66.67), ('Ti', 33.3
+
+
+=== Sentence 158 ===
+Input: The theoretical expression for the transmittance of the film-substrate system is given as a function of λ, the wavelength, and α 1, the absorption coefficient of the thin film.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 159 ===
+Input: (1) T=n 2 n 0 [ ( 1 + g 1 ) 2 + h 1 2 ] [ ( 1 + g 2 ) 2 + h 2 2 ] e 2 α 1 + ( g 1 2 + h 1 2 ) ( g 2 2 + h 2 2 ) e − 2 α 1 + C cos 2 γ 1 + D sin 2 γ 1 (2) g 1=n 0 2 − n 1 2 − k 1 2 ( n 0 + n 1 ) 2 + k 1 2 (3) h 1=2 n 0 k 1 ( n 0 + n 1 ) 2 + k 1 2 (4) g 2=n 1 2 − n 2 2 + k 1 2 − k 2 2 ( n 1 + n 2 ) 2 + ( k 1 + k 2 ) 2 (5)
+Output: [[('n', 66.67), ('g', 33.33)
+
+
+=== Sentence 160 ===
+Input: h 2=2 ( n 1 k 2 − n 2 k 1 ) ( n 1 + n 2 ) 2 + ( k 1 + k 2 ) 2 (6) α 1=2 ⁢ π
+Output: [[('n', 33.33), ('k', 33.33),
+
+
+=== Sentence 161 ===
+Input: k 1 d 1 λ (7) γ 1=2 ⁢ π n 1 d 1 λ (8) C=2 ( g 1 g 2 − h 1 h 2 ) (9) D=2 ( g 1 h 2 + h 1 g 2 )
+
+Calculation Procedure:
+Output: [[('d', 33.33), ('g', 33.33),
+
+
+=== Sentence 162 ===
+Input: In the problem, n 1 and k 1 depend on the wavelength and are unknown; the sample thickness is also unknown.
+Output: [[('N', 33.33), ('K', 33.33),
+
+
+=== Sentence 163 ===
+Input: These constants are obtained through the theoretical simulation of the experimental transmittance spectra, using the following relation: (10) T Theo − T exp < 0.001
+Where T Theo is the theoretical transmittance value obtained with Eq.
+Output: [[('Te', 33.33), ('Exp', 33.33
+
+
+=== Sentence 164 ===
+Input: (1) and T exp is the experimental value.
+Output: [[('T', 33.33), ('E', 33.33),
+
+
+=== Sentence 165 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 166 ===
+Input: 5 shows a characteristic transmittance spectrum for a MoO3 thin film.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 167 ===
+Input: The spectrum presents a high absorption zone for wavelengths shorter than 450 nm and a semitransparent zone from 450 through 1000 nm.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 168 ===
+Input: The semitransparent zone presents quite useful interference maxima and minima because, from their spectral positions, we can calculate initial values for the refraction index and the sample thickness
+Output: [[('Se', 60.0), ('Al', 40.0)
+
+
+=== Sentence 169 ===
+Input: [9].
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 170 ===
+Input: Carefully observing the spectrum, we notice that around 850 nm, the transmittance values decrease.
+Output: [[('Al', 85.0), ('B', 25.0)]
+
+
+=== Sentence 171 ===
+Input: This is associated to the presence in the material of a wide absorption band.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 172 ===
+Input: This absorption band interferes with the spectrum diminishing the amplitudes of maxima and minima and modifying their wavelength positions, causing a dispersion in the calculated value of d.
+Output: [[('Absorption', 50.0), ('Se', 50.0
+
+
+=== Sentence 173 ===
+Input: It is observed, in theoretical simulations, that the wavelength shifts for maxima and minima are opposite, compensating in this way for the value of d.
+Output: [[('d', 33.33), ('e', 33.33),
+
+
+=== Sentence 174 ===
+Input: The calculation can be summarized in the following steps:
+We assume initially the film to be totally transparent between 450 and 1000 nm to calculate approximate values for the optical path n 1
+Output: [[('F', 45.0), ('O', 65.0)]]
+
+
+=== Sentence 175 ===
+Input: d 1 inside the material: the sample thickness is calculated using the relation: (11)
+Output: [[('d', 80.0), ('material', 20.0)]]
+
+
+=== Sentence 176 ===
+Input: d
+Output: [[('D', 50.0), ('A', 50.0)]]
+
+
+=== Sentence 177 ===
+Input: 1
+Output: [[('Al', 67.0), ('B', 33.0)
+
+
+=== Sentence 178 ===
+Input: =λ 1 λ 2 2 ( λ 1 n 12 − λ 2 n 11 )
+Output: [[('n', 33.33), ('o', 33.33),
+
+
+=== Sentence 179 ===
+Input: where n 11 and n 12 are the MoO3's refraction indexes associated to two consecutive maxima (or minima) located at the respective wavelengths λ 1 and λ 2.
+Output: [[('MoO3', 66.67), ('N',
+
+
+=== Sentence 180 ===
+Input: n 11 and n 12 are obtained using the W–D model of the simple harmonic oscillator proposed by Wemple and DiDomenico
+Output: [[('N', 66.67), ('O', 33.33)
+
+
+=== Sentence 181 ===
+Input: [10]: (12) n 1 2 − 1=E d E o E o 2 − ℏ 2 ω 2
+Where ℏω is the energy of the photon, E 0 the energy of the oscillator and
+Output: [[('E', 33.33), ('O', 33.33),
+
+
+=== Sentence 182 ===
+Input: E d the dispersion energy.
+Output: [[('E', 33.33), ('D', 33.33),
+
+
+=== Sentence 183 ===
+Input: The value of the refraction index is found through the numerical calculation of the values for E 0 and E d.
+Output: [[('E', 33.0), ('D', 67.0)]
+
+
+=== Sentence 184 ===
+Input: The criterion used in this initial part of the process is to seek that the wavelength positions for maxima and minima of the theoretical spectrum be very close to the experimental ones.
+Output: [[('Te', 33.33), ('P', 66.
+
+
+=== Sentence 185 ===
+Input: The d 1 values obtained from the different couples of maxima and/or minima are averaged out to get an acceptable final value.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 186 ===
+Input: Once obtained the values for the optical path inside the material, the absorption in the low absorption zone (from 450 through 1000 nm) is included to recalculate the optical path using Eq. (10).
+Output: [[('Al', 40.0), ('Mg', 60.0)
+
+
+=== Sentence 187 ===
+Input: This translates into an improvement on the previous values for thickness and refraction index.
+Output: [[('Ti', 60.0), ('Fe', 40.0)
+
+
+=== Sentence 188 ===
+Input: The refraction index for the high absorption region is calculated with Eq.
+Output: [[('Absorption', 50.0), ('Se', 50.0
+
+
+=== Sentence 189 ===
+Input: (12) and, finally, the absorption corresponding to the strong absorption zone is found using Eq.
+Output: [[('Absorption', 33.33), ('Se', 33
+
+
+=== Sentence 190 ===
+Input: (10).
+Output: [[('Se', 60.0), ('Ge', 40.0)
+
+
+=== Sentence 191 ===
+Input: Samples Prepared In Vacuum At Different Substrate Temperatures:
+Fig.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 192 ===
+Input: 6 shows experimental transmittance spectra obtained in the films of the first series of samples.
+Output: [[('Al', 40.0), ('T', 60.0)]
+
+
+=== Sentence 193 ===
+Input: The same figure depicts the respective theoretical spectra.
+Output: [[('Al', 40.0), ('Ti', 60.0)
+
+
+=== Sentence 194 ===
+Input: The samples of this figure present absorption throughout the entire spectrum which hinders the calculations.
+Output: [[('Absorption', 40.0), ('Se', 60.0
+
+
+=== Sentence 195 ===
+Input: It is worth pointing out here that the calculation method is not feasible if the samples do not present interference maxima and minima.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 196 ===
+Input: The refractive index spectra obtained from the calculation are shown in Fig.
+Output: [[('Fe', 33.0), ('O', 67.0)
+
+
+=== Sentence 197 ===
+Input: 7 .
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 198 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 199 ===
+Input: 8 presents the spectral curves for the calculated absorption coefficients of the samples.
+Output: [[('Al', 33.0), ('B', 67.0)
+
+
+=== Sentence 200 ===
+Input: The absorption band described in the transmittance spectrum appears around 850 nm (1.4 eV); it is a very intense and wide band with values around 2.5×104 cm−1.
+Output: [[('Al', 50.0), ('Ti', 50.0)
+
+
+=== Sentence 201 ===
+Input: No noticeable wavelength shifts for the peak are observed when the substrate temperature is changed.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 202 ===
+Input: It is good to point out that other authors report, for this band, absorption values of the order of 104 cm−1
+Output: [[('Ab', 33.0), ('S', 67.0)
+
+
+=== Sentence 203 ===
+Input: [7].
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 204 ===
+Input: It is also observed in Fig.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 205 ===
+Input: 8 that the energy gap of the material changes with the substrate temperature, shifting toward low energy regions as the temperature increases.
+Output: [[('S', 75.0), ('E', 25.0)]]
+
+
+=== Sentence 206 ===
+Input: Table 1 shows the calculated thickness values, refraction index for 600 nm and gap of the material, for the samples of series 1.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 207 ===
+Input: The gap was calculated by extrapolating the curve (αhν)2 with the energy axis.
+Output: [[('H', 33.0), ('O', 67.0)]
+
+
+=== Sentence 208 ===
+Input: It is observed, in the table, a refraction index of about 1.8 for samples prepared at substrate temperatures under 250 °C; the latter tends to rise for substrate temperatures over 250 °C.
+Output: [[('S', 67.0), ('T', 33.0)],
+
+
+=== Sentence 209 ===
+Input: These values agree with results obtained by other authors [7].
+Output: [[('Alternative', 40.0), ('Se', 6
+
+
+=== Sentence 210 ===
+Input: Samples Prepared Within Different Oxygen Atmospheres:
+Fig.
+Output: [[('O', 60.0), ('B', 40.0)]]
+
+
+=== Sentence 211 ===
+Input: 9 shows transmittance spectra obtained for the samples of the second series.
+Output: [[('Al', 40.0), ('Ti', 60.0)
+
+
+=== Sentence 212 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 213 ===
+Input: 10 presents the spectra for the refraction index and Fig.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 214 ===
+Input: 11 depicts the absorption coefficients.
+Output: [[('Absorption', 33.33), ('Se', 
+
+
+=== Sentence 215 ===
+Input: The absorption curves show a reduction on the value of the red absorption band peak of almost one order of magnitude.
+Output: [[('Al', 33.0), ('B', 67.0)
+
+
+=== Sentence 216 ===
+Input: On the other hand, a clear shift toward high-energy regions is observed for the gap of the material when the oxygen pressure in the chamber is increased.
+Output: [[('O', 60.0), ('B', 40.0)]]
+
+
+=== Sentence 217 ===
+Input: The influence of oxygen on the optical properties of the material is outstanding; the samples prepared in oxygen atmosphere present a shift of the gap toward high energies as well as a reduction of the red absorption band when their oxygen content in the chamber is raised.
+Output: [[('O', 60.0), ('Ag', 40.0)]
+
+
+=== Sentence 218 ===
+Input: This band is associated to oxygen vacancies which increase when the substrate temperature is raised [11].
+Output: [[('O', 60.0), ('T', 40.0)]]
+
+
+=== Sentence 219 ===
+Input: The samples prepared in vacuum and high substrate temperatures presented oxygen deficiency because the red absorption band was increased and the gap of the material was shifted toward low-energy regions.
+Output: [[('O', 60.0), ('T', 40.0)]]
+
+
+=== Sentence 220 ===
+Input: Conclusions:
+MoO3 thin films were prepared, in this work, using a CO2 laser set up in continuous wave mode.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 221 ===
+Input: The XPS analysis revealed a mixture of the phases MoO3 and MoO2 in all the prepared films.
+Output: [[('MoO3', 100.0)], [('MoO
+
+
+=== Sentence 222 ===
+Input: A simple calculation procedure was used to determine the influence of the substrate temperature and chamber oxygen pressure on the optical properties of the material.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 223 ===
+Input: It was found that the gap of the material shifts toward higher-energy regions as the oxygen content of the sample is risen.
+Output: [[('O', 60.0), ('Ge', 40.0)]
+
+
+=== Sentence 224 ===
+Input: Furthermore, the samples presented an absorption band at 880 nm, associated with oxygen vacancies in them; this band decreases as the oxygen content of the material rises.
+Output: [[('O', 60.0), ('Te', 40.0)]
+
+
+=== Sentence 225 ===
+Input: Samples prepared with substrate temperature under 250 °C and those prepared with high oxygen content in the chamber presented similar optical properties, indicating that low temperatures favor the rise of oxygen content of the samples.
+Output: [[('O', 60.0), ('Te', 40.0)]
+
+
+=== Sentence 226 ===
+Input: Those samples prepared with high substrate temperatures presented oxygen vacancies.
+Output: [[('O', 67.0), ('Te', 33.0)
+
+
+=== Sentence 227 ===
+Input: Body:
+MoO3 is a very attractive material due to its multiple technological applications [1–3].
+Output: [[('MoO3', 66.67), ('NiO
+
+
+=== Sentence 228 ===
+Input: MoO3 thin films have been produced by thermal evaporation, sputtering and electrochemical deposition [4,5].
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 229 ===
+Input: One of the most interesting applications of MoO3 is known as smart window in which the device must regulate the amount of light going through it [6].
+Output: [[('MoO3', 66.67), ('SiO
+
+
+=== Sentence 230 ===
+Input: To optimize the devices, its behavior is modeled in computer, for which it is important to know the optical properties of the materials forming it.
+Output: [[('Al', 40.0), ('Co', 60.0)]
+
+
+=== Sentence 231 ===
+Input: Determining the optical constants of MoO3 is quite difficult due to the presence of absorption in the visible region of the spectrum, which hinders the use of traditional calculation methods.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 232 ===
+Input: Nonetheless, some authors have developed alternative methods to obtain the constants for these materials [7].
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 233 ===
+Input: This work describes the synthesis of MoO3 thin films, prepared in high vacuum by evaporating a MoO3 target with a CO2 laser operating in continuous wave mode.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 234 ===
+Input: Additionally, a method is proposed to calculate the optical constants of the material, using the theoretical simulation of experimental transmittance spectra in the visible and near infrared region.
+Output: [[('Al', 60.0), ('Ti', 40.0)
+
+
+=== Sentence 235 ===
+Input: This simulation yields the spectral variations of the refraction index and absorption coefficient, the energy gap and the material's thickness.
+Output: [[('Absorption', 20.0), ('Refraction', 80.0
+
+
+=== Sentence 236 ===
+Input: It also points at the influence of the substrate temperature and oxygen pressure in the chamber, on the optical properties of the material.
+Output: [[('S', 67.0), ('O', 33.0)]
+
+
+=== Sentence 237 ===
+Input: The MoO3 thin films were deposited using the laser thermal evaporation technique Fig.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 238 ===
+Input: 1 .
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 239 ===
+Input: A light beam coming from a CO2 laser is shined on a target made up of MoO3 powder (99.9%).
+Output: [[('MoO3', 99.9), ('CO2',
+
+
+=== Sentence 240 ===
+Input: The beam has a wavelength of 10.6 μm and an intensity of 0.73 W/mm2.
+Output: [[('W', 33.0), ('B', 67.0)]
+
+
+=== Sentence 241 ===
+Input: The beam is introduced into the vacuum chamber through a GaAs lens and focused, with a Copper mirror, on the target.
+Output: [[('As', 33.33), ('Ga', 33.
+
+
+=== Sentence 242 ===
+Input: The MoO3 powder is hand pressed to avoid its dispersion toward the substrates by the application of the beam.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 243 ===
+Input: The heat produced by the laser sublimates the material and it is deposited on common glass substrates (15 mm long and 10 mm wide) placed 10 cm above the powder.
+Output: [[('Al', 50.0), ('S', 50.0)]
+
+
+=== Sentence 244 ===
+Input: The MoO3 target is rotated at about 20 rpm to avoid the formation of an irregular hole at the incidence point, which produces inhomogeneities on the sample thickness and modifies the deposition rate of the material.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 245 ===
+Input: Samples were prepared in vacuum and under different oxygen pressures.
+Output: [[('O', 60.0), ('B', 40.0)]]
+
+
+=== Sentence 246 ===
+Input: The optical constants were obtained in two series of samples.
+Output: [[('Al', 40.0), ('Te', 60.0)
+
+
+=== Sentence 247 ===
+Input: The first series was prepared in vacuum at different substrate temperatures ranging from room temperature to 350 °C, chamber pressure of 6×10−4 Pa, deposition time of 1 min and laser intensity of 0.73 W/mm2.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 248 ===
+Input: The second series was carried out with constant substrate temperature of 300 °C, deposition time of 1 min, laser intensity of 0.23 W/mm2 and different oxygen pressures in the chamber.
+Output: [[('O', 60.0), ('Ti', 30.0)]
+
+
+=== Sentence 249 ===
+Input: In this series, the vacuum chamber was taken to an initial pressure of 6×10−4 Pa.
+
+Diffraction oxidations states of both MoO3 powder and prepared samples were determined by X-ray photoelectron spectroscopy (XPS), using a VG-ESCA LAB 250 spectrometer with an energy resolution of 0.4 eV. Al Kα (1486.6 eV) radiation was used as the excitation source.
+Output: [[('MoO3', 66.67), ('P',
+
+
+=== Sentence 250 ===
+Input: The spectra were recorded in fixed analyzer transmission mode, the pass energy being 50 eV. The scanning of the spectra was done at pressures of 5×10−7 Pa.
+Output: [[('P', 50.0), ('Al', 50.0)]
+
+
+=== Sentence 251 ===
+Input: Binding energies were measured for O (1s) and Mo (3p).
+Output: [[('Mo', 33.33), ('O', 33.33
+
+
+=== Sentence 252 ===
+Input: Peaks were fitted using a combination of Gaussian and Lorentzian functions.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 253 ===
+Input: This deconvolution was used to quantify the sensitive factors.
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 254 ===
+Input: The films were also characterized through transmittance measurements in the visible and near infrared regions, using a double beam PERKIN ELMER lambda 2 spectrophotometer, operating at normal incidence on the sample surface.
+Output: [[('Fe', 33.0), ('O', 67.0)
+
+
+=== Sentence 255 ===
+Input: In order to examine the nature of surface species formed on the films, the MoO3 powder and the samples were investigated using the XPS technique.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 256 ===
+Input: For the purpose of better comparison, the photoelectron peaks of Mo 3p and O 1s pertaining to MoO3 powder and films are presented, together in Figs.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 257 ===
+Input: 2 and 3 , respectively.
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 258 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 259 ===
+Input: 2 shows the XPS spectra characteristic of the MoO3 powder (continuum line), together with spectra of films fabricated at substrate temperatures of 200 °C (dotted line) and 100 °C (dashed line) at oxygen pressure of 6.7×10−1 Pa. Fig.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 260 ===
+Input: 2 shows the binding energies of Mo 3p photoelectron peaks at 398.4±0.1 and 415.8±0.1 eV for Mo 3p3/2 and Mo 3p1/2 lines, respectively.
+Output: [[('Mo', 75.0), ('P', 25.0)],
+
+
+=== Sentence 261 ===
+Input: The spectra shows a principal peak at 398.4±0.1 eV which agrees well with the oxidation state Mo6+, suggesting the presence of MoO3 in the departure material and in the samples.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 262 ===
+Input: In Fig. 3 are shown the photoelectron peaks of O 1s, obtained in the MoO3 powder and the same samples described in Fig.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 263 ===
+Input: 2. The O's 1s profiles are complicated due to the oxygen overlapping contribution from other species.
+Output: [[('O', 33.33), ('O', 33.33),
+
+
+=== Sentence 264 ===
+Input: In sample prepared at substrate temperature of 200 °C, the quantification process reveals evidence of the presence of three species of O; one at 530.2±0.1 eV related with molybdenum–oxygen bonds.
+Output: [[('O', 53.0), ('Mo', 15.0)
+
+
+=== Sentence 265 ===
+Input: Another at 531.8±0.1 eV in a spectral area corresponding to the presence of OH groups and the last one at 533.0±0.1 eV, associated with water adsorbed at the sample's surface.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 266 ===
+Input: The spectrum of a sample, prepared at a substrate temperature of 100 °C, suggests the presence of two oxygen species: one at 530.1±0.1 eV associated with Mo–O bonds; the other is located at 532.4±0.1 eV, corresponding to water.
+Output: [[('Mo', 50.0), ('O', 50.0)],
+
+
+=== Sentence 267 ===
+Input: No cleaning procedure was performed on the samples before the XPS analysis; the water and OH bonds are probably appearing due to the samples air exposition after the evaporation procedure.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 268 ===
+Input: The quantification process also yields evidence of the presence of the phase MoO2 in the samples.
+Output: [[('MoO2', 100.0)]]
+
+
+=== Sentence 269 ===
+Input: This phase appears in all the prepared samples, inclusive in those deposited in oxygen atmosphere.
+Output: [[('O', 60.0), ('Te', 40.0)]
+
+
+=== Sentence 270 ===
+Input: The transmittance is calculated using the optical system of a thin film deposited on a semi-infinitely thick substrate
+Output: [[('S', 75.0), ('T', 25.0)]]
+
+
+=== Sentence 271 ===
+Input: [8], which could or could not be absorbent (Fig. 4 ).
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 272 ===
+Input: The film has a refraction index n 1, an extinction coefficient k 1 and thickness d 1.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 273 ===
+Input: To the substrate are assigned: refraction index n 2, extinction coefficient k 2 and semi-infinite thickness; n 1, d 1 and k 1 are unknown in our case; n
+Output: [[('n', 33.33), ('d', 33.33),
+
+
+=== Sentence 274 ===
+Input: 2=1.52 and k 2=0 in the analyzed spectral region; n 0=1 is the air's refraction index.
+Output: [[('K', 66.67), ('Ti', 33.3
+
+
+=== Sentence 275 ===
+Input: The theoretical expression for the transmittance of the film-substrate system is given as a function of λ, the wavelength, and α 1, the absorption coefficient of the thin film.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 276 ===
+Input: (1) T=n 2 n 0 [ ( 1 + g 1 ) 2 + h 1 2 ] [ ( 1 + g 2 ) 2 + h 2 2 ] e 2 α 1 + ( g 1 2 + h 1 2 ) ( g 2 2 + h 2 2 ) e − 2 α 1 + C cos 2 γ 1 + D sin 2 γ 1 (2) g 1=n 0 2 − n 1 2 − k 1 2 ( n 0 + n 1 ) 2 + k 1 2 (3) h 1=2 n 0 k 1 ( n 0 + n 1 ) 2 + k 1 2 (4) g 2=n 1 2 − n 2 2 + k 1 2 − k 2 2 ( n 1 + n 2 ) 2 + ( k 1 + k 2 ) 2 (5)
+Output: [[('n', 66.67), ('g', 33.33)
+
+
+=== Sentence 277 ===
+Input: h 2=2 ( n 1 k 2 − n 2 k 1 ) ( n 1 + n 2 ) 2 + ( k 1 + k 2 ) 2 (6) α 1=2 ⁢ π
+Output: [[('n', 33.33), ('k', 33.33),
+
+
+=== Sentence 278 ===
+Input: k 1 d 1 λ (7) γ 1=2 ⁢ π n 1 d 1 λ (8) C=2 ( g 1 g 2 − h 1 h 2 ) (9) D=2 ( g 1 h 2 + h 1 g 2 )
+Output: [[('g', 33.33), ('d', 33.33),
+
+
+=== Sentence 279 ===
+Input: In the problem, n 1 and k 1 depend on the wavelength and are unknown; the sample thickness is also unknown.
+Output: [[('N', 33.33), ('K', 33.33),
+
+
+=== Sentence 280 ===
+Input: These constants are obtained through the theoretical simulation of the experimental transmittance spectra, using the following relation: (10) T Theo − T exp < 0.001
+
+Where T Theo is the theoretical transmittance value obtained with Eq.
+Output: [[('Te', 33.33), ('Exp', 33.33
+
+
+=== Sentence 281 ===
+Input: (1) and T exp is the experimental value.
+Output: [[('T', 33.33), ('E', 33.33),
+
+
+=== Sentence 282 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 283 ===
+Input: 5 shows a characteristic transmittance spectrum for a MoO3 thin film.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 284 ===
+Input: The spectrum presents a high absorption zone for wavelengths shorter than 450 nm and a semitransparent zone from 450 through 1000 nm.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 285 ===
+Input: The semitransparent zone presents quite useful interference maxima and minima because, from their spectral positions, we can calculate initial values for the refraction index and the sample thickness
+Output: [[('Se', 60.0), ('Al', 40.0)
+
+
+=== Sentence 286 ===
+Input: [9].
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 287 ===
+Input: Carefully observing the spectrum, we notice that around 850 nm, the transmittance values decrease.
+Output: [[('Al', 85.0), ('B', 25.0)]
+
+
+=== Sentence 288 ===
+Input: This is associated to the presence in the material of a wide absorption band.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 289 ===
+Input: This absorption band interferes with the spectrum diminishing the amplitudes of maxima and minima and modifying their wavelength positions, causing a dispersion in the calculated value of d.
+Output: [[('Absorption', 50.0), ('Se', 50.0
+
+
+=== Sentence 290 ===
+Input: It is observed, in theoretical simulations, that the wavelength shifts for maxima and minima are opposite, compensating in this way for the value of d.
+Output: [[('d', 33.33), ('e', 33.33),
+
+
+=== Sentence 291 ===
+Input: The calculation can be summarized in the following steps:
+
+We assume initially the film to be totally transparent between 450 and 1000 nm to calculate approximate values for the optical path n 1
+Output: [[('F', 45.0), ('O', 65.0)]]
+
+
+=== Sentence 292 ===
+Input: d 1 inside the material: the sample thickness is calculated using the relation: (11)
+Output: [[('d', 80.0), ('material', 20.0)]]
+
+
+=== Sentence 293 ===
+Input: d
+Output: [[('D', 50.0), ('A', 50.0)]]
+
+
+=== Sentence 294 ===
+Input: 1
+Output: [[('Al', 67.0), ('B', 33.0)
+
+
+=== Sentence 295 ===
+Input: =λ 1 λ 2 2 ( λ 1 n 12 − λ 2 n 11 )
+Output: [[('n', 33.33), ('o', 33.33),
+
+
+=== Sentence 296 ===
+Input: where n 11 and n 12 are the MoO3's refraction indexes associated to two consecutive maxima (or minima) located at the respective wavelengths λ 1 and λ 2.
+Output: [[('MoO3', 66.67), ('N',
+
+
+=== Sentence 297 ===
+Input: n 11 and n 12 are obtained using the W–D model of the simple harmonic oscillator proposed by Wemple and DiDomenico
+Output: [[('N', 66.67), ('O', 33.33)
+
+
+=== Sentence 298 ===
+Input: [10]: (12) n 1 2 − 1=E d E o E o 2 − ℏ 2 ω 2
+
+Where ℏω is the energy of the photon, E 0 the energy of the oscillator and
+Output: [[('E', 33.33), ('O', 33.33),
+
+
+=== Sentence 299 ===
+Input: E d the dispersion energy.
+Output: [[('E', 33.33), ('D', 33.33),
+
+
+=== Sentence 300 ===
+Input: The value of the refraction index is found through the numerical calculation of the values for E 0 and E d.
+Output: [[('E', 33.0), ('D', 67.0)]
+
+
+=== Sentence 301 ===
+Input: The criterion used in this initial part of the process is to seek that the wavelength positions for maxima and minima of the theoretical spectrum be very close to the experimental ones.
+Output: [[('Te', 33.33), ('P', 66.
+
+
+=== Sentence 302 ===
+Input: The d 1 values obtained from the different couples of maxima and/or minima are averaged out to get an acceptable final value.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 303 ===
+Input: Once obtained the values for the optical path inside the material, the absorption in the low absorption zone (from 450 through 1000 nm) is included to recalculate the optical path using Eq. (10).
+Output: [[('Al', 40.0), ('Mg', 60.0)
+
+
+=== Sentence 304 ===
+Input: This translates into an improvement on the previous values for thickness and refraction index.
+Output: [[('Ti', 60.0), ('Fe', 40.0)
+
+
+=== Sentence 305 ===
+Input: The refraction index for the high absorption region is calculated with Eq.
+Output: [[('Absorption', 50.0), ('Se', 50.0
+
+
+=== Sentence 306 ===
+Input: (12) and, finally, the absorption corresponding to the strong absorption zone is found using Eq.
+Output: [[('Absorption', 33.33), ('Se', 33
+
+
+=== Sentence 307 ===
+Input: (10).
+Output: [[('Se', 60.0), ('Ge', 40.0)
+
+
+=== Sentence 308 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 309 ===
+Input: 6 shows experimental transmittance spectra obtained in the films of the first series of samples.
+Output: [[('Al', 40.0), ('T', 60.0)]
+
+
+=== Sentence 310 ===
+Input: The same figure depicts the respective theoretical spectra.
+Output: [[('Al', 40.0), ('Ti', 60.0)
+
+
+=== Sentence 311 ===
+Input: The samples of this figure present absorption throughout the entire spectrum which hinders the calculations.
+Output: [[('Absorption', 40.0), ('Se', 60.0
+
+
+=== Sentence 312 ===
+Input: It is worth pointing out here that the calculation method is not feasible if the samples do not present interference maxima and minima.
+Output: [[('Al', 50.0), ('B', 50.0)]
+
+
+=== Sentence 313 ===
+Input: The refractive index spectra obtained from the calculation are shown in Fig.
+Output: [[('Fe', 33.0), ('O', 67.0)
+
+
+=== Sentence 314 ===
+Input: 7 .
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 315 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 316 ===
+Input: 8 presents the spectral curves for the calculated absorption coefficients of the samples.
+Output: [[('Al', 33.0), ('B', 67.0)
+
+
+=== Sentence 317 ===
+Input: The absorption band described in the transmittance spectrum appears around 850 nm (1.4 eV); it is a very intense and wide band with values around 2.5×104 cm−1.
+Output: [[('Al', 50.0), ('Ti', 50.0)
+
+
+=== Sentence 318 ===
+Input: No noticeable wavelength shifts for the peak are observed when the substrate temperature is changed.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 319 ===
+Input: It is good to point out that other authors report, for this band, absorption values of the order of 104 cm−1
+Output: [[('Ab', 33.0), ('S', 67.0)
+
+
+=== Sentence 320 ===
+Input: [7].
+Output: [[('Se', 67.0), ('Ge', 33.0
+
+
+=== Sentence 321 ===
+Input: It is also observed in Fig.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 322 ===
+Input: 8 that the energy gap of the material changes with the substrate temperature, shifting toward low energy regions as the temperature increases.
+Output: [[('S', 75.0), ('E', 25.0)]]
+
+
+=== Sentence 323 ===
+Input: Table 1 shows the calculated thickness values, refraction index for 600 nm and gap of the material, for the samples of series 1.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 324 ===
+Input: The gap was calculated by extrapolating the curve (αhν)2 with the energy axis.
+Output: [[('H', 33.0), ('O', 67.0)]
+
+
+=== Sentence 325 ===
+Input: It is observed, in the table, a refraction index of about 1.8 for samples prepared at substrate temperatures under 250 °C; the latter tends to rise for substrate temperatures over 250 °C.
+Output: [[('S', 67.0), ('T', 33.0)],
+
+
+=== Sentence 326 ===
+Input: These values agree with results obtained by other authors [7].
+Output: [[('Alternative', 40.0), ('Se', 6
+
+
+=== Sentence 327 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 328 ===
+Input: 9 shows transmittance spectra obtained for the samples of the second series.
+Output: [[('Al', 40.0), ('Ti', 60.0)
+
+
+=== Sentence 329 ===
+Input: Fig.
+Output: [[('Al', 40.0), ('B', 60.0)]
+
+
+=== Sentence 330 ===
+Input: 10 presents the spectra for the refraction index and Fig.
+Output: [[('F', 33.0), ('O', 67.0)]
+
+
+=== Sentence 331 ===
+Input: 11 depicts the absorption coefficients.
+Output: [[('Absorption', 33.33), ('Se', 
+
+
+=== Sentence 332 ===
+Input: The absorption curves show a reduction on the value of the red absorption band peak of almost one order of magnitude.
+Output: [[('Al', 33.0), ('B', 67.0)
+
+
+=== Sentence 333 ===
+Input: On the other hand, a clear shift toward high-energy regions is observed for the gap of the material when the oxygen pressure in the chamber is increased.
+Output: [[('O', 60.0), ('B', 40.0)]]
+
+
+=== Sentence 334 ===
+Input: The influence of oxygen on the optical properties of the material is outstanding; the samples prepared in oxygen atmosphere present a shift of the gap toward high energies as well as a reduction of the red absorption band when their oxygen content in the chamber is raised.
+Output: [[('O', 60.0), ('Ag', 40.0)]
+
+
+=== Sentence 335 ===
+Input: This band is associated to oxygen vacancies which increase when the substrate temperature is raised [11].
+Output: [[('O', 60.0), ('T', 40.0)]]
+
+
+=== Sentence 336 ===
+Input: The samples prepared in vacuum and high substrate temperatures presented oxygen deficiency because the red absorption band was increased and the gap of the material was shifted toward low-energy regions.
+Output: [[('O', 60.0), ('T', 40.0)]]
+
+
+=== Sentence 337 ===
+Input: MoO3 thin films were prepared, in this work, using a CO2 laser set up in continuous wave mode.
+Output: [[('MoO3', 100.0)]]
+
+
+=== Sentence 338 ===
+Input: The XPS analysis revealed a mixture of the phases MoO3 and MoO2 in all the prepared films.
+Output: [[('MoO3', 100.0)], [('MoO
+
+
+=== Sentence 339 ===
+Input: A simple calculation procedure was used to determine the influence of the substrate temperature and chamber oxygen pressure on the optical properties of the material.
+Output: [[('S', 67.0), ('T', 33.0)]
+
+
+=== Sentence 340 ===
+Input: It was found that the gap of the material shifts toward higher-energy regions as the oxygen content of the sample is risen.
+Output: [[('O', 60.0), ('Ge', 40.0)]
+
+
+=== Sentence 341 ===
+Input: Furthermore, the samples presented an absorption band at 880 nm, associated with oxygen vacancies in them; this band decreases as the oxygen content of the material rises.
+Output: [[('O', 60.0), ('Te', 40.0)]
+
+
+=== Sentence 342 ===
+Input: Samples prepared with substrate temperature under 250 °C and those prepared with high oxygen content in the chamber presented similar optical properties, indicating that low temperatures favor the rise of oxygen content of the samples.
+Output: [[('O', 60.0), ('Te', 40.0)]
+
+
+=== Sentence 343 ===
+Input: Those samples prepared with high substrate temperatures presented oxygen vacancies.
+Output: [[('O', 67.0), ('Te', 33.0)
+
+
+=== Sentence 344 ===
+Input: The authors wish to thank the International Programme in the Physical Sciences (IPPS), Uppsala University, and the Research Division of the Universidad Nacional de Colombia (DIB) for their economic support to this work.
+Output: [[('Ps', 50.0), ('Dib', 50.0

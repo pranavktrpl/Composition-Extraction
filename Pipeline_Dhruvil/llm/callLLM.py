@@ -2,6 +2,7 @@ import json
 import os
 from time import sleep
 from typing import Any, Dict, List, Optional, Union
+import threading
 
 import litellm
 import requests
@@ -13,6 +14,34 @@ load_dotenv()
 
 # Drop unsupported parameters for different model providers
 litellm.drop_params = True
+
+# Global variables for API key rotation
+_api_key_lock = threading.Lock()
+_current_key_index = 0
+
+def get_next_api_key():
+    """Get the next API key in rotation from the three environment variables."""
+    global _current_key_index
+    
+    with _api_key_lock:
+        keys = [
+            os.getenv("GEMINI_API_KEY_1"),
+            os.getenv("GEMINI_API_KEY_2"),
+            os.getenv("GEMINI_API_KEY_3")
+        ]
+        
+        # Filter out None or empty keys
+        valid_keys = [k for k in keys if k]
+        
+        if not valid_keys:
+            # Fallback to the original key if no rotating keys are available
+            return os.getenv("GEMINI_API_KEY")
+        
+        # Get the next key and update the index
+        key = valid_keys[_current_key_index % len(valid_keys)]
+        _current_key_index = (_current_key_index + 1) % len(valid_keys)
+        
+        return key
 
 class Message(BaseModel):
     role: str
@@ -40,17 +69,22 @@ class StructuredRequest(BaseModel):
 
 def gemini_pro_completion(text: str) -> str:
     """Make a direct API call to Gemini Pro."""
-    api_key = os.getenv("GEMINI_API_KEY") 
+    api_key = get_next_api_key()
     
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key={api_key}"
     payload = {"contents": [{"parts": [{"text": text}]}]}
 
-    max_retries = 3
+    max_retries = 5  # Increased from 3 to 5
     base_delay = 2
 
     for attempt in range(max_retries):
         try:
-            response = requests.post(url, json=payload)
+            # Add longer timeout and use proxy settings if available
+            response = requests.post(
+                url, 
+                json=payload, 
+                timeout=30  # Increased timeout
+            )
             response.raise_for_status()
             data = response.json()
 
@@ -63,28 +97,58 @@ def gemini_pro_completion(text: str) -> str:
 
         except requests.RequestException as e:
             if "429" in str(e).lower():
+                print(f"Rate limit exceeded (429). Retrying with a different API key. Attempt {attempt+1}/{max_retries}")
+                # Get a new API key for the next attempt
+                api_key = get_next_api_key()
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key={api_key}"
+                
                 if attempt == max_retries - 1:
                     raise RuntimeError("Too many requests")
+                    
                 delay = base_delay * (2**attempt)
                 sleep(delay)
                 continue
+                
+            # Handle proxy errors specifically
+            if "ProxyError" in str(e) or "ConnectionError" in str(e) or "Tunnel connection failed" in str(e):
+                print(f"Proxy error: {str(e)}. Retrying. Attempt {attempt+1}/{max_retries}")
+                # Wait longer for proxy issues
+                delay = base_delay * (2**attempt) + 3
+                sleep(delay)
+                continue
 
+            # For all other errors
+            if attempt < max_retries - 1:
+                print(f"Gemini API error: {str(e)}. Retrying with a different API key. Attempt {attempt+1}/{max_retries}")
+                # Get a new API key for the next attempt
+                api_key = get_next_api_key()
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key={api_key}"
+                
+                delay = base_delay * (2**attempt)
+                sleep(delay)
+                continue
+            
             raise RuntimeError(f"Gemini API error: {str(e)}")
 
 
 def gemini_2point0_flash(text: str) -> str:
     """Make a direct API call to Gemini 2.0 Flash."""
-    api_key = os.getenv("GEMINI_API_KEY") 
+    api_key = get_next_api_key()
     
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
     payload = {"contents": [{"parts": [{"text": text}]}]}
 
-    max_retries = 3
+    max_retries = 5  # Increased from 3 to 5
     base_delay = 2
-
+    
     for attempt in range(max_retries):
         try:
-            response = requests.post(url, json=payload)
+            # Add longer timeout and use proxy settings if available
+            response = requests.post(
+                url, 
+                json=payload, 
+                timeout=30  # Increased timeout
+            )
             response.raise_for_status()
             data = response.json()
 
@@ -97,29 +161,59 @@ def gemini_2point0_flash(text: str) -> str:
 
         except requests.RequestException as e:
             if "429" in str(e).lower():
+                print(f"Rate limit exceeded (429). Retrying with a different API key. Attempt {attempt+1}/{max_retries}")
+                # Get a new API key for the next attempt
+                api_key = get_next_api_key()
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
+                
                 if attempt == max_retries - 1:
                     raise RuntimeError("Too many requests")
+                    
                 delay = base_delay * (2**attempt)
                 sleep(delay)
                 continue
+                
+            # Handle proxy errors specifically
+            if "ProxyError" in str(e) or "ConnectionError" in str(e) or "Tunnel connection failed" in str(e):
+                print(f"Proxy error: {str(e)}. Retrying. Attempt {attempt+1}/{max_retries}")
+                # Wait longer for proxy issues
+                delay = base_delay * (2**attempt) + 3
+                sleep(delay)
+                continue
 
+            # For all other errors
+            if attempt < max_retries - 1:
+                print(f"Gemini API error: {str(e)}. Retrying with a different API key. Attempt {attempt+1}/{max_retries}")
+                # Get a new API key for the next attempt
+                api_key = get_next_api_key()
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
+                
+                delay = base_delay * (2**attempt)
+                sleep(delay)
+                continue
+            
             raise RuntimeError(f"Gemini API error: {str(e)}")
 
 
 
 def gemini_flash_completion(text: str) -> str:
     """Make a direct API call to Gemini Flash."""
-    api_key = os.getenv("GEMINI_API_KEY") 
+    api_key = get_next_api_key()
     
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={api_key}"
     payload = {"contents": [{"parts": [{"text": text}]}]}
 
-    max_retries = 3
+    max_retries = 5  # Increased from 3 to 5
     base_delay = 2
 
     for attempt in range(max_retries):
         try:
-            response = requests.post(url, json=payload)
+            # Add longer timeout and use proxy settings if available
+            response = requests.post(
+                url, 
+                json=payload, 
+                timeout=30  # Increased timeout
+            )
             response.raise_for_status()
             data = response.json()
 
@@ -128,17 +222,42 @@ def gemini_flash_completion(text: str) -> str:
                 # return data
                 return data["candidates"][0]["content"]["parts"][0]["text"], data.get("usageMetadata")
             except (KeyError, IndexError) as e:
-                raise f"Error_500_INTERNAL_SERVER_ERROR; detail=Unexpected Gemini response format: {str(e)}"
+                raise RuntimeError(f"Unexpected Gemini response format: {str(e)}")
 
         except requests.RequestException as e:
             if "429" in str(e).lower():
+                print(f"Rate limit exceeded (429). Retrying with a different API key. Attempt {attempt+1}/{max_retries}")
+                # Get a new API key for the next attempt
+                api_key = get_next_api_key()
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={api_key}"
+                
                 if attempt == max_retries - 1:
-                    raise "Error_429_TOO_MANY_REQUESTS"
+                    raise RuntimeError("Too many requests")
+                    
                 delay = base_delay * (2**attempt)
                 sleep(delay)
                 continue
+                
+            # Handle proxy errors specifically
+            if "ProxyError" in str(e) or "ConnectionError" in str(e) or "Tunnel connection failed" in str(e):
+                print(f"Proxy error: {str(e)}. Retrying. Attempt {attempt+1}/{max_retries}")
+                # Wait longer for proxy issues
+                delay = base_delay * (2**attempt) + 3
+                sleep(delay)
+                continue
 
-            raise f"Error_500_INTERNAL_SERVER_ERROR; detail=Gemini API error: {str(e)}"
+            # For all other errors
+            if attempt < max_retries - 1:
+                print(f"Gemini API error: {str(e)}. Retrying with a different API key. Attempt {attempt+1}/{max_retries}")
+                # Get a new API key for the next attempt
+                api_key = get_next_api_key()
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={api_key}"
+                
+                delay = base_delay * (2**attempt)
+                sleep(delay)
+                continue
+            
+            raise RuntimeError(f"Gemini API error: {str(e)}")
                 
 def text_completion(in_request: CompletionRequest) -> str:
     """

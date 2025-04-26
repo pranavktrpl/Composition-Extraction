@@ -1,0 +1,3346 @@
+=== CODE ===
+
+# from datasets import load_dataset, load_metric
+
+import numpy as np
+from datetime import datetime
+import torch
+# import os
+from torch.utils.data import DataLoader
+from datasets import Dataset
+from tqdm import tqdm
+# Importing the T5 modules from huggingface/transformers
+from transformers import T5Tokenizer, T5ForConditionalGeneration
+from evaluate import load
+from transformers import Seq2SeqTrainingArguments, Seq2SeqTrainer#,DataCollatorForSeq2Seq, 
+from torch import cuda
+
+
+=== CODE ===
+import pickle
+import ast
+import pandas as pd
+
+=== CODE ===
+# X_test_all_papers_df = pickle.load(open('test_sentences_326papers_45569.pkl','rb'))
+
+=== CODE ===
+# X_test_all_papers_df
+
+=== CODE ===
+# X_test_all_papers_df_grouped = X_test_all_papers_df.groupby('pii').agg(list).reset_index()
+
+=== CODE ===
+# import re
+# def regex_pattern_1(text):
+#     # pattern_x = r'x\s*=\s*([\d.]+(?:[,;\s*\d.\s*and]+)*)'
+#     pattern_x = r'x\s*=\s*([\d.]+(?:[,;\s*and-–]*[\d.]+)*\b)'
+#     # pattern_y = r'y\s*=\s*([\d.]+(?:[,;\s*\d.\s*and]+)*)'
+#     pattern_y = r'y\s*=\s*([\d.]+(?:[,;\s*and-–]*[\d.]+)*\b)'
+#     # pattern_z_old = r'z\s*=\s*([\d.]+(?:[,;\s*and]*[\d.]+)*)'
+#     pattern_z = r'z\s*=\s*([\d.]+(?:[,;\s*and-–]*[\d.]+)*\b)'
+    
+#     # Extract all the x values from the text
+#     x_values = re.findall(pattern_x, text, re.IGNORECASE)
+#     y_values = re.findall(pattern_y, text, re.IGNORECASE)
+#     z_values = re.findall(pattern_z, text, re.IGNORECASE)
+    
+#     # print(x_values)
+    
+#     # print(x_values)
+#     result_list_x = []
+#     result_list_y = []
+#     result_list_z = []
+    
+#     res = []
+    
+#     if x_values:
+#         for x_val in x_values:
+#             x_value = x_val.strip().replace('–', ',')
+#             x_value = x_value.strip().replace(';', ',')
+#             x_value = x_value.strip().replace('and', ',')
+#             values_list = x_value.split(',')
+#             result_list_x_t = [value.strip() for value in values_list]
+
+#             temp = []
+#             for i in result_list_x_t:
+#                 if i.strip() and i.replace('.', '', 1).isdigit():
+#                     temp.append(i)
+#             result_list_x_t = temp
+#             result_list_x.extend(result_list_x_t)
+            
+        
+#     res.append(result_list_x)
+    
+    
+#     if y_values:
+#         for y_val in y_values:
+#             y_value = y_val.strip().replace('–', ',')
+#             y_value = y_value.strip().replace(';', ',')
+#             y_value = y_value.strip().replace('and', ',')
+#             values_list = y_value.split(',')
+#             result_list_y_t = [value.strip() for value in values_list]
+
+#             temp = []
+#             for i in result_list_y_t:
+#                 if i.strip() and i.replace('.', '', 1).isdigit():
+#                     temp.append(i)
+#             result_list_y_t = temp
+#             result_list_y.extend(result_list_y_t)
+            
+        
+#     res.append(result_list_y)  
+    
+    
+#     if z_values:
+#         for z_val in z_values:
+#             z_value = z_val.strip().replace('–', ',')
+#             z_value = z_value.strip().replace(';', ',')
+#             z_value = z_value.strip().replace('and', ',')
+#             values_list = z_value.split(',')
+#             result_list_z_t = [value.strip() for value in values_list]
+
+#             temp = []
+#             for i in result_list_z_t:
+#                 if i.strip() and i.replace('.', '', 1).isdigit():
+#                     temp.append(i)
+#             result_list_z_t = temp
+#             result_list_z.extend(result_list_z_t)
+            
+        
+#     res.append(result_list_z)
+#     return res
+    
+
+=== CODE ===
+# rpattern_values = dict()
+
+# def getXYZ(pii, text_lst):
+#     setx = set()
+#     sety = set()
+#     setz = set()
+#     for text in text_lst:
+#         rp1 = regex_pattern_1(text)
+#         rp2 = [[], [], []]
+
+#         # print(rp1)
+#         x_lst = rp1[0]
+#         y_lst = rp1[1]
+#         z_lst = rp1[2]
+
+#         x_new_lst = [x for x in x_lst if(float(x)<100 and float(x)>0)]
+#         y_new_lst = [y for y in y_lst if(float(y)<100 and float(y)>0)]
+#         z_new_lst = [z for z in z_lst if(float(z)<100 and float(z)>0)]
+    
+#         rp1 = [x_new_lst, y_new_lst, z_new_lst]
+#         # print(rp1)
+
+#         setx.update(set(rp1[0]+rp2[0]))
+#         sety.update(set(rp1[1]+rp2[1]))
+#         setz.update(set(rp1[2]+rp2[2]))
+        
+#     rpattern_values[pii] = [list(setx), list(sety), list(setz)]
+#     return rpattern_values[pii]
+
+=== CODE ===
+# X_test_all_papers_df_grouped['xyz'] = X_test_all_papers_df_grouped.apply(lambda row: getXYZ(row['pii'], row['sentence']), axis=1)
+
+=== CODE ===
+# pickle.dump(rpattern_values, open('rpattern_values_test_data_326_papers.pkl', 'wb'))
+
+=== CODE ===
+rpattern_values = pickle.load(open('rpattern_values_test_data_326_papers_updated_v3.pkl','rb'))
+
+=== CODE ===
+rpattern_values
+
+=== CODE ===
+rpattern_values
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+val_file_path = "val_data_direct_match_vs_eqn_classification_1455_2.pkl"
+val_path_eqn = "val_data_for_equation_composition_extraction_416.pkl"
+val_path_classifier = "val_data_ForCompositionClassification_42875Sent_330Papers.pkl"
+val_data_all = "val_data_combined_end2end_42875_329papers_Without100.pkl"
+val_data_dc = "val_data_for_directMatching_composition_extraction_1039.pkl"
+
+X_val_df = pickle.load(open(val_file_path,'rb'))
+X_val_eqn =  pickle.load(open(val_path_eqn,'rb'))
+X_val_classifier =  pickle.load(open(val_path_classifier,'rb'))
+X_val_all =  pickle.load(open(val_data_all,'rb'))
+X_val_dc =  pickle.load(open(val_data_dc,'rb'))
+
+
+=== CODE ===
+X_val_classifier
+
+=== CODE ===
+X_val_df
+
+=== CODE ===
+X_val_df[X_val_df['is_SCC']==0]
+
+=== CODE ===
+X_val_eqn
+
+=== CODE ===
+X_val_classifier[X_val_classifier["Output"]==1]
+
+=== CODE ===
+X_val_all
+
+=== CODE ===
+X_val_all[X_val_all["is_composition"] == 1]
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+X_val_extract_MCC = X_val_eqn
+
+=== CODE ===
+X_val_dc
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+MODEL_SAVE_PATH = '../scratch/mtp_trainClassifierWithout100_ratio1to6_run1_FlanT5Large.pt'
+OUTPUT_FILE_PATH = 'mtp_predictions_test_Dataset_Classifier_ratio1to6_v7_finaldataset.txt' 
+GOLD_FILE_PATH = 'mtp_gold_test_Dataset_Classifier_ratio1to6_v7_finaldataset.txt'
+
+MODEL_NAME = 'google/flan-t5-large'
+MODEL_LOAD_PATH = 'google/flan-t5-large'
+
+=== CODE ===
+# TEST_FILE_PATH = 'complete_test_data_171papers_17960sent.pkl'
+TEST_FILE_PATH = 'final_complete_testset_191_papers_ec_reannotated_all_387.pkl'
+
+=== CODE ===
+X_test_df = pickle.load(open(TEST_FILE_PATH,'rb'))
+# print(X_test_df.columns)
+X_test_df
+
+=== CODE ===
+max_input_length = 700
+max_target_length = 10
+batch_size = 4
+
+f1_metric = load("f1")
+
+
+X_test_df_compNonComp = X_test_df.rename(columns={"sentence":"Input", "is_composition":"Output"})
+
+
+X_test = X_test_df_compNonComp[['Input', 'Output']]
+
+
+=== CODE ===
+
+def writeListToFile(lst, fname=OUTPUT_FILE_PATH):
+    with open(fname, 'w', encoding='utf-8') as fp:
+        for pred in lst:
+            fp.write("%s\n" % pred)
+    print(f"Written to file: {fname}")
+
+
+=== CODE ===
+
+
+
+
+# print(X_test.head())
+lst = X_test['Output'].tolist()
+writeListToFile(lst, GOLD_FILE_PATH)
+
+
+device = 'cuda' if cuda.is_available() else 'cpu'
+print(device)
+
+tokenizer = T5Tokenizer.from_pretrained(MODEL_SAVE_PATH)
+
+def preprocessTrainDev(examples):
+    inputs = [doc for doc in examples["Input"]]
+    model_inputs = tokenizer(inputs, max_length=max_input_length ,padding='max_length')
+    
+    # contexts = tokenizer(examples["Context"], max_length=max_input_length, truncation=True,add_special_tokens=True,padding='max_length')
+    # model_inputs["contexts"] = contexts
+    # print("LABELS")
+    
+    outputs = [str(doc) for doc in examples["Output"]]
+    labels = tokenizer(outputs, max_length=max_target_length, padding='max_length')
+    # print(labels.shape)
+    # print(labels)
+    labelsInpIds = labels.input_ids
+    # print(labelsInpIds)
+    labelsInpIds = np.array(labelsInpIds)
+    labelsInpIds[labelsInpIds == tokenizer.pad_token_id] = -100
+    labelsInpIds = list(labelsInpIds)
+    model_inputs["labels"] = labelsInpIds
+
+    return model_inputs
+
+# def preprocessTest(examples):
+#     inputs = [doc for doc in examples["Input"]]
+#     model_inputs = tokenizer(inputs, max_length=max_input_length, truncation=True,add_special_tokens=True,padding='max_length')
+
+#     return model_inputs
+
+
+datasetVal = Dataset.from_pandas(X_test)
+tokenized_datasets_val = datasetVal.map(preprocessTrainDev, batched=True)
+
+
+def generateTestOutput(model, testdata, tokenizer):
+    model.eval()
+    data = testdata['input_ids']
+    amask = testdata['attention_mask']
+    ds = Dataset.from_dict({"data":data, "attention_mask":amask}).with_format("torch")
+    dataloader = DataLoader(ds, batch_size=1, shuffle=False)
+    outputLst =[]
+    # total_loss = 0.0
+    
+    with torch.no_grad():
+        for i, (inputs) in enumerate(tqdm(dataloader)):
+            input_ids = inputs['data'].to(device)
+            amasks = inputs['attention_mask'].to(device)
+            # generate model outputs
+            generated_ids = model.generate(
+                input_ids = input_ids,
+                attention_mask = amasks,
+                max_new_tokens=10,
+                num_beams = 2)
+            # print(generated_ids)
+            output = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+
+            outputLst.extend(output)
+    writeListToFile(outputLst, OUTPUT_FILE_PATH)
+
+
+model = T5ForConditionalGeneration.from_pretrained(MODEL_SAVE_PATH).to(device)
+
+print("Validating from generate -->")
+print(datetime.now())
+
+generateTestOutput(model, tokenized_datasets_val, tokenizer)
+
+
+print("GENERATION COMPLETED !!")
+
+
+=== CODE ===
+# X_val = pickle.load(open('test_sentences_for_comp-noncomp_classification_1496.pkl','rb'))
+# OUTPUT_FILE_PATH = 'mtp_predictions_test_Dataset_Classifier_ratio1to6.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_test_Dataset_Classifier_ratio1to6.txt'
+
+# print(X_val.columns)
+
+analysis_eval = []
+with open(GOLD_FILE_PATH, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+with open(OUTPUT_FILE_PATH, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+
+gold = [int(i[0]) for i in gold]
+pred = [int(i[0]) for i in pred]
+
+pred_df = pd.DataFrame(pred, columns=['Pred_CompNC'])
+gold_df = pd.DataFrame(gold, columns=['Gold_CompNC'])
+
+
+pred_df.reset_index(drop=True, inplace=True)
+gold_df.reset_index(drop=True, inplace=True)
+X_test_df.reset_index(drop=True, inplace=True)
+
+
+new_df = pd.concat([X_test_df,pred_df, gold_df], axis=1)
+# print(new_df.shape)
+new_df.to_csv('analysis_classification_ratio1to6_Without100_testData_2_v7_finaldataset.csv', encoding='utf-16', sep='|')
+# print(new_df.shape)
+
+pre_df = new_df[(new_df['Pred_CompNC']==1) & (new_df['Gold_CompNC']==1)]
+rec_df = new_df[(new_df['Pred_CompNC']==0) & (new_df['Gold_CompNC']==1)]
+
+tp = len(pre_df)
+fn = len(rec_df)
+tn = len(new_df[(new_df['Pred_CompNC']==0) & (new_df['Gold_CompNC']==0)])
+fp = len(new_df[(new_df['Pred_CompNC']==1) & (new_df['Gold_CompNC']==0)])
+
+print("TP = ",tp)
+print("FP = ",fp)
+print("TN = ",tn)
+print("FN = ",fn)
+
+precision = tp/(tp+fp)
+recall = tp/(tp+fn)
+f1 = 2 * precision * recall / (precision + recall)
+
+print("Precision = ", precision)
+print("Recall = ", recall)
+print("F1 = ",f1)
+
+=== CODE ===
+new_df
+
+=== CODE ===
+X_test_for_comp = new_df[new_df['Pred_CompNC']==1]
+
+=== CODE ===
+X_test_for_comp
+
+=== CODE ===
+
+# MODEL_SAVE_PATH = '../scratch/mtp_trainClassifierWithout100_ratio1to6_run1_FlanT5Large.pt'
+# OUTPUT_FILE_PATH = 'mtp_predictions_test_Dataset_Classifier_ratio1to6.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_test_Dataset_Classifier_ratio1to6.txt'
+RUN_NUM = 1
+RatioRunName = f'dm_vs_eqn_run{RUN_NUM}'
+TASK = 'dm_vs_eqn'
+MODEL_SAVE_PATH = f'../scratch/mtp_trainClassifierWithout100_{RatioRunName}_FlanT5Large.pt'
+OUTPUT_FILE_PATH = f'mtp_predictions_trainClassifierWithout100_{RatioRunName}_FlanT5Large_v7_finaldataset.txt' 
+GOLD_FILE_PATH = f'mtp_gold_trainClassifierWithout100_{RatioRunName}_FlanT5Large_v7_finaldataset.txt'
+
+
+MODEL_NAME = 'google/flan-t5-large'
+MODEL_LOAD_PATH = 'google/flan-t5-large'
+max_input_length = 700
+max_target_length = 10
+batch_size = 4
+
+X_test_for_comp_SCCMCC = X_test_for_comp.rename(columns={"sentence":"Input", "is_SCC":"Output"})
+X_test = X_test_for_comp_SCCMCC[['Input', 'Output']]
+
+
+=== CODE ===
+
+lst = X_test['Output'].tolist()
+writeListToFile(lst, GOLD_FILE_PATH)
+
+
+device = 'cuda' if cuda.is_available() else 'cpu'
+print(device)
+
+tokenizer = T5Tokenizer.from_pretrained(MODEL_SAVE_PATH)
+datasetVal = Dataset.from_pandas(X_test)
+tokenized_datasets_val = datasetVal.map(preprocessTrainDev, batched=True)
+
+model = T5ForConditionalGeneration.from_pretrained(MODEL_SAVE_PATH).to(device)
+
+print("Validating from generate -->")
+print(datetime.now())
+
+generateTestOutput(model, tokenized_datasets_val, tokenizer)
+
+
+print("GENERATION COMPLETED !!")
+
+=== CODE ===
+OUTPUT_FILE_PATH
+
+=== CODE ===
+s = '-1/n'
+int(s[:-2])
+
+=== CODE ===
+
+# OUTPUT_FILE_PATH = 'mtp_predictions_trainClassifierWithout100_1.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_trainClassifierWithout100_ratio1to4.txt'
+# X_val = pickle.load(open('val_data_direct_match_vs_eqn_classification_1455.pkl','rb'))
+# GOLD_FILE_PATH  = 'mtp_gold_trainClassifierWithout100_dm_vs_eqn_run2_FlanT5Large.txt'
+# OUTPUT_FILE_PATH = 'mtp_predictions_trainClassifierWithout100_dm_vs_eqn_run2_FlanT5Large.txt'
+
+# print(X_val.columns)
+
+analysis_eval = []
+with open(GOLD_FILE_PATH, 'r', encoding='utf-8') as fread:
+        gold_str = fread.readlines()
+with open(OUTPUT_FILE_PATH, 'r', encoding='utf-8') as fp:
+        pred_str = fp.readlines()
+
+
+# print(gold)
+# print(pred)
+
+# for i in gold:
+#     print(i)
+
+gold = [int(i) for i in gold_str]
+pred = [int(i) for i in pred_str]
+
+# print(gold)
+# print(pred)
+
+
+new_df = pd.concat([X_test_for_comp.reset_index(),pd.DataFrame(pred, columns=['Pred_SCC_MCC']).reset_index(),
+                    pd.DataFrame(gold, columns=['Gold_SCC_MCC']).reset_index()], axis=1)
+
+# print(new_df)
+# new_df['Pred'] = new_df['Pred'].apply(lambda x: x.replace('\n', ''))
+# new_df['Gold'] = new_df['Gold'].apply(lambda x: x.replace('\n', ''))
+# new_df['score'] = new_df['score'].apply(lambda x: x.replace('\n', ''))
+new_df.to_csv(f'analaysis_{OUTPUT_FILE_PATH}.csv', encoding='utf-16', sep='|')
+# new_df.to_csv(f'analysis_{OUTPUT_FILE_PATH}.csv', encoding='utf-16')
+
+
+pre_df = new_df[(new_df['Pred_SCC_MCC']==1) & (new_df['Gold_SCC_MCC']==1)]
+rec_df = new_df[(new_df['Pred_SCC_MCC']==0) & (new_df['Gold_SCC_MCC']==1)]
+
+tp = len(pre_df)
+fn = len(rec_df)
+tn = len(new_df[(new_df['Pred_SCC_MCC']==0) & (new_df['Gold_SCC_MCC']==0)])
+fp = len(new_df[(new_df['Pred_SCC_MCC']==1) & (new_df['Gold_SCC_MCC']==0)])
+
+print("TP = ",tp)
+print("FP = ",fp)
+print("TN = ",tn)
+print("FN = ",fn)
+
+precision = tp/(tp+fp)
+recall = tp/(tp+fn)
+f1 = 2 * precision * recall / (precision + recall)
+
+print("Precision = ", precision)
+print("Recall = ", recall)
+print("F1 = ",f1)
+
+=== CODE ===
+
+# OUTPUT_FILE_PATH = 'mtp_predictions_trainClassifierWithout100_1.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_trainClassifierWithout100_ratio1to4.txt'
+# X_val = pickle.load(open('val_data_direct_match_vs_eqn_classification_1455.pkl','rb'))
+# GOLD_FILE_PATH  = 'mtp_gold_trainClassifierWithout100_dm_vs_eqn_run2_FlanT5Large.txt'
+# OUTPUT_FILE_PATH = 'mtp_predictions_trainClassifierWithout100_dm_vs_eqn_run2_FlanT5Large.txt'
+
+# print(X_val.columns)
+
+analysis_eval = []
+with open(GOLD_FILE_PATH, 'r', encoding='utf-8') as fread:
+        gold_str = fread.readlines()
+with open(OUTPUT_FILE_PATH, 'r', encoding='utf-8') as fp:
+        pred_str = fp.readlines()
+
+
+# print(gold)
+# print(pred)
+
+# for i in gold:
+#     print(i)
+
+gold = [int(i) for i in gold_str]
+pred = [int(i) for i in pred_str]
+
+# print(gold)
+# print(pred)
+
+
+new_df = pd.concat([X_test_for_comp.reset_index(drop=True),pd.DataFrame(pred, columns=['Pred_SCC_MCC']).reset_index(drop=True),
+                    pd.DataFrame(gold, columns=['Gold_SCC_MCC']).reset_index(drop=True)], axis=1)
+
+# print(new_df)
+# new_df['Pred'] = new_df['Pred'].apply(lambda x: x.replace('\n', ''))
+# new_df['Gold'] = new_df['Gold'].apply(lambda x: x.replace('\n', ''))
+# new_df['score'] = new_df['score'].apply(lambda x: x.replace('\n', ''))
+new_df.to_csv(f'analaysis_{OUTPUT_FILE_PATH}.csv', encoding='utf-16', sep='|')
+# new_df.to_csv(f'analysis_{OUTPUT_FILE_PATH}.csv', encoding='utf-16')
+
+
+pre_df = new_df[(new_df['Pred_SCC_MCC']==1) & (new_df['Gold_SCC_MCC']==1)]
+rec_df = new_df[(new_df['Pred_SCC_MCC']==0) & (new_df['Gold_SCC_MCC']==1)]
+
+tp = len(pre_df)
+fn = len(rec_df)
+tn = len(new_df[(new_df['Pred_SCC_MCC']==0) & (new_df['Gold_SCC_MCC']==0)])
+fp = len(new_df[(new_df['Pred_SCC_MCC']==1) & (new_df['Gold_SCC_MCC']!=1)])
+
+print("TP = ",tp)
+print("FP = ",fp)
+print("TN = ",tn)
+print("FN = ",fn)
+
+precision = tp/(tp+fp)
+recall = tp/(tp+fn)
+f1 = 2 * precision * recall / (precision + recall)
+
+print("Precision = ", precision)
+print("Recall = ", recall)
+print("F1 = ",f1)
+
+=== CODE ===
+new_df
+
+=== CODE ===
+new_df
+
+=== CODE ===
+X_val_extract_SCC = new_df[new_df['Pred_SCC_MCC'] == 1]
+X_val_extract_MCC = new_df[new_df['Pred_SCC_MCC'] == 0]
+
+=== CODE ===
+X_val_extract_SCC
+
+=== CODE ===
+X_val_extract_MCC
+
+=== CODE ===
+print("Predicted as SCC = ",len(X_val_extract_SCC))
+print("Predicted as MCC = ",len(X_val_extract_MCC))
+
+
+=== CODE ===
+new_df
+
+=== CODE ===
+pickle.dump(new_df, open('test_sentences_for_llama3_scc_mcc_pred_191papers.pkl', 'wb'))
+
+=== CODE ===
+comp_sentences_df = new_df
+
+=== CODE ===
+new_test_data_lst_input = comp_sentences_df['sentence'].tolist()
+
+new_test_data_lst_x = comp_sentences_df['x'].tolist()
+new_test_data_lst_y = comp_sentences_df['y'].tolist()
+new_test_data_lst_z = comp_sentences_df['z'].tolist()
+
+new_test_data_lst = []
+for ip,x,y,z in zip(new_test_data_lst_input, new_test_data_lst_x, new_test_data_lst_y, new_test_data_lst_z):
+    new_ip = f"{ip} x={x}, y={y}, z={z}"
+    new_test_data_lst.append(new_ip)
+
+=== CODE ===
+import transformers
+transformers.__version__
+# 4.39.3
+
+=== CODE ===
+!conda install transformers -y
+
+=== CODE ===
+from transformers import AutoTokenizer, AutoModelForCausalLM
+import torch
+from tqdm import tqdm
+import time
+
+model_id = "../scratch/meta-llama/Meta-Llama-3-8B-Instruct"
+access_token = "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"
+
+tokenizer = AutoTokenizer.from_pretrained(model_id)#, token=access_token)
+model = AutoModelForCausalLM.from_pretrained(
+    model_id,
+    # torch_dtype=torch.bfloat16,
+    device_map="auto",
+    load_in_4bit=True,
+    # token=access_token
+)
+
+=== CODE ===
+context_info = [{'role': 'system',
+  'content': 'You are materials science expert. Extract composition of materials from the following sentence and give output in the fixed JSON format consisting of every composition containing constituent chemical compounds as keys and weight percent as a float value. Make sure you normalize the weights percentages in each list. Do not provide any additional output.'},
+ {'role': 'user',
+  'content': 'Sentence:For making gallium–indium fluoride glass containing 20 mol% GaF3, 15 mol% InF3, 30 mol% PbF2, 20 mol% CdF2 and 15 mol% ZnF2, the constituent fluoride compounds in the powder form were mixed inside a dry nitrogen atmosphere glove box.'},
+ {'role': 'assistant',
+  'content': '{\n    "comp1": {\n        "ZnF2": 15.0,\n        "PbF2": 30.0,\n        "GaF3": 20.0,\n        "InF3": 15.0,\n        "CdF2": 20.0\n    }\n}'},
+ {'role': 'user',
+  'content': 'Sentence:2.1 Preparation of precursor glass Four glasses having composition (25−x/2)SrO–(25−x/2)CaO–5ZnO–5B2O3–40SiO2–xLa2O3 (mol%), where, x=0, 2, 4, 6 were prepared following the conventional melt-quench technique. '},
+ {'role': 'assistant',
+  'content': '{\n    "comp1": {\n        "SiO2": 40.0,\n        "CaO": 25.0,\n        "B2O3": 5.0,\n        "ZnO": 5.0,\n        "SrO": 25.0\n    },\n    "comp2": {\n        "SiO2": 40.0,\n        "CaO": 24.0,\n        "B2O3": 5.0,\n        "ZnO": 5.0,\n        "SrO": 24.0,\n        "La2O3": 2.0\n    },\n    "comp3": {\n        "SiO2": 40.0,\n        "CaO": 22.0,\n        "B2O3": 5.0,\n        "ZnO": 5.0,\n        "SrO": 22.0,\n        "La2O3": 6.0\n    },\n    "comp4": {\n        "SiO2": 40.0,\n        "CaO": 23.0,\n        "B2O3": 5.0,\n        "ZnO": 5.0,\n        "SrO": 23.0,\n        "La2O3": 4.0\n    }\n}'},
+ {'role': 'user',
+  'content': "Sentence:The first one was\xa0aR12O(1−a)TeO2\xa0where `a' was 0, 10, 15, 20, 30 mol%, and `R1' was Li, Na, K. The second one was\xa0bR11O.cR2111O3(1−b−c)TeO2\xa0where `b' was 0, 10, 20, 30 mol%, and `c' was 0.5% or 16.5%, and `R11'\xa0=\xa0Ba, `R111'\xa0=\xa0Al, Ga, or In.\xa0"},
+ {'role': 'assistant',
+  'content': '{\n    "comp1": {\n        "TeO2": 100.0\n    },\n    "comp2": {\n        "Li2O": 20.0,\n        "TeO2": 80.0\n    },\n    "comp3": {\n        "Na2O": 10.0,\n        "TeO2": 90.0\n    },\n    "comp4": {\n        "Na2O": 15.0,\n        "TeO2": 85.0\n    },\n    "comp5": {\n        "Na2O": 20.0,\n        "TeO2": 80.0\n    },\n    "comp6": {\n        "Na2O": 30.0,\n        "TeO2": 70.0\n    },\n    "comp7": {\n        "K2O": 20.0,\n        "TeO2": 80.0\n    },\n    "comp8": {\n        "BaO": 20.0,\n        "TeO2": 80.0\n    },\n    "comp9": {\n        "BaO": 16.5,\n        "In2O3": 6.5,\n        "TeO2": 77.0\n    }\n}'},
+ {'role': 'user',
+  'content': 'Sentence:The molar composition was the following: 53.3% SiO2+14.05% B2O3+11.3% Na2O+1.6% ZrO2+3.4% Al2O3+5.0% CaO.'},
+ {'role': 'assistant',
+  'content': '{\n    "comp1": {\n        "SiO2": 60.12,\n        "Na2O": 12.75,\n        "Al2O3": 3.84,\n        "CaO": 5.64,\n        "B2O3": 15.85,\n        "ZrO2": 1.8\n    }\n}'},
+ {'role': 'user',
+  'content': 'Sentence:The selected compositions are SiBNa404 (50SiO2·30B2O3·20Na2O, %mol), SiBNa403 (60SiO2·24B2O3·16Na2O, %mol) both glasses having the same molar ratio B2O3/Na2O=1.5 and commercial Pyrex® glass (82.8SiO2·10.6B2O3·3.7Na2O·1.5Al2O3·1CaO·0.3K2O, %mol) taken as a reference.'},
+ {'role': 'assistant',
+  'content': '{\n    "comp1": {\n        "SiO2": 50.0,\n        "Na2O": 20.0,\n        "B2O3": 30.0\n    },\n    "comp2": {\n        "SiO2": 60.0,\n        "Na2O": 16.0,\n        "B2O3": 24.0\n    },\n    "comp3": {\n        "SiO2": 82.89,\n        "Na2O": 3.7,\n        "K2O": 0.3,\n        "Al2O3": 1.5,\n        "CaO": 1.0,\n        "B2O3": 10.61\n    }\n}'},
+ {'role': 'user',
+  'content': 'Sentence:The As0.4Se0.3Te0.3 glass has cross linked As2Se3 and As2Te3 structural units.'},
+ {'role': 'assistant',
+  'content': '{\n    "comp1": {\n        "As": 40.0,\n        "Te": 30.0,\n        "Se": 30.0\n    }\n}'},
+ {'role': 'user',
+  'content': "Sentence:All chalcogenide glass membranes Ag x (Ge0.25Se0.75)100− x (10⩽ x ⩽25 at.%), (Ge0.25Se0.75)75(Ag1− y Cu y )25 (y =0.05, 0.10, 0.20 at.) and (Ge0.25Se0.75)90(Ag0.8Fe0.2)10 are sensitive to Ag+, Cu2+ and Fe3+ ions whereas they do not evidence any response to Mg2+ and Cd2+. x=('20', '10', '15', '25', '7'), y=('0.05', '0.2', '0.20', '0.10'),z=('0.4', '0.2')"},
+ {'role': 'assistant',
+  'content': '{\n    "comp1": {\n        "Se": 67.5,\n        "Ge": 22.5,\n        "Ag": 10.0\n    },\n    "comp2": {\n        "Se": 63.75,\n        "Ge": 21.25,\n        "Ag": 15.0\n    },\n    "comp3": {\n        "Se": 60.0,\n        "Ge": 20.0,\n        "Ag": 20.0\n    },\n    "comp4": {\n        "Se": 56.25,\n        "Ge": 18.75,\n        "Ag": 22.5,\n        "Cu": 2.5\n    },\n    "comp5": {\n        "Se": 56.25,\n        "Ge": 18.75,\n        "Ag": 20.0,\n        "Cu": 5.0\n    },\n    "comp6": {\n        "Fe": 2.0,\n        "Se": 67.5,\n        "Ge": 22.5,\n        "Ag": 8.0\n    },\n    "comp7": {\n        "Fe": 4.0,\n        "Se": 67.5,\n        "Ge": 22.5,\n        "Ag": 6.0\n    }\n}'},
+ {'role': 'user',
+  'content': 'Sentence:3.1 Refractive index and material dispersions Fig. 1 shows the refractive index dispersions of (a) SiO2, 20BaO·80 B2O3 (BB), 40BaO·60 SiO2 (BS), 65CaO·35 Al2O3 (CA) and 20Na2O·80 GeO2 (NG) glasses and (b) 20Tl2O·80 TeO2 (TT), 20Tl2O·80 Sb2O3 (TS) and 80PbO·20 Ga2O3 (PG) glasses.'},
+ {'role': 'assistant',
+  'content': '{\n    "comp1": {\n        "SiO2": 100.0\n    },\n    "comp2": {\n        "B2O3": 80.0,\n        "BaO": 20.0\n    },\n    "comp3": {\n        "SiO2": 60.0,\n        "BaO": 40.0\n    },\n    "comp4": {\n        "Al2O3": 35.0,\n        "CaO": 65.0\n    },\n    "comp5": {\n        "Na2O": 20.0,\n        "GeO2": 80.0\n    },\n    "comp6": {\n        "Tl2O": 20.0,\n        "TeO2": 80.0\n    },\n    "comp7": {\n        "Sb2O3": 80.0,\n        "Tl2O": 20.0\n    },\n    "comp8": {\n        "PbO": 80.0,\n        "Ga2O3": 20.0\n    }\n}'}]
+
+=== CODE ===
+new_test_data_pred_dict = dict()
+
+=== CODE ===
+def callAPI(messages, temp=0.0):
+  # messages = context_info
+
+  # messages = [
+  #     {"role": "system", "content": "You are a pirate chatbot who always responds in pirate speak!"},
+  #     {"role": "user", "content": "Who are you?"},
+  # ]
+
+  input_ids = tokenizer.apply_chat_template(
+      messages,
+      add_generation_prompt=True,
+      return_tensors="pt"
+  ).to(model.device)
+
+  terminators = [
+      tokenizer.eos_token_id,
+      tokenizer.convert_tokens_to_ids("<|eot_id|>")
+  ]
+
+  outputs = model.generate(
+      input_ids,
+      max_new_tokens=2048,
+      eos_token_id=terminators,
+      do_sample=True,
+      temperature=0.6,
+      top_p=0.9,
+  )
+  response = outputs[0][input_ids.shape[-1]:]
+  return tokenizer.decode(response, skip_special_tokens=True)
+
+
+=== CODE ===
+for idx,sent in enumerate(tqdm(new_test_data_lst)):
+    if(sent not in new_test_data_pred_dict):
+        context_info.append({"role": "user", "content":f"Sentence:{sent}"})
+        # print(few_shot_examples_ip)
+        try:
+            new_test_data_pred_dict[sent] = callAPI(context_info, 0.0)
+            # time.sleep(3)
+        except Exception as e:
+            print(e)
+            print("SKIPPING IDX = ",idx)
+        context_info = context_info[:-1]
+
+=== CODE ===
+additional_comp_from_llama3_lst = []
+for sent in new_test_data_lst:
+    additional_comp_from_llama3_lst.append({"sentence": sent, "llama3_pred": new_test_data_pred_dict[sent]})
+
+=== CODE ===
+additional_comp_from_llama3_df = pd.DataFrame(additional_comp_from_llama3_lst)
+
+=== CODE ===
+import json
+def getListOfListBackFromJson(json_str):
+
+
+    print("JSON STRING -------")
+    print(json_str)
+    try:
+        print("LST OF LIST ----------------")
+        # Convert JSON string to dictionary
+        json_dict = json.loads(json_str)
+
+        print("JSON DICT:")
+        print(json_dict)
+        # Reconstruct list of lists of tuples
+        lstOflst = []
+
+
+        for key in sorted(json_dict.keys(), key=lambda x: int(x[4:])):
+            sublst = [(k, v) for k, v in json_dict[key].items()]
+            lstOflst.append(sublst)
+
+        # Print the reconstructed list
+        print(lstOflst)
+        return lstOflst
+    except:
+        return [[]]
+
+=== CODE ===
+additional_comp_from_llama3_df['llama3_pred'] = additional_comp_from_llama3_df['llama3_pred'].apply(getListOfListBackFromJson)
+
+=== CODE ===
+merged_df = pd.concat([comp_sentences_df, additional_comp_from_llama3_df.drop(columns=['sentence'])], axis=1)
+
+=== CODE ===
+pickle.dump(merged_df, open('test_sentences_pred_from_llama3_scc_mcc_pred.pkl', 'wb'))
+merged_df.to_csv('test_sentences_pred_from_llama3_scc_mcc_pred.csv', sep='|', encoding='utf-16')
+
+=== CODE ===
+OUTPUT_FILE_PATH = "llama3_pred_test_sentences.txt"
+GOLD_FILE_PATH = "mtp_gold_llama3_gold.txt"
+
+
+=== CODE ===
+llama3_pred_compLst = additional_comp_from_llama3_df['llama3_pred'].tolist()
+writeListToFile(llama3_pred_compLst, OUTPUT_FILE_PATH)
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+import ast
+
+=== CODE ===
+TASK = 'end2end_CompExtractor_Without100_FlanT5Large_DirectMatch_NB_v7'
+RUNNUM = 'run_1'
+
+# TASK = 'CompExtractor_Without100_FlanT5Large_OnlyEqn'
+# RUNNUM = 'run_1'
+
+# TRAIN_DATA_LOAD_PATH = 'train_data_for_equation_composition_extraction_1744.pkl'
+# VAL_DATA_LOAD_PATH = 'val_data_for_equation_composition_extraction_416.pkl'
+
+
+# MODEL_SAVE_PATH = f'../scratch/mtp_{TASK}_{RUNNUM}.pt'
+
+MODEL_SAVE_PATH = f'../scratch/mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.pt'
+MODEL_SAVE_PATH = f'../scratch/mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_AdditionalGpt4Data_run_2.pt'
+
+OUTPUT_FILE_PATH = f'mtp_predictions_{TASK}_{RUNNUM}_v7_finaldataset.txt' 
+GOLD_FILE_PATH = f'mtp_gold_{TASK}_v7_finaldataset.txt'
+
+MODEL_NAME = 'google/flan-t5-large'
+MODEL_LOAD_PATH = 'google/flan-t5-large'
+
+
+=== CODE ===
+
+max_input_length = 300
+max_target_length = 800
+
+
+exact_match_metric = load("exact_match")
+
+
+X_val_extract = X_val_extract_SCC.rename(columns={'sentence': 'Input', 'gold_comp':'Output'})
+
+
+X_val_extract['Output'] = X_val_extract['Output'].apply(str)
+X_val_extract = X_val_extract[['Input', 'Output']]
+
+
+
+=== CODE ===
+
+
+lst = X_val_extract['Output'].tolist()
+writeListToFile(lst, GOLD_FILE_PATH)
+
+
+device = 'cuda' if cuda.is_available() else 'cpu'
+print(device)
+
+tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)
+model = T5ForConditionalGeneration.from_pretrained(MODEL_SAVE_PATH).to(device)
+
+
+def preprocessTrainDev(examples):
+    inputs = [doc for doc in examples["Input"]]
+    model_inputs = tokenizer(inputs, max_length=max_input_length, truncation=True,add_special_tokens=True ,padding='max_length')
+    labels = tokenizer(examples["Output"], max_length=max_target_length, truncation=True,add_special_tokens=True, padding='max_length')
+    labelsInpIds = labels.input_ids
+    
+    labelsInpIds = np.array(labelsInpIds)
+    labelsInpIds[labelsInpIds == tokenizer.pad_token_id] = -100
+    labelsInpIds = list(labelsInpIds)
+    model_inputs["labels"] = labelsInpIds
+
+    return model_inputs
+
+datasetVal = Dataset.from_pandas(X_val_extract)
+tokenized_datasets_val = datasetVal.map(preprocessTrainDev, batched=True)
+
+
+def generateTestOutput(model, testdata, tokenizer):
+    model.eval()
+    data = testdata['input_ids']
+    amask = testdata['attention_mask']
+    ds = Dataset.from_dict({"data":data, "attention_mask":amask}).with_format("torch")
+    dataloader = DataLoader(ds, batch_size=8, shuffle=False)
+    outputLst =[]
+    # total_loss = 0.0
+    
+    with torch.no_grad():
+        for i, (inputs) in enumerate(tqdm(dataloader)):
+            input_ids = inputs['data'].to(device)
+            amasks = inputs['attention_mask'].to(device)
+            # generate model outputs
+            generated_ids = model.generate(
+                input_ids = input_ids,
+                attention_mask = amasks,
+                max_new_tokens=800,
+                num_beams = 1)
+            # print(generated_ids)
+            output = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+
+            outputLst.extend(output)
+    writeListToFile(outputLst, OUTPUT_FILE_PATH)
+
+
+
+print("Generating extraction predictions -->")
+print(datetime.now())
+generateTestOutput(model, tokenized_datasets_val, tokenizer)
+
+
+
+=== CODE ===
+from evaluate import load
+from datetime import datetime
+import ast
+import pandas as pd
+import pickle
+
+exact_match_metric = load("exact_match")
+parseError = 0
+parseErrorNew = 0
+
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_run_1.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100.txt'
+# TEST_FILE_PATH = 'val_data_forExtraction_1399_Without100.pkl'
+
+# mtp_predictions_CompExtractor_Without100_run_1
+# TASK = 'CompExtractor_Without100_T5Small'
+# RUNNUM = 'run_1'
+
+# TASK = 'CompExtractor_Without100_LossFunction'
+# RUNNUM = 'run_5'
+
+
+# TEST_FILE_PATH = 'val_data_for_directMatching_composition_extraction_1039.pkl'
+# # MODEL_SAVE_PATH = f'../scratch/mtp_{TASK}_{RUNNUM}.pt'
+# # OUTPUT_FILE_PATH = f'mtp_predictions_{TASK}_{RUNNUM}.txt' 
+# # GOLD_FILE_PATH = f'mtp_gold_{TASK}.txt'
+
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100_FlanT5Large_DirectMatch.txt'
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.txt'
+
+
+# print("GENERATING PREDICTIONS FOR ---> ",OUTPUT_FILE_PATH)
+
+# val_df = pickle.load(open(TEST_FILE_PATH, 'rb'))
+
+val_df = X_val_extract
+
+# print(val_df)
+# val_df.rename(columns = {'sentence':'Input', 'composition_cleaned':'Output'}, inplace=True)
+
+
+analysis_eval = []
+analysis_eval_new = []
+
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateComposition(g, p)
+        # print(evalscore)
+        analysis_eval.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+
+def evaluateComposition(gold, predicted):
+    global parseError
+    gold = ast.literal_eval(gold)
+    try:
+        predicted = ast.literal_eval(predicted)
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseError+=1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    # print("INSIDE EC")
+    # print(gold_sets)
+    # print(predicted_sets)
+    # print("CLOSE")
+    
+    precision=0
+    recall=0
+
+    for predicted_set in predicted_sets:
+        if(predicted_set in gold_sets):
+            precision+=1
+    
+    for gold_set in gold_sets:
+        if(gold_set in predicted_sets):
+            recall+=1   
+    
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+    
+    if(precision==0 and recall ==0):
+        f1=0.0
+    else: 
+        f1 = (2*precision*recall)/(precision+recall)
+    
+    return round(f1,2)
+
+# Example usage
+# gold_list = [[('As', 20.0), ('Se', 58.0), ('Ge', 22.0)], [('As', 20.0), ('Se', 58.0), ('Na', 22.0)]]
+# predicted_list = [ [ ('As', 20.0), ('Se', 58.0), ('Ge', 22.0)]]
+
+# result = evaluateComposition(gold_list, predicted_list)
+# print(result)
+
+def evaluateCompositionNew(gold, predicted, tolerance=1.0):
+    global parseErrorNew
+    gold = ast.literal_eval(str(gold))
+    try:
+        predicted = ast.literal_eval(str(predicted))
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseErrorNew += 1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    precision = 0
+    recall = 0
+
+    for predicted_set in predicted_sets:
+        for gold_set in gold_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                precision += 1
+                break
+    
+    for gold_set in gold_sets:
+        for predicted_set in predicted_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                recall += 1
+                break
+    
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+    
+    if precision == 0 and recall == 0:
+        f1 = 0.0
+    else: 
+        f1 = (2 * precision * recall) / (precision + recall)
+    
+    return round(f1, 2)
+
+
+
+def evaluationScoreNew(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        try:
+            evalscore = evaluateCompositionNew(g, p)
+        except:
+            print("ERROR IN:")
+            print(g)
+            print(p)
+            print("---")
+        # print(evalscore)
+        analysis_eval_new.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+def exactMatchScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    return exact_match_metric.compute(predictions=pred, references=gold)
+
+
+
+print("Validation ended.. Calculating score -->")
+print(datetime.now())
+
+
+print("Metric score Exact Match --->")
+print(exactMatchScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score Old --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score New --->")
+print(evaluationScoreNew(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+score_df = pd.DataFrame(analysis_eval)
+val_df_sent = val_df[['Input','Output']]
+new_df = pd.concat([val_df.reset_index(drop=True), score_df.reset_index(drop=True)], axis=1)
+
+
+score_df_new = pd.DataFrame(analysis_eval_new)
+# val_df_sent = val_df[['Input','Output']]
+new_df_new = pd.concat([val_df.reset_index(drop=True), score_df_new.reset_index(drop=True)], axis=1)
+
+# print(new_df)
+new_df['pred'] = new_df['pred'].apply(lambda x: x.replace('\n', ''))
+new_df['gold'] = new_df['gold'].apply(lambda x: x.replace('\n', ''))
+# new_df['score'] = new_df['score'].apply(lambda x: x.replace('\n', ''))
+new_df.to_csv(f'analaysis_{OUTPUT_FILE_PATH}.csv', encoding='utf-16', sep='|')
+
+# print(new_df_new)
+new_df_new['pred'] = new_df_new['pred'].apply(lambda x: x.replace('\n', ''))
+new_df_new['gold'] = new_df_new['gold'].apply(lambda x: x.replace('\n', ''))
+new_df_new.to_csv(f'analaysis_{OUTPUT_FILE_PATH}_new.csv', encoding='utf-16', sep='|')
+
+print("Analysis Extractor created")
+print("Parse issue in ",parseError)
+
+=== CODE ===
+GOLD_FILE_PATH
+
+=== CODE ===
+OUTPUT_FILE_PATH
+
+=== CODE ===
+
+print("Starting evaluations ----------->")
+
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result
+
+# print("Validation ended.. Calculating score -->")
+# print(datetime.now())
+
+print("Exact match score --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+# EVALUATION 2 ----------->
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateComposition(g, p)
+        # print(evalscore)
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+def evaluateComposition(gold, predicted):
+    
+    gold = ast.literal_eval(gold)
+    try:
+        predicted = ast.literal_eval(predicted)
+    except:
+        # print("Cannot parse")
+        # print(predicted)
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    # print("INSIDE EC")
+    # print(gold_sets)
+    # print(predicted_sets)
+    # print("CLOSE")
+    
+    precision=0
+    recall=0
+
+    for predicted_set in predicted_sets:
+        if(predicted_set in gold_sets):
+            precision+=1
+    
+    for gold_set in gold_sets:
+        if(gold_set in predicted_sets):
+            recall+=1   
+    
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+    
+    if(precision==0 and recall ==0):
+        f1=0.0
+    else: 
+        f1 = (2*precision*recall)/(precision+recall)
+    
+    return round(f1,2)
+
+
+print("Metric score --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+=== CODE ===
+# with open(OUTPUT_FILE_PATH, 'r', encoding='utf-8') as fp:
+#     pred = fp.readlines()
+
+
+# pred_extract_df = pd.DataFrame(pred, columns=['PredExtract'])
+# extract_df['PredExtract'] = extract_df['PredExtract'].apply(lambda x: x.replace('\n',''))
+# extract_df['PredExtract'] = extract_df['PredExtract'].apply(str)
+# extract_df['PredExtract'] = extract_df['PredExtract'].apply(lambda x: ast.literal_eval(x))
+
+
+# # final_df = pd.concat([X_val, pred_extract_df], axis=1)
+# X_val_extracted = extract_df[extract_df['pred'] == '1']
+# pred_combined = pd.concat([X_val, pred_extract_df], axis=1)
+# X_val_remaining = extract_df[extract_df['pred'] == '0']
+
+# final_df = pd.concat([X_val, pred_extract_df], axis=0)
+
+
+# def final_evaluation(goldLst, predLst):
+#     result = 0
+#     ct=0
+#     for g,p in zip(goldLst, predLst):
+#         # print("GOLD")
+#         # print(g)
+#         # print("PRED")
+#         # print(p)
+#         evalscore = evaluateComposition(g, p)
+#         # print(evalscore)
+#         result += evalscore
+#         # print(result)
+#         ct+=1
+#     # result = exact_match_metric.compute(predictions=pred, references=gold)
+#     return result/ct
+
+# print("FINAL RESULT --->>>")
+# print(final_evaluation(final_df['composition'].tolist(), final_df['PredExtract'].tolist()))
+
+
+
+=== CODE ===
+X_val_extract_MCC
+
+=== CODE ===
+import ast
+import operator as op
+operators = {ast.Add: op.add, ast.Sub: op.sub, ast.Mult: op.mul, ast.Div: op.truediv}
+
+def eval_(node):
+    if isinstance(node, ast.Num):
+        return node.n
+    elif isinstance(node, ast.BinOp):
+        return operators[type(node.op)](eval_(node.left), eval_(node.right))
+    else:
+        raise TypeError(node)
+
+def eval_expr(expr):
+    return eval_(ast.parse(expr, mode='eval').body)
+
+
+def norm_sum_to_1(composition, sum_perc):
+    assert len(composition) > 0
+    corr_comp = []
+    for c in composition:
+        try:
+            val = eval_expr(c[1])
+            if val < 0: return []
+            if val > 0: corr_comp.append(c)
+        except:
+            corr_comp.append(c)
+    norm_comp = [(c[0], f'({c[1]})/({sum_perc})') for c in corr_comp]
+    d = dict()
+    for c in norm_comp:
+        if c[0] not in d:
+            d[c[0]] = c[1].replace(' ', '')
+        else:
+            d[c[0]] += '+' + c[1].replace(' ', '')
+    return [(k, v) for k, v in d.items()]
+
+=== CODE ===
+from itertools import product
+import re
+def substituteRegex(compounds, regexVals, span):
+    # Given list of compounds and expressions
+    # compounds = [('GeS2', '(1-x)/(1-x+x+y)'), ('Ga2S3', '(x)/(1-x+x+y)'), ('Al2O3', 0.5)]
+
+    is_xyz_present = any([bool(re.search('[xyz]', i[1])) for i in compounds if(isinstance(i[1], str))])
+    # print('Is XYZ ? =', is_xyz_present)
+    if(is_xyz_present == False):
+        # print("XYZ FAILED")
+        # print("COMPOUNDS")
+        # print(compounds)
+        # substituted_expression = eval_expr(i[1])
+
+        new_comp = []
+        for i in compounds:
+            # print(i)
+            try:
+                new_comp.append((i[0], float(i[1])))
+            except:
+                substituted_expression = eval_expr(i[1])
+                # print("SUBS EXPRSN ",substituted_expression)
+                new_comp.append((i[0], substituted_expression))
+        # try:
+            # new_comp = ast.literal_eval(compounds)
+        # except:
+            # new_comp = []
+            # print("AST LITERAL FAILED FOR = ",compounds)
+        return [(new_comp,span)]
+
+    # Given lists of possible values for x, y, and z
+    # x_values = [0.1,0.2]
+    # y_values = [0.4]
+    # z_values = []
+    # span = (42,48)
+    x_values = regexVals[0]
+    y_values = regexVals[1]
+    z_values = regexVals[2]
+    
+
+    # Create a list to store the final result in the specified format
+    result_list = []
+    neg_subs_flag = 0
+    # Generate all combinations of x, y, and z values, including the empty x and y
+    combinations = list(product(x_values or [None], y_values or [None], z_values or [None]))
+    # print("COMBINATIONS")
+    # print(combinations)
+    # Loop through each combination of x, y, and z values
+    for x, y, z in combinations:
+        # print(f'x={x}')
+        # Create a list to store substituted expressions for each compound
+        substituted_expressions = []
+        
+        
+        # Loop through each compound and substitute values
+        for compound in compounds:
+            compound_name, expression = compound
+            
+            # Handle None value for x, y, and z when respective value lists are empty
+            x_placeholder = str(x) if x is not None else 'x'
+            y_placeholder = str(y) if y is not None else 'y'
+            z_placeholder = str(z) if z is not None else 'z'
+            
+            substituted_expression = str(expression).replace('x', x_placeholder).replace('y', y_placeholder).replace('z', z_placeholder)
+            try:
+                substituted_expression = eval_expr(substituted_expression)
+                # if(regexVals == [['72', '69', '66', '62', '75'], [], []]):
+                # print(f"SUBS EXPRESSION = {substituted_expression}")
+                if(substituted_expression<0):
+                    neg_subs_flag = 1
+                    substituted_expression = 100 + substituted_expression - 1
+            except TypeError as e:
+                pass
+
+            substituted_expressions.append((compound_name, substituted_expression))
+            # print("SUBS EXP LIST:" ,  substituted_expressions)            
+            
+            # else:
+            #     substituted_expressions=expression
+            # substituted_expressions.append((compound_name, substituted_expression))
+        # if(len(substituted_expressions)==0):
+        #     substituted_expressions = compounds
+        # if(substituted_expressions!=compounds):
+        result_list.append(substituted_expressions)
+        # print("RESULT LIST:", result_list)
+    # print("RESULT LIST COMPLETE = ", result_list)
+    # print(result_list)
+    new_res_lst_neg = []
+    if(neg_subs_flag == 1):
+        for comp in result_list:
+            new_comp_neg = []
+            for cname, exp in comp:
+                new_comp_neg.append((cname, exp/100))
+            new_res_lst_neg.append(new_comp_neg)
+        result_list = new_res_lst_neg
+        neg_subs_flag = 0
+
+        # print(new_res_lst_neg)
+
+    # print(result_list)
+    # total = sum([value for _, value in result_list])
+    # normalized_values = [(name, value / total) for name, value in result_list]
+    # print(normalized_values)
+    
+    # for combination in result_list:
+    #     print(combination)  
+    
+    final_result = []    
+    # Print the resulting list in the specified format
+    # print("LEN = ")
+    # print(len(result_list))
+    for combination in result_list:
+        # print("COMBINATION: ",combination)
+        # print(combination)
+        try:
+            total = sum([value for _, value in combination])
+            # print("TOTAL = ")
+            # print(total)
+            normalized_values = [(name, value / total) for name, value in combination]
+            # print("NORMALIZED VALUES = ")
+            # print(normalized_values)
+            final_result.append((normalized_values, span))
+            # print("APPENDED")
+                
+        except TypeError as e:
+            print(sys.exc_info()[0])
+            # print("TYPE ERROR -------------")
+            final_result.append((combination, span))
+    # print("FINAL RESULT")
+    # print(final_result)
+    return final_result
+
+
+=== CODE ===
+from itertools import product
+import re
+def substituteRegex_v2(compounds, regexVals, span):
+    # Given list of compounds and expressions
+    # compounds = [('GeS2', '(1-x)/(1-x+x+y)'), ('Ga2S3', '(x)/(1-x+x+y)'), ('Al2O3', 0.5)]
+
+    is_xyz_present = any([bool(re.search('[xyz]', i[1])) for i in compounds if(isinstance(i[1], str))])
+    # print('Is XYZ ? =', is_xyz_present)
+    if(is_xyz_present == False):
+        # print("XYZ FAILED")
+        # print("COMPOUNDS")
+        # print(compounds)
+        # substituted_expression = eval_expr(i[1])
+
+        new_comp = []
+        for i in compounds:
+            # print(i)
+            try:
+                new_comp.append((i[0], float(i[1])))
+            except:
+                substituted_expression = eval_expr(i[1])
+                # print("SUBS EXPRSN ",substituted_expression)
+                new_comp.append((i[0], substituted_expression))
+        # try:
+            # new_comp = ast.literal_eval(compounds)
+        # except:
+            # new_comp = []
+            # print("AST LITERAL FAILED FOR = ",compounds)
+        return [(new_comp,span)]
+
+    # Given lists of possible values for x, y, and z
+    # x_values = [0.1,0.2]
+    # y_values = [0.4]
+    # z_values = []
+    # span = (42,48)
+    x_values = regexVals[0]
+    y_values = regexVals[1]
+    z_values = regexVals[2]
+    
+
+    # Create a list to store the final result in the specified format
+    result_list = []
+    neg_subs_flag = 0
+    # Generate all combinations of x, y, and z values, including the empty x and y
+    combinations = list(product(x_values or [None], y_values or [None], z_values or [None]))
+    # print("COMBINATIONS")
+    # print(combinations)
+    # Loop through each combination of x, y, and z values
+    for x, y, z in combinations:
+        # print(f'x={x}')
+        # Create a list to store substituted expressions for each compound
+        substituted_expressions = []
+        
+        
+        # Loop through each compound and substitute values
+        for compound in compounds:
+            compound_name, expression = compound
+            
+            # Handle None value for x, y, and z when respective value lists are empty
+            x_placeholder = str(x) if x is not None else 'x'
+            y_placeholder = str(y) if y is not None else 'y'
+            z_placeholder = str(z) if z is not None else 'z'
+            
+            substituted_expression = str(expression).replace('x', x_placeholder).replace('y', y_placeholder).replace('z', z_placeholder)
+            try:
+                substituted_expression = eval_expr(substituted_expression)
+                # if(regexVals == [['72', '69', '66', '62', '75'], [], []]):
+                # print(f"SUBS EXPRESSION = {substituted_expression}")
+                if(substituted_expression<0):
+                    neg_subs_flag = 1
+                    substituted_expression = 100 + substituted_expression - 1
+            except TypeError as e:
+                pass
+
+            substituted_expressions.append((compound_name, substituted_expression))
+            # print("SUBS EXP LIST:" ,  substituted_expressions)            
+            
+            # else:
+            #     substituted_expressions=expression
+            # substituted_expressions.append((compound_name, substituted_expression))
+        # if(len(substituted_expressions)==0):
+        #     substituted_expressions = compounds
+        # if(substituted_expressions!=compounds):
+        result_list.append(substituted_expressions)
+        # print("RESULT LIST:", result_list)
+    # print("RESULT LIST COMPLETE = ", result_list)
+    # print(result_list)
+    new_res_lst_neg = []
+    if(neg_subs_flag == 1):
+        for comp in result_list:
+            new_comp_neg = []
+            for cname, exp in comp:
+                new_comp_neg.append((cname, exp/100))
+            new_res_lst_neg.append(new_comp_neg)
+        result_list = new_res_lst_neg
+        neg_subs_flag = 0
+
+        # print(new_res_lst_neg)
+
+    # print(result_list)
+    # total = sum([value for _, value in result_list])
+    # normalized_values = [(name, value / total) for name, value in result_list]
+    # print(normalized_values)
+    
+    # for combination in result_list:
+    #     print(combination)  
+    
+    final_result = []    
+    # Print the resulting list in the specified format
+    # print("LEN = ")
+    # print(len(result_list))
+    for combination in result_list:
+        # print("COMBINATION: ",combination)
+        # print(combination)
+        try:
+            total = sum([value for _, value in combination])
+            # print("TOTAL = ")
+            # print(total)
+            normalized_values = [(name, value / total) for name, value in combination]
+            # print("NORMALIZED VALUES = ")
+            # print(normalized_values)
+            final_result.append((normalized_values, span))
+            # print("APPENDED")
+                
+        except TypeError as e:
+            print(sys.exc_info()[0])
+            # print("TYPE ERROR -------------")
+            final_result.append((combination, span))
+    # print("FINAL RESULT")
+    # print(final_result)
+    return final_result
+
+
+=== CODE ===
+# def multiply100(lstOfLst):
+#     print(lstOfLst)
+#     if(len(lstOfLst)==0):
+#         return [[]]
+#     newLstOfLst = []
+#     for compLst in lstOfLst:
+#         newCompLst = []
+#         for tuples in compLst:
+#             if(tuples[1]!=0.0):
+#                 newCompLst.append((tuples[0], tuples[1]*100.0))
+#         newLstOfLst.append(newCompLst)
+#     return newLstOfLst
+
+=== CODE ===
+def cleanParsedCompositions(pii, parsedCompositions):
+    # print("pc")
+    # print(parsedCompositions)
+    unique_data = [list(t) for t in set(tuple(i) for i in parsedCompositions)]
+    # print("ud")
+    # print(unique_data)
+    new_unique_data = []
+    for compLst in unique_data:
+        new_compLst = []
+        try:
+            for tuples in compLst:
+                # print(tuples)
+                if(float(tuples[1])!=0.0):
+                    
+                    new_compLst.append((tuples[0], round(float(tuples[1])*100.0,2)))
+            new_unique_data.append(new_compLst)
+        except:
+            print(f"Issue in substitution for list: {compLst} in pii {pii}")
+            # new_compLst.append((tuples[0], round(float(tuples[1])*100.0,2)))
+    return new_unique_data
+
+=== CODE ===
+
+
+=== CODE ===
+def subsXYZ(pii, parsed):
+    parsedCompositions = []
+    rp = rpattern_values[pii]
+    # FOR TESTING: SAY RP=
+    # rp = [['0.6'],[],[]]
+    # print(rp)
+    subsComp = []
+    if(len(rp[0]) ==0 and len(rp[1]) ==0 and len(rp[2]) ==0):
+        # rp[0]=['0']
+        # rp[1]=['0']
+        # rp[2]=['0']
+        return [[]]
+    # print("PII ----> ",pii)
+    for i in parsed:
+        # print("i= ",i)
+        try:
+            subs = substituteRegex(i, rp, ())
+            # print("subs = ",subs)
+            for comp in subs:
+                parsedCompositions.append(comp[0])
+        except:
+            print(f"Failed for {i} of pii = {pii}")
+    return cleanParsedCompositions(pii, parsedCompositions)
+
+=== CODE ===
+rpattern_values["S0022309301006688"]
+
+=== CODE ===
+subsXYZ("S0022309301006688",[[('SnO', '(x)/(x+1-x)'), ('GeO2', '(1-x)/(x+1-x)')]])
+
+=== CODE ===
+subsXYZ("S0022309301006688",[[('SnO', '(x)/(x+1-x)'), ('GeO2', '(1-x)/(x+1-x)')]])
+
+=== CODE ===
+
+
+=== CODE ===
+subsXYZ("S0022309301007293",[[('CdI2', '(40)/(40+40+20)'), ('KI', '(40)/(40+40+20)'), ('CsI', '(20)/(40+40+20)')]])
+
+=== CODE ===
+rpattern_values['S0022309301007293']
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+rpattern_values['S0022309301006548']
+
+=== CODE ===
+subsXYZ("S0022309301006548", [[('As', '(40)/(40+60-z+x)'), ('S', '(60-x)/(40+60-x+x)'), ('Se', '(x)/(40+60-x+x)')], [('As', 0.4), ('S', 0.6)]])
+
+=== CODE ===
+subsXYZ("S0022309309003883", [[('Ge', '(1-x)/(1-x+x)'), ('S', '(x)/(1-x+x)')]])
+
+=== CODE ===
+X_val_extract_MCC
+
+=== CODE ===
+# X_val_extract_MCC['Ig_comp'] = X_val_extract_MCC['Ig_comp'].apply(str)
+# X_val_extract_MCC['Ig_comp'] = X_val_extract_MCC['Ig_comp'].apply(lambda x: ast.literal_eval(x))
+
+=== CODE ===
+TASK = 'CompExtractor_Without100_FlanT5Large_OnlyEqn'
+RUNNUM = 'run_1'
+
+# TRAIN_DATA_LOAD_PATH = 'train_data_for_equation_composition_extraction_1744.pkl'
+# VAL_DATA_LOAD_PATH = 'val_data_for_equation_composition_extraction_416.pkl'
+
+# TASK = 'CompExtractor_Without100_FlanT5Large_OnlyEqn_AdditionalGpt4Data'
+# RUNNUM = 'run_2'
+MODEL_SAVE_PATH = f'../scratch/mtp_{TASK}_{RUNNUM}.pt'
+OUTPUT_FILE_PATH = f'mtp_predictions_{TASK}_{RUNNUM}_NB_v8_finaldataset_val.txt' 
+GOLD_FILE_PATH = f'mtp_gold_{TASK}_NB_v8_finaldataset_val.txt'
+
+# TASK = 'end2end_CompExtractor_Without100_FlanT5Large_DirectMatch'
+# RUNNUM = 'run_1'
+
+# MODEL_SAVE_PATH = f'../scratch/mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.pt'
+# OUTPUT_FILE_PATH = f'mtp_predictions_{TASK}_{RUNNUM}.txt' 
+# GOLD_FILE_PATH = f'mtp_gold_{TASK}.txt'
+
+MODEL_NAME = 'google/flan-t5-large'
+# MODEL_LOAD_PATH = 'google/flan-t5-large'
+
+
+max_input_length = 300
+max_target_length = 800
+
+
+exact_match_metric = load("exact_match")
+
+
+X_val_extract = X_val_extract_MCC.rename(columns={'sentence': 'Input', 'gold_comp':'Output'})
+X_val_extract['Output'] = X_val_extract['Output'].apply(str)
+X_val_extract = X_val_extract[['Input', 'Output']]
+
+pii_lst = X_val_extract_MCC['pii'].tolist()
+
+
+=== CODE ===
+
+# X_val_extract_SCC['Output'] = X_val_extract_SCC['Output'].apply(str)
+
+# def concatPrompt(df):
+#     return str(df['Input']) + ' <SEP> ' + str(df['x']) + ' <SEP> ' + str(df['y']) + ' <SEP> ' + str(df['z'])
+# X_val_extract['Input'] = X_val_extract.apply(lambda x: concatPrompt(x), axis=1)
+
+# X_val_extract = X_val_extract_SCC[['Input', 'Output']]
+
+
+lst = X_val_extract['Output'].tolist()
+writeListToFile(lst, GOLD_FILE_PATH)
+
+
+device = 'cuda' if cuda.is_available() else 'cpu'
+print(device)
+
+tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)
+model = T5ForConditionalGeneration.from_pretrained(MODEL_SAVE_PATH).to(device)
+
+
+def preprocessTrainDev(examples):
+    inputs = [doc for doc in examples["Input"]]
+    model_inputs = tokenizer(inputs, max_length=max_input_length, truncation=True,add_special_tokens=True ,padding='max_length')
+    labels = tokenizer(examples["Output"], max_length=max_target_length, truncation=True,add_special_tokens=True, padding='max_length')
+    labelsInpIds = labels.input_ids
+    
+    labelsInpIds = np.array(labelsInpIds)
+    labelsInpIds[labelsInpIds == tokenizer.pad_token_id] = -100
+    labelsInpIds = list(labelsInpIds)
+    model_inputs["labels"] = labelsInpIds
+
+    return model_inputs
+
+datasetVal = Dataset.from_pandas(X_val_extract)
+tokenized_datasets_val = datasetVal.map(preprocessTrainDev, batched=True)
+
+
+def generateTestOutput(model, testdata, tokenizer):
+    model.eval()
+    data = testdata['input_ids']
+    amask = testdata['attention_mask']
+    ds = Dataset.from_dict({"data":data, "attention_mask":amask}).with_format("torch")
+    dataloader = DataLoader(ds, batch_size=8, shuffle=False)
+    outputLst =[]
+    # total_loss = 0.0
+    
+    with torch.no_grad():
+        for i, (inputs) in enumerate(tqdm(dataloader)):
+            input_ids = inputs['data'].to(device)
+            amasks = inputs['attention_mask'].to(device)
+            # generate model outputs
+            generated_ids = model.generate(
+                input_ids = input_ids,
+                attention_mask = amasks,
+                max_new_tokens=800,
+                num_beams = 1)
+            # print(generated_ids)
+            output = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+            
+            outputLst.extend(output)
+    writeListToFile(outputLst, OUTPUT_FILE_PATH)
+
+
+
+print("Generating extraction predictions -->")
+print(datetime.now())
+generateTestOutput(model, tokenized_datasets_val, tokenizer)
+
+
+=== CODE ===
+rpattern_values['S002230939900321X']
+
+=== CODE ===
+with open(OUTPUT_FILE_PATH, 'r', encoding='utf-8') as fp:
+    pred_lst = fp.readlines()
+subs_pred = []
+
+for pii, parsed in zip(pii_lst, pred_lst):
+    try:
+        parsed_ast =  ast.literal_eval(parsed)
+    except:
+        print("IDHAR")
+        print(parsed)
+        parsed_ast = [[]]
+    subs_pred.append(subsXYZ(pii, parsed_ast))
+    # print("PII = ",pii," PARSED = ",subs_pred)
+
+=== CODE ===
+len(pred_lst)
+
+=== CODE ===
+# pred_lst
+
+=== CODE ===
+X_val_extract_MCC['model_pred'] = pred_lst
+
+=== CODE ===
+X_val_extract_MCC
+
+=== CODE ===
+from regex_lib_new import parse_composition
+
+=== CODE ===
+def get_regex_op(sent):
+    lst = parse_composition(sent)
+    new_lst = []
+    for tup in lst:
+        new_lst.append(tup[0])
+
+    return new_lst
+
+=== CODE ===
+X_val_extract_MCC['parsed_comp'] = X_val_extract_MCC['sentence'].apply(get_regex_op)
+
+=== CODE ===
+intermediate_eqn_pred_lst = pred_lst
+intermediate_eqn_gold_lst = X_val_extract_MCC['parsed_comp'].tolist()
+
+
+=== CODE ===
+len(subs_pred)
+
+=== CODE ===
+writeListToFile(subs_pred, OUTPUT_FILE_PATH)
+
+=== CODE ===
+# subs_pred
+
+=== CODE ===
+X_val_extract_MCC
+
+=== CODE ===
+with open(GOLD_FILE_PATH, 'r', encoding='utf-8') as fread:
+    gold = fread.readlines()
+with open(OUTPUT_FILE_PATH, 'r', encoding='utf-8') as fp:
+    pred = fp.readlines()
+
+=== CODE ===
+pred
+
+=== CODE ===
+new_pred = []
+for i in pred:
+    comp_lst_of_lst = i.replace("\n","")
+    comp_lst_ast = ast.literal_eval(comp_lst_of_lst)
+    new_pred.append(comp_lst_ast)
+
+=== CODE ===
+new_pred
+
+=== CODE ===
+gold
+
+=== CODE ===
+new_gold = []
+for i in gold:
+    comp_lst_of_lst = i.replace("\n","")
+    comp_lst_ast = ast.literal_eval(comp_lst_of_lst)
+    new_gold.append(comp_lst_ast)
+
+=== CODE ===
+# new_gold = []
+# for i in gold:
+    
+#     data_list = ast.literal_eval(i)
+#     # Convert inner strings to lists of tuples
+#     result = [ast.literal_eval(inner_str) for inner_str in data_list]
+#     # print(result
+#     new_gold.append(result)
+#     # comp_lst_of_lst = i.replace("\n","")
+#     # comp_lst_ast = ast.literal_eval(comp_lst_of_lst)
+#     # new_pred.append(comp_lst_ast)
+
+=== CODE ===
+new_gold
+
+=== CODE ===
+writeListToFile(new_pred, OUTPUT_FILE_PATH)
+
+=== CODE ===
+writeListToFile(new_gold, GOLD_FILE_PATH)
+
+=== CODE ===
+new_gold
+
+=== CODE ===
+new_new_gold = []
+for i in new_gold:
+    unique_data = list(map(list, set(map(tuple, i))))
+    new_new_gold.append(unique_data)
+
+=== CODE ===
+new_new_gold
+
+=== CODE ===
+writeListToFile(new_new_gold, GOLD_FILE_PATH)
+
+=== CODE ===
+from evaluate import load
+from datetime import datetime
+import ast
+import pandas as pd
+import pickle
+
+exact_match_metric = load("exact_match")
+parseError = 0
+parseErrorNew = 0
+
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_run_1.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100.txt'
+# TEST_FILE_PATH = 'val_data_forExtraction_1399_Without100.pkl'
+
+# mtp_predictions_CompExtractor_Without100_run_1
+# TASK = 'CompExtractor_Without100_T5Small'
+# RUNNUM = 'run_1'
+
+# TASK = 'CompExtractor_Without100_LossFunction'
+# RUNNUM = 'run_5'
+
+
+# TEST_FILE_PATH = 'val_data_for_directMatching_composition_extraction_1039.pkl'
+# # MODEL_SAVE_PATH = f'../scratch/mtp_{TASK}_{RUNNUM}.pt'
+# # OUTPUT_FILE_PATH = f'mtp_predictions_{TASK}_{RUNNUM}.txt' 
+# # GOLD_FILE_PATH = f'mtp_gold_{TASK}.txt'
+
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100_FlanT5Large_DirectMatch.txt'
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.txt'
+
+
+# print("GENERATING PREDICTIONS FOR ---> ",OUTPUT_FILE_PATH)
+
+# val_df = pickle.load(open(TEST_FILE_PATH, 'rb'))
+
+val_df = X_val_extract
+
+# print(val_df)
+# val_df.rename(columns = {'sentence':'Input', 'composition_cleaned':'Output'}, inplace=True)
+
+
+analysis_eval = []
+analysis_eval_new = []
+
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateComposition(g, p)
+        # print(evalscore)
+        analysis_eval.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+
+def evaluateComposition(gold, predicted):
+    global parseError
+    gold = ast.literal_eval(str(gold))
+    try:
+        predicted = ast.literal_eval(str(predicted))
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseError+=1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    # print("INSIDE EC")
+    # print(gold_sets)
+    # print(predicted_sets)
+    # print("CLOSE")
+    
+    precision=0
+    recall=0
+
+    for predicted_set in predicted_sets:
+        if(predicted_set in gold_sets):
+            precision+=1
+    
+    for gold_set in gold_sets:
+        if(gold_set in predicted_sets):
+            recall+=1   
+    
+    if(len(predicted_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+     
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+
+    return round(precision, 2)
+    
+    if(precision==0 and recall ==0):
+        f1=0.0
+    else: 
+        f1 = (2*precision*recall)/(precision+recall)
+    
+    return round(f1,2)
+
+# Example usage
+# gold_list = [[('As', 20.0), ('Se', 58.0), ('Ge', 22.0)], [('As', 20.0), ('Se', 58.0), ('Na', 22.0)]]
+# predicted_list = [ [ ('As', 20.0), ('Se', 58.0), ('Ge', 22.0)]]
+
+# result = evaluateComposition(gold_list, predicted_list)
+# print(result)
+
+def evaluateCompositionNew(gold, predicted, tolerance=1.0):
+    global parseErrorNew
+    gold = ast.literal_eval(str(gold))
+    try:
+        predicted = ast.literal_eval(str(predicted))
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseErrorNew += 1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    precision = 0
+    recall = 0
+
+    for predicted_set in predicted_sets:
+        for gold_set in gold_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                precision += 1
+                break
+    
+    for gold_set in gold_sets:
+        for predicted_set in predicted_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                recall += 1
+                break
+    if(len(predicted_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+
+        
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+
+    return round(precision, 2)
+
+    
+    if precision == 0 and recall == 0:
+        f1 = 0.0
+    else: 
+        f1 = (2 * precision * recall) / (precision + recall)
+    
+    return round(f1, 2)
+
+
+
+def evaluationScoreNew(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateCompositionNew(g, p)
+        # print(evalscore)
+        analysis_eval_new.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+def exactMatchScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    return exact_match_metric.compute(predictions=pred, references=gold)
+
+
+
+print("Validation ended.. Calculating score -->")
+print(datetime.now())
+
+
+print("Metric score Exact Match --->")
+print(exactMatchScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score Old --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score New --->")
+print(evaluationScoreNew(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+score_df = pd.DataFrame(analysis_eval)
+# val_df_sent = val_df[['Input','Output']]
+new_df = pd.concat([X_val_extract_MCC.reset_index(drop=True), score_df.reset_index(drop=True)], axis=1)
+
+
+score_df_new = pd.DataFrame(analysis_eval_new)
+# val_df_sent = val_df[['Input','Output']]
+new_df_new = pd.concat([X_val_extract_MCC.reset_index(drop=True), score_df_new.reset_index(drop=True)], axis=1)
+
+# print(new_df)
+new_df['pred'] = new_df['pred'].apply(lambda x: x.replace('\n', ''))
+new_df['gold'] = new_df['gold'].apply(lambda x: x.replace('\n', ''))
+# new_df['score'] = new_df['score'].apply(lambda x: x.replace('\n', ''))
+new_df['model_pred'] = new_df['model_pred'].apply(lambda x: x.replace('\n', ''))
+new_df.to_csv(f'analaysis_{OUTPUT_FILE_PATH}.csv', encoding='utf-16', sep='|')
+print(f"Written to csv: analaysis_{OUTPUT_FILE_PATH}.csv")
+# print(new_df_new)
+
+new_df_new['pred'] = new_df_new['pred'].apply(lambda x: x.replace('\n', ''))
+new_df_new['gold'] = new_df_new['gold'].apply(lambda x: x.replace('\n', ''))
+new_df_new['model_pred'] = new_df_new['model_pred'].apply(lambda x: x.replace('\n', ''))
+
+new_df_new.to_csv(f'analaysis_{OUTPUT_FILE_PATH}_new.csv', encoding='utf-16', sep='|')
+print(f"Written to csv: analaysis_{OUTPUT_FILE_PATH}_new.csv")
+
+print("Analysis Extractor created")
+print("Parse issue in ",parseError)
+
+=== CODE ===
+from evaluate import load
+from datetime import datetime
+import ast
+import pandas as pd
+import pickle
+
+exact_match_metric = load("exact_match")
+parseError = 0
+parseErrorNew = 0
+
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_run_1.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100.txt'
+# TEST_FILE_PATH = 'val_data_forExtraction_1399_Without100.pkl'
+
+# mtp_predictions_CompExtractor_Without100_run_1
+# TASK = 'CompExtractor_Without100_T5Small'
+# RUNNUM = 'run_1'
+
+# TASK = 'CompExtractor_Without100_LossFunction'
+# RUNNUM = 'run_5'
+
+
+# TEST_FILE_PATH = 'val_data_for_directMatching_composition_extraction_1039.pkl'
+# # MODEL_SAVE_PATH = f'../scratch/mtp_{TASK}_{RUNNUM}.pt'
+# # OUTPUT_FILE_PATH = f'mtp_predictions_{TASK}_{RUNNUM}.txt' 
+# # GOLD_FILE_PATH = f'mtp_gold_{TASK}.txt'
+
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100_FlanT5Large_DirectMatch.txt'
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.txt'
+
+
+# print("GENERATING PREDICTIONS FOR ---> ",OUTPUT_FILE_PATH)
+
+# val_df = pickle.load(open(TEST_FILE_PATH, 'rb'))
+
+val_df = X_val_extract
+
+# print(val_df)
+# val_df.rename(columns = {'sentence':'Input', 'composition_cleaned':'Output'}, inplace=True)
+
+
+analysis_eval = []
+analysis_eval_new = []
+
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateComposition(g, p)
+        # print(evalscore)
+        analysis_eval.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+
+def evaluateComposition(gold, predicted):
+    global parseError
+    gold = ast.literal_eval(gold)
+    try:
+        predicted = ast.literal_eval(predicted)
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseError+=1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    # print("INSIDE EC")
+    # print(gold_sets)
+    # print(predicted_sets)
+    # print("CLOSE")
+    
+    precision=0
+    recall=0
+
+    for predicted_set in predicted_sets:
+        if(predicted_set in gold_sets):
+            precision+=1
+    
+    for gold_set in gold_sets:
+        if(gold_set in predicted_sets):
+            recall+=1   
+    
+    if(len(predicted_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+
+    if(len(gold_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+        
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+
+    # return round(precision, 2)
+    
+    if(precision==0 and recall ==0):
+        f1=0.0
+    else: 
+        f1 = (2*precision*recall)/(precision+recall)
+    
+    return round(recall,2)
+
+# Example usage
+# gold_list = [[('As', 20.0), ('Se', 58.0), ('Ge', 22.0)], [('As', 20.0), ('Se', 58.0), ('Na', 22.0)]]
+# predicted_list = [ [ ('As', 20.0), ('Se', 58.0), ('Ge', 22.0)]]
+
+# result = evaluateComposition(gold_list, predicted_list)
+# print(result)
+
+def evaluateCompositionNew(gold, predicted, tolerance=1.0):
+    global parseErrorNew
+    gold = ast.literal_eval(str(gold))
+    try:
+        predicted = ast.literal_eval(str(predicted))
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseErrorNew += 1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    precision = 0
+    recall = 0
+
+    for predicted_set in predicted_sets:
+        for gold_set in gold_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                precision += 1
+                break
+    
+    for gold_set in gold_sets:
+        for predicted_set in predicted_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                recall += 1
+                break
+    if(len(predicted_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+
+    if(len(gold_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+
+    
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+
+    # return round(precision, 2)
+
+    
+    if precision == 0 and recall == 0:
+        f1 = 0.0
+    else: 
+        f1 = (2 * precision * recall) / (precision + recall)
+    
+    return round(recall, 2)
+
+
+
+def evaluationScoreNew(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateCompositionNew(g, p)
+        # print(evalscore)
+        analysis_eval_new.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+def exactMatchScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    return exact_match_metric.compute(predictions=pred, references=gold)
+
+
+
+print("Validation ended.. Calculating score -->")
+print(datetime.now())
+
+
+print("Metric score Exact Match --->")
+print(exactMatchScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score Old --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score New --->")
+print(evaluationScoreNew(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+score_df = pd.DataFrame(analysis_eval)
+# val_df_sent = val_df[['Input','Output']]
+new_df = pd.concat([X_val_extract_MCC.reset_index(drop=True), score_df.reset_index(drop=True)], axis=1)
+
+
+score_df_new = pd.DataFrame(analysis_eval_new)
+# val_df_sent = val_df[['Input','Output']]
+new_df_new = pd.concat([X_val_extract_MCC.reset_index(drop=True), score_df_new.reset_index(drop=True)], axis=1)
+
+# print(new_df)
+new_df['pred'] = new_df['pred'].apply(lambda x: x.replace('\n', ''))
+new_df['gold'] = new_df['gold'].apply(lambda x: x.replace('\n', ''))
+# new_df['score'] = new_df['score'].apply(lambda x: x.replace('\n', ''))
+new_df['model_pred'] = new_df['model_pred'].apply(lambda x: x.replace('\n', ''))
+new_df.to_csv(f'analaysis_{OUTPUT_FILE_PATH}.csv', encoding='utf-16', sep='|')
+print(f"Written to csv: analaysis_{OUTPUT_FILE_PATH}.csv")
+# print(new_df_new)
+
+new_df_new['pred'] = new_df_new['pred'].apply(lambda x: x.replace('\n', ''))
+new_df_new['gold'] = new_df_new['gold'].apply(lambda x: x.replace('\n', ''))
+new_df_new['model_pred'] = new_df_new['model_pred'].apply(lambda x: x.replace('\n', ''))
+
+new_df_new.to_csv(f'analaysis_{OUTPUT_FILE_PATH}_new.csv', encoding='utf-16', sep='|')
+print(f"Written to csv: analaysis_{OUTPUT_FILE_PATH}_new.csv")
+
+print("Analysis Extractor created")
+print("Parse issue in ",parseError)
+
+=== CODE ===
+from evaluate import load
+from datetime import datetime
+import ast
+import pandas as pd
+import pickle
+
+exact_match_metric = load("exact_match")
+parseError = 0
+parseErrorNew = 0
+
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_run_1.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100.txt'
+# TEST_FILE_PATH = 'val_data_forExtraction_1399_Without100.pkl'
+
+# mtp_predictions_CompExtractor_Without100_run_1
+# TASK = 'CompExtractor_Without100_T5Small'
+# RUNNUM = 'run_1'
+
+# TASK = 'CompExtractor_Without100_LossFunction'
+# RUNNUM = 'run_5'
+
+
+# TEST_FILE_PATH = 'val_data_for_directMatching_composition_extraction_1039.pkl'
+# # MODEL_SAVE_PATH = f'../scratch/mtp_{TASK}_{RUNNUM}.pt'
+# # OUTPUT_FILE_PATH = f'mtp_predictions_{TASK}_{RUNNUM}.txt' 
+# # GOLD_FILE_PATH = f'mtp_gold_{TASK}.txt'
+
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100_FlanT5Large_DirectMatch.txt'
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.txt'
+
+
+# print("GENERATING PREDICTIONS FOR ---> ",OUTPUT_FILE_PATH)
+
+# val_df = pickle.load(open(TEST_FILE_PATH, 'rb'))
+
+val_df = X_val_extract
+
+# print(val_df)
+# val_df.rename(columns = {'sentence':'Input', 'composition_cleaned':'Output'}, inplace=True)
+
+
+analysis_eval = []
+analysis_eval_new = []
+
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateComposition(g, p)
+        # print(evalscore)
+        analysis_eval.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+
+def evaluateComposition(gold, predicted):
+    global parseError
+    gold = ast.literal_eval(gold)
+    try:
+        predicted = ast.literal_eval(predicted)
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseError+=1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    # print("INSIDE EC")
+    # print(gold_sets)
+    # print(predicted_sets)
+    # print("CLOSE")
+    
+    precision=0
+    recall=0
+
+    for predicted_set in predicted_sets:
+        if(predicted_set in gold_sets):
+            precision+=1
+    
+    for gold_set in gold_sets:
+        if(gold_set in predicted_sets):
+            recall+=1   
+    
+    if(len(predicted_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+     
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+
+    # return round(precision, 2)
+    
+    if(precision==0 and recall ==0):
+        f1=0.0
+    else: 
+        f1 = (2*precision*recall)/(precision+recall)
+    
+    return round(f1,2)
+
+# Example usage
+# gold_list = [[('As', 20.0), ('Se', 58.0), ('Ge', 22.0)], [('As', 20.0), ('Se', 58.0), ('Na', 22.0)]]
+# predicted_list = [ [ ('As', 20.0), ('Se', 58.0), ('Ge', 22.0)]]
+
+# result = evaluateComposition(gold_list, predicted_list)
+# print(result)
+
+def evaluateCompositionNew(gold, predicted, tolerance=1.0):
+    global parseErrorNew
+    gold = ast.literal_eval(str(gold))
+    try:
+        predicted = ast.literal_eval(str(predicted))
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseErrorNew += 1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    precision = 0
+    recall = 0
+
+    for predicted_set in predicted_sets:
+        for gold_set in gold_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                precision += 1
+                break
+    
+    for gold_set in gold_sets:
+        for predicted_set in predicted_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                recall += 1
+                break
+    if(len(predicted_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+
+        
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+
+    # return round(precision, 2)
+
+    
+    if precision == 0 and recall == 0:
+        f1 = 0.0
+    else: 
+        f1 = (2 * precision * recall) / (precision + recall)
+    
+    return round(f1, 2)
+
+
+
+def evaluationScoreNew(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateCompositionNew(g, p)
+        # print(evalscore)
+        analysis_eval_new.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+def exactMatchScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    return exact_match_metric.compute(predictions=pred, references=gold)
+
+
+
+print("Validation ended.. Calculating score -->")
+print(datetime.now())
+
+
+print("Metric score Exact Match --->")
+print(exactMatchScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score Old --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score New --->")
+print(evaluationScoreNew(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+score_df = pd.DataFrame(analysis_eval)
+# val_df_sent = val_df[['Input','Output']]
+new_df = pd.concat([X_val_extract_MCC.reset_index(drop=True), score_df.reset_index(drop=True)], axis=1)
+
+
+score_df_new = pd.DataFrame(analysis_eval_new)
+# val_df_sent = val_df[['Input','Output']]
+new_df_new = pd.concat([X_val_extract_MCC.reset_index(drop=True), score_df_new.reset_index(drop=True)], axis=1)
+
+# print(new_df)
+new_df['pred'] = new_df['pred'].apply(lambda x: x.replace('\n', ''))
+new_df['gold'] = new_df['gold'].apply(lambda x: x.replace('\n', ''))
+# new_df['score'] = new_df['score'].apply(lambda x: x.replace('\n', ''))
+new_df['model_pred'] = new_df['model_pred'].apply(lambda x: x.replace('\n', ''))
+new_df.to_csv(f'analaysis_{OUTPUT_FILE_PATH}.csv', encoding='utf-16', sep='|')
+print(f"Written to csv: analaysis_{OUTPUT_FILE_PATH}.csv")
+# print(new_df_new)
+
+new_df_new['pred'] = new_df_new['pred'].apply(lambda x: x.replace('\n', ''))
+new_df_new['gold'] = new_df_new['gold'].apply(lambda x: x.replace('\n', ''))
+new_df_new['model_pred'] = new_df_new['model_pred'].apply(lambda x: x.replace('\n', ''))
+
+new_df_new.to_csv(f'analaysis_{OUTPUT_FILE_PATH}_new.csv', encoding='utf-16', sep='|')
+print(f"Written to csv: analaysis_{OUTPUT_FILE_PATH}_new.csv")
+
+print("Analysis Extractor created")
+print("Parse issue in ",parseError)
+
+=== CODE ===
+GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100_FlanT5Large_EquationIntermediateOutput.txt'
+OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_FlanT5Large_EquationIntermediateOutput_run1.txt'
+
+=== CODE ===
+intermediate_eqn_gold_lst
+
+=== CODE ===
+intermediate_eqn_pred_lst
+
+=== CODE ===
+intermediate_eqn_pred_lst_new = []
+for i in intermediate_eqn_pred_lst:
+    comp_lst_of_lst = i.replace("\n","")
+    try:
+        comp_lst_ast = ast.literal_eval(comp_lst_of_lst)
+    except:
+        print(comp_lst_of_lst)
+        comp_lst_ast = [[]]
+    intermediate_eqn_pred_lst_new.append(comp_lst_ast)
+
+=== CODE ===
+len(intermediate_eqn_gold_lst), len(intermediate_eqn_pred_lst)
+
+=== CODE ===
+
+
+=== CODE ===
+intermediate_eqn_pred_lst_new
+
+=== CODE ===
+intermediate_eqn_gold_lst
+
+=== CODE ===
+writeListToFile(intermediate_eqn_pred_lst_new, OUTPUT_FILE_PATH)
+writeListToFile(intermediate_eqn_gold_lst, GOLD_FILE_PATH)
+
+=== CODE ===
+from evaluate import load
+from datetime import datetime
+import ast
+import pandas as pd
+import pickle
+
+exact_match_metric = load("exact_match")
+parseError = 0
+parseErrorNew = 0
+
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_run_1.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100.txt'
+# TEST_FILE_PATH = 'val_data_forExtraction_1399_Without100.pkl'
+
+# mtp_predictions_CompExtractor_Without100_run_1
+# TASK = 'CompExtractor_Without100_T5Small'
+# RUNNUM = 'run_1'
+
+# TASK = 'CompExtractor_Without100_LossFunction'
+# RUNNUM = 'run_5'
+
+
+# TEST_FILE_PATH = 'val_data_for_directMatching_composition_extraction_1039.pkl'
+# # MODEL_SAVE_PATH = f'../scratch/mtp_{TASK}_{RUNNUM}.pt'
+# # OUTPUT_FILE_PATH = f'mtp_predictions_{TASK}_{RUNNUM}.txt' 
+# # GOLD_FILE_PATH = f'mtp_gold_{TASK}.txt'
+
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100_FlanT5Large_DirectMatch.txt'
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.txt'
+
+
+# print("GENERATING PREDICTIONS FOR ---> ",OUTPUT_FILE_PATH)
+
+# val_df = pickle.load(open(TEST_FILE_PATH, 'rb'))
+
+val_df = X_val_extract
+
+# print(val_df)
+# val_df.rename(columns = {'sentence':'Input', 'composition_cleaned':'Output'}, inplace=True)
+
+
+analysis_eval = []
+analysis_eval_new = []
+
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateComposition(g, p)
+        # print(evalscore)
+        analysis_eval.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+
+def evaluateComposition(gold, predicted):
+    global parseError
+    gold = ast.literal_eval(gold)
+    try:
+        predicted = ast.literal_eval(predicted)
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseError+=1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    # print("INSIDE EC")
+    # print(gold_sets)
+    # print(predicted_sets)
+    # print("CLOSE")
+    
+    precision=0
+    recall=0
+
+    for predicted_set in predicted_sets:
+        if(predicted_set in gold_sets):
+            precision+=1
+    
+    for gold_set in gold_sets:
+        if(gold_set in predicted_sets):
+            recall+=1   
+    
+    if(len(predicted_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+
+    if(len(gold_sets)==0):
+        print("EMPTY GOLD SET = ", gold_sets)
+        print("Predicted SET WAS = ", predicted_sets)
+        return 1.0
+     
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+
+    # return round(precision, 2)
+    
+    if(precision==0 and recall ==0):
+        f1=0.0
+    else: 
+        f1 = (2*precision*recall)/(precision+recall)
+    
+    return round(f1,2)
+
+# Example usage
+# gold_list = [[('As', 20.0), ('Se', 58.0), ('Ge', 22.0)], [('As', 20.0), ('Se', 58.0), ('Na', 22.0)]]
+# predicted_list = [ [ ('As', 20.0), ('Se', 58.0), ('Ge', 22.0)]]
+
+# result = evaluateComposition(gold_list, predicted_list)
+# print(result)
+
+def evaluateCompositionNew(gold, predicted, tolerance=1.0):
+    global parseErrorNew
+    gold = ast.literal_eval(str(gold))
+    try:
+        predicted = ast.literal_eval(str(predicted))
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseErrorNew += 1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    precision = 0
+    recall = 0
+
+    for predicted_set in predicted_sets:
+        for gold_set in gold_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                precision += 1
+                break
+    
+    for gold_set in gold_sets:
+        for predicted_set in predicted_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                recall += 1
+                break
+    if(len(predicted_sets)==0):
+        print("EMPTY PREDICTED SET = ", predicted_sets)
+        print("GOLD SET WAS = ", gold_sets)
+        return 1.0
+
+        
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+
+    # return round(precision, 2)
+
+    
+    if precision == 0 and recall == 0:
+        f1 = 0.0
+    else: 
+        f1 = (2 * precision * recall) / (precision + recall)
+    
+    return round(f1, 2)
+
+
+
+def evaluationScoreNew(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateCompositionNew(g, p)
+        # print(evalscore)
+        analysis_eval_new.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+def exactMatchScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    return exact_match_metric.compute(predictions=pred, references=gold)
+
+
+
+print("Validation ended.. Calculating score -->")
+print(datetime.now())
+
+
+print("Metric score Exact Match --->")
+print(exactMatchScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score Old --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score New --->")
+print(evaluationScoreNew(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+score_df = pd.DataFrame(analysis_eval)
+# val_df_sent = val_df[['Input','Output']]
+new_df = pd.concat([X_val_extract_MCC.reset_index(drop=True), score_df.reset_index(drop=True)], axis=1)
+
+
+score_df_new = pd.DataFrame(analysis_eval_new)
+# val_df_sent = val_df[['Input','Output']]
+new_df_new = pd.concat([X_val_extract_MCC.reset_index(drop=True), score_df_new.reset_index(drop=True)], axis=1)
+
+# print(new_df)
+new_df['pred'] = new_df['pred'].apply(lambda x: x.replace('\n', ''))
+new_df['gold'] = new_df['gold'].apply(lambda x: x.replace('\n', ''))
+# new_df['score'] = new_df['score'].apply(lambda x: x.replace('\n', ''))
+new_df['model_pred'] = new_df['model_pred'].apply(lambda x: x.replace('\n', ''))
+new_df.to_csv(f'analaysis_{OUTPUT_FILE_PATH}.csv', encoding='utf-16', sep='|')
+print(f"Written to csv: analaysis_{OUTPUT_FILE_PATH}.csv")
+# print(new_df_new)
+
+new_df_new['pred'] = new_df_new['pred'].apply(lambda x: x.replace('\n', ''))
+new_df_new['gold'] = new_df_new['gold'].apply(lambda x: x.replace('\n', ''))
+new_df_new['model_pred'] = new_df_new['model_pred'].apply(lambda x: x.replace('\n', ''))
+
+new_df_new.to_csv(f'analaysis_{OUTPUT_FILE_PATH}_new.csv', encoding='utf-16', sep='|')
+print(f"Written to csv: analaysis_{OUTPUT_FILE_PATH}_new.csv")
+
+print("Analysis Extractor created")
+print("Parse issue in ",parseError)
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+new_df_new
+
+=== CODE ===
+pii_based_score_df = new_df_new[['pii','score']]
+
+=== CODE ===
+pii_based_score_df
+
+=== CODE ===
+result = pii_based_score_df.groupby('pii')['score'].mean().reset_index()
+
+=== CODE ===
+result
+
+=== CODE ===
+result['score'].mean()
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+from evaluate import load
+from datetime import datetime
+import ast
+import pandas as pd
+import pickle
+
+exact_match_metric = load("exact_match")
+parseError = 0
+parseErrorNew = 0
+
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_run_1.txt' 
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100.txt'
+# TEST_FILE_PATH = 'val_data_forExtraction_1399_Without100.pkl'
+
+# mtp_predictions_CompExtractor_Without100_run_1
+# TASK = 'CompExtractor_Without100_T5Small'
+# RUNNUM = 'run_1'
+
+# TASK = 'CompExtractor_Without100_LossFunction'
+# RUNNUM = 'run_5'
+
+
+# TEST_FILE_PATH = 'val_data_for_directMatching_composition_extraction_1039.pkl'
+# # MODEL_SAVE_PATH = f'../scratch/mtp_{TASK}_{RUNNUM}.pt'
+# # OUTPUT_FILE_PATH = f'mtp_predictions_{TASK}_{RUNNUM}.txt' 
+# # GOLD_FILE_PATH = f'mtp_gold_{TASK}.txt'
+
+# GOLD_FILE_PATH = 'mtp_gold_CompExtractor_Without100_FlanT5Large_DirectMatch.txt'
+# OUTPUT_FILE_PATH = 'mtp_predictions_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.txt'
+
+
+# print("GENERATING PREDICTIONS FOR ---> ",OUTPUT_FILE_PATH)
+
+# val_df = pickle.load(open(TEST_FILE_PATH, 'rb'))
+
+val_df = X_val_extract
+
+# print(val_df)
+# val_df.rename(columns = {'sentence':'Input', 'composition_cleaned':'Output'}, inplace=True)
+
+
+analysis_eval = []
+analysis_eval_new = []
+
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateComposition(g, p)
+        # print(evalscore)
+        analysis_eval.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+
+def evaluateComposition(gold, predicted):
+    global parseError
+    gold = ast.literal_eval(gold)
+    try:
+        predicted = ast.literal_eval(predicted)
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseError+=1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    # print("INSIDE EC")
+    # print(gold_sets)
+    # print(predicted_sets)
+    # print("CLOSE")
+    
+    precision=0
+    recall=0
+
+    for predicted_set in predicted_sets:
+        if(predicted_set in gold_sets):
+            precision+=1
+    
+    for gold_set in gold_sets:
+        if(gold_set in predicted_sets):
+            recall+=1   
+    
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+    
+    if(precision==0 and recall ==0):
+        f1=0.0
+    else: 
+        f1 = (2*precision*recall)/(precision+recall)
+
+    return round(precision,2)
+    return round(f1,2)
+
+# Example usage
+# gold_list = [[('As', 20.0), ('Se', 58.0), ('Ge', 22.0)], [('As', 20.0), ('Se', 58.0), ('Na', 22.0)]]
+# predicted_list = [ [ ('As', 20.0), ('Se', 58.0), ('Ge', 22.0)]]
+
+# result = evaluateComposition(gold_list, predicted_list)
+# print(result)
+
+def evaluateCompositionNew(gold, predicted, tolerance=1.0):
+    global parseErrorNew
+    gold = ast.literal_eval(str(gold))
+    try:
+        predicted = ast.literal_eval(str(predicted))
+    except:
+        print("Cannot parse")
+        print(predicted)
+        parseErrorNew += 1
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    precision = 0
+    recall = 0
+
+    for predicted_set in predicted_sets:
+        for gold_set in gold_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                precision += 1
+                break
+    
+    for gold_set in gold_sets:
+        for predicted_set in predicted_sets:
+            if all(any(abs(gp[1] - pp[1]) <= tolerance and gp[0] == pp[0] for pp in predicted_set) for gp in gold_set):
+                recall += 1
+                break
+    
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+    
+    if precision == 0 and recall == 0:
+        f1 = 0.0
+    else: 
+        f1 = (2 * precision * recall) / (precision + recall)
+    
+    return round(precision,2)
+    return round(f1, 2)
+
+
+
+def evaluationScoreNew(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateCompositionNew(g, p)
+        # print(evalscore)
+        analysis_eval_new.append({'pred':p, 'gold':g, 'score':evalscore})
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+
+def exactMatchScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    return exact_match_metric.compute(predictions=pred, references=gold)
+
+
+
+print("Validation ended.. Calculating score -->")
+print(datetime.now())
+
+
+print("Metric score Exact Match --->")
+print(exactMatchScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score Old --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+print("Metric score New --->")
+print(evaluationScoreNew(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+score_df = pd.DataFrame(analysis_eval)
+val_df_sent = val_df[['Input','Output']]
+new_df = pd.concat([val_df.reset_index(drop=True), score_df.reset_index(drop=True)], axis=1)
+
+
+score_df_new = pd.DataFrame(analysis_eval_new)
+# val_df_sent = val_df[['Input','Output']]
+new_df_new = pd.concat([val_df.reset_index(drop=True), score_df_new.reset_index(drop=True)], axis=1)
+
+# print(new_df)
+new_df['pred'] = new_df['pred'].apply(lambda x: x.replace('\n', ''))
+new_df['gold'] = new_df['gold'].apply(lambda x: x.replace('\n', ''))
+# new_df['score'] = new_df['score'].apply(lambda x: x.replace('\n', ''))
+new_df.to_csv(f'analaysis_{OUTPUT_FILE_PATH}_precision.csv', encoding='utf-16', sep='|')
+
+# print(new_df_new)
+# new_df_new.to_csv(f'analaysis_{OUTPUT_FILE_PATH}_new.csv', encoding='utf-16')
+
+print("Analysis Extractor created")
+print("Parse issue in ",parseError)
+
+=== CODE ===
+print("Starting evaluations ----------->")
+
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result
+
+# print("Validation ended.. Calculating score -->")
+# print(datetime.now())
+
+print("Exact match score --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+# EVALUATION 2 ----------->
+def evaluationScore(goldPath, predPath):
+    with open(goldPath, 'r', encoding='utf-8') as fread:
+        gold = fread.readlines()
+    with open(predPath, 'r', encoding='utf-8') as fp:
+        pred = fp.readlines()
+    
+    result = 0
+    ct=0
+    for g,p in zip(gold, pred):
+        # print("GOLD")
+        # print(g)
+        # print("PRED")
+        # print(p)
+        evalscore = evaluateComposition(g, p)
+        # print(evalscore)
+        result += evalscore
+        # print(result)
+        ct+=1
+    # result = exact_match_metric.compute(predictions=pred, references=gold)
+    return result/ct
+
+def evaluateComposition(gold, predicted):
+    
+    gold = ast.literal_eval(gold)
+    try:
+        predicted = ast.literal_eval(predicted)
+    except:
+        # print("Cannot parse")
+        # print(predicted)
+        return 0.0
+    gold_sets = [set(compound_list) for compound_list in gold]
+    predicted_sets = [set(compound_list) for compound_list in predicted]
+    
+    # print("INSIDE EC")
+    # print(gold_sets)
+    # print(predicted_sets)
+    # print("CLOSE")
+    
+    precision=0
+    recall=0
+
+    for predicted_set in predicted_sets:
+        if(predicted_set in gold_sets):
+            precision+=1
+    
+    for gold_set in gold_sets:
+        if(gold_set in predicted_sets):
+            recall+=1   
+    
+    precision /= len(predicted_sets)
+    recall /= len(gold_sets)
+    
+    if(precision==0 and recall ==0):
+        f1=0.0
+    else: 
+        f1 = (2*precision*recall)/(precision+recall)
+    
+    return round(f1,2)
+
+
+print("Metric score --->")
+print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+
+
+
+=== CODE ===
+
+
+=== CODE ===
+
+
+=== CODE ===
+# with open(OUTPUT_FILE_PATH, 'r', encoding='utf-8') as fp:
+#     pred = fp.readlines()
+
+
+# pred_extract_df = pd.DataFrame(pred, columns=['PredExtract'])
+# extract_df['PredExtract'] = extract_df['PredExtract'].apply(lambda x: x.replace('\n',''))
+# extract_df['PredExtract'] = extract_df['PredExtract'].apply(str)
+# extract_df['PredExtract'] = extract_df['PredExtract'].apply(lambda x: ast.literal_eval(x))
+
+
+# # final_df = pd.concat([X_val, pred_extract_df], axis=1)
+# X_val_extracted = extract_df[extract_df['pred'] == '1']
+# pred_combined = pd.concat([X_val, pred_extract_df], axis=1)
+# X_val_remaining = extract_df[extract_df['pred'] == '0']
+
+# final_df = pd.concat([X_val, pred_extract_df], axis=0)
+
+
+# def final_evaluation(goldLst, predLst):
+#     result = 0
+#     ct=0
+#     for g,p in zip(goldLst, predLst):
+#         # print("GOLD")
+#         # print(g)
+#         # print("PRED")
+#         # print(p)
+#         evalscore = evaluateComposition(g, p)
+#         # print(evalscore)
+#         result += evalscore
+#         # print(result)
+#         ct+=1
+#     # result = exact_match_metric.compute(predictions=pred, references=gold)
+#     return result/ct
+
+# print("FINAL RESULT --->>>")
+# print(final_evaluation(final_df['composition'].tolist(), final_df['PredExtract'].tolist()))
+
+
+
+=== CODE ===
+# analysis_eval = []
+# def compute_PRF1(pred, gold):
+#     pd.concat([X_val,pd.DataFrame(pred),pd.DataFrame(gold)])
+
+
+# def evaluationScore(goldPath, predPath):
+#     with open(goldPath, 'r', encoding='utf-8') as fread:
+#         gold = fread.readlines()
+#     with open(predPath, 'r', encoding='utf-8') as fp:
+#         pred = fp.readlines()
+    
+#     # precision, recall, f1 = compute_PRF1(pred, gold)
+#     result = exact_match_metric.compute(predictions=pred, references=gold)
+#     return result
+
+# print("Validation ended.. Calculating score -->")
+# print(datetime.now())
+
+# print("F1 match score --->")
+# print(evaluationScore(GOLD_FILE_PATH, OUTPUT_FILE_PATH))
+
+

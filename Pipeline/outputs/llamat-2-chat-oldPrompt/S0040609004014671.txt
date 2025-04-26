@@ -1,0 +1,340 @@
+
+
+=== Paragraph 1 ===
+Input: Title:
+Optical characterization of MoO
+Output: [INST]<<SYS>>
+You are a material scientist assisting researchers in extracting and structuring scientific data from research papers. 
+
+Given:
+1. A research paper text (within `<context> ... </context>`).
+2. An incomplete table (within `<incomplete_table> ... </incomplete_table>`) containing placeholders such as `<blank_1>`, `<blank_2>`, etc. for the missing compositions.
+
+Your Task:
+1. Read the research paper carefully and identify the relevant "scientific chemical formulas" that correspond to each placeholder in the incomplete table.
+2. Fill each placeholder (`<blank_1>`, `<blank_2>`, etc.) with the "exact" formula from the paper, "preferring scientific notation" (e.g., `"TiB2–20vol%B4C"`, `"80 Sb2O3–10 SrCl2–10 CdCl2"`), and "avoiding" any common/trivial names (e.g., “tungsten carbide” should appear in chemical form if possible).
+3. "Ensure" that the composition you provide is complete, accurate, and found explicitly in the paper:
+  - Do not guess or supply partial/incomplete data.
+  - If the paper does not contain direct information for a placeholder, return NULL.
+4. Do NOT use external knowledge beyond the content of the paper.
+
+Output Requirements:
+1. Return your answer as a valid JSON object containing a single key "Compositions" whose value is an array of objects.
+2. Each object in the array must have two keys: "placeholder" (e.g., "<blank_1>") and "composition" (the corresponding scientific chemical formula).
+3. No additional commentary should appear outside the JSON. Output only the JSON object with the “Compositions” array.
+4. "Output Structure" the final answer as follows:
+'''
+{
+      "Compositions": [
+         {
+            "placeholder": "<blank_1>",
+            "composition": "..."
+         },
+         {
+            "placeholder": "<blank_2>",
+            "composition": "..."
+         },
+         ...
+      ]
+}
+'''
+
+Detailed Instructions:
+1. Match Placeholders to Paper: For each placeholder in the incomplete table, look for sample names, IDs, or context from the paper that aligns with the placeholder’s row.
+2. Preserve Scientific Formula: Write each formula in standard chemical or stoichiometric form (e.g., TiB2–20vol%B4C, 80 Sb2O3–10 SrCl2–10 CdCl2). Avoid using the compound’s trivial or trade names.
+3. No Guesses: Do not fabricate or infer data not in the text. If the paper does not clearly give a composition, you may omit or label it as "composition": "not found".
+4. Output Only JSON: The final output must be the JSON object with the “Compositions” array. Do not add text outside it.
+
+Instructions Recap:
+1. Read the research paper enclosed by <context> ... </context>.
+2. Examine the incomplete table enclosed by <incomplete_table> ... </incomplete_table>.
+3. Extract the exact scientific chemical formulas for each placeholder as they appear in the paper.
+4. Return the results strictly in the JSON format shown above.
+
+<</SYS>>
+
+
+Here is the Research Paper for context:
+<context>
+Title:
+Optical characterization of MoO
+</context>
+
+Here is the incomplete table
+<incomplete_table>
+      Article PII Table No. ID                Proxy_ID Composition                         Property     Journal_Name
+S0040609004014671       [1]    S0040609004014671_0_R_2   <blank_1> ('Refractive index', 1.71, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_3   <blank_2> ('Refractive index', 1.66, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_4   <blank_3> ('Refractive index', 1.79, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_5   <blank_4>  ('Refractive index', 1.8, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_6   <blank_5>  ('Refractive index', 1.9, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_7   <blank_6> ('Refractive index', 1.71, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_8   <blank_7> ('Refractive index', 1.94, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_9   <blank_8> ('Refractive index', 2.07, None) Thin_Solid_Films
+</incomplete_table>
+
+[/INST] 
+[INST]<<SYS>> 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST] 
+[INST]
+
+
+=== Paragraph 2 ===
+Input: Abstract:
+MoO3 thin films were prepared, in this work, evaporating the material with a CO2 laser set up in continuous wave mode. The films were deposited on glass substrates at different substrate temperatures and high vacuum. Additionally, other samples were prepared at different oxygen pressures in the chamber. The samples were characterized by X-ray photoelectron spectroscopy (XPS) and optical transmittance measurements in the visible range. The XPS analyses showed evidence of thin film formation with two composition mix: MoO3 and MoO2; this result appeared in all fabricated samples. The transmittance spectra were reproduced theoretically and from the simulation were calculated the index of refraction, the absorption coefficient of the material, the forbidden energy gap and sample thickness. Samples prepared at high substrate temperature presented, in the red region, an absorption band of about 2.5×104 cm−1. This band kept its wavelength position when oxygen was injected in the chamber but its height decreased by one order of magnitude, indicating it is associated to oxygen vacancies in the sample.
+Output: [INST]<<SYS>>
+You are a material scientist assisting researchers in extracting and structuring scientific data from research papers. 
+
+Given:
+1. A research paper text (within `<context> ... </context>`).
+2. An incomplete table (within `<incomplete_table> ... </incomplete_table>`) containing placeholders such as `<blank_1>`, `<blank_2>`, etc. for the missing compositions.
+
+Your Task:
+1. Read the research paper carefully and identify the relevant "scientific chemical formulas" that correspond to each placeholder in the incomplete table.
+2. Fill each placeholder (`<blank_1>`, `<blank_2>`, etc.) with the "exact" formula from the paper, "preferring scientific notation" (e.g., `"TiB2–20vol%B4C"`, `"80 Sb2O3–10 SrCl2–10 CdCl2"`), and "avoiding" any common/trivial names (e.g., “tungsten carbide” should appear in chemical form if possible).
+3. "Ensure" that the composition you provide is complete, accurate, and found explicitly in the paper:
+  - Do not guess or supply partial/incomplete data.
+  - If the paper does not contain direct information for a placeholder, return NULL.
+4. Do NOT use external knowledge beyond the content of the paper.
+
+Output Requirements:
+1. Return your answer as a valid JSON object containing a single key "Compositions" whose value is an array of objects.
+2. Each object in the array must have two keys: "placeholder" (e.g., "<blank_1>") and "composition" (the corresponding scientific chemical formula).
+3. No additional commentary should appear outside the JSON. Output only the JSON object with the “Compositions” array.
+4. "Output Structure" the final answer as follows:
+'''
+{
+      "Compositions": [
+         {
+            "placeholder": "<blank_1>",
+            "composition": "..."
+         },
+         {
+            "placeholder": "<blank_2>",
+            "composition": "..."
+         },
+         ...
+      ]
+}
+'''
+
+Detailed Instructions:
+1. Match Placeholders to Paper: For each placeholder in the incomplete table, look for sample names, IDs, or context from the paper that aligns with the placeholder’s row.
+2. Preserve Scientific Formula: Write each formula in standard chemical or stoichiometric form (e.g., TiB2–20vol%B4C, 80 Sb2O3–10 SrCl2–10 CdCl2). Avoid using the compound’s trivial or trade names.
+3. No Guesses: Do not fabricate or infer data not in the text. If the paper does not clearly give a composition, you may omit or label it as "composition": "not found".
+4. Output Only JSON: The final output must be the JSON object with the “Compositions” array. Do not add text outside it.
+
+Instructions Recap:
+1. Read the research paper enclosed by <context> ... </context>.
+2. Examine the incomplete table enclosed by <incomplete_table> ... </incomplete_table>.
+3. Extract the exact scientific chemical formulas for each placeholder as they appear in the paper.
+4. Return the results strictly in the JSON format shown above.
+
+<</SYS>>
+
+
+Here is the Research Paper for context:
+<context>
+Abstract:
+MoO3 thin films were prepared, in this work, evaporating the material with a CO2 laser set up in continuous wave mode. The films were deposited on glass substrates at different substrate temperatures and high vacuum. Additionally, other samples were prepared at different oxygen pressures in the chamber. The samples were characterized by X-ray photoelectron spectroscopy (XPS) and optical transmittance measurements in the visible range. The XPS analyses showed evidence of thin film formation with two composition mix: MoO3 and MoO2; this result appeared in all fabricated samples. The transmittance spectra were reproduced theoretically and from the simulation were calculated the index of refraction, the absorption coefficient of the material, the forbidden energy gap and sample thickness. Samples prepared at high substrate temperature presented, in the red region, an absorption band of about 2.5×104 cm−1. This band kept its wavelength position when oxygen was injected in the chamber but its height decreased by one order of magnitude, indicating it is associated to oxygen vacancies in the sample.
+</context>
+
+Here is the incomplete table
+<incomplete_table>
+      Article PII Table No. ID                Proxy_ID Composition                         Property     Journal_Name
+S0040609004014671       [1]    S0040609004014671_0_R_2   <blank_1> ('Refractive index', 1.71, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_3   <blank_2> ('Refractive index', 1.66, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_4   <blank_3> ('Refractive index', 1.79, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_5   <blank_4>  ('Refractive index', 1.8, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_6   <blank_5>  ('Refractive index', 1.9, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_7   <blank_6> ('Refractive index', 1.71, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_8   <blank_7> ('Refractive index', 1.94, None) Thin_Solid_Films
+S0040609004014671       [1]    S0040609004014671_0_R_9   <blank_8> ('Refractive index', 2.07, None) Thin_Solid_Films
+</incomplete_table>
+
+[/INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST] 
+
+[INST

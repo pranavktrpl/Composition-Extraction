@@ -1,0 +1,926 @@
+{
+  "statistics": {
+    "total_test_files": 76,
+    "total_unique_compositions_in_test_set": 228,
+    "total_matched_compositions": 0,
+    "match_percentage": 0.0,
+    "matches_by_method": {
+      "flex": 0,
+      "exact": 0
+    }
+  },
+  "unmatched_compositions": [
+    {
+      "pii": "S0167273803001449",
+      "composition": "[('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.92, 'mol%')]"
+    },
+    {
+      "pii": "S0167273803001449",
+      "composition": "[('Ti', 0.02, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.9, 'mol%')]"
+    },
+    {
+      "pii": "S0167273803001449",
+      "composition": "[('Ti', 0.04, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.88, 'mol%')]"
+    },
+    {
+      "pii": "S0167273803001449",
+      "composition": "[('Ti', 0.06, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.86, 'mol%')]"
+    },
+    {
+      "pii": "S0167273803001449",
+      "composition": "[('Ti', 0.08, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.84, 'mol%')]"
+    },
+    {
+      "pii": "S0167273803001449",
+      "composition": "[('Ti', 0.1, 'mol%'), ('Y2O3', 0.08, 'mol%'), ('ZrO2', 0.82, 'mol%')]"
+    },
+    {
+      "pii": "S0040609018300749",
+      "composition": "[('Al2O3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0167273821002216",
+      "composition": "[('Polyethylene Oxide', 1.0, 'wt')]"
+    },
+    {
+      "pii": "S0167273821002216",
+      "composition": "[('Polyethylene Oxide', 0.94, 'wt'), ('RFS', 0.06, 'wt')]"
+    },
+    {
+      "pii": "S0167273821002216",
+      "composition": "[('Polyethylene Oxide-LiClO4', 1.0, 'wt')]"
+    },
+    {
+      "pii": "S0167273821002216",
+      "composition": "[('Polyethylene Oxide-LiClO4', 0.94, 'wt'), ('RFS', 0.06, 'wt')]"
+    },
+    {
+      "pii": "S0167273808006176",
+      "composition": "[('Sr0.94Ti0.9Nb0.1O3', 0.5, 'wt'), ('YSZ', 0.5, 'wt')]"
+    },
+    {
+      "pii": "S0022311509004164",
+      "composition": "NULL"
+    },
+    {
+      "pii": "S0022311509004164",
+      "composition": "Am2Zr2O7 + MgO"
+    },
+    {
+      "pii": "S0022311509004164",
+      "composition": "(Am,Zr,Y)O2"
+    },
+    {
+      "pii": "S0022311509004164",
+      "composition": "(Am,Pu,Zr,Y)O2"
+    },
+    {
+      "pii": "S0022311509004164",
+      "composition": "(Am,Zr,Y)O2 + Mo"
+    },
+    {
+      "pii": "S0022311509004164",
+      "composition": "(Pu,Am)O2 + Mo"
+    },
+    {
+      "pii": "S027288422202274X",
+      "composition": "[('Ba12SbNb9O36', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231313006947",
+      "composition": "[('PbS', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884215005635",
+      "composition": "[('Ba0.67Sr0.33TiO3', 0.985, 'mol'), ('Mn', 0.005, 'mol%'), ('Y', 0.01, 'mol%')]"
+    },
+    {
+      "pii": "S0022311503003234",
+      "composition": "[('Zr', 0.9855, 'wt'), ('Sn', 0.011, 'wt'), ('Fe', 0.0019, 'wt'), ('Cr', 0.001, 'wt'), ('Ni', 0.0006, 'wt')]"
+    },
+    {
+      "pii": "S0022311516307103",
+      "composition": "[('PuOH', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022311512006344",
+      "composition": "[('ThO2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022311512006344",
+      "composition": "[('ThO2', 0.999, 'mol'), ('MgO', 0.001, 'mol')]"
+    },
+    {
+      "pii": "S0022311512006344",
+      "composition": "[('ThO2', 0.9975, 'mol'), ('MgO', 0.0025, 'mol')]"
+    },
+    {
+      "pii": "S0022311512006344",
+      "composition": "[('ThO2', 0.995, 'mol'), ('CaO', 0.005, 'mol')]"
+    },
+    {
+      "pii": "S0022311512006344",
+      "composition": "[('ThO2', 0.999, 'mol'), ('CaO', 0.001, 'mol')]"
+    },
+    {
+      "pii": "S0022311512006344",
+      "composition": "[('ThO2', 0.9975, 'mol'), ('CaO', 0.0025, 'mol')]"
+    },
+    {
+      "pii": "S0022311512006344",
+      "composition": "[('ThO2', 0.995, 'mol'), ('MgO', 0.005, 'mol')]"
+    },
+    {
+      "pii": "S0022459613000169",
+      "composition": "[('ZnSnP2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022311502012928",
+      "composition": "SS316 (AISI 316 LN ITER grade)"
+    },
+    {
+      "pii": "S0022311502012928",
+      "composition": "F82H"
+    },
+    {
+      "pii": "S0022311502012928",
+      "composition": "Eurofer"
+    },
+    {
+      "pii": "S003810980000243X",
+      "composition": "[('LiNbO3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S003810980000243X",
+      "composition": "[('LiNb0.19Ta0.81O3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S003810980000243X",
+      "composition": "[('LiNb0.08Ta0.92O3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S003810980000243X",
+      "composition": "[('LiNb0.03Ta0.97O3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S003810980000243X",
+      "composition": "[('LiTaO3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609096094321",
+      "composition": "[('Al2O3', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0167577X06005520",
+      "composition": "[('Nd', 0.0148, 'at'), ('Ca0.08Gd0.92VO4', 0.9852, 'at')]"
+    },
+    {
+      "pii": "S0167577X06005520",
+      "composition": "[('Nd', 0.0031, 'at'), ('Ca0.08Gd0.92VO4', 0.9969, 'at')]"
+    },
+    {
+      "pii": "S0272884216316327",
+      "composition": "[('High-Carbon Ferrochromium Slag', 0.6, 'wt'), ('Waste Glass', 0.4, 'wt')]"
+    },
+    {
+      "pii": "S0272884216316327",
+      "composition": "[('High-Carbon Ferrochromium Slag', 0.375, 'wt'), ('Waste Glass', 0.625, 'wt')]"
+    },
+    {
+      "pii": "S0272884216316327",
+      "composition": "[('High-Carbon Ferrochromium Slag', 0.4375, 'wt'), ('Waste Glass', 0.5625, 'wt')]"
+    },
+    {
+      "pii": "S0272884216316327",
+      "composition": "[('High-Carbon Ferrochromium Slag', 0.5, 'wt'), ('Waste Glass', 0.5, 'wt')]"
+    },
+    {
+      "pii": "S0272884216316327",
+      "composition": "[('High-Carbon Ferrochromium Slag', 0.5625, 'wt'), ('Waste Glass', 0.4375, 'wt')]"
+    },
+    {
+      "pii": "S0272884216316327",
+      "composition": "[('High-Carbon Ferrochromium Slag', 0.625, 'wt'), ('Waste Glass', 0.375, 'wt')]"
+    },
+    {
+      "pii": "S0022231323002168",
+      "composition": "[('YAlO3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884218321217",
+      "composition": "[('CaCu3Ti4.1O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884218321217",
+      "composition": "[('CaCu2.95Zn0.05Ti4.1O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884218321217",
+      "composition": "[('CaCu2.90Zn0.10Ti4.1O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0038109820305019",
+      "composition": "[('CaF2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0038109820305019",
+      "composition": "[('Ca0.75Pr0.25F2.25', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0038109820305019",
+      "composition": "[('BaF2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0038109820305019",
+      "composition": "[('Ba0.75Pr0.25F2.25', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('YOF', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('LaOF', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('GdOF', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('YOCl', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('LaOCl', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('GdOCl', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('LuOCl', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('YOBr', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('LaOBr', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('GdOBr', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('LuOBr', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('YOI', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('LaOI', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('GdOI', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231310004898",
+      "composition": "[('LuOI', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884216300542",
+      "composition": "[('W', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0272884216300542",
+      "composition": "[('Ni', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0272884216300542",
+      "composition": "[('Co', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0040609004014671",
+      "composition": "[('MoO3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609007004701",
+      "composition": "[('In2O3', , 'at'), ('Sn', , 'at')]"
+    },
+    {
+      "pii": "S0022309310001523",
+      "composition": "[('Sb2O4', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022369722006102",
+      "composition": "[('ThNb2H12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S003810982200134X",
+      "composition": "[('PdVGa', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Li7La3Zr2O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Li6.24Al0.24La3Zr2O11.98', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Li6.15La3Zr1.75Ta0.25Al0.2O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Al\u2013Li6.75La3Zr1.75Ta0.25O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Li6.75La3Zr1.75Ta0.25Al0.2O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Li6.5La3Zr1.5Ta0.5O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Li6.25La3Zr1.25Ta0.75O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Li5.5La3Zr0.5Ta1.5O12', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Li6.5La3Zr1.5Ta0.5O1', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884220301073",
+      "composition": "[('Li7-xLa3Zr1.5Ta0.5O12-d', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609002007204",
+      "composition": "[('SiO', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0040609099008147",
+      "composition": "[('CuInSe2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0167577X05011511",
+      "composition": "3F-PEEK50-PEP"
+    },
+    {
+      "pii": "S0167577X05011511",
+      "composition": "3F-PEEK20-PEP"
+    },
+    {
+      "pii": "S0167577X05011511",
+      "composition": "3F-PEEK15-PEP"
+    },
+    {
+      "pii": "S0167577X05011511",
+      "composition": "3F-PEEK10-PEP"
+    },
+    {
+      "pii": "S0272884220319878",
+      "composition": "[('Si5AlON7', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022309316300606",
+      "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.5, 'mol')]"
+    },
+    {
+      "pii": "S0022309316300606",
+      "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.475, 'mol'), ('K2O', 0.025, 'mol')]"
+    },
+    {
+      "pii": "S0022309316300606",
+      "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.425, 'mol'), ('K2O', 0.075, 'mol')]"
+    },
+    {
+      "pii": "S0022309316300606",
+      "composition": "[('TeO2', 0.5, 'mol'), ('V2O5', 0.35, 'mol'), ('K2O', 0.15, 'mol')]"
+    },
+    {
+      "pii": "S0022309314001793",
+      "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.15, 'mol')]"
+    },
+    {
+      "pii": "S0022309314001793",
+      "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.1998, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.149, 'mol'), ('Cr2O3', 0.001, 'mol')]"
+    },
+    {
+      "pii": "S0022309314001793",
+      "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.147, 'mol'), ('Cr2O3', 0.003, 'mol')]"
+    },
+    {
+      "pii": "S0022309314001793",
+      "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.145, 'mol'), ('Cr2O3', 0.005, 'mol')]"
+    },
+    {
+      "pii": "S0022309314001793",
+      "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.142, 'mol'), ('Cr2O3', 0.008, 'mol')]"
+    },
+    {
+      "pii": "S0022309314001793",
+      "composition": "[('Li2O', 0.2, 'mol'), ('PbO', 0.2, 'mol'), ('B2O3', 0.45, 'mol'), ('P2O5', 0.14, 'mol'), ('Cr2O3', 0.01, 'mol')]"
+    },
+    {
+      "pii": "S0022459615000663",
+      "composition": "[('Ni0.05Mo3Sb5.4Te1.6', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022459615000663",
+      "composition": "[('Ni0.05Mo3Sb5.4Te1.6', 0.99, 'wt'), ('MWCNT', 0.01, 'wt')]"
+    },
+    {
+      "pii": "S0022459615000663",
+      "composition": "[('Ni0.05Mo3Sb5.4Te1.6', 0.98, 'wt'), ('MWCNT', 0.02, 'wt')]"
+    },
+    {
+      "pii": "S0022459615000663",
+      "composition": "[('Ni0.05Mo3Sb5.4Te1.6', 0.97, 'wt'), ('MWCNT', 0.03, 'wt')]"
+    },
+    {
+      "pii": "S0022459615000663",
+      "composition": "[('Ni0.05Mo3Sb5.4Te1.6', 0.98, 'wt'), ('MWCNT', 0.01, 'wt')]"
+    },
+    {
+      "pii": "S0022459615000663",
+      "composition": "[('Ni0.05Mo3Sb5.4Te1.6', 0.97, 'wt'), ('MWCNT', 0.01, 'wt')]"
+    },
+    {
+      "pii": "S0167273806004991",
+      "composition": "[('Ca2Fe2O5', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022311501006201",
+      "composition": "SM513"
+    },
+    {
+      "pii": "S0022309320306189",
+      "composition": "[('Ti', 0.29, 'at'), ('Zr', 0.34, 'at'), ('Ni', 0.053, 'at'), ('Cu', 0.09, 'at'), ('Be', 0.227, 'at')]"
+    },
+    {
+      "pii": "S0022309320306189",
+      "composition": "[('Ti', 0.23, 'at'), ('Zr', 0.40, 'at'), ('Ni', 0.053, 'at'), ('Cu', 0.09, 'at'), ('Be', 0.227, 'at')]"
+    },
+    {
+      "pii": "S0022309320306189",
+      "composition": "[('Ti', 0.17, 'at'), ('Zr', 0.46, 'at'), ('Ni', 0.053, 'at'), ('Cu', 0.09, 'at'), ('Be', 0.227, 'at')]"
+    },
+    {
+      "pii": "S0022309320306189",
+      "composition": "[('Ti', 0.11, 'at'), ('Zr', 0.52, 'at'), ('Ni', 0.053, 'at'), ('Cu', 0.09, 'at'), ('Be', 0.227, 'at')]"
+    },
+    {
+      "pii": "S027288421402029X",
+      "composition": "[('SiCf/SiC', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S027288421402029X",
+      "composition": "[('SiCf/SiC', 0.97, 'wt'), ('Ti3SiC2', 0.03, 'wt')]"
+    },
+    {
+      "pii": "S027288421402029X",
+      "composition": "[('SiCf/SiC', 0.94, 'wt'), ('Ti3SiC2', 0.06, 'wt')]"
+    },
+    {
+      "pii": "S027288421402029X",
+      "composition": "[('SiCf/SiC', 0.91, 'wt'), ('Ti3SiC2', 0.09, 'wt')]"
+    },
+    {
+      "pii": "S027288421402029X",
+      "composition": "[('SiCf/SiC', 0.88, 'wt'), ('Ti3SiC2', 0.12, 'wt')]"
+    },
+    {
+      "pii": "S027288421402029X",
+      "composition": "[('SiCf/SiC', 0.85, 'wt'), ('Ti3SiC2', 0.15, 'wt')]"
+    },
+    {
+      "pii": "S0022311523001824",
+      "composition": "[('Zr', 0.975, 'wt'), ('Nb', 0.025, 'wt')]"
+    },
+    {
+      "pii": "S0038109806004674",
+      "composition": "[('Fe', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0038109806004674",
+      "composition": "[('\u03b2-Sn', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0038109806004674",
+      "composition": "[('Se', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0038109806004674",
+      "composition": "[('Cu', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0038109806004674",
+      "composition": "[('Au', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0038109806004674",
+      "composition": "[('Ar', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0038109806004674",
+      "composition": "[('Pb', 1.0, 'at')]"
+    },
+    {
+      "pii": "S027288421500975X",
+      "composition": "[('V', 0.2139, 'at%'), ('Ti', 0.2673, 'at%'), ('N', 0.4951, 'at%')]"
+    },
+    {
+      "pii": "S027288421500975X",
+      "composition": "[('V', 0.2304, 'at%'), ('Ti', 0.2472, 'at%'), ('N', 0.4941, 'at%')]"
+    },
+    {
+      "pii": "S027288421500975X",
+      "composition": "[('V', 0.2461, 'at%'), ('Ti', 0.2564, 'at%'), ('N', 0.4884, 'at%')]"
+    },
+    {
+      "pii": "S027288421500975X",
+      "composition": "[('V', 0.2548, 'at%'), ('Ti', 0.2415, 'at%'), ('N', 0.4935, 'at%')]"
+    },
+    {
+      "pii": "S027288421500975X",
+      "composition": "[('V', 0.1701, 'at%'), ('Ti', 0.2725, 'at%'), ('N', 0.5333, 'at%')]"
+    },
+    {
+      "pii": "S027288421500975X",
+      "composition": "[('V', 0.1993, 'at%'), ('Ti', 0.2523, 'at%'), ('N', 0.5307, 'at%')]"
+    },
+    {
+      "pii": "S027288421500975X",
+      "composition": "[('V', 0.2548, 'at%'), ('Ti', 0.2165, 'at%'), ('N', 0.514, 'at%')]"
+    },
+    {
+      "pii": "S027288421500975X",
+      "composition": "[('V', 0.2247, 'at%'), ('Ti', 0.2333, 'at%'), ('N', 0.5125, 'at%')]"
+    },
+    {
+      "pii": "S027288421500975X",
+      "composition": "[('V', 0.0396, 'at%'), ('Ti', 0.3593, 'at%'), ('N', 0.5591, 'at%')]"
+    },
+    {
+      "pii": "S0040609012014320",
+      "composition": "[('In', 3.0, 'at'), ('Sb', 2.8, 'at'), ('Te', 0.8, 'at')]"
+    },
+    {
+      "pii": "S0272884216311920",
+      "composition": "[('Co0.7Zn0.3Fe2O4', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0272884216311920",
+      "composition": "[('Co0.7Zn0.3Fe1.975Ho0.025O4', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0272884216311920",
+      "composition": "[('Co0.7Zn0.3Fe1.95Ho0.05O4', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0272884216311920",
+      "composition": "[('Co0.7Zn0.3Fe1.925Ho0.075O4', 1.0, 'at')]"
+    },
+    {
+      "pii": "S0272884216311920",
+      "composition": "[('Co0.7Zn0.3Fe1.9Ho0.1O4', 1.0, 'at')]"
+    },
+    {
+      "pii": "S002223131530291X",
+      "composition": "[('AlN', '', 'mol'), ('Er3+', '', 'mol')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('Li1.5Al0.5Ge1.5(PO4)3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('Li1.5Al0.4Cr0.1Ge1.5(PO4)3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('Li1.4Cr0.4Ge1.6(PO4)3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('Li1.3Cr0.3Ge1.7(PO4)3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('Li1.5Al0.5Ge1.5(PO4)3', 0.9995, 'wt'), ('B2O3', 0.0005, 'wt')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('Li1.4Cr0.4Ti1.6(PO4)3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('Li1.4Al0.3Cr0.1Ti1.6(PO4)3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('Li1.4Al0.4Ti1.6(PO4)3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('LiTi2(PO4)3', 0.95, 'mol'), ('SiO2', 0.05, 'mol')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('Li1.5Cr0.5Ti1.5(PO4)3', 0.9524, 'wt'), ('SiO2', 0.0476, 'wt')]"
+    },
+    {
+      "pii": "S016727381530237X",
+      "composition": "[('2[Li1.8Al0.4Ti1.6Si0.4P2.6O12]AlPO4', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022309321002969",
+      "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.099, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.001, 'mol')]"
+    },
+    {
+      "pii": "S0022309321002969",
+      "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.095, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.005, 'mol')]"
+    },
+    {
+      "pii": "S0022309321002969",
+      "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.090, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.010, 'mol')]"
+    },
+    {
+      "pii": "S0022309321002969",
+      "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.085, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.015, 'mol')]"
+    },
+    {
+      "pii": "S0022309321002969",
+      "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.080, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.020, 'mol')]"
+    },
+    {
+      "pii": "S0022309321002969",
+      "composition": "[('SrO', 0.10, 'mol'), ('Al2O3', 0.075, 'mol'), ('B2O3', 0.60, 'mol'), ('BaCl2', 0.10, 'mol'), ('TeO2', 0.10, 'mol'), ('Er2O3', 0.025, 'mol')]"
+    },
+    {
+      "pii": "S0040609010005900",
+      "composition": "[('Au3Pt3', 0.5, 'at'), ('H2S', 0.5, 'at')]"
+    },
+    {
+      "pii": "S0272884210000131",
+      "composition": "[('Al2O3', 0.1, 'vol'), ('Glycerol', 0.9, 'vol')]"
+    },
+    {
+      "pii": "S0272884210000131",
+      "composition": "[('Al2O3', 0.2, 'vol'), ('Glycerol', 0.8, 'vol')]"
+    },
+    {
+      "pii": "S0272884210000131",
+      "composition": "[('ZrO2', 0.1, 'vol'), ('Olive Oil', 0.9, 'vol')]"
+    },
+    {
+      "pii": "S0272884210000131",
+      "composition": "[('ZrO2', 0.2, 'vol'), ('Olive Oil', 0.8, 'vol')]"
+    },
+    {
+      "pii": "S0272884210000131",
+      "composition": "[('Al2O3', 0.05, 'vol'), ('Glycerol', 0.95, 'vol')]"
+    },
+    {
+      "pii": "S0272884210000131",
+      "composition": "[('ZrO2', 0.05, 'vol'), ('Olive Oil', 0.95, 'vol')]"
+    },
+    {
+      "pii": "S0272884210000131",
+      "composition": "[('Olive Oil', 1.0, 'vol')]"
+    },
+    {
+      "pii": "S0272884210000131",
+      "composition": "[('Glycerol', 1.0, 'vol')]"
+    },
+    {
+      "pii": "S027288420300172X",
+      "composition": "[('MgO', 0.222, 'at'), ('Al2O3', 0.222, 'at'), ('SiO2', 0.556, 'at')]"
+    },
+    {
+      "pii": "S027288420300172X",
+      "composition": "[('Al2O3', 0.6, 'at'), ('SiO2', 0.4, 'at')]"
+    },
+    {
+      "pii": "S027288420300172X",
+      "composition": "[('MgSiO3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884206000927",
+      "composition": "[('[Pb0.9Ca0.1]TiO3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022369722003067",
+      "composition": "[('BaThO3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022369707001394",
+      "composition": "[('Ti', 0.42, 'at%'), ('N', 0.51, 'at%'), ('Si', 0.07, 'at%')]"
+    },
+    {
+      "pii": "S0040609007004142",
+      "composition": "[('HfO2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609007004142",
+      "composition": "[('ZrO2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609007004142",
+      "composition": "[('Y2O3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609007004142",
+      "composition": "[('La2O3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609007004142",
+      "composition": "[('SiO2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609007004142",
+      "composition": "[('Ga2O3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609007004142",
+      "composition": "[('SnO2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609007004142",
+      "composition": "[('In2O3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609007004142",
+      "composition": "[('ZnO', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022231313003566",
+      "composition": "[('K2YF5', 0.9, 'at'), ('Tb3+', 0.1, 'at')]"
+    },
+    {
+      "pii": "S0167577X06001327",
+      "composition": "[('Sr2CoWO6', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0167577X06001327",
+      "composition": "[('Sr2NiWO6', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0040609005022650",
+      "composition": "[('TiB2', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022309319302340",
+      "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.549, 'mol'), ('B2O3', 0.001, 'mol')]"
+    },
+    {
+      "pii": "S0022309319302340",
+      "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.547, 'mol'), ('B2O3', 0.003, 'mol')]"
+    },
+    {
+      "pii": "S0022309319302340",
+      "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.545, 'mol'), ('B2O3', 0.005, 'mol')]"
+    },
+    {
+      "pii": "S0022309319302340",
+      "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.543, 'mol'), ('B2O3', 0.007, 'mol')]"
+    },
+    {
+      "pii": "S0022309319302340",
+      "composition": "[('ZnF2', 0.15, 'mol'), ('Li2CO3', 0.12, 'mol'), ('BaO', 0.10, 'mol'), ('Al2O3', 0.08, 'mol'), ('Sm2O3', 0.539, 'mol'), ('B2O3', 0.011, 'mol')]"
+    },
+    {
+      "pii": "S0022459603005711",
+      "composition": "[('[{Cu(2,2'-bpy)}2(terephthalate)Mo4O13]', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884218313580",
+      "composition": "[('TiB2', 0.8, 'vol'), ('B4C', 0.2, 'vol')]"
+    },
+    {
+      "pii": "S0272884218313580",
+      "composition": "[('TiB2', 0.2, 'vol'), ('B4C', 0.8, 'vol')]"
+    },
+    {
+      "pii": "S0272884218313580",
+      "composition": "[('WC', , 'vol'), ('Co', 0.8, 'vol')]"
+    },
+    {
+      "pii": "S0272884218313580",
+      "composition": "[('B4C', 0.93, 'vol'), ('TiB2', 0.07, 'vol')]"
+    },
+    {
+      "pii": "S0272884218313580",
+      "composition": "[('WC', 0.9, 'vol'), ('Co', 0.1, 'vol')]"
+    },
+    {
+      "pii": "S002245962100308X",
+      "composition": "[('B2C3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S002245962100308X",
+      "composition": "[('B3C', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S002245962100308X",
+      "composition": "[('B2C', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S002245962100308X",
+      "composition": "[('BC', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S002245962100308X",
+      "composition": "[('B4C4', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0167577X05004799",
+      "composition": "[('MWCNT', 0.15, 'wt'), ('C', 0.85, 'wt')]"
+    },
+    {
+      "pii": "S0167577X05004799",
+      "composition": "[('MWCNT', 0.2, 'wt'), ('C', 0.8, 'wt')]"
+    },
+    {
+      "pii": "S0167577X05004799",
+      "composition": "[('MWCNT', 0.3, 'wt'), ('C', 0.7, 'wt')]"
+    },
+    {
+      "pii": "S0167577X05004799",
+      "composition": "[('MWCNT', 0.25, 'wt'), ('C', 0.75, 'wt')]"
+    },
+    {
+      "pii": "S0167577X05004799",
+      "composition": "[('C', 1.0, 'wt')]"
+    },
+    {
+      "pii": "S002223131300269X",
+      "composition": "[('MgO', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022369701000816",
+      "composition": "[('[(CH3)4P]2CoCl4', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022311505002096",
+      "composition": "[('UCl3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884217302894",
+      "composition": "[('DuPond 951', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884217302894",
+      "composition": "[('Ferro A6M', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884217302894",
+      "composition": "[('Heraeus CT700', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0272884217302894",
+      "composition": "[('SiO2', 0.315, 'wt'), ('B2O3', 0.070, 'wt'), ('CaO', 0.060, 'wt'), ('MgO', 0.009, 'wt'), ('Na2O', 0.013, 'wt'), ('K2O', 0.008, 'wt'), ('Al2O3', 0.525, 'wt')]"
+    },
+    {
+      "pii": "S0022311504005367",
+      "composition": "[('EUROFER', 1.0, 'wt')]"
+    },
+    {
+      "pii": "S0022311504005367",
+      "composition": "[('EUROFER', 0.99, 'wt'), ('MgAl2O4', 0.01, 'wt')]"
+    },
+    {
+      "pii": "S0022311504005367",
+      "composition": "[('EUROFER', 0.99, 'wt'), ('Y2O3', 0.01, 'wt')]"
+    },
+    {
+      "pii": "S0022459617303274",
+      "composition": "[('Eu2(SO4)3.8H2O', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022459617303274",
+      "composition": "[('Eu2(SO4)3', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022459617303274",
+      "composition": "[('Eu2O2SO4', 1.0, 'mol')]"
+    },
+    {
+      "pii": "S0022369704001908",
+      "composition": "[('Mg2SiO4', 1.0, 'mol')]"
+    }
+  ]
+}

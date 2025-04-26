@@ -1,0 +1,137 @@
+input: Ba8MTa6O24 (M = Zn, Co, Ni), Ba8M'Nb6O24 (M′ = Zn, Co, Mn, Fe), etc
+
+1. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_AdditionalGpt4Data_run_2.pt
+Generating output...
+Generated text:
+["[[('Ba', 8.0), ('MTa', 6.0), ('O', 24.0)], [('Ba', 8.0), ('Mn', 'Nb', 6.0), ('O', 24.0)]]"]
+
+2. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.pt
+Generating output...
+Generated text:
+["[[('O', 63.84), ('Ba', 7.71), ('M', 14.29), ('Nb', 14.29)]]"]
+
+3. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_OnlyEqn_AdditionalGpt4Data_run_2.pt
+Generating output...
+Generated text:
+["[[('Ba', 0.08), ('Ta', 0.06), ('O', 0.24)], [('Ba', 0.08), ('M', 0.06), ('Nb', 0.06), ('O', 0.24)]]"]
+
+4. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_OnlyEqn_run_1.pt
+Generating output...
+Generated text:
+["[[('Ba', 0.8), ('Ma', 0.6)], [('Ba', 0.8), ('M', 0.1), ('Nb', 0.6)], [('Zn', '((0.5)*(1.0))/(1.0+1.0+4)'), ('Co', '((0.5)*(1.0))/(1.0+1.0+4)'), ('Ni', '((0.5)*(1.0))/(1.0+1.0+4)')]]"]
+
+5. Model Chosen = mtp_trainClassifierWithout100_dm_vs_eqn_run1_FlanT5Large.pt
+Generating output...
+Generated text:
+['1']
+
+6. Model Chosen = mtp_trainClassifierWithout100_ratio1to6_run1_FlanT5Large.pt
+Generating output...
+Generated text:
+['1']
+
+input : Recent advances of MoO3 based materials in energy catalysis: Applications in hydrogen evolution and oxygen evolution reactions Author links open overlay panel
+Description - direct extraction with composition present
+
+1. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_AdditionalGpt4Data_run_2.pt
+Generating output...
+Generated text:
+["[[('MoO3', 66.67), ('Other"]
+
+2. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.pt
+Generating output...
+Generated text:
+["[[('O', 60.0), ('Mo', 40.0)]"]
+
+3. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_OnlyEqn_AdditionalGpt4Data_run_2.pt
+Generating output...
+Generated text:
+["[[('Mo', 0.25), ('O', 0.75)]"]
+
+4. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_OnlyEqn_run_1.pt
+Generating output...
+Generated text:
+["[[('MoO3', '(10)/(10+6+"]
+
+5. Model Chosen = mtp_trainClassifierWithout100_dm_vs_eqn_run1_FlanT5Large.pt
+Generating output...
+Generated text:
+['1']
+
+6. Model Chosen = mtp_trainClassifierWithout100_ratio1to6_run1_FlanT5Large.pt
+Generating output...
+Generated text:
+['0']
+
+input : In the present investigation, the particular glass composition 20Li2O–20PbO–45B2O3–(15 − x) P2O5: xCr2O3 (x = 0, 0.1, 0.3, 0.5, 0.8, 1.0) was chosen.
+Description - equational extraction with comp present
+
+1. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_AdditionalGpt4Data_run_2.pt
+Generating output...
+Generated text:
+["[[('Li2O', 20.0), ('B2O3'"]
+
+2. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.pt
+Generating output...
+Generated text:
+["[[('Li2O', 20.0), ('B2O3'"]
+
+3. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_OnlyEqn_AdditionalGpt4Data_run_2.pt
+Generating output...
+Generated text:
+["[[('Li2O', '(20)/(20+20"]
+
+4. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_OnlyEqn_run_1.pt
+Generating output...
+Generated text:
+["[[('Li2O', '(20)/(20+20"]
+
+5. Model Chosen = mtp_trainClassifierWithout100_dm_vs_eqn_run1_FlanT5Large.pt
+Generating output...
+Generated text:
+['0']
+
+6. Model Chosen = mtp_trainClassifierWithout100_ratio1to6_run1_FlanT5Large.pt
+Generating output...
+Generated text:
+['1']
+
+input : Hi my name is Pranav Khetarpal, I am trying to test these models for extraction and shit.
+Description - No composition
+
+1. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_AdditionalGpt4Data_run_2.pt
+Generating output...
+Generated text:
+["[[('P', 33.33), ('K', 66.67"]
+
+2. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.pt
+Generating output...
+Generated text:
+["[[('As', 24.0), ('P', 76.0)]"]
+
+3. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_OnlyEqn_AdditionalGpt4Data_run_2.pt
+Generating output...
+Generated text:
+["[[('P', '(1.0)/(1.0+1.0+1.0+"]
+
+4. Model Chosen = mtp_CompExtractor_Without100_FlanT5Large_OnlyEqn_run_1.pt
+Generating output...
+Generated text:
+["[[('Prava', '(Prava)/(Prav"]
+
+5. Model Chosen = mtp_trainClassifierWithout100_dm_vs_eqn_run1_FlanT5Large.pt
+Generating output...
+Generated text:
+['1']
+
+6. Model Chosen = mtp_trainClassifierWithout100_ratio1to6_run1_FlanT5Large.pt
+Generating output...
+Generated text:
+['0']
+
+
+
+
+
+
+//============================================ RUN 1 =========================================================//

@@ -23,83 +23,83 @@ import json
 
 
 ##################################################################################################################
-with open(os.path.join(os.path.dirname(__file__), "../prompts/fluid-context-control.txt")) as f:
-    fluid_incontext_control = f.read()
+# with open(os.path.join(os.path.dirname(__file__), "../prompts/fluid-context-control.txt")) as f:
+#     fluid_incontext_control = f.read()
 
 
-def fluid_incontext_prompts(model: str, temperature: float, in_context_examples: str, research_paper_context:str, incomplete_table: str):
-    prompt = fluid_incontext_control.replace("{{incontextExamples}}", in_context_examples)
-    prompt = prompt.replace("{{Research Paper}}", research_paper_context)
-    prompt = prompt.replace("{{Table}}", incomplete_table)
+# def fluid_incontext_prompts(model: str, temperature: float, in_context_examples: str, research_paper_context:str, incomplete_table: str):
+#     prompt = fluid_incontext_control.replace("{{incontextExamples}}", in_context_examples)
+#     prompt = prompt.replace("{{Research Paper}}", research_paper_context)
+#     prompt = prompt.replace("{{Table}}", incomplete_table)
     
-    response_text, metadata = text_completion(CompletionRequest(
-        model=model,
-        messages=[{"role": "user", "content": prompt}],
-        temperature=temperature,
-        max_tokens=2000
-    ))
+#     response_text, metadata = text_completion(CompletionRequest(
+#         model=model,
+#         messages=[{"role": "user", "content": prompt}],
+#         temperature=temperature,
+#         max_tokens=2000
+#     ))
 
-    # Clean up the response text to remove markdown code block syntax
-    if isinstance(response_text, str):
-        cleaned_response = response_text.replace('```json\n', '')
-        cleaned_response = cleaned_response.replace('```', '')
-        cleaned_response = cleaned_response.strip()
+#     # Clean up the response text to remove markdown code block syntax
+#     if isinstance(response_text, str):
+#         cleaned_response = response_text.replace('```json\n', '')
+#         cleaned_response = cleaned_response.replace('```', '')
+#         cleaned_response = cleaned_response.strip()
         
-        try:
-            # Parse and re-serialize to ensure clean JSON
-            response_json = json.loads(cleaned_response)
+#         try:
+#             # Parse and re-serialize to ensure clean JSON
+#             response_json = json.loads(cleaned_response)
             
-            # Extract relevant metadata
-            cleaned_metadata = {
-                "promptTokenCount": metadata.get("promptTokenCount", 0),
-                "candidatesTokenCount": metadata.get("candidatesTokenCount", 0),
-                "totalTokenCount": metadata.get("totalTokenCount", 0)
-            }
+#             # Extract relevant metadata
+#             cleaned_metadata = {
+#                 "promptTokenCount": metadata.get("promptTokenCount", 0),
+#                 "candidatesTokenCount": metadata.get("candidatesTokenCount", 0),
+#                 "totalTokenCount": metadata.get("totalTokenCount", 0)
+#             }
             
-            return response_json, cleaned_metadata
+#             return response_json, cleaned_metadata
             
-        except json.JSONDecodeError as e:
-            raise Exception(f"Invalid JSON response: {str(e)}")
+#         except json.JSONDecodeError as e:
+#             raise Exception(f"Invalid JSON response: {str(e)}")
     
-    return None, metadata
+#     return None, metadata
 
 
-def geminifluid_incontext_prompts(model: str, temperature: float, in_context_examples: str, research_paper_context:str, incomplete_table: str):
-    prompt = fluid_incontext_control.replace("{{incontextExamples}}", in_context_examples)
-    prompt = prompt.replace("{{Research Paper}}", research_paper_context)
-    prompt = prompt.replace("{{Table}}", incomplete_table)
+# def geminifluid_incontext_prompts(model: str, temperature: float, in_context_examples: str, research_paper_context:str, incomplete_table: str):
+#     prompt = fluid_incontext_control.replace("{{incontextExamples}}", in_context_examples)
+#     prompt = prompt.replace("{{Research Paper}}", research_paper_context)
+#     prompt = prompt.replace("{{Table}}", incomplete_table)
     
-    response_text, metadata = text_completion(CompletionRequest(
-        model=model,
-        messages=[{"role": "user", "content": prompt}],
-        temperature=temperature,
-        max_tokens=100000
-    ))
+#     response_text, metadata = text_completion(CompletionRequest(
+#         model=model,
+#         messages=[{"role": "user", "content": prompt}],
+#         temperature=temperature,
+#         max_tokens=100000
+#     ))
 
-    print(response_text)
-    # Clean up the response text to remove markdown code block syntax
-    if isinstance(response_text, str):
-        response_text = response_text.replace('```json\n', '')
-        response_text = response_text.replace('```', '')
-        response_text = response_text.strip()
+#     print(response_text)
+#     # Clean up the response text to remove markdown code block syntax
+#     if isinstance(response_text, str):
+#         response_text = response_text.replace('```json\n', '')
+#         response_text = response_text.replace('```', '')
+#         response_text = response_text.strip()
         
-        try:
-            # Parse and re-serialize to ensure clean JSON
-            response_json = json.loads(response_text)
+#         try:
+#             # Parse and re-serialize to ensure clean JSON
+#             response_json = json.loads(response_text)
             
-            # Extract relevant metadata
-            cleaned_metadata = {
-                "promptTokenCount": metadata.get("promptTokenCount", 0),
-                "candidatesTokenCount": metadata.get("candidatesTokenCount", 0),
-                "totalTokenCount": metadata.get("totalTokenCount", 0)
-            }
+#             # Extract relevant metadata
+#             cleaned_metadata = {
+#                 "promptTokenCount": metadata.get("promptTokenCount", 0),
+#                 "candidatesTokenCount": metadata.get("candidatesTokenCount", 0),
+#                 "totalTokenCount": metadata.get("totalTokenCount", 0)
+#             }
             
-            return response_json, cleaned_metadata
+#             return response_json, cleaned_metadata
             
-        except json.JSONDecodeError as e:
-            raise Exception(f"Invalid JSON response: {str(e)}")
+#         except json.JSONDecodeError as e:
+#             raise Exception(f"Invalid JSON response: {str(e)}")
     
-    return response_text, metadata
+#     return response_text, metadata
 
 
 # context = f"{research_paper_text}\n\n{research_paper_tables}"
@@ -191,43 +191,43 @@ def simple_prompt(model: str, temperature: float, prompt: str):
 # print(complete_the_table_in_context("custom/gemini-flash", 0.0, context, incomplete_table))
 # print(complete_the_table_in_context("custom/gemini-pro", 0.0, context, incomplete_table))
 
-def llamat_fluid_incontext_prompts(model: str, temperature: float, in_context_examples: str, research_paper_context:str, incomplete_table: str):
-    from .llamat_prompter import llamatPrompter
+# def llamat_fluid_incontext_prompts(model: str, temperature: float, in_context_examples: str, research_paper_context:str, incomplete_table: str):
+#     from .llamat_prompter import llamatPrompter
     
-    # Initialize the prompter
-    prompter = llamatPrompter()
+#     # Initialize the prompter
+#     prompter = llamatPrompter()
     
-    # Load the base prompt
-    with open(os.path.join(os.path.dirname(__file__), "../prompts/llamat_complete_prompt.txt")) as f:
-        base_prompt = f.read()
+#     # Load the base prompt
+#     with open(os.path.join(os.path.dirname(__file__), "../prompts/llamat_complete_prompt.txt")) as f:
+#         base_prompt = f.read()
     
-    # Replace placeholders in the prompt
-    if in_context_examples:
-        # If in-context examples are provided, include the Example Processing section
-        prompt = base_prompt.replace("{{incontextExamples}}", in_context_examples)
-    else:
-        # If no in-context examples, remove the entire Example Processing section
-        prompt = base_prompt.replace("Example Processing:\n<examples>\n{{incontextExamples}}\n</examples>\n", "")
+#     # Replace placeholders in the prompt
+#     if in_context_examples:
+#         # If in-context examples are provided, include the Example Processing section
+#         prompt = base_prompt.replace("{{incontextExamples}}", in_context_examples)
+#     else:
+#         # If no in-context examples, remove the entire Example Processing section
+#         prompt = base_prompt.replace("Example Processing:\n<examples>\n{{incontextExamples}}\n</examples>\n", "")
     
-    prompt = prompt.replace("{{Research Paper}}", research_paper_context)
-    prompt = prompt.replace("{{Table}}", incomplete_table)
+#     prompt = prompt.replace("{{Research Paper}}", research_paper_context)
+#     prompt = prompt.replace("{{Table}}", incomplete_table)
     
-    # Get response from Llamat
-    response_text = prompter(prompt)
+#     # Get response from Llamat
+#     response_text = prompter(prompt)
     
-    # Clean up the response text to remove markdown code block syntax
-    if isinstance(response_text, str):
-        response_text = response_text.replace('```json\n', '')
-        response_text = response_text.replace('```', '')
-        response_text = response_text.strip()
+#     # Clean up the response text to remove markdown code block syntax
+#     if isinstance(response_text, str):
+#         response_text = response_text.replace('```json\n', '')
+#         response_text = response_text.replace('```', '')
+#         response_text = response_text.strip()
         
-        # Since Llamat doesn't provide token counts, we'll use placeholder metadata
-        metadata = {
-            "promptTokenCount": 0,
-            "candidatesTokenCount": 0,
-            "totalTokenCount": 0
-        }
+#         # Since Llamat doesn't provide token counts, we'll use placeholder metadata
+#         metadata = {
+#             "promptTokenCount": 0,
+#             "candidatesTokenCount": 0,
+#             "totalTokenCount": 0
+#         }
         
-        return response_text, metadata
+#         return response_text, metadata
     
-    return None, {}
+#     return None, {}

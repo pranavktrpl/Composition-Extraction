@@ -1,0 +1,258 @@
+=== CODE ===
+from transformers import T5Tokenizer, T5ForConditionalGeneration
+import torch
+from datasets import Dataset
+from torch.utils.data import DataLoader
+from tqdm import tqdm
+
+
+=== CODE ===
+sentence_1 = ["input: Ba8MTa6O24 (M = Zn, Co, Ni), Ba8M'Nb6O24 (M′ = Zn, Co, Mn, Fe), etc"]
+sentence_2 = ["Recent advances of MoO3 based materials in energy catalysis: Applications in hydrogen evolution and oxygen evolution reactions Author links open overlay panel."]
+sentence_3 = ["In the present investigation, the particular glass composition 20Li2O–20PbO–45B2O3–(15 − x) P2O5: xCr2O3 (x = 0, 0.1, 0.3, 0.5, 0.8, 1.0) was chosen."]
+sentence_4 = ["Hi my name is Pranav Khetarpal, I am trying to test these models for extraction and shit."]
+
+=== CODE ===
+import re
+def regex_pattern_1(text):
+    # pattern_x = r'x\s*=\s*([\d.]+(?:[,;\s*\d.\s*and]+)*)'
+    pattern_x = r'x\s*=\s*([\d.]+(?:[,;\s*and-–]*[\d.]+)*\b)'
+    # pattern_y = r'y\s*=\s*([\d.]+(?:[,;\s*\d.\s*and]+)*)'
+    pattern_y = r'y\s*=\s*([\d.]+(?:[,;\s*and-–]*[\d.]+)*\b)'
+    # pattern_z_old = r'z\s*=\s*([\d.]+(?:[,;\s*and]*[\d.]+)*)'
+    pattern_z = r'z\s*=\s*([\d.]+(?:[,;\s*and-–]*[\d.]+)*\b)'
+    
+    # Extract all the x values from the text
+    x_values = re.findall(pattern_x, text, re.IGNORECASE)
+    y_values = re.findall(pattern_y, text, re.IGNORECASE)
+    z_values = re.findall(pattern_z, text, re.IGNORECASE)
+    
+    # print(x_values)
+    
+    # print(x_values)
+    result_list_x = []
+    result_list_y = []
+    result_list_z = []
+    
+    res = []
+    
+    if x_values:
+        for x_val in x_values:
+            x_value = x_val.strip().replace('–', ',')
+            x_value = x_value.strip().replace(';', ',')
+            x_value = x_value.strip().replace('and', ',')
+            values_list = x_value.split(',')
+            result_list_x_t = [value.strip() for value in values_list]
+            temp = []
+            for i in result_list_x_t:
+                if i.strip() and i.replace('.', '', 1).isdigit():
+                    temp.append(i)
+            result_list_x_t = temp
+            result_list_x.extend(result_list_x_t)
+
+            
+        
+    res.append(result_list_x)
+    
+    
+    if y_values:
+        for y_val in y_values:
+            y_value = y_val.strip().replace('–', ',')
+            y_value = y_value.strip().replace(';', ',')
+            y_value = y_value.strip().replace('and', ',')
+            values_list = y_value.split(',')
+            result_list_y_t = [value.strip() for value in values_list]
+
+            temp = []
+            for i in result_list_y_t:
+                if i.strip() and i.replace('.', '', 1).isdigit():
+                    temp.append(i)
+            result_list_y_t = temp
+            result_list_y.extend(result_list_y_t)
+            
+        
+    res.append(result_list_y)  
+    
+    
+    if z_values:
+        for z_val in z_values:
+            z_value = z_val.strip().replace('–', ',')
+            z_value = z_value.strip().replace(';', ',')
+            z_value = z_value.strip().replace('and', ',')
+            values_list = z_value.split(',')
+            result_list_z_t = [value.strip() for value in values_list]
+
+            temp = []
+            for i in result_list_z_t:
+                if i.strip() and i.replace('.', '', 1).isdigit():
+                    temp.append(i)
+            result_list_z_t = temp
+            result_list_z.extend(result_list_z_t)
+            
+        
+    res.append(result_list_z)
+    return res
+    
+    
+
+=== CODE ===
+rpattern_values = dict()
+
+def getXYZ(text_lst):
+    setx = set()
+    sety = set()
+    setz = set()
+    for text in text_lst:
+        rp1 = regex_pattern_1(text)
+        rp2 = [[], [], []]
+
+        # print(rp1)
+        x_lst = rp1[0]
+        y_lst = rp1[1]
+        z_lst = rp1[2]
+
+        x_new_lst = [x for x in x_lst if(float(x)<100 and float(x)>0)]
+        y_new_lst = [y for y in y_lst if(float(y)<100 and float(y)>0)]
+        z_new_lst = [z for z in z_lst if(float(z)<100 and float(z)>0)]
+    
+        rp1 = [x_new_lst, y_new_lst, z_new_lst]
+        # print(rp1)
+
+        setx.update(set(rp1[0]+rp2[0]))
+        sety.update(set(rp1[1]+rp2[1]))
+        setz.update(set(rp1[2]+rp2[2]))
+        
+    rpattern_values = [list(setx), list(sety), list(setz)]
+    return rpattern_values
+
+=== CODE ===
+getXYZ(sentence_3)
+
+# Why is 0 not being considered in the list of x's??
+
+
+=== CODE ===
+datasetVal = []
+datasetVal.extend([sentence_1, sentence_2, sentence_3, sentence_4])
+
+=== CODE ===
+MODEL_1 = 'mtp_trainClassifierWithout100_ratio1to6_run1_FlanT5Large.pt'
+compNonComp_Outputs = []
+
+=== CODE ===
+max_input_length = 700
+max_target_length = 10
+batch_size = 4
+
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+print(device)
+
+tokenizer = T5Tokenizer.from_pretrained(MODEL_1)
+
+
+def preprocessTest(examples):
+    inputs = [doc for doc in examples]
+    model_inputs = tokenizer(inputs, max_length=max_input_length, truncation=True,add_special_tokens=True,padding='max_length')
+
+    return model_inputs
+
+def generateTestOutput(model, testdata, tokenizer):
+    model.eval()
+    data = testdata['input_ids']
+    amask = testdata['attention_mask']
+    ds = Dataset.from_dict({"data":data, "attention_mask":amask}).with_format("torch")
+    dataloader = DataLoader(ds, batch_size=1, shuffle=False)
+    outputLst = []
+    
+    with torch.no_grad():
+        for i, (inputs) in enumerate(tqdm(dataloader)):
+            input_ids = inputs['data'].to(device)
+            amasks = inputs['attention_mask'].to(device)
+            # generate model outputs
+            generated_ids = model.generate(
+                input_ids = input_ids,
+                attention_mask = amasks,
+                max_new_tokens=10,
+                num_beams = 2)
+            # print(generated_ids)
+            output = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+
+            outputLst.extend(output)
+    return outputLst
+
+
+
+=== CODE ===
+model = T5ForConditionalGeneration.from_pretrained(MODEL_1).to(device)
+tokenized_datasets_val = datasetVal.map(preprocessTest, batched=True)
+compNonComp_Outputs = generateTestOutput(model, tokenized_datasets_val, tokenizer)
+
+=== CODE ===
+MODEL_2 = "mtp_trainClassifierWithout100_dm_vs_eqn_run1_FlanT5Large.pt"
+DMvsEQ_Output = []
+
+=== CODE ===
+max_input_length = 700
+max_target_length = 10
+batch_size = 4
+
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+print(device)
+
+tokenizer = T5Tokenizer.from_pretrained(MODEL_2)
+tokenized_datasets_val = datasetVal.map(preprocessTest, batched=True)
+
+model = T5ForConditionalGeneration.from_pretrained(MODEL_2).to(device)
+
+
+DMvsEQ_Output = generateTestOutput(model, tokenized_datasets_val, tokenizer)
+
+=== CODE ===
+# X_val_extract_SCC = new_df[new_df['Pred_SCC_MCC'] == 1]
+# X_val_extract_MCC = new_df[new_df['Pred_SCC_MCC'] == 0]
+
+=== CODE ===
+Model_3 = "mtp_CompExtractor_Without100_FlanT5Large_DirectMatch_run_2.pt"
+DM_Outputs = []
+
+=== CODE ===
+max_input_length = 300
+max_target_length = 800
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+print(device)
+
+tokenizer = T5Tokenizer.from_pretrained(Model_3)
+model = T5ForConditionalGeneration.from_pretrained(Model_3).to(device)
+
+def generateTestOutput(model, testdata, tokenizer):
+    model.eval()
+    data = testdata['input_ids']
+    amask = testdata['attention_mask']
+    ds = Dataset.from_dict({"data":data, "attention_mask":amask}).with_format("torch")
+    dataloader = DataLoader(ds, batch_size=8, shuffle=False)
+    outputLst =[]
+    # total_loss = 0.0
+    
+    with torch.no_grad():
+        for i, (inputs) in enumerate(tqdm(dataloader)):
+            input_ids = inputs['data'].to(device)
+            amasks = inputs['attention_mask'].to(device)
+            # generate model outputs
+            generated_ids = model.generate(
+                input_ids = input_ids,
+                attention_mask = amasks,
+                max_new_tokens=800,
+                num_beams = 1)
+            # print(generated_ids)
+            output = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+
+            outputLst.extend(output)
+    return outputLst
+
+
+DM_Outputs = generateTestOutput(model, tokenized_datasets_val, tokenizer)
+
+
+=== CODE ===
+
+
