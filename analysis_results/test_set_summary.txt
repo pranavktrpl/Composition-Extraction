@@ -1,0 +1,42 @@
+# Test Set Analysis Summary
+
+## Dataset Statistics
+- Total papers: 94
+- Total compositions: 897
+- Unique compositions: 276
+- Average compositions per paper: 9.54
+- Median compositions per paper: 6.00
+- Maximum compositions in a paper: 110
+
+## Formula Characteristics
+- Average formula length: 13.48 characters
+- Median formula length: 7.0 characters
+- Shortest formula: 1 characters
+- Longest formula: 60 characters
+
+## Top 10 Elements
+- O: 763
+- C: 186
+- Si: 184
+- Al: 160
+- B: 157
+- Mg: 132
+- Zr: 99
+- N: 90
+- L: 88
+- Ti: 84
+
+## Notation Styles
+- subscript_numbers: 655 compositions
+- decimal_subscripts: 114 compositions
+- variables: 15 compositions
+- ranges: 31 compositions
+- parentheses: 68 compositions
+- square_brackets: 8 compositions
+
+## Paper Type Distribution
+- battery_related: 16 papers
+- magnetic_materials: 26 papers
+- semiconductors: 13 papers
+- catalysts: 4 papers
+- other: 35 papers
